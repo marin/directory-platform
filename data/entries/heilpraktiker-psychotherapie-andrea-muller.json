@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-psychotherapie-andrea-muller",
+  "slug": "heilpraktiker-psychotherapie-andrea-muller",
+  "name": "Heilpraktiker Psychotherapie Andrea Müller",
+  "description": "Heilpraktiker Psychotherapie Andrea Müller ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Ulmenstraße 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12621",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.487825699999995,
+    "lng": 13.574088
+  },
+  "phone": "030283208736",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

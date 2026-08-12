@@ -1,0 +1,33 @@
+{
+  "id": "josefa-aygun-praxis-fur-psychotherapie-psychologische-beratung-coaching-heilprak",
+  "slug": "josefa-aygun-praxis-fur-psychotherapie-psychologische-beratung-coaching-heilprak",
+  "name": "Josefa Aygün - Praxis für Psychotherapie, psychologische Beratung & Coaching (Heilpraktikerin für Psychotherapie)",
+  "description": "Josefa Aygün - Praxis für Psychotherapie, psychologische Beratung & Coaching (Heilpraktikerin für Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Dieffenbachstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491326699999995,
+    "lng": 13.4190914
+  },
+  "phone": "03058581229",
+  "website": "http://www.josefa-ayguen.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/josefa-ayguen?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

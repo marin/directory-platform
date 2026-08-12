@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktikerin-helena-ahonen-ernahrungsberatung-therapie",
+  "slug": "heilpraktikerin-helena-ahonen-ernahrungsberatung-therapie",
+  "name": "Heilpraktikerin Helena Ahonen, Ernährungsberatung & -Therapie",
+  "description": "Heilpraktikerin Helena Ahonen, Ernährungsberatung & -Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Remise an der Marie",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5347077,
+    "lng": 13.4233301
+  },
+  "phone": "017628386286",
+  "email": "info@heilpraxis-ahonen.de",
+  "website": "http://www.heilpraxis-ahonen.de/",
+  "bookingUrl": "https://www.heilpraxis-ahonen.de/english/book-appointment/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

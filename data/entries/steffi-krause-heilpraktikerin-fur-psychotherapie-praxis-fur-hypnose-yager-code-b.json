@@ -1,0 +1,34 @@
+{
+  "id": "steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b",
+  "slug": "steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b",
+  "name": "Steffi Krause, Heilpraktikerin für Psychotherapie, Praxis für Hypnose & Yager-Code Berlin",
+  "description": "Steffi Krause, Heilpraktikerin für Psychotherapie, Praxis für Hypnose & Yager-Code Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Haeckelstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12487",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.439913,
+    "lng": 13.504090999999999
+  },
+  "phone": "017624635710",
+  "email": "kontakt@steffikrausehypnose.de",
+  "website": "https://www.steffikrausehypnose.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-naturheilkunde-berlin",
+  "slug": "praxis-fur-naturheilkunde-berlin",
+  "name": "Praxis für Naturheilkunde Berlin",
+  "description": "Praxis für Naturheilkunde Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Kreuzbergstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.488831999999995,
+    "lng": 13.374811
+  },
+  "phone": "03070094074",
+  "email": "info@praxis-fuer-naturheilkunde-berlin.de",
+  "website": "http://praxis-fuer-naturheilkunde-berlin.de/",
+  "bookingUrl": "http://praxis-fuer-naturheilkunde-berlin.de/praxis#50",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

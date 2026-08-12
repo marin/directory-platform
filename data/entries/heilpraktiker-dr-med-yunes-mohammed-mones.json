@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-dr-med-yunes-mohammed-mones",
+  "slug": "heilpraktiker-dr-med-yunes-mohammed-mones",
+  "name": "Heilpraktiker - Dr. med. Yunes Mohammed Mones",
+  "description": "Heilpraktiker - Dr. med. Yunes Mohammed Mones ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Weißenseer Weg 111",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10369",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.527099299999996,
+    "lng": 13.478746
+  },
+  "phone": "017645736282",
+  "email": "yunesmones@yahoo.de",
+  "website": "https://akupunkturmones.wixsite.com/akupunkturmones",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/dr-yunes-mohammed-mones",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

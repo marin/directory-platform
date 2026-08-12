@@ -1,0 +1,32 @@
+{
+  "id": "zeit-fur-gesundheit-sophia-broggi",
+  "slug": "zeit-fur-gesundheit-sophia-broggi",
+  "name": "Zeit für Gesundheit - Sophia Broggi",
+  "description": "Zeit für Gesundheit - Sophia Broggi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Buchholzer Str. 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5453585,
+    "lng": 13.4162348
+  },
+  "phone": "015209620977",
+  "email": "info@naturheilpraxis-zfg.de",
+  "website": "http://www.naturheilpraxis-zfg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

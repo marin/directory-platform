@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys",
+  "slug": "praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys",
+  "name": "Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt | Aga Hys",
+  "description": "Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt | Aga Hys ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Voigtstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.516471499999994,
+    "lng": 13.468587
+  },
+  "phone": "015150542517",
+  "email": "info@psyche-arbeitswelt.de",
+  "website": "https://www.psyche-arbeitswelt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

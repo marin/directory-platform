@@ -1,0 +1,33 @@
+{
+  "id": "ulla-blum-heilpraktikerin",
+  "slug": "ulla-blum-heilpraktikerin",
+  "name": "Ulla Blum - Heilpraktikerin",
+  "description": "Ulla Blum - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Leibnizstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.507162799999996,
+    "lng": 13.3145185
+  },
+  "phone": "03031807808",
+  "email": "tcm.qigong@ulla-blum.de",
+  "website": "http://www.ulla-blum.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

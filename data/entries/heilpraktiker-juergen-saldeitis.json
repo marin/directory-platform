@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-juergen-saldeitis",
+  "slug": "heilpraktiker-juergen-saldeitis",
+  "name": "Heilpraktiker, Juergen Saldeitis",
+  "description": "Heilpraktiker, Juergen Saldeitis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Bahnhofstraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12305",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3868826,
+    "lng": 13.406960999999999
+  },
+  "phone": "0307443001",
+  "website": "http://www.heiler-energie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

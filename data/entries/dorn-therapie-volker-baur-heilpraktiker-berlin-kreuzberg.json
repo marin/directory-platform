@@ -1,0 +1,34 @@
+{
+  "id": "dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg",
+  "slug": "dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg",
+  "name": "Dorn-Therapie Volker Baur - Heilpraktiker Berlin Kreuzberg",
+  "description": "Dorn-Therapie Volker Baur - Heilpraktiker Berlin Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Lindenstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10969",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5028619,
+    "lng": 13.395483899999999
+  },
+  "phone": "03022396582",
+  "email": "info@heilpraxis-baur.de",
+  "website": "http://www.heilpraxis-baur.de/",
+  "bookingUrl": "https://heilpraxis-baur.de/Kontakt-Impressum/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

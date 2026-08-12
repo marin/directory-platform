@@ -1,0 +1,31 @@
+{
+  "id": "naturheilkunde-in-muggelheim",
+  "slug": "naturheilkunde-in-muggelheim",
+  "name": "Naturheilkunde in Müggelheim",
+  "description": "Naturheilkunde in Müggelheim ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Gosener Damm 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12559",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.409995099999996,
+    "lng": 13.6657575
+  },
+  "phone": "015228973227",
+  "website": "http://www.naturheilkunde-in-mueggelheim.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

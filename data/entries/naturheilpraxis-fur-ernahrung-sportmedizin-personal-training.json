@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-fur-ernahrung-sportmedizin-personal-training",
+  "slug": "naturheilpraxis-fur-ernahrung-sportmedizin-personal-training",
+  "name": "Naturheilpraxis für Ernährung, Sportmedizin & Personal Training",
+  "description": "Naturheilpraxis für Ernährung, Sportmedizin & Personal Training ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Pritstabelstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4319385,
+    "lng": 13.5885751
+  },
+  "phone": "015157678444",
+  "email": "info@martina-minnich.com",
+  "website": "https://www.martina-minnich.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

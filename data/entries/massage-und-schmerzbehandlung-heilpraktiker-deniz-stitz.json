@@ -1,0 +1,33 @@
+{
+  "id": "massage-und-schmerzbehandlung-heilpraktiker-deniz-stitz",
+  "slug": "massage-und-schmerzbehandlung-heilpraktiker-deniz-stitz",
+  "name": "Massage und Schmerzbehandlung | Heilpraktiker Deniz Stitz",
+  "description": "Massage und Schmerzbehandlung | Heilpraktiker Deniz Stitz ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Erich-Weinert-Straße 138",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10409",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5436936,
+    "lng": 13.439198099999999
+  },
+  "phone": "01715671290",
+  "email": "deniz.stitz@gmx.de",
+  "website": "https://www.heilpraktiker-deniz-stitz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

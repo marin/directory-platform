@@ -1,0 +1,32 @@
+{
+  "id": "kerstin-beiersdorfer-heilpraktiker-berlin",
+  "slug": "kerstin-beiersdorfer-heilpraktiker-berlin",
+  "name": "Kerstin Beiersdorfer, Heilpraktiker Berlin",
+  "description": "Kerstin Beiersdorfer, Heilpraktiker Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Kurfürstendamm 137",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4974874,
+    "lng": 13.295261799999999
+  },
+  "phone": "01718992806",
+  "email": "beiersdorfer@gmx.com",
+  "website": "http://www.heilpraktiker-beiersdorfer.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "qi-chen-heilpraktikerin-fur-traditionelle-chinesische-medizin-und-akupunktur",
+  "slug": "qi-chen-heilpraktikerin-fur-traditionelle-chinesische-medizin-und-akupunktur",
+  "name": "Qi Chen - Heilpraktikerin für Traditionelle Chinesische Medizin und Akupunktur",
+  "description": "Qi Chen - Heilpraktikerin für Traditionelle Chinesische Medizin und Akupunktur ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Ansbacher Str. 70",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10777",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.495581099999995,
+    "lng": 13.338612699999999
+  },
+  "phone": "03080940539",
+  "email": "info@tcm-berlin-friedenau.de",
+  "website": "https://tcm-berlin-friedenau.de/",
+  "bookingUrl": "http://www.tcm-berlin-schoeneberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

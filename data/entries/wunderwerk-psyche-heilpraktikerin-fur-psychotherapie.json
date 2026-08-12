@@ -1,0 +1,32 @@
+{
+  "id": "wunderwerk-psyche-heilpraktikerin-fur-psychotherapie",
+  "slug": "wunderwerk-psyche-heilpraktikerin-fur-psychotherapie",
+  "name": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie",
+  "description": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Alt-Heiligensee 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6074348,
+    "lng": 13.2136465
+  },
+  "phone": "01604617422",
+  "website": "http://www.janka-kemper.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "neels-heilpraktikerin",
+  "slug": "neels-heilpraktikerin",
+  "name": "Neels Heilpraktikerin",
+  "description": "Neels Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "ernaehrungsberatung",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "im Meamedic Gesundheitszentrum",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.461506799999995,
+    "lng": 13.3183182
+  },
+  "phone": "03058757557",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

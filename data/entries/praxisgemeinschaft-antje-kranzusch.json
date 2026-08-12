@@ -1,0 +1,33 @@
+{
+  "id": "praxisgemeinschaft-antje-kranzusch",
+  "slug": "praxisgemeinschaft-antje-kranzusch",
+  "name": "Praxisgemeinschaft Antje Kranzusch",
+  "description": "Praxisgemeinschaft Antje Kranzusch ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Gosener Damm 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12559",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4100087,
+    "lng": 13.6657617
+  },
+  "phone": "015150490004",
+  "email": "info@emdrpraxis-berlin.de",
+  "website": "https://www.emdrpraxis-berlin.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/antje-kranzusch?pid=practice-281228",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

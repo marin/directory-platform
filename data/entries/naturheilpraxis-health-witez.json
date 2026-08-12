@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-health-witez",
+  "slug": "naturheilpraxis-health-witez",
+  "name": "Naturheilpraxis - health.witez",
+  "description": "Naturheilpraxis - health.witez ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Südwestkorso 60",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.471868,
+    "lng": 13.32039
+  },
+  "phone": "03028502911",
+  "website": "https://health.witez.net/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich",
+  "slug": "osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich",
+  "name": "Osteopathie - Physiotherapie - Heilpraktiker - Susanne Heidenreich",
+  "description": "Osteopathie - Physiotherapie - Heilpraktiker - Susanne Heidenreich ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Langhansstraße 66",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5540836,
+    "lng": 13.433765
+  },
+  "phone": "03023365170",
+  "email": "info@osteopathie-heidenreich.de",
+  "website": "http://osteopathie-heidenreich.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

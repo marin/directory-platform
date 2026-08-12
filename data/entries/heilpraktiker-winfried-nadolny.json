@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-winfried-nadolny",
+  "slug": "heilpraktiker-winfried-nadolny",
+  "name": "Heilpraktiker Winfried Nadolny",
+  "description": "Heilpraktiker Winfried Nadolny ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wilmersdorfer Str. 135",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5112351,
+    "lng": 13.3055636
+  },
+  "phone": "0303258728",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

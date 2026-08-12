@@ -1,0 +1,36 @@
+{
+  "id": "naturheilpraxis-boldt",
+  "slug": "naturheilpraxis-boldt",
+  "name": "Naturheilpraxis Boldt",
+  "description": "Naturheilpraxis Boldt ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Degnerstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13053",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.545224499999996,
+    "lng": 13.493926199999999
+  },
+  "phone": "03056588419",
+  "email": "naturheilpraxis-boldt@web.de",
+  "website": "http://www.naturheilpraxis-boldt.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-boldt?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

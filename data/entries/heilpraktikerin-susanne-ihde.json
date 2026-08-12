@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerin-susanne-ihde",
+  "slug": "heilpraktikerin-susanne-ihde",
+  "name": "Heilpraktikerin Susanne Ihde",
+  "description": "Heilpraktikerin Susanne Ihde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Kadiner Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10243",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.514945,
+    "lng": 13.4510811
+  },
+  "phone": "01774771795",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

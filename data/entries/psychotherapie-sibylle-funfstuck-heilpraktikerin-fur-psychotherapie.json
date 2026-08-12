@@ -1,0 +1,33 @@
+{
+  "id": "psychotherapie-sibylle-funfstuck-heilpraktikerin-fur-psychotherapie",
+  "slug": "psychotherapie-sibylle-funfstuck-heilpraktikerin-fur-psychotherapie",
+  "name": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie",
+  "description": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Prenzlauer Allee 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.536256699999996,
+    "lng": 13.423069
+  },
+  "phone": "017656059082",
+  "email": "info@psychotherapie5stueck.de",
+  "website": "https://www.psychotherapie5stueck.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

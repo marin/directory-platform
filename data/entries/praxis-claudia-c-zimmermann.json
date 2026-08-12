@@ -1,0 +1,32 @@
+{
+  "id": "praxis-claudia-c-zimmermann",
+  "slug": "praxis-claudia-c-zimmermann",
+  "name": "Praxis Claudia C. Zimmermann",
+  "description": "Praxis Claudia C. Zimmermann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Steglitzer Damm 67",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4499977,
+    "lng": 13.348158199999999
+  },
+  "phone": "01713262530",
+  "email": "info@claudiazimmermann.de",
+  "website": "https://claudiazimmermann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

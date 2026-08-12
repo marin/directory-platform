@@ -1,0 +1,32 @@
+{
+  "id": "praxis-homoopathie-fur-berlin-pia-monch",
+  "slug": "praxis-homoopathie-fur-berlin-pia-monch",
+  "name": "Praxis Homöopathie für Berlin Pia Mönch",
+  "description": "Praxis Homöopathie für Berlin Pia Mönch ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Böckhstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.494175,
+    "lng": 13.417809799999999
+  },
+  "phone": "03069001727",
+  "website": "http://www.homoeopathie-fuer-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

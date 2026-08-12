@@ -1,0 +1,34 @@
+{
+  "id": "uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie",
+  "slug": "uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie",
+  "name": "Uta Alves - Heilpraktikerin Psycho- Ernährungs-& FastenTherapie",
+  "description": "Uta Alves - Heilpraktikerin Psycho- Ernährungs-& FastenTherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Ströme-Institut",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.478433499999994,
+    "lng": 13.425235299999999
+  },
+  "phone": "015121680432",
+  "email": "info@uta-alves.de",
+  "website": "http://www.uta-alves.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

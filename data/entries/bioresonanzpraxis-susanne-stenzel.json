@@ -1,0 +1,31 @@
+{
+  "id": "bioresonanzpraxis-susanne-stenzel",
+  "slug": "bioresonanzpraxis-susanne-stenzel",
+  "name": "Bioresonanzpraxis Susanne Stenzel",
+  "description": "Bioresonanzpraxis Susanne Stenzel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Machnower Str. 19A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4293554,
+    "lng": 13.2569003
+  },
+  "phone": "033284289746",
+  "website": "http://www.bioresonanz-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

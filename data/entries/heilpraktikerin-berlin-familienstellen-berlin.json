@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-berlin-familienstellen-berlin",
+  "slug": "heilpraktikerin-berlin-familienstellen-berlin",
+  "name": "Heilpraktikerin Berlin Familienstellen Berlin",
+  "description": "Heilpraktikerin Berlin Familienstellen Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Meyerbeerstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.547752499999994,
+    "lng": 13.4572781
+  },
+  "phone": "03068814714",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

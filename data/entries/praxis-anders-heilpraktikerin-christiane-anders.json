@@ -1,0 +1,33 @@
+{
+  "id": "praxis-anders-heilpraktikerin-christiane-anders",
+  "slug": "praxis-anders-heilpraktikerin-christiane-anders",
+  "name": "Praxis Anders - Heilpraktikerin Christiane Anders",
+  "description": "Praxis Anders - Heilpraktikerin Christiane Anders ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Gundelfinger Str. 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.483939799999995,
+    "lng": 13.5240221
+  },
+  "phone": "03023924082",
+  "website": "http://www.praxis-anders.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christiane-anders-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

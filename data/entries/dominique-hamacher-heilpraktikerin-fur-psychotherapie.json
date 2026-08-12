@@ -1,0 +1,34 @@
+{
+  "id": "dominique-hamacher-heilpraktikerin-fur-psychotherapie",
+  "slug": "dominique-hamacher-heilpraktikerin-fur-psychotherapie",
+  "name": "Dominique Hamacher Heilpraktikerin für Psychotherapie",
+  "description": "Dominique Hamacher Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Luisenstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523083799999995,
+    "lng": 13.3797561
+  },
+  "phone": "015566282587",
+  "email": "praxis@heilpraxis-kaulsdorf.de",
+  "website": "http://www.heilpraxis-kaulsdorf.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dominique-hamacher",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

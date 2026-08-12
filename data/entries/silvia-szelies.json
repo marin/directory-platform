@@ -1,0 +1,32 @@
+{
+  "id": "silvia-szelies",
+  "slug": "silvia-szelies",
+  "name": "Silvia Szelies",
+  "description": "Silvia Szelies ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Alt-Wittenau 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.590669999999996,
+    "lng": 13.3312399
+  },
+  "phone": "03043774849",
+  "email": "silviaszelies@web.de",
+  "website": "http://www.lebenskraft-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

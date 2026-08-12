@@ -1,0 +1,31 @@
+{
+  "id": "herr-hans-gunther-schellheimer",
+  "slug": "herr-hans-gunther-schellheimer",
+  "name": "Herr Hans Günther-Schellheimer",
+  "description": "Herr Hans Günther-Schellheimer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Orankestraße 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13053",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5451894,
+    "lng": 13.4888295
+  },
+  "phone": "0309245007",
+  "website": "http://www.praxis-g-schellheimer.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

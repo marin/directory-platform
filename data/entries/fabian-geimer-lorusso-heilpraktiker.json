@@ -1,0 +1,32 @@
+{
+  "id": "fabian-geimer-lorusso-heilpraktiker",
+  "slug": "fabian-geimer-lorusso-heilpraktiker",
+  "name": "Fabian Geimer-Lorusso, Heilpraktiker",
+  "description": "Fabian Geimer-Lorusso, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486315999999995,
+    "lng": 13.435431999999999
+  },
+  "phone": "01796167814",
+  "email": "fabian.geimer@gmx.de",
+  "website": "https://www.naturheilpraxis-geimer-lorusso.de/termin-vereinbaren",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

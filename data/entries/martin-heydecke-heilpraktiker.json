@@ -1,0 +1,30 @@
+{
+  "id": "martin-heydecke-heilpraktiker",
+  "slug": "martin-heydecke-heilpraktiker",
+  "name": "Martin Heydecke Heilpraktiker",
+  "description": "Martin Heydecke Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hans-Otto-Straße 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5336771,
+    "lng": 13.4396081
+  },
+  "phone": "0304481204",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

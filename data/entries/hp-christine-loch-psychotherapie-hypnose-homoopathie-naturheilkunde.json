@@ -1,0 +1,34 @@
+{
+  "id": "hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde",
+  "slug": "hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde",
+  "name": "HP Christine Loch Psychotherapie Hypnose Homöopathie Naturheilkunde",
+  "description": "HP Christine Loch Psychotherapie Hypnose Homöopathie Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Ehrlichstraße 37",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4809451,
+    "lng": 13.5185737
+  },
+  "phone": "03056301455",
+  "website": "http://www.christineloch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

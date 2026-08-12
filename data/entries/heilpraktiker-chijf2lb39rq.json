@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-chijf2lb39rq",
+  "slug": "heilpraktiker-chijf2lb39rq",
+  "name": "Heilpraktiker",
+  "description": "Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Fredericiastraße 9a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14050",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5110495,
+    "lng": 13.280031699999999
+  },
+  "phone": "03034396670",
+  "email": "info@balance-work.com",
+  "website": "http://www.balance-work.com/kontakt/kontakt.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

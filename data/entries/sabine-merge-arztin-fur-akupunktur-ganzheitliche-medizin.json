@@ -1,0 +1,33 @@
+{
+  "id": "sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin",
+  "slug": "sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin",
+  "name": "Sabine Merge Ärztin für Akupunktur & ganzheitliche Medizin",
+  "description": "Sabine Merge Ärztin für Akupunktur & ganzheitliche Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Holbeinstraße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4405976,
+    "lng": 13.308678899999999
+  },
+  "phone": "03084314439",
+  "website": "http://akupunktur-dr.berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

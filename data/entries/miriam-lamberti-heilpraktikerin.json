@@ -1,0 +1,30 @@
+{
+  "id": "miriam-lamberti-heilpraktikerin",
+  "slug": "miriam-lamberti-heilpraktikerin",
+  "name": "Miriam Lamberti Heilpraktikerin",
+  "description": "Miriam Lamberti Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Solmsstraße 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4940328,
+    "lng": 13.393587499999999
+  },
+  "phone": "03069503020",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

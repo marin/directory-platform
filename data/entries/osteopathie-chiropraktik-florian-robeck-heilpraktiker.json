@@ -1,0 +1,34 @@
+{
+  "id": "osteopathie-chiropraktik-florian-robeck-heilpraktiker",
+  "slug": "osteopathie-chiropraktik-florian-robeck-heilpraktiker",
+  "name": "Osteopathie & Chiropraktik - Florian Robeck (Heilpraktiker)",
+  "description": "Osteopathie & Chiropraktik - Florian Robeck (Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Clausewitzstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5014665,
+    "lng": 13.3091279
+  },
+  "phone": "015561097799",
+  "email": "ocflorian.robeck@gmail.com",
+  "website": "https://www.praxis-robeck.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/florian-robeck",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

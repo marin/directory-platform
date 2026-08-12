@@ -1,0 +1,32 @@
+{
+  "id": "stephanie-barette-heilpraktikerin-fur-psychotherapie",
+  "slug": "stephanie-barette-heilpraktikerin-fur-psychotherapie",
+  "name": "Stephanie Barette – Heilpraktikerin für Psychotherapie",
+  "description": "Stephanie Barette – Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Köpenicker Ch 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10317",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.484612399999996,
+    "lng": 13.500016599999999
+  },
+  "phone": "017670041812",
+  "website": "http://stephanie-barette.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

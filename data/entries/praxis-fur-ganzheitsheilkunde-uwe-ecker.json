@@ -1,0 +1,37 @@
+{
+  "id": "praxis-fur-ganzheitsheilkunde-uwe-ecker",
+  "slug": "praxis-fur-ganzheitsheilkunde-uwe-ecker",
+  "name": "Praxis für Ganzheitsheilkunde Uwe Ecker",
+  "description": "Praxis für Ganzheitsheilkunde Uwe Ecker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "akupunktur-tcm",
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pasteurstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5339621,
+    "lng": 13.4317484
+  },
+  "phone": "0304212598",
+  "website": "http://www.naturheilkunde-psychotherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

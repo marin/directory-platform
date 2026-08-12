@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-yoga-nele-schluter",
+  "slug": "heilpraxis-yoga-nele-schluter",
+  "name": "Heilpraxis & Yoga Nele Schlüter",
+  "description": "Heilpraxis & Yoga Nele Schlüter ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Martin-Luther-Straße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6119871,
+    "lng": 13.2945765
+  },
+  "phone": "03028873439",
+  "email": "neleschlueter@gmx.de",
+  "website": "http://heilpraxis-schlueter.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kathlin-kastilan-heilpraktikerin",
+  "slug": "kathlin-kastilan-heilpraktikerin",
+  "name": "Kathlin Kastilan Heilpraktikerin",
+  "description": "Kathlin Kastilan Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Heesestraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.455758599999996,
+    "lng": 13.3261404
+  },
+  "phone": "03077208321",
+  "website": "http://www.bioenergetische-heilarbeit.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/kathlin-kastilan?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

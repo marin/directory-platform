@@ -1,0 +1,32 @@
+{
+  "id": "celdrik-w-dahmer-heilpraktiker-und-physiotherapeut",
+  "slug": "celdrik-w-dahmer-heilpraktiker-und-physiotherapeut",
+  "name": "Celdrik W. Dahmer Heilpraktiker und Physiotherapeut",
+  "description": "Celdrik W. Dahmer Heilpraktiker und Physiotherapeut ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Fregestraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.469634799999994,
+    "lng": 13.336996599999999
+  },
+  "phone": "03033914233",
+  "website": "https://www.jameda.de/celdrik-w-mette/heilpraktiker-physiotherapeut/berlin",
+  "bookingUrl": "https://www.jameda.de/celdrik-w-mette/heilpraktiker/berlin#address-id=%5B453350%5D&filters%5Bservices%5D%5B%5D=293",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

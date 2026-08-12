@@ -1,0 +1,34 @@
+{
+  "id": "manuel-glasl-heilpraktiker-fur-psychotherapie",
+  "slug": "manuel-glasl-heilpraktiker-fur-psychotherapie",
+  "name": "Manuel Glasl - Heilpraktiker für Psychotherapie",
+  "description": "Manuel Glasl - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kadettenweg 62",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4352009,
+    "lng": 13.298744899999999
+  },
+  "phone": "03027992980",
+  "email": "praxis@manuelglasl.com",
+  "website": "https://manuelglasl.com/",
+  "bookingUrl": "https://www.manuelglasl.com/book-online",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

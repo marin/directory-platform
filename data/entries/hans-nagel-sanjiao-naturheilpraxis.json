@@ -1,0 +1,31 @@
+{
+  "id": "hans-nagel-sanjiao-naturheilpraxis",
+  "slug": "hans-nagel-sanjiao-naturheilpraxis",
+  "name": "Hans Nagel - Sanjiao Naturheilpraxis",
+  "description": "Hans Nagel - Sanjiao Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Richardstraße 108",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12043",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.478339999999996,
+    "lng": 13.439229899999999
+  },
+  "email": "hans.sanjiao@posteo.de",
+  "website": "https://www.sanjiao-naturheilpraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

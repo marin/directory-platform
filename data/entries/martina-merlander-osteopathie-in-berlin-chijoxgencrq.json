@@ -1,0 +1,32 @@
+{
+  "id": "martina-merlander-osteopathie-in-berlin-chijoxgencrq",
+  "slug": "martina-merlander-osteopathie-in-berlin-chijoxgencrq",
+  "name": "Martina Merländer - OSTEOPATHIE in Berlin",
+  "description": "Martina Merländer - OSTEOPATHIE in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Reichsstraße 93",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.513377399999996,
+    "lng": 13.2651638
+  },
+  "phone": "0303015772",
+  "email": "info@chisanatura.de",
+  "website": "http://www.martina-merlaender.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

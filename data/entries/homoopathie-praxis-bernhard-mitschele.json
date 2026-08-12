@@ -1,0 +1,33 @@
+{
+  "id": "homoopathie-praxis-bernhard-mitschele",
+  "slug": "homoopathie-praxis-bernhard-mitschele",
+  "name": "Homöopathie-Praxis Bernhard Mitschele",
+  "description": "Homöopathie-Praxis Bernhard Mitschele ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Genter Str. 63",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13353",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.548441999999994,
+    "lng": 13.351222
+  },
+  "phone": "03091535510",
+  "website": "http://www.xn--homopathie-naturheilkunde-0rc.com/de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernhard-mitschele?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

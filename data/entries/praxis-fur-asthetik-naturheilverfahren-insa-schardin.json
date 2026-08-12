@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-asthetik-naturheilverfahren-insa-schardin",
+  "slug": "praxis-fur-asthetik-naturheilverfahren-insa-schardin",
+  "name": "Praxis für Ästhetik & Naturheilverfahren Insa Schardin",
+  "description": "Praxis für Ästhetik & Naturheilverfahren Insa Schardin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Kurfürstendamm 137",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4975107,
+    "lng": 13.2952321
+  },
+  "phone": "03089009674",
+  "website": "http://www.mesotherapie-berlin-schardin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

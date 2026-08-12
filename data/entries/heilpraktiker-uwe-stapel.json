@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-uwe-stapel",
+  "slug": "heilpraktiker-uwe-stapel",
+  "name": "Heilpraktiker Uwe Stapel",
+  "description": "Heilpraktiker Uwe Stapel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Stillerzeile 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4561104,
+    "lng": 13.616506999999999
+  },
+  "phone": "0305667704",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

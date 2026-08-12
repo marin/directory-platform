@@ -1,0 +1,32 @@
+{
+  "id": "corpu-sano-walid-ehrenkonig",
+  "slug": "corpu-sano-walid-ehrenkonig",
+  "name": "Corpu Sano - Walid Ehrenkönig",
+  "description": "Corpu Sano - Walid Ehrenkönig ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Eisenzahnstraße 11-14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10709",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4956246,
+    "lng": 13.3047402
+  },
+  "email": "w.temiaa@corpusano.de",
+  "website": "http://corpusano.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

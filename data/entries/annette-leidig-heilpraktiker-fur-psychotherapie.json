@@ -1,0 +1,33 @@
+{
+  "id": "annette-leidig-heilpraktiker-fur-psychotherapie",
+  "slug": "annette-leidig-heilpraktiker-fur-psychotherapie",
+  "name": "Annette Leidig, Heilpraktiker für Psychotherapie",
+  "description": "Annette Leidig, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wundtstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.511887699999996,
+    "lng": 13.293197099999999
+  },
+  "phone": "017664683111",
+  "website": "https://www.annetteleidigpsychotherapie.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/annette-leidig?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

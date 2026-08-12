@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-marco-kunze",
+  "slug": "heilpraktiker-fur-psychotherapie-marco-kunze",
+  "name": "Heilpraktiker für Psychotherapie Marco Kunze",
+  "description": "Heilpraktiker für Psychotherapie Marco Kunze ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Konstanzer Str. 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4943184,
+    "lng": 13.310186
+  },
+  "phone": "017632210052",
+  "website": "https://www.praxis-kunze.net/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

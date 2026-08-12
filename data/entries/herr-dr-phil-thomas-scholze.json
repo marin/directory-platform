@@ -1,0 +1,32 @@
+{
+  "id": "herr-dr-phil-thomas-scholze",
+  "slug": "herr-dr-phil-thomas-scholze",
+  "name": "Herr Dr. phil. Thomas Scholze",
+  "description": "Herr Dr. phil. Thomas Scholze ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Eichbergstraße 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4382114,
+    "lng": 13.7172935
+  },
+  "phone": "0306485447",
+  "email": "naturheilpraxis.dr.scholze@freenet.de",
+  "website": "http://www.implantat-akupunktur.berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

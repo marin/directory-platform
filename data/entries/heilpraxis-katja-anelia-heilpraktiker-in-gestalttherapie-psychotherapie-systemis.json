@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis",
+  "slug": "heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis",
+  "name": "Heilpraxis Katja Anelia - Heilpraktiker:in | Gestalttherapie | Psychotherapie | Systemisches Coaching | Berlin & online",
+  "description": "Heilpraxis Katja Anelia - Heilpraktiker:in | Gestalttherapie | Psychotherapie | Systemisches Coaching | Berlin & online ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Zeppelinstraße 79",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12459",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.465998899999995,
+    "lng": 13.5187408
+  },
+  "email": "info@katjaanelia.com",
+  "website": "https://www.katjaanelia.com/",
+  "bookingUrl": "https://calendly.com/katjaanelia/free-intro-call",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

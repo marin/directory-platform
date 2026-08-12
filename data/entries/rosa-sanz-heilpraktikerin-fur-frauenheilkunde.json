@@ -1,0 +1,32 @@
+{
+  "id": "rosa-sanz-heilpraktikerin-fur-frauenheilkunde",
+  "slug": "rosa-sanz-heilpraktikerin-fur-frauenheilkunde",
+  "name": "Rosa Sanz Heilpraktikerin für Frauenheilkunde",
+  "description": "Rosa Sanz Heilpraktikerin für Frauenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 84",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.507698399999995,
+    "lng": 13.3090393
+  },
+  "phone": "015754426326",
+  "email": "kontakt@rosasanz.de",
+  "website": "https://www.rosasanz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

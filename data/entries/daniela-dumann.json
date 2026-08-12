@@ -1,0 +1,32 @@
+{
+  "id": "daniela-dumann",
+  "slug": "daniela-dumann",
+  "name": "Daniela Dumann",
+  "description": "Daniela Dumann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Nithackstraße 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.518929299999996,
+    "lng": 13.2986296
+  },
+  "phone": "03036430358",
+  "email": "praxis@danieladumann.de",
+  "website": "https://www.danieladumann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

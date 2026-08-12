@@ -1,0 +1,33 @@
+{
+  "id": "lea-pielock-heilpraktikerin-coaching-osteopathie-healings",
+  "slug": "lea-pielock-heilpraktikerin-coaching-osteopathie-healings",
+  "name": "Lea Pielock, Heilpraktikerin | Coaching | Osteopathie | Healings |",
+  "description": "Lea Pielock, Heilpraktikerin | Coaching | Osteopathie | Healings | ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Schopenhauerstraße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.436855099999995,
+    "lng": 13.217782399999999
+  },
+  "phone": "017652852786",
+  "website": "https://www.lea-pielock.de/",
+  "bookingUrl": "https://www.terminland.de/bewegungsreich-schlachtensee/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

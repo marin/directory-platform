@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-koberle",
+  "slug": "naturheilpraxis-koberle",
+  "name": "Naturheilpraxis Köberle",
+  "description": "Naturheilpraxis Köberle ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Gounodstraße 20",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5458603,
+    "lng": 13.4545693
+  },
+  "phone": "017622019200",
+  "website": "http://www.naturheilpraxis-koeberle.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

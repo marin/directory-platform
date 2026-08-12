@@ -1,0 +1,31 @@
+{
+  "id": "katja-herholz-naturheilpraxis",
+  "slug": "katja-herholz-naturheilpraxis",
+  "name": "Katja Herholz Naturheilpraxis",
+  "description": "Katja Herholz Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Goethestraße 58",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5086851,
+    "lng": 13.312233899999999
+  },
+  "phone": "01745954915",
+  "website": "http://naturheilpraxisherholz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

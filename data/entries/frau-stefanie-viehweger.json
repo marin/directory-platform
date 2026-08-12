@@ -1,0 +1,30 @@
+{
+  "id": "frau-stefanie-viehweger",
+  "slug": "frau-stefanie-viehweger",
+  "name": "Frau Stefanie Viehweger",
+  "description": "Frau Stefanie Viehweger ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Friedrich-Engels-Straße 20",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.581575,
+    "lng": 13.3943967
+  },
+  "phone": "03047757733",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

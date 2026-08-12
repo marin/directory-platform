@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-deckert",
+  "slug": "heilpraxis-deckert",
+  "name": "Heilpraxis Deckert",
+  "description": "Heilpraxis Deckert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Witzlebenstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5064315,
+    "lng": 13.2926063
+  },
+  "phone": "03033008640",
+  "email": "kontakt@heilverfahren-berlin.de",
+  "website": "http://www.heilverfahren-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

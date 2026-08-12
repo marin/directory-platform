@@ -1,0 +1,38 @@
+{
+  "id": "heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren",
+  "slug": "heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren",
+  "name": "Heilpraktiker Jan Dunkel - Ganzheitliche Chiropraktik und Naturheilverfahren",
+  "description": "Heilpraktiker Jan Dunkel - Ganzheitliche Chiropraktik und Naturheilverfahren ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "akupunktur-tcm",
+    "psychotherapie",
+    "hypnose",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Klosterstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13581",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5319516,
+    "lng": 13.1977405
+  },
+  "phone": "01785348126",
+  "email": "info@gesundsein-bewusstsein.de",
+  "website": "https://www.gesundsein-bewusstsein.de/",
+  "bookingUrl": "https://www.doctolib.de/chiropraktik/berlin/jan-dunkel?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

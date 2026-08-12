@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-heilpraktiker-in-berlin-chijdziwwszj",
+  "slug": "heilpraxis-heilpraktiker-in-berlin-chijdziwwszj",
+  "name": "Heilpraxis, Heilpraktiker in Berlin",
+  "description": "Heilpraxis, Heilpraktiker in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Werbellinstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.484663399999995,
+    "lng": 13.6000769
+  },
+  "phone": "015906604884",
+  "email": "robert@broofa.com",
+  "website": "https://www.youtube.com/results?search_query=heilpraktikerin+ulrike+rose",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

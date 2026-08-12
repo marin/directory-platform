@@ -1,0 +1,32 @@
+{
+  "id": "soraya-hoppe-heilpraktikerin",
+  "slug": "soraya-hoppe-heilpraktikerin",
+  "name": "Soraya Hoppe | Heilpraktikerin",
+  "description": "Soraya Hoppe | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Heilpraxis – Praxisgemeinschaft für Naturheilverfahren",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491711599999995,
+    "lng": 13.4193818
+  },
+  "phone": "017624824828",
+  "website": "https://sorayahoppe.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/soraya-hoppe?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

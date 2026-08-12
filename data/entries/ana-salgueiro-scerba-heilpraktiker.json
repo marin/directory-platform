@@ -1,0 +1,31 @@
+{
+  "id": "ana-salgueiro-scerba-heilpraktiker",
+  "slug": "ana-salgueiro-scerba-heilpraktiker",
+  "name": "Ana Salgueiro Scerba, Heilpraktiker",
+  "description": "Ana Salgueiro Scerba, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Lepsiusstraße 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4614937,
+    "lng": 13.3186058
+  },
+  "email": "kundenservice@jameda.de",
+  "website": "https://www.jameda.de/ana-salgueiro-scerba/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=2656&utm_content=website",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

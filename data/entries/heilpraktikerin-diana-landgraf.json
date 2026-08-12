@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-diana-landgraf",
+  "slug": "heilpraktikerin-diana-landgraf",
+  "name": "Heilpraktikerin Diana Landgraf",
+  "description": "Heilpraktikerin Diana Landgraf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Niedstraße 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.472246899999995,
+    "lng": 13.3311572
+  },
+  "phone": "01723669913",
+  "website": "https://www.instagram.com/heilpraktiker_landgraf_berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

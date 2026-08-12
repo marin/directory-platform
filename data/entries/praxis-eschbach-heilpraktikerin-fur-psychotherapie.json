@@ -1,0 +1,33 @@
+{
+  "id": "praxis-eschbach-heilpraktikerin-fur-psychotherapie",
+  "slug": "praxis-eschbach-heilpraktikerin-fur-psychotherapie",
+  "name": "Praxis Eschbach Heilpraktikerin für Psychotherapie",
+  "description": "Praxis Eschbach Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Potsdamer Str. 37",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.434607,
+    "lng": 13.2504107
+  },
+  "phone": "015737959740",
+  "email": "info@praxis-eschbach.de",
+  "website": "http://www.praxis-eschbach.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

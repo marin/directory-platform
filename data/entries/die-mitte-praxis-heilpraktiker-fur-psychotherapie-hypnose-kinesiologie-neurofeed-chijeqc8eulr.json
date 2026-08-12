@@ -1,0 +1,34 @@
+{
+  "id": "die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed-chijeqc8eulr",
+  "slug": "die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed-chijeqc8eulr",
+  "name": "Die Mitte Praxis - Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie, Neurofeedback in Berlin Mitte",
+  "description": "Die Mitte Praxis - Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie, Neurofeedback in Berlin Mitte ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Linienstraße 130/2. Hinterhof",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5270612,
+    "lng": 13.3887787
+  },
+  "phone": "03027583216",
+  "email": "kontakt@boettiger-psychotherapie.de",
+  "website": "https://www.mitte-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

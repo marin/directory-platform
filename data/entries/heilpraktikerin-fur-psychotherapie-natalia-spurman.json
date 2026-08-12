@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-natalia-spurman",
+  "slug": "heilpraktikerin-fur-psychotherapie-natalia-spurman",
+  "name": "Heilpraktikerin für Psychotherapie, Natalia Spurman",
+  "description": "Heilpraktikerin für Psychotherapie, Natalia Spurman ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.54202,
+    "lng": 13.4171301
+  },
+  "phone": "015730208093",
+  "website": "https://spurman-psychotherapie.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/natalia-spurman",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

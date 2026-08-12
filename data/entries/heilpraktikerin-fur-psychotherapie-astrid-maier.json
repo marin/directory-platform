@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-astrid-maier",
+  "slug": "heilpraktikerin-fur-psychotherapie-astrid-maier",
+  "name": "Heilpraktikerin für Psychotherapie Astrid Maier",
+  "description": "Heilpraktikerin für Psychotherapie Astrid Maier ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Dietzgenstraße 103a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13158",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5915458,
+    "lng": 13.4020976
+  },
+  "phone": "015209949081",
+  "website": "http://www.reiki-psychotherapie-astrid-maier.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

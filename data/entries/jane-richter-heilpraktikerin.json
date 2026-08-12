@@ -1,0 +1,30 @@
+{
+  "id": "jane-richter-heilpraktikerin",
+  "slug": "jane-richter-heilpraktikerin",
+  "name": "Jane Richter Heilpraktikerin",
+  "description": "Jane Richter Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Hektorstraße 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4996,
+    "lng": 13.297239999999999
+  },
+  "phone": "03032766010",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

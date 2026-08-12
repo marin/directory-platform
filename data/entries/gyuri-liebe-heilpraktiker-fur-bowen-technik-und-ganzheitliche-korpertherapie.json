@@ -1,0 +1,30 @@
+{
+  "id": "gyuri-liebe-heilpraktiker-fur-bowen-technik-und-ganzheitliche-korpertherapie",
+  "slug": "gyuri-liebe-heilpraktiker-fur-bowen-technik-und-ganzheitliche-korpertherapie",
+  "name": "Gyuri Liebe, Heilpraktiker für Bowen Technik und ganzheitliche Körpertherapie",
+  "description": "Gyuri Liebe, Heilpraktiker für Bowen Technik und ganzheitliche Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Danziger Str. 219",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5290416,
+    "lng": 13.4453763
+  },
+  "phone": "01786935741",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

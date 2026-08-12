@@ -1,0 +1,34 @@
+{
+  "id": "dipl-chirop-osteopath-hp-rene-reissmann-chijf5jxjplu",
+  "slug": "dipl-chirop-osteopath-hp-rene-reissmann-chijf5jxjplu",
+  "name": "Dipl. Chirop.-Osteopath HP. René Reissmann",
+  "description": "Dipl. Chirop.-Osteopath HP. René Reissmann ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Berliner Str. 139",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6135799,
+    "lng": 13.3155103
+  },
+  "phone": "0304044114",
+  "email": "info@cs-fahrzeugtechnik.de",
+  "website": "http://www.praxis-reissmann.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/rene-reissmann",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

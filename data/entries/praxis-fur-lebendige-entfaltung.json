@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-lebendige-entfaltung",
+  "slug": "praxis-fur-lebendige-entfaltung",
+  "name": "Praxis für Lebendige Entfaltung",
+  "description": "Praxis für Lebendige Entfaltung ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Frankfurter Allee 191",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10365",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.512550999999995,
+    "lng": 13.488453
+  },
+  "phone": "03057799277",
+  "website": "https://lebendige-entfaltung.de/",
+  "bookingUrl": "https://search.google.com/local/posts?q=Praxis+f%C3%BCr+Lebendige+Entfaltung+Frankfurter+Allee+191&ludocid=16429197718129505694#lkt=LocalPoiPosts&lpstate=pid:3310939663336840198&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:16429197718129505694",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

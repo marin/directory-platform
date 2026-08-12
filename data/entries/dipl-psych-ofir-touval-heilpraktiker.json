@@ -1,0 +1,31 @@
+{
+  "id": "dipl-psych-ofir-touval-heilpraktiker",
+  "slug": "dipl-psych-ofir-touval-heilpraktiker",
+  "name": "Dipl.-Psych. Ofir Touval Heilpraktiker",
+  "description": "Dipl.-Psych. Ofir Touval Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Leipziger Str. 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.510269099999995,
+    "lng": 13.3959321
+  },
+  "phone": "03025924314",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

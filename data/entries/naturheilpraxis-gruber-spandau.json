@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-gruber-spandau",
+  "slug": "naturheilpraxis-gruber-spandau",
+  "name": "Naturheilpraxis Gruber - Spandau",
+  "description": "Naturheilpraxis Gruber - Spandau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Zeppelinstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13583",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5460839,
+    "lng": 13.1840932
+  },
+  "phone": "03039793766",
+  "email": "praxis@wir-sind-gesund.de",
+  "website": "https://wir-sind-gesund.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

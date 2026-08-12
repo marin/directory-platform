@@ -1,0 +1,32 @@
+{
+  "id": "mariposa-heilpraxis-berlin-heilpraktikerin-lisa-carral-linares",
+  "slug": "mariposa-heilpraxis-berlin-heilpraktikerin-lisa-carral-linares",
+  "name": "Mariposa Heilpraxis Berlin Heilpraktikerin Lisa Carral Linares",
+  "description": "Mariposa Heilpraxis Berlin Heilpraktikerin Lisa Carral Linares ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kastanienallee 83",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.537266599999995,
+    "lng": 13.4087356
+  },
+  "phone": "017621695980",
+  "email": "praxismariposa@gmail.com",
+  "website": "https://www.praxis-mariposa.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

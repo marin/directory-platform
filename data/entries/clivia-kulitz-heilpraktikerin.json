@@ -1,0 +1,30 @@
+{
+  "id": "clivia-kulitz-heilpraktikerin",
+  "slug": "clivia-kulitz-heilpraktikerin",
+  "name": "Clivia Kulitz Heilpraktikerin",
+  "description": "Clivia Kulitz Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Bruchwitzstraße 29a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4368288,
+    "lng": 13.3486848
+  },
+  "phone": "0307741186",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kathleen-hilsing-heilpraktiker",
+  "slug": "kathleen-hilsing-heilpraktiker",
+  "name": "Kathleen Hilsing, Heilpraktiker",
+  "description": "Kathleen Hilsing, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Mommsenstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5031957,
+    "lng": 13.3205909
+  },
+  "phone": "01776433824",
+  "website": "http://www.akupunkturpraxis-hilsing.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

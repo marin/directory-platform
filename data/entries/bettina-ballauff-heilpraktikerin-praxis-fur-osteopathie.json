@@ -1,0 +1,33 @@
+{
+  "id": "bettina-ballauff-heilpraktikerin-praxis-fur-osteopathie",
+  "slug": "bettina-ballauff-heilpraktikerin-praxis-fur-osteopathie",
+  "name": "Bettina Ballauff \"Heilpraktikerin\" Praxis für Osteopathie",
+  "description": "Bettina Ballauff \"Heilpraktikerin\" Praxis für Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Stubenrauchstraße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4744277,
+    "lng": 13.324427499999999
+  },
+  "phone": "01784186814",
+  "email": "osteopathie@ballauff.info",
+  "website": "https://www.osteopathie-berlin-friedenau.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

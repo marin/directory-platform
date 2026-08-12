@@ -1,0 +1,32 @@
+{
+  "id": "silvia-pawelzik-heilpraktikerin",
+  "slug": "silvia-pawelzik-heilpraktikerin",
+  "name": "Silvia Pawelzik - Heilpraktikerin",
+  "description": "Silvia Pawelzik - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Hauptstraße 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.481499299999996,
+    "lng": 13.347646099999999
+  },
+  "phone": "03078715335",
+  "email": "naturpawelzik@gmx.de",
+  "website": "http://www.naturpawelzik.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

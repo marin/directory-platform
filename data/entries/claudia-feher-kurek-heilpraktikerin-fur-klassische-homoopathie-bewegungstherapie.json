@@ -1,0 +1,33 @@
+{
+  "id": "claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie",
+  "slug": "claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie",
+  "name": "Claudia Fehér-Kurek Heilpraktikerin für Klassische Homöopathie & Bewegungstherapie",
+  "description": "Claudia Fehér-Kurek Heilpraktikerin für Klassische Homöopathie & Bewegungstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Greifenhagener Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5483884,
+    "lng": 13.4156436
+  },
+  "phone": "03023901522",
+  "website": "http://feher-kurek-homoeopathie.berlin/",
+  "bookingUrl": "https://feherkurekhomoeopathieberlin.simplybook.it/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

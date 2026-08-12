@@ -1,0 +1,30 @@
+{
+  "id": "sybille-rebner",
+  "slug": "sybille-rebner",
+  "name": "Sybille Rebner",
+  "description": "Sybille Rebner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Graefestraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.495238,
+    "lng": 13.4188554
+  },
+  "phone": "0303240634",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

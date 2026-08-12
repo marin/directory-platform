@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-yvonne-janitza",
+  "slug": "heilpraktikerin-yvonne-janitza",
+  "name": "Heilpraktikerin Yvonne Janitza",
+  "description": "Heilpraktikerin Yvonne Janitza ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Seelingstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.515317599999996,
+    "lng": 13.291885899999999
+  },
+  "phone": "03012094656",
+  "website": "http://www.yvonne-janitza.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

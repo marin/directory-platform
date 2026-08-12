@@ -1,0 +1,30 @@
+{
+  "id": "almut-gerstmeier",
+  "slug": "almut-gerstmeier",
+  "name": "Almut Gerstmeier",
+  "description": "Almut Gerstmeier ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Goldammerstraße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12351",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4312731,
+    "lng": 13.4722166
+  },
+  "phone": "0306034075",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

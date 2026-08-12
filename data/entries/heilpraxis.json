@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis",
+  "slug": "heilpraxis",
+  "name": "Heilpraxis",
+  "description": "Heilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Stahlheimer Str. 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.550303,
+    "lng": 13.422096699999999
+  },
+  "phone": "03089564951",
+  "website": "http://www.tcm-ella-pathak.de/kontakt-anfahrt.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

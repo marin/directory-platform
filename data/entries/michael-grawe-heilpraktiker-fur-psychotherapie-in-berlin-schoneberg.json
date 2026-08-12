@@ -1,0 +1,33 @@
+{
+  "id": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg",
+  "slug": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg",
+  "name": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg",
+  "description": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Regensburger Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10777",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4961166,
+    "lng": 13.3379453
+  },
+  "phone": "0303967024",
+  "email": "chassmann@gmx.de",
+  "website": "http://www.psychotherapie-hypnose.net/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

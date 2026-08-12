@@ -1,0 +1,31 @@
+{
+  "id": "corinna-plass",
+  "slug": "corinna-plass",
+  "name": "Corinna Plaß",
+  "description": "Corinna Plaß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Waltersdorfer Ch 87",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12355",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4101952,
+    "lng": 13.505343199999999
+  },
+  "phone": "03023475781",
+  "website": "http://xn--gesund-vitalundschn-76b.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

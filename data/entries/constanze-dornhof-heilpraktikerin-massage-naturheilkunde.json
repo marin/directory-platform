@@ -1,0 +1,32 @@
+{
+  "id": "constanze-dornhof-heilpraktikerin-massage-naturheilkunde",
+  "slug": "constanze-dornhof-heilpraktikerin-massage-naturheilkunde",
+  "name": "Constanze Dornhof, Heilpraktikerin - Massage & Naturheilkunde",
+  "description": "Constanze Dornhof, Heilpraktikerin - Massage & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Florastraße 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5661555,
+    "lng": 13.409225699999999
+  },
+  "phone": "03047553495",
+  "email": "natur-dornhof@posteo.de",
+  "website": "https://www.naturgesundheit-dornhof.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

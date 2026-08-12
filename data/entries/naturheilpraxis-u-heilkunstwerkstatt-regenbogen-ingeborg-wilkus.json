@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-u-heilkunstwerkstatt-regenbogen-ingeborg-wilkus",
+  "slug": "naturheilpraxis-u-heilkunstwerkstatt-regenbogen-ingeborg-wilkus",
+  "name": "Naturheilpraxis u. Heilkunstwerkstatt Regenbogen Ingeborg Wilkus",
+  "description": "Naturheilpraxis u. Heilkunstwerkstatt Regenbogen Ingeborg Wilkus ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Schöllkrautstraße 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6167066,
+    "lng": 13.2375735
+  },
+  "phone": "03025097527",
+  "website": "http://www.regenbogensonne.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

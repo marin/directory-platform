@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-homoopathie-in-berlin-treptow-kopenick-heilpraktikerin-heike-gabriel",
+  "slug": "praxis-fur-homoopathie-in-berlin-treptow-kopenick-heilpraktikerin-heike-gabriel",
+  "name": "Praxis für Homöopathie in Berlin Treptow / Köpenick - Heilpraktikerin Heike Gabriel",
+  "description": "Praxis für Homöopathie in Berlin Treptow / Köpenick - Heilpraktikerin Heike Gabriel ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Behringstraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.465812799999995,
+    "lng": 13.4903564
+  },
+  "phone": "015141220865",
+  "email": "betreuung.info@gmx.de",
+  "website": "https://www.naturheilpraxis-homoeopathie-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende",
+  "slug": "praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende",
+  "name": "Praxis für Heilkunde & Schmerztherapie Claudia Baltodano Valverde Ingo Mende",
+  "description": "Praxis für Heilkunde & Schmerztherapie Claudia Baltodano Valverde Ingo Mende ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Torstraße 161",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5292319,
+    "lng": 13.3961508
+  },
+  "phone": "017682172143",
+  "email": "praxis@heilkunde-schmerztherapie.de",
+  "website": "http://www.heilkunde-schmerztherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

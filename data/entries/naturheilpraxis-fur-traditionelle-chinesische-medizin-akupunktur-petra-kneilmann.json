@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann",
+  "slug": "naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann",
+  "name": "Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur Petra Kneilmann",
+  "description": "Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur Petra Kneilmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Kadiner Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10243",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5149579,
+    "lng": 13.451068
+  },
+  "phone": "017665791942",
+  "website": "http://www.tcm-akupunktur-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "klaus-gmach-heilpraktiker",
+  "slug": "klaus-gmach-heilpraktiker",
+  "name": "Klaus Gmach Heilpraktiker",
+  "description": "Klaus Gmach Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Fichtestraße 31",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49088,
+    "lng": 13.4134949
+  },
+  "phone": "01757439083",
+  "email": "klaus.gmach@gmx.de",
+  "website": "http://www.moma-berlin.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/klaus-gmach",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

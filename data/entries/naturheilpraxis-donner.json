@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-donner",
+  "slug": "naturheilpraxis-donner",
+  "name": "Naturheilpraxis Donner",
+  "description": "Naturheilpraxis Donner ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Praxis Wendring",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4726904,
+    "lng": 13.3293178
+  },
+  "phone": "01632691391",
+  "email": "info@niels-donner.de",
+  "website": "http://niels-donner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

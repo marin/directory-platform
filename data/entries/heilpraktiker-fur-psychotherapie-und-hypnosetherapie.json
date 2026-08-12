@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-und-hypnosetherapie",
+  "slug": "heilpraktiker-fur-psychotherapie-und-hypnosetherapie",
+  "name": "Heilpraktiker für Psychotherapie und Hypnosetherapie",
+  "description": "Heilpraktiker für Psychotherapie und Hypnosetherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Genossenschaftsstraße 37",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4403353,
+    "lng": 13.5446242
+  },
+  "phone": "03028391378",
+  "website": "https://lebensberatung-hypnose-adlershof.de/",
+  "bookingUrl": "https://www.lebensberatung-hypnose-adlershof.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

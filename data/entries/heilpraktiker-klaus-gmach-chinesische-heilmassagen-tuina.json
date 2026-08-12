@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktiker-klaus-gmach-chinesische-heilmassagen-tuina",
+  "slug": "heilpraktiker-klaus-gmach-chinesische-heilmassagen-tuina",
+  "name": "Heilpraktiker Klaus Gmach | Chinesische Heilmassagen (Tuina)",
+  "description": "Heilpraktiker Klaus Gmach | Chinesische Heilmassagen (Tuina) ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Gneisenaustraße 99-100",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49258,
+    "lng": 13.391869999999999
+  },
+  "phone": "01757439083",
+  "email": "klaus.gmach@gmx.de",
+  "website": "http://www.moma-berlin.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/klaus-gmach",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

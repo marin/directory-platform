@@ -1,0 +1,34 @@
+{
+  "id": "praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie",
+  "slug": "praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie",
+  "name": "Praxisgemeinschaft Maria Große (Heilpraktikerin Psychotherapie)",
+  "description": "Praxisgemeinschaft Maria Große (Heilpraktikerin Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Genossenschaftsstraße 70/2. OG",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437732499999996,
+    "lng": 13.546855299999999
+  },
+  "phone": "01722882018",
+  "email": "maria_grosse@gmx.de",
+  "website": "https://www.sinn-und-seele-coaching.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/maria-grosse?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

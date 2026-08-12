@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-eli-unterbusch",
+  "slug": "heilpraktikerin-eli-unterbusch",
+  "name": "Heilpraktikerin Eli Unterbusch",
+  "description": "Heilpraktikerin Eli Unterbusch ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Rathenower Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10559",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5320271,
+    "lng": 13.3506428
+  },
+  "phone": "01723283889",
+  "email": "info@eliunterbusch.de",
+  "website": "http://www.eliunterbusch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

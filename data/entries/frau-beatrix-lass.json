@@ -1,0 +1,32 @@
+{
+  "id": "frau-beatrix-lass",
+  "slug": "frau-beatrix-lass",
+  "name": "Frau Beatrix Laß",
+  "description": "Frau Beatrix Laß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kösterstraße 1B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4257409,
+    "lng": 13.246083599999999
+  },
+  "phone": "03031562626",
+  "email": "mail@naturheilpraxis-lass.de",
+  "website": "http://www.naturheilpraxis-lass.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

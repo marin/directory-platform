@@ -1,0 +1,30 @@
+{
+  "id": "cornelia-weichert-heilpraktikerin-fur-naturheilkunde",
+  "slug": "cornelia-weichert-heilpraktikerin-fur-naturheilkunde",
+  "name": "Cornelia Weichert Heilpraktikerin für Naturheilkunde",
+  "description": "Cornelia Weichert Heilpraktikerin für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Aroser Allee",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.566857299999995,
+    "lng": 13.3516655
+  },
+  "phone": "03045808730",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

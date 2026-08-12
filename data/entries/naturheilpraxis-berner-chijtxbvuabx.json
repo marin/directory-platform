@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-berner-chijtxbvuabx",
+  "slug": "naturheilpraxis-berner-chijtxbvuabx",
+  "name": "Naturheilpraxis Berner",
+  "description": "Naturheilpraxis Berner ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Groenerstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5418368,
+    "lng": 13.2017811
+  },
+  "phone": "03045095980",
+  "email": "berner.nhp@gmail.com",
+  "website": "https://praxis-berner.eu/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

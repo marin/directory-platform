@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerin-annette-gohde",
+  "slug": "heilpraktikerin-annette-gohde",
+  "name": "Heilpraktikerin Annette Gohde",
+  "description": "Heilpraktikerin Annette Gohde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Preußenallee 38",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5154308,
+    "lng": 13.2605465
+  },
+  "phone": "03032679323",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

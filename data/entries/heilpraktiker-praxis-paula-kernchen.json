@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-praxis-paula-kernchen",
+  "slug": "heilpraktiker-praxis-paula-kernchen",
+  "name": "Heilpraktiker Praxis - Paula Kernchen",
+  "description": "Heilpraktiker Praxis - Paula Kernchen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Busonistraße 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13125",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.617601699999994,
+    "lng": 13.480876499999999
+  },
+  "phone": "01751537035",
+  "email": "info@physio-in-karow.de",
+  "website": "http://www.physio-in-karow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

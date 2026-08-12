@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-chijccgwcazb",
+  "slug": "praxis-fur-naturheilkunde-chijccgwcazb",
+  "name": "Praxis für Naturheilkunde",
+  "description": "Praxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hortensienstr. 29 Rechter",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.448046299999994,
+    "lng": 13.3063028
+  },
+  "phone": "03060985488",
+  "email": "info@lindemann-praxis-preetz.de",
+  "website": "http://www.lindemann-praxis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

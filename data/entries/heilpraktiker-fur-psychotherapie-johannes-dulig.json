@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-johannes-dulig",
+  "slug": "heilpraktiker-fur-psychotherapie-johannes-dulig",
+  "name": "Heilpraktiker für Psychotherapie Johannes Dulig",
+  "description": "Heilpraktiker für Psychotherapie Johannes Dulig ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Am Schloßpark 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5760559,
+    "lng": 13.4108594
+  },
+  "phone": "03047480377",
+  "website": "http://www.entspannungs-kurse.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

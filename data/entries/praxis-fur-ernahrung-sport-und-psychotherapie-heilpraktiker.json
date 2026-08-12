@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker",
+  "slug": "praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker",
+  "name": "Praxis für Ernährung, Sport und Psychotherapie (Heilpraktiker)",
+  "description": "Praxis für Ernährung, Sport und Psychotherapie (Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Düppelstraße 21 A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4315272,
+    "lng": 13.2487066
+  },
+  "phone": "015222178080",
+  "email": "mail@oliver-tonndorf.de",
+  "website": "http://oliver-tonndorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

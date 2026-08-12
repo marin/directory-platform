@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-kubillus",
+  "slug": "naturheilpraxis-kubillus",
+  "name": "Naturheilpraxis Kubillus",
+  "description": "Naturheilpraxis Kubillus ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Albrechtstr. 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4556046,
+    "lng": 13.3247086
+  },
+  "phone": "03079745024",
+  "email": "hosting@jweiland.net",
+  "website": "https://www.heilpraxis-kubillus.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

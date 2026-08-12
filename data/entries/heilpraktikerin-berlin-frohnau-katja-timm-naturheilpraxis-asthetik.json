@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik",
+  "slug": "heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik",
+  "name": "Heilpraktikerin Berlin-Frohnau Katja Timm - Naturheilpraxis & Ästhetik",
+  "description": "Heilpraktikerin Berlin-Frohnau Katja Timm - Naturheilpraxis & Ästhetik ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Gralsburgsteig 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.633843,
+    "lng": 13.286927299999999
+  },
+  "phone": "03040573241",
+  "email": "praxis@naturheilpraxistimm.de",
+  "website": "http://gesund-schoen-berlin.de/",
+  "bookingUrl": "https://www.gesund-schoen-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

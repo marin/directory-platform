@@ -1,0 +1,30 @@
+{
+  "id": "franziska-feist",
+  "slug": "franziska-feist",
+  "name": "Franziska Feist",
+  "description": "Franziska Feist ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Vitahaus Marzahn",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12689",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.567982799999996,
+    "lng": 13.5723028
+  },
+  "phone": "03098326103",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

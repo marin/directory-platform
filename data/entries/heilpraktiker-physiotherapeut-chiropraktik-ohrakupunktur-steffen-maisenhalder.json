@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-physiotherapeut-chiropraktik-ohrakupunktur-steffen-maisenhalder",
+  "slug": "heilpraktiker-physiotherapeut-chiropraktik-ohrakupunktur-steffen-maisenhalder",
+  "name": "Heilpraktiker, Physiotherapeut, Chiropraktik, Ohrakupunktur Steffen Maisenhälder",
+  "description": "Heilpraktiker, Physiotherapeut, Chiropraktik, Ohrakupunktur Steffen Maisenhälder ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Müllerstraße 56/Haus C",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13349",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.554393,
+    "lng": 13.346808
+  },
+  "phone": "0304523692",
+  "email": "info@physiotherapie-koritter.de",
+  "website": "http://www.physiotherapie-koritter.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

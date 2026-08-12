@@ -1,0 +1,32 @@
+{
+  "id": "dinah-wilde",
+  "slug": "dinah-wilde",
+  "name": "Dinah Wilde",
+  "description": "Dinah Wilde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "c/o Neocosmetic Berlin",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.549327399999996,
+    "lng": 13.440695
+  },
+  "phone": "017684988678",
+  "email": "hallo@dinahwilde.com",
+  "website": "http://www.dinahwilde.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

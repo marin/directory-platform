@@ -1,0 +1,30 @@
+{
+  "id": "saskia-dorr-heilpraktikerin",
+  "slug": "saskia-dorr-heilpraktikerin",
+  "name": "Saskia Dörr Heilpraktikerin",
+  "description": "Saskia Dörr Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Fehrbelliner Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.534193099999996,
+    "lng": 13.400821899999999
+  },
+  "phone": "0304482583",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

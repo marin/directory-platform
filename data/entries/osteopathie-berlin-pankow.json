@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-berlin-pankow",
+  "slug": "osteopathie-berlin-pankow",
+  "name": "Osteopathie Berlin Pankow",
+  "description": "Osteopathie Berlin Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Parkstraße 42",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.589174,
+    "lng": 13.4647726
+  },
+  "phone": "03075635800",
+  "email": "info@osteopathie-berlin-pankow.de",
+  "website": "http://www.osteopathie-berlin-pankow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

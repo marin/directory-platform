@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-am-arnimplatz",
+  "slug": "naturheilpraxis-am-arnimplatz",
+  "name": "Naturheilpraxis am Arnimplatz",
+  "description": "Naturheilpraxis am Arnimplatz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schönfließer Str. 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5517494,
+    "lng": 13.407862999999999
+  },
+  "phone": "03043779541",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

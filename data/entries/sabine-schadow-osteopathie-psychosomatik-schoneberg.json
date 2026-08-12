@@ -1,0 +1,34 @@
+{
+  "id": "sabine-schadow-osteopathie-psychosomatik-schoneberg",
+  "slug": "sabine-schadow-osteopathie-psychosomatik-schoneberg",
+  "name": "Sabine Schadow, Osteopathie & Psychosomatik Schöneberg",
+  "description": "Sabine Schadow, Osteopathie & Psychosomatik Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Akazienstraße 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4884152,
+    "lng": 13.353688
+  },
+  "phone": "03020986355",
+  "email": "info@sabine-schadow.de",
+  "website": "https://osteopathie-in-berlin-schoeneberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

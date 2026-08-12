@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-claudia-kuhly-heilpraktikerin",
+  "slug": "naturheilpraxis-claudia-kuhly-heilpraktikerin",
+  "name": "Naturheilpraxis Claudia Kuhly Heilpraktikerin",
+  "description": "Naturheilpraxis Claudia Kuhly Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bornstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4666431,
+    "lng": 13.321408
+  },
+  "phone": "03082706670",
+  "website": "http://www.praxis-kuhly.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

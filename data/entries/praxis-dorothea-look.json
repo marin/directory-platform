@@ -1,0 +1,33 @@
+{
+  "id": "praxis-dorothea-look",
+  "slug": "praxis-dorothea-look",
+  "name": "Praxis Dorothea Look",
+  "description": "Praxis Dorothea Look ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Bürknerstraße 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12047",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.493404999999996,
+    "lng": 13.4245758
+  },
+  "phone": "03030023324",
+  "website": "http://www.dorothea-look.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

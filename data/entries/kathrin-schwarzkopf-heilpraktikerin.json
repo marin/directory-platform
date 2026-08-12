@@ -1,0 +1,31 @@
+{
+  "id": "kathrin-schwarzkopf-heilpraktikerin",
+  "slug": "kathrin-schwarzkopf-heilpraktikerin",
+  "name": "kathrin schwarzkopf heilpraktikerin",
+  "description": "kathrin schwarzkopf heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Heilpraxen an der Schönhauser Allee",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.550543399999995,
+    "lng": 13.412624699999999
+  },
+  "phone": "01729295355",
+  "website": "https://www.heilpraxis-schwarzkopf.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

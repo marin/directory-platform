@@ -1,0 +1,33 @@
+{
+  "id": "sebastian-bartning",
+  "slug": "sebastian-bartning",
+  "name": "Sebastian Bartning",
+  "description": "Sebastian Bartning ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Freiwaldauer Weg 34",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.436156499999996,
+    "lng": 13.287996699999999
+  },
+  "phone": "03081299955",
+  "email": "e-rechnung@bartning.de",
+  "website": "http://bartning.de/",
+  "bookingUrl": "https://bartning.de/pages/kalender/fastenkuren-berlin.php",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

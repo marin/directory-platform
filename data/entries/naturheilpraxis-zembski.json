@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-zembski",
+  "slug": "naturheilpraxis-zembski",
+  "name": "Naturheilpraxis Zembski",
+  "description": "Naturheilpraxis Zembski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Thielallee 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14195",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4561273,
+    "lng": 13.2866324
+  },
+  "phone": "01788246611",
+  "email": "kontakt@naturheilpraxis-zembski.de",
+  "website": "https://naturheilpraxis-zembski.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

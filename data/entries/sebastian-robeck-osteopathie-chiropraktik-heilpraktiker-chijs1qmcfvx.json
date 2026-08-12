@@ -1,0 +1,33 @@
+{
+  "id": "sebastian-robeck-osteopathie-chiropraktik-heilpraktiker-chijs1qmcfvx",
+  "slug": "sebastian-robeck-osteopathie-chiropraktik-heilpraktiker-chijs1qmcfvx",
+  "name": "Sebastian Robeck - Osteopathie & Chiropraktik - Heilpraktiker",
+  "description": "Sebastian Robeck - Osteopathie & Chiropraktik - Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Clausewitzstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5014665,
+    "lng": 13.3091279
+  },
+  "email": "info@praxis-robeck.de",
+  "website": "https://www.praxis-robeck.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/sebastian-robeck",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

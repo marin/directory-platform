@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann",
+  "slug": "praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann",
+  "name": "Praxis für komplementäre Medizin & Kosmetik , HP Dr. M. Kretschmann",
+  "description": "Praxis für komplementäre Medizin & Kosmetik , HP Dr. M. Kretschmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Schützenstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4543763,
+    "lng": 13.323775
+  },
+  "phone": "015678616726",
+  "website": "http://www.prakomed.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

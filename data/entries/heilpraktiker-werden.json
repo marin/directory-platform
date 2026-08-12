@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-werden",
+  "slug": "heilpraktiker-werden",
+  "name": "Heilpraktiker Werden",
+  "description": "Heilpraktiker Werden ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Anton-Wilhelm-Amo-Straße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.512021999999995,
+    "lng": 13.3899975
+  },
+  "phone": "0307668375112",
+  "website": "http://heilpraktiker-werden.org/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

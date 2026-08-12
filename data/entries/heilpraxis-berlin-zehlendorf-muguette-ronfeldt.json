@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-berlin-zehlendorf-muguette-ronfeldt",
+  "slug": "heilpraxis-berlin-zehlendorf-muguette-ronfeldt",
+  "name": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt",
+  "description": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Matterhornstraße 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4372834,
+    "lng": 13.2210254
+  },
+  "phone": "01637005268",
+  "email": "muguette.r@web.de",
+  "website": "http://www.heilpraxis-zehlendorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

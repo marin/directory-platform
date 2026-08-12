@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-ruth-wellmann",
+  "slug": "naturheilpraxis-ruth-wellmann",
+  "name": "Naturheilpraxis Ruth Wellmann",
+  "description": "Naturheilpraxis Ruth Wellmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Arthur-Müller-Straße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12487",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4337113,
+    "lng": 13.513263
+  },
+  "phone": "03063103757",
+  "email": "natur@heilpraxis-wellmann.de",
+  "website": "http://www.heilpraxis-wellmann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "friedemann-vopel-heilpraktiker-fur-psychotherapie",
+  "slug": "friedemann-vopel-heilpraktiker-fur-psychotherapie",
+  "name": "♥️ Friedemann Vopel - Heilpraktiker für Psychotherapie",
+  "description": "♥️ Friedemann Vopel - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Malplaquetstraße",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5514574,
+    "lng": 13.357965
+  },
+  "phone": "015237655841",
+  "email": "kontakt@friedemannvopel.de",
+  "website": "https://friedemannvopel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

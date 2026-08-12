@@ -1,0 +1,32 @@
+{
+  "id": "akupunktur-michael-rock-heilpraktiker-in-berlin-mitte",
+  "slug": "akupunktur-michael-rock-heilpraktiker-in-berlin-mitte",
+  "name": "Akupunktur - Michael Rock Heilpraktiker in Berlin-Mitte",
+  "description": "Akupunktur - Michael Rock Heilpraktiker in Berlin-Mitte ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Fehrbelliner Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5341856,
+    "lng": 13.4007589
+  },
+  "phone": "015737733701",
+  "website": "https://www.michael-rock.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

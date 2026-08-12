@@ -1,0 +1,31 @@
+{
+  "id": "alexander-splawski-heilpraktiker",
+  "slug": "alexander-splawski-heilpraktiker",
+  "name": "Alexander Splawski Heilpraktiker",
+  "description": "Alexander Splawski Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bleibtreustraße 8-9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.504793299999996,
+    "lng": 13.319505999999999
+  },
+  "phone": "0308825678",
+  "website": "http://www.naturheilpraxis-splawski.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

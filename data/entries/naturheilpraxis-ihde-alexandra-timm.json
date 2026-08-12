@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-ihde-alexandra-timm",
+  "slug": "naturheilpraxis-ihde-alexandra-timm",
+  "name": "Naturheilpraxis Ihde, Alexandra Timm",
+  "description": "Naturheilpraxis Ihde, Alexandra Timm ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Kadiner Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10243",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.514956999999995,
+    "lng": 13.451068
+  },
+  "phone": "03023539844",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-bo-romero-geiger",
+  "slug": "heilpraktiker-fur-psychotherapie-bo-romero-geiger",
+  "name": "Heilpraktiker für Psychotherapie Bo Romero Geiger",
+  "description": "Heilpraktiker für Psychotherapie Bo Romero Geiger ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Käthe-Niederkirchner-Straße",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.530306599999996,
+    "lng": 13.4320968
+  },
+  "email": "kontakt@boromerogeiger.com",
+  "website": "https://www.boromerogeiger.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/bo-romero-geiger?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

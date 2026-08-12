@@ -1,0 +1,33 @@
+{
+  "id": "osteo-akupunkt-praxis-yelva-nickel",
+  "slug": "osteo-akupunkt-praxis-yelva-nickel",
+  "name": "Osteo Akupunkt Praxis Yelva Nickel",
+  "description": "Osteo Akupunkt Praxis Yelva Nickel ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Novalisstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5291035,
+    "lng": 13.388390999999999
+  },
+  "phone": "03028046900",
+  "website": "https://www.o-a-p.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/yelva-nickel?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

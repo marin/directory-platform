@@ -1,0 +1,32 @@
+{
+  "id": "aga-heilpraxis",
+  "slug": "aga-heilpraxis",
+  "name": "AGA Heilpraxis",
+  "description": "AGA Heilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Jötunsteig 49",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5683406,
+    "lng": 13.4712719
+  },
+  "phone": "01608866700",
+  "website": "http://www.aga-heilpraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

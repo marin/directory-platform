@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-chinesische-medizin-tcm-akupunktur-in-berlin-friedrichshain-julia-dip",
+  "slug": "praxis-fur-chinesische-medizin-tcm-akupunktur-in-berlin-friedrichshain-julia-dip",
+  "name": "Praxis für Chinesische Medizin (TCM, Akupunktur) in Berlin Friedrichshain - Julia Dippl",
+  "description": "Praxis für Chinesische Medizin (TCM, Akupunktur) in Berlin Friedrichshain - Julia Dippl ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Auerstraße 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10249",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5198016,
+    "lng": 13.445181
+  },
+  "phone": "03098294875",
+  "website": "https://juliadippl.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

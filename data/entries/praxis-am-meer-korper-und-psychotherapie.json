@@ -1,0 +1,32 @@
+{
+  "id": "praxis-am-meer-korper-und-psychotherapie",
+  "slug": "praxis-am-meer-korper-und-psychotherapie",
+  "name": "Praxis am Meer: Körper- und Psychotherapie",
+  "description": "Praxis am Meer: Körper- und Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Skalitzer Str. 69",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10997",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.500299999999996,
+    "lng": 13.43999
+  },
+  "phone": "017657372678",
+  "website": "http://www.sushigong.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "madeline-hellmann-heilpraktikerin-fur-psychotherapie",
+  "slug": "madeline-hellmann-heilpraktikerin-fur-psychotherapie",
+  "name": "Madeline Hellmann | Heilpraktikerin für Psychotherapie",
+  "description": "Madeline Hellmann | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Klausenerpl. 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.518336999999995,
+    "lng": 13.289834299999999
+  },
+  "phone": "017616284564",
+  "email": "kontakt@madeline-hellmann.de",
+  "website": "https://www.madeline-hellmann.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/hellmann-madeline?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

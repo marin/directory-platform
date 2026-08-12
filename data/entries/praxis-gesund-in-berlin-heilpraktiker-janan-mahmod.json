@@ -1,0 +1,33 @@
+{
+  "id": "praxis-gesund-in-berlin-heilpraktiker-janan-mahmod",
+  "slug": "praxis-gesund-in-berlin-heilpraktiker-janan-mahmod",
+  "name": "Praxis Gesund in Berlin, Heilpraktiker Janan Mahmod",
+  "description": "Praxis Gesund in Berlin, Heilpraktiker Janan Mahmod ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Prenzlauer Promenade 191",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13189",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.552008799999996,
+    "lng": 13.4297767
+  },
+  "email": "info@gesund-inberlin.de",
+  "website": "https://www.gesund-inberlin.de/?utm_source=google&utm_medium=orgnanic&utm_campaign=gmb",
+  "bookingUrl": "https://www.gesund-inberlin.de/termin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

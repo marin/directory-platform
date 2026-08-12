@@ -1,0 +1,32 @@
+{
+  "id": "angelika-rabauer",
+  "slug": "angelika-rabauer",
+  "name": "Angelika Rabauer",
+  "description": "Angelika Rabauer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Köpenicker Landstraße 102",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.476118199999995,
+    "lng": 13.480224699999999
+  },
+  "phone": "03065017286",
+  "email": "info@angelika-rabauer.de",
+  "website": "http://www.angelika-rabauer.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

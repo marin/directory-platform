@@ -1,0 +1,35 @@
+{
+  "id": "wellfina-akupunktur-personal-training-in-berlin-neukolln",
+  "slug": "wellfina-akupunktur-personal-training-in-berlin-neukolln",
+  "name": "Wellfina - Akupunktur & Personal Training in Berlin Neukölln",
+  "description": "Wellfina - Akupunktur & Personal Training in Berlin Neukölln ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Emser Str. 128",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12051",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4692076,
+    "lng": 13.4372796
+  },
+  "phone": "01723292622",
+  "email": "info@wellfina.de",
+  "website": "http://www.wellfina.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/stefanie-kerbusch?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube",
+  "slug": "n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube",
+  "name": "N | K - Heilpraktikerin für Psychotherapie | Wellness | Prävention - Nataša Kube",
+  "description": "N | K - Heilpraktikerin für Psychotherapie | Wellness | Prävention - Nataša Kube ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Leonorenstraße 30",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4431279,
+    "lng": 13.3406305
+  },
+  "phone": "017656868836",
+  "email": "support@webador.de",
+  "website": "https://www.nk-heilpraktikerin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

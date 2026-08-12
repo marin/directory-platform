@@ -1,0 +1,30 @@
+{
+  "id": "herr-peter-fett",
+  "slug": "herr-peter-fett",
+  "name": "Herr Peter Fett",
+  "description": "Herr Peter Fett ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Berliner Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.588619099999995,
+    "lng": 13.284192899999999
+  },
+  "phone": "0304335055",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

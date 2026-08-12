@@ -1,0 +1,33 @@
+{
+  "id": "miriam-karoff-heilpraktikerin-fur-psychotherapie",
+  "slug": "miriam-karoff-heilpraktikerin-fur-psychotherapie",
+  "name": "Miriam Karoff Heilpraktikerin für Psychotherapie",
+  "description": "Miriam Karoff Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Oskar-Helene-Park 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14195",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.447759,
+    "lng": 13.2667944
+  },
+  "phone": "017645623874",
+  "email": "miriam.karoff@hp-psychotherapie-karoff.de",
+  "website": "https://hp-psychotherapie-karoff.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

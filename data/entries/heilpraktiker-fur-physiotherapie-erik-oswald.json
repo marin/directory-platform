@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-fur-physiotherapie-erik-oswald",
+  "slug": "heilpraktiker-fur-physiotherapie-erik-oswald",
+  "name": "Heilpraktiker für Physiotherapie, Erik Oswald",
+  "description": "Heilpraktiker für Physiotherapie, Erik Oswald ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bölschestraße 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.452547499999994,
+    "lng": 13.6252678
+  },
+  "phone": "015110684031",
+  "email": "pt-oswald@gmx.de",
+  "website": "https://www.physiotherapiespezialist.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-physiotherapie/berlin/oswald-erik",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

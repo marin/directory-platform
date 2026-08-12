@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-psychotherapie-arne-fahsig-heilpraktiker-fur-psychotherapie-paarthera",
+  "slug": "praxis-fur-psychotherapie-arne-fahsig-heilpraktiker-fur-psychotherapie-paarthera",
+  "name": "Praxis für Psychotherapie - Arne Fahsig (Heilpraktiker für Psychotherapie) Paartherapie, Coaching, Eltern & Familienberatung",
+  "description": "Praxis für Psychotherapie - Arne Fahsig (Heilpraktiker für Psychotherapie) Paartherapie, Coaching, Eltern & Familienberatung ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Oraniendamm 68",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13469",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6068449,
+    "lng": 13.324378699999999
+  },
+  "phone": "01745732749",
+  "email": "info@gestalt-praxis-berlin.de",
+  "website": "http://www.gestalt-praxis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny",
+  "slug": "hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny",
+  "name": "Hypnose Westend Charlottenburg | Physiotherapie | Michaela Chakraborty-Pokorny",
+  "description": "Hypnose Westend Charlottenburg | Physiotherapie | Michaela Chakraborty-Pokorny ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Marathonallee 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5145403,
+    "lng": 13.260513099999999
+  },
+  "phone": "0303928851",
+  "email": "mikalinacp@t-online.de",
+  "website": "http://www.heilpraxis-westend.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

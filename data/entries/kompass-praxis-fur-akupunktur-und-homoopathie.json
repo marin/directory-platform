@@ -1,0 +1,34 @@
+{
+  "id": "kompass-praxis-fur-akupunktur-und-homoopathie",
+  "slug": "kompass-praxis-fur-akupunktur-und-homoopathie",
+  "name": "kompass. Praxis für Akupunktur und Homöopathie",
+  "description": "kompass. Praxis für Akupunktur und Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Fichtestraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4898926,
+    "lng": 13.412942699999999
+  },
+  "phone": "015231097732",
+  "website": "https://kompasspraxis-kreuzberg.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/petra-reichensperger-3bcdfec1-f3da-463d-b1b1-257633ffbf0e",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

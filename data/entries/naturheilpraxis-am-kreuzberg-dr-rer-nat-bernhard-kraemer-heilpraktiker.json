@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-am-kreuzberg-dr-rer-nat-bernhard-kraemer-heilpraktiker",
+  "slug": "naturheilpraxis-am-kreuzberg-dr-rer-nat-bernhard-kraemer-heilpraktiker",
+  "name": "Naturheilpraxis am Kreuzberg Dr. rer. nat. Bernhard Kraemer Heilpraktiker",
+  "description": "Naturheilpraxis am Kreuzberg Dr. rer. nat. Bernhard Kraemer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Solmsstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.490795999999996,
+    "lng": 13.3926854
+  },
+  "phone": "03084115135",
+  "website": "https://www.naturheilpraxis-am-kreuzberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

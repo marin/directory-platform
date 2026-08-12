@@ -1,0 +1,30 @@
+{
+  "id": "anna-peters-heilpraktikerin",
+  "slug": "anna-peters-heilpraktikerin",
+  "name": "Anna Peters - Heilpraktikerin",
+  "description": "Anna Peters - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Fehrbelliner Str. 43-57",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.534341399999995,
+    "lng": 13.400836499999999
+  },
+  "phone": "01627288585",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

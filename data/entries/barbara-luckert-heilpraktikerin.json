@@ -1,0 +1,31 @@
+{
+  "id": "barbara-luckert-heilpraktikerin",
+  "slug": "barbara-luckert-heilpraktikerin",
+  "name": "Barbara Luckert Heilpraktikerin",
+  "description": "Barbara Luckert Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Torstraße 227",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.527488,
+    "lng": 13.388061299999999
+  },
+  "phone": "03028042475",
+  "website": "https://barbaraluckert.agtcm-therapeut.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

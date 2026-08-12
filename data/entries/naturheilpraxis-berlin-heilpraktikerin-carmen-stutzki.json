@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki",
+  "slug": "naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki",
+  "name": "Naturheilpraxis Berlin- Heilpraktikerin Carmen Stutzki",
+  "description": "Naturheilpraxis Berlin- Heilpraktikerin Carmen Stutzki ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pariser Str. 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4959213,
+    "lng": 13.3280724
+  },
+  "phone": "01624940650",
+  "website": "https://www.naturheilpraxis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

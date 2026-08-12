@@ -1,0 +1,32 @@
+{
+  "id": "augendiagnose-berlin-heilpraktikerin",
+  "slug": "augendiagnose-berlin-heilpraktikerin",
+  "name": "Augendiagnose Berlin / Heilpraktikerin",
+  "description": "Augendiagnose Berlin / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Tharsanderweg 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13595",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5152868,
+    "lng": 13.1991582
+  },
+  "phone": "03026329999",
+  "email": "info@naturheilpraxis-krohn.de",
+  "website": "https://augendiagnose-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-michaela-bohm",
+  "slug": "naturheilpraxis-michaela-bohm",
+  "name": "Naturheilpraxis Michaela Böhm",
+  "description": "Naturheilpraxis Michaela Böhm ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Blenheimstraße 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12685",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.541449099999994,
+    "lng": 13.5599271
+  },
+  "phone": "03054872292",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

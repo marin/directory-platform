@@ -1,0 +1,33 @@
+{
+  "id": "chisalon-naturheilpraxis",
+  "slug": "chisalon-naturheilpraxis",
+  "name": "Chisalon Naturheilpraxis",
+  "description": "Chisalon Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Lehmbruckstraße 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10245",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.502012199999996,
+    "lng": 13.4520778
+  },
+  "phone": "01772153112",
+  "website": "https://chisalon.de/",
+  "bookingUrl": "https://zeeg.me/chi-salon-heike",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

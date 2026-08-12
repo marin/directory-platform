@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-christiana-purol",
+  "slug": "naturheilpraxis-christiana-purol",
+  "name": "Naturheilpraxis Christiana Purol",
+  "description": "Naturheilpraxis Christiana Purol ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Wismarer Str. 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4218499,
+    "lng": 13.299306099999999
+  },
+  "phone": "03084719888",
+  "email": "info@purol.de",
+  "website": "http://www.purol.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

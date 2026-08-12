@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-fur-osteopathie-steffen-magel",
+  "slug": "heilpraxis-fur-osteopathie-steffen-magel",
+  "name": "Heilpraxis für Osteopathie Steffen Magel",
+  "description": "Heilpraxis für Osteopathie Steffen Magel ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Am Friedrichshain 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5293001,
+    "lng": 13.4331648
+  },
+  "phone": "017648263393",
+  "website": "http://heilpraxis-osteopathie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

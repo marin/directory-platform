@@ -1,0 +1,31 @@
+{
+  "id": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
+  "slug": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
+  "name": "AGAPE - ganzheitliche Traumatherapie, Susanne Stauch, Heilpraktikerin für Psychotherapie",
+  "description": "AGAPE - ganzheitliche Traumatherapie, Susanne Stauch, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Allerstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4747773,
+    "lng": 13.4213606
+  },
+  "website": "http://agape.supernova.institute/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

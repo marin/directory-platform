@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-petra-hinze",
+  "slug": "heilpraxis-petra-hinze",
+  "name": "Heilpraxis Petra Hinze",
+  "description": "Heilpraxis Petra Hinze ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pasteurstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.534431899999994,
+    "lng": 13.431933599999999
+  },
+  "phone": "03042806948",
+  "email": "hinzepetra@web.de",
+  "website": "http://www.petra-hinze.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-dipl-schmerztherapeut-maximilian-schon",
+  "slug": "heilpraktiker-dipl-schmerztherapeut-maximilian-schon",
+  "name": "Heilpraktiker & Dipl. Schmerztherapeut Maximilian Schön",
+  "description": "Heilpraktiker & Dipl. Schmerztherapeut Maximilian Schön ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wilhelmshöher Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.472710799999994,
+    "lng": 13.3270758
+  },
+  "phone": "017630478143",
+  "email": "info@hp-schoen.com",
+  "website": "https://www.hp-schoen.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

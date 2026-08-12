@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-dr-marcus-schutz",
+  "slug": "heilpraktiker-dr-marcus-schutz",
+  "name": "Heilpraktiker Dr. Marcus Schütz",
+  "description": "Heilpraktiker Dr. Marcus Schütz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Dr. Marcus Schütz",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.46879,
+    "lng": 13.329429999999999
+  },
+  "phone": "01713541463",
+  "email": "chiropraxis@hotmail.de",
+  "website": "http://www.marcusschuetz.de/praxis",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "armin-ecke-heilpraktiker",
+  "slug": "armin-ecke-heilpraktiker",
+  "name": "Armin Ecke Heilpraktiker",
+  "description": "Armin Ecke Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Aachener Str. 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10713",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4809956,
+    "lng": 13.319319199999999
+  },
+  "phone": "0308223702",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

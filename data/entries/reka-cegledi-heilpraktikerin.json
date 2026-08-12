@@ -1,0 +1,32 @@
+{
+  "id": "reka-cegledi-heilpraktikerin",
+  "slug": "reka-cegledi-heilpraktikerin",
+  "name": "Reka Cegledi Heilpraktikerin",
+  "description": "Reka Cegledi Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Damaschkestraße 30",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.501337,
+    "lng": 13.298133199999999
+  },
+  "phone": "017661924887",
+  "website": "https://rekaheilpraktikerin.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/reka-cegledi-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

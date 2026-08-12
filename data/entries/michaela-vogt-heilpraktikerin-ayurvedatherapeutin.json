@@ -1,0 +1,33 @@
+{
+  "id": "michaela-vogt-heilpraktikerin-ayurvedatherapeutin",
+  "slug": "michaela-vogt-heilpraktikerin-ayurvedatherapeutin",
+  "name": "Michaela Vogt - Heilpraktikerin & Ayurvedatherapeutin",
+  "description": "Michaela Vogt - Heilpraktikerin & Ayurvedatherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Beerenstraße 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.436282399999996,
+    "lng": 13.245427699999999
+  },
+  "phone": "01729825180",
+  "email": "mail@heilpraxisvogt.com",
+  "website": "https://heilpraxisvogt.com/",
+  "bookingUrl": "https://heilpraxisvogt.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

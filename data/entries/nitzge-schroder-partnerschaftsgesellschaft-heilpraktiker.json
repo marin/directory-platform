@@ -1,0 +1,30 @@
+{
+  "id": "nitzge-schroder-partnerschaftsgesellschaft-heilpraktiker",
+  "slug": "nitzge-schroder-partnerschaftsgesellschaft-heilpraktiker",
+  "name": "Nitzge & Schröder Partnerschaftsgesellschaft Heilpraktiker",
+  "description": "Nitzge & Schröder Partnerschaftsgesellschaft Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Schlesische Str. 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10997",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4997092,
+    "lng": 13.4442192
+  },
+  "phone": "0304145224",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

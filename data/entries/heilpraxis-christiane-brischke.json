@@ -1,0 +1,34 @@
+{
+  "id": "heilpraxis-christiane-brischke",
+  "slug": "heilpraxis-christiane-brischke",
+  "name": "Heilpraxis Christiane Brischke",
+  "description": "Heilpraxis Christiane Brischke ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Griembergweg 35",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12305",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.407142699999994,
+    "lng": 13.4071702
+  },
+  "phone": "03070768426",
+  "email": "praxis@heilpraxis-brischke.de",
+  "website": "http://heilpraxis-brischke.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

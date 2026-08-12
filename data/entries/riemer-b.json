@@ -1,0 +1,30 @@
+{
+  "id": "riemer-b",
+  "slug": "riemer-b",
+  "name": "Riemer B.",
+  "description": "Riemer B. ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wittelsbacherstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4947035,
+    "lng": 13.3126058
+  },
+  "phone": "03085999224",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

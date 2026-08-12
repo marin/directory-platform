@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join, resolve } from "node:path";
+import siteConfig from "../config/site.config.ts";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const DIST = join(ROOT, "dist");
@@ -29,8 +30,8 @@ function checkDist() {
     process.exit(1);
   }
   const indexHtml = readFileSync(indexPath, "utf-8");
-  if (!indexHtml.includes("Example Directory")) {
-    console.error("Homepage missing site name");
+  if (!indexHtml.includes(siteConfig.site.name)) {
+    console.error(`Homepage missing site name (${siteConfig.site.name})`);
     process.exit(1);
   }
   console.log(`Smoke passed: ${htmlFiles.length} HTML files`);

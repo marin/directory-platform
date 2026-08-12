@@ -1,0 +1,30 @@
+{
+  "id": "frank-kuhne",
+  "slug": "frank-kuhne",
+  "name": "Frank Kühne",
+  "description": "Frank Kühne ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Florian-Geyer-Straße 58",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4395868,
+    "lng": 13.5416289
+  },
+  "phone": "03032669444",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

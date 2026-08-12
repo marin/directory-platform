@@ -1,0 +1,32 @@
+{
+  "id": "nora-mewe-heilpraktikerin-fur-psychotherapie-und-systemische-therapie",
+  "slug": "nora-mewe-heilpraktikerin-fur-psychotherapie-und-systemische-therapie",
+  "name": "Nora Mewe Heilpraktikerin für Psychotherapie und Systemische Therapie",
+  "description": "Nora Mewe Heilpraktikerin für Psychotherapie und Systemische Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Am Goldmannpark 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.456398099999994,
+    "lng": 13.6301232
+  },
+  "phone": "017621970037",
+  "website": "http://www.noramewe.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

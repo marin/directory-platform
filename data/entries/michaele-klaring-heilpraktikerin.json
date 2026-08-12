@@ -1,0 +1,30 @@
+{
+  "id": "michaele-klaring-heilpraktikerin",
+  "slug": "michaele-klaring-heilpraktikerin",
+  "name": "Michaele Kläring Heilpraktikerin",
+  "description": "Michaele Kläring Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Kienbergstraße 34",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12685",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5368595,
+    "lng": 13.5644748
+  },
+  "phone": "03054782420",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

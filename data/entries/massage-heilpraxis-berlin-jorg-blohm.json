@@ -1,0 +1,35 @@
+{
+  "id": "massage-heilpraxis-berlin-jorg-blohm",
+  "slug": "massage-heilpraxis-berlin-jorg-blohm",
+  "name": "Massage Heilpraxis Berlin Jörg Blohm",
+  "description": "Massage Heilpraxis Berlin Jörg Blohm ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Detmolder Str. 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.47857,
+    "lng": 13.3218622
+  },
+  "phone": "01732448359",
+  "email": "hallo@joergblohm.de",
+  "website": "http://www.joergblohm.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

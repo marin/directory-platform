@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-c-seel",
+  "slug": "naturheilpraxis-c-seel",
+  "name": "Naturheilpraxis C. Seel",
+  "description": "Naturheilpraxis C. Seel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Waldstraße 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5889782,
+    "lng": 13.3964161
+  },
+  "phone": "01626720626",
+  "email": "praxis@neurodermitis-berlin.de",
+  "website": "http://www.neurodermitis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

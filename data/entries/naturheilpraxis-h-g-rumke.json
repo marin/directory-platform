@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-h-g-rumke",
+  "slug": "naturheilpraxis-h-g-rumke",
+  "name": "Naturheilpraxis H.-G. Rümke",
+  "description": "Naturheilpraxis H.-G. Rümke ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Sokratesweg 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.490075,
+    "lng": 13.522623099999999
+  },
+  "phone": "0305631045",
+  "email": "info@denic.de",
+  "website": "http://www.ruemke-heilpraktiker-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

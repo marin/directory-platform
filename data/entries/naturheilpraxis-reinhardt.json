@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-reinhardt",
+  "slug": "naturheilpraxis-reinhardt",
+  "name": "Naturheilpraxis Reinhardt",
+  "description": "Naturheilpraxis Reinhardt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Alte Potsdamer Str. 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10785",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5079036,
+    "lng": 13.373897399999999
+  },
+  "phone": "03025935849",
+  "email": "info@naturheilpraxis-potsdamer-platz.com",
+  "website": "https://www.naturheilpraxis-potsdamer-platz.com/",
+  "bookingUrl": "https://www.naturheilpraxis-potsdamer-platz.com/kontakt-naturheilpraxis-berlin.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

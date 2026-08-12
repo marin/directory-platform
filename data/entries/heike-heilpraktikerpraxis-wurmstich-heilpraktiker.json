@@ -1,0 +1,30 @@
+{
+  "id": "heike-heilpraktikerpraxis-wurmstich-heilpraktiker",
+  "slug": "heike-heilpraktikerpraxis-wurmstich-heilpraktiker",
+  "name": "Heike Heilpraktikerpraxis Wurmstich Heilpraktiker",
+  "description": "Heike Heilpraktikerpraxis Wurmstich Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Tauroggener Str. 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523969,
+    "lng": 13.300890599999999
+  },
+  "phone": "03092129128",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

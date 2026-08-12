@@ -1,0 +1,33 @@
+{
+  "id": "aleksandra-sicha-heilpraktikerin-fur-psychotherapie",
+  "slug": "aleksandra-sicha-heilpraktikerin-fur-psychotherapie",
+  "name": "Aleksandra Sicha - Heilpraktikerin für Psychotherapie",
+  "description": "Aleksandra Sicha - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 41/2.3.26 Umzug",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5418732,
+    "lng": 13.4175037
+  },
+  "phone": "01601814186",
+  "email": "kontakt@traumatherapie-sicha.de",
+  "website": "https://www.traumatherapie-sicha.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

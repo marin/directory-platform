@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-beate-king",
+  "slug": "naturheilpraxis-beate-king",
+  "name": "Naturheilpraxis Beate King",
+  "description": "Naturheilpraxis Beate King ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Str. am Flugpl. 6A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12487",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437267299999995,
+    "lng": 13.5088054
+  },
+  "phone": "015121665893",
+  "email": "beateking@web.de",
+  "website": "https://naturheilpraxis-king.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-anja-hubner",
+  "slug": "heilpraktikerin-anja-hubner",
+  "name": "Heilpraktikerin Anja Hübner",
+  "description": "Heilpraktikerin Anja Hübner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Mahlsdorfer Str. 94",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4646037,
+    "lng": 13.583633599999999
+  },
+  "phone": "015128883378",
+  "email": "post@heilpraktiker-huebner.de",
+  "website": "https://www.heilpraktiker-huebner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

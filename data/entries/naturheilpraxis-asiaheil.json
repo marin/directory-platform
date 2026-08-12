@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-asiaheil",
+  "slug": "naturheilpraxis-asiaheil",
+  "name": "Naturheilpraxis 'asiaheil'",
+  "description": "Naturheilpraxis 'asiaheil' ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Bornholmer Str. 73",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.554019999999994,
+    "lng": 13.40376
+  },
+  "phone": "03044328086",
+  "email": "e-mail-an@asiaheil.de",
+  "website": "http://www.asiaheil.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

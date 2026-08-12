@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-heidorn",
+  "slug": "heilpraxis-heidorn",
+  "name": "Heilpraxis Heidorn",
+  "description": "Heilpraxis Heidorn ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Herbergerweg 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4301665,
+    "lng": 13.261902
+  },
+  "phone": "015234096778",
+  "email": "info@heilpraxis-heidorn.de",
+  "website": "http://heilpraxis-heidorn.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

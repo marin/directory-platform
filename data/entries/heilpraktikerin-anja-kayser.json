@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-anja-kayser",
+  "slug": "heilpraktikerin-anja-kayser",
+  "name": "Heilpraktikerin Anja Kayser",
+  "description": "Heilpraktikerin Anja Kayser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Onkel-Tom-Straße 3a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4359446,
+    "lng": 13.2586213
+  },
+  "phone": "01723853623",
+  "website": "http://www.kayseranja.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-biologische-krebstherapie",
+  "slug": "heilpraktiker-biologische-krebstherapie",
+  "name": "Heilpraktiker - Biologische Krebstherapie",
+  "description": "Heilpraktiker - Biologische Krebstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Waldeyerstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5146212,
+    "lng": 13.471599099999999
+  },
+  "phone": "0302155068",
+  "email": "hpbrasch@web.de",
+  "website": "http://www.hpbrasch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

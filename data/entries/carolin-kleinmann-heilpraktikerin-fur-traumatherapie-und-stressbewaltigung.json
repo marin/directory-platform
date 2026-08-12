@@ -1,0 +1,33 @@
+{
+  "id": "carolin-kleinmann-heilpraktikerin-fur-traumatherapie-und-stressbewaltigung",
+  "slug": "carolin-kleinmann-heilpraktikerin-fur-traumatherapie-und-stressbewaltigung",
+  "name": "Carolin Kleinmann - Heilpraktikerin für Traumatherapie und Stressbewältigung",
+  "description": "Carolin Kleinmann - Heilpraktikerin für Traumatherapie und Stressbewältigung ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Christburger Str. 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5358385,
+    "lng": 13.4265723
+  },
+  "phone": "01628622905",
+  "email": "info@carolinkleinmann.de",
+  "website": "https://www.carolinkleinmann.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carolin-kleinmann?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

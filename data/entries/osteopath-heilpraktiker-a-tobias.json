@@ -1,0 +1,34 @@
+{
+  "id": "osteopath-heilpraktiker-a-tobias",
+  "slug": "osteopath-heilpraktiker-a-tobias",
+  "name": "Osteopath/ Heilpraktiker A. Tobias",
+  "description": "Osteopath/ Heilpraktiker A. Tobias ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Wichertstraße 69",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.550409099999996,
+    "lng": 13.416068699999999
+  },
+  "phone": "03061076551",
+  "email": "office@tobias-osteopathie.com",
+  "website": "http://www.tobias-osteopathie.com/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin-stadt/andree-tobias?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

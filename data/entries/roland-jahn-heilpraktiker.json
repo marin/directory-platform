@@ -1,0 +1,30 @@
+{
+  "id": "roland-jahn-heilpraktiker",
+  "slug": "roland-jahn-heilpraktiker",
+  "name": "Roland Jahn Heilpraktiker",
+  "description": "Roland Jahn Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Berliner Straße 160",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4876905,
+    "lng": 13.3343606
+  },
+  "phone": "03036748996",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

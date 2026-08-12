@@ -1,0 +1,31 @@
+{
+  "id": "angela-lindemann-naturheilpraxis",
+  "slug": "angela-lindemann-naturheilpraxis",
+  "name": "Angela Lindemann Naturheilpraxis",
+  "description": "Angela Lindemann Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Franziusweg 127",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12307",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.39,
+    "lng": 13.388533599999999
+  },
+  "phone": "03070072238",
+  "website": "https://www.angelalindemann-naturheilpraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

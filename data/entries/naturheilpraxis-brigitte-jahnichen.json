@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-brigitte-jahnichen",
+  "slug": "naturheilpraxis-brigitte-jahnichen",
+  "name": "Naturheilpraxis Brigitte Jähnichen",
+  "description": "Naturheilpraxis Brigitte Jähnichen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hauptstraße 13A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13127",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.605129999999996,
+    "lng": 13.43187
+  },
+  "phone": "03047400911",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

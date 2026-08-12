@@ -1,0 +1,33 @@
+{
+  "id": "anna-katharina-kellin-naturheilpraxis-kellin",
+  "slug": "anna-katharina-kellin-naturheilpraxis-kellin",
+  "name": "Anna Katharina Kellin - Naturheilpraxis Kellin",
+  "description": "Anna Katharina Kellin - Naturheilpraxis Kellin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "c/o Praxisschmiede",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5341856,
+    "lng": 13.4007589
+  },
+  "phone": "017664113705",
+  "email": "info@naturheilpraxis-kellin.de",
+  "website": "http://www.naturheilpraxis-kellin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

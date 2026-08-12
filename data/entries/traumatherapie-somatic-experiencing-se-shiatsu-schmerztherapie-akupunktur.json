@@ -1,0 +1,33 @@
+{
+  "id": "traumatherapie-somatic-experiencing-se-shiatsu-schmerztherapie-akupunktur",
+  "slug": "traumatherapie-somatic-experiencing-se-shiatsu-schmerztherapie-akupunktur",
+  "name": "Traumatherapie-somatic experiencing SE-Shiatsu-Schmerztherapie-Akupunktur-",
+  "description": "Traumatherapie-somatic experiencing SE-Shiatsu-Schmerztherapie-Akupunktur- ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Streustraße 121",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.548305199999994,
+    "lng": 13.4474948
+  },
+  "phone": "01637356891",
+  "website": "http://www.heilpraxis-limberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

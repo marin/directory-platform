@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-stichling",
+  "slug": "osteopathie-stichling",
+  "name": "Osteopathie-Stichling",
+  "description": "Osteopathie-Stichling ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Ahornallee 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4542614,
+    "lng": 13.6182628
+  },
+  "phone": "03044049677",
+  "email": "annekestichling@freenet.de",
+  "website": "http://osteopathie-stichling.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

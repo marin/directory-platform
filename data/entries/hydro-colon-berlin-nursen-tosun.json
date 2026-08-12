@@ -1,0 +1,32 @@
+{
+  "id": "hydro-colon-berlin-nursen-tosun",
+  "slug": "hydro-colon-berlin-nursen-tosun",
+  "name": "Hydro-Colon-Berlin (Nursen Tosun)",
+  "description": "Hydro-Colon-Berlin (Nursen Tosun) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Grimmstraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4933966,
+    "lng": 13.4146703
+  },
+  "phone": "015772546863",
+  "email": "info@aqualorin.de",
+  "website": "http://hydrocolon-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

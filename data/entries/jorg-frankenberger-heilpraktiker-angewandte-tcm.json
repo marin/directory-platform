@@ -1,0 +1,33 @@
+{
+  "id": "jorg-frankenberger-heilpraktiker-angewandte-tcm",
+  "slug": "jorg-frankenberger-heilpraktiker-angewandte-tcm",
+  "name": "JÖRG FRANKENBERGER - HEILPRAKTIKER - ANGEWANDTE TCM",
+  "description": "JÖRG FRANKENBERGER - HEILPRAKTIKER - ANGEWANDTE TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Ihnestraße 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14195",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.447314,
+    "lng": 13.275112
+  },
+  "phone": "03084107559",
+  "email": "haus-rat@t-online.de",
+  "website": "http://www.qi-net.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

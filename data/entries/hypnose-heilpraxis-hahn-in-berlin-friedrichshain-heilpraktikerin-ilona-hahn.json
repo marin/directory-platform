@@ -1,0 +1,32 @@
+{
+  "id": "hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn",
+  "slug": "hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn",
+  "name": "Hypnose & Heilpraxis Hahn in Berlin Friedrichshain - Heilpraktikerin Ilona Hahn",
+  "description": "Hypnose & Heilpraxis Hahn in Berlin Friedrichshain - Heilpraktikerin Ilona Hahn ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Bänschstraße 38",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.518302899999995,
+    "lng": 13.4635787
+  },
+  "phone": "017655106088",
+  "website": "http://www.hypnose-und-heilpraxis-hahn.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

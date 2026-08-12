@@ -1,0 +1,32 @@
+{
+  "id": "kerstin-loss-heilpraktikerin",
+  "slug": "kerstin-loss-heilpraktikerin",
+  "name": "Kerstin Loss, Heilpraktikerin",
+  "description": "Kerstin Loss, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kavalierstraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5739957,
+    "lng": 13.4100334
+  },
+  "phone": "03043745225",
+  "email": "kerstinloss@aol.com",
+  "website": "http://kerstin-loss.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

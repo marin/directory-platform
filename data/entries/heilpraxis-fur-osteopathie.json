@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-fur-osteopathie",
+  "slug": "heilpraxis-fur-osteopathie",
+  "name": "Heilpraxis für Osteopathie",
+  "description": "Heilpraxis für Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Fürstenwalder Allee 128",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4356697,
+    "lng": 13.699460799999999
+  },
+  "phone": "03058899195",
+  "website": "https://www.osteopathie-rahnsdorf.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

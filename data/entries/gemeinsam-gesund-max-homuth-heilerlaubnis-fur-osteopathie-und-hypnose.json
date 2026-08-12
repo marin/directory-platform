@@ -1,0 +1,34 @@
+{
+  "id": "gemeinsam-gesund-max-homuth-heilerlaubnis-fur-osteopathie-und-hypnose",
+  "slug": "gemeinsam-gesund-max-homuth-heilerlaubnis-fur-osteopathie-und-hypnose",
+  "name": "Gemeinsam Gesund - Max Homuth (Heilerlaubnis für Osteopathie und Hypnose)",
+  "description": "Gemeinsam Gesund - Max Homuth (Heilerlaubnis für Osteopathie und Hypnose) ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "hypnose"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Sickingenstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10553",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5326394,
+    "lng": 13.325908499999999
+  },
+  "phone": "017621861654",
+  "email": "max.homuth@gemeinsam-gesund.net",
+  "website": "https://www.gemeinsam-gesund.net/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/max-homuth?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

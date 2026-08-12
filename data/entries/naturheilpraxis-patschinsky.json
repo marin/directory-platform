@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-patschinsky",
+  "slug": "naturheilpraxis-patschinsky",
+  "name": "Naturheilpraxis Patschinsky",
+  "description": "Naturheilpraxis Patschinsky ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Fürstenwalder Damm 477",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.456867599999995,
+    "lng": 13.6240487
+  },
+  "phone": "01732817684",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

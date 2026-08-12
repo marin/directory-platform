@@ -1,0 +1,35 @@
+{
+  "id": "miriam-wiese-heilpraktikerin-praxis-fur-akupunktur-tcm-psychologische-beratung",
+  "slug": "miriam-wiese-heilpraktikerin-praxis-fur-akupunktur-tcm-psychologische-beratung",
+  "name": "Miriam Wiese Heilpraktikerin, Praxis für Akupunktur (TCM) & Psychologische Beratung",
+  "description": "Miriam Wiese Heilpraktikerin, Praxis für Akupunktur (TCM) & Psychologische Beratung ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Rückertstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5107456,
+    "lng": 13.302992699999999
+  },
+  "phone": "015567042907",
+  "email": "mail@akarui.berlin",
+  "website": "http://www.miriam-wiese.com/",
+  "bookingUrl": "https://miriamwiesecom.as.me/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

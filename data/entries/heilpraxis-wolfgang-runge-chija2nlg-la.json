@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-wolfgang-runge-chija2nlg-la",
+  "slug": "heilpraxis-wolfgang-runge-chija2nlg-la",
+  "name": "Heilpraxis Wolfgang Runge",
+  "description": "Heilpraxis Wolfgang Runge ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kaulbachstraße 10A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4372146,
+    "lng": 13.3311584
+  },
+  "phone": "0302923194",
+  "email": "praxis@w-runge.de",
+  "website": "https://www.w-runge.de/",
+  "bookingUrl": "https://w-runge.de/termine-berlin.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

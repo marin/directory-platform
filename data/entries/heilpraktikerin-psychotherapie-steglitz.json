@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-psychotherapie-steglitz",
+  "slug": "heilpraktikerin-psychotherapie-steglitz",
+  "name": "Heilpraktikerin Psychotherapie Steglitz",
+  "description": "Heilpraktikerin Psychotherapie Steglitz ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Klingsorstraße 122",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4434228,
+    "lng": 13.3164547
+  },
+  "phone": "01744518892",
+  "email": "info@hpp-schlichting.de",
+  "website": "https://heilpraktiker-in-psychotherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

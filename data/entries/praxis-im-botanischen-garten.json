@@ -1,0 +1,32 @@
+{
+  "id": "praxis-im-botanischen-garten",
+  "slug": "praxis-im-botanischen-garten",
+  "name": "Praxis im Botanischen Garten",
+  "description": "Praxis im Botanischen Garten ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Am Fichtenberg 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45316,
+    "lng": 13.3096299
+  },
+  "phone": "01639893947",
+  "email": "alchemilla57@t-online.de",
+  "website": "http://www.naturheilpraxis-botanischergarten.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

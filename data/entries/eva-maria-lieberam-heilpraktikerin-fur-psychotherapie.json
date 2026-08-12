@@ -1,0 +1,34 @@
+{
+  "id": "eva-maria-lieberam-heilpraktikerin-fur-psychotherapie",
+  "slug": "eva-maria-lieberam-heilpraktikerin-fur-psychotherapie",
+  "name": "Eva-Maria Lieberam - Heilpraktikerin für Psychotherapie",
+  "description": "Eva-Maria Lieberam - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kommandantenstraße 105",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4397216,
+    "lng": 13.2936462
+  },
+  "phone": "01629011931",
+  "email": "praxis@therapie-lieberam.de",
+  "website": "https://www.therapie-lieberam.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

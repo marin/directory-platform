@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde",
+  "slug": "naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde",
+  "name": "Naturheilpraxis Lebensweise - Heilpraktikerin Nicola Cordes Frauenheilkunde",
+  "description": "Naturheilpraxis Lebensweise - Heilpraktikerin Nicola Cordes Frauenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Marienburger Str. 5A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.534735399999995,
+    "lng": 13.423449
+  },
+  "phone": "03064092595",
+  "website": "http://www.naturheilpraxis-lebensweise.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

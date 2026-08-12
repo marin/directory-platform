@@ -1,0 +1,31 @@
+{
+  "id": "ines-finke-heilpraktikerin-fur-psychotherapie-traumatherapie-heilprg",
+  "slug": "ines-finke-heilpraktikerin-fur-psychotherapie-traumatherapie-heilprg",
+  "name": "Ines Finke Heilpraktikerin für Psychotherapie Traumatherapie (HeilprG)",
+  "description": "Ines Finke Heilpraktikerin für Psychotherapie Traumatherapie (HeilprG) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Praxis im Yoga Sky Berlin",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4883829,
+    "lng": 13.3878822
+  },
+  "phone": "015122650748",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

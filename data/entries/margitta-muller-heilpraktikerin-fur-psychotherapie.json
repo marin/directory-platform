@@ -1,0 +1,34 @@
+{
+  "id": "margitta-muller-heilpraktikerin-fur-psychotherapie",
+  "slug": "margitta-muller-heilpraktikerin-fur-psychotherapie",
+  "name": "Margitta Müller Heilpraktikerin für Psychotherapie",
+  "description": "Margitta Müller Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Franklinstraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5184429,
+    "lng": 13.3262296
+  },
+  "phone": "0303125369",
+  "website": "http://www.margittamueller.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

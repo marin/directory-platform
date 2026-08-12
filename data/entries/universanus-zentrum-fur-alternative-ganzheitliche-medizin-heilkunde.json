@@ -1,0 +1,34 @@
+{
+  "id": "universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde",
+  "slug": "universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde",
+  "name": "Universanus - Zentrum für alternative ganzheitliche Medizin & Heilkunde",
+  "description": "Universanus - Zentrum für alternative ganzheitliche Medizin & Heilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Torstraße 177",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5287271,
+    "lng": 13.394257099999999
+  },
+  "phone": "03044318089",
+  "email": "mail@universanus.de",
+  "website": "http://www.universanus.de/",
+  "bookingUrl": "https://universanus.de/termine-vereinbaren/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

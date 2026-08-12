@@ -1,0 +1,31 @@
+{
+  "id": "dr-agr-sonja-tichy-heilpraktikerin",
+  "slug": "dr-agr-sonja-tichy-heilpraktikerin",
+  "name": "Dr.agr. Sonja Tichy Heilpraktikerin",
+  "description": "Dr.agr. Sonja Tichy Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bendigstraße 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4204748,
+    "lng": 13.5938378
+  },
+  "phone": "0306544444",
+  "website": "https://naturheilkunde-praxis.regional.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

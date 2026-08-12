@@ -1,0 +1,33 @@
+{
+  "id": "victualis-naturheilpraxis-heilpraktikerin-anne-becker",
+  "slug": "victualis-naturheilpraxis-heilpraktikerin-anne-becker",
+  "name": "Victualis Naturheilpraxis - Heilpraktikerin Anne Becker",
+  "description": "Victualis Naturheilpraxis - Heilpraktikerin Anne Becker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Hauptstraße 121",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.482872,
+    "lng": 13.3505576
+  },
+  "phone": "03058884081",
+  "email": "info@victualis-naturheilpraxis.de",
+  "website": "https://www.victualis-naturheilpraxis.de/",
+  "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/becker-anne?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

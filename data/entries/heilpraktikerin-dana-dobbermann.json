@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-dana-dobbermann",
+  "slug": "heilpraktikerin-dana-dobbermann",
+  "name": "Heilpraktikerin Dana Dobbermann",
+  "description": "Heilpraktikerin Dana Dobbermann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Alt-Friedrichsfelde 65A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10315",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5106677,
+    "lng": 13.5356431
+  },
+  "phone": "03051060422",
+  "website": "https://www.dobbermann.eu/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

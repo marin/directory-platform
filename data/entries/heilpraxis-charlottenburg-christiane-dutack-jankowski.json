@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-charlottenburg-christiane-dutack-jankowski",
+  "slug": "heilpraxis-charlottenburg-christiane-dutack-jankowski",
+  "name": "Heilpraxis Charlottenburg - Christiane Dutack-Jankowski",
+  "description": "Heilpraxis Charlottenburg - Christiane Dutack-Jankowski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Leibnizstraße 102 Ecke",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5131175,
+    "lng": 13.314165299999999
+  },
+  "phone": "03034508838",
+  "email": "info@heilpraxis-charlottenburg.de",
+  "website": "https://www.heilpraxis-charlottenburg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

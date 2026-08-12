@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-martina-luhrmann-praxis-fur-osteopathie-und-allergietherapie",
+  "slug": "heilpraxis-martina-luhrmann-praxis-fur-osteopathie-und-allergietherapie",
+  "name": "Heilpraxis-Martina Lührmann, Praxis für Osteopathie und Allergietherapie",
+  "description": "Heilpraxis-Martina Lührmann, Praxis für Osteopathie und Allergietherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Helgolandstraße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14199",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4729099,
+    "lng": 13.2990582
+  },
+  "phone": "03036752262",
+  "website": "http://heilpraxis-wurm.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

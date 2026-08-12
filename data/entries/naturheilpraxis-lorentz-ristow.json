@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-lorentz-ristow",
+  "slug": "naturheilpraxis-lorentz-ristow",
+  "name": "Naturheilpraxis Lorentz-Ristow",
+  "description": "Naturheilpraxis Lorentz-Ristow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Westfälische Str. 82",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10709",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4929193,
+    "lng": 13.3056749
+  },
+  "phone": "03032707300",
+  "website": "http://www.naturheilpraxis-lorentz-ristow.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carla-lorentz-ristow?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

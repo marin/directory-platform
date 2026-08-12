@@ -1,0 +1,32 @@
+{
+  "id": "wiebke-kossecki-heilpraktikerin-fur-psychotherapie",
+  "slug": "wiebke-kossecki-heilpraktikerin-fur-psychotherapie",
+  "name": "Wiebke Kossecki, Heilpraktikerin für Psychotherapie",
+  "description": "Wiebke Kossecki, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Uhlandstraße 145",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.495921599999996,
+    "lng": 13.324330199999999
+  },
+  "phone": "03082007867",
+  "website": "http://www.wiebke-kossecki.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

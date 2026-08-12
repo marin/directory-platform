@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-provital-in-berlin-spandau-monika-mukherjea-heilpraktikerin",
+  "slug": "heilpraxis-provital-in-berlin-spandau-monika-mukherjea-heilpraktikerin",
+  "name": "Heilpraxis proVital in Berlin Spandau | Monika Mukherjea Heilpraktikerin",
+  "description": "Heilpraxis proVital in Berlin Spandau | Monika Mukherjea Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Alt-Kladow 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14089",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4527326,
+    "lng": 13.1444365
+  },
+  "phone": "03024533337",
+  "email": "info@provital-kladow.de",
+  "website": "https://www.provital-kladow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

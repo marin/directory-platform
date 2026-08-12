@@ -1,0 +1,33 @@
+{
+  "id": "peter-krauss-heilpraktiker-homoopathie-shiatsu-guolin-qigong-und-naturheilkundli",
+  "slug": "peter-krauss-heilpraktiker-homoopathie-shiatsu-guolin-qigong-und-naturheilkundli",
+  "name": "Peter Krauss Heilpraktiker, Homöopathie, Shiatsu, GuoLin QiGong und naturheilkundliche biologische Krebstherapie in Berlin .",
+  "description": "Peter Krauss Heilpraktiker, Homöopathie, Shiatsu, GuoLin QiGong und naturheilkundliche biologische Krebstherapie in Berlin . ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Gleditschstraße 44 Eingang 2 li",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10781",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.492452199999995,
+    "lng": 13.3548832
+  },
+  "phone": "0302169006",
+  "email": "peter@heilpraktiker-krauss.de",
+  "website": "http://www.heilpraktiker-krauss.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

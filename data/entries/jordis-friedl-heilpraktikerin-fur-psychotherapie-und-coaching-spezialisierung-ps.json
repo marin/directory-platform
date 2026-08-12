@@ -1,0 +1,33 @@
+{
+  "id": "jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps",
+  "slug": "jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps",
+  "name": "Jördis Friedl - Heilpraktikerin für Psychotherapie und Coaching - Spezialisierung Psychoonkologie",
+  "description": "Jördis Friedl - Heilpraktikerin für Psychotherapie und Coaching - Spezialisierung Psychoonkologie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Gemeinschaftspraxis Erdgeschoss links",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4951643,
+    "lng": 13.4191194
+  },
+  "phone": "017663160322",
+  "email": "info@heilpraxis-friedl.de",
+  "website": "http://www.heilpraxis-friedl.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

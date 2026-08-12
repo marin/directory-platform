@@ -1,0 +1,33 @@
+{
+  "id": "praxis-nathanael-schwartz-heilpraktiker",
+  "slug": "praxis-nathanael-schwartz-heilpraktiker",
+  "name": "Praxis Nathanael Schwartz Heilpraktiker",
+  "description": "Praxis Nathanael Schwartz Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Charlottenbrunner Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4880522,
+    "lng": 13.2982819
+  },
+  "phone": "0308263753",
+  "email": "info@living-homeopathy.net",
+  "website": "http://www.living-homeopathy.net/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

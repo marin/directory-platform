@@ -1,0 +1,30 @@
+{
+  "id": "dr-farbod-mahdjour-heilpraktiker",
+  "slug": "dr-farbod-mahdjour-heilpraktiker",
+  "name": "Dr. Farbod Mahdjour Heilpraktiker",
+  "description": "Dr. Farbod Mahdjour Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Laubenheimer Str. 30",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14197",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4699135,
+    "lng": 13.314679199999999
+  },
+  "phone": "0308243097",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

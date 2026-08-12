@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-antonia-wittek-regsamkeit-wachstum",
+  "slug": "heilpraktikerin-fur-psychotherapie-antonia-wittek-regsamkeit-wachstum",
+  "name": "Heilpraktikerin für Psychotherapie – Antonia Wittek – Regsamkeit & Wachstum",
+  "description": "Heilpraktikerin für Psychotherapie – Antonia Wittek – Regsamkeit & Wachstum ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Schwedter Str. 249",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5349072,
+    "lng": 13.4069594
+  },
+  "phone": "01734938448",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

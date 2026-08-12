@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-elisabeth-seidel",
+  "slug": "heilpraktikerin-elisabeth-seidel",
+  "name": "Heilpraktikerin Elisabeth Seidel",
+  "description": "Heilpraktikerin Elisabeth Seidel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Nollendorfstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10777",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.497431,
+    "lng": 13.3509981
+  },
+  "phone": "03031806915",
+  "email": "praxis@elisabethseidel.de",
+  "website": "https://www.elisabethseidel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

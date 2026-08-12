@@ -1,0 +1,33 @@
+{
+  "id": "viktoria-koster-korpertherapie-und-frauengruppen",
+  "slug": "viktoria-koster-korpertherapie-und-frauengruppen",
+  "name": "Viktoria Köster | Körpertherapie und Frauengruppen",
+  "description": "Viktoria Köster | Körpertherapie und Frauengruppen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Allerstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4747773,
+    "lng": 13.4213606
+  },
+  "phone": "015787106010",
+  "email": "info@viktoriakoester.de",
+  "website": "https://www.viktoriakoester.de/",
+  "bookingUrl": "https://calendly.com/viktoria-koester",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

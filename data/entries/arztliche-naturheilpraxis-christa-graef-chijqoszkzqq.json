@@ -1,0 +1,33 @@
+{
+  "id": "arztliche-naturheilpraxis-christa-graef-chijqoszkzqq",
+  "slug": "arztliche-naturheilpraxis-christa-graef-chijqoszkzqq",
+  "name": "Ärztliche Naturheilpraxis Christa Graef",
+  "description": "Ärztliche Naturheilpraxis Christa Graef ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Vorbergstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.48941,
+    "lng": 13.3553701
+  },
+  "phone": "0307829379",
+  "email": "graefgraef@aol.com",
+  "website": "http://www.heilen-mit-homoeopathie.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

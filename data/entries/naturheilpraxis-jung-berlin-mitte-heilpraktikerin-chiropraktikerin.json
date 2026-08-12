@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin",
+  "slug": "naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin",
+  "name": "Naturheilpraxis Jung Berlin Mitte Heilpraktikerin Chiropraktikerin",
+  "description": "Naturheilpraxis Jung Berlin Mitte Heilpraktikerin Chiropraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Gormannstraße 18 A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5298095,
+    "lng": 13.4053913
+  },
+  "phone": "03039203682",
+  "email": "info@heilpraxis-jung.de",
+  "website": "https://www.heilpraxis-jung.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

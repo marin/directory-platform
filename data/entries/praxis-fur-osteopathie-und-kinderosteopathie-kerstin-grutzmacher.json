@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-osteopathie-und-kinderosteopathie-kerstin-grutzmacher",
+  "slug": "praxis-fur-osteopathie-und-kinderosteopathie-kerstin-grutzmacher",
+  "name": "Praxis für Osteopathie und Kinderosteopathie Kerstin Grützmacher",
+  "description": "Praxis für Osteopathie und Kinderosteopathie Kerstin Grützmacher ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Ehrlichstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4793899,
+    "lng": 13.5217466
+  },
+  "phone": "01793552182",
+  "email": "mail@kerstin-gruetzmacher.de",
+  "website": "http://www.kerstin-gruetzmacher.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

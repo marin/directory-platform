@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-angela-kassner",
+  "slug": "heilpraktikerin-angela-kassner",
+  "name": "Heilpraktikerin Angela Käßner",
+  "description": "Heilpraktikerin Angela Käßner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Knesebeckstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5043728,
+    "lng": 13.3217021
+  },
+  "phone": "0308815702",
+  "website": "http://www.naturheilpraxis-kaessner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-und-gesundheitscoach-berlin-susan-schubert",
+  "slug": "heilpraktiker-und-gesundheitscoach-berlin-susan-schubert",
+  "name": "Heilpraktiker und Gesundheitscoach Berlin Susan Schubert",
+  "description": "Heilpraktiker und Gesundheitscoach Berlin Susan Schubert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Grünberger Str. 20",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10243",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.512709199999996,
+    "lng": 13.450168
+  },
+  "phone": "03028866569",
+  "website": "http://heilweg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

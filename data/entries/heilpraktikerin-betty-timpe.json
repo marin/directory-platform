@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-betty-timpe",
+  "slug": "heilpraktikerin-betty-timpe",
+  "name": "Heilpraktikerin Betty Timpe",
+  "description": "Heilpraktikerin Betty Timpe ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Marburger Str. 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10789",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.503035,
+    "lng": 13.3368161
+  },
+  "phone": "01604476772",
+  "website": "https://www.betty-timpe.de/",
+  "bookingUrl": "https://www.betty-timpe.de/termin-buchen/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

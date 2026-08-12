@@ -1,0 +1,32 @@
+{
+  "id": "ursula-jendrek-heilpraktikerin",
+  "slug": "ursula-jendrek-heilpraktikerin",
+  "name": "Ursula Jendrek, Heilpraktikerin",
+  "description": "Ursula Jendrek, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Jacobsenweg 56",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13509",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.582375299999995,
+    "lng": 13.2962826
+  },
+  "phone": "033056224355",
+  "email": "info@homoeopathie-berlin-praxis.de",
+  "website": "http://www.homoeopathie-berlin-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

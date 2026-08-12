@@ -1,0 +1,33 @@
+{
+  "id": "chinesische-naturheilpraxis-fur-gesundes-leben",
+  "slug": "chinesische-naturheilpraxis-fur-gesundes-leben",
+  "name": "Chinesische Naturheilpraxis für gesundes Leben",
+  "description": "Chinesische Naturheilpraxis für gesundes Leben ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Berliner Straße 54",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10713",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4866111,
+    "lng": 13.3163372
+  },
+  "phone": "015229901919",
+  "email": "berlin@chi-nan-praxis.de",
+  "website": "http://chi-nan-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

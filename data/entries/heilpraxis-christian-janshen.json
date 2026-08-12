@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-christian-janshen",
+  "slug": "heilpraxis-christian-janshen",
+  "name": "Heilpraxis Christian Janshen",
+  "description": "Heilpraxis Christian Janshen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Schönburgstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12103",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.463868999999995,
+    "lng": 13.3818699
+  },
+  "phone": "03075515952",
+  "email": "mail@heilpraxis-janshen.de",
+  "website": "http://www.heilpraxis-janshen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

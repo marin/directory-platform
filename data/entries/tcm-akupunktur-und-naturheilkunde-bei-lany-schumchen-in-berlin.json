@@ -1,0 +1,33 @@
+{
+  "id": "tcm-akupunktur-und-naturheilkunde-bei-lany-schumchen-in-berlin",
+  "slug": "tcm-akupunktur-und-naturheilkunde-bei-lany-schumchen-in-berlin",
+  "name": "TCM, Akupunktur und Naturheilkunde bei Lany Schümchen in Berlin.",
+  "description": "TCM, Akupunktur und Naturheilkunde bei Lany Schümchen in Berlin. ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Teltower Damm 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.430074,
+    "lng": 13.2593836
+  },
+  "phone": "017620774972",
+  "website": "http://www.tcm-arzt-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

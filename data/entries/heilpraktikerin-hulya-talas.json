@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-hulya-talas",
+  "slug": "heilpraktikerin-hulya-talas",
+  "name": "Heilpraktikerin Hülya Talas",
+  "description": "Heilpraktikerin Hülya Talas ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Leberstraße 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.484497999999995,
+    "lng": 13.361796
+  },
+  "phone": "01791142034",
+  "email": "info@heilpraktikerinhuelya.de",
+  "website": "https://heilpraktikerinhuelya.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

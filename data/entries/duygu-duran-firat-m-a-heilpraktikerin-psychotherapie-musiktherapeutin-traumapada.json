@@ -1,0 +1,32 @@
+{
+  "id": "duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada",
+  "slug": "duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada",
+  "name": "Duygu Duran-Firat M.A., Heilpraktikerin (Psychotherapie), Musiktherapeutin, Traumapädagogin, Traumazentrierte Fachberaterin",
+  "description": "Duygu Duran-Firat M.A., Heilpraktikerin (Psychotherapie), Musiktherapeutin, Traumapädagogin, Traumazentrierte Fachberaterin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Sonnenallee 90",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4825453,
+    "lng": 13.4378128
+  },
+  "phone": "01637852916",
+  "website": "http://duyguduran.com/de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

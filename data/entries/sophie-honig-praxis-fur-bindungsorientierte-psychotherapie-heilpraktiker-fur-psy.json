@@ -1,0 +1,32 @@
+{
+  "id": "sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy",
+  "slug": "sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy",
+  "name": "Sophie Honig - Praxis für bindungsorientierte Psychotherapie (Heilpraktiker für Psychotherapie)",
+  "description": "Sophie Honig - Praxis für bindungsorientierte Psychotherapie (Heilpraktiker für Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Akazienstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4872057,
+    "lng": 13.3546049
+  },
+  "website": "http://www.sophie-honig.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/sophie-honig?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

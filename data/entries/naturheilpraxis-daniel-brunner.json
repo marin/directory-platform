@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-daniel-brunner",
+  "slug": "naturheilpraxis-daniel-brunner",
+  "name": "Naturheilpraxis Daniel Brunner",
+  "description": "Naturheilpraxis Daniel Brunner ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Siemensstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10551",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.532708299999996,
+    "lng": 13.3303728
+  },
+  "phone": "015151113146",
+  "email": "info@hp-brunner.de",
+  "website": "https://www.hp-brunner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

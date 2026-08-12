@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-naturheilkunde-christina-schenck",
+  "slug": "praxis-fur-naturheilkunde-christina-schenck",
+  "name": "Praxis für Naturheilkunde Christina Schenck",
+  "description": "Praxis für Naturheilkunde Christina Schenck ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Neue Schönhauser Str. 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10178",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.524628899999996,
+    "lng": 13.405527099999999
+  },
+  "phone": "0306913418",
+  "email": "kontakt@naturheilkunde-berlin.de",
+  "website": "http://www.naturheilkunde-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

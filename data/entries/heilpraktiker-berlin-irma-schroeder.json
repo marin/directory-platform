@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-berlin-irma-schroeder",
+  "slug": "heilpraktiker-berlin-irma-schroeder",
+  "name": "Heilpraktiker Berlin - Irma Schroeder",
+  "description": "Heilpraktiker Berlin - Irma Schroeder ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Crellestraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489868599999994,
+    "lng": 13.3637038
+  },
+  "phone": "03050577009",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

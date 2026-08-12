@@ -1,0 +1,33 @@
+{
+  "id": "psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker",
+  "slug": "psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker",
+  "name": "Psychologische Kinderwunschberatung, Praxis VALEO, Pascale Chartrain, Heilpraktikerin für Psychotherapie",
+  "description": "Psychologische Kinderwunschberatung, Praxis VALEO, Pascale Chartrain, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Genter Str. 56",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13353",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5482756,
+    "lng": 13.3529068
+  },
+  "phone": "01736132850",
+  "email": "kinderwunschzeit@gmx.net",
+  "website": "http://www.kinderwunschzeit.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

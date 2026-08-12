@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-massage-leonard-engel-heilpraktiker",
+  "slug": "osteopathie-massage-leonard-engel-heilpraktiker",
+  "name": "Osteopathie & Massage - Léonard Engel, Heilpraktiker",
+  "description": "Osteopathie & Massage - Léonard Engel, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselpl. 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4874923,
+    "lng": 13.4382655
+  },
+  "phone": "015731726000",
+  "email": "info@osteopathie-leonardengel.de",
+  "website": "https://osteopathie-leonardengel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

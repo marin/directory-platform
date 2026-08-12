@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-gotho-wanderer",
+  "slug": "heilpraktiker-gotho-wanderer",
+  "name": "Heilpraktiker Gotho Wanderer",
+  "description": "Heilpraktiker Gotho Wanderer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wundtstraße 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.512875099999995,
+    "lng": 13.2946697
+  },
+  "phone": "03032105132",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

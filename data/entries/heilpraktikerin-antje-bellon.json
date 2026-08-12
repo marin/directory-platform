@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-antje-bellon",
+  "slug": "heilpraktikerin-antje-bellon",
+  "name": "Heilpraktikerin Antje Bellon",
+  "description": "Heilpraktikerin Antje Bellon ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Heidekampweg 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.463774099999995,
+    "lng": 13.4805804
+  },
+  "phone": "03042021732",
+  "email": "praxis@antje-bellon.de",
+  "website": "http://www.homoeopathie.antje-bellon.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

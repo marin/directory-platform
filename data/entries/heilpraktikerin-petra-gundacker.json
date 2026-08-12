@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-petra-gundacker",
+  "slug": "heilpraktikerin-petra-gundacker",
+  "name": "Heilpraktikerin Petra Gundacker",
+  "description": "Heilpraktikerin Petra Gundacker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.542007,
+    "lng": 13.417638
+  },
+  "phone": "03031174975",
+  "email": "info@heilpraktiker-gundacker.de",
+  "website": "https://heilpraktiker-gundacker.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ebeling-carsten-heilpraktiker",
+  "slug": "ebeling-carsten-heilpraktiker",
+  "name": "Ebeling Carsten Heilpraktiker",
+  "description": "Ebeling Carsten Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Leonorenstraße 71",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4388589,
+    "lng": 13.3441423
+  },
+  "phone": "03050599920",
+  "email": "info@praxis-ebeling.de",
+  "website": "http://www.praxis-ebeling.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/naturheilpraxis-carsten-ebeling",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

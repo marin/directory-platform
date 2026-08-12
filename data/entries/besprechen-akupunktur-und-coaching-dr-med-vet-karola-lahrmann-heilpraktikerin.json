@@ -1,0 +1,33 @@
+{
+  "id": "besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin",
+  "slug": "besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin",
+  "name": "Besprechen, Akupunktur und Coaching Dr. med. vet. Karola Lahrmann, Heilpraktikerin",
+  "description": "Besprechen, Akupunktur und Coaching Dr. med. vet. Karola Lahrmann, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Knesebeckstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5043728,
+    "lng": 13.3217021
+  },
+  "phone": "01775644419",
+  "website": "https://www.akupunktur-und-coaching.de/",
+  "bookingUrl": "https://www.besprechen-berlin.de/#Terminformular",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

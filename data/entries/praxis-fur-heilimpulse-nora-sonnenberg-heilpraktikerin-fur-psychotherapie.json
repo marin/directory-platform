@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie",
+  "slug": "praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie",
+  "name": "Praxis für Heilimpulse Nora Sonnenberg - Heilpraktikerin für Psychotherapie",
+  "description": "Praxis für Heilimpulse Nora Sonnenberg - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Schwedenstraße 15a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13357",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5552972,
+    "lng": 13.375061599999999
+  },
+  "phone": "03021025915",
+  "email": "kontakt@heilimpulse-berlin.de",
+  "website": "http://www.heilimpulse-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

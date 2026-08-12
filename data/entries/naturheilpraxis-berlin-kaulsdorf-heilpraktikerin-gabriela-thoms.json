@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms",
+  "slug": "naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms",
+  "name": "Naturheilpraxis Berlin-Kaulsdorf | Heilpraktikerin Gabriela Thoms",
+  "description": "Naturheilpraxis Berlin-Kaulsdorf | Heilpraktikerin Gabriela Thoms ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Myslowitzer Str. 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12621",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5089045,
+    "lng": 13.5930593
+  },
+  "phone": "0305676227",
+  "email": "info@gabriela-thoms.de",
+  "website": "https://gabriela-thoms.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

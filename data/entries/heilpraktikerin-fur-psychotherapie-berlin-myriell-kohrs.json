@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-berlin-myriell-kohrs",
+  "slug": "heilpraktikerin-fur-psychotherapie-berlin-myriell-kohrs",
+  "name": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs",
+  "description": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Monumentenstraße 35",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4884436,
+    "lng": 13.3653591
+  },
+  "phone": "03026546125",
+  "email": "mail@kohrs-psychotherapie-berlin.de",
+  "website": "https://www.kohrs-psychotherapie-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

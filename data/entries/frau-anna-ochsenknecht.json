@@ -1,0 +1,30 @@
+{
+  "id": "frau-anna-ochsenknecht",
+  "slug": "frau-anna-ochsenknecht",
+  "name": "Frau Anna Ochsenknecht",
+  "description": "Frau Anna Ochsenknecht ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Schmiljanstraße 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4701326,
+    "lng": 13.330173
+  },
+  "phone": "0308592195",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-psychotherapie-nicole-schneider-heilpraktikerin",
+  "slug": "praxis-fur-psychotherapie-nicole-schneider-heilpraktikerin",
+  "name": "Praxis für Psychotherapie Nicole Schneider Heilpraktikerin",
+  "description": "Praxis für Psychotherapie Nicole Schneider Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pfalzburger Str. 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10717",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491145599999996,
+    "lng": 13.321627099999999
+  },
+  "phone": "03022465501",
+  "email": "nicole@praxis-mit-gefuehl.de",
+  "website": "https://praxis-mit-gefuehl.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/nicole-schneider-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

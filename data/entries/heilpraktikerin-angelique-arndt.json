@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-angelique-arndt",
+  "slug": "heilpraktikerin-angelique-arndt",
+  "name": "Heilpraktikerin Angélique Arndt",
+  "description": "Heilpraktikerin Angélique Arndt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486315999999995,
+    "lng": 13.435431999999999
+  },
+  "phone": "01782871264",
+  "email": "kontakt@heilpraxisarndt.de",
+  "website": "https://www.heilpraxisarndt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

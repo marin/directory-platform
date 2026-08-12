@@ -1,0 +1,34 @@
+{
+  "id": "simon-matthias-heilpraktiker-fur-psychotherapie-coaching-therapie-supervision",
+  "slug": "simon-matthias-heilpraktiker-fur-psychotherapie-coaching-therapie-supervision",
+  "name": "Simon Matthias - Heilpraktiker für Psychotherapie - Coaching | Therapie | Supervision",
+  "description": "Simon Matthias - Heilpraktiker für Psychotherapie - Coaching | Therapie | Supervision ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Mohriner Allee 98",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4409205,
+    "lng": 13.419829
+  },
+  "phone": "015753731618",
+  "email": "abc@xyz.com",
+  "website": "http://www.simon-matthias.de/",
+  "bookingUrl": "https://www.simon-matthias.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "herr-thorsten-haack",
+  "slug": "herr-thorsten-haack",
+  "name": "Herr Thorsten Haack",
+  "description": "Herr Thorsten Haack ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Tegeler Str. 38",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13353",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.541275,
+    "lng": 13.357145
+  },
+  "phone": "03062737678",
+  "website": "https://www.thorsten-haack.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

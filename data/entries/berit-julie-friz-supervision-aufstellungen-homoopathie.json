@@ -1,0 +1,33 @@
+{
+  "id": "berit-julie-friz-supervision-aufstellungen-homoopathie",
+  "slug": "berit-julie-friz-supervision-aufstellungen-homoopathie",
+  "name": "Berit Julie Friz | Supervision | Aufstellungen | Homöopathie",
+  "description": "Berit Julie Friz | Supervision | Aufstellungen | Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Gotenstraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4824664,
+    "lng": 13.3598217
+  },
+  "phone": "03035053190",
+  "email": "info@beritjuliefriz.de",
+  "website": "https://www.beritjuliefriz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

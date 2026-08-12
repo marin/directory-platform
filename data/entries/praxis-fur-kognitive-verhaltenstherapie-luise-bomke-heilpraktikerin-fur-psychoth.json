@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth",
+  "slug": "praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth",
+  "name": "Praxis für kognitive Verhaltenstherapie | Luise Bomke - Heilpraktikerin für Psychotherapie",
+  "description": "Praxis für kognitive Verhaltenstherapie | Luise Bomke - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Ebelingstraße 14A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10249",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523821399999996,
+    "lng": 13.450998199999999
+  },
+  "phone": "015157442087",
+  "email": "info@luisebomke.de",
+  "website": "https://luisebomke.de/",
+  "bookingUrl": "https://luisebomke.de/sprechstunde",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

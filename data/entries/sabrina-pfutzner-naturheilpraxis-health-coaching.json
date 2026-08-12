@@ -1,0 +1,33 @@
+{
+  "id": "sabrina-pfutzner-naturheilpraxis-health-coaching",
+  "slug": "sabrina-pfutzner-naturheilpraxis-health-coaching",
+  "name": "Sabrina Pfützner - Naturheilpraxis & Health Coaching",
+  "description": "Sabrina Pfützner - Naturheilpraxis & Health Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Mehrower Allee 36b",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12687",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.556149,
+    "lng": 13.5646445
+  },
+  "phone": "03081034989",
+  "email": "praxis@gesundes-menschenleben.de",
+  "website": "http://www.gesundes-menschenleben.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

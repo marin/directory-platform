@@ -1,0 +1,33 @@
+{
+  "id": "bettina-muller-praxis-fur-multifunktionelle-schmerztherapie-hp",
+  "slug": "bettina-muller-praxis-fur-multifunktionelle-schmerztherapie-hp",
+  "name": "Bettina Müller Praxis für Multifunktionelle Schmerztherapie / HP",
+  "description": "Bettina Müller Praxis für Multifunktionelle Schmerztherapie / HP ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Leonhardtstraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5058252,
+    "lng": 13.2964763
+  },
+  "phone": "015738753587",
+  "email": "mail@bettina-mueller.de",
+  "website": "https://www.multifunktionelle-schmerztherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

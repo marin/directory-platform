@@ -1,0 +1,34 @@
+{
+  "id": "akupunktur-praxis-berlin-margret-hofmann",
+  "slug": "akupunktur-praxis-berlin-margret-hofmann",
+  "name": "Akupunktur Praxis Berlin Margret Hofmann",
+  "description": "Akupunktur Praxis Berlin Margret Hofmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Stresemannstraße 35",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10963",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.500581399999994,
+    "lng": 13.3868338
+  },
+  "phone": "01775519465",
+  "email": "margrethofmann@gmx.net",
+  "website": "http://akupunktur-berlin-kreuzberg.de/",
+  "bookingUrl": "https://heilpraktikerinhofmann.de/schamanische-seminare/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

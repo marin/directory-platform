@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-osteopathie-rita-barz",
+  "slug": "praxis-fur-osteopathie-rita-barz",
+  "name": "Praxis für Osteopathie Rita Barz",
+  "description": "Praxis für Osteopathie Rita Barz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Ritterfelddamm 217",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14089",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.472806399999996,
+    "lng": 13.1217726
+  },
+  "phone": "03020096037",
+  "email": "info@osteopathie-barz.de",
+  "website": "http://osteopathie-barz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

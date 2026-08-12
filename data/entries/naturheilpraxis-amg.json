@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-amg",
+  "slug": "naturheilpraxis-amg",
+  "name": "naturheilpraxis amg",
+  "description": "naturheilpraxis amg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Dieffenbachstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491259899999996,
+    "lng": 13.419068099999999
+  },
+  "phone": "01631374861",
+  "email": "naturheilpraxis-amg@outlook.de",
+  "website": "http://www.naturheilpraxis-amg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "thomas-wesselhoft-heilpraktiker",
+  "slug": "thomas-wesselhoft-heilpraktiker",
+  "name": "Thomas Wesselhöft - Heilpraktiker",
+  "description": "Thomas Wesselhöft - Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kanzowstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5458953,
+    "lng": 13.4254058
+  },
+  "phone": "017696917184",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

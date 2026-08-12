@@ -1,0 +1,31 @@
+{
+  "id": "elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit",
+  "slug": "elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit",
+  "name": "Elissavet Thalhofer Heilpraktikerin - Praxis Zsoma - Ganzheitliche Körperarbeit",
+  "description": "Elissavet Thalhofer Heilpraktikerin - Praxis Zsoma - Ganzheitliche Körperarbeit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Ohlauer Str. 3 Erdgeschoss",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4969275,
+    "lng": 13.4319735
+  },
+  "phone": "03089563563",
+  "website": "http://zsoma.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

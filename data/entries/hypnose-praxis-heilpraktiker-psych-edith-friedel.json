@@ -1,0 +1,34 @@
+{
+  "id": "hypnose-praxis-heilpraktiker-psych-edith-friedel",
+  "slug": "hypnose-praxis-heilpraktiker-psych-edith-friedel",
+  "name": "Hypnose Praxis - Heilpraktiker Psych - Edith Friedel",
+  "description": "Hypnose Praxis - Heilpraktiker Psych - Edith Friedel ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Grunewaldstraße 55",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10825",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.488264099999995,
+    "lng": 13.338482899999999
+  },
+  "phone": "01772727896",
+  "email": "info@edithfriedel.de",
+  "website": "https://edithfriedel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

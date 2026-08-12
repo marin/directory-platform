@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-antonia-wittek-heilpraktikerin-fur-psychotherapie",
+  "slug": "naturheilpraxis-antonia-wittek-heilpraktikerin-fur-psychotherapie",
+  "name": "NaturHeilpraxis – Antonia Wittek – Heilpraktikerin für Psychotherapie",
+  "description": "NaturHeilpraxis – Antonia Wittek – Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Drontheimer Str. 21D",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13359",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.560488899999996,
+    "lng": 13.3766199
+  },
+  "phone": "01734938448",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

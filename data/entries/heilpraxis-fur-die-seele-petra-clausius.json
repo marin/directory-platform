@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-fur-die-seele-petra-clausius",
+  "slug": "heilpraxis-fur-die-seele-petra-clausius",
+  "name": "Heilpraxis für die Seele /Petra Clausius",
+  "description": "Heilpraxis für die Seele /Petra Clausius ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bornimer Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4962465,
+    "lng": 13.285161299999999
+  },
+  "phone": "03030830088",
+  "website": "https://www.heilpraxis-fuer-die-seele.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-elke-hertl",
+  "slug": "naturheilpraxis-elke-hertl",
+  "name": "Naturheilpraxis Elke Hertl",
+  "description": "Naturheilpraxis Elke Hertl ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Heidestraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5341156,
+    "lng": 13.3643626
+  },
+  "phone": "01733554127",
+  "website": "https://www.elke-hertl-praxis.de/kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

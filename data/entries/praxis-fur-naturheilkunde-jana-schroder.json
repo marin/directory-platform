@@ -1,0 +1,35 @@
+{
+  "id": "praxis-fur-naturheilkunde-jana-schroder",
+  "slug": "praxis-fur-naturheilkunde-jana-schroder",
+  "name": "Praxis für Naturheilkunde Jana Schröder",
+  "description": "Praxis für Naturheilkunde Jana Schröder ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Gundelfinger Str. 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4839674,
+    "lng": 13.5239748
+  },
+  "phone": "0305030463",
+  "email": "hpjschroeder@aol.com",
+  "website": "https://nhp-schroeder.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

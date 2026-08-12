@@ -1,0 +1,31 @@
+{
+  "id": "caroline-raasch-heilpraktikerin",
+  "slug": "caroline-raasch-heilpraktikerin",
+  "name": "Caroline Raasch Heilpraktikerin",
+  "description": "Caroline Raasch Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "HAUS UNVERDORBEN",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4274401,
+    "lng": 13.3138717
+  },
+  "phone": "03084724739",
+  "website": "http://www.caroline-raasch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

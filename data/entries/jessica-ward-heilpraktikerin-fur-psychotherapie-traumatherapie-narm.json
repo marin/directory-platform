@@ -1,0 +1,32 @@
+{
+  "id": "jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm",
+  "slug": "jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm",
+  "name": "Jessica Ward - Heilpraktikerin für Psychotherapie - Traumatherapie NARM",
+  "description": "Jessica Ward - Heilpraktikerin für Psychotherapie - Traumatherapie NARM ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Wönnichstraße 103/103",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10317",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.501563999999995,
+    "lng": 13.495607999999999
+  },
+  "phone": "017665515460",
+  "website": "https://www.jessica-ward.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

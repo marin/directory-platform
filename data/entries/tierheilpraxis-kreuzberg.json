@@ -1,0 +1,31 @@
+{
+  "id": "tierheilpraxis-kreuzberg",
+  "slug": "tierheilpraxis-kreuzberg",
+  "name": "Tierheilpraxis Kreuzberg",
+  "description": "Tierheilpraxis Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Warschauer Str. 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10243",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5097635,
+    "lng": 13.4508689
+  },
+  "phone": "017634384738",
+  "website": "https://www.tierheilpraxis-kreuzberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

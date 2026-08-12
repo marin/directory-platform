@@ -1,0 +1,32 @@
+{
+  "id": "bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis",
+  "slug": "bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis",
+  "name": "Bernhard Ismer- Heilpraktiker für Psychotherapie, Psychoonkologische Praxis",
+  "description": "Bernhard Ismer- Heilpraktiker für Psychotherapie, Psychoonkologische Praxis ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Strelitzer Str. 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.53398,
+    "lng": 13.39682
+  },
+  "phone": "017684287254",
+  "website": "http://www.heil-hypnose-therapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

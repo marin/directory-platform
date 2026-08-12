@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-elju-vita-physioherapie-osteoatipathie",
+  "slug": "naturheilpraxis-elju-vita-physioherapie-osteoatipathie",
+  "name": "Naturheilpraxis Elju-Vita Physioherapie & Osteoatipathie",
+  "description": "Naturheilpraxis Elju-Vita Physioherapie & Osteoatipathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wilhelmsaue 131",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4850042,
+    "lng": 13.3284202
+  },
+  "phone": "01732482805",
+  "email": "elju-vita@gmail.com",
+  "website": "http://elju-vita.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

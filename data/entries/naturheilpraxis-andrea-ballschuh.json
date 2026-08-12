@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-andrea-ballschuh",
+  "slug": "naturheilpraxis-andrea-ballschuh",
+  "name": "Naturheilpraxis Andrea Ballschuh",
+  "description": "Naturheilpraxis Andrea Ballschuh ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Freiheit 12 a/b",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4475176,
+    "lng": 13.578122899999999
+  },
+  "phone": "03065488925",
+  "website": "http://naturheilpraxis-ballschuh.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

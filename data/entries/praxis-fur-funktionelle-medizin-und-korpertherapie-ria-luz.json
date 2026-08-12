@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-funktionelle-medizin-und-korpertherapie-ria-luz",
+  "slug": "praxis-fur-funktionelle-medizin-und-korpertherapie-ria-luz",
+  "name": "Praxis für Funktionelle Medizin und Körpertherapie Ria Luz",
+  "description": "Praxis für Funktionelle Medizin und Körpertherapie Ria Luz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Cunostraße 64",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486406099999996,
+    "lng": 13.296321899999999
+  },
+  "phone": "01738008251",
+  "email": "ria.luz@naturheilpraxis-luz.de",
+  "website": "http://www.naturheilpraxis-luz.de/index.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

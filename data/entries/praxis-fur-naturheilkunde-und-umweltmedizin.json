@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-und-umweltmedizin",
+  "slug": "praxis-fur-naturheilkunde-und-umweltmedizin",
+  "name": "Praxis für Naturheilkunde und Umweltmedizin",
+  "description": "Praxis für Naturheilkunde und Umweltmedizin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Linienstraße 152",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5272964,
+    "lng": 13.3927604
+  },
+  "phone": "03097894444",
+  "email": "kontakt@praxisstolpmann.de",
+  "website": "http://www.praxisstolpmann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

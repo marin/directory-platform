@@ -1,0 +1,30 @@
+{
+  "id": "frau-marion-schmerfeld-schulz",
+  "slug": "frau-marion-schmerfeld-schulz",
+  "name": "Frau Marion Schmerfeld-Schulz",
+  "description": "Frau Marion Schmerfeld-Schulz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Galenstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13597",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5357576,
+    "lng": 13.195742899999999
+  },
+  "phone": "0303213655",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

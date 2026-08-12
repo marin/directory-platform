@@ -1,0 +1,32 @@
+{
+  "id": "jacqueline-mette",
+  "slug": "jacqueline-mette",
+  "name": "Jacqueline Mette",
+  "description": "Jacqueline Mette ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Gryphiusstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10245",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.508483399999996,
+    "lng": 13.4636059
+  },
+  "phone": "03020078847",
+  "email": "info@heilpraxis-mette.de",
+  "website": "http://www.heilpraxis-mette.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

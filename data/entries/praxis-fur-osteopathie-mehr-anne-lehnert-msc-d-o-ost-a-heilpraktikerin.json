@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin",
+  "slug": "praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin",
+  "name": "Praxis für Osteopathie & mehr- Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin",
+  "description": "Praxis für Osteopathie & mehr- Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bölschestraße 101",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4523583,
+    "lng": 13.6245525
+  },
+  "phone": "01796782436",
+  "website": "http://osteopathie-lehnert.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

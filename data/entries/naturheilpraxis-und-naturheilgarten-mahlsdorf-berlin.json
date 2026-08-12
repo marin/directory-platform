@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin",
+  "slug": "naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin",
+  "name": "Naturheilpraxis und Naturheilgarten Mahlsdorf, Berlin",
+  "description": "Naturheilpraxis und Naturheilgarten Mahlsdorf, Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Summter Str. 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489196299999996,
+    "lng": 13.6243938
+  },
+  "phone": "0307717309",
+  "website": "http://www.artnat.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

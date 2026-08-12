@@ -1,0 +1,32 @@
+{
+  "id": "marina-kaiser-chij2yjfctre",
+  "slug": "marina-kaiser-chij2yjfctre",
+  "name": "Marina Kaiser",
+  "description": "Marina Kaiser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hildburghauser Str. 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12279",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4132021,
+    "lng": 13.359283099999999
+  },
+  "phone": "0307218938",
+  "email": "sonneundmond53@gmx.de",
+  "website": "http://www.marina-kaiser.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

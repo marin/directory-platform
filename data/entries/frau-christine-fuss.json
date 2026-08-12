@@ -1,0 +1,36 @@
+{
+  "id": "frau-christine-fuss",
+  "slug": "frau-christine-fuss",
+  "name": "Frau Christine Fuss",
+  "description": "Frau Christine Fuss ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486329399999995,
+    "lng": 13.4353576
+  },
+  "phone": "03026548334",
+  "email": "info@praxis-christinefuss.de",
+  "website": "http://www.praxis-christinefuss.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno",
+  "slug": "angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno",
+  "name": "Angela M. Bernstein Praxis Raucherentwöhnung/Nichtraucherspritze/Akupunktur/Hypnose",
+  "description": "Angela M. Bernstein Praxis Raucherentwöhnung/Nichtraucherspritze/Akupunktur/Hypnose ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Storkower Str. 158",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.530189899999996,
+    "lng": 13.4559605
+  },
+  "phone": "017670282950",
+  "email": "info@praxis-hahlweg.de",
+  "website": "https://www.praxis-hahlweg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "akupunktur-by-dr-yunes-m-mones",
+  "slug": "akupunktur-by-dr-yunes-m-mones",
+  "name": "Akupunktur by Dr. Yunes M. Mones",
+  "description": "Akupunktur by Dr. Yunes M. Mones ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Weißenseer Weg 111",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10369",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.527099299999996,
+    "lng": 13.478746
+  },
+  "phone": "017645736282",
+  "email": "yunesmones@yahoo.de",
+  "website": "https://akupunkturmones.wixsite.com/akupunkturmones",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

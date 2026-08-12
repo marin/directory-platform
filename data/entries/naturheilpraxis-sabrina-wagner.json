@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-sabrina-wagner",
+  "slug": "naturheilpraxis-sabrina-wagner",
+  "name": "Naturheilpraxis Sabrina Wagner",
+  "description": "Naturheilpraxis Sabrina Wagner ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Britzer Damm 92",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45458,
+    "lng": 13.43738
+  },
+  "phone": "01775249403",
+  "email": "info@naturheilpraxis-s-wagner.de",
+  "website": "https://naturheilpraxis-s-wagner.de/",
+  "bookingUrl": "https://naturheilpraxis-s-wagner.de/termin-buchen/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

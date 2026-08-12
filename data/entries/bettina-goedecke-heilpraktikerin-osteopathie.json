@@ -1,0 +1,34 @@
+{
+  "id": "bettina-goedecke-heilpraktikerin-osteopathie",
+  "slug": "bettina-goedecke-heilpraktikerin-osteopathie",
+  "name": "Bettina Goedecke, Heilpraktikerin | Osteopathie",
+  "description": "Bettina Goedecke, Heilpraktikerin | Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Reichsstraße 93",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5133594,
+    "lng": 13.2652568
+  },
+  "phone": "0303337788",
+  "website": "https://www.osteopathie-goedecke.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

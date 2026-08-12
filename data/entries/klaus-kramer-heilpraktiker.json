@@ -1,0 +1,30 @@
+{
+  "id": "klaus-kramer-heilpraktiker",
+  "slug": "klaus-kramer-heilpraktiker",
+  "name": "Klaus Krämer Heilpraktiker",
+  "description": "Klaus Krämer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Brunowstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5876622,
+    "lng": 13.286234499999999
+  },
+  "phone": "0304343838",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

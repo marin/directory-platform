@@ -1,0 +1,33 @@
+{
+  "id": "bastiane-hartmann-heilpraktiker-in-kreuzberg",
+  "slug": "bastiane-hartmann-heilpraktiker-in-kreuzberg",
+  "name": "Bastiane Hartmann, Heilpraktiker in Kreuzberg",
+  "description": "Bastiane Hartmann, Heilpraktiker in Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Wiener Str. 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4970017,
+    "lng": 13.4323835
+  },
+  "phone": "03069531186",
+  "email": "kontakt@bastiane-hartmann.de",
+  "website": "http://bastiane-hartmann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

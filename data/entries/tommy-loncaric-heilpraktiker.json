@@ -1,0 +1,34 @@
+{
+  "id": "tommy-loncaric-heilpraktiker",
+  "slug": "tommy-loncaric-heilpraktiker",
+  "name": "Tommy Loncaric Heilpraktiker",
+  "description": "Tommy Loncaric Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Danckelmannstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5141962,
+    "lng": 13.2912658
+  },
+  "phone": "01732056522",
+  "email": "mail@tommy-loncaric.de",
+  "website": "http://www.tommy-loncaric.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/tomislav-loncaric?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

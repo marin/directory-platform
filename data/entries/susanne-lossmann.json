@@ -1,0 +1,31 @@
+{
+  "id": "susanne-lossmann",
+  "slug": "susanne-lossmann",
+  "name": "Susanne Loßmann",
+  "description": "Susanne Loßmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Dernburgstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5061543,
+    "lng": 13.2833657
+  },
+  "phone": "03064499660",
+  "website": "http://susannelossmann.info/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

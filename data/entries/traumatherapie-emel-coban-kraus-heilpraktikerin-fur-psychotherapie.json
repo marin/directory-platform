@@ -1,0 +1,33 @@
+{
+  "id": "traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie",
+  "slug": "traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie",
+  "name": "Traumatherapie Emel Coban-Kraus, Heilpraktikerin für Psychotherapie",
+  "description": "Traumatherapie Emel Coban-Kraus, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Haubachstraße 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.515658599999995,
+    "lng": 13.303098199999999
+  },
+  "phone": "01702899819",
+  "website": "https://www.emelcoban.de/",
+  "bookingUrl": "https://emelcoban.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

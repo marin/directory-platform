@@ -1,0 +1,34 @@
+{
+  "id": "akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda",
+  "slug": "akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda",
+  "name": "Akupunktur & Shiatsu in Berlin – Heilpraktikerin Francesca Pellanda",
+  "description": "Akupunktur & Shiatsu in Berlin – Heilpraktikerin Francesca Pellanda ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Manteuffelstraße 67",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49604,
+    "lng": 13.4239
+  },
+  "phone": "015774312910",
+  "email": "kontakt@francescapellanda.de",
+  "website": "http://www.francescapellanda.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/francesca-pellanda?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

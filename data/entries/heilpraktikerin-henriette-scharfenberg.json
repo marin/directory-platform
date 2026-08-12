@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-henriette-scharfenberg",
+  "slug": "heilpraktikerin-henriette-scharfenberg",
+  "name": "Heilpraktikerin Henriette Scharfenberg",
+  "description": "Heilpraktikerin Henriette Scharfenberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Am Fichtenberg 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14195",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4541715,
+    "lng": 13.309854099999999
+  },
+  "phone": "03031560861",
+  "email": "kontakt@heilpraktiker-scharfenberg.de",
+  "website": "http://heilpraktiker-scharfenberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

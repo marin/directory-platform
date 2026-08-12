@@ -1,0 +1,32 @@
+{
+  "id": "frau-ina-schladitz",
+  "slug": "frau-ina-schladitz",
+  "name": "Frau Ina Schladitz",
+  "description": "Frau Ina Schladitz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Willdenowstraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13353",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.542328999999995,
+    "lng": 13.3632516
+  },
+  "phone": "03046066903",
+  "email": "info@ina-schladitz.de",
+  "website": "https://ina-schladitz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

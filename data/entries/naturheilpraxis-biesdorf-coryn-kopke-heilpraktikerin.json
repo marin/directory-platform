@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-biesdorf-coryn-kopke-heilpraktikerin",
+  "slug": "naturheilpraxis-biesdorf-coryn-kopke-heilpraktikerin",
+  "name": "NATURHEILPRAXIS Biesdorf - Coryn Kopke - Heilpraktikerin",
+  "description": "NATURHEILPRAXIS Biesdorf - Coryn Kopke - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Schackelsterstraße 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12683",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4990958,
+    "lng": 13.548639099999999
+  },
+  "phone": "03064162525",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

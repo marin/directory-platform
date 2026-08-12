@@ -1,0 +1,33 @@
+{
+  "id": "akupunktur-praxis-anja-auster",
+  "slug": "akupunktur-praxis-anja-auster",
+  "name": "Akupunktur Praxis Anja Auster",
+  "description": "Akupunktur Praxis Anja Auster ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Wünsdorfer Str. 107",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12307",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3886709,
+    "lng": 13.394600899999999
+  },
+  "phone": "016090199995",
+  "email": "akupunktur.auster@gmail.com",
+  "website": "https://akupunkturpraxis-auster.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

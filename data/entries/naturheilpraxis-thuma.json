@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-thuma",
+  "slug": "naturheilpraxis-thuma",
+  "name": "Naturheilpraxis Thuma",
+  "description": "Naturheilpraxis Thuma ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Kopenhagener Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.574640099999996,
+    "lng": 13.3596082
+  },
+  "phone": "0304953806",
+  "email": "naturheilpraxis.thuma@gmx.de",
+  "website": "http://www.naturheilpraxis-thuma.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

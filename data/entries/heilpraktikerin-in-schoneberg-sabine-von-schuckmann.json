@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerin-in-schoneberg-sabine-von-schuckmann",
+  "slug": "heilpraktikerin-in-schoneberg-sabine-von-schuckmann",
+  "name": "Heilpraktikerin in Schöneberg, Sabine von Schuckmann",
+  "description": "Heilpraktikerin in Schöneberg, Sabine von Schuckmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Winterfeldtstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10781",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4964966,
+    "lng": 13.357037499999999
+  },
+  "phone": "03054716872",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

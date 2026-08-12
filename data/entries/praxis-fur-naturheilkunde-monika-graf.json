@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-monika-graf",
+  "slug": "praxis-fur-naturheilkunde-monika-graf",
+  "name": "Praxis für Naturheilkunde Monika Graf",
+  "description": "Praxis für Naturheilkunde Monika Graf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Metzer Str. 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.532430999999995,
+    "lng": 13.414439499999999
+  },
+  "phone": "01624948914",
+  "email": "info@praxis-monika-graf.de",
+  "website": "https://www.praxis-monika-graf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

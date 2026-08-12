@@ -1,0 +1,30 @@
+{
+  "id": "dorothea-hamm-heilpraktikerin",
+  "slug": "dorothea-hamm-heilpraktikerin",
+  "name": "Dorothea Hamm Heilpraktikerin",
+  "description": "Dorothea Hamm Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Kiefholzstraße 411",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4887592,
+    "lng": 13.454520899999999
+  },
+  "phone": "03053697170",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

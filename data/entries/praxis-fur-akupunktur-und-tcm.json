@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-akupunktur-und-tcm",
+  "slug": "praxis-fur-akupunktur-und-tcm",
+  "name": "Praxis für Akupunktur und TCM",
+  "description": "Praxis für Akupunktur und TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Wiesbadener Str. 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14197",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4721068,
+    "lng": 13.316392299999999
+  },
+  "phone": "017631787227",
+  "website": "http://www.tcm-mueller.berlin/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/alfons-mueller?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

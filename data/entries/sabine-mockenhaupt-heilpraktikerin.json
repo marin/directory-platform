@@ -1,0 +1,30 @@
+{
+  "id": "sabine-mockenhaupt-heilpraktikerin",
+  "slug": "sabine-mockenhaupt-heilpraktikerin",
+  "name": "Sabine Mockenhaupt, Heilpraktikerin",
+  "description": "Sabine Mockenhaupt, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Rodenbergstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5511221,
+    "lng": 13.416298
+  },
+  "phone": "01604305575",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

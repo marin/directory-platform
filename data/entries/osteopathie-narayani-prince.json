@@ -1,0 +1,32 @@
+{
+  "id": "osteopathie-narayani-prince",
+  "slug": "osteopathie-narayani-prince",
+  "name": "Osteopathie Narayani Prince",
+  "description": "Osteopathie Narayani Prince ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Fürstenwalder Allee 254",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4328515,
+    "lng": 13.709428299999999
+  },
+  "phone": "015129568547",
+  "email": "info@osteopathieprince.de",
+  "website": "http://www.osteopathieprince.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

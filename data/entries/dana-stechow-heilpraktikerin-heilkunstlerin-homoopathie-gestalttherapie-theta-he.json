@@ -1,0 +1,34 @@
+{
+  "id": "dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he",
+  "slug": "dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he",
+  "name": "Dana Stechow - Heilpraktikerin, Heilkünstlerin, Homöopathie, Gestalttherapie, Theta Healing, Gong-Healing Sessions",
+  "description": "Dana Stechow - Heilpraktikerin, Heilkünstlerin, Homöopathie, Gestalttherapie, Theta Healing, Gong-Healing Sessions ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Zwinglistraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.525715999999996,
+    "lng": 13.332656499999999
+  },
+  "phone": "017634680612",
+  "email": "praxis@danastechow.de",
+  "website": "http://danastechow.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/dana-stechow?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

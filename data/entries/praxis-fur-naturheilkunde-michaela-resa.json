@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-michaela-resa",
+  "slug": "praxis-fur-naturheilkunde-michaela-resa",
+  "name": "Praxis für Naturheilkunde Michaela Resa",
+  "description": "Praxis für Naturheilkunde Michaela Resa ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Königsweg 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5918938,
+    "lng": 13.2858439
+  },
+  "phone": "03089744915",
+  "website": "http://www.naturheilkunde-resa.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

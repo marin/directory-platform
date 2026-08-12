@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin",
+  "slug": "praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin",
+  "name": "Praxis für Psychotherapie & Traumatherapie – Pia Götz. Heilpraktikerin",
+  "description": "Praxis für Psychotherapie & Traumatherapie – Pia Götz. Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "@ Praxis Gaca",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5506654,
+    "lng": 13.4107232
+  },
+  "phone": "+491632684621",
+  "email": "mail@piagoetz.com",
+  "website": "https://piagoetz.com/",
+  "bookingUrl": "https://my.lemniscus.de/pss/dc6acf00-fdb8-4fef-abb1-2df415757103https://app.cituro.com/booking/praxis-piagoetz",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

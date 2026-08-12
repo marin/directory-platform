@@ -1,0 +1,31 @@
+{
+  "id": "klinik-plus-naturheilkunde-und-asthetische-medizin",
+  "slug": "klinik-plus-naturheilkunde-und-asthetische-medizin",
+  "name": "Klinik Plus. Naturheilkunde und Ästhetische Medizin",
+  "description": "Klinik Plus. Naturheilkunde und Ästhetische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Würzburger Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10789",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5003465,
+    "lng": 13.3374949
+  },
+  "phone": "03068810046",
+  "website": "http://naturheil-med.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

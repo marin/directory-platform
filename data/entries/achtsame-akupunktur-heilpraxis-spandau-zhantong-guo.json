@@ -1,0 +1,32 @@
+{
+  "id": "achtsame-akupunktur-heilpraxis-spandau-zhantong-guo",
+  "slug": "achtsame-akupunktur-heilpraxis-spandau-zhantong-guo",
+  "name": "Achtsame Akupunktur - Heilpraxis Spandau Zhantong Guo",
+  "description": "Achtsame Akupunktur - Heilpraxis Spandau Zhantong Guo ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Wichernstraße 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5694659,
+    "lng": 13.203059399999999
+  },
+  "phone": "03033001339",
+  "website": "http://www.achtsame-akupunktur.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-serret",
+  "slug": "praxis-serret",
+  "name": "PRAXIS SERRET",
+  "description": "PRAXIS SERRET ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Pfarrstraße 104",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10317",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.505785599999996,
+    "lng": 13.477181799999999
+  },
+  "phone": "017661853140",
+  "website": "https://www.praxis-serret.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

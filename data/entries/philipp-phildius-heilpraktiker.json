@@ -1,0 +1,35 @@
+{
+  "id": "philipp-phildius-heilpraktiker",
+  "slug": "philipp-phildius-heilpraktiker",
+  "name": "Philipp Phildius Heilpraktiker",
+  "description": "Philipp Phildius Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "bei E. Dehmel",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5030278,
+    "lng": 13.312189199999999
+  },
+  "phone": "017693188074",
+  "email": "kontakt@hp-phildius.de",
+  "website": "https://www.hp-phildius.de/",
+  "bookingUrl": "https://www.jameda.de/philipp-phildius/heilpraktiker/berlin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

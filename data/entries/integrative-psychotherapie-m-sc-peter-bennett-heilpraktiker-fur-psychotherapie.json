@@ -1,0 +1,32 @@
+{
+  "id": "integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie",
+  "slug": "integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie",
+  "name": "Integrative Psychotherapie - M.Sc Peter Bennett (Heilpraktiker für Psychotherapie)",
+  "description": "Integrative Psychotherapie - M.Sc Peter Bennett (Heilpraktiker für Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Waisenstraße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10179",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.516528799999996,
+    "lng": 13.4140334
+  },
+  "email": "peterbennett@berlinpsychotherapy.com",
+  "website": "https://berlinpsychotherapy.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

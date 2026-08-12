@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-gestaltungstherapie-klinische-kunsttherapie-anke-andrea-eckert-heilpr",
+  "slug": "praxis-fur-gestaltungstherapie-klinische-kunsttherapie-anke-andrea-eckert-heilpr",
+  "name": "Praxis für Gestaltungstherapie / Klinische Kunsttherapie Anke Andrea Eckert Heilpraktikerin Psychotherapie (HeilprG)",
+  "description": "Praxis für Gestaltungstherapie / Klinische Kunsttherapie Anke Andrea Eckert Heilpraktikerin Psychotherapie (HeilprG) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Peter-Hille-Straße 121 B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.447292,
+    "lng": 13.621044999999999
+  },
+  "phone": "0306412144",
+  "website": "https://www.eckert-kunsttherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

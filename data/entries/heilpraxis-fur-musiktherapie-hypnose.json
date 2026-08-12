@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-fur-musiktherapie-hypnose",
+  "slug": "heilpraxis-fur-musiktherapie-hypnose",
+  "name": "Heilpraxis für Musiktherapie & Hypnose",
+  "description": "Heilpraxis für Musiktherapie & Hypnose ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Fritschestraße 24/25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5128054,
+    "lng": 13.2989233
+  },
+  "phone": "03099546763",
+  "email": "musiktherapie-kraft@gmx.de",
+  "website": "http://www.musiktherapie-kraft.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

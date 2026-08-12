@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-in-schoneberg",
+  "slug": "naturheilpraxis-in-schoneberg",
+  "name": "Naturheilpraxis in Schöneberg",
+  "description": "Naturheilpraxis in Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Gustav-Müller-Straße 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.482318,
+    "lng": 13.362705
+  },
+  "phone": "03021754815",
+  "email": "kontakt@naturheilpraxis-in-schoeneberg.de",
+  "website": "http://www.naturheilpraxis-in-schoeneberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

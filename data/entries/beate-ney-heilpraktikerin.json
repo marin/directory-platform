@@ -1,0 +1,32 @@
+{
+  "id": "beate-ney-heilpraktikerin",
+  "slug": "beate-ney-heilpraktikerin",
+  "name": "Beate Ney - Heilpraktikerin",
+  "description": "Beate Ney - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Jonasstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12053",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4714617,
+    "lng": 13.4329273
+  },
+  "phone": "054019186",
+  "email": "beateney@web.de",
+  "website": "https://www.ney-homoeopathie-hagen-atw.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

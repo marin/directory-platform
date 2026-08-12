@@ -1,0 +1,34 @@
+{
+  "id": "sonja-priwitzer-heilpraktikerin",
+  "slug": "sonja-priwitzer-heilpraktikerin",
+  "name": "Sonja Priwitzer Heilpraktikerin",
+  "description": "Sonja Priwitzer Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Friedrich-Wilhelm-Straße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12103",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.458792599999995,
+    "lng": 13.379707199999999
+  },
+  "phone": "01796640567",
+  "email": "kontakt@praxis-priwitzer.de",
+  "website": "https://www.praxis-priwitzer.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

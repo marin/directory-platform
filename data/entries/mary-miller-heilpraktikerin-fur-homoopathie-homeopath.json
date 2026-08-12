@@ -1,0 +1,33 @@
+{
+  "id": "mary-miller-heilpraktikerin-fur-homoopathie-homeopath",
+  "slug": "mary-miller-heilpraktikerin-fur-homoopathie-homeopath",
+  "name": "Mary Miller - Heilpraktikerin für Homöopathie, Homeopath",
+  "description": "Mary Miller - Heilpraktikerin für Homöopathie, Homeopath ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Stargarder Str. 63",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.54564,
+    "lng": 13.420849899999999
+  },
+  "phone": "03030136945",
+  "email": "info@marymiller.de",
+  "website": "http://www.marymiller.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

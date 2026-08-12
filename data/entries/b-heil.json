@@ -1,0 +1,29 @@
+{
+  "id": "b-heil",
+  "slug": "b-heil",
+  "name": "B. Heil",
+  "description": "B. Heil ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "12105 Berlin",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.445364299999994,
+    "lng": 13.3789792
+  },
+  "phone": "0307063995",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

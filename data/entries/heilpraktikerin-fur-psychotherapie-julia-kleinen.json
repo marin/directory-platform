@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-julia-kleinen",
+  "slug": "heilpraktikerin-fur-psychotherapie-julia-kleinen",
+  "name": "Heilpraktikerin für Psychotherapie // Julia Kleinen",
+  "description": "Heilpraktikerin für Psychotherapie // Julia Kleinen ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Jungstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5137912,
+    "lng": 13.4671518
+  },
+  "phone": "017692358729",
+  "website": "https://ifs-therapie.berlin/",
+  "bookingUrl": "https://my.lemniscus.de/pss/5c5a69bd-d0fa-4302-aadc-77050d689501",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monika-collins-heilpraktikerin",
+  "slug": "monika-collins-heilpraktikerin",
+  "name": "Monika Collins Heilpraktikerin",
+  "description": "Monika Collins Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 78",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.50772,
+    "lng": 13.3074
+  },
+  "phone": "0303043478",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

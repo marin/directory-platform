@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-aufknoten",
+  "slug": "heilpraxis-aufknoten",
+  "name": "Heilpraxis Aufknoten",
+  "description": "Heilpraxis Aufknoten ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Berliner Str. 25A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.583559199999996,
+    "lng": 13.288034
+  },
+  "phone": "01623459349",
+  "website": "http://www.heilpraxis-aufknoten.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carola-sterniczuk?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

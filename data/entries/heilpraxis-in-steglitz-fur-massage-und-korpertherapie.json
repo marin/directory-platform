@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-in-steglitz-fur-massage-und-korpertherapie",
+  "slug": "heilpraxis-in-steglitz-fur-massage-und-korpertherapie",
+  "name": "Heilpraxis in Steglitz für Massage und Körpertherapie",
+  "description": "Heilpraxis in Steglitz für Massage und Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Isoldestraße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4769064,
+    "lng": 13.331745999999999
+  },
+  "phone": "03039370803",
+  "website": "http://www.heilpraxis-valenti-clari.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

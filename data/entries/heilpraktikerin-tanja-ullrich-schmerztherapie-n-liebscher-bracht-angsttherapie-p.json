@@ -1,0 +1,35 @@
+{
+  "id": "heilpraktikerin-tanja-ullrich-schmerztherapie-n-liebscher-bracht-angsttherapie-p",
+  "slug": "heilpraktikerin-tanja-ullrich-schmerztherapie-n-liebscher-bracht-angsttherapie-p",
+  "name": "Heilpraktikerin Tanja Ullrich, Schmerztherapie n. Liebscher & Bracht, Angsttherapie/ Psychotherapie, Schröpfen Rudow/Berlin",
+  "description": "Heilpraktikerin Tanja Ullrich, Schmerztherapie n. Liebscher & Bracht, Angsttherapie/ Psychotherapie, Schröpfen Rudow/Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Ampferweg 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12357",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4256363,
+    "lng": 13.484148399999999
+  },
+  "phone": "03081691658",
+  "email": "praxis@hp-ullrich.de",
+  "website": "https://www.hp-ullrich.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/tanja-ullrich?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

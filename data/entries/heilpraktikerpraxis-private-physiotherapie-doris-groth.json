@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerpraxis-private-physiotherapie-doris-groth",
+  "slug": "heilpraktikerpraxis-private-physiotherapie-doris-groth",
+  "name": "Heilpraktikerpraxis & private Physiotherapie - Doris Groth",
+  "description": "Heilpraktikerpraxis & private Physiotherapie - Doris Groth ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Olafstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6189519,
+    "lng": 13.3117292
+  },
+  "phone": "01719459669",
+  "email": "groth-doris@t-online.de",
+  "website": "http://www.dorisgroth.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

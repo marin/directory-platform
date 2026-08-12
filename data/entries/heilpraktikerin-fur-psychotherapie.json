@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie",
+  "slug": "heilpraktikerin-fur-psychotherapie",
+  "name": "Heilpraktikerin für Psychotherapie",
+  "description": "Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Manteuffelstraße 104",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10997",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5018667,
+    "lng": 13.4288866
+  },
+  "phone": "03039793460",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

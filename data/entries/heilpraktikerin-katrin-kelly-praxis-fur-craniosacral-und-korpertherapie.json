@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie",
+  "slug": "heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie",
+  "name": "Heilpraktikerin Katrin Kelly - Praxis für Craniosacral - und Körpertherapie",
+  "description": "Heilpraktikerin Katrin Kelly - Praxis für Craniosacral - und Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Bänschstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5183877,
+    "lng": 13.466981599999999
+  },
+  "phone": "015111224749",
+  "email": "katrin@cranio-sacral-berlin.eu",
+  "website": "http://www.cranio-sacral-berlin.eu/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

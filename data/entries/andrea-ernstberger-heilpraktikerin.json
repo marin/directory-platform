@@ -1,0 +1,30 @@
+{
+  "id": "andrea-ernstberger-heilpraktikerin",
+  "slug": "andrea-ernstberger-heilpraktikerin",
+  "name": "Andrea Ernstberger Heilpraktikerin",
+  "description": "Andrea Ernstberger Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Märkisches Ufer 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10179",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.512786399999996,
+    "lng": 13.4100013
+  },
+  "phone": "03024083904",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

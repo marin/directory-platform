@@ -1,0 +1,33 @@
+{
+  "id": "ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde",
+  "slug": "ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde",
+  "name": "Ellen Nagel, Heilpraktikerin I Praxis für Funktionelle Medizin & Naturheilkunde",
+  "description": "Ellen Nagel, Heilpraktikerin I Praxis für Funktionelle Medizin & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Cunostraße 64",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486432199999996,
+    "lng": 13.2962296
+  },
+  "phone": "03045095018",
+  "email": "praxis@ellennagel.de",
+  "website": "http://www.ellennagel.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ellen-nagel?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

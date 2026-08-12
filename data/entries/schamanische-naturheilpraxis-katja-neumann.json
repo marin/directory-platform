@@ -1,0 +1,32 @@
+{
+  "id": "schamanische-naturheilpraxis-katja-neumann",
+  "slug": "schamanische-naturheilpraxis-katja-neumann",
+  "name": "Schamanische Naturheilpraxis Katja Neumann",
+  "description": "Schamanische Naturheilpraxis Katja Neumann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Stargarder Str. 12A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5467751,
+    "lng": 13.417126
+  },
+  "phone": "03044715357",
+  "email": "info@katja-neumann.de",
+  "website": "http://www.katja-neumann.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

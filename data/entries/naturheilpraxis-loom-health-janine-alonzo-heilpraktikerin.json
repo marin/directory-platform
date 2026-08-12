@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-loom-health-janine-alonzo-heilpraktikerin",
+  "slug": "naturheilpraxis-loom-health-janine-alonzo-heilpraktikerin",
+  "name": "Naturheilpraxis LOOM health Janine Alonzo- Heilpraktikerin",
+  "description": "Naturheilpraxis LOOM health Janine Alonzo- Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Marienstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5221308,
+    "lng": 13.382152699999999
+  },
+  "phone": "017636323199",
+  "email": "office@loom-health.de",
+  "website": "http://www.loom-health.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/janine-alonzo-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

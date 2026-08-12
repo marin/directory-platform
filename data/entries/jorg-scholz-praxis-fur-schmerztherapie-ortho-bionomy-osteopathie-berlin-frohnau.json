@@ -1,0 +1,33 @@
+{
+  "id": "jorg-scholz-praxis-fur-schmerztherapie-ortho-bionomy-osteopathie-berlin-frohnau",
+  "slug": "jorg-scholz-praxis-fur-schmerztherapie-ortho-bionomy-osteopathie-berlin-frohnau",
+  "name": "Jörg Scholz – Praxis für Schmerztherapie, Ortho-Bionomy & Osteopathie Berlin-Frohnau",
+  "description": "Jörg Scholz – Praxis für Schmerztherapie, Ortho-Bionomy & Osteopathie Berlin-Frohnau ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Karmeliterweg 57",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6275565,
+    "lng": 13.278794999999999
+  },
+  "phone": "015205151527",
+  "website": "https://www.ortho-bionomy-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "armin-koschitzke-heilpraktiker",
+  "slug": "armin-koschitzke-heilpraktiker",
+  "name": "Armin Koschitzke Heilpraktiker",
+  "description": "Armin Koschitzke Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Munsterdamm 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.453377499999995,
+    "lng": 13.3480534
+  },
+  "phone": "0307920100",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-sabine-hurt-gorne",
+  "slug": "naturheilpraxis-sabine-hurt-gorne",
+  "name": "Naturheilpraxis Sabine Hurt-Görne",
+  "description": "Naturheilpraxis Sabine Hurt-Görne ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Suderoder Str. 65",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5904877,
+    "lng": 13.4700907
+  },
+  "phone": "03034715888",
+  "website": "http://xn--homopathiepankow-owb.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

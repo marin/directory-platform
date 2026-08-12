@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-gabriele-nau",
+  "slug": "naturheilpraxis-gabriele-nau",
+  "name": "Naturheilpraxis Gabriele Nau",
+  "description": "Naturheilpraxis Gabriele Nau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Zoppoter Str. 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14199",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4724982,
+    "lng": 13.298765399999999
+  },
+  "phone": "0302143458",
+  "email": "reiki.nau@t-online.de",
+  "website": "http://www.berlin-reiki.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

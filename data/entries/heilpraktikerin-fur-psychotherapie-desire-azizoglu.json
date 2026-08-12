@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-desire-azizoglu",
+  "slug": "heilpraktikerin-fur-psychotherapie-desire-azizoglu",
+  "name": "Heilpraktikerin für Psychotherapie, Desire Azizoglu",
+  "description": "Heilpraktikerin für Psychotherapie, Desire Azizoglu ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Koppenpl. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.528053299999996,
+    "lng": 13.3986141
+  },
+  "email": "info@traumatherapyberlin.de",
+  "website": "https://www.traumatherapyberlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

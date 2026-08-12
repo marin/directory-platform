@@ -1,0 +1,34 @@
+{
+  "id": "zentrum-fur-chinesische-und-alternative-medizin",
+  "slug": "zentrum-fur-chinesische-und-alternative-medizin",
+  "name": "Zentrum für Chinesische und Alternative Medizin",
+  "description": "Zentrum für Chinesische und Alternative Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Griebenowstraße 22",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.536108899999995,
+    "lng": 13.405927199999999
+  },
+  "phone": "03096519161",
+  "email": "kornmeier@praxislebenskraft.de",
+  "website": "http://www.chinesische-medizin-in-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

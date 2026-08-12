@@ -1,0 +1,30 @@
+{
+  "id": "jurgen-bernstein-heilpraktiker",
+  "slug": "jurgen-bernstein-heilpraktiker",
+  "name": "Jürgen Bernstein, Heilpraktiker",
+  "description": "Jürgen Bernstein, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Kastanienallee 34",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14050",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5154803,
+    "lng": 13.271179499999999
+  },
+  "phone": "03032709697",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

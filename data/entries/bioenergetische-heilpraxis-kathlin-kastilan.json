@@ -1,0 +1,30 @@
+{
+  "id": "bioenergetische-heilpraxis-kathlin-kastilan",
+  "slug": "bioenergetische-heilpraxis-kathlin-kastilan",
+  "name": "Bioenergetische Heilpraxis Kathlin Kastilan",
+  "description": "Bioenergetische Heilpraxis Kathlin Kastilan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Cecilienstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.431631499999995,
+    "lng": 13.335882499999999
+  },
+  "phone": "03077208321",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

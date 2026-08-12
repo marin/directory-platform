@@ -1,0 +1,31 @@
+{
+  "id": "hanne-edling-heilpraktikerin-psychologische-beraterin-coach",
+  "slug": "hanne-edling-heilpraktikerin-psychologische-beraterin-coach",
+  "name": "Hanne Edling Heilpraktikerin Psychologische Beraterin Coach",
+  "description": "Hanne Edling Heilpraktikerin Psychologische Beraterin Coach ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Grazer Pl. 20",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4669166,
+    "lng": 13.3484442
+  },
+  "phone": "0307969130",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

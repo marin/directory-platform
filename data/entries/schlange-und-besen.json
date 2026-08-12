@@ -1,0 +1,32 @@
+{
+  "id": "schlange-und-besen",
+  "slug": "schlange-und-besen",
+  "name": "Schlange und Besen",
+  "description": "Schlange und Besen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Seegefelder Str. 142",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13583",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.539399499999995,
+    "lng": 13.1780873
+  },
+  "phone": "03058885707",
+  "email": "kontakt@schlange-und-besen.de",
+  "website": "http://www.schlange-und-besen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

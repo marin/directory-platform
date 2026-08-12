@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerin-andrea-rau",
+  "slug": "heilpraktikerin-andrea-rau",
+  "name": "Heilpraktikerin Andrea Rau",
+  "description": "Heilpraktikerin Andrea Rau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kavalierstraße 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.574123799999995,
+    "lng": 13.410299199999999
+  },
+  "phone": "03047486571",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

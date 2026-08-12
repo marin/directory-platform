@@ -1,0 +1,33 @@
+{
+  "id": "anne-moritz-heilpraktikerin-fur-homoopathie-coaching-reiki-bachbluten",
+  "slug": "anne-moritz-heilpraktikerin-fur-homoopathie-coaching-reiki-bachbluten",
+  "name": "Anne Moritz - Heilpraktikerin für Homöopathie, Coaching, Reiki, Bachblüten",
+  "description": "Anne Moritz - Heilpraktikerin für Homöopathie, Coaching, Reiki, Bachblüten ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hilbertstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12307",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.38457,
+    "lng": 13.3967263
+  },
+  "phone": "03054777412",
+  "email": "kontakt@praxis-moritz.com",
+  "website": "http://www.praxis-moritz.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

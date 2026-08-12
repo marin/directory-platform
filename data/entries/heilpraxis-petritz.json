@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-petritz",
+  "slug": "heilpraxis-petritz",
+  "name": "Heilpraxis Petritz",
+  "description": "Heilpraxis Petritz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Glienicker Str. 6B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6177371,
+    "lng": 13.308430399999999
+  },
+  "phone": "03035518128",
+  "email": "mail@heilpraxis-petritz.de",
+  "website": "https://heilpraxis-petritz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

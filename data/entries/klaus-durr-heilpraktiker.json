@@ -1,0 +1,30 @@
+{
+  "id": "klaus-durr-heilpraktiker",
+  "slug": "klaus-durr-heilpraktiker",
+  "name": "Klaus Dürr Heilpraktiker",
+  "description": "Klaus Dürr Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Humboldtstraße 38",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4888299,
+    "lng": 13.2865635
+  },
+  "phone": "03089091650",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

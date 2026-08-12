@@ -1,0 +1,33 @@
+{
+  "id": "liebscher-und-bracht-schmerztherapie-sabrina-braun",
+  "slug": "liebscher-und-bracht-schmerztherapie-sabrina-braun",
+  "name": "Liebscher und Bracht - Schmerztherapie Sabrina Braun",
+  "description": "Liebscher und Bracht - Schmerztherapie Sabrina Braun ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Weg zur Quelle 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4512925,
+    "lng": 13.6004436
+  },
+  "phone": "01722402707",
+  "email": "mailtoheilpraxis-sabrinabraun@gmx.de",
+  "website": "https://naturheilpraxis-sabrinabraun.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

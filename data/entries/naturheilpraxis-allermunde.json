@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-allermunde",
+  "slug": "naturheilpraxis-allermunde",
+  "name": "Naturheilpraxis AllerMunde",
+  "description": "Naturheilpraxis AllerMunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Böckhstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.494175,
+    "lng": 13.417809799999999
+  },
+  "phone": "03069503234",
+  "website": "http://www.aller-munde.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

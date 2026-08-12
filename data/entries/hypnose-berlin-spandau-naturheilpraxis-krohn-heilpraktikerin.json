@@ -1,0 +1,33 @@
+{
+  "id": "hypnose-berlin-spandau-naturheilpraxis-krohn-heilpraktikerin",
+  "slug": "hypnose-berlin-spandau-naturheilpraxis-krohn-heilpraktikerin",
+  "name": "Hypnose Berlin Spandau - Naturheilpraxis Krohn / Heilpraktikerin",
+  "description": "Hypnose Berlin Spandau - Naturheilpraxis Krohn / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Tharsanderweg 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13595",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.515253799999996,
+    "lng": 13.199189299999999
+  },
+  "phone": "03026329999",
+  "email": "info@naturheilpraxis-krohn.de",
+  "website": "https://hypnoseberlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

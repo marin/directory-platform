@@ -1,0 +1,31 @@
+{
+  "id": "brigitte-herold-heilpraktikerin",
+  "slug": "brigitte-herold-heilpraktikerin",
+  "name": "Brigitte Herold - Heilpraktikerin",
+  "description": "Brigitte Herold - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Herrnholzweg 24A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13469",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6144233,
+    "lng": 13.3486136
+  },
+  "phone": "015906481571",
+  "website": "http://www.brigitteherold.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

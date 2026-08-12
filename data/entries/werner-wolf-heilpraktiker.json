@@ -1,0 +1,30 @@
+{
+  "id": "werner-wolf-heilpraktiker",
+  "slug": "werner-wolf-heilpraktiker",
+  "name": "Werner Wolf Heilpraktiker",
+  "description": "Werner Wolf Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Leibnizstraße 35",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5067436,
+    "lng": 13.3143055
+  },
+  "phone": "0303133520",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

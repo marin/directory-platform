@@ -1,0 +1,31 @@
+{
+  "id": "ayurveda-und-naturheilpraxis-antje-graser",
+  "slug": "ayurveda-und-naturheilpraxis-antje-graser",
+  "name": "Ayurveda- und Naturheilpraxis Antje Gräser",
+  "description": "Ayurveda- und Naturheilpraxis Antje Gräser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Am Schonungsberg 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4379869,
+    "lng": 13.6981222
+  },
+  "phone": "03064169047",
+  "website": "http://www.ayurveda-rahnsdorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

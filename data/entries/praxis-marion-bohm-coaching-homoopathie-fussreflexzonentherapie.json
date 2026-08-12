@@ -1,0 +1,33 @@
+{
+  "id": "praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie",
+  "slug": "praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie",
+  "name": "Praxis Marion Böhm - Coaching, Homöopathie & Fußreflexzonentherapie",
+  "description": "Praxis Marion Böhm - Coaching, Homöopathie & Fußreflexzonentherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 99",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5074817,
+    "lng": 13.316928599999999
+  },
+  "phone": "03023180255",
+  "email": "info@marion-boehm.de",
+  "website": "http://www.homoeopathie-marion-boehm-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktiker-sven-jehle-heilpraxis-fur-homoopathie-psychotherapie-und-massage",
+  "slug": "heilpraktiker-sven-jehle-heilpraxis-fur-homoopathie-psychotherapie-und-massage",
+  "name": "Heilpraktiker Sven Jehle, Heilpraxis für Homöopathie, Psychotherapie und Massage",
+  "description": "Heilpraktiker Sven Jehle, Heilpraxis für Homöopathie, Psychotherapie und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45072,
+    "lng": 13.627820199999999
+  },
+  "phone": "03040528654",
+  "email": "hp.svenjehle@googlemail.com",
+  "website": "http://www.heilpraxis-svenjehle.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

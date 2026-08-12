@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-klassische-homoopathie-und-naturheilkunde-daniela-klauke-leu-heilprak",
+  "slug": "praxis-fur-klassische-homoopathie-und-naturheilkunde-daniela-klauke-leu-heilprak",
+  "name": "Praxis für klassische Homöopathie und Naturheilkunde • Daniela Klauke-Leu, Heilpraktikerin",
+  "description": "Praxis für klassische Homöopathie und Naturheilkunde • Daniela Klauke-Leu, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Magistratsweg 29A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13593",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523205399999995,
+    "lng": 13.1612932
+  },
+  "phone": "015126100682",
+  "email": "homoeopathieberlin@gmx.de",
+  "website": "http://www.heilpraktikerin-klauke-leu.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

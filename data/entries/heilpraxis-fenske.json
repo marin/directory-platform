@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-fenske",
+  "slug": "heilpraxis-fenske",
+  "name": "Heilpraxis Fenske",
+  "description": "Heilpraxis Fenske ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Alt-Lankwitz 96",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4360283,
+    "lng": 13.3645369
+  },
+  "phone": "01727960577",
+  "email": "info@heilpraxis-fenske.de",
+  "website": "https://heilpraxis-fenske.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

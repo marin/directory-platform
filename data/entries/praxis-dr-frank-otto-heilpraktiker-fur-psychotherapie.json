@@ -1,0 +1,32 @@
+{
+  "id": "praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie",
+  "slug": "praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie",
+  "name": "Praxis Dr. Frank Otto - Heilpraktiker für Psychotherapie",
+  "description": "Praxis Dr. Frank Otto - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Sigmaringer Str. 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10713",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4900179,
+    "lng": 13.3192051
+  },
+  "phone": "01623481492",
+  "website": "http://www.frank-otto-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

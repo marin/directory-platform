@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerin-kathrin-schuster",
+  "slug": "heilpraktikerin-kathrin-schuster",
+  "name": "Heilpraktikerin Kathrin Schuster",
+  "description": "Heilpraktikerin Kathrin Schuster ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Fürstenauer Weg 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.614287499999996,
+    "lng": 13.222942
+  },
+  "phone": "03089371611",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

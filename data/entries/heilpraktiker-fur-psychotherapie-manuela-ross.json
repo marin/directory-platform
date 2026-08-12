@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-manuela-ross",
+  "slug": "heilpraktiker-fur-psychotherapie-manuela-ross",
+  "name": "Heilpraktiker für Psychotherapie Manuela Ross",
+  "description": "Heilpraktiker für Psychotherapie Manuela Ross ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Lynarstraße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4901184,
+    "lng": 13.278788599999999
+  },
+  "phone": "03082711122",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

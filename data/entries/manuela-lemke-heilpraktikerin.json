@@ -1,0 +1,34 @@
+{
+  "id": "manuela-lemke-heilpraktikerin",
+  "slug": "manuela-lemke-heilpraktikerin",
+  "name": "Manuela Lemke Heilpraktikerin",
+  "description": "Manuela Lemke Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Dernburgstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5061543,
+    "lng": 13.2833657
+  },
+  "phone": "03058905691",
+  "email": "info@manu-lemke.de",
+  "website": "https://manu-lemke.de/?utm_source=gmb",
+  "bookingUrl": "https://www.jameda.de/berlin/heilpraktiker/colon-hydro-therapie/manuela-lemke/uebersicht/81362070_1/?utm_medium=GMB_APPOINTMENT&utm_source=GMB_APPOINTMENT&utm_campaign=GMB_APPOINTMENT",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

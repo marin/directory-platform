@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-azize-ertan",
+  "slug": "heilpraktikerin-fur-psychotherapie-azize-ertan",
+  "name": "Heilpraktikerin für Psychotherapie Azize Ertan",
+  "description": "Heilpraktikerin für Psychotherapie Azize Ertan ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Ebersstraße 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4788175,
+    "lng": 13.346276699999999
+  },
+  "phone": "017632040795",
+  "bookingUrl": "https://ort-des-seins.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

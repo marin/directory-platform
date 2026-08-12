@@ -1,0 +1,30 @@
+{
+  "id": "christoph-roll",
+  "slug": "christoph-roll",
+  "name": "Christoph Röll",
+  "description": "Christoph Röll ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Gaudystraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.54629,
+    "lng": 13.41195
+  },
+  "phone": "03044678312",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

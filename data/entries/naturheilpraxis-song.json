@@ -1,0 +1,35 @@
+{
+  "id": "naturheilpraxis-song",
+  "slug": "naturheilpraxis-song",
+  "name": "Naturheilpraxis Song",
+  "description": "Naturheilpraxis Song ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Rotkehlchenweg 15b",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12351",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.439988899999996,
+    "lng": 13.455492
+  },
+  "phone": "0306610006",
+  "website": "https://naturheilpraxis-song.jimdofree.com/",
+  "bookingUrl": "https://www.timify.com/de-de/profile/naturheilpraxis-song/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

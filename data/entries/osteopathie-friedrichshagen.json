@@ -1,0 +1,32 @@
+{
+  "id": "osteopathie-friedrichshagen",
+  "slug": "osteopathie-friedrichshagen",
+  "name": "Osteopathie Friedrichshagen",
+  "description": "Osteopathie Friedrichshagen ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Aßmannstraße 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.450328999999996,
+    "lng": 13.6250941
+  },
+  "phone": "01785513691",
+  "website": "http://www.osteopathie-friedrichshagen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

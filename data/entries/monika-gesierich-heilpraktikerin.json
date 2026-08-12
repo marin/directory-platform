@@ -1,0 +1,30 @@
+{
+  "id": "monika-gesierich-heilpraktikerin",
+  "slug": "monika-gesierich-heilpraktikerin",
+  "name": "Monika Gesierich Heilpraktikerin",
+  "description": "Monika Gesierich Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Mariendorfer Damm 147",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12107",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4383754,
+    "lng": 13.3881207
+  },
+  "phone": "03070604800",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

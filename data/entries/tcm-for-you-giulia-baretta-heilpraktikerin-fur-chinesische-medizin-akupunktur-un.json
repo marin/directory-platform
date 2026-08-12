@@ -1,0 +1,33 @@
+{
+  "id": "tcm-for-you-giulia-baretta-heilpraktikerin-fur-chinesische-medizin-akupunktur-un",
+  "slug": "tcm-for-you-giulia-baretta-heilpraktikerin-fur-chinesische-medizin-akupunktur-un",
+  "name": "TCM for YOU- Giulia Baretta- Heilpraktikerin für Chinesische Medizin (Akupunktur) und Massagetherapeutin",
+  "description": "TCM for YOU- Giulia Baretta- Heilpraktikerin für Chinesische Medizin (Akupunktur) und Massagetherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Finowstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.513320199999995,
+    "lng": 13.4688973
+  },
+  "phone": "017686658525",
+  "website": "https://www.tcmforyou-giuliabaretta.de/",
+  "bookingUrl": "https://tidycal.com/giuliatcmforyou",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

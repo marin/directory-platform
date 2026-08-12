@@ -1,0 +1,32 @@
+{
+  "id": "beatrix-lass-heilpraktikerin",
+  "slug": "beatrix-lass-heilpraktikerin",
+  "name": "Beatrix Laß Heilpraktikerin",
+  "description": "Beatrix Laß Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Beerenstraße 23A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437143999999996,
+    "lng": 13.241837799999999
+  },
+  "phone": "03081054130",
+  "email": "mail@naturheilpraxis-lass.de",
+  "website": "http://www.naturheilpraxis-lass.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "kristina-bollmann-heilpraktikerin-osteopathie",
+  "slug": "kristina-bollmann-heilpraktikerin-osteopathie",
+  "name": "Kristina Bollmann - Heilpraktikerin & Osteopathie",
+  "description": "Kristina Bollmann - Heilpraktikerin & Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Am Goldmannpark 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.456169499999994,
+    "lng": 13.6276722
+  },
+  "phone": "03064090792",
+  "email": "info@die-osteopathin.de",
+  "website": "https://die-osteopathin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+  "bookingUrl": "https://die-osteopathin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb_kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

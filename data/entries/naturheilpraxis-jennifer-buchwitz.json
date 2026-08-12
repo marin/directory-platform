@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-jennifer-buchwitz",
+  "slug": "naturheilpraxis-jennifer-buchwitz",
+  "name": "NaturHeilpraxis – Jennifer Buchwitz",
+  "description": "NaturHeilpraxis – Jennifer Buchwitz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Drontheimer Str. 21D",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13359",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.560488899999996,
+    "lng": 13.3766199
+  },
+  "phone": "03044702244",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

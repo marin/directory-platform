@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne",
+  "slug": "naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne",
+  "name": "Naturheilpraxis für Osteopathie und Chiropraktik Heilpraktikerin Agnes Hovehne",
+  "description": "Naturheilpraxis für Osteopathie und Chiropraktik Heilpraktikerin Agnes Hovehne ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Borsigwalder Weg 65",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13509",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5878472,
+    "lng": 13.3014342
+  },
+  "phone": "0304331855",
+  "email": "mail@agneshovehne.de",
+  "website": "http://www.agneshovehne.de/",
+  "bookingUrl": "http://www.agneshovehne.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

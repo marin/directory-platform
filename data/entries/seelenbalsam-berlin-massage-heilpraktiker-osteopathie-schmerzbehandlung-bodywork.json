@@ -1,0 +1,37 @@
+{
+  "id": "seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork",
+  "slug": "seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork",
+  "name": "Seelenbalsam Berlin - Massage - Heilpraktiker - Osteopathie - Schmerzbehandlung - Bodywork",
+  "description": "Seelenbalsam Berlin - Massage - Heilpraktiker - Osteopathie - Schmerzbehandlung - Bodywork ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Düsseldorfer Str. 31A/6. Etage",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4972298,
+    "lng": 13.3111391
+  },
+  "phone": "015201389471",
+  "email": "seelenbalsam@mail.de",
+  "website": "https://www.seelenbalsamberlin.de/",
+  "bookingUrl": "https://book.timify.com/?accountId=5e1f95e7b84df411f9740174&hideCloseButton=true",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

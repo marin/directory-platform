@@ -1,0 +1,32 @@
+{
+  "id": "helene-coudray-heilpraktikerin",
+  "slug": "helene-coudray-heilpraktikerin",
+  "name": "Hélène Coudray - Heilpraktikerin",
+  "description": "Hélène Coudray - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Britzer Damm 92",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4545829,
+    "lng": 13.4374252
+  },
+  "phone": "03040795925",
+  "email": "h.coudray76@gmail.com",
+  "website": "http://www.naturheilpraxis-coudray.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

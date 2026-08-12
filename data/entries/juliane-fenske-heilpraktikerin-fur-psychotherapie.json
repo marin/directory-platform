@@ -1,0 +1,33 @@
+{
+  "id": "juliane-fenske-heilpraktikerin-fur-psychotherapie",
+  "slug": "juliane-fenske-heilpraktikerin-fur-psychotherapie",
+  "name": "Juliane Fenske, Heilpraktikerin für Psychotherapie",
+  "description": "Juliane Fenske, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Alt-Lankwitz 96",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4360283,
+    "lng": 13.3645369
+  },
+  "phone": "017662104219",
+  "email": "info@heilpraxis-fenske.de",
+  "website": "http://heilpraxis-fenske.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

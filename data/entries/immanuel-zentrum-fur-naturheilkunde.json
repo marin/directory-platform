@@ -1,0 +1,31 @@
+{
+  "id": "immanuel-zentrum-fur-naturheilkunde",
+  "slug": "immanuel-zentrum-fur-naturheilkunde",
+  "name": "Immanuel Zentrum für Naturheilkunde",
+  "description": "Immanuel Zentrum für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Am Kleinen Wannsee 5D",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.418589999999995,
+    "lng": 13.163696999999999
+  },
+  "phone": "030805050",
+  "website": "https://naturheilkunde.immanuel.de/home/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

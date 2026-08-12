@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktiker-in-berlin-omnia-praxis",
+  "slug": "heilpraktiker-in-berlin-omnia-praxis",
+  "name": "Heilpraktiker in Berlin - Omnia Praxis",
+  "description": "Heilpraktiker in Berlin - Omnia Praxis ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Parchwitzer Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12526",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3944668,
+    "lng": 13.5849622
+  },
+  "phone": "015565998959",
+  "email": "omnia.naturheilpraxis@gmail.com",
+  "website": "http://www.omnia-praxis.de/",
+  "bookingUrl": "https://omnia-praxis.de/online-termin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-praxis-berlin-daniela-kniese-chijlb-jyplz",
+  "slug": "heilpraktiker-praxis-berlin-daniela-kniese-chijlb-jyplz",
+  "name": "Heilpraktiker Praxis Berlin Daniela Kniese",
+  "description": "Heilpraktiker Praxis Berlin Daniela Kniese ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Dreilindenstraße 80",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4205518,
+    "lng": 13.1815834
+  },
+  "phone": "017664375831",
+  "email": "support@webador.de",
+  "website": "https://daniela-kniese.de/",
+  "bookingUrl": "https://www.daniela-kniese.de/kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

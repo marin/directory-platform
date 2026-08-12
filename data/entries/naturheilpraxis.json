@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis",
+  "slug": "naturheilpraxis",
+  "name": "NATURHEILPRAXIS",
+  "description": "NATURHEILPRAXIS ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Fehrbelliner Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5338439,
+    "lng": 13.4004088
+  },
+  "phone": "03089655167",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

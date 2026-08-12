@@ -1,0 +1,34 @@
+{
+  "id": "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
+  "slug": "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
+  "name": "Natology | Heilpraktiker | functional medicine | Prenzlauer Berg",
+  "description": "Natology | Heilpraktiker | functional medicine | Prenzlauer Berg ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Knaackstraße 78",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.538848099999996,
+    "lng": 13.4152296
+  },
+  "phone": "01724386481",
+  "email": "sarah.henschel@natology.de",
+  "website": "https://www.natology.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/sarah-henschel/booking/new-patient?specialityId=1236&profile_skipped=true&utm_campaign=website-button&bookingFunnelSource=external_referral",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bettina-dulz-heilpraktikerin-traumatherapie-sehtraining-berlin-hermsdorf",
+  "slug": "bettina-dulz-heilpraktikerin-traumatherapie-sehtraining-berlin-hermsdorf",
+  "name": "Bettina Dülz | Heilpraktikerin | Traumatherapie & Sehtraining Berlin Hermsdorf",
+  "description": "Bettina Dülz | Heilpraktikerin | Traumatherapie & Sehtraining Berlin Hermsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Solquellstraße 22",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6213093,
+    "lng": 13.3160794
+  },
+  "phone": "017636394503",
+  "email": "info@bettinaduelz.de",
+  "website": "http://bettinaduelz.de/",
+  "bookingUrl": "http://www.bettinaduelz.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

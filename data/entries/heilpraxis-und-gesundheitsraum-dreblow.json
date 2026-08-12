@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-und-gesundheitsraum-dreblow",
+  "slug": "heilpraxis-und-gesundheitsraum-dreblow",
+  "name": "Heilpraxis und Gesundheitsraum Dreblow",
+  "description": "Heilpraxis und Gesundheitsraum Dreblow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Simon-Bolivar-Straße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13055",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.538582,
+    "lng": 13.485475699999999
+  },
+  "phone": "03091701468",
+  "website": "http://naturpraxis-dreblow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

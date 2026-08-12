@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-fur-ganzheitliche-und-funktionelle-medizin-melanie-graf",
+  "slug": "heilpraktikerin-fur-ganzheitliche-und-funktionelle-medizin-melanie-graf",
+  "name": "Heilpraktikerin für ganzheitliche und funktionelle Medizin - Melanie Graf",
+  "description": "Heilpraktikerin für ganzheitliche und funktionelle Medizin - Melanie Graf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Christinenstraße 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5298855,
+    "lng": 13.407946599999999
+  },
+  "phone": "015738462543",
+  "email": "kontakt@praxis-melaniegraf.de",
+  "website": "https://www.praxis-melaniegraf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

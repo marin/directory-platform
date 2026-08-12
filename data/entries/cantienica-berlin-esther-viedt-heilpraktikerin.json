@@ -1,0 +1,32 @@
+{
+  "id": "cantienica-berlin-esther-viedt-heilpraktikerin",
+  "slug": "cantienica-berlin-esther-viedt-heilpraktikerin",
+  "name": "CANTIENICA Berlin | Esther Viedt | Heilpraktikerin",
+  "description": "CANTIENICA Berlin | Esther Viedt | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Baseler Str. 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4422886,
+    "lng": 13.295523
+  },
+  "phone": "01634004129",
+  "email": "info@estherviedt.de",
+  "website": "http://www.cantienicaberlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

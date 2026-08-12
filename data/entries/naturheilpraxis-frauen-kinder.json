@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-frauen-kinder",
+  "slug": "naturheilpraxis-frauen-kinder",
+  "name": "Naturheilpraxis Frauen & Kinder",
+  "description": "Naturheilpraxis Frauen & Kinder ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Otto-Nagel-Straße 122",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12683",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.517364199999996,
+    "lng": 13.5510839
+  },
+  "phone": "03023938221",
+  "website": "https://naturheilpraxis-frauen-und-kinder.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

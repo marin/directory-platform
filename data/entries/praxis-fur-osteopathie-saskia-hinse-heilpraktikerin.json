@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-osteopathie-saskia-hinse-heilpraktikerin",
+  "slug": "praxis-fur-osteopathie-saskia-hinse-heilpraktikerin",
+  "name": "Praxis für Osteopathie Saskia Hinse Heilpraktikerin",
+  "description": "Praxis für Osteopathie Saskia Hinse Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Berliner Str. 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13189",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.564158799999994,
+    "lng": 13.412253399999999
+  },
+  "phone": "03055641288",
+  "email": "saskia.hinse@berlin.de",
+  "website": "http://www.saskiahinse.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/saskia-hinse?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

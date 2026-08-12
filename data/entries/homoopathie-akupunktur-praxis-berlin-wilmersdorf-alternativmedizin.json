@@ -1,0 +1,34 @@
+{
+  "id": "homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin",
+  "slug": "homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin",
+  "name": "Homöopathie & Akupunktur Praxis Berlin Wilmersdorf Alternativmedizin",
+  "description": "Homöopathie & Akupunktur Praxis Berlin Wilmersdorf Alternativmedizin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Mainzer Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4800778,
+    "lng": 13.3233973
+  },
+  "phone": "0308329027",
+  "email": "julia.nitzsche@gmx.de",
+  "website": "http://homoeopathieberlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

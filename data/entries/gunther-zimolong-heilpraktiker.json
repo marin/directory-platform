@@ -1,0 +1,33 @@
+{
+  "id": "gunther-zimolong-heilpraktiker",
+  "slug": "gunther-zimolong-heilpraktiker",
+  "name": "Gunther Zimolong Heilpraktiker",
+  "description": "Gunther Zimolong Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Heilpraxis Zimolong im Innenhof",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4363795,
+    "lng": 13.2605954
+  },
+  "phone": "03031953084",
+  "email": "gunther@heilpraxis-zimolong.de",
+  "website": "http://www.heilpraxis-zimolong.de/",
+  "bookingUrl": "https://www.heilpraxis-zimolong.de/sprechzeiten.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

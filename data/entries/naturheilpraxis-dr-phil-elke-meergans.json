@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-dr-phil-elke-meergans",
+  "slug": "naturheilpraxis-dr-phil-elke-meergans",
+  "name": "Naturheilpraxis Dr. phil. Elke Meergans",
+  "description": "Naturheilpraxis Dr. phil. Elke Meergans ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Christinenstraße 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10119",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.530120399999994,
+    "lng": 13.4081388
+  },
+  "phone": "03041725004",
+  "email": "info@hp-meergans.de",
+  "website": "http://www.hp-meergans.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/elke-meergans?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

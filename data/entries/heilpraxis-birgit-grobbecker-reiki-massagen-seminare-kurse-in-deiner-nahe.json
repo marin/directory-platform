@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-birgit-grobbecker-reiki-massagen-seminare-kurse-in-deiner-nahe",
+  "slug": "heilpraxis-birgit-grobbecker-reiki-massagen-seminare-kurse-in-deiner-nahe",
+  "name": "Heilpraxis Birgit Grobbecker - Reiki, Massagen, Seminare, Kurse in Deiner Nähe",
+  "description": "Heilpraxis Birgit Grobbecker - Reiki, Massagen, Seminare, Kurse in Deiner Nähe ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Erich-Baron-Weg 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.474266799999995,
+    "lng": 13.606906599999999
+  },
+  "phone": "03063379133",
+  "email": "info@heilpraxis-grobbecker.de",
+  "website": "https://www.heilpraxis-grobbecker.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-juliane-jacobi",
+  "slug": "naturheilpraxis-juliane-jacobi",
+  "name": "Naturheilpraxis Juliane Jacobi",
+  "description": "Naturheilpraxis Juliane Jacobi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Suarezstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.51036,
+    "lng": 13.296579999999999
+  },
+  "phone": "03020068431",
+  "email": "info@juliane-jacobi.de",
+  "website": "https://www.juliane-jacobi.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

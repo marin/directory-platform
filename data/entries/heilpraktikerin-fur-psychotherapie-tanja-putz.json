@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-tanja-putz",
+  "slug": "heilpraktikerin-fur-psychotherapie-tanja-putz",
+  "name": "Heilpraktikerin für Psychotherapie Tanja Pütz",
+  "description": "Heilpraktikerin für Psychotherapie Tanja Pütz ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5418886,
+    "lng": 13.4175287
+  },
+  "phone": "01707736906",
+  "email": "kontakt@puetz-psychotherapie.de",
+  "website": "https://www.puetz-psychotherapie.de/",
+  "bookingUrl": "https://pro.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/tanja-puetz?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

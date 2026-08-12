@@ -1,0 +1,32 @@
+{
+  "id": "akupunktur-tcm-thetahealing-praxis-verena-szewczyk",
+  "slug": "akupunktur-tcm-thetahealing-praxis-verena-szewczyk",
+  "name": "Akupunktur, TCM & ThetaHealing , Praxis Verena Szewczyk,",
+  "description": "Akupunktur, TCM & ThetaHealing , Praxis Verena Szewczyk, ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Böckhstraße 45",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.494175,
+    "lng": 13.417809799999999
+  },
+  "phone": "03021295195",
+  "website": "http://www.akupunktur-bln.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

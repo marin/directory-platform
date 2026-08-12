@@ -1,0 +1,33 @@
+{
+  "id": "mathias-onnen-heilpraktiker",
+  "slug": "mathias-onnen-heilpraktiker",
+  "name": "Mathias Onnen – Heilpraktiker",
+  "description": "Mathias Onnen – Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Niedstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.47285,
+    "lng": 13.331119999999999
+  },
+  "phone": "01786967921",
+  "email": "info@praxis-onnen.de",
+  "website": "http://www.herr-onnen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

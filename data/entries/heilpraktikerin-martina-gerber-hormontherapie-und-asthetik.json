@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-martina-gerber-hormontherapie-und-asthetik",
+  "slug": "heilpraktikerin-martina-gerber-hormontherapie-und-asthetik",
+  "name": "Heilpraktikerin Martina Gerber | Hormontherapie und Ästhetik",
+  "description": "Heilpraktikerin Martina Gerber | Hormontherapie und Ästhetik ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Hubertusstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4599359,
+    "lng": 13.3264485
+  },
+  "phone": "03091488527",
+  "email": "gemeinschaftspraxis-gerber@web.de",
+  "website": "https://hormontherapie-bioidentisch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

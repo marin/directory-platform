@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-katharina-gnidtke",
+  "slug": "naturheilpraxis-katharina-gnidtke",
+  "name": "Naturheilpraxis Katharina Gnidtke",
+  "description": "Naturheilpraxis Katharina Gnidtke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Naturheilpraxis Katharina Gnidtke",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5808404,
+    "lng": 13.4025646
+  },
+  "phone": "03047599257",
+  "email": "info@gnidtke.de",
+  "website": "http://www.gnidtke.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

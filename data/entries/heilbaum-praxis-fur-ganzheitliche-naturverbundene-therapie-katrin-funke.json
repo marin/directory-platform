@@ -1,0 +1,32 @@
+{
+  "id": "heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke",
+  "slug": "heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke",
+  "name": "Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie Katrin Funke",
+  "description": "Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie Katrin Funke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bautzener Pl.",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489244199999995,
+    "lng": 13.3702838
+  },
+  "phone": "015227010228",
+  "email": "k.funke@posteo.de",
+  "website": "https://www.therapie.de/profil/funke.katrin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

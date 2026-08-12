@@ -1,0 +1,33 @@
+{
+  "id": "dorthe-thiel-heilpraktikerin-berlin",
+  "slug": "dorthe-thiel-heilpraktikerin-berlin",
+  "name": "Dörthe Thiel - Heilpraktikerin Berlin",
+  "description": "Dörthe Thiel - Heilpraktikerin Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Schloßstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.590874,
+    "lng": 13.283411899999999
+  },
+  "phone": "03064099222",
+  "email": "dr.jacobsohn@kardiologe-jacobsohn-berlin.de",
+  "website": "https://kardiologe-jacobsohn-berlin.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/doerthe-thiel?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

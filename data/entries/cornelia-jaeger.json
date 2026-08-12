@@ -1,0 +1,32 @@
+{
+  "id": "cornelia-jaeger",
+  "slug": "cornelia-jaeger",
+  "name": "Cornelia Jaeger",
+  "description": "Cornelia Jaeger ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Wolfshagener Str. 75",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.572758,
+    "lng": 13.410177099999999
+  },
+  "phone": "03047005600",
+  "email": "mail@heilpraxispankow.de",
+  "website": "http://heilpraktikerinpankow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

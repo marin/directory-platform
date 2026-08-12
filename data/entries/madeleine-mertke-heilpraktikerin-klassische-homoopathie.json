@@ -1,0 +1,32 @@
+{
+  "id": "madeleine-mertke-heilpraktikerin-klassische-homoopathie",
+  "slug": "madeleine-mertke-heilpraktikerin-klassische-homoopathie",
+  "name": "Madeleine Mertke ~ Heilpraktikerin ~ klassische Homöopathie",
+  "description": "Madeleine Mertke ~ Heilpraktikerin ~ klassische Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Zwinglistraße 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.525369999999995,
+    "lng": 13.33414
+  },
+  "phone": "03025469707",
+  "website": "https://www.heilepraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

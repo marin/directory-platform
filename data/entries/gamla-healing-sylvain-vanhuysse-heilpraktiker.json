@@ -1,0 +1,33 @@
+{
+  "id": "gamla-healing-sylvain-vanhuysse-heilpraktiker",
+  "slug": "gamla-healing-sylvain-vanhuysse-heilpraktiker",
+  "name": "Gamla Healing - Sylvain Vanhuysse - Heilpraktiker",
+  "description": "Gamla Healing - Sylvain Vanhuysse - Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Okerstraße 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4739304,
+    "lng": 13.4254401
+  },
+  "phone": "017622923398",
+  "email": "gamlahealing@gmail.com",
+  "website": "https://www.gamlahealing.com/",
+  "bookingUrl": "https://www.gamlahealing.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-matthias-romer",
+  "slug": "heilpraktiker-matthias-romer",
+  "name": "Heilpraktiker Matthias Römer",
+  "description": "Heilpraktiker Matthias Römer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Heerstraße 371 F",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13593",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.517834099999995,
+    "lng": 13.171108499999999
+  },
+  "phone": "03036285375",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

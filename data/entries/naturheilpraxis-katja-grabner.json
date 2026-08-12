@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-katja-grabner",
+  "slug": "naturheilpraxis-katja-grabner",
+  "name": "Naturheilpraxis Katja Gräbner",
+  "description": "Naturheilpraxis Katja Gräbner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Mommsenstraße 55",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.503166,
+    "lng": 13.312190999999999
+  },
+  "phone": "03066770166",
+  "website": "http://www.praxis-mommsen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

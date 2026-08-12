@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-berlin-steglitz-cornelia-quarz",
+  "slug": "heilpraktikerin-berlin-steglitz-cornelia-quarz",
+  "name": "Heilpraktikerin Berlin Steglitz / Cornelia Quarz",
+  "description": "Heilpraktikerin Berlin Steglitz / Cornelia Quarz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Lacknerstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.44565,
+    "lng": 13.341759999999999
+  },
+  "phone": "03079782727",
+  "website": "https://www.naturheilpraxis-steglitz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

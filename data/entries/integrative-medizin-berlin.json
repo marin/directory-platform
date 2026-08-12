@@ -1,0 +1,32 @@
+{
+  "id": "integrative-medizin-berlin",
+  "slug": "integrative-medizin-berlin",
+  "name": "Integrative Medizin Berlin",
+  "description": "Integrative Medizin Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Großbeerenstraße 13A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10963",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.497690299999995,
+    "lng": 13.384585099999999
+  },
+  "phone": "017623252354",
+  "email": "praxis@integrative-heilkunst-berlin.de",
+  "website": "http://integrative-heilkunst-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

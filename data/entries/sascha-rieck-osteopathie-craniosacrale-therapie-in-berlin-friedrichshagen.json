@@ -1,0 +1,31 @@
+{
+  "id": "sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen",
+  "slug": "sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen",
+  "name": "Sascha Rieck - Osteopathie & Craniosacrale Therapie in Berlin Friedrichshagen",
+  "description": "Sascha Rieck - Osteopathie & Craniosacrale Therapie in Berlin Friedrichshagen ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.44696,
+    "lng": 13.6274445
+  },
+  "phone": "015224761332",
+  "website": "https://www.osteopathie-cranio.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-silke-schulz",
+  "slug": "heilpraktikerin-silke-schulz",
+  "name": "Heilpraktikerin Silke Schulz",
+  "description": "Heilpraktikerin Silke Schulz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kirchstraße 64",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12277",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.417119199999995,
+    "lng": 13.3712517
+  },
+  "phone": "03046067093",
+  "email": "silke-schulz@arcor.de",
+  "website": "http://www.naturheilpraxis-schulz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene",
+  "slug": "frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene",
+  "name": "Frauke Banz - Heilpraktikerin für Homöopathie, Naturheilkunde, Kinder- und Erwachsenensprechstunde",
+  "description": "Frauke Banz - Heilpraktikerin für Homöopathie, Naturheilkunde, Kinder- und Erwachsenensprechstunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Käthe-Niederkirchner-Straße 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5299584,
+    "lng": 13.4337334
+  },
+  "phone": "03042083441",
+  "website": "http://www.frauke-banz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "gudrun-kruger-schmerztherapie-heilpraktikerin",
+  "slug": "gudrun-kruger-schmerztherapie-heilpraktikerin",
+  "name": "Gudrun Krüger Schmerztherapie, Heilpraktikerin",
+  "description": "Gudrun Krüger Schmerztherapie, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Treppendorfer Weg 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12527",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3926951,
+    "lng": 13.6310969
+  },
+  "phone": "01797442309",
+  "website": "http://www.schmerzfrei.pro/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

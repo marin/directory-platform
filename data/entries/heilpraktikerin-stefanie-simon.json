@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-stefanie-simon",
+  "slug": "heilpraktikerin-stefanie-simon",
+  "name": "heilpraktikerin stefanie simon",
+  "description": "heilpraktikerin stefanie simon ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Gollanczstraße 37 B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.640294499999996,
+    "lng": 13.2858672
+  },
+  "phone": "03040605416",
+  "email": "info@heilpraktikerin-simon.de",
+  "website": "http://www.heilpraktikerin-simon.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

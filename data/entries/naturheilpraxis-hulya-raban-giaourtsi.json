@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-hulya-raban-giaourtsi",
+  "slug": "naturheilpraxis-hulya-raban-giaourtsi",
+  "name": "Naturheilpraxis Hülya Raban Giaourtsi",
+  "description": "Naturheilpraxis Hülya Raban Giaourtsi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Arndtstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.488526099999994,
+    "lng": 13.39327
+  },
+  "phone": "01789352855",
+  "email": "kontakt@naturmedizin-erleben.de",
+  "website": "https://www.naturmedizin-erleben.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/huelya-raban-giaourtsi?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

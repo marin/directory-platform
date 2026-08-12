@@ -1,0 +1,30 @@
+{
+  "id": "isabell-schmidt-balance-berlin-heilpraktiker",
+  "slug": "isabell-schmidt-balance-berlin-heilpraktiker",
+  "name": "Isabell Schmidt | Balance Berlin | Heilpraktiker",
+  "description": "Isabell Schmidt | Balance Berlin | Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Schütte-Lanz-Straße 42",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12209",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4130476,
+    "lng": 13.3272626
+  },
+  "phone": "03076703661",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

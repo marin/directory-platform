@@ -1,0 +1,31 @@
+{
+  "id": "nico-schwalbe-heilpraktiker-fur-psychotherapie",
+  "slug": "nico-schwalbe-heilpraktiker-fur-psychotherapie",
+  "name": "Nico Schwalbe - Heilpraktiker für Psychotherapie",
+  "description": "Nico Schwalbe - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Dominicusstraße 32",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.481465099999994,
+    "lng": 13.3484574
+  },
+  "website": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/nico-schwalbe",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "seda-altinay",
+  "slug": "seda-altinay",
+  "name": "Seda Altinay",
+  "description": "Seda Altinay ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Nansenstraße 31",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12047",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.490498699999996,
+    "lng": 13.4313386
+  },
+  "phone": "015906118358",
+  "email": "praxis@seda-altinay.de",
+  "website": "http://seda-altinay.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

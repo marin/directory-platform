@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-biodynamische-massagen-korperorientierte-psychotherapie",
+  "slug": "praxis-fur-biodynamische-massagen-korperorientierte-psychotherapie",
+  "name": "Praxis für Biodynamische Massagen & körperorientierte Psychotherapie",
+  "description": "Praxis für Biodynamische Massagen & körperorientierte Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Adolf-Martens-Straße",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.443224,
+    "lng": 13.2913131
+  },
+  "phone": "01755441110",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

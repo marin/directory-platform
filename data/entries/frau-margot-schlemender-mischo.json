@@ -1,0 +1,31 @@
+{
+  "id": "frau-margot-schlemender-mischo",
+  "slug": "frau-margot-schlemender-mischo",
+  "name": "Frau Margot Schlemender-Mischo",
+  "description": "Frau Margot Schlemender-Mischo ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Tucholskystraße 22",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5255194,
+    "lng": 13.393466799999999
+  },
+  "phone": "03028384366",
+  "website": "http://www.akupunktur-mitte.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

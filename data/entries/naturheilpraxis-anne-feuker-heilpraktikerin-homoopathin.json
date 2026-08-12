@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin",
+  "slug": "naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin",
+  "name": "NATURHEILPRAXIS ANNE FEUKER, Heilpraktikerin, Homöopathin",
+  "description": "NATURHEILPRAXIS ANNE FEUKER, Heilpraktikerin, Homöopathin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Hasenheide 93",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.487455,
+    "lng": 13.4174227
+  },
+  "phone": "017632226342",
+  "website": "http://www.heilpraxis-feuker.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

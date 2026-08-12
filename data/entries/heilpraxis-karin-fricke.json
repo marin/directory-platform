@@ -1,0 +1,30 @@
+{
+  "id": "heilpraxis-karin-fricke",
+  "slug": "heilpraxis-karin-fricke",
+  "name": "Heilpraxis Karin Fricke",
+  "description": "Heilpraxis Karin Fricke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Waldmannstraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.436259799999995,
+    "lng": 13.3333423
+  },
+  "phone": "03072020615",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

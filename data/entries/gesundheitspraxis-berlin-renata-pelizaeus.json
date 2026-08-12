@@ -1,0 +1,32 @@
+{
+  "id": "gesundheitspraxis-berlin-renata-pelizaeus",
+  "slug": "gesundheitspraxis-berlin-renata-pelizaeus",
+  "name": "Gesundheitspraxis Berlin, Renata Pelizaeus",
+  "description": "Gesundheitspraxis Berlin, Renata Pelizaeus ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Riehlstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.509547999999995,
+    "lng": 13.285631299999999
+  },
+  "phone": "03032603676",
+  "email": "renateholst@aol.com",
+  "website": "http://www.gesundheitspraxis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

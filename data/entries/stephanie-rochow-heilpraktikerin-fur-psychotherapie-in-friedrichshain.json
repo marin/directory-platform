@@ -1,0 +1,33 @@
+{
+  "id": "stephanie-rochow-heilpraktikerin-fur-psychotherapie-in-friedrichshain",
+  "slug": "stephanie-rochow-heilpraktikerin-fur-psychotherapie-in-friedrichshain",
+  "name": "Stephanie Rochow Heilpraktikerin für Psychotherapie in Friedrichshain",
+  "description": "Stephanie Rochow Heilpraktikerin für Psychotherapie in Friedrichshain ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Simplonstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10245",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.509063,
+    "lng": 13.4580828
+  },
+  "phone": "01772926634",
+  "email": "info@stephanie-rochow.de",
+  "website": "http://www.stephanie-rochow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

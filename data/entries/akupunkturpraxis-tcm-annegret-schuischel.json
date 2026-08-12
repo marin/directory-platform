@@ -1,0 +1,32 @@
+{
+  "id": "akupunkturpraxis-tcm-annegret-schuischel",
+  "slug": "akupunkturpraxis-tcm-annegret-schuischel",
+  "name": "Akupunkturpraxis-TCM Annegret Schuischel",
+  "description": "Akupunkturpraxis-TCM Annegret Schuischel ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Richterstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12105",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4416624,
+    "lng": 13.3842369
+  },
+  "phone": "015775544992",
+  "email": "schuischel@akupunkturpraxis-tcm.de",
+  "website": "http://www.akupunkturpraxis-tcm.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

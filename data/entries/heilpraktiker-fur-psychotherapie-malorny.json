@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-malorny",
+  "slug": "heilpraktiker-fur-psychotherapie-malorny",
+  "name": "Heilpraktiker für Psychotherapie Malorny",
+  "description": "Heilpraktiker für Psychotherapie Malorny ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pariser Str. 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.496952,
+    "lng": 13.323509
+  },
+  "website": "https://therapie-malorny.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

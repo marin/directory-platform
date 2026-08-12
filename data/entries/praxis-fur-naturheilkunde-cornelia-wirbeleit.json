@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-naturheilkunde-cornelia-wirbeleit",
+  "slug": "praxis-fur-naturheilkunde-cornelia-wirbeleit",
+  "name": "Praxis für Naturheilkunde Cornelia Wirbeleit",
+  "description": "Praxis für Naturheilkunde Cornelia Wirbeleit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Helene-Weigel-Platz 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12681",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5275554,
+    "lng": 13.541969
+  },
+  "phone": "03054000970",
+  "website": "http://www.hp-wirbeleit.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

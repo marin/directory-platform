@@ -1,0 +1,32 @@
+{
+  "id": "praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios",
+  "slug": "praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios",
+  "name": "Praxis Rühle - Dipl.-Psych. Heilpraktikerin für Psychotherapie, Heilpraktiker Craniosacraltherapie",
+  "description": "Praxis Rühle - Dipl.-Psych. Heilpraktikerin für Psychotherapie, Heilpraktiker Craniosacraltherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Sybelstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5021267,
+    "lng": 13.3064626
+  },
+  "phone": "03088681188",
+  "website": "https://praxisruehle.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

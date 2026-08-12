@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-christian-leppla-zei",
+  "slug": "heilpraktiker-christian-leppla-zei",
+  "name": "Heilpraktiker Christian Leppla-Zei",
+  "description": "Heilpraktiker Christian Leppla-Zei ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schönfließer Str. 16/EG",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.551753899999994,
+    "lng": 13.4078552
+  },
+  "phone": "015159211162",
+  "email": "clz.heilpflanzen@gmail.com",
+  "website": "http://www.heilpraktiker-blutegel.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-leppla-zei?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

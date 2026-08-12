@@ -1,0 +1,32 @@
+{
+  "id": "brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie",
+  "slug": "brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie",
+  "name": "Brigita Bakmaz, Heilpraktikerin für klassische Homöopathie",
+  "description": "Brigita Bakmaz, Heilpraktikerin für klassische Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Raumerstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.541365,
+    "lng": 13.422102899999999
+  },
+  "phone": "03044327617",
+  "website": "http://www.bakmaz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

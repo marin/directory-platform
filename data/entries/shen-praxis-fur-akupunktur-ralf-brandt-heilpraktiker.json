@@ -1,0 +1,33 @@
+{
+  "id": "shen-praxis-fur-akupunktur-ralf-brandt-heilpraktiker",
+  "slug": "shen-praxis-fur-akupunktur-ralf-brandt-heilpraktiker",
+  "name": "Shen – Praxis für Akupunktur Ralf Brandt, Heilpraktiker",
+  "description": "Shen – Praxis für Akupunktur Ralf Brandt, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Kreutzigerstraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5132158,
+    "lng": 13.4597622
+  },
+  "phone": "015560492522",
+  "email": "ralf.brandt@shen-akupunktur-friedrichshain.de",
+  "website": "https://shen-akupunktur-friedrichshain.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

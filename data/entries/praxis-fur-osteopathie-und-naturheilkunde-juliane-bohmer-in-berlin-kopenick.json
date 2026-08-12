@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-osteopathie-und-naturheilkunde-juliane-bohmer-in-berlin-kopenick",
+  "slug": "praxis-fur-osteopathie-und-naturheilkunde-juliane-bohmer-in-berlin-kopenick",
+  "name": "Praxis für Osteopathie und Naturheilkunde Juliane Böhmer in Berlin-Köpenick",
+  "description": "Praxis für Osteopathie und Naturheilkunde Juliane Böhmer in Berlin-Köpenick ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Wendenschloßstraße 437a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4173658,
+    "lng": 13.5897277
+  },
+  "phone": "03064897272",
+  "email": "info@hp-boehmer.de",
+  "website": "http://www.osteopathie-naturheilkunde-koepenick.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

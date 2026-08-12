@@ -1,0 +1,33 @@
+{
+  "id": "ashara-kuckuck-heilpraktikerin",
+  "slug": "ashara-kuckuck-heilpraktikerin",
+  "name": "Ashara Kuckuck, Heilpraktikerin",
+  "description": "Ashara Kuckuck, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Erdmannstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489050199999994,
+    "lng": 13.361530499999999
+  },
+  "phone": "0307883645",
+  "email": "info@asharakuckuck.de",
+  "website": "http://www.asharakuckuck.de/",
+  "bookingUrl": "https://www.doctolib.de/praxis/berlin/praxis-von-ashara-kuckuck-streich-nadine?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

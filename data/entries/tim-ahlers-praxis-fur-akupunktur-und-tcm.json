@@ -1,0 +1,33 @@
+{
+  "id": "tim-ahlers-praxis-fur-akupunktur-und-tcm",
+  "slug": "tim-ahlers-praxis-fur-akupunktur-und-tcm",
+  "name": "Tim Ahlers | Praxis für Akupunktur und TCM",
+  "description": "Tim Ahlers | Praxis für Akupunktur und TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Samariterstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5186978,
+    "lng": 13.4664831
+  },
+  "phone": "03060929764",
+  "email": "info@akupunktur-praxis-friedrichshain.de",
+  "website": "https://akupunktur-praxis-friedrichshain.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

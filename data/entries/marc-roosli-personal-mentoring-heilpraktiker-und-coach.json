@@ -1,0 +1,31 @@
+{
+  "id": "marc-roosli-personal-mentoring-heilpraktiker-und-coach",
+  "slug": "marc-roosli-personal-mentoring-heilpraktiker-und-coach",
+  "name": "Marc Röösli - Personal Mentoring | Heilpraktiker und Coach",
+  "description": "Marc Röösli - Personal Mentoring | Heilpraktiker und Coach ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Czeminskistraße 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.487451099999994,
+    "lng": 13.363414299999999
+  },
+  "email": "support@der-berufsfinder.de",
+  "website": "https://freiheit-durch-klarheit.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

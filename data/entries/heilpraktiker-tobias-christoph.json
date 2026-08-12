@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-tobias-christoph",
+  "slug": "heilpraktiker-tobias-christoph",
+  "name": "Heilpraktiker Tobias Christoph",
+  "description": "Heilpraktiker Tobias Christoph ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Edelhofdamm 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6354033,
+    "lng": 13.2978692
+  },
+  "phone": "017657078634",
+  "email": "info@tobias-christoph.de",
+  "website": "http://www.tobias-christoph.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

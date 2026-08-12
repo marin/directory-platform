@@ -1,0 +1,33 @@
+{
+  "id": "claudia-kramer-heilpraktikerin-und-osteopathin",
+  "slug": "claudia-kramer-heilpraktikerin-und-osteopathin",
+  "name": "Claudia Krämer - Heilpraktikerin und Osteopathin",
+  "description": "Claudia Krämer - Heilpraktikerin und Osteopathin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Elsbeerenweg 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14089",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.462261899999994,
+    "lng": 13.1555232
+  },
+  "phone": "01783653688",
+  "email": "claudia@osteopathie-kladow.de",
+  "website": "http://www.osteopathie-kladow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

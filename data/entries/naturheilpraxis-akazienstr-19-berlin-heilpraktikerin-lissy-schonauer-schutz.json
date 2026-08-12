@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz",
+  "slug": "naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz",
+  "name": "Naturheilpraxis Akazienstr. 19 Berlin Heilpraktikerin Lissy Schonauer-Schütz",
+  "description": "Naturheilpraxis Akazienstr. 19 Berlin Heilpraktikerin Lissy Schonauer-Schütz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Akazienstraße 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.488476399999996,
+    "lng": 13.3536077
+  },
+  "phone": "0307813373",
+  "email": "info@naturheilpraxis-akazienstr.de",
+  "website": "http://www.naturheilpraxis-akazienstr.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

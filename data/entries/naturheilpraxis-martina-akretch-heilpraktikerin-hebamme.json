@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-martina-akretch-heilpraktikerin-hebamme",
+  "slug": "naturheilpraxis-martina-akretch-heilpraktikerin-hebamme",
+  "name": "naturheilpraxis martina akretch - heilpraktikerin & hebamme",
+  "description": "naturheilpraxis martina akretch - heilpraktikerin & hebamme ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Sauerbruchstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4204474,
+    "lng": 13.1537701
+  },
+  "phone": "0308056236",
+  "website": "http://www.naturheilpraxis-akretch.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

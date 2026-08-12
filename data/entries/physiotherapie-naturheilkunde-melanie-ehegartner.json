@@ -1,0 +1,33 @@
+{
+  "id": "physiotherapie-naturheilkunde-melanie-ehegartner",
+  "slug": "physiotherapie-naturheilkunde-melanie-ehegartner",
+  "name": "Physiotherapie & Naturheilkunde | Melanie Ehegartner",
+  "description": "Physiotherapie & Naturheilkunde | Melanie Ehegartner ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bornimer Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4962465,
+    "lng": 13.285161299999999
+  },
+  "phone": "017643871347",
+  "email": "kontakt@physiotherapie-halensee.de",
+  "website": "https://physiotherapie-halensee.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

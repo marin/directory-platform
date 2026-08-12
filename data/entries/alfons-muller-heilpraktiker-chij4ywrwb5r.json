@@ -1,0 +1,31 @@
+{
+  "id": "alfons-muller-heilpraktiker-chij4ywrwb5r",
+  "slug": "alfons-muller-heilpraktiker-chij4ywrwb5r",
+  "name": "Alfons Müller, Heilpraktiker",
+  "description": "Alfons Müller, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Wiesbadener Str. 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14197",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.472053499999994,
+    "lng": 13.3165321
+  },
+  "email": "bewertungen@jameda.de",
+  "website": "https://www.jameda.de/alfons-mueller-2/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=388663&utm_content=website",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

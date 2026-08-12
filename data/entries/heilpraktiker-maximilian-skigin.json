@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-maximilian-skigin",
+  "slug": "heilpraktiker-maximilian-skigin",
+  "name": "Heilpraktiker Maximilian Skigin",
+  "description": "Heilpraktiker Maximilian Skigin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Fritschestraße 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.507396299999996,
+    "lng": 13.300835699999999
+  },
+  "phone": "03063374466",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

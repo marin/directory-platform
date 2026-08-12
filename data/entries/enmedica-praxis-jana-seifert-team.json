@@ -1,0 +1,32 @@
+{
+  "id": "enmedica-praxis-jana-seifert-team",
+  "slug": "enmedica-praxis-jana-seifert-team",
+  "name": "enMedica - Praxis Jana Seifert & Team",
+  "description": "enMedica - Praxis Jana Seifert & Team ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Rheinstraße 32",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4666554,
+    "lng": 13.32977
+  },
+  "phone": "0308518013",
+  "website": "http://www.enmedica.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

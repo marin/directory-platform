@@ -1,0 +1,32 @@
+{
+  "id": "daniela-schmidt-heilpraktikerin-fur-psychotherapie-und-massage",
+  "slug": "daniela-schmidt-heilpraktikerin-fur-psychotherapie-und-massage",
+  "name": "Daniela Schmidt Heilpraktikerin für Psychotherapie und Massage",
+  "description": "Daniela Schmidt Heilpraktikerin für Psychotherapie und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Handjerystraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4744058,
+    "lng": 13.332423499999999
+  },
+  "phone": "017641698528",
+  "website": "http://www.danielaschmidt.berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

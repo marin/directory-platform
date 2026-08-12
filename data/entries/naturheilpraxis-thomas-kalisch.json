@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-thomas-kalisch",
+  "slug": "naturheilpraxis-thomas-kalisch",
+  "name": "Naturheilpraxis Thomas Kalisch",
+  "description": "Naturheilpraxis Thomas Kalisch ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Kaiserin-Augusta-Allee 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5258946,
+    "lng": 13.308028499999999
+  },
+  "phone": "03061084377",
+  "website": "https://www.naturheilpraxis-kalisch.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/thomas-kalisch-berlin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

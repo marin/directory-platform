@@ -1,0 +1,34 @@
+{
+  "id": "tcm-praxis-jessica-noll-heilpraktikerin-faborm",
+  "slug": "tcm-praxis-jessica-noll-heilpraktikerin-faborm",
+  "name": "TCM Praxis - Jessica Noll, Heilpraktikerin, FABORM",
+  "description": "TCM Praxis - Jessica Noll, Heilpraktikerin, FABORM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Karlsruher Str. 7a/8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4996504,
+    "lng": 13.2945949
+  },
+  "phone": "0308312344",
+  "email": "info@jessica-noll.de",
+  "website": "https://www.jessica-noll.de/",
+  "bookingUrl": "https://tcm.qi-point.de/neuertermin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

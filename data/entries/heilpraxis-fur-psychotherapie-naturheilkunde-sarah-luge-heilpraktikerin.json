@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin",
+  "slug": "heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin",
+  "name": "Heilpraxis für Psychotherapie & Naturheilkunde Sarah Luge - Heilpraktikerin",
+  "description": "Heilpraxis für Psychotherapie & Naturheilkunde Sarah Luge - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Ruppiner Ch 141",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6080286,
+    "lng": 13.259962499999999
+  },
+  "phone": "017624657154",
+  "website": "https://www.sarahluge.de/",
+  "bookingUrl": "https://zeeg.me/sarahluge",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

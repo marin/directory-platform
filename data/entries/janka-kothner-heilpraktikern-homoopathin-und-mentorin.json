@@ -1,0 +1,34 @@
+{
+  "id": "janka-kothner-heilpraktikern-homoopathin-und-mentorin",
+  "slug": "janka-kothner-heilpraktikern-homoopathin-und-mentorin",
+  "name": "Janka Köthner Heilpraktikern, Homöopathin und Mentorin",
+  "description": "Janka Köthner Heilpraktikern, Homöopathin und Mentorin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wartburgstr. 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4874119,
+    "lng": 13.348860799999999
+  },
+  "phone": "01781366765",
+  "email": "info@jkoethner.de",
+  "website": "http://www.jkoethner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

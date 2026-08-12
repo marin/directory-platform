@@ -1,0 +1,30 @@
+{
+  "id": "liane-hein-heilpraktikerin-naturheilverfahren",
+  "slug": "liane-hein-heilpraktikerin-naturheilverfahren",
+  "name": "Liane Hein - Heilpraktikerin, Naturheilverfahren",
+  "description": "Liane Hein - Heilpraktikerin, Naturheilverfahren ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Witzlebenstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.509063399999995,
+    "lng": 13.2945307
+  },
+  "phone": "0308593253",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

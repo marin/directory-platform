@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktiker-ulrich-christen",
+  "slug": "heilpraktiker-ulrich-christen",
+  "name": "Heilpraktiker Ulrich Christen",
+  "description": "Heilpraktiker Ulrich Christen ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Am Tempelhofer Berg 7d",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4883829,
+    "lng": 13.3878822
+  },
+  "phone": "030201693093",
+  "email": "post@ulrichchristen.de",
+  "website": "https://www.ulrichchristen.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ulrich-christen?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

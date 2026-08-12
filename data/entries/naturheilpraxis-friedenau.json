@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-friedenau",
+  "slug": "naturheilpraxis-friedenau",
+  "name": "Naturheilpraxis Friedenau",
+  "description": "Naturheilpraxis Friedenau ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Stubenrauchstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4761591,
+    "lng": 13.324395299999999
+  },
+  "phone": "03081828789",
+  "website": "http://www.naturheilpraxis-friedenau.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

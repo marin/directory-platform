@@ -1,0 +1,34 @@
+{
+  "id": "hoppe-hypnose-heilpraktiker-fur-psychotherapie",
+  "slug": "hoppe-hypnose-heilpraktiker-fur-psychotherapie",
+  "name": "Hoppe-Hypnose Heilpraktiker für Psychotherapie",
+  "description": "Hoppe-Hypnose Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Gustav-Adolf-Straße 149",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.554483,
+    "lng": 13.4362307
+  },
+  "phone": "015226017313",
+  "email": "hypnose-hoppe@gmx.de",
+  "website": "http://www.hypnose-hoppe.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-kosmetik-massage",
+  "slug": "praxis-fur-naturheilkunde-kosmetik-massage",
+  "name": "Praxis für Naturheilkunde, Kosmetik & Massage",
+  "description": "Praxis für Naturheilkunde, Kosmetik & Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Am Carlsgarten 14 A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4785356,
+    "lng": 13.5284237
+  },
+  "phone": "03080586691",
+  "email": "kontakt@naturheilpraxis-karlshorst.de",
+  "website": "http://naturheilpraxis-karlshorst.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

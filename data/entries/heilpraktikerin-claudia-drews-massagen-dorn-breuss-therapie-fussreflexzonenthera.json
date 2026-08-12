@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-claudia-drews-massagen-dorn-breuss-therapie-fussreflexzonenthera",
+  "slug": "heilpraktikerin-claudia-drews-massagen-dorn-breuss-therapie-fussreflexzonenthera",
+  "name": "Heilpraktikerin Claudia Drews-Massagen-Dorn Breuss Therapie-Fußreflexzonentherapie-Homöopathie-Phytotherapie",
+  "description": "Heilpraktikerin Claudia Drews-Massagen-Dorn Breuss Therapie-Fußreflexzonentherapie-Homöopathie-Phytotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Cranachstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.468304599999996,
+    "lng": 13.3422942
+  },
+  "phone": "01746641260",
+  "website": "https://www.naturheilkunde-drews.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

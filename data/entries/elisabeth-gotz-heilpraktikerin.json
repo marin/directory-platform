@@ -1,0 +1,31 @@
+{
+  "id": "elisabeth-gotz-heilpraktikerin",
+  "slug": "elisabeth-gotz-heilpraktikerin",
+  "name": "Elisabeth Götz Heilpraktikerin",
+  "description": "Elisabeth Götz Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Blücherstraße 58",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4937621,
+    "lng": 13.4005247
+  },
+  "phone": "0306912393",
+  "website": "http://www.naturheilpraxis-bluecherstr.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

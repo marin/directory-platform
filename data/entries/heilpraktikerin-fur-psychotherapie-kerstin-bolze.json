@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-kerstin-bolze",
+  "slug": "heilpraktikerin-fur-psychotherapie-kerstin-bolze",
+  "name": "Heilpraktikerin für Psychotherapie, Kerstin Bolze",
+  "description": "Heilpraktikerin für Psychotherapie, Kerstin Bolze ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Meyerbeerstraße 113",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.549427699999995,
+    "lng": 13.464976
+  },
+  "phone": "01724274655",
+  "email": "kontakt@kerstinbolze.de",
+  "website": "https://kerstinbolze.de/",
+  "bookingUrl": "https://kerstinbolze.de/termin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

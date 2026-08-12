@@ -1,0 +1,33 @@
+{
+  "id": "katrin-asmuss-heilpraktikerin-fur-psychotherapie",
+  "slug": "katrin-asmuss-heilpraktikerin-fur-psychotherapie",
+  "name": "Katrin Asmuß, Heilpraktikerin für Psychotherapie",
+  "description": "Katrin Asmuß, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Waldstraße 42",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4404946,
+    "lng": 13.5547352
+  },
+  "phone": "015115766322",
+  "website": "http://www.heilpraxis-adlershof.com/",
+  "bookingUrl": "https://katrinasmuss.wordpress.com/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

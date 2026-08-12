@@ -1,0 +1,33 @@
+{
+  "id": "massagenberlin-heilpraktiker-martin-grutz",
+  "slug": "massagenberlin-heilpraktiker-martin-grutz",
+  "name": "Massagenberlin - Heilpraktiker Martin Grütz",
+  "description": "Massagenberlin - Heilpraktiker Martin Grütz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Driesener Str. 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.550812799999996,
+    "lng": 13.4058569
+  },
+  "phone": "01785555838",
+  "email": "massgenberlin@gmx.de",
+  "website": "https://massagenberlin.com/",
+  "bookingUrl": "https://massagenberlin.com/kalender/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

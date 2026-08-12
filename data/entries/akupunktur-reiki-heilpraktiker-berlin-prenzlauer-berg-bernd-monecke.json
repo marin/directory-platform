@@ -1,0 +1,33 @@
+{
+  "id": "akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke",
+  "slug": "akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke",
+  "name": "Akupunktur & Reiki | Heilpraktiker Berlin Prenzlauer Berg - Bernd Monecke",
+  "description": "Akupunktur & Reiki | Heilpraktiker Berlin Prenzlauer Berg - Bernd Monecke ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Diedenhofer Str. 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5344756,
+    "lng": 13.4174271
+  },
+  "phone": "01772727627",
+  "website": "https://www.bambuspraxis.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernd-monecke?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

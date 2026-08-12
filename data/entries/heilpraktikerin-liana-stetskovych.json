@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-liana-stetskovych",
+  "slug": "heilpraktikerin-liana-stetskovych",
+  "name": "Heilpraktikerin Liana Stetskovych",
+  "description": "Heilpraktikerin Liana Stetskovych ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Buckower Damm 175",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12349",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4279017,
+    "lng": 13.435450999999999
+  },
+  "phone": "03062728033",
+  "email": "info@charme-d-orient.de",
+  "website": "https://www.charme-d-orient.de/heilpraxis.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

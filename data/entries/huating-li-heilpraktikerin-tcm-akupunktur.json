@@ -1,0 +1,34 @@
+{
+  "id": "huating-li-heilpraktikerin-tcm-akupunktur",
+  "slug": "huating-li-heilpraktikerin-tcm-akupunktur",
+  "name": "Huating Li Heilpraktikerin TCM Akupunktur",
+  "description": "Huating Li Heilpraktikerin TCM Akupunktur ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Linienstraße 119",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.527136399999996,
+    "lng": 13.391029
+  },
+  "phone": "017623104543",
+  "email": "huatingtcm@gmail.com",
+  "website": "http://shourentang.de/",
+  "bookingUrl": "https://shourentang.de/#buchen",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

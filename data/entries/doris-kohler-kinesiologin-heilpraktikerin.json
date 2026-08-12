@@ -1,0 +1,30 @@
+{
+  "id": "doris-kohler-kinesiologin-heilpraktikerin",
+  "slug": "doris-kohler-kinesiologin-heilpraktikerin",
+  "name": "Doris Köhler - Kinesiologin & Heilpraktikerin",
+  "description": "Doris Köhler - Kinesiologin & Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Herbert-Baum-Straße 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.546029999999995,
+    "lng": 13.45782
+  },
+  "phone": "03078711833",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

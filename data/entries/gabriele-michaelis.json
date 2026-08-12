@@ -1,0 +1,30 @@
+{
+  "id": "gabriele-michaelis",
+  "slug": "gabriele-michaelis",
+  "name": "Gabriele Michaelis",
+  "description": "Gabriele Michaelis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Kirchhofstraße 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12055",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.473254399999995,
+    "lng": 13.4436568
+  },
+  "phone": "03063227770",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

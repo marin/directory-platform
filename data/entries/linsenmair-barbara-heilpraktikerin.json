@@ -1,0 +1,32 @@
+{
+  "id": "linsenmair-barbara-heilpraktikerin",
+  "slug": "linsenmair-barbara-heilpraktikerin",
+  "name": "Linsenmair Barbara Heilpraktikerin",
+  "description": "Linsenmair Barbara Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Wildganssteig 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.609296699999994,
+    "lng": 13.231814499999999
+  },
+  "phone": "03043668210",
+  "email": "b-linsenmair@gmx.de",
+  "website": "http://www.kinesiologie-berlinbrandenburg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

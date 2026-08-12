@@ -1,0 +1,32 @@
+{
+  "id": "marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald",
+  "slug": "marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald",
+  "name": "Marta Steigerwald-Ihre Naturheilpraxis Charlottenburg Marta Steigerwald",
+  "description": "Marta Steigerwald-Ihre Naturheilpraxis Charlottenburg Marta Steigerwald ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Heerstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5095416,
+    "lng": 13.270434999999999
+  },
+  "phone": "015233805057",
+  "email": "info@steigerwald-beauty.de",
+  "website": "https://steigerwald-beauty.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

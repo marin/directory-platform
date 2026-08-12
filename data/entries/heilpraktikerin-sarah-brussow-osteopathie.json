@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-sarah-brussow-osteopathie",
+  "slug": "heilpraktikerin-sarah-brussow-osteopathie",
+  "name": "Heilpraktikerin Sarah Brüssow Osteopathie",
+  "description": "Heilpraktikerin Sarah Brüssow Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kastanienallee 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5405971,
+    "lng": 13.4114311
+  },
+  "email": "sarah.bruessow@googlemail.com",
+  "website": "http://www.trainerette.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

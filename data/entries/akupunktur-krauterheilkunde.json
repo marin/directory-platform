@@ -1,0 +1,34 @@
+{
+  "id": "akupunktur-krauterheilkunde",
+  "slug": "akupunktur-krauterheilkunde",
+  "name": "Akupunktur & Kräuterheilkunde",
+  "description": "Akupunktur & Kräuterheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Bötzowstraße 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.532938699999995,
+    "lng": 13.4355358
+  },
+  "phone": "03061643831",
+  "email": "info@natur-praxisberlin.de",
+  "website": "http://natur-praxisberlin.de/",
+  "bookingUrl": "http://www.natur-praxisberlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-wiebke-hermsdorf",
+  "slug": "naturheilpraxis-wiebke-hermsdorf",
+  "name": "Naturheilpraxis Wiebke Hermsdorf",
+  "description": "Naturheilpraxis Wiebke Hermsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Manteuffelstraße 67",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49604,
+    "lng": 13.4239
+  },
+  "phone": "015253609822",
+  "website": "https://www.naturheilpraxis-wiebkehermsdorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie-chij-tefpqqe",
+  "slug": "praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie-chij-tefpqqe",
+  "name": "Praxis für Osteopathie am Ludwigkirchplatz & Heilpraktiker für Psychotherapie",
+  "description": "Praxis für Osteopathie am Ludwigkirchplatz & Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pfalzburger Str. 81",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.498391999999996,
+    "lng": 13.322929
+  },
+  "phone": "03088778484",
+  "email": "permanum@web.de",
+  "website": "https://osteopathie-jk.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

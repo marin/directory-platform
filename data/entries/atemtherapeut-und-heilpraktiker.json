@@ -1,0 +1,30 @@
+{
+  "id": "atemtherapeut-und-heilpraktiker",
+  "slug": "atemtherapeut-und-heilpraktiker",
+  "name": "Atemtherapeut und Heilpraktiker",
+  "description": "Atemtherapeut und Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Krausnickstraße 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.52515,
+    "lng": 13.395389999999999
+  },
+  "phone": "0306936922",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

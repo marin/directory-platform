@@ -1,0 +1,32 @@
+{
+  "id": "adelheid-henke-heilpraktikerin",
+  "slug": "adelheid-henke-heilpraktikerin",
+  "name": "Adelheid Henke Heilpraktikerin",
+  "description": "Adelheid Henke Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Dickhardtstraße 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.468943499999995,
+    "lng": 13.3356809
+  },
+  "phone": "0308336071",
+  "email": "mail@adelheidhenke.de",
+  "website": "https://adelheidhenke.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

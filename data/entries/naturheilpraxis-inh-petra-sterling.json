@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-inh-petra-sterling",
+  "slug": "naturheilpraxis-inh-petra-sterling",
+  "name": "Naturheilpraxis Inh. Petra Sterling",
+  "description": "Naturheilpraxis Inh. Petra Sterling ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Herbergerweg 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.430642999999996,
+    "lng": 13.262006399999999
+  },
+  "phone": "03086203336",
+  "email": "petra-sterling@web.de",
+  "website": "http://www.naturheilpraxis-sterling.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

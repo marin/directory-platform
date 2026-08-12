@@ -1,0 +1,32 @@
+{
+  "id": "psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie",
+  "slug": "psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie",
+  "name": "Psychotherapie Berlin – Marc Strüder, Heilpraktiker für Psychotherapie",
+  "description": "Psychotherapie Berlin – Marc Strüder, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Dresdener Str. 117",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.503360099999995,
+    "lng": 13.4151109
+  },
+  "phone": "015112997658",
+  "website": "https://www.marcstrueder.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

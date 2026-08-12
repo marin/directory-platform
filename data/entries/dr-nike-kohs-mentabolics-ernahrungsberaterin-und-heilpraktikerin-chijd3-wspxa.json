@@ -1,0 +1,35 @@
+{
+  "id": "dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin-chijd3-wspxa",
+  "slug": "dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin-chijd3-wspxa",
+  "name": "Dr. Nike Kohs | mentabolics Ernährungsberaterin und Heilpraktikerin",
+  "description": "Dr. Nike Kohs | mentabolics Ernährungsberaterin und Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "HAUS UNVERDORBEN",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.427385099999995,
+    "lng": 13.313888599999999
+  },
+  "phone": "01736174080",
+  "email": "n.kohs@mentabolics.de",
+  "website": "http://www.mentabolics.de/",
+  "bookingUrl": "https://www.mentabolics.de/kostenfreieserstgespr%C3%A4ch",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

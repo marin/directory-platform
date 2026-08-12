@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-conte",
+  "slug": "naturheilpraxis-conte",
+  "name": "Naturheilpraxis Conte",
+  "description": "Naturheilpraxis Conte ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Nicolaistraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.443545699999994,
+    "lng": 13.3348892
+  },
+  "phone": "03076880888",
+  "website": "http://nhp-conte.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/birgit-conte",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie",
+  "slug": "praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie",
+  "name": "Praxis Heike Sieben, Osteopathie, Akupunkt-Massage und Physiotherapie",
+  "description": "Praxis Heike Sieben, Osteopathie, Akupunkt-Massage und Physiotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "akupunktur-tcm",
+    "psychotherapie"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Alt-Tegel 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.589195499999995,
+    "lng": 13.280341799999999
+  },
+  "phone": "03081884525",
+  "website": "https://www.physio-sieben.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

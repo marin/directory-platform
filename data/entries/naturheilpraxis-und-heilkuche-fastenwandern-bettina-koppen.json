@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-und-heilkuche-fastenwandern-bettina-koppen",
+  "slug": "naturheilpraxis-und-heilkuche-fastenwandern-bettina-koppen",
+  "name": "Naturheilpraxis und Heilküche, Fastenwandern Bettina Köppen",
+  "description": "Naturheilpraxis und Heilküche, Fastenwandern Bettina Köppen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Raabestraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5321074,
+    "lng": 13.4221519
+  },
+  "phone": "01775906976",
+  "email": "bettina.koeppen@gmx.net",
+  "website": "http://www.naturheilpraxis-koeppen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

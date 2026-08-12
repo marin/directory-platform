@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-monika-buttner-in-spandau",
+  "slug": "naturheilpraxis-monika-buttner-in-spandau",
+  "name": "Naturheilpraxis Monika Büttner in Spandau",
+  "description": "Naturheilpraxis Monika Büttner in Spandau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Breite Str. 49",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13597",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5377042,
+    "lng": 13.205955
+  },
+  "phone": "01636927586",
+  "email": "monikabuettnerberlin@web.de",
+  "website": "https://monikabuettner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch",
+  "slug": "michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch",
+  "name": "Michael Grauer vormals Meliani, Praxis am Hansaplatz, Heilpraktiker, Chinesische Chiropraktik",
+  "description": "Michael Grauer vormals Meliani, Praxis am Hansaplatz, Heilpraktiker, Chinesische Chiropraktik ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Flensburger Str. 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.520068699999996,
+    "lng": 13.341880699999999
+  },
+  "phone": "03025586429",
+  "website": "http://www.praxisamhansaplatz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

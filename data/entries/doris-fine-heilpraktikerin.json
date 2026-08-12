@@ -1,0 +1,30 @@
+{
+  "id": "doris-fine-heilpraktikerin",
+  "slug": "doris-fine-heilpraktikerin",
+  "name": "Doris Fine Heilpraktikerin",
+  "description": "Doris Fine Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Nußbaumallee 27A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14050",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5185299,
+    "lng": 13.2699153
+  },
+  "phone": "0303228486",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

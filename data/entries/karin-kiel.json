@@ -1,0 +1,31 @@
+{
+  "id": "karin-kiel",
+  "slug": "karin-kiel",
+  "name": "Karin Kiel",
+  "description": "Karin Kiel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Sollingzeile 1A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5526087,
+    "lng": 13.173722399999999
+  },
+  "phone": "0303054400",
+  "website": "http://www.karin-kiel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

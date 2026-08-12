@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-christin-franke",
+  "slug": "heilpraktikerin-christin-franke",
+  "name": "Heilpraktikerin Christin Franke",
+  "description": "Heilpraktikerin Christin Franke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bleibtreustraße 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5031823,
+    "lng": 13.3194442
+  },
+  "phone": "015201875785",
+  "email": "hi@flow-and-flourish.de",
+  "website": "https://flow-and-flourish.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

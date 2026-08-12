@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-komplementarmedizin-und-pravention",
+  "slug": "praxis-fur-komplementarmedizin-und-pravention",
+  "name": "Praxis für Komplementärmedizin und Prävention",
+  "description": "Praxis für Komplementärmedizin und Prävention ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Am Sandwerder 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.422235699999995,
+    "lng": 13.1780417
+  },
+  "phone": "03032663747",
+  "website": "http://www.praxis-wannsee.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "baron-roland-heilpraktiker-chijj6wipw5o",
+  "slug": "baron-roland-heilpraktiker-chijj6wipw5o",
+  "name": "Baron Roland, Heilpraktiker",
+  "description": "Baron Roland, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Liselotte-Herrmann-Straße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5324266,
+    "lng": 13.4329965
+  },
+  "phone": "017661806270",
+  "email": "bewertungen@jameda.de",
+  "website": "https://www.jameda.de/berlin/heilpraktiker/klass-homoeopathie/roland-baron/uebersicht/80294705_1/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "praxis-finne",
+  "slug": "praxis-finne",
+  "name": "Praxis Finné",
+  "description": "Praxis Finné ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Mainzer Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.480221099999994,
+    "lng": 13.3235008
+  },
+  "phone": "03027019964",
+  "email": "mail@praxis-finne.com",
+  "website": "http://www.praxis-finne.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

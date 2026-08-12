@@ -1,0 +1,31 @@
+{
+  "id": "ottmar-karl-heilpraktiker",
+  "slug": "ottmar-karl-heilpraktiker",
+  "name": "Ottmar Karl Heilpraktiker",
+  "description": "Ottmar Karl Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Krumme Str. 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.507549999999995,
+    "lng": 13.30909
+  },
+  "phone": "03026553513",
+  "website": "http://www.ottmarkarl.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

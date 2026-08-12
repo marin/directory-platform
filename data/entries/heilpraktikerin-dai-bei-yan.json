@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-dai-bei-yan",
+  "slug": "heilpraktikerin-dai-bei-yan",
+  "name": "Heilpraktikerin Dai Bei Yan",
+  "description": "Heilpraktikerin Dai Bei Yan ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Eisenacher Str. 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486635,
+    "lng": 13.350041
+  },
+  "phone": "03078706100",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

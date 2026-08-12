@@ -1,0 +1,32 @@
+{
+  "id": "gesprachstherapie-klangtherapie-knut-rauter-heilpraktiker-fur-psychotherapie",
+  "slug": "gesprachstherapie-klangtherapie-knut-rauter-heilpraktiker-fur-psychotherapie",
+  "name": "Gesprächstherapie & Klangtherapie, Knut Rauter - Heilpraktiker für Psychotherapie",
+  "description": "Gesprächstherapie & Klangtherapie, Knut Rauter - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pariser Str. 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4965433,
+    "lng": 13.3256014
+  },
+  "phone": "01702817711",
+  "website": "http://knutrauter.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

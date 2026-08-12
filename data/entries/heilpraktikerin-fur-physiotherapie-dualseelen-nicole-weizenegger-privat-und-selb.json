@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb",
+  "slug": "heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb",
+  "name": "Heilpraktikerin für Physiotherapie & Dualseelen Nicole Weizenegger - Privat- und Selbstzahlerpraxis",
+  "description": "Heilpraktikerin für Physiotherapie & Dualseelen Nicole Weizenegger - Privat- und Selbstzahlerpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Lowise-Reuter-Ring 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12359",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4476046,
+    "lng": 13.4479185
+  },
+  "phone": "01601862426",
+  "email": "termin@physioheilpraxis-weizenegger.de",
+  "website": "http://www.physioheilpraxis-weizenegger.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

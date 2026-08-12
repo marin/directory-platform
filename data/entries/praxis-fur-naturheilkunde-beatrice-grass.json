@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-naturheilkunde-beatrice-grass",
+  "slug": "praxis-fur-naturheilkunde-beatrice-grass",
+  "name": "Praxis für Naturheilkunde Beatrice Grass",
+  "description": "Praxis für Naturheilkunde Beatrice Grass ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Niedstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4726479,
+    "lng": 13.332037
+  },
+  "phone": "03085401309",
+  "website": "http://www.beatricegrass.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

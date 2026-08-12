@@ -1,0 +1,36 @@
+{
+  "id": "praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz",
+  "slug": "praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz",
+  "name": "Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz",
+  "description": "Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Muthesiusstraße 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.459381799999996,
+    "lng": 13.3202862
+  },
+  "phone": "03041990247",
+  "email": "info@praxis-duve.de",
+  "website": "https://www.praxis-duve.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/dagmar-duve?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

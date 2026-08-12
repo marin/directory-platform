@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-naturheilkunde-j-donak",
+  "slug": "praxis-fur-naturheilkunde-j-donak",
+  "name": "Praxis für Naturheilkunde J. Donak",
+  "description": "Praxis für Naturheilkunde J. Donak ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hilbertstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12307",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.384534099999996,
+    "lng": 13.396207299999999
+  },
+  "phone": "03070765633",
+  "website": "http://www.praxis-donak.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

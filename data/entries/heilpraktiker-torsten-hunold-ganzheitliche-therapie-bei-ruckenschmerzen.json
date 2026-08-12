@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-torsten-hunold-ganzheitliche-therapie-bei-ruckenschmerzen",
+  "slug": "heilpraktiker-torsten-hunold-ganzheitliche-therapie-bei-ruckenschmerzen",
+  "name": "Heilpraktiker Torsten Hunold - ganzheitliche Therapie bei Rückenschmerzen",
+  "description": "Heilpraktiker Torsten Hunold - ganzheitliche Therapie bei Rückenschmerzen ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Berliner Allee 150",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.550896599999994,
+    "lng": 13.4654154
+  },
+  "phone": "017664026497",
+  "website": "http://torsten-hunold.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

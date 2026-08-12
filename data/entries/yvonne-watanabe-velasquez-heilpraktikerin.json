@@ -1,0 +1,30 @@
+{
+  "id": "yvonne-watanabe-velasquez-heilpraktikerin",
+  "slug": "yvonne-watanabe-velasquez-heilpraktikerin",
+  "name": "Yvonne Watanabe Velasquez Heilpraktikerin",
+  "description": "Yvonne Watanabe Velasquez Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Holsteinische Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4626581,
+    "lng": 13.3283457
+  },
+  "phone": "03070096526",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

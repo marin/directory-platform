@@ -1,0 +1,32 @@
+{
+  "id": "klassische-homoopathie-clementina-rabuffetti",
+  "slug": "klassische-homoopathie-clementina-rabuffetti",
+  "name": "Klassische Homöopathie Clementina Rabuffetti",
+  "description": "Klassische Homöopathie Clementina Rabuffetti ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Berliner Straße 140",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10715",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486322799999996,
+    "lng": 13.323884699999999
+  },
+  "phone": "0307813904",
+  "website": "https://rabuffetti.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "karin-benz-praxis-fur-naturheilkunde",
+  "slug": "karin-benz-praxis-fur-naturheilkunde",
+  "name": "Karin Benz Praxis für Naturheilkunde",
+  "description": "Karin Benz Praxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bozener Str. 11-12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10825",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486664,
+    "lng": 13.337971399999999
+  },
+  "phone": "03085409990",
+  "website": "http://www.karin-benz-die-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

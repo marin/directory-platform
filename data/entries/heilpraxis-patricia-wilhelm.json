@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-patricia-wilhelm",
+  "slug": "heilpraxis-patricia-wilhelm",
+  "name": "Heilpraxis Patricia Wilhelm",
+  "description": "Heilpraxis Patricia Wilhelm ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bautzener Pl. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489625999999994,
+    "lng": 13.3696725
+  },
+  "phone": "017656938482",
+  "email": "info@heilpraxis-pw.de",
+  "website": "http://heilpraxis-pw.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

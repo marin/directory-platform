@@ -1,0 +1,33 @@
+{
+  "id": "praxis-belladonna-heilpraktikerin-ulrike-potzsch",
+  "slug": "praxis-belladonna-heilpraktikerin-ulrike-potzsch",
+  "name": "PRAXIS BELLADONNA / Heilpraktikerin Ulrike Pötzsch",
+  "description": "PRAXIS BELLADONNA / Heilpraktikerin Ulrike Pötzsch ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Olympische Str. 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5165618,
+    "lng": 13.257598999999999
+  },
+  "phone": "03012074380",
+  "email": "praxis@darmsanierung-berlin.com",
+  "website": "https://darmsanierung-berlin.com/",
+  "bookingUrl": "https://darmsanierung-berlin.com/termin-vereinbaren/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

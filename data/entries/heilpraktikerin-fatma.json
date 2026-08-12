@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-fatma",
+  "slug": "heilpraktikerin-fatma",
+  "name": "Heilpraktikerin Fatma",
+  "description": "Heilpraktikerin Fatma ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Beckerstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.467325599999995,
+    "lng": 13.3433035
+  },
+  "phone": "017665145598",
+  "email": "anfrage@fatma-iscan-heilpraktikerin.de",
+  "website": "https://fatma-iscan-heilpraktikerin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

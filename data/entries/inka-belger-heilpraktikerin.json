@@ -1,0 +1,30 @@
+{
+  "id": "inka-belger-heilpraktikerin",
+  "slug": "inka-belger-heilpraktikerin",
+  "name": "Inka Belger Heilpraktikerin",
+  "description": "Inka Belger Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Weverstraße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13595",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.51961,
+    "lng": 13.19294
+  },
+  "phone": "0303053866",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

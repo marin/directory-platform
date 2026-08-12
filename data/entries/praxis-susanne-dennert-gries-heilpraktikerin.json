@@ -1,0 +1,32 @@
+{
+  "id": "praxis-susanne-dennert-gries-heilpraktikerin",
+  "slug": "praxis-susanne-dennert-gries-heilpraktikerin",
+  "name": "Praxis Susanne Dennert-Gries Heilpraktikerin",
+  "description": "Praxis Susanne Dennert-Gries Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Gardeschützenweg 96",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.445610099999996,
+    "lng": 13.3034108
+  },
+  "phone": "01723803844",
+  "email": "info@heilpraxis-lichterfelde.com",
+  "website": "http://www.heilpraxis-lichterfelde.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

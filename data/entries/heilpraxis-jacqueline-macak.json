@@ -1,0 +1,30 @@
+{
+  "id": "heilpraxis-jacqueline-macak",
+  "slug": "heilpraxis-jacqueline-macak",
+  "name": "Heilpraxis Jacqueline Macak",
+  "description": "Heilpraxis Jacqueline Macak ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Mörchinger Str. 120 b",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4370753,
+    "lng": 13.270747199999999
+  },
+  "phone": "0308122459",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

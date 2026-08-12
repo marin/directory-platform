@@ -1,0 +1,32 @@
+{
+  "id": "ya-hui-wang-heilpraktikerin-praxis-lichterfelde-ost",
+  "slug": "ya-hui-wang-heilpraktikerin-praxis-lichterfelde-ost",
+  "name": "Ya-Hui Wang Heilpraktikerin (Praxis Lichterfelde Ost)",
+  "description": "Ya-Hui Wang Heilpraktikerin (Praxis Lichterfelde Ost) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kaiser-Wilhelm-Straße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4305167,
+    "lng": 13.334592899999999
+  },
+  "phone": "01776310765",
+  "email": "kontakt@yahuiwang.de",
+  "website": "https://www.yahuiwang.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

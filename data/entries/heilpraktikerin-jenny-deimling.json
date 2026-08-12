@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-jenny-deimling",
+  "slug": "heilpraktikerin-jenny-deimling",
+  "name": "Heilpraktikerin Jenny Deimling",
+  "description": "Heilpraktikerin Jenny Deimling ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Herrfurthstraße 6a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4774556,
+    "lng": 13.4242171
+  },
+  "phone": "017670012683",
+  "email": "kontakt@heilpraktikerin-jenny-deimling.de",
+  "website": "https://www.heilpraktikerin-jenny-deimling.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/deimling-jenny",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

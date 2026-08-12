@@ -1,0 +1,32 @@
+{
+  "id": "eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde",
+  "slug": "eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde",
+  "name": "eumunys | Praxis für komplementäre Medizin und Naturheilkunde",
+  "description": "eumunys | Praxis für komplementäre Medizin und Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Alte Jakobstraße 93",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10179",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.508853699999996,
+    "lng": 13.4058716
+  },
+  "phone": "017634201642",
+  "email": "praxis@eumunys.com",
+  "website": "http://www.eumunys.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

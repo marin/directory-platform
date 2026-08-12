@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-akupunktur-und-naturheilkunde",
+  "slug": "praxis-fur-akupunktur-und-naturheilkunde",
+  "name": "Praxis für Akupunktur und Naturheilkunde",
+  "description": "Praxis für Akupunktur und Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Bahnhofstraße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13125",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6140845,
+    "lng": 13.4694871
+  },
+  "phone": "03091142001",
+  "email": "info@akupunktur-karow.de",
+  "website": "http://www.akupunktur-karow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

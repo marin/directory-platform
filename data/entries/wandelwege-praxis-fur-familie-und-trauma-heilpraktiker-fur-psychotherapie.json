@@ -1,0 +1,32 @@
+{
+  "id": "wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie",
+  "slug": "wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie",
+  "name": "WandelWege - Praxis für Familie und Trauma - Heilpraktiker für Psychotherapie",
+  "description": "WandelWege - Praxis für Familie und Trauma - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pfalzburger Str. 87",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4996057,
+    "lng": 13.323249299999999
+  },
+  "phone": "015201710607",
+  "website": "https://www.wandelwege.berlin/traumatherapie/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

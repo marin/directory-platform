@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-coach-dipl-psych-michaela-susanne-faber",
+  "slug": "heilpraktikerin-coach-dipl-psych-michaela-susanne-faber",
+  "name": "Heilpraktikerin & Coach Dipl.-Psych. Michaela Susanne Faber",
+  "description": "Heilpraktikerin & Coach Dipl.-Psych. Michaela Susanne Faber ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hauptstraße 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.637892799999996,
+    "lng": 13.4860914
+  },
+  "phone": "015771337518",
+  "website": "http://www.fraufaber.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

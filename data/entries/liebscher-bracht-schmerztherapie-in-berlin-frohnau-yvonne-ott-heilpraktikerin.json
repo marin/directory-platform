@@ -1,0 +1,33 @@
+{
+  "id": "liebscher-bracht-schmerztherapie-in-berlin-frohnau-yvonne-ott-heilpraktikerin",
+  "slug": "liebscher-bracht-schmerztherapie-in-berlin-frohnau-yvonne-ott-heilpraktikerin",
+  "name": "Liebscher & Bracht Schmerztherapie in Berlin-Frohnau - Yvonne Ott, Heilpraktikerin",
+  "description": "Liebscher & Bracht Schmerztherapie in Berlin-Frohnau - Yvonne Ott, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Zeltinger Str. 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6374856,
+    "lng": 13.294915099999999
+  },
+  "phone": "03040109156",
+  "email": "praxis@partner-liebscher-bracht-berlin-ott.de",
+  "website": "https://www.partner-liebscher-bracht-berlin-ott.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

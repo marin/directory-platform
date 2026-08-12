@@ -1,0 +1,32 @@
+{
+  "id": "private-physiotherapie-sektorale-heilpraktikerin-heike-curseri",
+  "slug": "private-physiotherapie-sektorale-heilpraktikerin-heike-curseri",
+  "name": "Private Physiotherapie & sektorale Heilpraktikerin Heike Curseri",
+  "description": "Private Physiotherapie & sektorale Heilpraktikerin Heike Curseri ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "hinter Netto",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4249443,
+    "lng": 13.5851919
+  },
+  "phone": "03023541105",
+  "email": "h.curseri@gmx.de",
+  "website": "http://www.physio-heikecurseri.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-klassische-homoopathie-sauglinge-kinder-erwachsene",
+  "slug": "praxis-fur-klassische-homoopathie-sauglinge-kinder-erwachsene",
+  "name": "Praxis für klassische Homöopathie, Säuglinge, Kinder & Erwachsene",
+  "description": "Praxis für klassische Homöopathie, Säuglinge, Kinder & Erwachsene ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "C/o Physiotherapie in",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12559",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4446589,
+    "lng": 13.5861755
+  },
+  "phone": "015227810716",
+  "email": "praxis@just-homoeopathie-berlin.de",
+  "website": "https://www.just-homoeopathie-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

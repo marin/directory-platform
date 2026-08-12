@@ -1,0 +1,34 @@
+{
+  "id": "heilpraktikerin-fur-psychotherapie-kerstin-klein",
+  "slug": "heilpraktikerin-fur-psychotherapie-kerstin-klein",
+  "name": "Heilpraktikerin für Psychotherapie - Kerstin Klein",
+  "description": "Heilpraktikerin für Psychotherapie - Kerstin Klein ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Peschkestraße 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4649779,
+    "lng": 13.3322228
+  },
+  "phone": "03064310690",
+  "email": "kontakt@praxis-kerstin-klein.de",
+  "website": "https://www.praxis-kerstin-klein.de/",
+  "bookingUrl": "https://www.praxis-kerstin-klein.de/#kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

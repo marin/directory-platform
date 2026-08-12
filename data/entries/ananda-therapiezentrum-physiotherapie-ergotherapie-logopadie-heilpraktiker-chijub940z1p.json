@@ -1,0 +1,32 @@
+{
+  "id": "ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker-chijub940z1p",
+  "slug": "ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker-chijub940z1p",
+  "name": "ANANDA Therapiezentrum (Physiotherapie Ergotherapie Logopädie Heilpraktiker)",
+  "description": "ANANDA Therapiezentrum (Physiotherapie Ergotherapie Logopädie Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Erdgeschoss links",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12359",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4518645,
+    "lng": 13.4512868
+  },
+  "phone": "03066625452",
+  "email": "atz.rez@gmail.com",
+  "website": "https://www.ananda-atz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

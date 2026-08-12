@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-eva-stieler-homoopathie",
+  "slug": "heilpraktikerin-eva-stieler-homoopathie",
+  "name": "Heilpraktikerin Eva Stieler – Homöopathie",
+  "description": "Heilpraktikerin Eva Stieler – Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Goethestraße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12305",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4041365,
+    "lng": 13.4022326
+  },
+  "phone": "0307423815",
+  "email": "eva.stieler@t-online.de",
+  "website": "https://www.heilpraktiker-eva-stieler.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

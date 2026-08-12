@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-fur-tcm-larysa-willner",
+  "slug": "heilpraxis-fur-tcm-larysa-willner",
+  "name": "Heilpraxis für TCM Larysa Willner",
+  "description": "Heilpraxis für TCM Larysa Willner ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Oberfeldstraße 180",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12683",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.516839999999995,
+    "lng": 13.5555788
+  },
+  "phone": "01721726875",
+  "email": "larysa.willner@gmx.de",
+  "website": "https://www.willner-tcm-berlin.de/index.htm",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "naturheilkunde-haase",
+  "slug": "naturheilkunde-haase",
+  "name": "Naturheilkunde-Haase",
+  "description": "Naturheilkunde-Haase ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5724423,
+    "lng": 13.4059796
+  },
+  "phone": "01799738292",
+  "email": "info@naturheilkunde-haase.de",
+  "website": "https://www.naturheilkunde-haase.de/",
+  "bookingUrl": "https://www.naturheilkunde-haase.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

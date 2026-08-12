@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-kristin-wiegleb-praxisgemeinschaft",
+  "slug": "naturheilpraxis-kristin-wiegleb-praxisgemeinschaft",
+  "name": "Naturheilpraxis Kristin Wiegleb (Praxisgemeinschaft)",
+  "description": "Naturheilpraxis Kristin Wiegleb (Praxisgemeinschaft) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Schreinerstraße 55",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5177609,
+    "lng": 13.464464
+  },
+  "phone": "01794756963",
+  "email": "naturheilpraxis_wiegleb@yahoo.com",
+  "website": "http://www.naturheilpraxis-wiegleb.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

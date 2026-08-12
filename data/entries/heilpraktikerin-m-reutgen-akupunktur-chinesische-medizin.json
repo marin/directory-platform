@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-m-reutgen-akupunktur-chinesische-medizin",
+  "slug": "heilpraktikerin-m-reutgen-akupunktur-chinesische-medizin",
+  "name": "Heilpraktikerin M. Reutgen, Akupunktur, Chinesische Medizin",
+  "description": "Heilpraktikerin M. Reutgen, Akupunktur, Chinesische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Wollankstraße 133",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.568864399999995,
+    "lng": 13.400487
+  },
+  "phone": "01749412358",
+  "email": "post@therapiezentrum-pankow.de",
+  "website": "https://therapiezentrum-pankow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

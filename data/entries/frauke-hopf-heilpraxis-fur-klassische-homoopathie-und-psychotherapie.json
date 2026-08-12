@@ -1,0 +1,34 @@
+{
+  "id": "frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie",
+  "slug": "frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie",
+  "name": "Frauke Hopf, Heilpraxis für Klassische Homöopathie und Psychotherapie",
+  "description": "Frauke Hopf, Heilpraxis für Klassische Homöopathie und Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Graefestraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49512,
+    "lng": 13.4191684
+  },
+  "phone": "03061209921",
+  "email": "info@heilpraxis-hopf.de",
+  "website": "https://heilpraxis-kreuzberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

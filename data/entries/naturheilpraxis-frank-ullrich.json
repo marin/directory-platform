@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-frank-ullrich",
+  "slug": "naturheilpraxis-frank-ullrich",
+  "name": "Naturheilpraxis Frank Ullrich",
+  "description": "Naturheilpraxis Frank Ullrich ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Eichenstraße 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.585195399999996,
+    "lng": 13.3912082
+  },
+  "phone": "03047486096",
+  "website": "http://www.naturheilpraxis-ullrich.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-koonert",
+  "slug": "heilpraxis-koonert",
+  "name": "Heilpraxis Koonert",
+  "description": "Heilpraxis Koonert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Winsstraße 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5336425,
+    "lng": 13.425277099999999
+  },
+  "phone": "03041714164",
+  "email": "info@heilpraxis-koonert.de",
+  "website": "http://heilpraxis-koonert.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

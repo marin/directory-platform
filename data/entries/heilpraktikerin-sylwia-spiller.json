@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-sylwia-spiller",
+  "slug": "heilpraktikerin-sylwia-spiller",
+  "name": "Heilpraktikerin Sylwia Spiller",
+  "description": "Heilpraktikerin Sylwia Spiller ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Riemeisterstraße 39 a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.44428,
+    "lng": 13.261095099999999
+  },
+  "phone": "015560759736",
+  "website": "https://www.heilpraxis-spiller.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

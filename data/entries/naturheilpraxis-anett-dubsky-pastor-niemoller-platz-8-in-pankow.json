@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow",
+  "slug": "naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow",
+  "name": "Naturheilpraxis Anett Dubsky Pastor-Niemöller-Platz 8 in Pankow",
+  "description": "Naturheilpraxis Anett Dubsky Pastor-Niemöller-Platz 8 in Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pastor-Niemöller-Platz 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5797865,
+    "lng": 13.396914299999999
+  },
+  "phone": "015566330663",
+  "email": "kontakt@naturheilpraxis-in-berlin.com",
+  "website": "https://www.naturheilpraxis-in-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "andrea-i-seifert-naturheilpraxis-naturasana",
+  "slug": "andrea-i-seifert-naturheilpraxis-naturasana",
+  "name": "Andrea I Seifert Naturheilpraxis NATURASANA",
+  "description": "Andrea I Seifert Naturheilpraxis NATURASANA ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bundesallee 83",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4693587,
+    "lng": 13.3279737
+  },
+  "phone": "0308594969",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

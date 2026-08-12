@@ -1,0 +1,32 @@
+{
+  "id": "stiftung-deutscher-heilpraktiker",
+  "slug": "stiftung-deutscher-heilpraktiker",
+  "name": "Stiftung Deutscher Heilpraktiker",
+  "description": "Stiftung Deutscher Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Mohriner Allee 88",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4412192,
+    "lng": 13.4210128
+  },
+  "phone": "0307036960",
+  "email": "homoeovet@t-online.de",
+  "website": "https://www.dieheilpraktiker.com/kontakt.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

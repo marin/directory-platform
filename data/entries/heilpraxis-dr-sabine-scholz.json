@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-dr-sabine-scholz",
+  "slug": "heilpraxis-dr-sabine-scholz",
+  "name": "Heilpraxis Dr. Sabine Scholz",
+  "description": "Heilpraxis Dr. Sabine Scholz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Lohengrinstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4228446,
+    "lng": 13.1897539
+  },
+  "phone": "03080491353",
+  "email": "kontakt@sabine-scholz.de",
+  "website": "http://www.sabine-scholz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

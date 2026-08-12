@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-cornelia-lehmann",
+  "slug": "heilpraktikerin-cornelia-lehmann",
+  "name": "Heilpraktikerin Cornelia Lehmann",
+  "description": "Heilpraktikerin Cornelia Lehmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Uhlenweg 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13125",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6447279,
+    "lng": 13.4967844
+  },
+  "phone": "03024617132",
+  "email": "cornelialehmann@icloud.com",
+  "website": "http://www.ganzheitlicheheilkunde.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

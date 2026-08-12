@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-schwarz",
+  "slug": "heilpraktiker-schwarz",
+  "name": "Heilpraktiker Schwarz",
+  "description": "Heilpraktiker Schwarz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Berliner Str. 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13127",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5975878,
+    "lng": 13.433685899999999
+  },
+  "phone": "03067467305",
+  "email": "kontakt@heilpraktiker-schwarz.de",
+  "website": "http://www.heilpraktiker-schwarz.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

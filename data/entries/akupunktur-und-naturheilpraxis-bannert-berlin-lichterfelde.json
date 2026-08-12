@@ -1,0 +1,33 @@
+{
+  "id": "akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde",
+  "slug": "akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde",
+  "name": "Akupunktur- und Naturheilpraxis Bannert Berlin Lichterfelde",
+  "description": "Akupunktur- und Naturheilpraxis Bannert Berlin Lichterfelde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Müllerstraße 22C",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4150748,
+    "lng": 13.307330199999999
+  },
+  "phone": "0307122994",
+  "email": "post@praxis-bannert.de",
+  "website": "http://www.praxis-bannert.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

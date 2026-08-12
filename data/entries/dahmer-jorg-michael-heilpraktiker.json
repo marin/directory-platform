@@ -1,0 +1,31 @@
+{
+  "id": "dahmer-jorg-michael-heilpraktiker",
+  "slug": "dahmer-jorg-michael-heilpraktiker",
+  "name": "Dahmer Jörg-Michael Heilpraktiker",
+  "description": "Dahmer Jörg-Michael Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Ruschestraße 103/Haus 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10365",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.514862099999995,
+    "lng": 13.485916099999999
+  },
+  "phone": "0306212509",
+  "website": "http://aerztezentrum-ruschestrasse.de/fachgebiete/heilpraktiker/joerg-michael-dahmer/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

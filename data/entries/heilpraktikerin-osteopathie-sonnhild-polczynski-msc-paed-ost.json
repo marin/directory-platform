@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-osteopathie-sonnhild-polczynski-msc-paed-ost",
+  "slug": "heilpraktikerin-osteopathie-sonnhild-polczynski-msc-paed-ost",
+  "name": "Heilpraktikerin / Osteopathie - Sonnhild Polczynski, Msc. paed. Ost.",
+  "description": "Heilpraktikerin / Osteopathie - Sonnhild Polczynski, Msc. paed. Ost. ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schönfließer Str. 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.552102899999994,
+    "lng": 13.4080304
+  },
+  "phone": "01775448661",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

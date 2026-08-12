@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek",
+  "slug": "naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek",
+  "name": "Naturheilpraxis Kapek | Heilpraktikerin: Beatrice Kapek",
+  "description": "Naturheilpraxis Kapek | Heilpraktikerin: Beatrice Kapek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Vereinsstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12487",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4419858,
+    "lng": 13.5040178
+  },
+  "phone": "01627943714",
+  "email": "info@nabeka.de",
+  "website": "https://naturheilpraxis-beatrice-kapek.de/ueber-mich/",
+  "bookingUrl": "https://naturheilpraxis-beatrice-kapek.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

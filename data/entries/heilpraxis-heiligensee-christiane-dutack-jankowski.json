@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-heiligensee-christiane-dutack-jankowski",
+  "slug": "heilpraxis-heiligensee-christiane-dutack-jankowski",
+  "name": "Heilpraxis Heiligensee Christiane Dutack-Jankowski",
+  "description": "Heilpraxis Heiligensee Christiane Dutack-Jankowski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Bläßhuhnweg 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6053438,
+    "lng": 13.2371201
+  },
+  "phone": "03034508838",
+  "email": "info@heilpraxis-charlottenburg.de",
+  "website": "http://www.heilpraxis-heiligensee.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

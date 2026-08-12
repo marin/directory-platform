@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-susanne-mowert",
+  "slug": "heilpraxis-susanne-mowert",
+  "name": "Heilpraxis Susanne Möwert",
+  "description": "Heilpraxis Susanne Möwert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Plathweg 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13595",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.514328299999995,
+    "lng": 13.1965045
+  },
+  "phone": "03036282863",
+  "website": "http://www.heilpraxis-moewert.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

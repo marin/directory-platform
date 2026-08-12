@@ -1,0 +1,32 @@
+{
+  "id": "anja-baumer-raum-fur-vertrauen",
+  "slug": "anja-baumer-raum-fur-vertrauen",
+  "name": "Anja Bäumer – Raum für Vertrauen",
+  "description": "Anja Bäumer – Raum für Vertrauen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "An d. Karlshorster Heide 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.475511999999995,
+    "lng": 13.5316469
+  },
+  "phone": "03086387468",
+  "email": "anja.baeumer@raum-fuer-vertrauen.de",
+  "website": "https://raum-fuer-vertrauen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke",
+  "slug": "naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke",
+  "name": "Naturheilkunde, TCM und Akupuntur in Berlin-Steglitz - Praxis Golombeck-Peschke",
+  "description": "Naturheilkunde, TCM und Akupuntur in Berlin-Steglitz - Praxis Golombeck-Peschke ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Lauenburger Str. 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4621487,
+    "lng": 13.337934599999999
+  },
+  "phone": "03079744692",
+  "website": "http://akupunktur-tcm-steglitz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

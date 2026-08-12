@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-wittenau",
+  "slug": "naturheilpraxis-wittenau",
+  "name": "Naturheilpraxis Wittenau",
+  "description": "Naturheilpraxis Wittenau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Engelroder Weg 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.603451,
+    "lng": 13.3452728
+  },
+  "phone": "03025584494",
+  "website": "http://www.naturheilpraxis-wittenau.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

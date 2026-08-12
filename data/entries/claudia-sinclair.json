@@ -1,0 +1,32 @@
+{
+  "id": "claudia-sinclair",
+  "slug": "claudia-sinclair",
+  "name": "Claudia Sinclair",
+  "description": "Claudia Sinclair ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Cranachstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.468304599999996,
+    "lng": 13.3422942
+  },
+  "phone": "0307825655",
+  "email": "claudia@naturheilpraxis-sinclair.de",
+  "website": "http://www.naturheilpraxis-sinclair.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

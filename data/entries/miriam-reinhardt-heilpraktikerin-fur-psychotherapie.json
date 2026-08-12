@@ -1,0 +1,32 @@
+{
+  "id": "miriam-reinhardt-heilpraktikerin-fur-psychotherapie",
+  "slug": "miriam-reinhardt-heilpraktikerin-fur-psychotherapie",
+  "name": "Miriam Reinhardt - Heilpraktikerin für Psychotherapie",
+  "description": "Miriam Reinhardt - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.508095399999995,
+    "lng": 13.304496799999999
+  },
+  "phone": "01794569434",
+  "website": "http://www.krisenbewaeltigen-therapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

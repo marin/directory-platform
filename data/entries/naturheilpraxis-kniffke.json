@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-kniffke",
+  "slug": "naturheilpraxis-kniffke",
+  "name": "Naturheilpraxis-Kniffke",
+  "description": "Naturheilpraxis-Kniffke ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Jessnerstraße 22",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.51172,
+    "lng": 13.472266
+  },
+  "phone": "03081701978",
+  "email": "info@naturheilpraxis-kniffke.de",
+  "website": "https://www.naturheilpraxis-kniffke.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/sebastian-kniffke?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

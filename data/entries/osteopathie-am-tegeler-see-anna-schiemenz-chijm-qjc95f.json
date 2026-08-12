@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-am-tegeler-see-anna-schiemenz-chijm-qjc95f",
+  "slug": "osteopathie-am-tegeler-see-anna-schiemenz-chijm-qjc95f",
+  "name": "Osteopathie am Tegeler See – Anna Schiemenz",
+  "description": "Osteopathie am Tegeler See – Anna Schiemenz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Alt-Tegel 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.589191899999996,
+    "lng": 13.280330399999999
+  },
+  "phone": "030585838490",
+  "email": "info@osteopathie.de",
+  "website": "https://www.osteopathie.de/therapeutenliste?thnr=316076&plzbereich=1&suchplz=&suchort=&suchfirma=&suchname=&dosymbol=&kindersymbol=",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

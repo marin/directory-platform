@@ -1,0 +1,31 @@
+{
+  "id": "frau-viola-schalski",
+  "slug": "frau-viola-schalski",
+  "name": "Frau Viola Schalski",
+  "description": "Frau Viola Schalski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Ritterstraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13597",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5382993,
+    "lng": 13.203405
+  },
+  "phone": "03035303653",
+  "website": "https://www.hauptstadt-heilpflanzen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

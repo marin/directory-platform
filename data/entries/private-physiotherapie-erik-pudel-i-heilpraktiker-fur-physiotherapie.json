@@ -1,0 +1,33 @@
+{
+  "id": "private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie",
+  "slug": "private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie",
+  "name": "Private Physiotherapie Erik Pudel I Heilpraktiker für Physiotherapie",
+  "description": "Private Physiotherapie Erik Pudel I Heilpraktiker für Physiotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Seegerstraße 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13158",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5907306,
+    "lng": 13.3675657
+  },
+  "phone": "01732002794",
+  "email": "erikpudel.pt@gmx.de",
+  "website": "https://www.physioerik.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6407958372878823594",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-physiotherapie/berlin/erik-pudel?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

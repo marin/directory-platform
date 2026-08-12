@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-christine-drieske",
+  "slug": "heilpraktikerin-christine-drieske",
+  "name": "Heilpraktikerin Christine Drieske",
+  "description": "Heilpraktikerin Christine Drieske ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Innsbrucker Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10825",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4877021,
+    "lng": 13.339992599999999
+  },
+  "phone": "017655149760",
+  "website": "http://www.schmerztherapie-drieske.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

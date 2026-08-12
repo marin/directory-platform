@@ -1,0 +1,33 @@
+{
+  "id": "regina-voss-heilpraktikerin-fur-psychotherapie-entspannungs-und-atemtherapie",
+  "slug": "regina-voss-heilpraktikerin-fur-psychotherapie-entspannungs-und-atemtherapie",
+  "name": "Regina Voß, Heilpraktikerin für Psychotherapie, Entspannungs- und Atemtherapie",
+  "description": "Regina Voß, Heilpraktikerin für Psychotherapie, Entspannungs- und Atemtherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Kieselbronner Weg 8A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13469",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.608679599999995,
+    "lng": 13.3433203
+  },
+  "phone": "015126247821",
+  "email": "info@psychotherapie-atem-voss.de",
+  "website": "http://psychotherapie-atem-voss.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "caroline-castner-heilpraktikerin",
+  "slug": "caroline-castner-heilpraktikerin",
+  "name": "Caroline Castner Heilpraktikerin",
+  "description": "Caroline Castner Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Roonstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4465461,
+    "lng": 13.3092752
+  },
+  "phone": "01773238083",
+  "website": "https://carolinecastner.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-am-schlosspark-dr-eva-becker",
+  "slug": "naturheilpraxis-am-schlosspark-dr-eva-becker",
+  "name": "Naturheilpraxis am Schlosspark Dr. Eva Becker",
+  "description": "Naturheilpraxis am Schlosspark Dr. Eva Becker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5724423,
+    "lng": 13.4059796
+  },
+  "phone": "015735180041",
+  "email": "info@praxis-evabecker.de",
+  "website": "http://www.praxis-evabecker.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

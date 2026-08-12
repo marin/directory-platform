@@ -1,0 +1,33 @@
+{
+  "id": "cornelia-dola-tulke-heilpraxis-am-burgerpark-raum-fur-korperbewusstsein",
+  "slug": "cornelia-dola-tulke-heilpraxis-am-burgerpark-raum-fur-korperbewusstsein",
+  "name": "Cornelia Dola Tulke-Heilpraxis am Bürgerpark - Raum für KörperBewußtsein",
+  "description": "Cornelia Dola Tulke-Heilpraxis am Bürgerpark - Raum für KörperBewußtsein ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schulzestraße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5674597,
+    "lng": 13.3909647
+  },
+  "phone": "017631706878",
+  "email": "cornelia.tulke@web.de",
+  "website": "https://cornelia-tulke.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/cornelia-tulke",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-gesundes-leben",
+  "slug": "praxis-fur-gesundes-leben",
+  "name": "Praxis für gesundes Leben",
+  "description": "Praxis für gesundes Leben ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kastanienallee 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.540298,
+    "lng": 13.411128999999999
+  },
+  "phone": "03031985291",
+  "email": "praxis@philippnedelmann.de",
+  "website": "http://www.philippnedelmann.de/",
+  "bookingUrl": "https://www.doctolib.de/praxis/berlin/praxis-fuer-gesundes-leben-philipp-nedelmann",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

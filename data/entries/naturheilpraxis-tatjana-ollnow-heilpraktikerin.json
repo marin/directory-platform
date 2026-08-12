@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-tatjana-ollnow-heilpraktikerin",
+  "slug": "naturheilpraxis-tatjana-ollnow-heilpraktikerin",
+  "name": "Naturheilpraxis Tatjana Ollnow - Heilpraktikerin",
+  "description": "Naturheilpraxis Tatjana Ollnow - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Waldeyerstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5146212,
+    "lng": 13.471599099999999
+  },
+  "phone": "03042025091",
+  "website": "http://www.naturheilpraxis-ollnow.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

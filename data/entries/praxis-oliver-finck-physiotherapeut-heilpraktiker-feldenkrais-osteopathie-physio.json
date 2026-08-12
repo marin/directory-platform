@@ -1,0 +1,33 @@
+{
+  "id": "praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio",
+  "slug": "praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio",
+  "name": "Praxis Oliver Finck (Physiotherapeut, Heilpraktiker) Feldenkrais Osteopathie Physiotherapie",
+  "description": "Praxis Oliver Finck (Physiotherapeut, Heilpraktiker) Feldenkrais Osteopathie Physiotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Körtestraße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491445,
+    "lng": 13.4103283
+  },
+  "phone": "017661865478",
+  "website": "http://feldenkrais-lichtenrade.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/oliver-finck-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

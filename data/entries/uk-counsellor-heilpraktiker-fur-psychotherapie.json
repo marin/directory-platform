@@ -1,0 +1,33 @@
+{
+  "id": "uk-counsellor-heilpraktiker-fur-psychotherapie",
+  "slug": "uk-counsellor-heilpraktiker-fur-psychotherapie",
+  "name": "UK Counsellor/Heilpraktiker für Psychotherapie",
+  "description": "UK Counsellor/Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Lützowstraße",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10785",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5043449,
+    "lng": 13.3573331
+  },
+  "phone": "03072297100",
+  "email": "info@davidbarnes.de",
+  "website": "http://www.davidbarnes.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

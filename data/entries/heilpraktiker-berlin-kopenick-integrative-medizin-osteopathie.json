@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie",
+  "slug": "heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie",
+  "name": "Heilpraktiker Berlin Köpenick - Integrative Medizin & Osteopathie",
+  "description": "Heilpraktiker Berlin Köpenick - Integrative Medizin & Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Grünauer Str. 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4431711,
+    "lng": 13.5690238
+  },
+  "phone": "03058882808",
+  "email": "info@nature-practice.de",
+  "website": "https://www.nature-practice.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

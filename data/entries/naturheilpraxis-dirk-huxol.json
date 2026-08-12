@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-dirk-huxol",
+  "slug": "naturheilpraxis-dirk-huxol",
+  "name": "Naturheilpraxis Dirk Huxol",
+  "description": "Naturheilpraxis Dirk Huxol ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Cecilienstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.431644299999995,
+    "lng": 13.3358621
+  },
+  "phone": "01631802260",
+  "website": "https://www.naturheilpraxis-huxol.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

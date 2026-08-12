@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-corina-jersabek",
+  "slug": "heilpraktikerin-corina-jersabek",
+  "name": "Heilpraktikerin Corina Jersabek",
+  "description": "Heilpraktikerin Corina Jersabek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bundesallee 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10717",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491408899999996,
+    "lng": 13.3304455
+  },
+  "phone": "03062870431",
+  "website": "https://www.heilpraktikerinberlin.info/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/corina-jersabek?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

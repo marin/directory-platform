@@ -1,0 +1,32 @@
+{
+  "id": "naturheilkunde-kerstin-wolf",
+  "slug": "naturheilkunde-kerstin-wolf",
+  "name": "Naturheilkunde Kerstin Wolf",
+  "description": "Naturheilkunde Kerstin Wolf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "13086 Berlin",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5498957,
+    "lng": 13.4489482
+  },
+  "phone": "03091147582",
+  "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
+  "website": "https://www.naturheilkunde-in-weissensee.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

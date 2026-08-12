@@ -1,0 +1,30 @@
+{
+  "id": "marion-rausch-heilpraktikerin",
+  "slug": "marion-rausch-heilpraktikerin",
+  "name": "Marion Rausch Heilpraktikerin",
+  "description": "Marion Rausch Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Stolzenhagener Str. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12679",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.548987399999994,
+    "lng": 13.5513205
+  },
+  "phone": "0309337397",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

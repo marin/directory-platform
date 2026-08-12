@@ -1,0 +1,32 @@
+{
+  "id": "privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin",
+  "slug": "privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin",
+  "name": "Privatpraxis Alexandra Hübenthal Heilpraktikerin & Physiotherapeutin",
+  "description": "Privatpraxis Alexandra Hübenthal Heilpraktikerin & Physiotherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Privatpraxis im Raum für Dich",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.524122399999996,
+    "lng": 13.6346411
+  },
+  "phone": "03054712905",
+  "email": "praxis@hp-huebenthal.de",
+  "website": "http://www.hp-huebenthal.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

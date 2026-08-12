@@ -1,0 +1,33 @@
+{
+  "id": "susanne-schneider-osteopathin-f-o-heilpraktikerin",
+  "slug": "susanne-schneider-osteopathin-f-o-heilpraktikerin",
+  "name": "Susanne Schneider - Osteopathin F. O. / Heilpraktikerin",
+  "description": "Susanne Schneider - Osteopathin F. O. / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Rhinower Str. 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5478385,
+    "lng": 13.409590399999999
+  },
+  "phone": "03081700961",
+  "email": "schneider-susanne@gmx.net",
+  "website": "http://www.heilpraxis-schneider.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-mit-schwerpunkt-orthopadie-carola-paduschek",
+  "slug": "naturheilpraxis-mit-schwerpunkt-orthopadie-carola-paduschek",
+  "name": "Naturheilpraxis mit Schwerpunkt Orthopädie - Carola Paduschek",
+  "description": "Naturheilpraxis mit Schwerpunkt Orthopädie - Carola Paduschek ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hufelandstraße 32",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5307563,
+    "lng": 13.434007099999999
+  },
+  "phone": "03040577360",
+  "email": "info@carola-paduschek.de",
+  "website": "http://www.carola-paduschek.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

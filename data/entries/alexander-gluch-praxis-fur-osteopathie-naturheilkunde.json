@@ -1,0 +1,32 @@
+{
+  "id": "alexander-gluch-praxis-fur-osteopathie-naturheilkunde",
+  "slug": "alexander-gluch-praxis-fur-osteopathie-naturheilkunde",
+  "name": "Alexander Gluch - Praxis für Osteopathie & Naturheilkunde",
+  "description": "Alexander Gluch - Praxis für Osteopathie & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Schloßstraße 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5911494,
+    "lng": 13.2828918
+  },
+  "phone": "03043749637",
+  "website": "http://www.heilpraktiker-tegel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

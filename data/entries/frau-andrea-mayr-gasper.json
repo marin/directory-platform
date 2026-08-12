@@ -1,0 +1,31 @@
+{
+  "id": "frau-andrea-mayr-gasper",
+  "slug": "frau-andrea-mayr-gasper",
+  "name": "Frau Andrea Mayr-Gasper",
+  "description": "Frau Andrea Mayr-Gasper ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Salvador-Allende-Straße 2-8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12559",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4403772,
+    "lng": 13.594169899999999
+  },
+  "phone": "03061674798",
+  "website": "https://www.theralupa.de/heilpraktiker/heilpraxis-mayr-gasper-berlin-9153",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

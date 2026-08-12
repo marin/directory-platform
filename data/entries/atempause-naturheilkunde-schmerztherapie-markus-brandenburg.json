@@ -1,0 +1,33 @@
+{
+  "id": "atempause-naturheilkunde-schmerztherapie-markus-brandenburg",
+  "slug": "atempause-naturheilkunde-schmerztherapie-markus-brandenburg",
+  "name": "ATEMPAUSE | Naturheilkunde Schmerztherapie | Markus Brandenburg",
+  "description": "ATEMPAUSE | Naturheilkunde Schmerztherapie | Markus Brandenburg ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Falkentaler Steig 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6205217,
+    "lng": 13.3021967
+  },
+  "phone": "015228668531",
+  "email": "info@schmerzfrei-atempause.de",
+  "website": "http://www.schmerzfrei-atempause.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

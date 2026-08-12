@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-zoltan-megyery",
+  "slug": "heilpraktiker-zoltan-megyery",
+  "name": "Heilpraktiker Zoltán Megyery",
+  "description": "Heilpraktiker Zoltán Megyery ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Mommsenstraße 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.503464,
+    "lng": 13.306763
+  },
+  "email": "redaktion@kauperts.de",
+  "website": "https://m.kauperts.de/eintrag/Megyery-Zoltan-Mommsenstrasse-43-10629-Berlin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

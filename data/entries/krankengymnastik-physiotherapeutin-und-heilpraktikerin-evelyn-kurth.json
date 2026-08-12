@@ -1,0 +1,31 @@
+{
+  "id": "krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth",
+  "slug": "krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth",
+  "name": "Krankengymnastik - Physiotherapeutin und Heilpraktikerin Evelyn Kürth",
+  "description": "Krankengymnastik - Physiotherapeutin und Heilpraktikerin Evelyn Kürth ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Thomasiusstraße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10557",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5239753,
+    "lng": 13.350631199999999
+  },
+  "phone": "0303911009",
+  "website": "http://www.vitalbody.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

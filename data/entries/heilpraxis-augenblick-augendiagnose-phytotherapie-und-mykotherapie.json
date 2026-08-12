@@ -1,0 +1,30 @@
+{
+  "id": "heilpraxis-augenblick-augendiagnose-phytotherapie-und-mykotherapie",
+  "slug": "heilpraxis-augenblick-augendiagnose-phytotherapie-und-mykotherapie",
+  "name": "Heilpraxis AugenBlick - Augendiagnose, Phytotherapie und Mykotherapie",
+  "description": "Heilpraxis AugenBlick - Augendiagnose, Phytotherapie und Mykotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Buschallee 109",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5539661,
+    "lng": 13.4686182
+  },
+  "phone": "03003092406755",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

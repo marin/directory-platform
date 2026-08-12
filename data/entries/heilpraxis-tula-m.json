@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-tula-m",
+  "slug": "heilpraxis-tula-m",
+  "name": "Heilpraxis - Tula M.",
+  "description": "Heilpraxis - Tula M. ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Richardstraße 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12055",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.473450299999996,
+    "lng": 13.445265
+  },
+  "email": "u00a0mail@heilpraxistulam.de",
+  "website": "https://www.heilpraxistulam.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

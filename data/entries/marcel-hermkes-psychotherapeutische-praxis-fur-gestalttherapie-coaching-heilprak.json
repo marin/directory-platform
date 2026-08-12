@@ -1,0 +1,33 @@
+{
+  "id": "marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak",
+  "slug": "marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak",
+  "name": "Marcel Hermkes - Psychotherapeutische Praxis für Gestalttherapie & Coaching | Heilpraktiker für Psychotherapie",
+  "description": "Marcel Hermkes - Psychotherapeutische Praxis für Gestalttherapie & Coaching | Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wielandstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4727074,
+    "lng": 13.3387958
+  },
+  "phone": "017674584935",
+  "email": "gestaltpraxis-hermkes@posteo.de",
+  "website": "https://gestalttherapie-hermkes.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

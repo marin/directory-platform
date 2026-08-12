@@ -1,0 +1,31 @@
+{
+  "id": "lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper",
+  "slug": "lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper",
+  "name": "Lebenssprudel Naturheilpraxis Heiltraud und Viktoria Klöppelpieper",
+  "description": "Lebenssprudel Naturheilpraxis Heiltraud und Viktoria Klöppelpieper ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Platenhofer Weg 3b",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13503",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.614084899999995,
+    "lng": 13.2245949
+  },
+  "phone": "015111280259",
+  "website": "http://www.praxis-lebenssprudel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

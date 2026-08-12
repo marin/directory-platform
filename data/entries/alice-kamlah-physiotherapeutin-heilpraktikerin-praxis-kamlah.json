@@ -1,0 +1,32 @@
+{
+  "id": "alice-kamlah-physiotherapeutin-heilpraktikerin-praxis-kamlah",
+  "slug": "alice-kamlah-physiotherapeutin-heilpraktikerin-praxis-kamlah",
+  "name": "Alice Kamlah | Physiotherapeutin & Heilpraktikerin | Praxis Kamlah",
+  "description": "Alice Kamlah | Physiotherapeutin & Heilpraktikerin | Praxis Kamlah ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Hohenstaufenstraße 37",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10779",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4945229,
+    "lng": 13.3394972
+  },
+  "phone": "015566118975",
+  "email": "info@praxis-kamlah.de",
+  "website": "https://praxis-kamlah.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

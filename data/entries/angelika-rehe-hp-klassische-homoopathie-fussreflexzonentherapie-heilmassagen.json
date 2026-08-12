@@ -1,0 +1,33 @@
+{
+  "id": "angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen",
+  "slug": "angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen",
+  "name": "Angelika Rehe - HP, klassische Homöopathie Fußreflexzonentherapie & Heilmassagen",
+  "description": "Angelika Rehe - HP, klassische Homöopathie Fußreflexzonentherapie & Heilmassagen ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schönfließer Str. 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5517214,
+    "lng": 13.4080333
+  },
+  "phone": "015253128109",
+  "email": "praxis-rehe@web.de",
+  "website": "https://www.praxis-rehe.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

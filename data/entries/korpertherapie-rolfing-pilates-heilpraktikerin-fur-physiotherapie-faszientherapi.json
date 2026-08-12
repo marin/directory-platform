@@ -1,0 +1,32 @@
+{
+  "id": "korpertherapie-rolfing-pilates-heilpraktikerin-fur-physiotherapie-faszientherapi",
+  "slug": "korpertherapie-rolfing-pilates-heilpraktikerin-fur-physiotherapie-faszientherapi",
+  "name": "Körpertherapie Rolfing&Pilates - Heilpraktikerin für Physiotherapie - Faszientherapie - Prenzlauer Berg- Pia Schulze Brock",
+  "description": "Körpertherapie Rolfing&Pilates - Heilpraktikerin für Physiotherapie - Faszientherapie - Prenzlauer Berg- Pia Schulze Brock ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Winsviertel",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5349467,
+    "lng": 13.4301047
+  },
+  "phone": "017699263948",
+  "email": "rolfing@posteo.de",
+  "website": "http://koerpertherapie-rolfing.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

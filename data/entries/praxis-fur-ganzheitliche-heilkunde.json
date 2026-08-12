@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-ganzheitliche-heilkunde",
+  "slug": "praxis-fur-ganzheitliche-heilkunde",
+  "name": "Praxis für ganzheitliche Heilkunde",
+  "description": "Praxis für ganzheitliche Heilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Münsterlandstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10317",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5042614,
+    "lng": 13.4932191
+  },
+  "website": "http://www.einfachheilsein.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

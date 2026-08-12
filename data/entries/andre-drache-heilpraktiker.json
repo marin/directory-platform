@@ -1,0 +1,30 @@
+{
+  "id": "andre-drache-heilpraktiker",
+  "slug": "andre-drache-heilpraktiker",
+  "name": "André Drache - Heilpraktiker",
+  "description": "André Drache - Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Blissestraße 52",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10713",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.480363399999995,
+    "lng": 13.320139
+  },
+  "phone": "03098325053",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

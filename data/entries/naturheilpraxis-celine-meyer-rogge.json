@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-celine-meyer-rogge",
+  "slug": "naturheilpraxis-celine-meyer-rogge",
+  "name": "Naturheilpraxis Céline Meyer- Rogge",
+  "description": "Naturheilpraxis Céline Meyer- Rogge ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Wittelsbacherstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49481,
+    "lng": 13.311499999999999
+  },
+  "phone": "03088497716",
+  "email": "cemero@freenet.de",
+  "website": "http://naturheilpraxis-wilmersdorf.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

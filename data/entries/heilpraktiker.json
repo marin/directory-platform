@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker",
+  "slug": "heilpraktiker",
+  "name": "Heilpraktiker",
+  "description": "Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Gleditschstraße 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10781",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4927104,
+    "lng": 13.354776999999999
+  },
+  "phone": "030216900",
+  "email": "peter@heilpraktiker-krauss.de",
+  "website": "https://www.heilpraktiker-krauss.de/kontakt-heilpraktiker-peter-krauss-berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

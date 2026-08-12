@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-fur-psychotherapie-tobias-assmann",
+  "slug": "heilpraktiker-fur-psychotherapie-tobias-assmann",
+  "name": "Heilpraktiker für Psychotherapie Tobias Assmann",
+  "description": "Heilpraktiker für Psychotherapie Tobias Assmann ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Modersohnstraße 65",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10245",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5015469,
+    "lng": 13.4564612
+  },
+  "phone": "03092103794",
+  "website": "https://hpta.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "thomas-regeler-heilpraktiker-fur-psychotherapie-praxiskreis-berlin",
+  "slug": "thomas-regeler-heilpraktiker-fur-psychotherapie-praxiskreis-berlin",
+  "name": "Thomas Regeler | Heilpraktiker für Psychotherapie | Praxiskreis | Berlin",
+  "description": "Thomas Regeler | Heilpraktiker für Psychotherapie | Praxiskreis | Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Ebelingstraße 14A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10249",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523821399999996,
+    "lng": 13.450998199999999
+  },
+  "phone": "017624564552",
+  "bookingUrl": "https://www.psychotherapie-berlin.me/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

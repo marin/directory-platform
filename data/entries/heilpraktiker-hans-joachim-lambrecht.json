@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-hans-joachim-lambrecht",
+  "slug": "heilpraktiker-hans-joachim-lambrecht",
+  "name": "Heilpraktiker Hans-Joachim Lambrecht",
+  "description": "Heilpraktiker Hans-Joachim Lambrecht ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Glienicker Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13467",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6176925,
+    "lng": 13.3084232
+  },
+  "phone": "01743154679",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

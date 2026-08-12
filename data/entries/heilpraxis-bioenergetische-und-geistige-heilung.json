@@ -1,0 +1,31 @@
+{
+  "id": "heilpraxis-bioenergetische-und-geistige-heilung",
+  "slug": "heilpraxis-bioenergetische-und-geistige-heilung",
+  "name": "Heilpraxis Bioenergetische und geistige Heilung",
+  "description": "Heilpraxis Bioenergetische und geistige Heilung ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Gierkezeile 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5165267,
+    "lng": 13.3024113
+  },
+  "phone": "03054038518",
+  "website": "https://xn--hheres-bewusstsein-d3b.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

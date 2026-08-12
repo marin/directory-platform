@@ -1,0 +1,33 @@
+{
+  "id": "daniela-draeger-heilpraktikerin",
+  "slug": "daniela-draeger-heilpraktikerin",
+  "name": "Daniela Draeger Heilpraktikerin",
+  "description": "Daniela Draeger Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Kranoldpl. 1A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12209",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4277442,
+    "lng": 13.3273681
+  },
+  "phone": "03076289899",
+  "email": "mail@daniela-draeger.de",
+  "website": "http://daniela-draeger.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/daniela-draeger?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

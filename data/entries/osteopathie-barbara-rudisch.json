@@ -1,0 +1,32 @@
+{
+  "id": "osteopathie-barbara-rudisch",
+  "slug": "osteopathie-barbara-rudisch",
+  "name": "Osteopathie Barbara Rudisch",
+  "description": "Osteopathie Barbara Rudisch ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4483665,
+    "lng": 13.627622599999999
+  },
+  "phone": "03023480797",
+  "email": "info@osteo-friedrichshagen.de",
+  "website": "https://osteo-friedrichshagen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

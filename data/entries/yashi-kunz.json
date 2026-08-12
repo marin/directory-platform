@@ -1,0 +1,32 @@
+{
+  "id": "yashi-kunz",
+  "slug": "yashi-kunz",
+  "name": "Yashi Kunz",
+  "description": "Yashi Kunz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Egerstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4795775,
+    "lng": 13.2833601
+  },
+  "phone": "0308266373",
+  "email": "ninastark.yk@gmail.com",
+  "website": "https://yashi-kunz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "heinz-krause-heilpraktiker",
+  "slug": "heinz-krause-heilpraktiker",
+  "name": "Heinz Krause Heilpraktiker",
+  "description": "Heinz Krause Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Ramsteinweg 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4123248,
+    "lng": 13.259513199999999
+  },
+  "phone": "0308154659",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

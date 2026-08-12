@@ -1,0 +1,32 @@
+{
+  "id": "tino-klimpel-heilpraktiker-in-berlin-mahlsdorf",
+  "slug": "tino-klimpel-heilpraktiker-in-berlin-mahlsdorf",
+  "name": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf",
+  "description": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Hultschiner Damm 201",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4927308,
+    "lng": 13.608509999999999
+  },
+  "phone": "017660033474",
+  "website": "http://www.tino-klimpel.de/",
+  "bookingUrl": "https://www.tino-klimpel.de/workshop-einfuehrung-in-die-emmet-technik.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

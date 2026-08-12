@@ -1,0 +1,32 @@
+{
+  "id": "frau-anne-dorthe-hess-chijydamc8hy",
+  "slug": "frau-anne-dorthe-hess-chijydamc8hy",
+  "name": "Frau Anne-Dörthe Heß",
+  "description": "Frau Anne-Dörthe Heß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Stölpchenweg 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4101468,
+    "lng": 13.138958599999999
+  },
+  "phone": "03080604723",
+  "email": "ch.yoga@gmx.de",
+  "website": "http://www.praxis-am-see.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ya-hui-wang-heilpraktikerin",
+  "slug": "ya-hui-wang-heilpraktikerin",
+  "name": "Ya-Hui Wang Heilpraktikerin",
+  "description": "Ya-Hui Wang Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Schützenstraße 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.453603799999996,
+    "lng": 13.3227184
+  },
+  "phone": "01776310765",
+  "email": "kontakt@yahuiwang.de",
+  "website": "https://www.yahuiwang.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kayserreich-berlin",
+  "slug": "kayserreich-berlin",
+  "name": "Kayserreich Berlin",
+  "description": "Kayserreich Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Waidmannsluster Damm 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.594321199999996,
+    "lng": 13.2822262
+  },
+  "phone": "01778223066",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

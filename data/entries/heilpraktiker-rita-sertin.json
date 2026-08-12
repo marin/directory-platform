@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktiker-rita-sertin",
+  "slug": "heilpraktiker-rita-sertin",
+  "name": "Heilpraktiker - Rita Sertin",
+  "description": "Heilpraktiker - Rita Sertin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Residenzstraße 26A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13409",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.569284499999995,
+    "lng": 13.361094699999999
+  },
+  "phone": "0304952750",
+  "website": "http://www.heilpraktiker-reinickendorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
+  "slug": "osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
+  "name": "Osteopathie Tiergarten - Heilpraktikerin Sonja Deborah Schulze",
+  "description": "Osteopathie Tiergarten - Heilpraktikerin Sonja Deborah Schulze ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Krefelder Str. 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.525167499999995,
+    "lng": 13.339233199999999
+  },
+  "phone": "03083209608",
+  "email": "info@osteopathie-tiergarten.de",
+  "website": "https://osteopathie-tiergarten.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

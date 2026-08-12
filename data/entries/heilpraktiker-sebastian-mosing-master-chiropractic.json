@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-sebastian-mosing-master-chiropractic",
+  "slug": "heilpraktiker-sebastian-mosing-master-chiropractic",
+  "name": "Heilpraktiker Sebastian Mösing Master Chiropractic",
+  "description": "Heilpraktiker Sebastian Mösing Master Chiropractic ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Mainzer Str. 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.513538,
+    "lng": 13.462296
+  },
+  "phone": "03029774414",
+  "email": "s.moesing@naturheilpraxis-fhain.de",
+  "website": "http://www.naturheilpraxis-fhain.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-spandau-friederike-laube",
+  "slug": "naturheilpraxis-spandau-friederike-laube",
+  "name": "Naturheilpraxis Spandau Friederike Laube",
+  "description": "Naturheilpraxis Spandau Friederike Laube ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Wegscheider Str. 17",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.556957499999996,
+    "lng": 13.2072024
+  },
+  "phone": "01723077316",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

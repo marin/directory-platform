@@ -1,0 +1,34 @@
+{
+  "id": "craniosacrale-therapie-berlin-marion-welz-heilpraktikerin",
+  "slug": "craniosacrale-therapie-berlin-marion-welz-heilpraktikerin",
+  "name": "Craniosacrale Therapie Berlin Marion Welz (Heilpraktikerin)",
+  "description": "Craniosacrale Therapie Berlin Marion Welz (Heilpraktikerin) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Goethestraße 54",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13158",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.587469299999995,
+    "lng": 13.3587922
+  },
+  "phone": "01723233352",
+  "email": "marion@craniosacral-biodynamik-berlin.de",
+  "website": "http://cranio-pankow-reinickendorf.de/",
+  "bookingUrl": "https://calendly.com/heilpraxis-marion-welz/90min",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

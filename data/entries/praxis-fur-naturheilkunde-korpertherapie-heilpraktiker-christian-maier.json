@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier",
+  "slug": "praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier",
+  "name": "Praxis für Naturheilkunde & Körpertherapie Heilpraktiker Christian Maier",
+  "description": "Praxis für Naturheilkunde & Körpertherapie Heilpraktiker Christian Maier ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Liselotte-Herrmann-Straße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10407",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.53232,
+    "lng": 13.4329
+  },
+  "phone": "03096512942",
+  "email": "info@naturheilkundepraxis-berlin.de",
+  "website": "http://www.naturheilkundepraxis-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

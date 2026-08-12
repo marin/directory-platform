@@ -1,0 +1,33 @@
+{
+  "id": "akupunkturpraxis-hui-zhang-sievers",
+  "slug": "akupunkturpraxis-hui-zhang-sievers",
+  "name": "Akupunkturpraxis Hui Zhang-Sievers",
+  "description": "Akupunkturpraxis Hui Zhang-Sievers ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Südwestkorso 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.475984,
+    "lng": 13.324722399999999
+  },
+  "phone": "03047393735",
+  "email": "info@huizhang.de",
+  "website": "https://www.akupunktur-praxis.berlin/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/hui-zhang-sievers",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

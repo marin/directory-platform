@@ -1,0 +1,31 @@
+{
+  "id": "britta-wolf-von-lindenfels",
+  "slug": "britta-wolf-von-lindenfels",
+  "name": "Britta & Wolf von Lindenfels",
+  "description": "Britta & Wolf von Lindenfels ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Kantstraße 108",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10627",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.506532899999996,
+    "lng": 13.3051801
+  },
+  "phone": "03083106806",
+  "website": "http://www.restlos-gluecklich.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

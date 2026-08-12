@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-lothar-fiebig",
+  "slug": "heilpraktiker-lothar-fiebig",
+  "name": "Heilpraktiker Lothar Fiebig",
+  "description": "Heilpraktiker Lothar Fiebig ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pommersche Str. 8A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.49331,
+    "lng": 13.315579999999999
+  },
+  "phone": "0308731332",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

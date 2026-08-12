@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-osteopathie-berlin-tempelhof-von-michaela-dull-und-anke-vogel",
+  "slug": "praxis-fur-osteopathie-berlin-tempelhof-von-michaela-dull-und-anke-vogel",
+  "name": "Praxis für Osteopathie Berlin-Tempelhof von Michaela Düll und Anke Vogel",
+  "description": "Praxis für Osteopathie Berlin-Tempelhof von Michaela Düll und Anke Vogel ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Parkstraße 10",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12103",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.462834,
+    "lng": 13.381421999999999
+  },
+  "phone": "03072014871",
+  "website": "http://www.osteopathie-parkstrasse.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

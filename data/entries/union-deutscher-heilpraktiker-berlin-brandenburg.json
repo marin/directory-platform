@@ -1,0 +1,32 @@
+{
+  "id": "union-deutscher-heilpraktiker-berlin-brandenburg",
+  "slug": "union-deutscher-heilpraktiker-berlin-brandenburg",
+  "name": "Union Deutscher Heilpraktiker Berlin-Brandenburg",
+  "description": "Union Deutscher Heilpraktiker Berlin-Brandenburg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Knesebeckstraße 27",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10623",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.504435099999995,
+    "lng": 13.3218663
+  },
+  "phone": "03312010958",
+  "email": "kontakt@udh-ost.de",
+  "website": "https://udh-ost.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

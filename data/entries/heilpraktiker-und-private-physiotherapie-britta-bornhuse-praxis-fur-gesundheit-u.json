@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-und-private-physiotherapie-britta-bornhuse-praxis-fur-gesundheit-u",
+  "slug": "heilpraktiker-und-private-physiotherapie-britta-bornhuse-praxis-fur-gesundheit-u",
+  "name": "Heilpraktiker und private Physiotherapie Britta Bornhuse / Praxis für Gesundheit und Ästhetik",
+  "description": "Heilpraktiker und private Physiotherapie Britta Bornhuse / Praxis für Gesundheit und Ästhetik ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Rackwitzer Str. 24",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13053",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.555888599999996,
+    "lng": 13.497830299999999
+  },
+  "phone": "0309866791",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

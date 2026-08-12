@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-traditionelle-chinesische-medizin-heike-schmidt",
+  "slug": "praxis-fur-traditionelle-chinesische-medizin-heike-schmidt",
+  "name": "Praxis für Traditionelle Chinesische Medizin - Heike Schmidt",
+  "description": "Praxis für Traditionelle Chinesische Medizin - Heike Schmidt ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Mädewalder Weg 49",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12621",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5099689,
+    "lng": 13.5872713
+  },
+  "phone": "03056583188",
+  "email": "schmidt@agtcm-therapeut.de",
+  "website": "http://www.naturheilpraxis-heike-schmidt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

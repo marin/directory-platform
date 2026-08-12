@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktiker-fur-frauenheilkunde-in-berlin",
+  "slug": "heilpraktiker-fur-frauenheilkunde-in-berlin",
+  "name": "Heilpraktiker für Frauenheilkunde in Berlin",
+  "description": "Heilpraktiker für Frauenheilkunde in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45072,
+    "lng": 13.627820199999999
+  },
+  "phone": "017682042273",
+  "website": "https://www.heilpraktiker-berlin.net/",
+  "bookingUrl": "https://www.heilpraktiker-berlin.net/termin-vereinbaren.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin",
+  "slug": "heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin",
+  "name": "Heilpraktiker Peter Koch – Ayurveda & Naturheilkunde Berlin",
+  "description": "Heilpraktiker Peter Koch – Ayurveda & Naturheilkunde Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Nostitzstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4891405,
+    "lng": 13.390197599999999
+  },
+  "phone": "01601801191",
+  "email": "info@heilkunde-ayurveda.de",
+  "website": "https://heilkunde-ayurveda.de/therapie/ayurveda-therapie-berlin/",
+  "bookingUrl": "https://heilkunde-ayurveda.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "elke-wiget",
+  "slug": "elke-wiget",
+  "name": "Elke Wiget",
+  "description": "Elke Wiget ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hohenzollerndamm 94",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14199",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4774167,
+    "lng": 13.2811712
+  },
+  "phone": "03064327202",
+  "email": "fokus@elkewiget.com",
+  "website": "http://www.elkewiget.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-ljubow-krimlowski",
+  "slug": "naturheilpraxis-ljubow-krimlowski",
+  "name": "Naturheilpraxis Ljubow Krimlowski",
+  "description": "Naturheilpraxis Ljubow Krimlowski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Pestalozzistraße 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5719563,
+    "lng": 13.403836799999999
+  },
+  "phone": "03040049002",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin",
+  "slug": "heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin",
+  "name": "Heilpraktiker, Dipl.-Ing. Lutz-Michael Weiß - Traditionelle Chinesische Medizin",
+  "description": "Heilpraktiker, Dipl.-Ing. Lutz-Michael Weiß - Traditionelle Chinesische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Josef-Nawrocki-Straße 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.446227,
+    "lng": 13.625428699999999
+  },
+  "phone": "01772169441",
+  "email": "kontakt@medqigong.de",
+  "website": "https://www.medqigong.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "caroline-hupe-heilpraktikerin-praxis-fur-ganzheitliche-korperarbeit-und-massage",
+  "slug": "caroline-hupe-heilpraktikerin-praxis-fur-ganzheitliche-korperarbeit-und-massage",
+  "name": "Caroline Hupe Heilpraktikerin - Praxis für Ganzheitliche Körperarbeit und Massage",
+  "description": "Caroline Hupe Heilpraktikerin - Praxis für Ganzheitliche Körperarbeit und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Heimstraße 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4866879,
+    "lng": 13.396866
+  },
+  "phone": "01638193034",
+  "email": "contact@carolinehupe.de",
+  "website": "http://carolinehupe.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

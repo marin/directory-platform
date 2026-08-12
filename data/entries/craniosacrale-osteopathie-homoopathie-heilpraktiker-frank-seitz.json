@@ -1,0 +1,35 @@
+{
+  "id": "craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz",
+  "slug": "craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz",
+  "name": "Craniosacrale Osteopathie & Homöopathie | Heilpraktiker Frank Seitz",
+  "description": "Craniosacrale Osteopathie & Homöopathie | Heilpraktiker Frank Seitz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Hasenheide 92",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10967",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.487416599999996,
+    "lng": 13.417104799999999
+  },
+  "phone": "03063226812",
+  "email": "info@seitzpraxis.de",
+  "website": "https://www.seitzpraxis.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/frank-seitz?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

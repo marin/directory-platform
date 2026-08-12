@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-annette-trost",
+  "slug": "naturheilpraxis-annette-trost",
+  "name": "Naturheilpraxis Annette Trost",
+  "description": "Naturheilpraxis Annette Trost ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bautzener Pl. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489625999999994,
+    "lng": 13.3696725
+  },
+  "phone": "03078708414",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

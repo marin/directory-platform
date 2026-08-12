@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-chi-therapie",
+  "slug": "naturheilpraxis-chi-therapie",
+  "name": "Naturheilpraxis Chi Therapie",
+  "description": "Naturheilpraxis Chi Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Praxis in der Remise",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4967903,
+    "lng": 13.431092699999999
+  },
+  "phone": "017661256923",
+  "email": "steffi.junker@gmx.de",
+  "website": "http://www.chi-therapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

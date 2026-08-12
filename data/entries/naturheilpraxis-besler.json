@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-besler",
+  "slug": "naturheilpraxis-besler",
+  "name": "Naturheilpraxis Besler",
+  "description": "Naturheilpraxis Besler ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Ärztehaus",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10999",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4997184,
+    "lng": 13.4225347
+  },
+  "phone": "017632256984",
+  "email": "heilpraxis.besler@gmail.com",
+  "website": "https://www.berlin-hacamat.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ufuk-besler?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

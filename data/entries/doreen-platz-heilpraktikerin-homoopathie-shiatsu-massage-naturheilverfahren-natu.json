@@ -1,0 +1,34 @@
+{
+  "id": "doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu",
+  "slug": "doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu",
+  "name": "Doreen Platz, Heilpraktikerin. Homöopathie - Shiatsu & Massage – Naturheilverfahren, Naturheilpraxis für Kinder & Erwachsene.",
+  "description": "Doreen Platz, Heilpraktikerin. Homöopathie - Shiatsu & Massage – Naturheilverfahren, Naturheilpraxis für Kinder & Erwachsene. ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486257099999996,
+    "lng": 13.4352968
+  },
+  "phone": "03024372085",
+  "email": "info@platz-fuer-gesundheit.de",
+  "website": "https://www.platz-fuer-gesundheit.de/",
+  "bookingUrl": "https://app.cituro.com/booking/heilpraktikerin-doreen-platz",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

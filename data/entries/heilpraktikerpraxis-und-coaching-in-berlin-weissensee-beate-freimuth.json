@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth",
+  "slug": "heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth",
+  "name": "Heilpraktikerpraxis und Coaching in Berlin Weißensee - Beate Freimuth",
+  "description": "Heilpraktikerpraxis und Coaching in Berlin Weißensee - Beate Freimuth ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Mahlerstraße 35",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.545877499999996,
+    "lng": 13.454567299999999
+  },
+  "phone": "017684711522",
+  "website": "http://www.praxis-freimuth.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie",
+  "slug": "praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie",
+  "name": "Praxis Hörl - Heilpraktiker für Psychotherapie & Hypnosetherapie",
+  "description": "Praxis Hörl - Heilpraktiker für Psychotherapie & Hypnosetherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Hagelberger Str. 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.491639,
+    "lng": 13.3841427
+  },
+  "phone": "01732916516",
+  "email": "info@psychoressourcen.de",
+  "website": "https://hypnosetherapie-hoerl.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ksymena-hoerl?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

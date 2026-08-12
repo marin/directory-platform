@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage",
+  "slug": "naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage",
+  "name": "Naturheilpraxis in English Nur Reved - Homeopathy, Cupping & Massage",
+  "description": "Naturheilpraxis in English Nur Reved - Homeopathy, Cupping & Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Lenaustraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12047",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.490018199999994,
+    "lng": 13.4267864
+  },
+  "website": "https://www.heilpraktiker-naturopath-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

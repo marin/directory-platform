@@ -1,0 +1,33 @@
+{
+  "id": "heilwerk-berlin-ellen-kruschwitz-heilpraktikerin-miasmatische-homoopathie",
+  "slug": "heilwerk-berlin-ellen-kruschwitz-heilpraktikerin-miasmatische-homoopathie",
+  "name": "Heilwerk Berlin - Ellen Kruschwitz -Heilpraktikerin - Miasmatische Homöopathie",
+  "description": "Heilwerk Berlin - Ellen Kruschwitz -Heilpraktikerin - Miasmatische Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Am Treptower Park 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.483945299999995,
+    "lng": 13.4685112
+  },
+  "phone": "01796607316",
+  "email": "ellenkruschwitz@heilwerkberlin.de",
+  "website": "https://heilwerkberlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

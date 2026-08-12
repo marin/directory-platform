@@ -1,0 +1,30 @@
+{
+  "id": "judith-andersen-heilpraktikerin",
+  "slug": "judith-andersen-heilpraktikerin",
+  "name": "Judith Andersen Heilpraktikerin",
+  "description": "Judith Andersen Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Oranienburger Str. 69",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10117",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5248156,
+    "lng": 13.392471599999999
+  },
+  "phone": "03028387156",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

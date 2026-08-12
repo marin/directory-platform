@@ -1,0 +1,32 @@
+{
+  "id": "impuls-raume-fur-wohlbefinden-und-heilkunst",
+  "slug": "impuls-raume-fur-wohlbefinden-und-heilkunst",
+  "name": "Impuls - Räume für Wohlbefinden und Heilkunst",
+  "description": "Impuls - Räume für Wohlbefinden und Heilkunst ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weichselstraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12045",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.486259499999996,
+    "lng": 13.4354041
+  },
+  "phone": "03041995406",
+  "website": "http://www.impuls-in-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

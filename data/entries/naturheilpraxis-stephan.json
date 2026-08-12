@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-stephan",
+  "slug": "naturheilpraxis-stephan",
+  "name": "Naturheilpraxis Stephan",
+  "description": "Naturheilpraxis Stephan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Cranachstraße 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12157",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.46827,
+    "lng": 13.34239
+  },
+  "phone": "03053168555",
+  "email": "info@naturheilpraxis-stephan.com",
+  "website": "http://naturheilpraxis-stephan.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

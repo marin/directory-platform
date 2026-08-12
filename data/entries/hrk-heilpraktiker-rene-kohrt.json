@@ -1,0 +1,32 @@
+{
+  "id": "hrk-heilpraktiker-rene-kohrt",
+  "slug": "hrk-heilpraktiker-rene-kohrt",
+  "name": "HRK Heilpraktiker René Kohrt",
+  "description": "HRK Heilpraktiker René Kohrt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Britzer Damm 65",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12347",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45661,
+    "lng": 13.437439999999999
+  },
+  "phone": "01743889141",
+  "website": "https://www.heilpraktiker-rene-kohrt.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/rene-kohrt-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

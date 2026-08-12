@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-fur-osteopathie-und-chiropraktik-im-fliegerviertel",
+  "slug": "heilpraxis-fur-osteopathie-und-chiropraktik-im-fliegerviertel",
+  "name": "Heilpraxis für Osteopathie und Chiropraktik im Fliegerviertel",
+  "description": "Heilpraxis für Osteopathie und Chiropraktik im Fliegerviertel ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Thuyring 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12101",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.474573199999995,
+    "lng": 13.3830314
+  },
+  "phone": "03079740539",
+  "email": "info@osteopathie-chiropraktik.com",
+  "website": "http://www.osteopathie-chiropraktik.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

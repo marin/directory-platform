@@ -1,0 +1,35 @@
+{
+  "id": "dirk-jacobs-heilpraktiker-fur-psychotherapie",
+  "slug": "dirk-jacobs-heilpraktiker-fur-psychotherapie",
+  "name": "Dirk Jacobs - Heilpraktiker für Psychotherapie",
+  "description": "Dirk Jacobs - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Sredzkistraße 64",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5372309,
+    "lng": 13.42225
+  },
+  "phone": "01783143168",
+  "email": "praxis@aufdichhoeren.de",
+  "website": "https://aufdichhoeren.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dirk-jacobs?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

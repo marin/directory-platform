@@ -1,0 +1,31 @@
+{
+  "id": "die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie",
+  "slug": "die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie",
+  "name": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie",
+  "description": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Heerstraße 24/26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.509223399999996,
+    "lng": 13.2635863
+  },
+  "phone": "03048820820",
+  "website": "http://www.diekoerpertherapeuten.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

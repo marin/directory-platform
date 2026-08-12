@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-heruth",
+  "slug": "naturheilpraxis-heruth",
+  "name": "Naturheilpraxis Heruth",
+  "description": "Naturheilpraxis Heruth ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Giesensdorfer Str. 12a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4271919,
+    "lng": 13.3133004
+  },
+  "phone": "03077393442",
+  "website": "http://www.naturheilpraxis-heruth.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

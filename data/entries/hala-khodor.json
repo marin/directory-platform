@@ -1,0 +1,30 @@
+{
+  "id": "hala-khodor",
+  "slug": "hala-khodor",
+  "name": "Hala Khodor",
+  "description": "Hala Khodor ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bayerische Str. 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.498489799999994,
+    "lng": 13.3150522
+  },
+  "phone": "017681119145",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

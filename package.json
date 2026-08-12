@@ -34,6 +34,8 @@
     "data:review:ui": "node scripts/data/review-ui.mjs",
     "entry:publish": "node scripts/publish-entry.mjs",
     "entries:publish": "node scripts/publish-entry.mjs --batch",
+    "data:berlin:import": "node scripts/heilpraktiker/import-berlin.mjs",
+    "data:berlin:content": "node scripts/heilpraktiker/generate-berlin-content.mjs",
     "data:refresh": "node scripts/data/refresh.mjs",
     "notify:index": "node scripts/notify-index.mjs"
   },

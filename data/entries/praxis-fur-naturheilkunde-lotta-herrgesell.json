@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-naturheilkunde-lotta-herrgesell",
+  "slug": "praxis-fur-naturheilkunde-lotta-herrgesell",
+  "name": "Praxis für Naturheilkunde Lotta Herrgesell",
+  "description": "Praxis für Naturheilkunde Lotta Herrgesell ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Auguste-Viktoria-Straße 62",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14199",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.479681,
+    "lng": 13.288472299999999
+  },
+  "phone": "01729417111",
+  "email": "info@lottaherrgesell.de",
+  "website": "http://www.lottaherrgesell.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-heike-schmidt",
+  "slug": "naturheilpraxis-heike-schmidt",
+  "name": "Naturheilpraxis Heike Schmidt",
+  "description": "Naturheilpraxis Heike Schmidt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Dörpfeldstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4373747,
+    "lng": 13.5459891
+  },
+  "phone": "03055632598",
+  "website": "https://www.hp-heike-schmidt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

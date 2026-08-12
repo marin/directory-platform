@@ -1,0 +1,30 @@
+{
+  "id": "praxis-fur-chinesische-und-japanische-akupunktur-monika-konig-ewald",
+  "slug": "praxis-fur-chinesische-und-japanische-akupunktur-monika-konig-ewald",
+  "name": "Praxis für Chinesische und Japanische Akupunktur Monika König-Ewald",
+  "description": "Praxis für Chinesische und Japanische Akupunktur Monika König-Ewald ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Joachim-Friedrich-Straße 32",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10711",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.50089,
+    "lng": 13.295739999999999
+  },
+  "phone": "01721397100",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

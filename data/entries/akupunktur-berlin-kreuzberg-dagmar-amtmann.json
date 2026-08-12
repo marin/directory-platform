@@ -1,0 +1,35 @@
+{
+  "id": "akupunktur-berlin-kreuzberg-dagmar-amtmann",
+  "slug": "akupunktur-berlin-kreuzberg-dagmar-amtmann",
+  "name": "Akupunktur Berlin Kreuzberg Dagmar Amtmann",
+  "description": "Akupunktur Berlin Kreuzberg Dagmar Amtmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Nostitzstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4914255,
+    "lng": 13.390378499999999
+  },
+  "phone": "0306930721",
+  "email": "d.amtmann@akupunkturpraxis-berlin.com",
+  "website": "http://www.akupunkturpraxis-berlin.com/",
+  "bookingUrl": "http://www.akupunkturpraxis-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

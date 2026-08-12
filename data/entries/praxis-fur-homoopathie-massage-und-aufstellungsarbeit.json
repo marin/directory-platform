@@ -1,0 +1,30 @@
+{
+  "id": "praxis-fur-homoopathie-massage-und-aufstellungsarbeit",
+  "slug": "praxis-fur-homoopathie-massage-und-aufstellungsarbeit",
+  "name": "Praxis für Homöopathie, Massage und Aufstellungsarbeit",
+  "description": "Praxis für Homöopathie, Massage und Aufstellungsarbeit ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Gaudystraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.54629,
+    "lng": 13.41195
+  },
+  "phone": "03022018363",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hauptstadttherapeut-traumatherapie-hypnose-emdr-markus-janssen-psychotherapeutis",
+  "slug": "hauptstadttherapeut-traumatherapie-hypnose-emdr-markus-janssen-psychotherapeutis",
+  "name": "#Hauptstadttherapeut | Traumatherapie ° Hypnose, EMDR ° MARKUS JANSSEN, Psychotherapeutischer Heilpraktiker",
+  "description": "#Hauptstadttherapeut | Traumatherapie ° Hypnose, EMDR ° MARKUS JANSSEN, Psychotherapeutischer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Alt-Tegel 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13507",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.589093999999996,
+    "lng": 13.281189099999999
+  },
+  "phone": "03012085959",
+  "email": "hallo@hauptstadttherapeut.de",
+  "website": "https://www.hauptstadttherapeut.de/",
+  "bookingUrl": "https://www.hauptstadttherapeut.de/termindirekt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

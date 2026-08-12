@@ -1,0 +1,32 @@
+{
+  "id": "m-stana-akupunktur-tcm",
+  "slug": "m-stana-akupunktur-tcm",
+  "name": "M.Stana - Akupunktur & TCM",
+  "description": "M.Stana - Akupunktur & TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Muthesiusstraße 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4593534,
+    "lng": 13.3202578
+  },
+  "phone": "017656010027",
+  "website": "http://www.mstana-tcm.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "naturheilpraxis-san",
+  "slug": "naturheilpraxis-san",
+  "name": "Naturheilpraxis San",
+  "description": "Naturheilpraxis San ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Naturheilpraxis San",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4454515,
+    "lng": 13.2977151
+  },
+  "phone": "01638472678",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

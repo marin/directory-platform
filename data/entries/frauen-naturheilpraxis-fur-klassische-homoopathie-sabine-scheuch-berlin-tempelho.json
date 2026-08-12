@@ -1,0 +1,35 @@
+{
+  "id": "frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho",
+  "slug": "frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho",
+  "name": "Frauen-Naturheilpraxis für Klassische Homöopathie - Sabine Scheuch - Berlin Tempelhof-Schöneberg",
+  "description": "Frauen-Naturheilpraxis für Klassische Homöopathie - Sabine Scheuch - Berlin Tempelhof-Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Eisenacher Str. 71",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4866454,
+    "lng": 13.350791899999999
+  },
+  "phone": "03061281030",
+  "email": "praxis@sabine-scheuch.de",
+  "website": "http://www.sabine-scheuch.de/",
+  "bookingUrl": "https://sabine-scheuch.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

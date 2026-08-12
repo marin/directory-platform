@@ -1,0 +1,30 @@
+{
+  "id": "christina-rogge-heilpraktikerin",
+  "slug": "christina-rogge-heilpraktikerin",
+  "name": "Christina Rogge Heilpraktikerin",
+  "description": "Christina Rogge Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Leibnizstraße 80",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5084811,
+    "lng": 13.313977699999999
+  },
+  "phone": "0303129188",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

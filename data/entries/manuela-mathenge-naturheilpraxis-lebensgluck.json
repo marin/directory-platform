@@ -1,0 +1,30 @@
+{
+  "id": "manuela-mathenge-naturheilpraxis-lebensgluck",
+  "slug": "manuela-mathenge-naturheilpraxis-lebensgluck",
+  "name": "Manuela Mathenge Naturheilpraxis LEBENSGLÜCK",
+  "description": "Manuela Mathenge Naturheilpraxis LEBENSGLÜCK ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wilseder Str. 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12169",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.452189999999995,
+    "lng": 13.34184
+  },
+  "phone": "01776845213",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

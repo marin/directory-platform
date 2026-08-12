@@ -1,0 +1,33 @@
+{
+  "id": "donatus-bock-heilpraktiker",
+  "slug": "donatus-bock-heilpraktiker",
+  "name": "Donatus Bock Heilpraktiker",
+  "description": "Donatus Bock Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Ostpreußendamm 151 A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12207",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.427014899999996,
+    "lng": 13.3179681
+  },
+  "phone": "03077395000",
+  "email": "donatus.bock@gmx.de",
+  "website": "http://bioresonanz-berlin-bock.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

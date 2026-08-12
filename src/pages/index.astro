@@ -23,7 +23,7 @@ const featured = dataset.entries
   <h1>{siteConfig.site.name}</h1>
   <p class="muted">{siteConfig.site.description}</p>
 
-  <h2>Browse by category</h2>
+  <h2>Nach Schwerpunkt</h2>
   <div class="grid grid-3">
     {categoriesWithCounts.map((cat) => (
       <a href={`/category/${cat.slug}`} class="card" style="text-decoration: none; color: inherit;">
@@ -35,7 +35,7 @@ const featured = dataset.entries
 
   {siteConfig.features.areas && (
     <>
-      <h2>Browse by area</h2>
+      <h2>Nach Bezirk</h2>
       <div class="grid grid-2">
         {dataset.areas.map((area) => (
           <a href={`/area/${area.slug}`} class="card" style="text-decoration: none; color: inherit;">
@@ -46,7 +46,7 @@ const featured = dataset.entries
     </>
   )}
 
-  <h2>Featured {siteConfig.directory.entryPlural}</h2>
+  <h2>Ausgewählte {siteConfig.directory.entryPlural}</h2>
   <div class="grid grid-2">
     {featured.map((card) => <EntryCard card={card} />)}
   </div>

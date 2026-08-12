@@ -1,0 +1,31 @@
+{
+  "id": "angelika-breite-heilpraktikerin",
+  "slug": "angelika-breite-heilpraktikerin",
+  "name": "Angelika Breite Heilpraktikerin",
+  "description": "Angelika Breite Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Olivaer Pl. 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4989725,
+    "lng": 13.313839699999999
+  },
+  "phone": "03088922230",
+  "website": "https://praxis-breite.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

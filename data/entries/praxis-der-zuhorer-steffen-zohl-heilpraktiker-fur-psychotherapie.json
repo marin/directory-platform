@@ -1,0 +1,35 @@
+{
+  "id": "praxis-der-zuhorer-steffen-zohl-heilpraktiker-fur-psychotherapie",
+  "slug": "praxis-der-zuhorer-steffen-zohl-heilpraktiker-fur-psychotherapie",
+  "name": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie",
+  "description": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Heilpraktiker für Psychotherapie",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.511146,
+    "lng": 13.2574267
+  },
+  "phone": "03034391083",
+  "email": "info@derzuhoerer-berlin.de",
+  "website": "https://derzuhoerer-berlin.de/",
+  "bookingUrl": "https://derzuhoerer-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

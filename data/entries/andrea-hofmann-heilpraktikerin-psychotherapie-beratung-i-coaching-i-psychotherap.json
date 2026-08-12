@@ -1,0 +1,34 @@
+{
+  "id": "andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap",
+  "slug": "andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap",
+  "name": "Andrea Hofmann, Heilpraktikerin Psychotherapie – Beratung I Coaching I Psychotherapie",
+  "description": "Andrea Hofmann, Heilpraktikerin Psychotherapie – Beratung I Coaching I Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Heidelberger Str. 37a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12059",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.485509,
+    "lng": 13.453299
+  },
+  "phone": "03028459857",
+  "email": "info@andrea-hofmann.de",
+  "website": "http://andrea-hofmann.de/",
+  "bookingUrl": "https://andrea-hofmann.de/kosten/shop-menu/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

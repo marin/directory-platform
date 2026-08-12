@@ -1,0 +1,35 @@
+{
+  "id": "annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun",
+  "slug": "annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun",
+  "name": "Annette Moll: Praxis für Chinesische Medizin - Akupunktur, Kräuterheilkunde, Ernährung",
+  "description": "Annette Moll: Praxis für Chinesische Medizin - Akupunktur, Kräuterheilkunde, Ernährung ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Kopenhagener Str. 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.548728399999995,
+    "lng": 13.4020648
+  },
+  "phone": "01637616304",
+  "email": "kontakt@annettemoll-praxis.de",
+  "website": "http://annettemoll-praxis.de/",
+  "bookingUrl": "https://annettemoll-praxis.de/akupunktur-termin-online-buchen/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

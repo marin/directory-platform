@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-louisa-liebgott",
+  "slug": "heilpraktikerin-louisa-liebgott",
+  "name": "Heilpraktikerin - Louisa Liebgott",
+  "description": "Heilpraktikerin - Louisa Liebgott ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Immanuelkirchstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5319874,
+    "lng": 13.4251791
+  },
+  "phone": "01785500325",
+  "website": "https://www.osmosstudio.com/louisa-liebgott-german-breathwork",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/louisa-liebgott?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

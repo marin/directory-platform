@@ -1,0 +1,33 @@
+{
+  "id": "osteopathie-lisa-goldschmidt-heilpraktikerin",
+  "slug": "osteopathie-lisa-goldschmidt-heilpraktikerin",
+  "name": "Osteopathie Lisa Goldschmidt - Heilpraktikerin",
+  "description": "Osteopathie Lisa Goldschmidt - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Furkastraße 53",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12107",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4284458,
+    "lng": 13.3994123
+  },
+  "phone": "015901974975",
+  "website": "https://www.stressfrei-er-leben.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/lisa-goldschmidt?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

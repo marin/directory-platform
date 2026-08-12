@@ -1,0 +1,33 @@
+{
+  "id": "naturheilkunde-und-massagen-berlin",
+  "slug": "naturheilkunde-und-massagen-berlin",
+  "name": "Naturheilkunde und Massagen Berlin",
+  "description": "Naturheilkunde und Massagen Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Nach d. Höhe 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13469",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6059961,
+    "lng": 13.317101599999999
+  },
+  "phone": "017665013312",
+  "email": "ulrike.saxl@protonmail.com",
+  "website": "http://naturheilkunde-und-massagen-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "dr-simone-lindenau",
+  "slug": "dr-simone-lindenau",
+  "name": "Dr. Simone Lindenau",
+  "description": "Dr. Simone Lindenau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Drakestraße 16A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12205",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4372821,
+    "lng": 13.3036
+  },
+  "phone": "0308330475",
+  "email": "info@praxis-lindenau.com",
+  "website": "http://www.homoeopathen.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

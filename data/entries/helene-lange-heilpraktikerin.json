@@ -1,0 +1,32 @@
+{
+  "id": "helene-lange-heilpraktikerin",
+  "slug": "helene-lange-heilpraktikerin",
+  "name": "Helene Lange | Heilpraktikerin",
+  "description": "Helene Lange | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Weidenweg 62",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5188566,
+    "lng": 13.455593799999999
+  },
+  "phone": "015756379500",
+  "email": "praxis@helene-lange.com",
+  "website": "https://www.helene-lange.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

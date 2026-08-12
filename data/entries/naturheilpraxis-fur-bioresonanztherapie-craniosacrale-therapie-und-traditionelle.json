@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-fur-bioresonanztherapie-craniosacrale-therapie-und-traditionelle",
+  "slug": "naturheilpraxis-fur-bioresonanztherapie-craniosacrale-therapie-und-traditionelle",
+  "name": "Naturheilpraxis für Bioresonanztherapie, Craniosacrale Therapie und Traditionelle Chinesische Medizin Melanie Timm",
+  "description": "Naturheilpraxis für Bioresonanztherapie, Craniosacrale Therapie und Traditionelle Chinesische Medizin Melanie Timm ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Pfalzburger Str. 83",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10719",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4988567,
+    "lng": 13.3231234
+  },
+  "phone": "01776840223",
+  "email": "info@naturheilpraxismelanietimm.com",
+  "website": "http://www.naturheilpraxismelanietimm.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

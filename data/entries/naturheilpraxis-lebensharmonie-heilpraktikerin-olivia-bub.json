@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub",
+  "slug": "naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub",
+  "name": "Naturheilpraxis Lebensharmonie Heilpraktikerin Olivia Bub",
+  "description": "Naturheilpraxis Lebensharmonie Heilpraktikerin Olivia Bub ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Tautenburger Str. 23",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12249",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4201042,
+    "lng": 13.3509707
+  },
+  "phone": "03068000229",
+  "email": "info@lebensharmonie.net",
+  "website": "http://www.lebensharmonie.net/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

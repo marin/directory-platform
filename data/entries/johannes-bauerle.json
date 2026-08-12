@@ -1,0 +1,32 @@
+{
+  "id": "johannes-bauerle",
+  "slug": "johannes-bauerle",
+  "name": "Johannes Bäuerle",
+  "description": "Johannes Bäuerle ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Fürstenwalder Allee 254",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4328949,
+    "lng": 13.7094881
+  },
+  "email": "info@osteopathie-wilhelmshagen.de",
+  "website": "http://osteopathie-wilhelmshagen.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/johannes-baeuerle?utm_campaign=website-button&amp;utm_source=-website-button&amp;utm_medium=referral&amp;utm_content=option-8&amp;utm_term=",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

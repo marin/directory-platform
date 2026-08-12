@@ -1,0 +1,31 @@
+{
+  "id": "elida-mansuroglu-heilpraktiker",
+  "slug": "elida-mansuroglu-heilpraktiker",
+  "name": "Elida Mansuroglu, Heilpraktiker",
+  "description": "Elida Mansuroglu, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Köpenicker Ch 3-4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10317",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4904477,
+    "lng": 13.492761699999999
+  },
+  "phone": "017663099211",
+  "website": "https://www.heilpraxis-mansuroglu.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

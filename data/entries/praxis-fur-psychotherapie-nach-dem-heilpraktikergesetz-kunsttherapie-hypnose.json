@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose",
+  "slug": "praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose",
+  "name": "Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\"",
+  "description": "Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\" ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Minzeweg 50",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12357",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437357999999996,
+    "lng": 13.4846066
+  },
+  "phone": "01736273301",
+  "email": "m.grenzel-barth@kunsttherapie-und-hypnose.de",
+  "website": "http://www.kunsttherapie-und-hypnose.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

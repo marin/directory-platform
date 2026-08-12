@@ -1,0 +1,32 @@
+{
+  "id": "praxis-fur-ganzheitliche-medizin-victoria-reinich-heilpraktikerin",
+  "slug": "praxis-fur-ganzheitliche-medizin-victoria-reinich-heilpraktikerin",
+  "name": "Praxis für Ganzheitliche Medizin - Victoria Reinich, Heilpraktikerin",
+  "description": "Praxis für Ganzheitliche Medizin - Victoria Reinich, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bennigsenstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.476569999999995,
+    "lng": 13.340769799999999
+  },
+  "phone": "017693103849",
+  "email": "info@victoriareinich.de",
+  "website": "https://www.victoriareinich.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ines-gieseler-osteopathie-chijsrplfm9o",
+  "slug": "ines-gieseler-osteopathie-chijsrplfm9o",
+  "name": "Ines Gieseler Osteopathie",
+  "description": "Ines Gieseler Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Ines Gieseler Osteopathie",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12527",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3882298,
+    "lng": 13.639712999999999
+  },
+  "phone": "03051656822",
+  "email": "inesgieseler@gmx.de",
+  "website": "http://www.osteopathie-berlin-gieseler.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

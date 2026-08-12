@@ -1,0 +1,32 @@
+{
+  "id": "praxis-nolte-alternative-augenheilkunde",
+  "slug": "praxis-nolte-alternative-augenheilkunde",
+  "name": "Praxis Nolte - Alternative Augenheilkunde",
+  "description": "Praxis Nolte - Alternative Augenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Fröaufstraße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4669287,
+    "lng": 13.327385
+  },
+  "phone": "03026076710",
+  "email": "info@praxisnolte.de",
+  "website": "http://www.praxisnolte.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

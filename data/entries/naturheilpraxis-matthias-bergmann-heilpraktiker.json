@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-matthias-bergmann-heilpraktiker",
+  "slug": "naturheilpraxis-matthias-bergmann-heilpraktiker",
+  "name": "Naturheilpraxis Matthias Bergmann, Heilpraktiker",
+  "description": "Naturheilpraxis Matthias Bergmann, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wiesbadener Str. 5",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.47188,
+    "lng": 13.325724899999999
+  },
+  "phone": "0308326220",
+  "website": "http://www.homoeopathie-in-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

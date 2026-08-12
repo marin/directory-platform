@@ -1,0 +1,32 @@
+{
+  "id": "berlin-prenzlauer-berg-praxis-ariane-boesenberg",
+  "slug": "berlin-prenzlauer-berg-praxis-ariane-boesenberg",
+  "name": "Berlin-Prenzlauer Berg Praxis Ariane Boesenberg",
+  "description": "Berlin-Prenzlauer Berg Praxis Ariane Boesenberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Choriner Str. 20",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.53465,
+    "lng": 13.408809999999999
+  },
+  "phone": "01702189733",
+  "website": "https://arianeboesenberg.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ariane-boesenberg?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

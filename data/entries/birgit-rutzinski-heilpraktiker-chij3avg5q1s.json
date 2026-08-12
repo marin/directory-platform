@@ -1,0 +1,31 @@
+{
+  "id": "birgit-rutzinski-heilpraktiker-chij3avg5q1s",
+  "slug": "birgit-rutzinski-heilpraktiker-chij3avg5q1s",
+  "name": "Birgit Rutzinski, Heilpraktiker",
+  "description": "Birgit Rutzinski, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schillerstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5903535,
+    "lng": 13.404383999999999
+  },
+  "email": "kundenservice@jameda.de",
+  "website": "https://www.jameda.de/birgit-rutzinski/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=366223&utm_content=website",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

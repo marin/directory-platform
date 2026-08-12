@@ -1,0 +1,33 @@
+{
+  "id": "hans-hermann-baertz-heilpraktiker-chij3wmyytoq",
+  "slug": "hans-hermann-baertz-heilpraktiker-chij3wmyytoq",
+  "name": "Hans-Hermann Baertz, Heilpraktiker",
+  "description": "Hans-Hermann Baertz, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Hohenfriedbergstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.485997499999996,
+    "lng": 13.3649556
+  },
+  "phone": "03035505611",
+  "email": "office@eft-berlin.de",
+  "website": "https://www.eft-berlin.de/einzelsitzungen/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

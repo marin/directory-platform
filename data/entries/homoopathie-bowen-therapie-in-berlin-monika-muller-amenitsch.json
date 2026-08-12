@@ -1,0 +1,33 @@
+{
+  "id": "homoopathie-bowen-therapie-in-berlin-monika-muller-amenitsch",
+  "slug": "homoopathie-bowen-therapie-in-berlin-monika-muller-amenitsch",
+  "name": "Homöopathie & Bowen-Therapie in Berlin, Monika Müller-Amenitsch",
+  "description": "Homöopathie & Bowen-Therapie in Berlin, Monika Müller-Amenitsch ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Kosleckweg 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.44678,
+    "lng": 13.39569
+  },
+  "phone": "03070131057",
+  "email": "heilpraktikerin.berlin@gmail.com",
+  "website": "http://www.homoeopathie-bowen-berlin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

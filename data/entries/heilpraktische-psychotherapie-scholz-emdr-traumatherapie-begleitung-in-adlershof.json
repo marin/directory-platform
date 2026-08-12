@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof",
+  "slug": "heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof",
+  "name": "Heilpraktische Psychotherapie Scholz | EMDR Traumatherapie & Begleitung in Adlershof (Treptow Köpenick)",
+  "description": "Heilpraktische Psychotherapie Scholz | EMDR Traumatherapie & Begleitung in Adlershof (Treptow Köpenick) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Genossenschaftsstraße 70",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4377423,
+    "lng": 13.5468377
+  },
+  "phone": "015110423530",
+  "website": "https://kreativgeloest.com/traumatherapie-in-berlin/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

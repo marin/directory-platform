@@ -1,0 +1,31 @@
+{
+  "id": "larissa-schmidt-c-o-praxis-atemtherapie",
+  "slug": "larissa-schmidt-c-o-praxis-atemtherapie",
+  "name": "Larissa Schmidt c/o Praxis Atemtherapie",
+  "description": "Larissa Schmidt c/o Praxis Atemtherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Heerstraße 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14052",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5089182,
+    "lng": 13.2690363
+  },
+  "email": "info@praxis-larissaschmidt.de",
+  "website": "https://www.praxis-larissaschmidt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bernhard-bloesy-heilpraktiker",
+  "slug": "bernhard-bloesy-heilpraktiker",
+  "name": "Bernhard Bloesy Heilpraktiker",
+  "description": "Bernhard Bloesy Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Wartburgstr. 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10823",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4867121,
+    "lng": 13.345985299999999
+  },
+  "phone": "0307855474",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

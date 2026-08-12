@@ -1,0 +1,34 @@
+{
+  "id": "praxis-fur-osteopathie-korperpsychotherapie-und-coaching",
+  "slug": "praxis-fur-osteopathie-korperpsychotherapie-und-coaching",
+  "name": "Praxis für Osteopathie, Körperpsychotherapie und Coaching",
+  "description": "Praxis für Osteopathie, Körperpsychotherapie und Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "psychotherapie"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Heinersdorfer Str. 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12209",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4222306,
+    "lng": 13.3267974
+  },
+  "phone": "01726144020",
+  "email": "susanne@susannehake.de",
+  "website": "https://susannehake.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/susanne-hake?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "willkommen-bei-heilpraktiker-niko",
+  "slug": "willkommen-bei-heilpraktiker-niko",
+  "name": "willkommen bei heilpraktiker niko",
+  "description": "willkommen bei heilpraktiker niko ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Alt-Mariendorf 27 B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12107",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4396584,
+    "lng": 13.3890487
+  },
+  "phone": "03051646730",
+  "email": "info@heilpraktiker-niko.de",
+  "website": "http://www.heilpraktiker-niko.de/kontakt.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

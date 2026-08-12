@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-homoopathie-und-ayurveda-berlin",
+  "slug": "praxis-fur-homoopathie-und-ayurveda-berlin",
+  "name": "Praxis für Homöopathie und Ayurveda Berlin",
+  "description": "Praxis für Homöopathie und Ayurveda Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Droysenstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5012829,
+    "lng": 13.299885199999999
+  },
+  "phone": "017684973438",
+  "website": "https://www.homoeopathie-ayurveda-berlin.de/",
+  "bookingUrl": "https://www.homoeopathie-ayurveda-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

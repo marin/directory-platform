@@ -1,0 +1,32 @@
+{
+  "id": "sabine-gowik-heilpraktikerin",
+  "slug": "sabine-gowik-heilpraktikerin",
+  "name": "Sabine Gowik Heilpraktikerin",
+  "description": "Sabine Gowik Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Gustav-Müller-Straße 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.482257399999995,
+    "lng": 13.3627293
+  },
+  "phone": "03021754815",
+  "email": "kontakt@naturheilpraxis-in-schoeneberg.de",
+  "website": "http://www.naturheilpraxis-in-schoeneberg.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "akupunktur-in-berlin-treptow-rudi-fink",
+  "slug": "akupunktur-in-berlin-treptow-rudi-fink",
+  "name": "Akupunktur in Berlin Treptow - Rudi Fink",
+  "description": "Akupunktur in Berlin Treptow - Rudi Fink ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Puschkinallee 4A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4947368,
+    "lng": 13.4553362
+  },
+  "phone": "01774914166",
+  "email": "rudi@akupunkturpunkt.com",
+  "website": "https://akupunkturpunkt.com/",
+  "bookingUrl": "https://akupunkturtermin.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

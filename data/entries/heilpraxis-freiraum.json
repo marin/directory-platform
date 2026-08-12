@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-freiraum",
+  "slug": "heilpraxis-freiraum",
+  "name": "Heilpraxis Freiraum",
+  "description": "Heilpraxis Freiraum ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Rheingaustraße 22",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4698261,
+    "lng": 13.3211894
+  },
+  "phone": "01771753578",
+  "website": "https://www.heilpraxis-freiraum.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

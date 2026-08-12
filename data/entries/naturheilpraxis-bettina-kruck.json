@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-bettina-kruck",
+  "slug": "naturheilpraxis-bettina-kruck",
+  "name": "Naturheilpraxis Bettina Kruck",
+  "description": "Naturheilpraxis Bettina Kruck ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Birkbuschstraße 31",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.446977499999996,
+    "lng": 13.326542
+  },
+  "phone": "03034715710",
+  "website": "http://www.naturheilpraxis-kruck.de/kontakt.html",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

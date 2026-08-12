@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktikerpraxis",
+  "slug": "heilpraktikerpraxis",
+  "name": "Heilpraktikerpraxis",
+  "description": "Heilpraktikerpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Ludolfingerweg 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13465",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.6330543,
+    "lng": 13.2782538
+  },
+  "phone": "03040100909",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

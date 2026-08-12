@@ -1,0 +1,33 @@
+{
+  "id": "liebscher-bracht-berlin-peter-giese-heilpraktiker-schmerztherapie-pravention",
+  "slug": "liebscher-bracht-berlin-peter-giese-heilpraktiker-schmerztherapie-pravention",
+  "name": "Liebscher & Bracht Berlin | Peter Giese | Heilpraktiker | Schmerztherapie & Prävention",
+  "description": "Liebscher & Bracht Berlin | Peter Giese | Heilpraktiker | Schmerztherapie & Prävention ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Wiclefstraße 47",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10551",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5304864,
+    "lng": 13.3330564
+  },
+  "phone": "015123480399",
+  "website": "https://www.liebscher-bracht.berlin/",
+  "bookingUrl": "https://calendar.app.google/UPDwKScYzLQ4r6C8A",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting",
+  "slug": "violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting",
+  "name": "Violetta Braimovic Casa Naturalica - Ästhetische Medizin und Kosmetik, Fadenlifting",
+  "description": "Violetta Braimovic Casa Naturalica - Ästhetische Medizin und Kosmetik, Fadenlifting ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Oldenburger Str. 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10551",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.532584299999996,
+    "lng": 13.337025599999999
+  },
+  "phone": "03054865227",
+  "email": "info@aesthetikpraxisberlin.de",
+  "website": "https://aesthetikpraxisberlin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+  "bookingUrl": "https://aesthetikpraxisberlin.de/termin-buchen/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "frau-gisela-bast",
+  "slug": "frau-gisela-bast",
+  "name": "Frau Gisela Bast",
+  "description": "Frau Gisela Bast ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Ebersstraße 76",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4804002,
+    "lng": 13.3529146
+  },
+  "phone": "0307875587",
+  "email": "gisela-bast@gmx.de",
+  "website": "https://gisela-bast.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

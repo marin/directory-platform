@@ -1,0 +1,32 @@
+{
+  "id": "barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg",
+  "slug": "barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg",
+  "name": "Barbara Naur - Heilpraktikerin Coaching - Malama_Praxis für regenerative Lebensenergie",
+  "description": "Barbara Naur - Heilpraktikerin Coaching - Malama_Praxis für regenerative Lebensenergie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Holsteinische Str. 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10717",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.487614,
+    "lng": 13.3247389
+  },
+  "phone": "017623288286",
+  "email": "btnaur@gmail.com",
+  "website": "https://www.malama-praxis.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

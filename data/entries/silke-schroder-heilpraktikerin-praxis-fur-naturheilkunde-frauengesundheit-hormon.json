@@ -1,0 +1,32 @@
+{
+  "id": "silke-schroder-heilpraktikerin-praxis-fur-naturheilkunde-frauengesundheit-hormon",
+  "slug": "silke-schroder-heilpraktikerin-praxis-fur-naturheilkunde-frauengesundheit-hormon",
+  "name": "Silke Schröder Heilpraktikerin Praxis für Naturheilkunde, Frauengesundheit & Hormonbalance",
+  "description": "Silke Schröder Heilpraktikerin Praxis für Naturheilkunde, Frauengesundheit & Hormonbalance ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Wichertstraße 46",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10439",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5464966,
+    "lng": 13.4264967
+  },
+  "phone": "015774942927",
+  "website": "https://www.heilpraxis-silke-schroeder.de/",
+  "bookingUrl": "https://www.heilpraxis-silke-schroeder.de/Kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

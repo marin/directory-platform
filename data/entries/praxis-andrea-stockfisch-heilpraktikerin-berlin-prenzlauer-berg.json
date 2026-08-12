@@ -1,0 +1,35 @@
+{
+  "id": "praxis-andrea-stockfisch-heilpraktikerin-berlin-prenzlauer-berg",
+  "slug": "praxis-andrea-stockfisch-heilpraktikerin-berlin-prenzlauer-berg",
+  "name": "Praxis Andrea Stockfisch | Heilpraktikerin | Berlin Prenzlauer Berg",
+  "description": "Praxis Andrea Stockfisch | Heilpraktikerin | Berlin Prenzlauer Berg ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 33",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.543418599999995,
+    "lng": 13.419200499999999
+  },
+  "phone": "01713194527",
+  "website": "https://www.heilpraktiker-akupunktur.com/",
+  "bookingUrl": "https://www.heilpraktiker-akupunktur.com/contact/?utm_source=GB_Kontakt&utm_id=GB_Kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

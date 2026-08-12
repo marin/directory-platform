@@ -1,0 +1,32 @@
+{
+  "id": "longvity-center-naturheilpraxis",
+  "slug": "longvity-center-naturheilpraxis",
+  "name": "Longvity Center Naturheilpraxis",
+  "description": "Longvity Center Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Geiserichstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12105",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.450342199999994,
+    "lng": 13.369259399999999
+  },
+  "phone": "0307537100",
+  "website": "http://longvitycenter.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

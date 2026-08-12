@@ -1,0 +1,33 @@
+{
+  "id": "heike-sansoni-psychotherapeutische-heilpraktikerin",
+  "slug": "heike-sansoni-psychotherapeutische-heilpraktikerin",
+  "name": "Heike Sansoni, Psychotherapeutische Heilpraktikerin",
+  "description": "Heike Sansoni, Psychotherapeutische Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bamberger Str. 48a",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10779",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4939361,
+    "lng": 13.3374908
+  },
+  "phone": "01772404257",
+  "email": "heike.sansoni@synergetik-berlin.de",
+  "website": "http://www.synergetik-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie",
+  "slug": "naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie",
+  "name": "Naturheilpraxis Sandra Roszewski. Heilpraktikerin & B.Sc. Psychologie. Psychotherapie, Schilddrüsensprechstunde, Coaching",
+  "description": "Naturheilpraxis Sandra Roszewski. Heilpraktikerin & B.Sc. Psychologie. Psychotherapie, Schilddrüsensprechstunde, Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Nansenstraße 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12047",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4884153,
+    "lng": 13.429853099999999
+  },
+  "phone": "03053797045",
+  "website": "https://naturheilpraxis-sr.de/",
+  "bookingUrl": "http://naturheilpraxis-sr.de/kontakt-und-termine",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

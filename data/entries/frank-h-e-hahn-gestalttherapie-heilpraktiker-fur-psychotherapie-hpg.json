@@ -1,0 +1,32 @@
+{
+  "id": "frank-h-e-hahn-gestalttherapie-heilpraktiker-fur-psychotherapie-hpg",
+  "slug": "frank-h-e-hahn-gestalttherapie-heilpraktiker-fur-psychotherapie-hpg",
+  "name": "Frank H.E.Hahn Gestalttherapie / Heilpraktiker für Psychotherapie (HPG)",
+  "description": "Frank H.E.Hahn Gestalttherapie / Heilpraktiker für Psychotherapie (HPG) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bautzener Pl. 2",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.489612099999995,
+    "lng": 13.369615
+  },
+  "phone": "015222860227",
+  "website": "http://www.gestalttherapie-frank-hahn.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

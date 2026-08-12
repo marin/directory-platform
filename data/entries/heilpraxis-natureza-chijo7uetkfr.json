@@ -1,0 +1,34 @@
+{
+  "id": "heilpraxis-natureza-chijo7uetkfr",
+  "slug": "heilpraxis-natureza-chijo7uetkfr",
+  "name": "Heilpraxis Natureza",
+  "description": "Heilpraxis Natureza ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Erdgeschoß - Laden Links",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10589",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5253874,
+    "lng": 13.301979699999999
+  },
+  "phone": "03089618411",
+  "email": "info@heilpraxis-natureza.de",
+  "website": "http://www.heilpraxis-natureza.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nayla-hettich-fonseca/booking/new-patient?specialityId=1236&bookingFunnelSource=profile",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

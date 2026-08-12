@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-klassische-homoopathie-yadigar-kocaturk",
+  "slug": "heilpraktikerin-klassische-homoopathie-yadigar-kocaturk",
+  "name": "Heilpraktikerin & klassische Homöopathie - Yadigar Kocatürk",
+  "description": "Heilpraktikerin & klassische Homöopathie - Yadigar Kocatürk ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Pichelsdorfer Str. 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13595",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.514638299999994,
+    "lng": 13.196696099999999
+  },
+  "phone": "017684290944",
+  "email": "info@praxis-kocatuerk.com",
+  "website": "https://www.praxis-kocatuerk.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "manuela-basler",
+  "slug": "manuela-basler",
+  "name": "Manuela Bäsler",
+  "description": "Manuela Bäsler ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Ortolfstraße 183",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12524",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4035127,
+    "lng": 13.530461899999999
+  },
+  "phone": "03067826871",
+  "website": "http://www.naturheilpraxis-baesler.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

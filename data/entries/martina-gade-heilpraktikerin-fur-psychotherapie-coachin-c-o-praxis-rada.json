@@ -1,0 +1,33 @@
+{
+  "id": "martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada",
+  "slug": "martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada",
+  "name": "Martina Gäde - Heilpraktikerin für Psychotherapie & Coachin - c/o Praxis Rada",
+  "description": "Martina Gäde - Heilpraktikerin für Psychotherapie & Coachin - c/o Praxis Rada ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "c/o Praxis RADA",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5132158,
+    "lng": 13.4597622
+  },
+  "phone": "015141335683",
+  "email": "kontakt@martinagaede.de",
+  "website": "https://www.martinagaede.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

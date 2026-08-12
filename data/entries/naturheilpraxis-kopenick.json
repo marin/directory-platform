@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-kopenick",
+  "slug": "naturheilpraxis-kopenick",
+  "name": "Naturheilpraxis Köpenick",
+  "description": "Naturheilpraxis Köpenick ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bölschestraße 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4501365,
+    "lng": 13.624900199999999
+  },
+  "phone": "017696311657",
+  "website": "https://www.naturheilpraxis-koepenick.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-naturheilkunde-dipl-ing-andreas-kunz",
+  "slug": "praxis-fur-naturheilkunde-dipl-ing-andreas-kunz",
+  "name": "Praxis für Naturheilkunde Dipl.-Ing. Andreas Kunz",
+  "description": "Praxis für Naturheilkunde Dipl.-Ing. Andreas Kunz ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Am Treptower Park 42",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12435",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.485461699999995,
+    "lng": 13.4663671
+  },
+  "phone": "03068005246",
+  "email": "praxis@heilpraktikerkunz.de",
+  "website": "http://www.heilpraktikerkunz.de/119",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

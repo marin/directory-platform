@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-integrative-psychotherapie-emdr-paartherapie-hypnose-coaching-qigong",
+  "slug": "praxis-fur-integrative-psychotherapie-emdr-paartherapie-hypnose-coaching-qigong",
+  "name": "Praxis für Integrative Psychotherapie • EMDR • Paartherapie • Hypnose • Coaching • Qigong",
+  "description": "Praxis für Integrative Psychotherapie • EMDR • Paartherapie • Hypnose • Coaching • Qigong ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.45072,
+    "lng": 13.627820199999999
+  },
+  "phone": "01708620590",
+  "email": "mail@pogrzeba-psychotherapie.de",
+  "website": "http://www.pogrzeba-psychotherapie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

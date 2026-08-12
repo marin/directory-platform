@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-lorber",
+  "slug": "naturheilpraxis-lorber",
+  "name": "Naturheilpraxis Lorber",
+  "description": "Naturheilpraxis Lorber ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Mainzer Str. 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.513579899999996,
+    "lng": 13.462268199999999
+  },
+  "phone": "03029364733",
+  "email": "praxislorber@web.de",
+  "website": "http://naturheilpraxis-lorber.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

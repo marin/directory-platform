@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-daniela-doll",
+  "slug": "naturheilpraxis-daniela-doll",
+  "name": "Naturheilpraxis Daniela Doll",
+  "description": "Naturheilpraxis Daniela Doll ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Seeadlerweg 87",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12355",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.400473,
+    "lng": 13.491870599999999
+  },
+  "phone": "03023131896",
+  "website": "http://www.praxisdoll.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

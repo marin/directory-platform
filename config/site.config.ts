@@ -6,27 +6,28 @@ export function defineSite<T extends SiteConfig>(config: T): T {
 
 export default defineSite({
   site: {
-    name: "Example Directory",
-    origin: "https://example.com",
-    description: "Independent directory of example providers in Austin, Texas.",
-    defaultLocale: "en-US",
+    name: "Heilpraktiker Berlin",
+    origin: "https://directory-platform-swart.vercel.app",
+    description:
+      "Unabhängiges Verzeichnis von Heilpraktiker-Praxen in Berlin – nach Schwerpunkt und Bezirk.",
+    defaultLocale: "de-DE",
   },
 
   directory: {
-    entrySingular: "provider",
-    entryPlural: "providers",
-    entryRoute: "provider",
-    currency: "USD",
-    phoneRegion: "US",
-    schemaType: "LocalBusiness",
+    entrySingular: "Heilpraktiker",
+    entryPlural: "Heilpraktiker",
+    entryRoute: "heilpraktiker",
+    currency: "EUR",
+    phoneRegion: "DE",
+    schemaType: "MedicalBusiness",
   },
 
   geography: {
-    locality: "Austin",
-    region: "Texas",
-    country: "US",
-    timezone: "America/Chicago",
-    center: { lat: 30.2672, lng: -97.7431 },
+    locality: "Berlin",
+    region: "Berlin",
+    country: "DE",
+    timezone: "Europe/Berlin",
+    center: { lat: 52.52, lng: 13.405 },
   },
 
   quality: {

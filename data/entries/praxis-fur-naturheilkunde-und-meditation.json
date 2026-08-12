@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-naturheilkunde-und-meditation",
+  "slug": "praxis-fur-naturheilkunde-und-meditation",
+  "name": "Praxis für Naturheilkunde und Meditation",
+  "description": "Praxis für Naturheilkunde und Meditation ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Aßmannstraße 48",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.450381099999994,
+    "lng": 13.625382
+  },
+  "phone": "033627277802",
+  "website": "https://hp-von-aswegen.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

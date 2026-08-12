@@ -1,0 +1,35 @@
+{
+  "id": "guido-paul-zorner-praxis-fur-kybernetische-medizin",
+  "slug": "guido-paul-zorner-praxis-fur-kybernetische-medizin",
+  "name": "Guido Paul Zörner - Praxis für kybernetische Medizin",
+  "description": "Guido Paul Zörner - Praxis für kybernetische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Dernburgstr. 59",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5061427,
+    "lng": 13.2835515
+  },
+  "phone": "03081816111",
+  "email": "join@cybernetic.life",
+  "website": "https://cybernetic.life/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/guido-paul-zoerner?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

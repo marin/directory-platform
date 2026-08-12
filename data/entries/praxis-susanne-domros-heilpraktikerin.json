@@ -1,0 +1,31 @@
+{
+  "id": "praxis-susanne-domros-heilpraktikerin",
+  "slug": "praxis-susanne-domros-heilpraktikerin",
+  "name": "Praxis Susanne Domrös, Heilpraktikerin",
+  "description": "Praxis Susanne Domrös, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Dornröschenstraße 37",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.464790799999996,
+    "lng": 13.5905319
+  },
+  "phone": "03020987122",
+  "website": "http://www.heilpraxis-im-maerchenviertel.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

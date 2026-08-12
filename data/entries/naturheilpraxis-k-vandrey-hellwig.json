@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-k-vandrey-hellwig",
+  "slug": "naturheilpraxis-k-vandrey-hellwig",
+  "name": "Naturheilpraxis K. Vandrey - Hellwig",
+  "description": "Naturheilpraxis K. Vandrey - Hellwig ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Scharnweberstraße 65",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5682395,
+    "lng": 13.311221399999999
+  },
+  "phone": "03043551509",
+  "email": "nhp.vandreyhellwig@arcor.de",
+  "website": "http://www.nhp-vandreyhellwig.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

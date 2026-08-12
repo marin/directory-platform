@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-beate-brandt",
+  "slug": "heilpraktikerin-beate-brandt",
+  "name": "Heilpraktikerin Beate Brandt",
+  "description": "Heilpraktikerin Beate Brandt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Matterhornstraße 50A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4389891,
+    "lng": 13.217597099999999
+  },
+  "phone": "0308055112",
+  "email": "praxis@beate-brandt.de",
+  "website": "http://heilpraktikerin-beate-brandt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

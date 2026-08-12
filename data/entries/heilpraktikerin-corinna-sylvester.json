@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-corinna-sylvester",
+  "slug": "heilpraktikerin-corinna-sylvester",
+  "name": "Heilpraktikerin Corinna Sylvester",
+  "description": "Heilpraktikerin Corinna Sylvester ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Tile-Brügge-Weg 87",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13509",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5925751,
+    "lng": 13.2999891
+  },
+  "phone": "03040105217",
+  "website": "http://www.heilpraxis-corinna-sylvester.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-hannelore-patschinsky",
+  "slug": "heilpraktikerin-hannelore-patschinsky",
+  "name": "Heilpraktikerin Hannelore Patschinsky",
+  "description": "Heilpraktikerin Hannelore Patschinsky ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Friedrichshagener Str. 6C",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.451581,
+    "lng": 13.5809765
+  },
+  "phone": "01732817684",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/hannelore-patschinsky?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

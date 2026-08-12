@@ -1,0 +1,33 @@
+{
+  "id": "ganzheitlich-chiro-praxis-heilpraktiker-jan-muller",
+  "slug": "ganzheitlich-chiro-praxis-heilpraktiker-jan-muller",
+  "name": "Ganzheitlich-Chiro-Praxis & Heilpraktiker Jan Müller",
+  "description": "Ganzheitlich-Chiro-Praxis & Heilpraktiker Jan Müller ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Schützenstraße 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.453654,
+    "lng": 13.323259199999999
+  },
+  "phone": "03083228696",
+  "email": "info@chiro-praxis-berlin.de",
+  "website": "http://chiro-praxis-berlin.de/",
+  "bookingUrl": "https://www.etermin.net/chiro-praxis-berlin",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

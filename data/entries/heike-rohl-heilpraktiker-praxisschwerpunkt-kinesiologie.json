@@ -1,0 +1,31 @@
+{
+  "id": "heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie",
+  "slug": "heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie",
+  "name": "Heike Röhl Heilpraktiker Praxisschwerpunkt Kinesiologie",
+  "description": "Heike Röhl Heilpraktiker Praxisschwerpunkt Kinesiologie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Nollendorfstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10777",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.497944399999994,
+    "lng": 13.3518843
+  },
+  "phone": "03063211957",
+  "website": "http://www.heikeroehl.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

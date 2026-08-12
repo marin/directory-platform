@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut",
+  "slug": "naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut",
+  "name": "Naturheilpraxis Karina Dan - Japanische Medizin, Shiatsu, Meridian-Massage und Kräuterheilkunde",
+  "description": "Naturheilpraxis Karina Dan - Japanische Medizin, Shiatsu, Meridian-Massage und Kräuterheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Lütticher Str. 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13353",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5463631,
+    "lng": 13.347733799999999
+  },
+  "phone": "017680009547",
+  "email": "info@der-gelbe-kaiser.com",
+  "website": "http://der-gelbe-kaiser.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

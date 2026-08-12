@@ -1,0 +1,30 @@
+{
+  "id": "frau-silke-mankowski-schmidt",
+  "slug": "frau-silke-mankowski-schmidt",
+  "name": "Frau Silke Mankowski-Schmidt",
+  "description": "Frau Silke Mankowski-Schmidt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Alt-Rudow 43",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12357",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4191533,
+    "lng": 13.4939834
+  },
+  "phone": "03066464080",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

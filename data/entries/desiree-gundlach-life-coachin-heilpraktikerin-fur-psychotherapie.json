@@ -1,0 +1,33 @@
+{
+  "id": "desiree-gundlach-life-coachin-heilpraktikerin-fur-psychotherapie",
+  "slug": "desiree-gundlach-life-coachin-heilpraktikerin-fur-psychotherapie",
+  "name": "Desiree Gundlach | Life Coachin & Heilpraktikerin für Psychotherapie",
+  "description": "Desiree Gundlach | Life Coachin & Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Bayreuther Str. 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10787",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5026787,
+    "lng": 13.3440265
+  },
+  "phone": "017685712776",
+  "email": "info@desireegundlach.de",
+  "website": "http://desireegundlach.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

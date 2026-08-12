@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-naturheilverfahren-jurgen-saldeitis",
+  "slug": "praxis-fur-naturheilverfahren-jurgen-saldeitis",
+  "name": "Praxis für Naturheilverfahren, Jürgen Saldeitis",
+  "description": "Praxis für Naturheilverfahren, Jürgen Saldeitis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Bahnhofstraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12305",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3868613,
+    "lng": 13.406881499999999
+  },
+  "phone": "0307443001",
+  "website": "http://www.cbt2000.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

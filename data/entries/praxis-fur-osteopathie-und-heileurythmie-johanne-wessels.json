@@ -1,0 +1,31 @@
+{
+  "id": "praxis-fur-osteopathie-und-heileurythmie-johanne-wessels",
+  "slug": "praxis-fur-osteopathie-und-heileurythmie-johanne-wessels",
+  "name": "Praxis für Osteopathie und Heileurythmie - Johanne Wessels",
+  "description": "Praxis für Osteopathie und Heileurythmie - Johanne Wessels ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Windsteiner Weg 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14165",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.411838499999995,
+    "lng": 13.2575899
+  },
+  "phone": "01796046939",
+  "website": "https://www.osteopathieundheileurythmie.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

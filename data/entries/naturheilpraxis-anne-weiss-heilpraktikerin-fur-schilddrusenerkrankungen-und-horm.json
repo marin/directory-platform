@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm",
+  "slug": "naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm",
+  "name": "Naturheilpraxis Anne Weiß - Heilpraktikerin für Schilddrüsenerkrankungen und hormonelle Störungen",
+  "description": "Naturheilpraxis Anne Weiß - Heilpraktikerin für Schilddrüsenerkrankungen und hormonelle Störungen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "reinickendorf"
+  ],
+  "address": {
+    "street": "Nach d. Höhe 14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13469",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.606047399999994,
+    "lng": 13.3170843
+  },
+  "phone": "01631646965",
+  "email": "anneweiss-heilpraxis@web.de",
+  "website": "https://www.anneweiss-heilpraxis.de/",
+  "bookingUrl": "https://anneweissheilpraxis.simplybook.it/v2/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

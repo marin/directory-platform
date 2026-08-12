@@ -1,0 +1,33 @@
+{
+  "id": "m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie",
+  "slug": "m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie",
+  "name": "M.A. Martin van de Loo, Heilpraktiker für Psychotherapie",
+  "description": "M.A. Martin van de Loo, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Solmsstraße 30",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10961",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4897127,
+    "lng": 13.3923618
+  },
+  "email": "martin.vandeloo@googlemail.com",
+  "website": "http://www.martinvandeloo.de/",
+  "bookingUrl": "https://www.martinvandeloo.de/termine-und-kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

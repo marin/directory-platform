@@ -1,0 +1,32 @@
+{
+  "id": "sabine-redmann-heilpraktikerin",
+  "slug": "sabine-redmann-heilpraktikerin",
+  "name": "Sabine Redmann, Heilpraktikerin",
+  "description": "Sabine Redmann, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Friedbergstraße 29",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14057",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5037842,
+    "lng": 13.293851
+  },
+  "phone": "01778680050",
+  "email": "info@praxis-integrativ.de",
+  "website": "https://www.praxis-integrativ.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

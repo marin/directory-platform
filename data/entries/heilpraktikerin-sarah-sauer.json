@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-sarah-sauer",
+  "slug": "heilpraktikerin-sarah-sauer",
+  "name": "Heilpraktikerin Sarah Sauer",
+  "description": "Heilpraktikerin Sarah Sauer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Richardstraße 108",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12043",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.478339999999996,
+    "lng": 13.439229899999999
+  },
+  "phone": "01795094328",
+  "email": "sarah@femalescope.de",
+  "website": "http://www.femalescope.de/",
+  "bookingUrl": "https://buchung.treatwell.de/ort/klassische-massage-therapeutische-frauenmassage/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

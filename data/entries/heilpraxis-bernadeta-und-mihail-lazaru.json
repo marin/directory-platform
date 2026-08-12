@@ -1,0 +1,30 @@
+{
+  "id": "heilpraxis-bernadeta-und-mihail-lazaru",
+  "slug": "heilpraxis-bernadeta-und-mihail-lazaru",
+  "name": "Heilpraxis Bernadeta und Mihail Lazaru",
+  "description": "Heilpraxis Bernadeta und Mihail Lazaru ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Rehagener Str. 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12305",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3880061,
+    "lng": 13.4035254
+  },
+  "phone": "03076902697",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

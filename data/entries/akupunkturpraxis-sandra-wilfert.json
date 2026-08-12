@@ -1,0 +1,34 @@
+{
+  "id": "akupunkturpraxis-sandra-wilfert",
+  "slug": "akupunkturpraxis-sandra-wilfert",
+  "name": "Akupunkturpraxis Sandra Wilfert",
+  "description": "Akupunkturpraxis Sandra Wilfert ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Ärztehaus",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.549195399999995,
+    "lng": 13.4128939
+  },
+  "phone": "01633817756",
+  "email": "praxis@sandra-wilfert-akupunktur.com",
+  "website": "http://www.sandra-wilfert-akupunktur.de/",
+  "bookingUrl": "https://www.jameda.de/sandra-wilfert/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=277991&utm_content=url_appointment",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-bohndorf",
+  "slug": "naturheilpraxis-bohndorf",
+  "name": "Naturheilpraxis Bohndorf",
+  "description": "Naturheilpraxis Bohndorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Marco-Polo-Straße 1",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14089",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4668127,
+    "lng": 13.163480499999999
+  },
+  "phone": "015786421292",
+  "website": "https://conny-bohndorf.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

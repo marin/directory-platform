@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-kirsten-kaufmann",
+  "slug": "heilpraktikerin-kirsten-kaufmann",
+  "name": "Heilpraktikerin Kirsten Kaufmann",
+  "description": "Heilpraktikerin Kirsten Kaufmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Ettaler Str. 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10777",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.498060599999995,
+    "lng": 13.3377789
+  },
+  "phone": "01708306375",
+  "email": "info@die-akupunktur-praxis.de",
+  "website": "http://www.die-akupunktur-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

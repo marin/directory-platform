@@ -1,0 +1,31 @@
+{
+  "id": "musik-und-naturheilpraxis-cordula-klotz",
+  "slug": "musik-und-naturheilpraxis-cordula-klotz",
+  "name": "Musik- und Naturheilpraxis Cordula Klotz",
+  "description": "Musik- und Naturheilpraxis Cordula Klotz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Weisestraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12049",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4796293,
+    "lng": 13.4230068
+  },
+  "phone": "015153756789",
+  "website": "http://www.musik-heil-praxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

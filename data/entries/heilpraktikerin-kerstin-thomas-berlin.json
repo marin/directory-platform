@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-kerstin-thomas-berlin",
+  "slug": "heilpraktikerin-kerstin-thomas-berlin",
+  "name": "Heilpraktikerin Kerstin Thomas Berlin",
+  "description": "Heilpraktikerin Kerstin Thomas Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Lohmeyerstraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.520509999999994,
+    "lng": 13.302449999999999
+  },
+  "phone": "017638919657",
+  "website": "http://www.heilpraktikerin-thomas-berlin.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

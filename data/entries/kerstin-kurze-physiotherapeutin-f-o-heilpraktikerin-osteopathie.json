@@ -1,0 +1,33 @@
+{
+  "id": "kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie",
+  "slug": "kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie",
+  "name": "Kerstin Kurze - Physiotherapeutin F.O. Heilpraktikerin/Osteopathie",
+  "description": "Kerstin Kurze - Physiotherapeutin F.O. Heilpraktikerin/Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Minzeweg 38",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12357",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437852299999996,
+    "lng": 13.483132699999999
+  },
+  "phone": "03060970117",
+  "email": "an@physiokos.de",
+  "website": "http://www.physiokos.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

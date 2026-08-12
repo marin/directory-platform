@@ -1,0 +1,32 @@
+{
+  "id": "dieter-sajok-heilpraktiker-faszien-und-schmerztherapie",
+  "slug": "dieter-sajok-heilpraktiker-faszien-und-schmerztherapie",
+  "name": "Dieter Sajok, Heilpraktiker, Faszien- und Schmerztherapie",
+  "description": "Dieter Sajok, Heilpraktiker, Faszien- und Schmerztherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Gustav-Adolf-Straße 159",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13086",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5533055,
+    "lng": 13.433640899999999
+  },
+  "phone": "03032707674",
+  "website": "http://www.senmotic-sajok.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

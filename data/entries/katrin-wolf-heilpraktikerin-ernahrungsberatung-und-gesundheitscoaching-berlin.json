@@ -1,0 +1,35 @@
+{
+  "id": "katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin",
+  "slug": "katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin",
+  "name": "Katrin Wolf - Heilpraktikerin, Ernährungsberatung und Gesundheitscoaching Berlin",
+  "description": "Katrin Wolf - Heilpraktikerin, Ernährungsberatung und Gesundheitscoaching Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hauptstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13158",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.586031299999995,
+    "lng": 13.366928399999999
+  },
+  "phone": "015209736907",
+  "website": "https://www.heilpraxis-wolf.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/wolf-katrin?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

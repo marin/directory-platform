@@ -1,0 +1,33 @@
+{
+  "id": "dipl-biol-sabine-kunkel-heilpraktikerin",
+  "slug": "dipl-biol-sabine-kunkel-heilpraktikerin",
+  "name": "Dipl.-Biol. Sabine Kunkel Heilpraktikerin",
+  "description": "Dipl.-Biol. Sabine Kunkel Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Bahnhofstraße 61",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13125",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.614002,
+    "lng": 13.4707188
+  },
+  "phone": "03028663938",
+  "email": "kontakt@sabine-kunkel.de",
+  "website": "https://sabine-kunkel.de/",
+  "bookingUrl": "https://sabine-kunkel.de/kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

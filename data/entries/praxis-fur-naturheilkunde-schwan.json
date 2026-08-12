@@ -1,0 +1,33 @@
+{
+  "id": "praxis-fur-naturheilkunde-schwan",
+  "slug": "praxis-fur-naturheilkunde-schwan",
+  "name": "Praxis für Naturheilkunde Schwan",
+  "description": "Praxis für Naturheilkunde Schwan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Gustav-Müller-Straße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10829",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.482692,
+    "lng": 13.3622362
+  },
+  "phone": "01723179849",
+  "email": "heilpraxis@antjeschwan.de",
+  "website": "http://www.heilpraxis-schwan.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/antje-schwan?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

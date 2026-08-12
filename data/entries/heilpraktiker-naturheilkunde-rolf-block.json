@@ -1,0 +1,30 @@
+{
+  "id": "heilpraktiker-naturheilkunde-rolf-block",
+  "slug": "heilpraktiker-naturheilkunde-rolf-block",
+  "name": "Heilpraktiker Naturheilkunde Rolf Block",
+  "description": "Heilpraktiker Naturheilkunde Rolf Block ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Gritznerstraße 32",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.464007599999995,
+    "lng": 13.315883099999999
+  },
+  "phone": "03089640162",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

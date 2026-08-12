@@ -1,0 +1,30 @@
+{
+  "id": "heil-und-beratungszentrum-adlershof",
+  "slug": "heil-und-beratungszentrum-adlershof",
+  "name": "Heil- und Beratungszentrum Adlershof",
+  "description": "Heil- und Beratungszentrum Adlershof ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Dörpfeldstraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12489",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.437391899999994,
+    "lng": 13.5460271
+  },
+  "phone": "03055632598",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

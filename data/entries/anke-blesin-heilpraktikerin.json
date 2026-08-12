@@ -1,0 +1,31 @@
+{
+  "id": "anke-blesin-heilpraktikerin",
+  "slug": "anke-blesin-heilpraktikerin",
+  "name": "Anke Blesin Heilpraktikerin",
+  "description": "Anke Blesin Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Alte Börse Marzahn",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12681",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5197972,
+    "lng": 13.527441999999999
+  },
+  "phone": "03020074306",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

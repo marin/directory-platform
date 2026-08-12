@@ -1,0 +1,31 @@
+{
+  "id": "thomas-quehl",
+  "slug": "thomas-quehl",
+  "name": "Thomas Quehl",
+  "description": "Thomas Quehl ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Pfuelstraße 3",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10997",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5024606,
+    "lng": 13.4409624
+  },
+  "phone": "0306212489",
+  "website": "http://tcmpraxis-quehl.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

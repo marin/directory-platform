@@ -1,0 +1,31 @@
+{
+  "id": "heilpraktikerin-anne-meisenbach",
+  "slug": "heilpraktikerin-anne-meisenbach",
+  "name": "Heilpraktikerin Anne Meisenbach",
+  "description": "Heilpraktikerin Anne Meisenbach ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Naugarder Str. 12",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10409",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5439328,
+    "lng": 13.438238799999999
+  },
+  "phone": "015238564179",
+  "website": "https://www.deine-naturheilkraft.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

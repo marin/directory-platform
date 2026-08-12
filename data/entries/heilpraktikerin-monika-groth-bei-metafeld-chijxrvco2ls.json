@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-monika-groth-bei-metafeld-chijxrvco2ls",
+  "slug": "heilpraktikerin-monika-groth-bei-metafeld-chijxrvco2ls",
+  "name": "Heilpraktikerin Monika Groth bei METAFELD",
+  "description": "Heilpraktikerin Monika Groth bei METAFELD ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "bei METAFELD",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5457287,
+    "lng": 13.4124257
+  },
+  "phone": "0304451669",
+  "email": "assaela.jill.mo@gmail.com",
+  "website": "http://www.naturheilpraxisgroth.de/",
+  "bookingUrl": "https://naturheilpraxisgroth.de/termin-buchen",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

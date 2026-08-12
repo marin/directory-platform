@@ -1,0 +1,32 @@
+{
+  "id": "marlies-zymara-heilpraktikerin",
+  "slug": "marlies-zymara-heilpraktikerin",
+  "name": "Marlies Zymara - Heilpraktikerin",
+  "description": "Marlies Zymara - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Hauptstraße 58",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10827",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.480289199999994,
+    "lng": 13.345893
+  },
+  "phone": "03070074800",
+  "email": "marlies@heilpraktikerin-zymara.de",
+  "website": "http://www.heilpraktikerin-zymara.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

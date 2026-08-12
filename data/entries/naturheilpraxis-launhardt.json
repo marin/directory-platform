@@ -1,0 +1,33 @@
+{
+  "id": "naturheilpraxis-launhardt",
+  "slug": "naturheilpraxis-launhardt",
+  "name": "Naturheilpraxis Launhardt",
+  "description": "Naturheilpraxis Launhardt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Darmstädter Str. 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10707",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4975612,
+    "lng": 13.317329899999999
+  },
+  "phone": "03088924783",
+  "email": "praxis@naturheilpraxis-launhardt.de",
+  "website": "https://www.naturheilpraxis-launhardt.de/",
+  "bookingUrl": "https://www.naturheilpraxis-launhardt.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

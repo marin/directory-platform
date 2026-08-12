@@ -1,0 +1,31 @@
+{
+  "id": "brunnenkuppe-heilpraxis-heilpraktiker-karl-konstantin-arnold",
+  "slug": "brunnenkuppe-heilpraxis-heilpraktiker-karl-konstantin-arnold",
+  "name": "BRUNNENKUPPE HEILPRAXIS Heilpraktiker Karl-Konstantin Arnold",
+  "description": "BRUNNENKUPPE HEILPRAXIS Heilpraktiker Karl-Konstantin Arnold ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Rheinsberger Str. 71",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10115",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5370924,
+    "lng": 13.396143799999999
+  },
+  "phone": "03021092994",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

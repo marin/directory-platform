@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-wiebke-ude",
+  "slug": "heilpraxis-wiebke-ude",
+  "name": "Heilpraxis Wiebke Ude",
+  "description": "Heilpraxis Wiebke Ude ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Kurze Str. 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12167",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4520828,
+    "lng": 13.324451
+  },
+  "phone": "03077206744",
+  "email": "mail@heilpraxis-ude.de",
+  "website": "https://www.heilpraxis-ude.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

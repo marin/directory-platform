@@ -1,0 +1,33 @@
+{
+  "id": "carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur",
+  "slug": "carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur",
+  "name": "Carolin Leidecker Heilpraktikerin für Bioresonanztherapie und Akupunktur",
+  "description": "Carolin Leidecker Heilpraktikerin für Bioresonanztherapie und Akupunktur ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Metzer Str. 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10405",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5323688,
+    "lng": 13.414653
+  },
+  "phone": "015560554477",
+  "website": "https://www.praxiscarolinleidecker.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carolin-leidecker?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

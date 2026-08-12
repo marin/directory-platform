@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-lea-banse",
+  "slug": "heilpraktikerin-lea-banse",
+  "name": "Heilpraktikerin Lea Banse",
+  "description": "Heilpraktikerin Lea Banse ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "osteopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Fregestraße 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12161",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.465272299999995,
+    "lng": 13.332702
+  },
+  "phone": "015738996860",
+  "email": "heilpraktikerin.banse@gmail.com",
+  "website": "https://heilpraktikerin-banse.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

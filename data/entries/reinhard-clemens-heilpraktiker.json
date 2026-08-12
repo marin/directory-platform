@@ -1,0 +1,33 @@
+{
+  "id": "reinhard-clemens-heilpraktiker",
+  "slug": "reinhard-clemens-heilpraktiker",
+  "name": "Reinhard Clemens| Heilpraktiker",
+  "description": "Reinhard Clemens| Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Am Lokdepot 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10965",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4867596,
+    "lng": 13.373756499999999
+  },
+  "phone": "01715563898",
+  "email": "reinhard.clemens@gmail.com",
+  "website": "https://rc-naturheilpraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

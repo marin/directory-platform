@@ -1,0 +1,32 @@
+{
+  "id": "sanna-von-zedlitz-systemische-therapie-und-beratung",
+  "slug": "sanna-von-zedlitz-systemische-therapie-und-beratung",
+  "name": "Sanna von Zedlitz - Systemische Therapie und Beratung",
+  "description": "Sanna von Zedlitz - Systemische Therapie und Beratung ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "hypnose"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Rubensstraße 40",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12159",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.47347,
+    "lng": 13.34302
+  },
+  "phone": "01771950689",
+  "email": "infoabc@sanna-vonzedlitz.de",
+  "website": "http://www.hypnotherapie-friedenau.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

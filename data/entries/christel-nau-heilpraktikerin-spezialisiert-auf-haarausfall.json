@@ -1,0 +1,31 @@
+{
+  "id": "christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall",
+  "slug": "christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall",
+  "name": "Christel Nau - Heilpraktikerin, spezialisiert auf Haarausfall",
+  "description": "Christel Nau - Heilpraktikerin, spezialisiert auf Haarausfall ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Prinz-Friedrich-Leopold-Straße 25",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14129",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4271203,
+    "lng": 13.1961602
+  },
+  "phone": "01705593367",
+  "website": "http://www.christel-nau.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

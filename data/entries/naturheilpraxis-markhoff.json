@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-markhoff",
+  "slug": "naturheilpraxis-markhoff",
+  "name": "Naturheilpraxis Markhoff",
+  "description": "Naturheilpraxis Markhoff ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Bugenhagenstraße 16",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10551",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5283222,
+    "lng": 13.3403362
+  },
+  "phone": "017648314224",
+  "email": "praxis@miriammarkhoff.de",
+  "website": "http://miriammarkhoff.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

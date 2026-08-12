@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-carola-kromphardt-heilpraktikerin",
+  "slug": "naturheilpraxis-carola-kromphardt-heilpraktikerin",
+  "name": "Naturheilpraxis Carola Kromphardt - Heilpraktikerin",
+  "description": "Naturheilpraxis Carola Kromphardt - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Johannes-Niemeyer-Weg 19C",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14109",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.3884183,
+    "lng": 13.133031599999999
+  },
+  "phone": "03028471449",
+  "website": "http://www.praxis-kromphardt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

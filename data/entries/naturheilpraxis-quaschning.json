@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-quaschning",
+  "slug": "naturheilpraxis-quaschning",
+  "name": "Naturheilpraxis Quaschning",
+  "description": "Naturheilpraxis Quaschning ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bahnhofstraße 41",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4569385,
+    "lng": 13.577631199999999
+  },
+  "phone": "015156681944",
+  "email": "volker@quaschning.de",
+  "website": "http://www.naturheilpraxis-quaschning.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

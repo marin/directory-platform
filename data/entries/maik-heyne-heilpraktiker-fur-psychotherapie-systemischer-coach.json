@@ -1,0 +1,33 @@
+{
+  "id": "maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach",
+  "slug": "maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach",
+  "name": "Maik Heyne Heilpraktiker für Psychotherapie & Systemischer Coach",
+  "description": "Maik Heyne Heilpraktiker für Psychotherapie & Systemischer Coach ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "mitte"
+  ],
+  "address": {
+    "street": "Heinrich-Heine-Straße 21",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10179",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5070584,
+    "lng": 13.414838399999999
+  },
+  "phone": "03034660470",
+  "website": "https://www.maikheyne.de/",
+  "bookingUrl": "https://calendly.com/maikheyne/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

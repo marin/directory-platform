@@ -1,0 +1,34 @@
+{
+  "id": "naturheilpraxis-effner-chijzq8zn6lt",
+  "slug": "naturheilpraxis-effner-chijzq8zn6lt",
+  "name": "Naturheilpraxis Effner",
+  "description": "Naturheilpraxis Effner ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Hauptstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13158",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5859573,
+    "lng": 13.366842
+  },
+  "phone": "0304529538",
+  "email": "praxis-effner@t-online.de",
+  "website": "http://www.heilpraktiker-effner.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

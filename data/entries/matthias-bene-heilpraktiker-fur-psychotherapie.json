@@ -1,0 +1,31 @@
+{
+  "id": "matthias-bene-heilpraktiker-fur-psychotherapie",
+  "slug": "matthias-bene-heilpraktiker-fur-psychotherapie",
+  "name": "Matthias Bene - Heilpraktiker für Psychotherapie",
+  "description": "Matthias Bene - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Glatzer Str. 6A",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10247",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.509818499999994,
+    "lng": 13.465829699999999
+  },
+  "phone": "017659547936",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

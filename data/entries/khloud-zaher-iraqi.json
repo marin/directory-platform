@@ -1,0 +1,31 @@
+{
+  "id": "khloud-zaher-iraqi",
+  "slug": "khloud-zaher-iraqi",
+  "name": "Khloud Zaher-Iraqi",
+  "description": "Khloud Zaher-Iraqi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "neukoelln"
+  ],
+  "address": {
+    "street": "Anzengruberstraße 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12043",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.480349999999994,
+    "lng": 13.440869999999999
+  },
+  "phone": "03068056118",
+  "website": "https://khloud-zaheriraqi.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

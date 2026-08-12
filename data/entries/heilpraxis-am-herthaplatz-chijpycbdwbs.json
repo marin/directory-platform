@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-am-herthaplatz-chijpycbdwbs",
+  "slug": "heilpraxis-am-herthaplatz-chijpycbdwbs",
+  "name": "Heilpraxis am Herthaplatz",
+  "description": "Heilpraxis am Herthaplatz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Herthapl. 9",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13156",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5849901,
+    "lng": 13.4083597
+  },
+  "phone": "03047488740",
+  "email": "info@heilpraxis-am-herthaplatz.de",
+  "website": "http://heilpraxis-am-herthaplatz.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

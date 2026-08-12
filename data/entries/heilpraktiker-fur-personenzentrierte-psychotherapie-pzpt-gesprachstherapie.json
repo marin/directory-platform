@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktiker-fur-personenzentrierte-psychotherapie-pzpt-gesprachstherapie",
+  "slug": "heilpraktiker-fur-personenzentrierte-psychotherapie-pzpt-gesprachstherapie",
+  "name": "Heilpraktiker für Personenzentrierte-Psychotherapie PzPt Gesprächstherapie",
+  "description": "Heilpraktiker für Personenzentrierte-Psychotherapie PzPt Gesprächstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Bozener Str. 13/14",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10825",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4866014,
+    "lng": 13.3382028
+  },
+  "phone": "015156867860",
+  "email": "kontakt@pzpt.de",
+  "website": "https://pzpt.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

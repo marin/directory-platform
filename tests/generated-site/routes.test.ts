@@ -1,6 +1,7 @@
 import { describe, it, expect, beforeAll } from "vitest";
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join, resolve } from "node:path";
+import siteConfig from "../../config/site.config.ts";
 import { loadDataset } from "../../src/lib/data/load-dataset.ts";
 import { buildLlmsTxt } from "../../src/lib/geo/llms.ts";
 
@@ -25,33 +26,42 @@ function listHtmlFiles(): string[] {
 }
 
 describe("generated site", () => {
+  const dataset = loadDataset();
+  const sampleEntry = dataset.entries.find((entry) => entry.isOpen);
+  const sampleCategory = dataset.categories[0];
+  const closedEntry = dataset.entries.find((entry) => !entry.isOpen);
+
   beforeAll(() => {
     if (!existsSync(DIST)) {
       throw new Error("Run npm run build before generated-site tests");
     }
+    if (!sampleEntry) {
+      throw new Error("Expected at least one open entry in dataset");
+    }
   });
 
   it("builds listing pages with facts in HTML", () => {
-    const html = readDist("provider/austin-wellness-massage/index.html");
-    expect(html).toContain("Austin Wellness Massage");
+    const html = readDist(`${siteConfig.directory.entryRoute}/${sampleEntry!.slug}/index.html`);
+    expect(html).toContain(sampleEntry!.name);
     expect(html).toContain('data-testid="entry-description"');
     expect(html).toContain('data-testid="nap-name"');
     expect(html).toContain('data-testid="nap-phone"');
     expect(html).toContain('data-testid="nap-address"');
   });
 
-  it("renders closed notice", () => {
-    const html = readDist("provider/closed-downtown-spa/index.html");
+  it("renders closed notice when closed entries exist", () => {
+    if (!closedEntry) return;
+    const html = readDist(`${siteConfig.directory.entryRoute}/${closedEntry.slug}/index.html`);
     expect(html).toContain("Permanently closed");
   });
 
   it("includes aggregate facts on category pages", () => {
-    const html = readDist("category/wellness-massage/index.html");
+    const html = readDist(`category/${sampleCategory.slug}/index.html`);
     expect(html).toContain('data-testid="aggregate-facts"');
   });
 
   it("has NAP consistency between HTML and JSON-LD", () => {
-    const html = readDist("provider/austin-wellness-massage/index.html");
+    const html = readDist(`${siteConfig.directory.entryRoute}/${sampleEntry!.slug}/index.html`);
     const nameMatch = html.match(/data-testid="nap-name"[^>]*>([^<]+)</);
     const ldMatch = html.match(/"name":"([^"]+)"/);
     expect(nameMatch?.[1]).toBeTruthy();
@@ -64,9 +74,8 @@ describe("generated site", () => {
   });
 
   it("llms.txt is consistent with dataset", () => {
-    const dataset = loadDataset();
     const llms = buildLlmsTxt(dataset);
-    expect(llms).toContain("Example Directory");
-    expect(llms).toContain("wellness-massage");
+    expect(llms).toContain(siteConfig.site.name);
+    expect(llms).toContain(sampleCategory.slug);
   });
 });

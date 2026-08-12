@@ -1,0 +1,33 @@
+{
+  "id": "hypnosepraxis-kellina-klein",
+  "slug": "hypnosepraxis-kellina-klein",
+  "name": "Hypnosepraxis Kellina Klein",
+  "description": "Hypnosepraxis Kellina Klein ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "hypnose"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Rosenstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4457818,
+    "lng": 13.5769978
+  },
+  "phone": "015155419198",
+  "email": "info@hypnose-koepenick.de",
+  "website": "https://www.hypnose-koepenick.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

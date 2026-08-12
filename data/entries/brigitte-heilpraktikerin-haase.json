@@ -1,0 +1,30 @@
+{
+  "id": "brigitte-heilpraktikerin-haase",
+  "slug": "brigitte-heilpraktikerin-haase",
+  "name": "Brigitte Heilpraktikerin Haase",
+  "description": "Brigitte Heilpraktikerin Haase ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Spandauer Str. 3 B",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13591",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5339119,
+    "lng": 13.1435578
+  },
+  "phone": "03035138308",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

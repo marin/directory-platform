@@ -1,0 +1,34 @@
+{
+  "id": "harald-montag-heilpraktiker",
+  "slug": "harald-montag-heilpraktiker",
+  "name": "Harald Montag | Heilpraktiker",
+  "description": "Harald Montag | Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "ernaehrungsberatung",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Ilmenauer Str. 11",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14193",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4813426,
+    "lng": 13.2869
+  },
+  "phone": "0308262753",
+  "email": "kontakt@praxis-montag.de",
+  "website": "http://www.praxis-montag.de/",
+  "bookingUrl": "https://koalendar.com/u/HaraldMontag",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

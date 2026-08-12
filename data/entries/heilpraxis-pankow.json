@@ -1,0 +1,32 @@
+{
+  "id": "heilpraxis-pankow",
+  "slug": "heilpraxis-pankow",
+  "name": "Heilpraxis Pankow",
+  "description": "Heilpraxis Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Binzstraße 19",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13189",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5634793,
+    "lng": 13.4202923
+  },
+  "phone": "015783573095",
+  "email": "heilpraxis-pankow@gmx.de",
+  "website": "http://heilpraxis-pankow.de/kontakt",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bisping-jutta-heilpraktikerin",
+  "slug": "bisping-jutta-heilpraktikerin",
+  "name": "Bisping Jutta Heilpraktikerin",
+  "description": "Bisping Jutta Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Niebuhrstraße 66",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10629",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.504383999999995,
+    "lng": 13.3119889
+  },
+  "phone": "03085726534",
+  "email": "info@jutta-bisping.de",
+  "website": "http://www.jutta-bisping.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

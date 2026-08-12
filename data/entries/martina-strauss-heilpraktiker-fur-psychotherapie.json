@@ -1,0 +1,32 @@
+{
+  "id": "martina-strauss-heilpraktiker-fur-psychotherapie",
+  "slug": "martina-strauss-heilpraktiker-fur-psychotherapie",
+  "name": "Martina Strauss - Heilpraktiker für Psychotherapie",
+  "description": "Martina Strauss - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Lüdersstraße 6",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12555",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.447096699999996,
+    "lng": 13.5779942
+  },
+  "phone": "015204990053",
+  "website": "https://www.lebensberatung-strauss.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

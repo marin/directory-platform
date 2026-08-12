@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-nicole-marx-berlin",
+  "slug": "heilpraktikerin-nicole-marx-berlin",
+  "name": "Heilpraktikerin Nicole Marx Berlin",
+  "description": "Heilpraktikerin Nicole Marx Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Salierstraße 15",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12524",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4155101,
+    "lng": 13.5441737
+  },
+  "phone": "03067805187",
+  "email": "kontakt@heilpraxis-marx.de",
+  "website": "http://www.heilpraxis-marx.de/",
+  "bookingUrl": "https://www.heilpraxis-marx.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

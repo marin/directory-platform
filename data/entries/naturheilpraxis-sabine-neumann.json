@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-sabine-neumann",
+  "slug": "naturheilpraxis-sabine-neumann",
+  "name": "Naturheilpraxis Sabine Neumann",
+  "description": "Naturheilpraxis Sabine Neumann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Contessaweg 36",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14089",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4493733,
+    "lng": 13.1362025
+  },
+  "phone": "0303655696",
+  "website": "http://www.sabine-neumann-naturheilpraxis.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

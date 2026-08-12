@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-lisa-fiedler-heilpraktikerin",
+  "slug": "naturheilpraxis-lisa-fiedler-heilpraktikerin",
+  "name": "Naturheilpraxis Lisa Fiedler, Heilpraktikerin",
+  "description": "Naturheilpraxis Lisa Fiedler, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "lichtenberg"
+  ],
+  "address": {
+    "street": "Waldowallee 67",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10318",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4862738,
+    "lng": 13.5310928
+  },
+  "phone": "017648982332",
+  "website": "http://www.praxisfiedler.com/",
+  "bookingUrl": "https://www.etermin.net/praxisfiedler",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

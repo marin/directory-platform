@@ -1,0 +1,31 @@
+{
+  "id": "naturheilpraxis-taric",
+  "slug": "naturheilpraxis-taric",
+  "name": "Naturheilpraxis Taric",
+  "description": "Naturheilpraxis Taric ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Damerowstraße 7",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5721607,
+    "lng": 13.416979399999999
+  },
+  "phone": "015144936637",
+  "website": "https://www.naturheilpraxis-taric.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

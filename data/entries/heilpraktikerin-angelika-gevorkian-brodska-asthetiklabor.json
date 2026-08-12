@@ -1,0 +1,33 @@
+{
+  "id": "heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor",
+  "slug": "heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor",
+  "name": "Heilpraktikerin Angelika Gevorkian Brodska | Ästhetiklabor",
+  "description": "Heilpraktikerin Angelika Gevorkian Brodska | Ästhetiklabor ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Schlüterstraße 4",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10625",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.510290999999995,
+    "lng": 13.317836699999999
+  },
+  "phone": "015774885948",
+  "email": "info@aesthetiklabor.de",
+  "website": "https://www.aesthetiklabor.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/angelika-gevorkian?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

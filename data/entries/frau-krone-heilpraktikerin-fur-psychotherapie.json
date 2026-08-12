@@ -1,0 +1,34 @@
+{
+  "id": "frau-krone-heilpraktikerin-fur-psychotherapie",
+  "slug": "frau-krone-heilpraktikerin-fur-psychotherapie",
+  "name": "Frau Krone Heilpraktikerin für Psychotherapie",
+  "description": "Frau Krone Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "marzahn-hellersdorf"
+  ],
+  "address": {
+    "street": "Heinrich-Grüber-Straße 8",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12621",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5126828,
+    "lng": 13.5892422
+  },
+  "phone": "017685048318",
+  "email": "info@frau-krone.de",
+  "website": "http://www.frau-krone.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ulrike-krone?utm_source=google-maps&utm_campaign=google-maps",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

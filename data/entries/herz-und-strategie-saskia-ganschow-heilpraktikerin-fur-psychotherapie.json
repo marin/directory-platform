@@ -1,0 +1,33 @@
+{
+  "id": "herz-und-strategie-saskia-ganschow-heilpraktikerin-fur-psychotherapie",
+  "slug": "herz-und-strategie-saskia-ganschow-heilpraktikerin-fur-psychotherapie",
+  "name": "Herz und Strategie | Saskia Ganschow | Heilpraktikerin für Psychotherapie",
+  "description": "Herz und Strategie | Saskia Ganschow | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Damerowstraße 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13187",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.5733597,
+    "lng": 13.421331799999999
+  },
+  "phone": "017681398066",
+  "email": "saskia.ganschow@gmx.de",
+  "website": "https://www.herzstrategie-psychotherapie.com/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

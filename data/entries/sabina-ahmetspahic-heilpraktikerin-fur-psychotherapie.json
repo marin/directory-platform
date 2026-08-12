@@ -1,0 +1,33 @@
+{
+  "id": "sabina-ahmetspahic-heilpraktikerin-fur-psychotherapie",
+  "slug": "sabina-ahmetspahic-heilpraktikerin-fur-psychotherapie",
+  "name": "Sabina Ahmetspahic - Heilpraktikerin für Psychotherapie",
+  "description": "Sabina Ahmetspahic - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "pankow"
+  ],
+  "address": {
+    "street": "Schliemannstraße 18",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10437",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.544092199999994,
+    "lng": 13.420258299999999
+  },
+  "phone": "01759221161",
+  "website": "https://www.seigutzudirselbst.de/",
+  "bookingUrl": "https://www.seigutzudirselbst.de/kontakt/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

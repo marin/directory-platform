@@ -1,0 +1,32 @@
+{
+  "id": "naturheilpraxis-diagnostik-und-therapie",
+  "slug": "naturheilpraxis-diagnostik-und-therapie",
+  "name": "Naturheilpraxis - Diagnostik und Therapie",
+  "description": "Naturheilpraxis - Diagnostik und Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "tempelhof-schoeneberg"
+  ],
+  "address": {
+    "street": "Lepsiusstraße 51",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12163",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4615514,
+    "lng": 13.317750799999999
+  },
+  "phone": "015736526835",
+  "email": "marzenamazur@web.de",
+  "website": "http://www.heilpraktiker-berlin-friedenau.de/kontakt.php",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

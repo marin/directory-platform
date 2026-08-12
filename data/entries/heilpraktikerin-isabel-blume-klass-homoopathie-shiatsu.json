@@ -1,0 +1,32 @@
+{
+  "id": "heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu",
+  "slug": "heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu",
+  "name": "Heilpraktikerin Isabel Blume, Klass. Homöopathie, Shiatsu",
+  "description": "Heilpraktikerin Isabel Blume, Klass. Homöopathie, Shiatsu ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "charlottenburg-wilmersdorf"
+  ],
+  "address": {
+    "street": "Gleditschstraße 44",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10781",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4926676,
+    "lng": 13.354925699999999
+  },
+  "phone": "0302169006",
+  "website": "http://www.isabel-blume.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

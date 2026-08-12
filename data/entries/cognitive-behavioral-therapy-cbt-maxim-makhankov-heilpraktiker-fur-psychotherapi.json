@@ -1,0 +1,32 @@
+{
+  "id": "cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi",
+  "slug": "cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi",
+  "name": "Cognitive Behavioral Therapy (CBT) - Maxim Makhankov, Heilpraktiker für Psychotherapie",
+  "description": "Cognitive Behavioral Therapy (CBT) - Maxim Makhankov, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "psychotherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "friedrichshain-kreuzberg"
+  ],
+  "address": {
+    "street": "Straßmannstraße 39",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "10249",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.523146,
+    "lng": 13.4528807
+  },
+  "website": "https://maximtherapy.com/",
+  "bookingUrl": "https://www.maximtherapy.com/book/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

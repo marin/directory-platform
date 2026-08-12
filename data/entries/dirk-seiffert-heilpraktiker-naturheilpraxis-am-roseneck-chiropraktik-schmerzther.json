@@ -1,0 +1,37 @@
+{
+  "id": "dirk-seiffert-heilpraktiker-naturheilpraxis-am-roseneck-chiropraktik-schmerzther",
+  "slug": "dirk-seiffert-heilpraktiker-naturheilpraxis-am-roseneck-chiropraktik-schmerzther",
+  "name": "Dirk Seiffert, Heilpraktiker - Naturheilpraxis am Roseneck (Chiropraktik, Schmerztherapie, Homöopathie u.v.m)",
+  "description": "Dirk Seiffert, Heilpraktiker - Naturheilpraxis am Roseneck (Chiropraktik, Schmerztherapie, Homöopathie u.v.m) ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "ernaehrungsberatung",
+    "schmerztherapie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Hundekehlestraße 13",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "14199",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.47616,
+    "lng": 13.2865501
+  },
+  "phone": "0308255109",
+  "email": "praxis@nhzr.de",
+  "website": "https://heilpraktiker-seiffert.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website-link",
+  "bookingUrl": "https://heilpraktiker-seiffert.de/kontakt/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=link-buchungstool",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

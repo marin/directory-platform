@@ -1,0 +1,33 @@
+{
+  "id": "heilpraxis-spandau-ursula-gerhard-bioresonanz",
+  "slug": "heilpraxis-spandau-ursula-gerhard-bioresonanz",
+  "name": "Heilpraxis Spandau Ursula Gerhard - Bioresonanz",
+  "description": "Heilpraxis Spandau Ursula Gerhard - Bioresonanz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "spandau"
+  ],
+  "address": {
+    "street": "Barnewitzer Weg 34",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13585",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.551096,
+    "lng": 13.1965275
+  },
+  "phone": "0303378338",
+  "email": "gerhard@ihr-vitalpunkt.de",
+  "website": "http://www.ihr-vitalpunkt.de/",
+  "bookingUrl": "http://www.ihr-vitalpunkt.de/kontakt-beratung/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

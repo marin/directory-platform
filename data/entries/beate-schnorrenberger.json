@@ -1,0 +1,33 @@
+{
+  "id": "beate-schnorrenberger",
+  "slug": "beate-schnorrenberger",
+  "name": "Beate Schnorrenberger",
+  "description": "Beate Schnorrenberger ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "akupunktur-tcm",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "steglitz-zehlendorf"
+  ],
+  "address": {
+    "street": "Gardeschützenweg 88",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12203",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.44591,
+    "lng": 13.30412
+  },
+  "phone": "03089201777",
+  "website": "http://www.beateschnorrenberger.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}

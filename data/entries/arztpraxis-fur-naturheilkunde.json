@@ -1,0 +1,33 @@
+{
+  "id": "arztpraxis-fur-naturheilkunde",
+  "slug": "arztpraxis-fur-naturheilkunde",
+  "name": "Arztpraxis für Naturheilkunde",
+  "description": "Arztpraxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
+  "lastUpdated": "2026-08-12",
+  "status": "open",
+  "categories": [
+    "homoeopathie",
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Börnestraße 28",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "13088",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.549856299999995,
+    "lng": 13.4488003
+  },
+  "phone": "03091147582",
+  "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
+  "website": "https://www.naturheilkunde-in-weissensee.de/",
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
+}
