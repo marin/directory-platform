@@ -1,0 +1,19 @@
+---
+import type { EntryCardViewModel } from "../../lib/data/view-models/entry.ts";
+import EntryCard from "../cards/EntryCard.astro";
+
+interface Props {
+  cards: EntryCardViewModel[];
+  title?: string;
+}
+const { cards, title = "Related providers" } = Astro.props;
+---
+
+{cards.length > 0 && (
+  <section aria-labelledby="related-heading">
+    <h2 id="related-heading">{title}</h2>
+    <div class="grid grid-2">
+      {cards.map((card) => <EntryCard card={card} />)}
+    </div>
+  </section>
+)}

@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import EntryCard from "../../components/cards/EntryCard.astro";
+import AggregateFacts from "../../components/collections/AggregateFacts.astro";
+import FaqSection from "../../components/faq/FaqSection.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import {
+  toEntryCardViewModel,
+  shouldIndexArea,
+} from "../../lib/data/view-models/entry.ts";
+import { computeAreaStats, computeCategoryStats } from "../../lib/aggregates/compute.ts";
+import { buildCollectionJsonLd, buildAggregateFactText } from "../../lib/seo/structured-data/builders.ts";
+import { areaUrl } from "../../lib/routing/paths.ts";
+import siteConfig from "../../../config/site.config.ts";
+
+export function getStaticPaths() {
+  const dataset = loadDataset();
+  return dataset.areas.map((area) => {
+    const count = computeAreaStats(dataset.entries, area.id).listingCount;
+    const { index, noindex } = shouldIndexArea(count);
+    if (!index && !noindex) return [];
+    return {
+      params: { id: area.slug },
+      props: { areaId: area.id, noindex },
+    };
+  }).flat();
+}
+
+const { areaId, noindex } = Astro.props;
+const dataset = loadDataset();
+const area = dataset.areas.find((a) => a.id === areaId)!;
+const openEntries = dataset.entries.filter(
+  (e) => e.isOpen && (e.areaIds ?? []).includes(areaId),
+);
+const stats = computeAreaStats(dataset.entries, areaId);
+const intro = dataset.areaIntros.get(areaId);
+const faq = dataset.areaFaqs.get(areaId);
+const cards = openEntries.map((e) =>
+  toEntryCardViewModel(e, dataset.categories, dataset.areas),
+);
+const jsonLd = buildCollectionJsonLd("area", area, openEntries, stats, faq?.faq);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const factText = buildAggregateFactText(stats, area.name);
+const pageEntries = cards.slice(0, siteConfig.pagination.areaPageSize);
+---
+
+<BaseLayout
+  title={area.name}
+  description={intro?.intro ?? area.description}
+  canonical={areaUrl(area.slug)}
+  noindex={noindex}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <h1>{area.name}</h1>
+  {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
+  <AggregateFacts text={factText} />
+  <div class="grid grid-2">
+    {pageEntries.map((card) => <EntryCard card={card} />)}
+  </div>
+  {faq && <FaqSection items={faq.faq} />}
+</BaseLayout>

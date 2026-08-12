@@ -1,0 +1,61 @@
+{
+  "id": "austin-wellness-massage",
+  "slug": "austin-wellness-massage",
+  "name": "Austin Wellness Massage",
+  "description": "Austin Wellness Massage provides professional services in Austin, Texas with licensed staff and transparent pricing.",
+  "lastUpdated": "2026-08-01",
+  "status": "open",
+  "categories": [
+    "wellness-massage"
+  ],
+  "areaIds": [
+    "central-austin"
+  ],
+  "address": {
+    "street": "100 Example St",
+    "locality": "Austin",
+    "region": "Texas",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 30.26,
+    "lng": -97.74
+  },
+  "phone": "+15125550101",
+  "website": "https://example-austin-wellness-massage.com",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Standard Session",
+      "durationMinutes": 60,
+      "price": 85
+    }
+  ]
+}

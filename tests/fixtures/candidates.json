@@ -1,0 +1,16 @@
+[
+  {
+    "externalId": "ChIJfixture1",
+    "name": "Fixture Wellness Spa",
+    "address": { "street": "200 Test St", "locality": "Austin", "region": "Texas", "country": "US" },
+    "phone": "+15125559999",
+    "website": "https://fixture-spa.example.com"
+  },
+  {
+    "externalId": "ChIJfixture2",
+    "name": "Fixture Deep Tissue",
+    "address": { "street": "201 Test St", "locality": "Austin", "region": "Texas", "country": "US" },
+    "phone": "+15125559998",
+    "website": "https://fixture-deep.example.com"
+  }
+]

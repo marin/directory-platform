@@ -1,0 +1,23 @@
+---
+import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+
+interface Props {
+  entry: NormalizedEntry;
+}
+const { entry } = Astro.props;
+const hours = entry.openingHours ?? [];
+---
+
+{entry.isOpen && hours.length > 0 && (
+  <section aria-labelledby="hours-heading">
+    <h2 id="hours-heading">Opening hours</h2>
+    <table>
+      <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+      <tbody>
+        {hours.map((h) => (
+          <tr><td>{h.day}</td><td>{h.open} – {h.close}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+)}

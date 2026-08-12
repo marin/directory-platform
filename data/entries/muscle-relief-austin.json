@@ -1,0 +1,61 @@
+{
+  "id": "muscle-relief-austin",
+  "slug": "muscle-relief-austin",
+  "name": "Muscle Relief Austin",
+  "description": "Muscle Relief Austin provides professional services in Austin, Texas with licensed staff and transparent pricing.",
+  "lastUpdated": "2026-08-01",
+  "status": "open",
+  "categories": [
+    "deep-tissue-therapy"
+  ],
+  "areaIds": [
+    "central-austin"
+  ],
+  "address": {
+    "street": "110 Example St",
+    "locality": "Austin",
+    "region": "Texas",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 30.270000000000003,
+    "lng": -97.75
+  },
+  "phone": "+15125550111",
+  "website": "https://example-muscle-relief-austin.com",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Standard Session",
+      "durationMinutes": 60,
+      "price": 88
+    }
+  ]
+}

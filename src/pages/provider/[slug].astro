@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import EntryHeader from "../../components/entry/EntryHeader.astro";
+import OffersSection from "../../components/entry/OffersSection.astro";
+import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astro";
+import ContactSection from "../../components/entry/ContactSection.astro";
+import LastUpdated from "../../components/entry/LastUpdated.astro";
+import RelatedEntries from "../../components/entry/RelatedEntries.astro";
+import FaqSection from "../../components/faq/FaqSection.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import {
+  toEntryViewModel,
+  toEntryCardViewModel,
+  getRelatedEntries,
+} from "../../lib/data/view-models/entry.ts";
+import { buildListingJsonLd } from "../../lib/seo/structured-data/builders.ts";
+import { entryUrl } from "../../lib/routing/paths.ts";
+import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
+
+export function getStaticPaths() {
+  const dataset = loadDataset();
+  return dataset.entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { slug: entry.slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const dataset = loadDataset();
+const entry = dataset.entries.find((e) => e.slug === slug);
+if (!entry) throw new Error(`Entry not found: ${slug}`);
+
+const vm = toEntryViewModel(entry, dataset.categories, dataset.areas, dataset.entries);
+const jsonLd = buildListingJsonLd(entry, vm.category);
+const related = getRelatedEntries(entry, dataset.entries).map((e) =>
+  toEntryCardViewModel(e, dataset.categories, dataset.areas),
+);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+---
+
+<BaseLayout
+  title={entry.name}
+  description={entry.description}
+  canonical={entryUrl(entry.slug)}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <article data-testid="entry-page">
+    <EntryHeader vm={vm} />
+    <section style="margin: 1.5rem 0;">
+      <h2>About</h2>
+      <p data-testid="entry-description">{entry.description}</p>
+    </section>
+    <OffersSection offers={vm.formattedOffers} isOpen={entry.isOpen} />
+    <OpeningHoursSection entry={entry} />
+    <ContactSection entry={entry} />
+    {(entry.faq ?? []).length > 0 && <FaqSection items={entry.faq!} />}
+    <RelatedEntries cards={related} />
+    <LastUpdated date={entry.lastUpdated} />
+  </article>
+</BaseLayout>

@@ -1,0 +1,10 @@
+---
+interface Props {
+  text: string;
+}
+const { text } = Astro.props;
+---
+
+<aside class="fact-block" data-testid="aggregate-facts">
+  <p><strong>Dataset facts:</strong> {text}</p>
+</aside>

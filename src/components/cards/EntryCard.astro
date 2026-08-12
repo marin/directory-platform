@@ -1,0 +1,17 @@
+---
+import type { EntryCardViewModel } from "../../lib/data/view-models/entry.ts";
+
+interface Props {
+  card: EntryCardViewModel;
+}
+const { card } = Astro.props;
+---
+
+<article class="card">
+  <h3 style="font-size: 1rem; margin-bottom: 0.25rem;">
+    <a href={card.href}>{card.name}</a>
+    {!card.isOpen && <span class="badge" style="margin-left: 0.5rem;">Closed</span>}
+  </h3>
+  <p class="muted" style="font-size: 0.875rem;">{card.primaryCategory}{card.areaName ? ` · ${card.areaName}` : ""}</p>
+  <p style="font-size: 0.9rem; margin-top: 0.5rem;">{card.description}</p>
+</article>

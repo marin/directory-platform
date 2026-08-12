@@ -1,0 +1,20 @@
+[
+  {
+    "id": "wellness-massage",
+    "name": "Wellness Massage",
+    "slug": "wellness-massage",
+    "description": "Therapeutic massage services."
+  },
+  {
+    "id": "deep-tissue-therapy",
+    "name": "Deep Tissue Therapy",
+    "slug": "deep-tissue-therapy",
+    "description": "Specialized deep tissue and sports massage."
+  },
+  {
+    "id": "spa-relaxation",
+    "name": "Spa & Relaxation",
+    "slug": "spa-relaxation",
+    "description": "Full-service spa treatments."
+  }
+]

@@ -1,0 +1,15 @@
+---
+import type { EntryViewModel } from "../../lib/data/view-models/entry.ts";
+
+interface Props {
+  vm: EntryViewModel;
+}
+const { vm } = Astro.props;
+const { entry } = vm;
+---
+
+<header>
+  <h1 data-testid="entry-name">{entry.nap.name}</h1>
+  {!entry.isOpen && <p class="badge" data-testid="closed-notice">Permanently closed</p>}
+  <p class="muted" style="margin-top: 0.5rem;">{vm.contextFact}</p>
+</header>

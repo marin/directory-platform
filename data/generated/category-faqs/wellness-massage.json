@@ -1,0 +1,13 @@
+{
+  "id": "wellness-massage",
+  "faq": [
+    {
+      "question": "How many wellness massage providers are open in Austin?",
+      "answer": "There are 6 open wellness massage providers in the Austin directory."
+    },
+    {
+      "question": "What is the typical price for a 60-minute session?",
+      "answer": "Among published rates, 60-minute sessions range from $65 to $90 with a median of $80."
+    }
+  ]
+}

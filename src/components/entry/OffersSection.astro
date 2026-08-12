@@ -1,0 +1,27 @@
+---
+interface Props {
+  offers: Array<{ name: string; price?: string; duration?: string; description?: string }>;
+  isOpen: boolean;
+}
+const { offers, isOpen } = Astro.props;
+---
+
+{isOpen && offers.length > 0 && (
+  <section aria-labelledby="offers-heading">
+    <h2 id="offers-heading">Services &amp; pricing</h2>
+    <table>
+      <thead>
+        <tr><th>Service</th><th>Duration</th><th>Price</th></tr>
+      </thead>
+      <tbody>
+        {offers.map((offer) => (
+          <tr>
+            <td>{offer.name}{offer.description ? ` — ${offer.description}` : ""}</td>
+            <td>{offer.duration ?? "—"}</td>
+            <td>{offer.price ?? "—"}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+)}

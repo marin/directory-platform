@@ -1,0 +1,61 @@
+{
+  "id": "south-lamar-massage",
+  "slug": "south-lamar-massage",
+  "name": "South Lamar Massage",
+  "description": "South Lamar Massage provides professional services in Austin, Texas with licensed staff and transparent pricing.",
+  "lastUpdated": "2026-08-01",
+  "status": "open",
+  "categories": [
+    "deep-tissue-therapy"
+  ],
+  "areaIds": [
+    "south-austin"
+  ],
+  "address": {
+    "street": "107 Example St",
+    "locality": "Austin",
+    "region": "Texas",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 30.267000000000003,
+    "lng": -97.747
+  },
+  "phone": "+15125550108",
+  "website": "https://example-south-lamar-massage.com",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Standard Session",
+      "durationMinutes": 60,
+      "price": 95
+    }
+  ]
+}

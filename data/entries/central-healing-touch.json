@@ -1,0 +1,61 @@
+{
+  "id": "central-healing-touch",
+  "slug": "central-healing-touch",
+  "name": "Central Healing Touch",
+  "description": "Central Healing Touch provides professional services in Austin, Texas with licensed staff and transparent pricing.",
+  "lastUpdated": "2026-08-01",
+  "status": "open",
+  "categories": [
+    "wellness-massage"
+  ],
+  "areaIds": [
+    "central-austin"
+  ],
+  "address": {
+    "street": "101 Example St",
+    "locality": "Austin",
+    "region": "Texas",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 30.261000000000003,
+    "lng": -97.741
+  },
+  "phone": "+15125550102",
+  "website": "https://example-central-healing-touch.com",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Standard Session",
+      "durationMinutes": 60,
+      "price": 75
+    }
+  ]
+}

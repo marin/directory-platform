@@ -1,0 +1,41 @@
+---
+import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+
+interface Props {
+  entry: NormalizedEntry;
+}
+const { entry } = Astro.props;
+const nap = entry.nap;
+---
+
+<section aria-labelledby="contact-heading">
+  <h2 id="contact-heading">Contact</h2>
+  <dl class="contact" data-testid="nap-block">
+    <dt>Name</dt>
+    <dd data-testid="nap-name">{nap.name}</dd>
+    {nap.formattedPhone && (
+      <>
+        <dt>Phone</dt>
+        <dd data-testid="nap-phone"><a href={`tel:${nap.phone}`}>{nap.formattedPhone}</a></dd>
+      </>
+    )}
+    {nap.formattedAddress && (
+      <>
+        <dt>Address</dt>
+        <dd data-testid="nap-address">{nap.formattedAddress}</dd>
+      </>
+    )}
+    {entry.email && (
+      <>
+        <dt>Email</dt>
+        <dd><a href={`mailto:${entry.email}`}>{entry.email}</a></dd>
+      </>
+    )}
+    {entry.website && (
+      <>
+        <dt>Website</dt>
+        <dd><a href={entry.website} rel="noopener noreferrer">{entry.website}</a></dd>
+      </>
+    )}
+  </dl>
+</section>

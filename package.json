@@ -1,0 +1,49 @@
+{
+  "name": "directory-platform",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Standalone reusable directory platform template",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "platformTemplate": {
+    "repo": "directory-platform",
+    "commit": "template"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/emit-vercel-redirects.mjs",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:all": "npm run build && vitest run",
+    "validate": "node scripts/validate.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "repo:scan": "node scripts/repo-scan.mjs",
+    "research:taxonomy": "node scripts/research/taxonomy-report.mjs",
+    "data:lobstr:pull": "node scripts/sources/lobstr/pull-results.mjs",
+    "data:lobstr:import": "node scripts/sources/lobstr/import-export.mjs",
+    "data:lobstr:normalize": "node scripts/sources/lobstr/normalize.mjs",
+    "data:deduplicate": "node scripts/data/deduplicate.mjs",
+    "data:firecrawl:scrape": "node scripts/sources/firecrawl/scrape-listing.mjs",
+    "data:merge": "node scripts/data/merge-proposal.mjs",
+    "data:generate": "node scripts/generate/generate-content.mjs",
+    "data:check:grounding": "node scripts/generate/check-grounding.mjs",
+    "data:check:uniqueness": "node scripts/generate/check-uniqueness.mjs",
+    "data:images:prepare": "node scripts/images/prepare-entry-images.mjs",
+    "data:review": "node scripts/data/review-report.mjs",
+    "data:review:ui": "node scripts/data/review-ui.mjs",
+    "entry:publish": "node scripts/publish-entry.mjs",
+    "entries:publish": "node scripts/publish-entry.mjs --batch",
+    "data:refresh": "node scripts/data/refresh.mjs",
+    "notify:index": "node scripts/notify-index.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^7.2.1",
+    "libphonenumber-js": "^1.12.36",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}

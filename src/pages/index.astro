@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/navigation/SiteHeader.astro";
+import EntryCard from "../components/cards/EntryCard.astro";
+import { loadDataset } from "../lib/data/load-dataset.ts";
+import { computeCategoryStats } from "../lib/aggregates/compute.ts";
+import { toEntryCardViewModel } from "../lib/data/view-models/entry.ts";
+import siteConfig from "../../config/site.config.ts";
+
+const dataset = loadDataset();
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const featured = dataset.entries
+  .filter((e) => e.isOpen)
+  .slice(0, 6)
+  .map((e) => toEntryCardViewModel(e, dataset.categories, dataset.areas));
+---
+
+<BaseLayout title={siteConfig.site.name} description={siteConfig.site.description}>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <h1>{siteConfig.site.name}</h1>
+  <p class="muted">{siteConfig.site.description}</p>
+
+  <h2>Browse by category</h2>
+  <div class="grid grid-3">
+    {categoriesWithCounts.map((cat) => (
+      <a href={`/category/${cat.slug}`} class="card" style="text-decoration: none; color: inherit;">
+        <strong>{cat.name}</strong>
+        <p class="muted">{cat.count} open {siteConfig.directory.entryPlural}</p>
+      </a>
+    ))}
+  </div>
+
+  {siteConfig.features.areas && (
+    <>
+      <h2>Browse by area</h2>
+      <div class="grid grid-2">
+        {dataset.areas.map((area) => (
+          <a href={`/area/${area.slug}`} class="card" style="text-decoration: none; color: inherit;">
+            <strong>{area.name}</strong>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  <h2>Featured {siteConfig.directory.entryPlural}</h2>
+  <div class="grid grid-2">
+    {featured.map((card) => <EntryCard card={card} />)}
+  </div>
+</BaseLayout>

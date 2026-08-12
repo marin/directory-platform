@@ -1,0 +1,61 @@
+{
+  "id": "east-side-massage",
+  "slug": "east-side-massage",
+  "name": "East Side Massage Co",
+  "description": "East Side Massage Co provides professional services in Austin, Texas with licensed staff and transparent pricing.",
+  "lastUpdated": "2026-08-01",
+  "status": "open",
+  "categories": [
+    "wellness-massage"
+  ],
+  "areaIds": [
+    "south-austin"
+  ],
+  "address": {
+    "street": "105 Example St",
+    "locality": "Austin",
+    "region": "Texas",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 30.265,
+    "lng": -97.74499999999999
+  },
+  "phone": "+15125550106",
+  "website": "https://example-east-side-massage.com",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Standard Session",
+      "durationMinutes": 60,
+      "price": 65
+    }
+  ]
+}

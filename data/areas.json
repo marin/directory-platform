@@ -1,0 +1,14 @@
+[
+  {
+    "id": "central-austin",
+    "name": "Central Austin",
+    "slug": "central-austin",
+    "description": "Downtown and central Austin neighborhoods."
+  },
+  {
+    "id": "south-austin",
+    "name": "South Austin",
+    "slug": "south-austin",
+    "description": "South Austin and South Lamar area."
+  }
+]
