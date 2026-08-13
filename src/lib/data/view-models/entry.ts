@@ -26,6 +26,7 @@ export interface EntryViewModel {
   href: string;
   contextFact: string;
   category: Category | undefined;
+  categories: Category[];
   areas: Area[];
   stats: AggregateStats;
   formattedOffers: Array<{
@@ -61,7 +62,10 @@ export function toEntryViewModel(
   areas: Area[],
   allEntries: NormalizedEntry[],
 ): EntryViewModel {
-  const category = categories.find((c) => c.id === entry.categories[0]);
+  const entryCategories = entry.categories
+    .map((id) => categories.find((c) => c.id === id))
+    .filter((c): c is Category => c !== undefined);
+  const category = entryCategories[0];
   const entryAreas = areas.filter((a) => entry.areaIds?.includes(a.id));
   const stats = computeCategoryStats(allEntries, entry.categories[0] ?? "");
   const contextFact = category
@@ -73,6 +77,7 @@ export function toEntryViewModel(
     href: entryPath(entry.slug),
     contextFact,
     category,
+    categories: entryCategories,
     areas: entryAreas,
     stats,
     formattedOffers: (entry.offers ?? []).map((offer) => ({
