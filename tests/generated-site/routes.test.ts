@@ -52,6 +52,22 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="aggregate-facts"');
   });
 
+  it("renders all category tags for multi-category entries", () => {
+    const multiCategoryEntry = dataset.entries.find((entry) => entry.categories.length >= 2);
+    if (!multiCategoryEntry) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${multiCategoryEntry.slug}/index.html`,
+    );
+    for (const id of multiCategoryEntry.categories) {
+      const category = dataset.categories.find((c) => c.id === id);
+      expect(category).toBeDefined();
+      expect(html).toContain(`/category/${category!.slug}`);
+    }
+    const linkCount = (html.match(/data-testid="entry-category-link"/g) ?? []).length;
+    expect(linkCount).toBe(multiCategoryEntry.categories.length);
+  });
+
   it("renders booking CTA when bookingUrl is set", () => {
     const entryWithBooking = dataset.entries.find(
       (entry) => entry.isOpen && entry.bookingUrl,
