@@ -26,7 +26,23 @@
   "email": "clz.heilpflanzen@gmail.com",
   "website": "http://www.heilpraktiker-blutegel.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-leppla-zei?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "13:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,23 @@
   "email": "pt-oswald@gmx.de",
   "website": "https://www.physiotherapiespezialist.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-physiotherapie/berlin/oswald-erik",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "16:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,28 @@
   "email": "erikpudel.pt@gmx.de",
   "website": "https://www.physioerik.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6407958372878823594",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-physiotherapie/berlin/erik-pudel?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "14:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

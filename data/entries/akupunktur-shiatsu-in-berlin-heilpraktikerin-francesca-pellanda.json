@@ -27,7 +27,33 @@
   "email": "kontakt@francescapellanda.de",
   "website": "http://www.francescapellanda.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/francesca-pellanda?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,33 @@
   "phone": "03066625452",
   "email": "atz.rez@gmail.com",
   "website": "https://www.ananda-atz.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "12:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -117,5 +117,5 @@ export function buildContextFact(
   categoryCount: number,
   categoryName: string,
 ): string {
-  return `One of ${categoryCount} open ${siteConfig.directory.entryPlural} in ${categoryName}.`;
+  return `Einer von ${categoryCount} ${siteConfig.directory.entryPlural}n in ${categoryName}.`;
 }

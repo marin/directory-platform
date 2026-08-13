@@ -26,7 +26,43 @@
   "phone": "03091535510",
   "website": "http://www.xn--homopathie-naturheilkunde-0rc.com/de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernhard-mitschele?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "08:00",
+      "close": "22:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

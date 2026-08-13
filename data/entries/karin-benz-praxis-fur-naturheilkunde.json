@@ -24,7 +24,38 @@
   },
   "phone": "03085409990",
   "website": "http://www.karin-benz-die-praxis.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,33 @@
   "phone": "03026076710",
   "email": "info@praxisnolte.de",
   "website": "http://www.praxisnolte.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "14:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

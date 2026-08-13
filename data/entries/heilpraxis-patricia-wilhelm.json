@@ -25,7 +25,33 @@
   "phone": "017656938482",
   "email": "info@heilpraxis-pw.de",
   "website": "http://heilpraxis-pw.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

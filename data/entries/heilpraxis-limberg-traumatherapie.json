@@ -24,7 +24,28 @@
   },
   "phone": "03045310954",
   "website": "https://www.heilpraxis-limberg.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "13:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "15:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

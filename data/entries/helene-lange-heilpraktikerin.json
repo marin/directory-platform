@@ -25,7 +25,18 @@
   "phone": "015756379500",
   "email": "praxis@helene-lange.com",
   "website": "https://www.helene-lange.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

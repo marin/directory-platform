@@ -26,7 +26,33 @@
   "phone": "03083209608",
   "email": "info@osteopathie-tiergarten.de",
   "website": "https://osteopathie-tiergarten.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "13:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

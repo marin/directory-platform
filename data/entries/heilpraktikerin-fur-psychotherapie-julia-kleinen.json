@@ -26,7 +26,33 @@
   "phone": "017692358729",
   "website": "https://ifs-therapie.berlin/",
   "bookingUrl": "https://my.lemniscus.de/pss/5c5a69bd-d0fa-4302-aadc-77050d689501",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

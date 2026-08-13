@@ -25,7 +25,28 @@
   },
   "phone": "01702817711",
   "website": "http://knutrauter.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

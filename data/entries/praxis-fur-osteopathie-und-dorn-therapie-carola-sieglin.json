@@ -27,7 +27,28 @@
   "email": "kontakt@praxis-sieglin.de",
   "website": "http://www.praxis-sieglin.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/carola-sieglin?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "13:30",
+      "close": "19:15"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

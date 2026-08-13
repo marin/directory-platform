@@ -24,7 +24,33 @@
   },
   "phone": "03051060422",
   "website": "https://www.dobbermann.eu/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "07:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "07:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

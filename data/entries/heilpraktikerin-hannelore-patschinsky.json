@@ -24,7 +24,18 @@
   },
   "phone": "01732817684",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/hannelore-patschinsky?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

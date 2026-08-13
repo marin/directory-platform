@@ -25,7 +25,33 @@
   },
   "phone": "03042025091",
   "website": "http://www.naturheilpraxis-ollnow.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,48 @@
   "phone": "03032707300",
   "website": "http://www.naturheilpraxis-lorentz-ristow.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carla-lorentz-ristow?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "07:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "16:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "07:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "16:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "07:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "16:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

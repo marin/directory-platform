@@ -26,7 +26,33 @@
   "phone": "03034660470",
   "website": "https://www.maikheyne.de/",
   "bookingUrl": "https://calendly.com/maikheyne/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:30",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -24,7 +24,18 @@
   },
   "phone": "01705804138",
   "website": "http://www.heilpraktiker-bensmann.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "17:30",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "17:30",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

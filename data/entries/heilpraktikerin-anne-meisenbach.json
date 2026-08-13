@@ -24,7 +24,33 @@
   },
   "phone": "015238564179",
   "website": "https://www.deine-naturheilkraft.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

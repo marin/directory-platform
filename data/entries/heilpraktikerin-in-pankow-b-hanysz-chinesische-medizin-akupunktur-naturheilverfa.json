@@ -28,7 +28,28 @@
   "phone": "03020697273",
   "email": "heilpraxis.hanysz@gmx.de",
   "website": "https://heilpraktikerin-in-pankow.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

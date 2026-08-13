@@ -25,7 +25,13 @@
   "phone": "01631374861",
   "email": "naturheilpraxis-amg@outlook.de",
   "website": "http://www.naturheilpraxis-amg.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

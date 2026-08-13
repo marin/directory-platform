@@ -23,7 +23,28 @@
     "lng": 13.284192899999999
   },
   "phone": "0304335055",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "11:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

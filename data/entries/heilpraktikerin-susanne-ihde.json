@@ -23,7 +23,23 @@
     "lng": 13.4510811
   },
   "phone": "01774771795",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

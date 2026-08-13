@@ -27,7 +27,33 @@
   "email": "dynamictouch@posteo.de",
   "website": "http://dynamictouch.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nelly-grotefendt?pid=practice-462488&?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

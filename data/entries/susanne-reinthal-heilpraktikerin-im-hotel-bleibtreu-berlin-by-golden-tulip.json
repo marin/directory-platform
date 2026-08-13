@@ -25,7 +25,38 @@
   "phone": "01772585113",
   "email": "heilpraktikerin@berlin.de",
   "website": "http://susanne-reinthal-hp.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "07:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "07:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "07:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "07:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "07:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "07:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

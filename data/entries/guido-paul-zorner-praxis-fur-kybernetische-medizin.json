@@ -28,7 +28,33 @@
   "email": "join@cybernetic.life",
   "website": "https://cybernetic.life/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/guido-paul-zoerner?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

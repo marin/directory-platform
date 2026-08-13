@@ -26,7 +26,33 @@
   "email": "gamlahealing@gmail.com",
   "website": "https://www.gamlahealing.com/",
   "bookingUrl": "https://www.gamlahealing.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:30",
+      "close": "22:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

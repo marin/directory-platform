@@ -26,7 +26,33 @@
   "phone": "017642051816",
   "email": "info@hannahsteiner.de",
   "website": "https://praxishannahsteiner.live-website.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -28,7 +28,33 @@
   "phone": "01713194527",
   "website": "https://www.heilpraktiker-akupunktur.com/",
   "bookingUrl": "https://www.heilpraktiker-akupunktur.com/contact/?utm_source=GB_Kontakt&utm_id=GB_Kontakt",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

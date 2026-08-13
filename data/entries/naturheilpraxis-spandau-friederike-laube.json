@@ -23,7 +23,18 @@
     "lng": 13.2072024
   },
   "phone": "01723077316",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

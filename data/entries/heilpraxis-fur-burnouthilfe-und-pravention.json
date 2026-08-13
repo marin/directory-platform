@@ -23,7 +23,23 @@
     "lng": 13.5205104
   },
   "phone": "03051488577",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "19:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "17:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

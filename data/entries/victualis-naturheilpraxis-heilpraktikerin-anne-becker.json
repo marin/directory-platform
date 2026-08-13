@@ -26,7 +26,38 @@
   "email": "info@victualis-naturheilpraxis.de",
   "website": "https://www.victualis-naturheilpraxis.de/",
   "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/becker-anne?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "07:30",
+      "close": "14:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "21:15"
+    },
+    {
+      "day": "Thursday",
+      "open": "07:30",
+      "close": "14:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "14:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

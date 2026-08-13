@@ -26,7 +26,33 @@
   "email": "info@chiro-praxis-berlin.de",
   "website": "http://chiro-praxis-berlin.de/",
   "bookingUrl": "https://www.etermin.net/chiro-praxis-berlin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

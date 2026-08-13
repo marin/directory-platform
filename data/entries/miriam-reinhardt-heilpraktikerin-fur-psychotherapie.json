@@ -25,7 +25,33 @@
   },
   "phone": "01794569434",
   "website": "http://www.krisenbewaeltigen-therapie.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -23,7 +23,48 @@
     "lng": 13.497830299999999
   },
   "phone": "0309866791",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Monday",
+      "open": "14:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:30",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

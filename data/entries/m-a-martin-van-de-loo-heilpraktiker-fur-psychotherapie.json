@@ -26,7 +26,13 @@
   "email": "martin.vandeloo@googlemail.com",
   "website": "http://www.martinvandeloo.de/",
   "bookingUrl": "https://www.martinvandeloo.de/termine-und-kontakt/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

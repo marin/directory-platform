@@ -26,7 +26,33 @@
   "email": "praxis@darmsanierung-berlin.com",
   "website": "https://darmsanierung-berlin.com/",
   "bookingUrl": "https://darmsanierung-berlin.com/termin-vereinbaren/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "17:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "17:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "17:30"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

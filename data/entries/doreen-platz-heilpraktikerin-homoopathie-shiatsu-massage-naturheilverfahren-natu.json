@@ -27,7 +27,33 @@
   "email": "info@platz-fuer-gesundheit.de",
   "website": "https://www.platz-fuer-gesundheit.de/",
   "bookingUrl": "https://app.cituro.com/booking/heilpraktikerin-doreen-platz",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

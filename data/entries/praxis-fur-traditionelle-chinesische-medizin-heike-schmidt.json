@@ -26,7 +26,33 @@
   "phone": "03056583188",
   "email": "schmidt@agtcm-therapeut.de",
   "website": "http://www.naturheilpraxis-heike-schmidt.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

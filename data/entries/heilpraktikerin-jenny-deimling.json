@@ -26,7 +26,18 @@
   "email": "kontakt@heilpraktikerin-jenny-deimling.de",
   "website": "https://www.heilpraktikerin-jenny-deimling.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/deimling-jenny",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "14:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

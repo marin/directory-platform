@@ -30,7 +30,28 @@
   "email": "praxis@nhzr.de",
   "website": "https://heilpraktiker-seiffert.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website-link",
   "bookingUrl": "https://heilpraktiker-seiffert.de/kontakt/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=link-buchungstool",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

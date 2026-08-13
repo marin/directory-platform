@@ -24,7 +24,18 @@
   },
   "email": "info@praxis-larissaschmidt.de",
   "website": "https://www.praxis-larissaschmidt.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Friday",
+      "open": "14:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

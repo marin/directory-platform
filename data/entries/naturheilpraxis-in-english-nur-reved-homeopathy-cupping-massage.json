@@ -24,7 +24,13 @@
     "lng": 13.4267864
   },
   "website": "https://www.heilpraktiker-naturopath-berlin.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "22:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

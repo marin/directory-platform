@@ -67,7 +67,7 @@ describe("generated site", () => {
   it("renders closed notice when closed entries exist", () => {
     if (!closedEntry) return;
     const html = readDist(`${siteConfig.directory.entryRoute}/${closedEntry.slug}/index.html`);
-    expect(html).toContain("Permanently closed");
+    expect(html).toContain("Dauerhaft geschlossen");
   });
 
   it("includes aggregate facts on category pages", () => {

@@ -23,7 +23,33 @@
     "lng": 13.300835699999999
   },
   "phone": "03063374466",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

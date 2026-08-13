@@ -25,7 +25,23 @@
   "phone": "01713541463",
   "email": "motorradleder@hotmail.com",
   "website": "http://www.marcusschuetz.de/praxis",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

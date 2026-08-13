@@ -27,7 +27,33 @@
   "email": "info@naturheilpraxis-kniffke.de",
   "website": "https://www.naturheilpraxis-kniffke.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/sebastian-kniffke?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "19:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

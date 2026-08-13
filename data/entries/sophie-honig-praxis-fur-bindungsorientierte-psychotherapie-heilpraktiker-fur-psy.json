@@ -25,7 +25,23 @@
   },
   "website": "http://www.sophie-honig.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/sophie-honig?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "14:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "14:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

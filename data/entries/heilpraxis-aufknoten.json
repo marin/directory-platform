@@ -26,7 +26,23 @@
   "phone": "01623459349",
   "website": "http://www.heilpraxis-aufknoten.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carola-sterniczuk?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "14:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

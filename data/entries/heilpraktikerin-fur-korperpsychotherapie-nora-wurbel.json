@@ -26,7 +26,28 @@
   "phone": "017630589505",
   "email": "norawuerbel@gmx.de",
   "website": "http://www.nora-wuerbel.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

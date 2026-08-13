@@ -25,7 +25,23 @@
   },
   "website": "https://maximtherapy.com/",
   "bookingUrl": "https://www.maximtherapy.com/book/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

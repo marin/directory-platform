@@ -24,7 +24,33 @@
     "lng": 13.396143799999999
   },
   "phone": "03021092994",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

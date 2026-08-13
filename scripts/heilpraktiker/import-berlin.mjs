@@ -2,6 +2,7 @@
 import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT } from "../lib/work-utils.mjs";
+import { parseGermanOpeningHours } from "../../src/lib/data/parse-opening-hours.ts";
 
 const CSV_PATH = join(
   ROOT,
@@ -190,7 +191,7 @@ function rowToEntry(row, slug) {
     email: normalizeEmail(row.EMAIL),
     website: normalizeWebsite(row.WEBSITE),
     bookingUrl: normalizeWebsite(row["BOOKING LINK"]),
-    openingHours: [],
+    openingHours: parseGermanOpeningHours(row["OPENING HOURS"]),
     offers: [],
     images: [],
     faq: [],

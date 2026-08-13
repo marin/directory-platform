@@ -27,7 +27,23 @@
   "email": "sarah.henschel@natology.de",
   "website": "https://www.natology.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/sarah-henschel/booking/new-patient?specialityId=1236&profile_skipped=true&utm_campaign=website-button&bookingFunnelSource=external_referral",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "16:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "16:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "16:00",
+      "close": "19:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

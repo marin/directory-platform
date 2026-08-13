@@ -27,7 +27,33 @@
   "email": "office@tobias-osteopathie.com",
   "website": "http://www.tobias-osteopathie.com/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin-stadt/andree-tobias?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

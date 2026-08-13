@@ -25,7 +25,23 @@
   "phone": "017661924887",
   "website": "https://rekaheilpraktikerin.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/reka-cegledi-berlin?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Thursday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

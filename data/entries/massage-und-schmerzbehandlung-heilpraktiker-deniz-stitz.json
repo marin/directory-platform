@@ -26,7 +26,43 @@
   "phone": "01715671290",
   "email": "deniz.stitz@gmx.de",
   "website": "https://www.heilpraktiker-deniz-stitz.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "08:00",
+      "close": "22:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -23,7 +23,13 @@
     "lng": 13.6240487
   },
   "phone": "01732817684",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

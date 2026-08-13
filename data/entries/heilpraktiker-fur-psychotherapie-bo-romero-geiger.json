@@ -26,7 +26,23 @@
   "email": "kontakt@boromerogeiger.com",
   "website": "https://www.boromerogeiger.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/bo-romero-geiger?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

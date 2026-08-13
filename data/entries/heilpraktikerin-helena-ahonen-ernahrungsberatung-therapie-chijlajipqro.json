@@ -27,7 +27,43 @@
   "email": "mustermann@beispiel.de",
   "website": "http://www.heilpraxis-ahonen.de/",
   "bookingUrl": "https://www.heilpraxis-ahonen.de/english/book-appointment/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,23 @@
   "email": "mail@piagoetz.com",
   "website": "https://piagoetz.com/",
   "bookingUrl": "https://my.lemniscus.de/pss/dc6acf00-fdb8-4fef-abb1-2df415757103https://app.cituro.com/booking/praxis-piagoetz",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

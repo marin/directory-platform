@@ -26,7 +26,38 @@
   "email": "info@gesund-inberlin.de",
   "website": "https://www.gesund-inberlin.de/?utm_source=google&utm_medium=orgnanic&utm_campaign=gmb",
   "bookingUrl": "https://www.gesund-inberlin.de/termin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

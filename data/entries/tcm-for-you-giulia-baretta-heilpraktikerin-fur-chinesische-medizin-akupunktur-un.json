@@ -26,7 +26,23 @@
   "phone": "017686658525",
   "website": "https://www.tcmforyou-giuliabaretta.de/",
   "bookingUrl": "https://tidycal.com/giuliatcmforyou",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:30",
+      "close": "15:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

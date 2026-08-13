@@ -25,7 +25,33 @@
   "phone": "015754426326",
   "email": "kontakt@rosasanz.de",
   "website": "https://www.rosasanz.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

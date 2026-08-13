@@ -26,7 +26,33 @@
   "phone": "01796607316",
   "email": "ellenkruschwitz@heilwerkberlin.de",
   "website": "https://heilwerkberlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "14:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "14:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

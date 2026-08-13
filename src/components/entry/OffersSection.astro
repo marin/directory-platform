@@ -8,10 +8,10 @@ const { offers, isOpen } = Astro.props;
 
 {isOpen && offers.length > 0 && (
   <section aria-labelledby="offers-heading">
-    <h2 id="offers-heading">Services &amp; pricing</h2>
+    <h2 id="offers-heading">Leistungen &amp; Preise</h2>
     <table>
       <thead>
-        <tr><th>Service</th><th>Duration</th><th>Price</th></tr>
+        <tr><th>Leistung</th><th>Dauer</th><th>Preis</th></tr>
       </thead>
       <tbody>
         {offers.map((offer) => (

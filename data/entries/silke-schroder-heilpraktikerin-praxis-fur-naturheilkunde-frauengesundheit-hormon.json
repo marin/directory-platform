@@ -25,7 +25,23 @@
   "phone": "015774942927",
   "website": "https://www.heilpraxis-silke-schroeder.de/",
   "bookingUrl": "https://www.heilpraxis-silke-schroeder.de/Kontakt",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "13:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

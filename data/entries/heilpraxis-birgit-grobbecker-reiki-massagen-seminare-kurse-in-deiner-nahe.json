@@ -25,7 +25,33 @@
   "phone": "03063379133",
   "email": "info@heilpraxis-grobbecker.de",
   "website": "https://www.heilpraxis-grobbecker.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,33 @@
   },
   "phone": "017661853140",
   "website": "https://www.praxis-serret.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

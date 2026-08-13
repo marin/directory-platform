@@ -27,7 +27,33 @@
   "email": "info@manu-lemke.de",
   "website": "https://manu-lemke.de/?utm_source=gmb",
   "bookingUrl": "https://www.jameda.de/berlin/heilpraktiker/colon-hydro-therapie/manuela-lemke/uebersicht/81362070_1/?utm_medium=GMB_APPOINTMENT&utm_source=GMB_APPOINTMENT&utm_campaign=GMB_APPOINTMENT",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

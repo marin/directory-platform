@@ -26,7 +26,33 @@
   "email": "info@aesthetikpraxisberlin.de",
   "website": "https://aesthetikpraxisberlin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb",
   "bookingUrl": "https://aesthetikpraxisberlin.de/termin-buchen/?utm_source=google&utm_medium=local&utm_campaign=gmb",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

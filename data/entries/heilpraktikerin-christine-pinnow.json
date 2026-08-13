@@ -25,7 +25,33 @@
   "phone": "015678195455",
   "email": "kontakt@praxispinnow.de",
   "website": "https://www.praxispinnow.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

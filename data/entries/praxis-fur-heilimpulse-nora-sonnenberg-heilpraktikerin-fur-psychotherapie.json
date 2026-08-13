@@ -26,7 +26,33 @@
   "phone": "03021025915",
   "email": "kontakt@heilimpulse-berlin.de",
   "website": "http://www.heilimpulse-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -21,7 +21,7 @@ const hasActions =
           rel="noopener noreferrer"
           data-testid="cta-booking"
         >
-          Book appointment
+          Termin buchen
         </a>
       )}
       {entry.website && (
@@ -36,7 +36,7 @@ const hasActions =
       )}
       {entry.nap.formattedPhone && (
         <a class="cta" href={`tel:${entry.nap.phone}`} data-testid="cta-phone">
-          Call {entry.nap.formattedPhone}
+          Anrufen: {entry.nap.formattedPhone}
         </a>
       )}
     </div>

@@ -25,7 +25,33 @@
   "phone": "03034501644",
   "email": "annette_ufermann@gmx.de",
   "website": "http://www.naturheilpraxis-ufermann.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

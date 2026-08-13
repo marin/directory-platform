@@ -26,7 +26,43 @@
   "phone": "015730208093",
   "website": "https://spurman-psychotherapie.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/natalia-spurman",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "08:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

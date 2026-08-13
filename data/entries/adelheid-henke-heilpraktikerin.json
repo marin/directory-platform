@@ -25,7 +25,18 @@
   "phone": "0308336071",
   "email": "mail@adelheidhenke.de",
   "website": "https://adelheidhenke.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

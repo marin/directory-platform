@@ -25,7 +25,33 @@
   "phone": "017648314224",
   "email": "praxis@miriammarkhoff.de",
   "website": "http://miriammarkhoff.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "13:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

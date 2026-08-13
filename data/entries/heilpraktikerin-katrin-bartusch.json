@@ -23,7 +23,23 @@
     "lng": 13.4145094
   },
   "website": "https://www.katrinbartusch.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

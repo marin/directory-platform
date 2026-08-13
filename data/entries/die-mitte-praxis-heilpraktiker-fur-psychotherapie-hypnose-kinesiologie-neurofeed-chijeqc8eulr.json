@@ -27,7 +27,53 @@
   "phone": "03027583216",
   "email": "kontakt@boettiger-psychotherapie.de",
   "website": "https://www.mitte-praxis.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

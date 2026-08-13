@@ -28,7 +28,23 @@
   "phone": "0306610006",
   "website": "https://naturheilpraxis-song.jimdofree.com/",
   "bookingUrl": "https://www.timify.com/de-de/profile/naturheilpraxis-song/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:15",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

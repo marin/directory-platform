@@ -23,7 +23,18 @@
     "lng": 13.315883099999999
   },
   "phone": "03089640162",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "20:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

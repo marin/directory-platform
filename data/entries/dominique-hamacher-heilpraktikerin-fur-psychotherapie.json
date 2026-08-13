@@ -27,7 +27,43 @@
   "email": "praxis@heilpraxis-kaulsdorf.de",
   "website": "http://www.heilpraxis-kaulsdorf.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dominique-hamacher",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "18:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "18:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "18:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "18:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

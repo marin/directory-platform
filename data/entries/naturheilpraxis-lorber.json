@@ -25,7 +25,18 @@
   "phone": "03029364733",
   "email": "praxislorber@web.de",
   "website": "http://naturheilpraxis-lorber.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "14:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -11,21 +11,21 @@ export function buildLlmsTxt(dataset: Dataset): string {
     "",
     `> ${siteConfig.site.description}`,
     "",
-    `Geography: ${siteConfig.geography.locality}, ${siteConfig.geography.region}, ${siteConfig.geography.country}`,
-    `Niche: ${siteConfig.directory.entryPlural}`,
+    `Region: ${siteConfig.geography.locality}, ${siteConfig.geography.region}, ${siteConfig.geography.country}`,
+    `Fachrichtung: ${siteConfig.directory.entryPlural}`,
     "",
-    "## Site-wide statistics",
-    `- Open listings: ${siteStats.listingCount}`,
+    "## Statistiken",
+    `- Aktive Einträge: ${siteStats.listingCount}`,
   ];
   if (siteStats.priceStats.median !== undefined) {
-    lines.push(`- Median price: $${siteStats.priceStats.median}`);
+    lines.push(`- Medianpreis: ${siteStats.priceStats.median} ${siteConfig.directory.currency}`);
   }
-  lines.push("", "## Categories");
+  lines.push("", "## Kategorien");
   for (const cat of dataset.categories) {
     const stats = computeCategoryStats(dataset.entries, cat.id);
     if (stats.listingCount === 0) continue;
     lines.push(
-      `- ${cat.name}: ${stats.listingCount} listings — ${absoluteUrl(categoryPath(cat.slug))}`,
+      `- ${cat.name}: ${stats.listingCount} Einträge — ${absoluteUrl(categoryPath(cat.slug))}`,
     );
   }
   return lines.join("\n");
@@ -33,7 +33,7 @@ export function buildLlmsTxt(dataset: Dataset): string {
 
 export function buildLlmsFullTxt(dataset: Dataset): string {
   const base = buildLlmsTxt(dataset);
-  const lines: string[] = [base, "", "## Listings"];
+  const lines: string[] = [base, "", "## Einträge"];
   for (const entry of dataset.entries.filter((e) => e.isOpen)) {
     const cat = dataset.categories.find((c) => c.id === entry.categories[0]);
     const area = dataset.areas.find((a) => entry.areaIds?.includes(a.id));

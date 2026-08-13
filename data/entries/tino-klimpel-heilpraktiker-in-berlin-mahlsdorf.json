@@ -25,7 +25,48 @@
   "phone": "017660033474",
   "website": "http://www.tino-klimpel.de/",
   "bookingUrl": "https://www.tino-klimpel.de/workshop-einfuehrung-in-die-emmet-technik.html",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:30",
+      "close": "16:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "12:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

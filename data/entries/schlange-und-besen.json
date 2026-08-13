@@ -25,7 +25,33 @@
   "phone": "03058885707",
   "email": "kontakt@schlange-und-besen.de",
   "website": "http://www.schlange-und-besen.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

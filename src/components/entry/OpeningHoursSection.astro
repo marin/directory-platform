@@ -1,21 +1,39 @@
 ---
 import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+import { groupOpeningHoursByDay } from "../../lib/data/parse-opening-hours.ts";
 
 interface Props {
   entry: NormalizedEntry;
 }
 const { entry } = Astro.props;
-const hours = entry.openingHours ?? [];
+const groupedHours = groupOpeningHoursByDay(entry.openingHours ?? []);
+
+const dayNames: Record<string, string> = {
+  Monday: "Montag",
+  Tuesday: "Dienstag",
+  Wednesday: "Mittwoch",
+  Thursday: "Donnerstag",
+  Friday: "Freitag",
+  Saturday: "Samstag",
+  Sunday: "Sonntag",
+};
 ---
 
-{entry.isOpen && hours.length > 0 && (
+{entry.isOpen && groupedHours.length > 0 && (
   <section aria-labelledby="hours-heading">
-    <h2 id="hours-heading">Opening hours</h2>
+    <h2 id="hours-heading">Öffnungszeiten</h2>
     <table>
-      <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+      <thead><tr><th>Tag</th><th>Uhrzeiten</th></tr></thead>
       <tbody>
-        {hours.map((h) => (
-          <tr><td>{h.day}</td><td>{h.open} – {h.close}</td></tr>
+        {groupedHours.map((dayHours) => (
+          <tr>
+            <td>{dayNames[dayHours.day] ?? dayHours.day}</td>
+            <td>
+              {dayHours.ranges
+                .map((range) => `${range.open} – ${range.close}`)
+                .join(", ")}
+            </td>
+          </tr>
         ))}
       </tbody>
     </table>

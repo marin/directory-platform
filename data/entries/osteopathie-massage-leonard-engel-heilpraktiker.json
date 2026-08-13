@@ -26,7 +26,18 @@
   "phone": "015731726000",
   "email": "info@osteopathie-leonardengel.de",
   "website": "https://osteopathie-leonardengel.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:45",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

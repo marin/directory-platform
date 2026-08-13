@@ -27,7 +27,33 @@
   "phone": "0308329027",
   "website": "https://praxis-kinderwunsch-berlin.de/",
   "bookingUrl": "https://praxis-kinderwunsch-berlin.de/termin-buchen-kinderwunsch-berlin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:30",
+      "close": "16:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

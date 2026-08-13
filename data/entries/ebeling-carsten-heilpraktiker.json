@@ -26,7 +26,33 @@
   "email": "info@praxis-ebeling.de",
   "website": "http://www.praxis-ebeling.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/naturheilpraxis-carsten-ebeling",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

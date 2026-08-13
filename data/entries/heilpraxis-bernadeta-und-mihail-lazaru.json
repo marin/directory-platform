@@ -23,7 +23,43 @@
     "lng": 13.4035254
   },
   "phone": "03076902697",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []
