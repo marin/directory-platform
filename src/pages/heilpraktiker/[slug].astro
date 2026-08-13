@@ -9,7 +9,6 @@ import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astr
 import ContactSection from "../../components/entry/ContactSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import RelatedEntries from "../../components/entry/RelatedEntries.astro";
-import AggregateFacts from "../../components/collections/AggregateFacts.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
@@ -18,10 +17,7 @@ import {
   toEntryCardViewModel,
   getRelatedEntries,
 } from "../../lib/data/view-models/entry.ts";
-import {
-  buildListingJsonLd,
-  buildAggregateFactText,
-} from "../../lib/seo/structured-data/builders.ts";
+import { buildListingJsonLd } from "../../lib/seo/structured-data/builders.ts";
 import { entryUrl, homePath, categoryPath, areaPath } from "../../lib/routing/paths.ts";
 import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
 
@@ -58,9 +54,6 @@ const breadcrumbItems = [
     : []),
   { label: entry.name },
 ];
-const factText = vm.category
-  ? buildAggregateFactText(vm.stats, vm.category.name)
-  : undefined;
 ---
 
 <BaseLayout
@@ -74,7 +67,6 @@ const factText = vm.category
     <Breadcrumbs items={breadcrumbItems} />
     <EntryHeader vm={vm} />
     <EntryCtaBar entry={entry} />
-    {factText && <AggregateFacts text={factText} />}
     <section style="margin: 1.5rem 0;">
       <h2>Über</h2>
       <p data-testid="entry-description">{entry.description}</p>

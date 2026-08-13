@@ -2,8 +2,8 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import EntryCard from "../../components/cards/EntryCard.astro";
-import AggregateFacts from "../../components/collections/AggregateFacts.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
+import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
 import {
@@ -11,7 +11,7 @@ import {
   shouldIndexCategory,
 } from "../../lib/data/view-models/entry.ts";
 import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
-import { buildCollectionJsonLd, buildAggregateFactText } from "../../lib/seo/structured-data/builders.ts";
+import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
 import { categoryPath, categoryUrl } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import PaginationNav from "../../components/navigation/PaginationNav.astro";
@@ -47,7 +47,6 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
-const factText = buildAggregateFactText(stats, category.name);
 const pageSize = siteConfig.pagination.categoryPageSize;
 const currentPage = 1;
 const lastPage = computeTotalPages(openEntries.length, pageSize);
@@ -64,7 +63,6 @@ const pageEntries = pageSlice(cards, currentPage, pageSize);
   <JsonLd slot="head" data={jsonLd} />
   <h1>{category.name}</h1>
   {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
-  <AggregateFacts text={factText} />
   <div class="grid grid-2">
     {pageEntries.map((card) => <EntryCard card={card} />)}
   </div>
@@ -74,4 +72,5 @@ const pageEntries = pageSlice(cards, currentPage, pageSize);
     basePath={categoryPath(category.slug)}
   />
   {faq && <FaqSection items={faq.faq} />}
+  {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
 </BaseLayout>

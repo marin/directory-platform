@@ -2,8 +2,8 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import SiteHeader from "../../../components/navigation/SiteHeader.astro";
 import EntryCard from "../../../components/cards/EntryCard.astro";
-import AggregateFacts from "../../../components/collections/AggregateFacts.astro";
 import FaqSection from "../../../components/faq/FaqSection.astro";
+import LastUpdated from "../../../components/entry/LastUpdated.astro";
 import JsonLd from "../../../components/seo/JsonLd.astro";
 import PaginationNav from "../../../components/navigation/PaginationNav.astro";
 import { loadDataset } from "../../../lib/data/load-dataset.ts";
@@ -12,7 +12,7 @@ import {
   shouldIndexArea,
 } from "../../../lib/data/view-models/entry.ts";
 import { computeAreaStats, computeCategoryStats } from "../../../lib/aggregates/compute.ts";
-import { buildCollectionJsonLd, buildAggregateFactText } from "../../../lib/seo/structured-data/builders.ts";
+import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
 import { areaPath, areaUrl } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
@@ -56,7 +56,6 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
-const factText = buildAggregateFactText(stats, area.name);
 const pageSize = siteConfig.pagination.areaPageSize;
 const pageEntries = pageSlice(cards, page, pageSize);
 const title = `${area.name} – Seite ${page}`;
@@ -72,7 +71,6 @@ const title = `${area.name} – Seite ${page}`;
   <JsonLd slot="head" data={jsonLd} />
   <h1>{area.name}</h1>
   {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
-  <AggregateFacts text={factText} />
   <div class="grid grid-2">
     {pageEntries.map((card) => <EntryCard card={card} />)}
   </div>
@@ -82,4 +80,5 @@ const title = `${area.name} – Seite ${page}`;
     basePath={areaPath(area.slug)}
   />
   {faq && <FaqSection items={faq.faq} />}
+  {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
 </BaseLayout>

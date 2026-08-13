@@ -49,7 +49,7 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="nap-address"');
     expect(html).toContain('data-testid="breadcrumbs"');
     expect(html).toContain('data-testid="entry-tags"');
-    expect(html).toContain('data-testid="aggregate-facts"');
+    expect(html).toContain('data-testid="last-updated"');
   });
 
   it("renders all category tags for multi-category entries", () => {
@@ -86,9 +86,10 @@ describe("generated site", () => {
     expect(html).toContain("Dauerhaft geschlossen");
   });
 
-  it("includes aggregate facts on category pages", () => {
+  it("includes last updated on category pages", () => {
     const html = readDist(`category/${sampleCategory.slug}/index.html`);
-    expect(html).toContain('data-testid="aggregate-facts"');
+    expect(html).toContain('data-testid="last-updated"');
+    expect(html).not.toContain('data-testid="aggregate-facts"');
   });
 
   it("has NAP consistency between HTML and JSON-LD", () => {
