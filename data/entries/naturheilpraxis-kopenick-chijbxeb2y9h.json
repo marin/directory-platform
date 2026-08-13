@@ -24,7 +24,13 @@
   },
   "phone": "015203915591",
   "website": "https://www.naturheilpraxis-berlin-koepenick.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

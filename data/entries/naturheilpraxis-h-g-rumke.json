@@ -26,7 +26,23 @@
   "phone": "0305631045",
   "email": "info@denic.de",
   "website": "http://www.ruemke-heilpraktiker-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

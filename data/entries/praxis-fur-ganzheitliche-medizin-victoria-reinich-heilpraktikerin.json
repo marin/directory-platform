@@ -25,7 +25,33 @@
   "phone": "017693103849",
   "email": "info@victoriareinich.de",
   "website": "https://www.victoriareinich.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "17:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "17:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "17:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "17:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "17:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

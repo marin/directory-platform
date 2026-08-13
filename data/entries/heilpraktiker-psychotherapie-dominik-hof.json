@@ -26,7 +26,33 @@
   "phone": "03020275062",
   "email": "dominik.hof@gmx.de",
   "website": "http://hpp-dominikhof-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "18:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "18:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "18:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Friday",
+      "open": "16:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

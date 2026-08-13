@@ -25,7 +25,28 @@
   "phone": "017682042273",
   "website": "https://www.heilpraktiker-berlin.net/",
   "bookingUrl": "https://www.heilpraktiker-berlin.net/termin-vereinbaren.html",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

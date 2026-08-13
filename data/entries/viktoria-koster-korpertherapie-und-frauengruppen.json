@@ -26,7 +26,18 @@
   "email": "info@viktoriakoester.de",
   "website": "https://www.viktoriakoester.de/",
   "bookingUrl": "https://calendly.com/viktoria-koester",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

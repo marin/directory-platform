@@ -27,7 +27,33 @@
   "phone": "0308329027",
   "email": "julia.nitzsche@gmx.de",
   "website": "http://homoeopathieberlin.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:30",
+      "close": "16:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

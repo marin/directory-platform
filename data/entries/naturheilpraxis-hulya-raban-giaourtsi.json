@@ -26,7 +26,33 @@
   "email": "kontakt@naturmedizin-erleben.de",
   "website": "https://www.naturmedizin-erleben.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/huelya-raban-giaourtsi?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

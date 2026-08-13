@@ -26,7 +26,33 @@
   "phone": "03079745024",
   "email": "hosting@jweiland.net",
   "website": "https://www.heilpraxis-kubillus.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

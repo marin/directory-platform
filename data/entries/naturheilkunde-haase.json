@@ -27,7 +27,33 @@
   "email": "info@naturheilkunde-haase.de",
   "website": "https://www.naturheilkunde-haase.de/",
   "bookingUrl": "https://www.naturheilkunde-haase.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,28 @@
   "email": "susanne@susannehake.de",
   "website": "https://susannehake.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/susanne-hake?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

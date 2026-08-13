@@ -23,7 +23,38 @@
     "lng": 13.4254058
   },
   "phone": "017696917184",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

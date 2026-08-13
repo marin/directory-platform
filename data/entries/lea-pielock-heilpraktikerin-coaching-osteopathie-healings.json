@@ -26,7 +26,33 @@
   "phone": "017652852786",
   "website": "https://www.lea-pielock.de/",
   "bookingUrl": "https://www.terminland.de/bewegungsreich-schlachtensee/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

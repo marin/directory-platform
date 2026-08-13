@@ -24,7 +24,33 @@
   },
   "phone": "017655149760",
   "website": "http://www.schmerztherapie-drieske.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

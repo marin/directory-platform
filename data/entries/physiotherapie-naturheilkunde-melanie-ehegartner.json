@@ -26,7 +26,33 @@
   "phone": "017643871347",
   "email": "kontakt@physiotherapie-halensee.de",
   "website": "https://physiotherapie-halensee.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

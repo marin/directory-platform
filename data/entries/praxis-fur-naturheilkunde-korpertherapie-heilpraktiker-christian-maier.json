@@ -25,7 +25,33 @@
   "phone": "03096512942",
   "email": "info@naturheilkundepraxis-berlin.de",
   "website": "http://www.naturheilkundepraxis-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Monday",
+      "open": "14:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,33 @@
   "phone": "01702189733",
   "website": "https://arianeboesenberg.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ariane-boesenberg?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

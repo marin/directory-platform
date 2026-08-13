@@ -25,7 +25,33 @@
   "phone": "015227010228",
   "email": "k.funke@posteo.de",
   "website": "https://www.therapie.de/profil/funke.katrin/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "13:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

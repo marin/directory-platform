@@ -27,7 +27,28 @@
   "email": "huatingtcm@gmail.com",
   "website": "http://shourentang.de/",
   "bookingUrl": "https://shourentang.de/#buchen",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -24,7 +24,38 @@
   },
   "phone": "015906481571",
   "website": "http://www.brigitteherold.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

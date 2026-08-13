@@ -26,7 +26,38 @@
   "phone": "03084107559",
   "email": "haus-rat@t-online.de",
   "website": "http://www.qi-net.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

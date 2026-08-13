@@ -28,7 +28,23 @@
   "email": "info@psychoressourcen.de",
   "website": "https://hypnosetherapie-hoerl.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ksymena-hoerl?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

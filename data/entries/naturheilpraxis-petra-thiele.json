@@ -24,7 +24,33 @@
   },
   "phone": "03040102031",
   "website": "http://www.naturheilpraxis-thiele-frohnau.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "13:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "13:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

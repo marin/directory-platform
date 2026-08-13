@@ -26,7 +26,33 @@
   "phone": "017661865478",
   "website": "http://feldenkrais-lichtenrade.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/oliver-finck-berlin?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "15:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

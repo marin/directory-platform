@@ -27,7 +27,33 @@
   "email": "mail@universanus.de",
   "website": "http://www.universanus.de/",
   "bookingUrl": "https://universanus.de/termine-vereinbaren/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

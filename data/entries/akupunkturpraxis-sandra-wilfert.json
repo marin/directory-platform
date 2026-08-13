@@ -27,7 +27,23 @@
   "email": "praxis@sandra-wilfert-akupunktur.com",
   "website": "http://www.sandra-wilfert-akupunktur.de/",
   "bookingUrl": "https://www.jameda.de/sandra-wilfert/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=277991&utm_content=url_appointment",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

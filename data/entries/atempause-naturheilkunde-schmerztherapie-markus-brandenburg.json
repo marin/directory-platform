@@ -26,7 +26,33 @@
   "phone": "015228668531",
   "email": "info@schmerzfrei-atempause.de",
   "website": "http://www.schmerzfrei-atempause.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

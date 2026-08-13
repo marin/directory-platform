@@ -24,7 +24,28 @@
   },
   "phone": "017663099211",
   "website": "https://www.heilpraxis-mansuroglu.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -24,7 +24,33 @@
   },
   "phone": "03023131896",
   "website": "http://www.praxisdoll.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

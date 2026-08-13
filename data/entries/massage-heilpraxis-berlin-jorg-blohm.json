@@ -28,7 +28,28 @@
   "phone": "01732448359",
   "email": "hallo@joergblohm.de",
   "website": "http://www.joergblohm.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

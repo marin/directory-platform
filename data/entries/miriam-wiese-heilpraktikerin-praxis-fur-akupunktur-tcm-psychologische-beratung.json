@@ -28,7 +28,33 @@
   "email": "mail@akarui.berlin",
   "website": "http://www.miriam-wiese.com/",
   "bookingUrl": "https://miriamwiesecom.as.me/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:30",
+      "close": "13:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

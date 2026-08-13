@@ -26,7 +26,33 @@
   "phone": "01745732749",
   "email": "info@gestalt-praxis-berlin.de",
   "website": "http://www.gestalt-praxis-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

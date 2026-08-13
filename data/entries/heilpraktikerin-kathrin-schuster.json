@@ -23,7 +23,38 @@
     "lng": 13.222942
   },
   "phone": "03089371611",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

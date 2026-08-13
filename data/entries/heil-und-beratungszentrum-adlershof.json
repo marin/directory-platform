@@ -23,7 +23,33 @@
     "lng": 13.5460271
   },
   "phone": "03055632598",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

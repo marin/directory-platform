@@ -24,7 +24,38 @@
   },
   "phone": "03020987122",
   "website": "http://www.heilpraxis-im-maerchenviertel.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

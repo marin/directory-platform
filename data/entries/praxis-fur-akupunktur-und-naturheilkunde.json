@@ -26,7 +26,28 @@
   "phone": "03091142001",
   "email": "info@akupunktur-karow.de",
   "website": "http://www.akupunktur-karow.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

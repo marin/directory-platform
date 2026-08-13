@@ -25,7 +25,38 @@
   "phone": "015104011620",
   "website": "https://www.kirsten-thagaard.de/",
   "bookingUrl": "https://www.kirsten-thagaard.de/termin-buchen/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

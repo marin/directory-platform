@@ -29,7 +29,28 @@
   "email": "info@praxis-duve.de",
   "website": "https://www.praxis-duve.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/dagmar-duve?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

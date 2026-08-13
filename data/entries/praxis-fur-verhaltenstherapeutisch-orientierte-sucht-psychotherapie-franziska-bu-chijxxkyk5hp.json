@@ -27,7 +27,18 @@
   "email": "franziska.bude@mail.de",
   "website": "https://www.franziskabude.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/franziska-bude?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "16:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

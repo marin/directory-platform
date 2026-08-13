@@ -25,7 +25,33 @@
   "phone": "03053214545",
   "email": "sandra@kraftort-berlin.de",
   "website": "https://www.kraftort-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

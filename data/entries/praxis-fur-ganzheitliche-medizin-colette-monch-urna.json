@@ -24,7 +24,28 @@
   },
   "phone": "03081702831",
   "website": "https://www.naturheilpraxis-colettemoench.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

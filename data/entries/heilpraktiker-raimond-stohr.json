@@ -25,7 +25,13 @@
   "phone": "03076743272",
   "email": "ramonazhou02@gmail.com",
   "website": "http://alternative-krebs-aidstherapie.12hp.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

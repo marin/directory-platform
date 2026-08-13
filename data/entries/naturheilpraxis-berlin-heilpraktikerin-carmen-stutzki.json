@@ -24,7 +24,28 @@
   },
   "phone": "01624940650",
   "website": "https://www.naturheilpraxis-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,38 @@
   "phone": "01781366765",
   "email": "info@jkoethner.de",
   "website": "http://www.jkoethner.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

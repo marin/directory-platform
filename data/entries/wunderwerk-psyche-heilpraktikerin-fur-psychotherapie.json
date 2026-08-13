@@ -25,7 +25,33 @@
   },
   "phone": "01604617422",
   "website": "http://www.janka-kemper.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,38 @@
   },
   "phone": "017632210052",
   "website": "https://www.praxis-kunze.net/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "14:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

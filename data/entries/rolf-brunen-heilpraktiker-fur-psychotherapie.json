@@ -26,7 +26,13 @@
   "phone": "015204035600",
   "email": "kontakt@weiserweg.de",
   "website": "https://www.rolf-bruenen.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

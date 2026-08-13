@@ -25,7 +25,38 @@
   },
   "phone": "017664026497",
   "website": "http://torsten-hunold.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "13:00",
+      "close": "21:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

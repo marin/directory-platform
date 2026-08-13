@@ -25,7 +25,23 @@
   "phone": "017621695980",
   "email": "praxismariposa@gmail.com",
   "website": "https://www.praxis-mariposa.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

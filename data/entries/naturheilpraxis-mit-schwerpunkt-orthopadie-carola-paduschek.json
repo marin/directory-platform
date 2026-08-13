@@ -26,7 +26,23 @@
   "phone": "03040577360",
   "email": "info@carola-paduschek.de",
   "website": "http://www.carola-paduschek.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

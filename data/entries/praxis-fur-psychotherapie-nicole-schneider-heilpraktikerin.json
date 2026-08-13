@@ -27,7 +27,33 @@
   "email": "nicole@praxis-mit-gefuehl.de",
   "website": "https://praxis-mit-gefuehl.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/nicole-schneider-berlin?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "14:30",
+      "close": "17:30"
+    },
+    {
+      "day": "Saturday",
+      "open": "12:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,33 @@
   "email": "info@bartning.de",
   "website": "http://bartning.de/",
   "bookingUrl": "https://bartning.de/pages/kalender/fastenkuren-berlin.php",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

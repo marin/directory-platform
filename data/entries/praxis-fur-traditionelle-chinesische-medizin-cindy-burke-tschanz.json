@@ -25,7 +25,23 @@
   },
   "phone": "015150820485",
   "website": "http://www.fudao.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

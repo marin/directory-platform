@@ -27,7 +27,23 @@
   "email": "saskia.hinse@berlin.de",
   "website": "http://www.saskiahinse.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/saskia-hinse?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

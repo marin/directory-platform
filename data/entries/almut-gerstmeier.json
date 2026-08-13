@@ -23,7 +23,33 @@
     "lng": 13.4722166
   },
   "phone": "0306034075",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

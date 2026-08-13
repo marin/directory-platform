@@ -25,7 +25,28 @@
   "phone": "03081829323",
   "email": "praxis-buttlar@web.de",
   "website": "http://www.praxis-buttlar.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "16:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

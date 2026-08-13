@@ -25,7 +25,33 @@
   "phone": "01791142034",
   "email": "info@heilpraktikerinhuelya.de",
   "website": "https://heilpraktikerinhuelya.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

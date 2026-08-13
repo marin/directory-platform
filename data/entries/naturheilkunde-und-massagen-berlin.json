@@ -26,7 +26,33 @@
   "phone": "017665013312",
   "email": "ulrike.saxl@protonmail.com",
   "website": "http://naturheilkunde-und-massagen-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

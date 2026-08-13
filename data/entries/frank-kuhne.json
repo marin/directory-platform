@@ -23,7 +23,53 @@
     "lng": 13.5416289
   },
   "phone": "03032669444",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

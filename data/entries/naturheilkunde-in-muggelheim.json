@@ -24,7 +24,58 @@
   },
   "phone": "015228973227",
   "website": "http://www.naturheilkunde-in-mueggelheim.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

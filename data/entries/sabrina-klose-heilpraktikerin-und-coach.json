@@ -26,7 +26,33 @@
   "email": "heilpraktikerin@sabrinaklose.de",
   "website": "https://www.sabrinaklose.de/",
   "bookingUrl": "https://wa.me/4915754375932",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

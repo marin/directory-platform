@@ -25,7 +25,28 @@
   },
   "phone": "0308518013",
   "website": "http://www.enmedica.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

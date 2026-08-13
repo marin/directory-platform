@@ -26,7 +26,28 @@
   "phone": "03081034989",
   "email": "praxis@gesundes-menschenleben.de",
   "website": "http://www.gesundes-menschenleben.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

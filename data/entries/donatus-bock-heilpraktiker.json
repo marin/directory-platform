@@ -26,7 +26,23 @@
   "phone": "03077395000",
   "email": "donatus.bock@gmx.de",
   "website": "http://bioresonanz-berlin-bock.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

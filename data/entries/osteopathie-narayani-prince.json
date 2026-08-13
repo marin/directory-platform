@@ -25,7 +25,28 @@
   "phone": "015129568547",
   "email": "info@osteopathieprince.de",
   "website": "http://www.osteopathieprince.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "20:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "20:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "16:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

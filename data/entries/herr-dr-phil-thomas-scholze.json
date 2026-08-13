@@ -25,7 +25,23 @@
   "phone": "0306485447",
   "email": "naturheilpraxis.dr.scholze@freenet.de",
   "website": "http://www.implantat-akupunktur.berlin/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

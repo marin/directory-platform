@@ -25,7 +25,33 @@
   "phone": "03077208321",
   "website": "http://www.bioenergetische-heilarbeit.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/kathlin-kastilan?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "18:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

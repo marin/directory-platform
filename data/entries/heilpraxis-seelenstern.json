@@ -24,7 +24,33 @@
   },
   "phone": "024357656",
   "website": "http://www.seelenstern.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

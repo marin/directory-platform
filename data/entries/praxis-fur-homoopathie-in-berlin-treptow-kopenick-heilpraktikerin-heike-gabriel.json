@@ -26,7 +26,43 @@
   "phone": "015141220865",
   "email": "betreuung.info@gmx.de",
   "website": "https://www.naturheilpraxis-homoeopathie-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

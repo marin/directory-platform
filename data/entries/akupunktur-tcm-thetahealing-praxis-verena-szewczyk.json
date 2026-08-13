@@ -25,7 +25,33 @@
   },
   "phone": "03021295195",
   "website": "http://www.akupunktur-bln.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

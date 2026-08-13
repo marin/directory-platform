@@ -25,7 +25,38 @@
   "phone": "015772546863",
   "email": "info@aqualorin.de",
   "website": "http://hydrocolon-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

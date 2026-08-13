@@ -25,7 +25,33 @@
   "phone": "015121665893",
   "email": "beateking@web.de",
   "website": "https://naturheilpraxis-king.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:30",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

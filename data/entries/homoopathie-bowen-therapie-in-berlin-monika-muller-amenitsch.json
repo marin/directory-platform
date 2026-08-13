@@ -26,7 +26,33 @@
   "phone": "03070131057",
   "email": "heilpraktikerin.berlin@gmail.com",
   "website": "http://www.homoeopathie-bowen-berlin.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,38 @@
   "phone": "03061084377",
   "website": "https://www.naturheilpraxis-kalisch.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/thomas-kalisch-berlin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "10:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

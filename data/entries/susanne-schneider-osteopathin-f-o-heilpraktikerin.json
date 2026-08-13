@@ -26,7 +26,28 @@
   "phone": "03081700961",
   "email": "schneider-susanne@gmx.net",
   "website": "http://www.heilpraxis-schneider.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

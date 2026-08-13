@@ -26,7 +26,33 @@
   "email": "info@heilpraxis-klimek.com",
   "website": "https://www.heilpraxis-klimek.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nina-klimek",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "07:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -24,7 +24,23 @@
   },
   "phone": "03056700422",
   "website": "http://www.medico-vital-centrum.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

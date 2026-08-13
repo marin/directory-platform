@@ -26,7 +26,33 @@
   "phone": "017684290944",
   "email": "info@praxis-kocatuerk.com",
   "website": "https://www.praxis-kocatuerk.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

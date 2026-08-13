@@ -27,7 +27,33 @@
   "email": "info@praxis-heilpraktikerin-mediatorin.de",
   "website": "https://praxis-heilpraktikerin-mediatorin.de/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness",
   "bookingUrl": "https://praxis-heilpraktikerin-mediatorin.de/kontakt/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

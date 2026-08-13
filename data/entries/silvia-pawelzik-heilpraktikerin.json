@@ -25,7 +25,38 @@
   "phone": "03078715335",
   "email": "naturpawelzik@gmx.de",
   "website": "http://www.naturpawelzik.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

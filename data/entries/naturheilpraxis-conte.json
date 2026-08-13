@@ -25,7 +25,33 @@
   "phone": "03076880888",
   "website": "http://nhp-conte.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/birgit-conte",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

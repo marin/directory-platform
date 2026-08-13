@@ -25,7 +25,33 @@
   "phone": "01723803844",
   "email": "info@heilpraxis-lichterfelde.com",
   "website": "http://www.heilpraxis-lichterfelde.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "08:30",
+      "close": "18:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

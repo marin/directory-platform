@@ -26,7 +26,33 @@
   "email": "info@praxis-fuer-naturheilkunde-berlin.de",
   "website": "http://praxis-fuer-naturheilkunde-berlin.de/",
   "bookingUrl": "http://praxis-fuer-naturheilkunde-berlin.de/praxis#50",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

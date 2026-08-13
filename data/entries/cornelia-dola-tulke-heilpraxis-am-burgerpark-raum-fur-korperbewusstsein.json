@@ -26,7 +26,43 @@
   "email": "cornelia.tulke@web.de",
   "website": "https://cornelia-tulke.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/cornelia-tulke",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "09:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

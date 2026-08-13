@@ -26,7 +26,23 @@
   "phone": "0307122994",
   "email": "post@praxis-bannert.de",
   "website": "http://www.praxis-bannert.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "12:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

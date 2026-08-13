@@ -24,7 +24,33 @@
   },
   "phone": "03080109674",
   "website": "https://heilpraktiker-zehlendorf.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "13:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

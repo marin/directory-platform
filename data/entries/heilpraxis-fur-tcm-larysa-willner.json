@@ -26,7 +26,18 @@
   "phone": "01721726875",
   "email": "larysa.willner@gmx.de",
   "website": "https://www.willner-tcm-berlin.de/index.htm",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

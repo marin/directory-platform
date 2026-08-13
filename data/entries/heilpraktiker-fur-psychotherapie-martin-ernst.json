@@ -25,7 +25,13 @@
   },
   "phone": "015256470998",
   "website": "https://www.martin-ernst-heilpraktiker-psychotherapie.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

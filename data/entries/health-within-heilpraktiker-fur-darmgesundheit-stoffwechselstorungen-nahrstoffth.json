@@ -25,7 +25,18 @@
   "email": "mail@health-within.com",
   "website": "https://www.health-within.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10070298443783613830",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/amelie-zweyer-berlin?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "13:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

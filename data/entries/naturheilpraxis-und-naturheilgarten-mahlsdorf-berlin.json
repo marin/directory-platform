@@ -26,7 +26,43 @@
   },
   "phone": "0307717309",
   "website": "http://www.artnat.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Friday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "05:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "05:00",
+      "close": "22:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

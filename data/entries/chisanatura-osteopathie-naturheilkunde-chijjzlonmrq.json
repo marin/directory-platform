@@ -26,7 +26,28 @@
   "phone": "0303015772",
   "email": "info@chisanatura.de",
   "website": "https://www.chisanatura.com/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

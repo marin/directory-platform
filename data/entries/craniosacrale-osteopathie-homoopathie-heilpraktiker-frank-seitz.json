@@ -28,7 +28,38 @@
   "email": "info@seitzpraxis.de",
   "website": "https://www.seitzpraxis.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/frank-seitz?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "15:30"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "14:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

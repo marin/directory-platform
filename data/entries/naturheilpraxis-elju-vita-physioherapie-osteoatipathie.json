@@ -26,7 +26,33 @@
   "phone": "01732482805",
   "email": "elju-vita@gmail.com",
   "website": "http://elju-vita.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "07:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "07:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "07:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "07:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "07:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

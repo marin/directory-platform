@@ -25,7 +25,18 @@
   "phone": "01639893947",
   "email": "alchemilla57@t-online.de",
   "website": "http://www.naturheilpraxis-botanischergarten.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

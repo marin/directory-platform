@@ -25,7 +25,33 @@
   },
   "phone": "03093671254",
   "website": "http://www.stephanieheilmann.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,18 @@
   "phone": "01776310765",
   "email": "kontakt@yahuiwang.de",
   "website": "https://www.yahuiwang.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

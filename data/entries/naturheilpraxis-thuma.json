@@ -25,7 +25,38 @@
   "phone": "0304953806",
   "email": "naturheilpraxis.thuma@gmx.de",
   "website": "http://www.naturheilpraxis-thuma.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "11:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "11:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

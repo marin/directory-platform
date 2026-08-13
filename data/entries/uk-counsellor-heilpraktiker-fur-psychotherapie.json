@@ -26,7 +26,33 @@
   "phone": "03072297100",
   "email": "info@davidbarnes.de",
   "website": "http://www.davidbarnes.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "19:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

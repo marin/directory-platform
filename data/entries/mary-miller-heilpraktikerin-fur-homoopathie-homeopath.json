@@ -26,7 +26,33 @@
   "phone": "03030136945",
   "email": "info@marymiller.de",
   "website": "http://www.marymiller.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

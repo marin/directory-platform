@@ -26,7 +26,58 @@
   "email": "praxis@w-runge.de",
   "website": "https://www.w-runge.de/",
   "bookingUrl": "https://w-runge.de/termine-berlin.html",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "13:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,28 @@
   "email": "info@andrea-hofmann.de",
   "website": "http://andrea-hofmann.de/",
   "bookingUrl": "https://andrea-hofmann.de/kosten/shop-menu/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

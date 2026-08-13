@@ -26,7 +26,28 @@
   },
   "phone": "03062933311",
   "website": "http://www.artemisia-heilpraxis.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=kontakt-link",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

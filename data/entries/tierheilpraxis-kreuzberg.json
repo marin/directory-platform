@@ -24,7 +24,33 @@
   },
   "phone": "017634384738",
   "website": "https://www.tierheilpraxis-kreuzberg.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "11:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

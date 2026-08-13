@@ -27,7 +27,43 @@
   "email": "info@jessica-noll.de",
   "website": "https://www.jessica-noll.de/",
   "bookingUrl": "https://tcm.qi-point.de/neuertermin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "14:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:30",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:30",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

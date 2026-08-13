@@ -23,7 +23,38 @@
     "lng": 13.3279737
   },
   "phone": "0308594969",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "11:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

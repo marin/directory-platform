@@ -25,7 +25,28 @@
   },
   "phone": "03025586429",
   "website": "http://www.praxisamhansaplatz.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

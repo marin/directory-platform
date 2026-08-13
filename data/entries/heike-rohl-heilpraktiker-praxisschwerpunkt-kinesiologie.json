@@ -24,7 +24,28 @@
   },
   "phone": "03063211957",
   "website": "http://www.heikeroehl.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

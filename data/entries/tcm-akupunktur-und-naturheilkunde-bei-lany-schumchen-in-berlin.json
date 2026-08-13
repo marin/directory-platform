@@ -26,7 +26,33 @@
   },
   "phone": "017620774972",
   "website": "http://www.tcm-arzt-berlin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "14:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Friday",
+      "open": "15:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

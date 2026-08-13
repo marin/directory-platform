@@ -28,7 +28,28 @@
   "email": "hallo@hauptstadttherapeut.de",
   "website": "https://www.hauptstadttherapeut.de/",
   "bookingUrl": "https://www.hauptstadttherapeut.de/termindirekt",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:30",
+      "close": "16:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

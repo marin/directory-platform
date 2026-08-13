@@ -25,7 +25,23 @@
   "phone": "017665145598",
   "email": "anfrage@fatma-iscan-heilpraktikerin.de",
   "website": "https://fatma-iscan-heilpraktikerin.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "16:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "14:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "09:00",
+      "close": "11:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

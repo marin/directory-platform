@@ -28,7 +28,18 @@
   "email": "kontakt@hp-phildius.de",
   "website": "https://www.hp-phildius.de/",
   "bookingUrl": "https://www.jameda.de/philipp-phildius/heilpraktiker/berlin",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,33 @@
   "phone": "03057799277",
   "website": "https://lebendige-entfaltung.de/",
   "bookingUrl": "https://search.google.com/local/posts?q=Praxis+f%C3%BCr+Lebendige+Entfaltung+Frankfurter+Allee+191&ludocid=16429197718129505694#lkt=LocalPoiPosts&lpstate=pid:3310939663336840198&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:16429197718129505694",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

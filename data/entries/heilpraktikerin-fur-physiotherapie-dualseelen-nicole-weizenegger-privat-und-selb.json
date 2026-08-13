@@ -26,7 +26,23 @@
   "phone": "01601862426",
   "email": "termin@physioheilpraxis-weizenegger.de",
   "website": "http://www.physioheilpraxis-weizenegger.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "18:15"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "19:15"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "18:15"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

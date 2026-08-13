@@ -26,7 +26,33 @@
   "phone": "01727960577",
   "email": "info@heilpraxis-fenske.de",
   "website": "https://heilpraxis-fenske.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,38 @@
   "email": "marion@craniosacral-biodynamik-berlin.de",
   "website": "http://cranio-pankow-reinickendorf.de/",
   "bookingUrl": "https://calendly.com/heilpraxis-marion-welz/90min",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "12:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

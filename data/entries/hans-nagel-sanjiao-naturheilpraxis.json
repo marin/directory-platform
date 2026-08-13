@@ -24,7 +24,23 @@
   },
   "email": "hans.sanjiao@posteo.de",
   "website": "https://www.sanjiao-naturheilpraxis.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "15:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,28 @@
   },
   "phone": "03064092595",
   "website": "http://www.naturheilpraxis-lebensweise.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "11:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "11:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

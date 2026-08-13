@@ -26,7 +26,28 @@
   "email": "katjaanelia@posteo.com",
   "website": "https://www.katjaanelia.com/",
   "bookingUrl": "https://calendly.com/katjaanelia/free-intro-call",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

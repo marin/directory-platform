@@ -26,7 +26,18 @@
   "phone": "015141335683",
   "email": "kontakt@martinagaede.de",
   "website": "https://www.martinagaede.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

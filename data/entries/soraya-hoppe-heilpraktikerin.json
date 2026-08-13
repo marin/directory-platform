@@ -25,7 +25,33 @@
   "phone": "017624824828",
   "website": "https://sorayahoppe.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/soraya-hoppe?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "19:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

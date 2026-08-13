@@ -25,7 +25,33 @@
   },
   "phone": "01785513691",
   "website": "http://www.osteopathie-friedrichshagen.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "18:30"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

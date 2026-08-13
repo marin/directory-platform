@@ -24,7 +24,53 @@
   },
   "phone": "03080505480",
   "website": "https://zehlendorf.immanuel.de/immanuel-medizin-zehlendorf-home/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "13:30",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "12:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "13:30",
+      "close": "14:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "13:30",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

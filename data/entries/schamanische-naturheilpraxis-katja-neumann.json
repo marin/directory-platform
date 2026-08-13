@@ -25,7 +25,33 @@
   "phone": "03044715357",
   "email": "info@katja-neumann.de",
   "website": "http://www.katja-neumann.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "16:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:30",
+      "close": "14:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

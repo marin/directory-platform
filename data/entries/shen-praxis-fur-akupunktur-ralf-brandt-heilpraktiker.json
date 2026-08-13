@@ -26,7 +26,18 @@
   "phone": "015560492522",
   "email": "ralf.brandt@shen-akupunktur-friedrichshain.de",
   "website": "https://shen-akupunktur-friedrichshain.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "21:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -26,7 +26,28 @@
   "email": "gunther@heilpraxis-zimolong.de",
   "website": "http://www.heilpraxis-zimolong.de/",
   "bookingUrl": "https://www.heilpraxis-zimolong.de/sprechzeiten.html",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "16:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

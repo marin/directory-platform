@@ -24,7 +24,48 @@
   },
   "phone": "03077392515",
   "website": "http://www.natur-harmony.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Monday",
+      "open": "15:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "15:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "15:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "12:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "15:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

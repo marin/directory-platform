@@ -24,7 +24,13 @@
     "lng": 13.3484574
   },
   "website": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/nico-schwalbe",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,33 @@
   "email": "kontakt@puetz-psychotherapie.de",
   "website": "https://www.puetz-psychotherapie.de/",
   "bookingUrl": "https://pro.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/tanja-puetz?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "13:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "12:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "13:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

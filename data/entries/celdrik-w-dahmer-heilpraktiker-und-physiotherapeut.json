@@ -25,7 +25,28 @@
   "phone": "03033914233",
   "website": "https://www.jameda.de/celdrik-w-mette/heilpraktiker-physiotherapeut/berlin",
   "bookingUrl": "https://www.jameda.de/celdrik-w-mette/heilpraktiker/berlin#address-id=%5B453350%5D&filters%5Bservices%5D%5B%5D=293",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -25,7 +25,38 @@
   "phone": "03088663373",
   "email": "praxis@natura-heilpraxis.de",
   "website": "http://natura-heilpraxis.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "09:00",
+      "close": "12:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

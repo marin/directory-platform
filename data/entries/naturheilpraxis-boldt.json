@@ -29,7 +29,33 @@
   "email": "naturheilpraxis-boldt@web.de",
   "website": "http://www.naturheilpraxis-boldt.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-boldt?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

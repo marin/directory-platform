@@ -26,7 +26,33 @@
   "phone": "03035505611",
   "email": "info@eft-berlin.de",
   "website": "https://www.eft-berlin.de/einzelsitzungen/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

@@ -27,7 +27,33 @@
   "phone": "01736273301",
   "email": "m.grenzel-barth@kunsttherapie-und-hypnose.de",
   "website": "http://www.kunsttherapie-und-hypnose.de/",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "16:30"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "16:30"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "16:30"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "16:30"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "16:30"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

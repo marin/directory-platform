@@ -30,7 +30,33 @@
   "email": "seelenbalsam@mail.de",
   "website": "https://www.seelenbalsamberlin.de/",
   "bookingUrl": "https://book.timify.com/?accountId=5e1f95e7b84df411f9740174&hideCloseButton=true",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "14:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "12:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "18:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

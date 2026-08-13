@@ -28,7 +28,33 @@
   "email": "praxis@hp-ullrich.de",
   "website": "https://www.hp-ullrich.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/tanja-ullrich?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "17:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []

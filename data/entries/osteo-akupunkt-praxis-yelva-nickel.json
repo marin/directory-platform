@@ -26,7 +26,18 @@
   "phone": "03028046900",
   "website": "https://www.o-a-p.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/yelva-nickel?utm_source=google-maps&utm_campaign=google-maps",
-  "openingHours": [],
+  "openingHours": [
+    {
+      "day": "Wednesday",
+      "open": "09:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
   "offers": [],
   "images": [],
   "faq": []
