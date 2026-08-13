@@ -1,0 +1,44 @@
+---
+import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+
+interface Props {
+  entry: NormalizedEntry;
+}
+
+const { entry } = Astro.props;
+const hasActions =
+  entry.isOpen &&
+  (entry.bookingUrl || entry.website || entry.nap.formattedPhone);
+---
+
+{
+  hasActions && (
+    <div class="cta-bar" data-testid="entry-cta">
+      {entry.bookingUrl && (
+        <a
+          class="cta cta-primary"
+          href={entry.bookingUrl}
+          rel="noopener noreferrer"
+          data-testid="cta-booking"
+        >
+          Book appointment
+        </a>
+      )}
+      {entry.website && (
+        <a
+          class="cta"
+          href={entry.website}
+          rel="noopener noreferrer"
+          data-testid="cta-website"
+        >
+          Website
+        </a>
+      )}
+      {entry.nap.formattedPhone && (
+        <a class="cta" href={`tel:${entry.nap.phone}`} data-testid="cta-phone">
+          Call {entry.nap.formattedPhone}
+        </a>
+      )}
+    </div>
+  )
+}

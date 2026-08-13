@@ -2,7 +2,7 @@ import siteConfig from "../../../../config/site.config.ts";
 import type { NormalizedEntry } from "../../data/normalize-entry.ts";
 import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
-import { absoluteUrl, categoryPath, entryPath, homePath } from "../../routing/paths.ts";
+import { absoluteUrl, categoryPath, areaPath, entryPath, homePath } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
 
@@ -24,12 +24,14 @@ export function buildBreadcrumbList(
 export function buildListingJsonLd(
   entry: NormalizedEntry,
   category: Category | undefined,
+  area?: Area,
 ): Record<string, unknown> {
   const breadcrumbs = buildBreadcrumbList([
     { name: "Home", path: homePath() },
     ...(category
       ? [{ name: category.name, path: categoryPath(category.slug) }]
       : []),
+    ...(area ? [{ name: area.name, path: areaPath(area.slug) }] : []),
     { name: entry.name, path: entryPath(entry.slug) },
   ]);
 

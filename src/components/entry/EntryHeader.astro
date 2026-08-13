@@ -1,15 +1,33 @@
 ---
 import type { EntryViewModel } from "../../lib/data/view-models/entry.ts";
+import { categoryPath, areaPath } from "../../lib/routing/paths.ts";
 
 interface Props {
   vm: EntryViewModel;
 }
 const { vm } = Astro.props;
 const { entry } = vm;
+const hasTags = vm.category || vm.areas.length > 0;
 ---
 
 <header>
   <h1 data-testid="entry-name">{entry.nap.name}</h1>
   {!entry.isOpen && <p class="badge" data-testid="closed-notice">Permanently closed</p>}
+  {
+    hasTags && (
+      <p class="tag-list" data-testid="entry-tags">
+        {vm.category && (
+          <a href={categoryPath(vm.category.slug)} class="tag" data-testid="entry-category-link">
+            {vm.category.name}
+          </a>
+        )}
+        {vm.areas.map((area) => (
+          <a href={areaPath(area.slug)} class="tag" data-testid="entry-area-link">
+            {area.name}
+          </a>
+        ))}
+      </p>
+    )
+  }
   <p class="muted" style="margin-top: 0.5rem;">{vm.contextFact}</p>
 </header>

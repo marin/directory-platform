@@ -47,6 +47,21 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="nap-name"');
     expect(html).toContain('data-testid="nap-phone"');
     expect(html).toContain('data-testid="nap-address"');
+    expect(html).toContain('data-testid="breadcrumbs"');
+    expect(html).toContain('data-testid="entry-tags"');
+    expect(html).toContain('data-testid="aggregate-facts"');
+  });
+
+  it("renders booking CTA when bookingUrl is set", () => {
+    const entryWithBooking = dataset.entries.find(
+      (entry) => entry.isOpen && entry.bookingUrl,
+    );
+    if (!entryWithBooking) return;
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${entryWithBooking.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="cta-booking"');
+    expect(html).toContain(entryWithBooking.bookingUrl);
   });
 
   it("renders closed notice when closed entries exist", () => {
