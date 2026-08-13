@@ -1,12 +1,15 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
 import EntryHeader from "../../components/entry/EntryHeader.astro";
+import EntryCtaBar from "../../components/entry/EntryCtaBar.astro";
 import OffersSection from "../../components/entry/OffersSection.astro";
 import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astro";
 import ContactSection from "../../components/entry/ContactSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import RelatedEntries from "../../components/entry/RelatedEntries.astro";
+import AggregateFacts from "../../components/collections/AggregateFacts.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
@@ -15,8 +18,11 @@ import {
   toEntryCardViewModel,
   getRelatedEntries,
 } from "../../lib/data/view-models/entry.ts";
-import { buildListingJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { entryUrl } from "../../lib/routing/paths.ts";
+import {
+  buildListingJsonLd,
+  buildAggregateFactText,
+} from "../../lib/seo/structured-data/builders.ts";
+import { entryUrl, homePath, categoryPath, areaPath } from "../../lib/routing/paths.ts";
 import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
 
 export function getStaticPaths() {
@@ -33,7 +39,8 @@ const entry = dataset.entries.find((e) => e.slug === slug);
 if (!entry) throw new Error(`Entry not found: ${slug}`);
 
 const vm = toEntryViewModel(entry, dataset.categories, dataset.areas, dataset.entries);
-const jsonLd = buildListingJsonLd(entry, vm.category);
+const primaryArea = vm.areas[0];
+const jsonLd = buildListingJsonLd(entry, vm.category, primaryArea);
 const related = getRelatedEntries(entry, dataset.entries).map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );
@@ -41,6 +48,19 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
+const breadcrumbItems = [
+  { label: "Home", href: homePath() },
+  ...(vm.category
+    ? [{ label: vm.category.name, href: categoryPath(vm.category.slug) }]
+    : []),
+  ...(primaryArea
+    ? [{ label: primaryArea.name, href: areaPath(primaryArea.slug) }]
+    : []),
+  { label: entry.name },
+];
+const factText = vm.category
+  ? buildAggregateFactText(vm.stats, vm.category.name)
+  : undefined;
 ---
 
 <BaseLayout
@@ -51,7 +71,10 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
   <article data-testid="entry-page">
+    <Breadcrumbs items={breadcrumbItems} />
     <EntryHeader vm={vm} />
+    <EntryCtaBar entry={entry} />
+    {factText && <AggregateFacts text={factText} />}
     <section style="margin: 1.5rem 0;">
       <h2>About</h2>
       <p data-testid="entry-description">{entry.description}</p>
