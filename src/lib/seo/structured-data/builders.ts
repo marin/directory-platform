@@ -27,7 +27,7 @@ export function buildListingJsonLd(
   area?: Area,
 ): Record<string, unknown> {
   const breadcrumbs = buildBreadcrumbList([
-    { name: "Home", path: homePath() },
+    { name: "Startseite", path: homePath() },
     ...(category
       ? [{ name: category.name, path: categoryPath(category.slug) }]
       : []),
@@ -69,7 +69,7 @@ export function buildListingJsonLd(
   if (entry.isOpen && (entry.offers ?? []).length > 0) {
     business.hasOfferCatalog = {
       "@type": "OfferCatalog",
-      name: "Services",
+      name: "Leistungen",
       itemListElement: (entry.offers ?? []).map((offer) => ({
         "@type": "Offer",
         name: offer.name,
@@ -109,7 +109,7 @@ export function buildCollectionJsonLd(
 ): Record<string, unknown> {
   const path = type === "category" ? categoryPath(item.slug) : `/area/${item.slug}`;
   const breadcrumbs = buildBreadcrumbList([
-    { name: "Home", path: homePath() },
+    { name: "Startseite", path: homePath() },
     { name: item.name, path },
   ]);
 
@@ -158,12 +158,17 @@ export function buildAggregateFactText(
   stats: AggregateStats,
   label: string,
 ): string {
-  const parts: string[] = [`${stats.listingCount} open ${siteConfig.directory.entryPlural} in ${label}`];
+  const parts: string[] = [`${stats.listingCount} ${siteConfig.directory.entryPlural} in ${label}`];
   if (stats.priceStats.median !== undefined) {
-    parts.push(`median price ${formatPrice(stats.priceStats.median)}`);
+    parts.push(`Medianpreis ${formatPrice(stats.priceStats.median)}`);
   }
   if (stats.mostRecentUpdate) {
-    parts.push(`updated ${stats.mostRecentUpdate}`);
+    const formatted = new Intl.DateTimeFormat(siteConfig.site.defaultLocale, {
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+    }).format(new Date(stats.mostRecentUpdate));
+    parts.push(`aktualisiert am ${formatted}`);
   }
   return parts.join(" — ");
 }

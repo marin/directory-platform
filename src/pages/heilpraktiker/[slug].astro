@@ -49,7 +49,7 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
 const breadcrumbItems = [
-  { label: "Home", href: homePath() },
+  { label: "Startseite", href: homePath() },
   ...(vm.category
     ? [{ label: vm.category.name, href: categoryPath(vm.category.slug) }]
     : []),
@@ -76,7 +76,7 @@ const factText = vm.category
     <EntryCtaBar entry={entry} />
     {factText && <AggregateFacts text={factText} />}
     <section style="margin: 1.5rem 0;">
-      <h2>About</h2>
+      <h2>Über</h2>
       <p data-testid="entry-description">{entry.description}</p>
     </section>
     <OffersSection offers={vm.formattedOffers} isOpen={entry.isOpen} />

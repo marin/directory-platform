@@ -12,7 +12,7 @@ const hasTags = vm.category || vm.areas.length > 0;
 
 <header>
   <h1 data-testid="entry-name">{entry.nap.name}</h1>
-  {!entry.isOpen && <p class="badge" data-testid="closed-notice">Permanently closed</p>}
+  {!entry.isOpen && <p class="badge" data-testid="closed-notice">Dauerhaft geschlossen</p>}
   {
     hasTags && (
       <p class="tag-list" data-testid="entry-tags">

@@ -28,7 +28,7 @@ const featured = dataset.entries
     {categoriesWithCounts.map((cat) => (
       <a href={`/category/${cat.slug}`} class="card" style="text-decoration: none; color: inherit;">
         <strong>{cat.name}</strong>
-        <p class="muted">{cat.count} open {siteConfig.directory.entryPlural}</p>
+        <p class="muted">{cat.count} {siteConfig.directory.entryPlural}</p>
       </a>
     ))}
   </div>

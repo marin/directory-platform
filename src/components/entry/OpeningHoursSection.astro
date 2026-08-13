@@ -6,16 +6,26 @@ interface Props {
 }
 const { entry } = Astro.props;
 const hours = entry.openingHours ?? [];
+
+const dayNames: Record<string, string> = {
+  Monday: "Montag",
+  Tuesday: "Dienstag",
+  Wednesday: "Mittwoch",
+  Thursday: "Donnerstag",
+  Friday: "Freitag",
+  Saturday: "Samstag",
+  Sunday: "Sonntag",
+};
 ---
 
 {entry.isOpen && hours.length > 0 && (
   <section aria-labelledby="hours-heading">
-    <h2 id="hours-heading">Opening hours</h2>
+    <h2 id="hours-heading">Öffnungszeiten</h2>
     <table>
-      <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+      <thead><tr><th>Tag</th><th>Uhrzeiten</th></tr></thead>
       <tbody>
         {hours.map((h) => (
-          <tr><td>{h.day}</td><td>{h.open} – {h.close}</td></tr>
+          <tr><td>{dayNames[h.day] ?? h.day}</td><td>{h.open} – {h.close}</td></tr>
         ))}
       </tbody>
     </table>
