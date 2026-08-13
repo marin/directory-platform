@@ -12,7 +12,9 @@ import {
 } from "../../lib/data/view-models/entry.ts";
 import { computeAreaStats, computeCategoryStats } from "../../lib/aggregates/compute.ts";
 import { buildCollectionJsonLd, buildAggregateFactText } from "../../lib/seo/structured-data/builders.ts";
-import { areaUrl } from "../../lib/routing/paths.ts";
+import { areaPath, areaUrl } from "../../lib/routing/paths.ts";
+import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
+import PaginationNav from "../../components/navigation/PaginationNav.astro";
 import siteConfig from "../../../config/site.config.ts";
 
 export function getStaticPaths() {
@@ -46,7 +48,10 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
 const factText = buildAggregateFactText(stats, area.name);
-const pageEntries = cards.slice(0, siteConfig.pagination.areaPageSize);
+const pageSize = siteConfig.pagination.areaPageSize;
+const currentPage = 1;
+const lastPage = computeTotalPages(openEntries.length, pageSize);
+const pageEntries = pageSlice(cards, currentPage, pageSize);
 ---
 
 <BaseLayout
@@ -63,5 +68,10 @@ const pageEntries = cards.slice(0, siteConfig.pagination.areaPageSize);
   <div class="grid grid-2">
     {pageEntries.map((card) => <EntryCard card={card} />)}
   </div>
+  <PaginationNav
+    currentPage={currentPage}
+    totalPages={lastPage}
+    basePath={areaPath(area.slug)}
+  />
   {faq && <FaqSection items={faq.faq} />}
 </BaseLayout>

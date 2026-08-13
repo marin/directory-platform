@@ -1,0 +1,85 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import SiteHeader from "../../../components/navigation/SiteHeader.astro";
+import EntryCard from "../../../components/cards/EntryCard.astro";
+import AggregateFacts from "../../../components/collections/AggregateFacts.astro";
+import FaqSection from "../../../components/faq/FaqSection.astro";
+import JsonLd from "../../../components/seo/JsonLd.astro";
+import PaginationNav from "../../../components/navigation/PaginationNav.astro";
+import { loadDataset } from "../../../lib/data/load-dataset.ts";
+import {
+  toEntryCardViewModel,
+  shouldIndexArea,
+} from "../../../lib/data/view-models/entry.ts";
+import { computeAreaStats, computeCategoryStats } from "../../../lib/aggregates/compute.ts";
+import { buildCollectionJsonLd, buildAggregateFactText } from "../../../lib/seo/structured-data/builders.ts";
+import { areaPath, areaUrl } from "../../../lib/routing/paths.ts";
+import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
+import siteConfig from "../../../../config/site.config.ts";
+
+export function getStaticPaths() {
+  const dataset = loadDataset();
+  const pageSize = siteConfig.pagination.areaPageSize;
+  const paths = [];
+
+  for (const area of dataset.areas) {
+    const count = computeAreaStats(dataset.entries, area.id).listingCount;
+    const { index, noindex } = shouldIndexArea(count);
+    if (!index && !noindex) continue;
+
+    const lastPage = computeTotalPages(count, pageSize);
+    for (let page = 2; page <= lastPage; page += 1) {
+      paths.push({
+        params: { id: area.slug, page: String(page) },
+        props: { areaId: area.id, page, lastPage, noindex },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { areaId, page, lastPage, noindex } = Astro.props;
+const dataset = loadDataset();
+const area = dataset.areas.find((a) => a.id === areaId)!;
+const openEntries = dataset.entries.filter(
+  (e) => e.isOpen && (e.areaIds ?? []).includes(areaId),
+);
+const stats = computeAreaStats(dataset.entries, areaId);
+const intro = dataset.areaIntros.get(areaId);
+const faq = dataset.areaFaqs.get(areaId);
+const cards = openEntries.map((e) =>
+  toEntryCardViewModel(e, dataset.categories, dataset.areas),
+);
+const jsonLd = buildCollectionJsonLd("area", area, openEntries, stats, faq?.faq);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const factText = buildAggregateFactText(stats, area.name);
+const pageSize = siteConfig.pagination.areaPageSize;
+const pageEntries = pageSlice(cards, page, pageSize);
+const title = `${area.name} – Seite ${page}`;
+---
+
+<BaseLayout
+  title={title}
+  description={intro?.intro ?? area.description}
+  canonical={areaUrl(area.slug, page)}
+  noindex={noindex}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <h1>{area.name}</h1>
+  {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
+  <AggregateFacts text={factText} />
+  <div class="grid grid-2">
+    {pageEntries.map((card) => <EntryCard card={card} />)}
+  </div>
+  <PaginationNav
+    currentPage={page}
+    totalPages={lastPage}
+    basePath={areaPath(area.slug)}
+  />
+  {faq && <FaqSection items={faq.faq} />}
+</BaseLayout>

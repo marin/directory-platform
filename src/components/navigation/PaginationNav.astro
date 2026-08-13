@@ -1,0 +1,46 @@
+---
+import { pageNumbers } from "../../lib/pagination.ts";
+
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+}
+
+const { currentPage, totalPages, basePath } = Astro.props;
+const pages = pageNumbers(currentPage, totalPages);
+
+function hrefForPage(page: number): string {
+  return page <= 1 ? basePath : `${basePath}/${page}`;
+}
+---
+
+{
+  totalPages > 1 && (
+    <nav
+      aria-label="Pagination"
+      style="margin: 2rem 0; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;"
+    >
+      <span class="muted" style="margin-right: 0.5rem;">
+        Seite {currentPage} von {totalPages}
+      </span>
+      {currentPage > 1 && (
+        <a href={hrefForPage(currentPage - 1)} rel="prev">
+          ← Zurück
+        </a>
+      )}
+      {pages.map((page) =>
+        page === currentPage ? (
+          <strong aria-current="page">{page}</strong>
+        ) : (
+          <a href={hrefForPage(page)}>{page}</a>
+        ),
+      )}
+      {currentPage < totalPages && (
+        <a href={hrefForPage(currentPage + 1)} rel="next">
+          Weiter →
+        </a>
+      )}
+    </nav>
+  )
+}

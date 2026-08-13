@@ -4,12 +4,12 @@ export function entryPath(slug: string): string {
   return `/${siteConfig.directory.entryRoute}/${slug}`;
 }
 
-export function categoryPath(slug: string): string {
-  return `/category/${slug}`;
+export function categoryPath(slug: string, page = 1): string {
+  return page <= 1 ? `/category/${slug}` : `/category/${slug}/${page}`;
 }
 
-export function areaPath(slug: string): string {
-  return `/area/${slug}`;
+export function areaPath(slug: string, page = 1): string {
+  return page <= 1 ? `/area/${slug}` : `/area/${slug}/${page}`;
 }
 
 export function absoluteUrl(path: string): string {
@@ -21,12 +21,12 @@ export function entryUrl(slug: string): string {
   return absoluteUrl(entryPath(slug));
 }
 
-export function categoryUrl(slug: string): string {
-  return absoluteUrl(categoryPath(slug));
+export function categoryUrl(slug: string, page = 1): string {
+  return absoluteUrl(categoryPath(slug, page));
 }
 
-export function areaUrl(slug: string): string {
-  return absoluteUrl(areaPath(slug));
+export function areaUrl(slug: string, page = 1): string {
+  return absoluteUrl(areaPath(slug, page));
 }
 
 export function homePath(): string {
