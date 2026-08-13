@@ -1,0 +1,59 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import SiteHeader from "../components/navigation/SiteHeader.astro";
+import siteConfig from "../../config/site.config.ts";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <SiteHeader slot="header" />
+  <article class="legal-page">
+    <h1>{title}</h1>
+    <div class="legal-page__content">
+      <slot />
+    </div>
+    <p class="legal-page__meta muted">
+      Stand: {new Intl.DateTimeFormat(siteConfig.site.defaultLocale, {
+        day: "2-digit",
+        month: "long",
+        year: "numeric",
+      }).format(new Date())}
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .legal-page h1 {
+    margin-bottom: 1.5rem;
+  }
+  .legal-page__content :global(h2) {
+    font-size: 1.125rem;
+    margin: 2rem 0 0.75rem;
+  }
+  .legal-page__content :global(h3) {
+    font-size: 1rem;
+    margin: 1.25rem 0 0.5rem;
+  }
+  .legal-page__content :global(p),
+  .legal-page__content :global(ul),
+  .legal-page__content :global(ol) {
+    margin-bottom: 0.75rem;
+  }
+  .legal-page__content :global(ul),
+  .legal-page__content :global(ol) {
+    padding-left: 1.5rem;
+  }
+  .legal-page__content :global(li) {
+    margin-bottom: 0.35rem;
+  }
+  .legal-page__meta {
+    margin-top: 2.5rem;
+    font-size: 0.8125rem;
+  }
+</style>

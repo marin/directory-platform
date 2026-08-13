@@ -1,5 +1,7 @@
 ---
 import siteConfig from "../../config/site.config.ts";
+import SiteFooter from "../components/navigation/SiteFooter.astro";
+import CookieConsent from "../components/consent/CookieConsent.astro";
 
 interface Props {
   title: string;
@@ -128,8 +130,7 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteConfig.site.or
     <main class="container">
       <slot />
     </main>
-    <footer class="container" style="padding-bottom: 2rem; color: var(--color-muted); font-size: 0.875rem;">
-      <p>&copy; {new Date().getFullYear()} {siteConfig.site.name}</p>
-    </footer>
+    <SiteFooter />
+    <CookieConsent />
   </body>
 </html>

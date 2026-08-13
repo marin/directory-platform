@@ -1,0 +1,26 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro";
+import ContactForm from "../components/forms/ContactForm.astro";
+import siteConfig from "../../config/site.config.ts";
+---
+
+<LegalLayout
+  title="Eintrag melden"
+  description={`Eintrag korrigieren, beanspruchen oder vorschlagen — ${siteConfig.site.name}.`}
+>
+  <p>
+    Sind Sie Praxisinhaberin oder Praxisinhaber? Über dieses Formular können Sie uns Folgendes mitteilen:
+  </p>
+  <ul>
+    <li><strong>Korrektur</strong> — falsche Adresse, Telefonnummer, Öffnungszeiten o. Ä.</li>
+    <li><strong>Beanspruchen</strong> — Sie sind Inhaberin/Inhaber des Eintrags und möchten Änderungen vornehmen</li>
+    <li><strong>Neuer Eintrag</strong> — Ihre Praxis fehlt im Verzeichnis</li>
+    <li><strong>Löschung</strong> — Sie möchten, dass Ihr Eintrag entfernt wird</li>
+  </ul>
+  <p>
+    Bitte nennen Sie in Ihrer Nachricht den Praxisnamen und — wenn möglich — die URL des betroffenen
+    Eintrags auf unserer Website. Wir bearbeiten Anfragen in der Regel innerhalb von 5 Werktagen.
+  </p>
+
+  <ContactForm subject="Eintrag korrigieren" />
+</LegalLayout>

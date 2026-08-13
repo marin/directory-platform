@@ -1,0 +1,110 @@
+---
+import siteConfig from "../../../config/site.config.ts";
+
+interface Props {
+  subject?: string;
+  showSubject?: boolean;
+}
+
+const { subject = "", showSubject = true } = Astro.props;
+---
+
+<form
+  class="contact-form"
+  action={siteConfig.forms.contactAction}
+  method="POST"
+  data-testid="contact-form"
+>
+  {showSubject && (
+    <label class="contact-form__field">
+      <span>Betreff</span>
+      <select name="subject" required>
+        <option value="" disabled selected={!subject}>Bitte wählen …</option>
+        <option value="Allgemeine Anfrage" selected={subject === "Allgemeine Anfrage"}>Allgemeine Anfrage</option>
+        <option value="Eintrag korrigieren" selected={subject === "Eintrag korrigieren"}>Eintrag korrigieren</option>
+        <option value="Eintrag beanspruchen" selected={subject === "Eintrag beanspruchen"}>Eintrag beanspruchen</option>
+        <option value="Neuen Eintrag vorschlagen" selected={subject === "Neuen Eintrag vorschlagen"}>Neuen Eintrag vorschlagen</option>
+        <option value="Eintrag löschen" selected={subject === "Eintrag löschen"}>Eintrag löschen</option>
+        <option value="Datenschutzanfrage" selected={subject === "Datenschutzanfrage"}>Datenschutzanfrage</option>
+      </select>
+    </label>
+  )}
+  {!showSubject && subject && <input type="hidden" name="subject" value={subject} />}
+
+  <label class="contact-form__field">
+    <span>Name</span>
+    <input type="text" name="name" required autocomplete="name" />
+  </label>
+
+  <label class="contact-form__field">
+    <span>E-Mail</span>
+    <input type="email" name="email" required autocomplete="email" />
+  </label>
+
+  <label class="contact-form__field">
+    <span>Nachricht</span>
+    <textarea name="message" rows="6" required></textarea>
+  </label>
+
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true" />
+  <input type="hidden" name="_subject" value={`[${siteConfig.site.name}] Kontaktanfrage`} />
+
+  <p class="contact-form__hint muted">
+    Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Angaben gemäß unserer
+    <a href="/datenschutz">Datenschutzerklärung</a> zu. Alternativ erreichen Sie uns unter
+    <a href={`mailto:${siteConfig.operator.email}`}>{siteConfig.operator.email}</a>.
+  </p>
+
+  <button type="submit" class="contact-form__submit">Nachricht senden</button>
+</form>
+
+<style>
+  .contact-form {
+    display: grid;
+    gap: 1rem;
+    max-width: 36rem;
+    margin-top: 1.5rem;
+  }
+  .contact-form__field {
+    display: grid;
+    gap: 0.35rem;
+    font-size: 0.9375rem;
+  }
+  .contact-form__field span {
+    font-weight: 600;
+  }
+  .contact-form__field input,
+  .contact-form__field select,
+  .contact-form__field textarea {
+    padding: 0.625rem 0.75rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    font: inherit;
+    background: var(--color-surface);
+    color: var(--color-text);
+  }
+  .contact-form__field input:focus,
+  .contact-form__field select:focus,
+  .contact-form__field textarea:focus {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 1px;
+  }
+  .contact-form__hint {
+    font-size: 0.8125rem;
+    margin: 0;
+  }
+  .contact-form__submit {
+    justify-self: start;
+    padding: 0.625rem 1.25rem;
+    border: none;
+    border-radius: var(--radius);
+    background: var(--color-accent);
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    cursor: pointer;
+  }
+  .contact-form__submit:hover {
+    background: #1d4ed8;
+  }
+</style>

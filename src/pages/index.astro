@@ -5,6 +5,8 @@ import EntryCard from "../components/cards/EntryCard.astro";
 import { loadDataset } from "../lib/data/load-dataset.ts";
 import { computeCategoryStats } from "../lib/aggregates/compute.ts";
 import { toEntryCardViewModel } from "../lib/data/view-models/entry.ts";
+import JsonLd from "../components/seo/JsonLd.astro";
+import { buildOrganizationJsonLd } from "../lib/seo/structured-data/organization.ts";
 import siteConfig from "../../config/site.config.ts";
 
 const dataset = loadDataset();
@@ -19,6 +21,7 @@ const featured = dataset.entries
 ---
 
 <BaseLayout title={siteConfig.site.name} description={siteConfig.site.description}>
+  <JsonLd slot="head" data={buildOrganizationJsonLd()} />
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <h1>{siteConfig.site.name}</h1>
   <p class="muted">{siteConfig.site.description}</p>

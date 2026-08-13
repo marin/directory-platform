@@ -7,6 +7,23 @@ export const siteConfigSchema = z.object({
     description: z.string().min(1),
     defaultLocale: z.string().min(2),
   }),
+  operator: z.object({
+    name: z.string().min(1),
+    street: z.string().min(1),
+    postalCode: z.string().min(1),
+    city: z.string().min(1),
+    country: z.string().min(1),
+    email: z.string().email(),
+    phone: z.string().optional(),
+    legalForm: z.string().min(1),
+    contentResponsible: z.string().min(1),
+    vatId: z.string().optional(),
+    registerCourt: z.string().optional(),
+    registerNumber: z.string().optional(),
+  }),
+  forms: z.object({
+    contactAction: z.string().url(),
+  }),
   directory: z.object({
     entrySingular: z.string().min(1),
     entryPlural: z.string().min(1),

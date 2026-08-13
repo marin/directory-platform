@@ -51,7 +51,7 @@ git push origin main
 
 ### Vercel
 
-Production URL: https://directory-platform-swart.vercel.app
+Production URL: https://naturav.com
 
 The Vercel project `directory-platform` is linked locally (`.vercel/project.json`). To enable automatic deploys on push:
 

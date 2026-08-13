@@ -1,0 +1,22 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro";
+import ContactForm from "../components/forms/ContactForm.astro";
+import siteConfig from "../../config/site.config.ts";
+---
+
+<LegalLayout
+  title="Kontakt"
+  description={`Kontaktieren Sie ${siteConfig.site.name} — Fragen, Feedback und Datenschutzanfragen.`}
+>
+  <p>
+    Haben Sie Fragen zu unserem Verzeichnis, möchten einen Fehler melden oder eine Datenschutzanfrage
+    stellen? Schreiben Sie uns über das Formular oder direkt per E-Mail an
+    <a href={`mailto:${siteConfig.operator.email}`}>{siteConfig.operator.email}</a>.
+  </p>
+  <p>
+    Für Eintragsänderungen, Löschungen oder neue Einträge nutzen Sie auch unsere Seite
+    <a href="/eintrag-melden">Eintrag melden</a>.
+  </p>
+
+  <ContactForm />
+</LegalLayout>

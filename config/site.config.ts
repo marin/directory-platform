@@ -7,10 +7,25 @@ export function defineSite<T extends SiteConfig>(config: T): T {
 export default defineSite({
   site: {
     name: "Heilpraktiker Berlin",
-    origin: "https://directory-platform-swart.vercel.app",
+    origin: "https://naturav.com",
     description:
       "Unabhängiges Verzeichnis von Heilpraktiker-Praxen in Berlin – nach Schwerpunkt und Bezirk.",
     defaultLocale: "de-DE",
+  },
+
+  operator: {
+    name: "Michael Schmidt",
+    street: "Torstr. 105-107",
+    postalCode: "10119",
+    city: "Berlin",
+    country: "Deutschland",
+    email: "info@naturav.com",
+    legalForm: "Einzelunternehmen",
+    contentResponsible: "Michael Schmidt",
+  },
+
+  forms: {
+    contactAction: "https://formspree.io/f/meajkpdn",
   },
 
   directory: {

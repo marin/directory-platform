@@ -1,0 +1,39 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro";
+import siteConfig from "../../config/site.config.ts";
+---
+
+<LegalLayout
+  title="Über uns"
+  description={`${siteConfig.site.name} — unabhängiges Verzeichnis von Heilpraktiker-Praxen in Berlin.`}
+>
+  <p>
+    {siteConfig.site.name} wird von {siteConfig.operator.name} aus Berlin betrieben. Wir führen ein
+    unabhängiges Verzeichnis von Heilpraktiker-Praxen in Berlin, filterbar nach Schwerpunkt und Bezirk.
+  </p>
+  <p>
+    Die Daten stammen aus öffentlichen Quellen, redaktioneller Recherche und Meldungen von
+    Praxisinhabern; wir aktualisieren sie regelmäßig und kennzeichnen Änderungen mit einem
+    Aktualisierungsdatum auf den jeweiligen Eintragsseiten.
+  </p>
+  <p>
+    <strong>Wichtiger Hinweis:</strong> Dieses Verzeichnis ersetzt keine ärztliche Beratung. Die
+    Angaben dienen der Orientierung und werden ohne Gewähr bereitgestellt. Für medizinische Fragen
+    wenden Sie sich bitte an einen Arzt oder eine approbierte Therapeutin bzw. einen approbierten
+    Therapeuten.
+  </p>
+
+  <h2>Unsere Datenquellen</h2>
+  <ul>
+    <li>Öffentlich zugängliche Unternehmens- und Branchenverzeichnisse</li>
+    <li>Redaktionelle Recherche und Qualitätsprüfung</li>
+    <li>Meldungen und Korrekturen von Praxisinhabern</li>
+  </ul>
+
+  <h2>Transparenz &amp; Aktualität</h2>
+  <p>
+    Jeder Eintrag zeigt ein Aktualisierungsdatum. Wir bemühen uns, Änderungen zeitnah zu übernehmen.
+    Wenn Sie einen Fehler entdecken, helfen Sie uns gern über
+    <a href="/eintrag-melden">Eintrag melden</a>.
+  </p>
+</LegalLayout>

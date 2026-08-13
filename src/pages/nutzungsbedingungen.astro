@@ -1,0 +1,80 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro";
+import siteConfig from "../../config/site.config.ts";
+---
+
+<LegalLayout
+  title="Nutzungsbedingungen"
+  description={`Nutzungsbedingungen für ${siteConfig.site.name}.`}
+>
+  <h2>1. Geltungsbereich</h2>
+  <p>
+    Diese Nutzungsbedingungen regeln die Nutzung des Verzeichnisses {siteConfig.site.name}, betrieben
+    von {siteConfig.operator.name}. Mit der Nutzung der Website erkennen Sie diese Bedingungen an.
+  </p>
+
+  <h2>2. Leistungsbeschreibung</h2>
+  <p>
+    {siteConfig.site.name} ist ein kostenloses Informationsverzeichnis von Heilpraktiker-Praxen in
+    Berlin. Wir stellen redaktionell gepflegte Einträge mit Kontakt- und Standortinformationen zur
+    Verfügung. Es besteht kein Anspruch auf Aufnahme, bestimmte Platzierung oder dauerhafte Veröffentlichung
+    eines Eintrags.
+  </p>
+
+  <h2>3. Kein medizinischer Rat</h2>
+  <p>
+    Die Inhalte dienen ausschließlich der allgemeinen Information und Orientierung. Sie ersetzen keine
+    ärztliche Beratung, Diagnose oder Behandlung. Für gesundheitliche Entscheidungen konsultieren Sie
+    bitte qualifiziertes medizinisches Fachpersonal.
+  </p>
+
+  <h2>4. Richtigkeit der Angaben</h2>
+  <p>
+    Wir bemühen uns um aktuelle und korrekte Daten, übernehmen jedoch keine Gewähr für Vollständigkeit,
+    Richtigkeit oder Aktualität. Preisangaben, Öffnungszeiten und Leistungsbeschreibungen können sich
+  ändern — bitte prüfen Sie wichtige Informationen direkt bei der jeweiligen Praxis.
+  </p>
+
+  <h2>5. Einträge einreichen, beanspruchen und korrigieren</h2>
+  <p>
+    Praxisinhaberinnen und -inhaber können über <a href="/eintrag-melden">Eintrag melden</a> Korrekturen,
+    Löschungen oder neue Einträge anfragen. Mit der Einreichung bestätigen Sie, dass Sie berechtigt sind,
+    die übermittelten Daten zu nennen, und dass die Angaben nach bestem Wissen korrekt sind.
+  </p>
+  <p>
+    Wir behalten uns vor, Einträge zu prüfen, zu ergänzen, zu korrigieren oder abzulehnen, wenn sie
+    unvollständig, irreführend oder rechtswidrig sind.
+  </p>
+
+  <h2>6. Externe Links</h2>
+  <p>
+    Einträge können Links zu Websites Dritter enthalten. Für deren Inhalte sind ausschließlich die
+    jeweiligen Betreiber verantwortlich.
+  </p>
+
+  <h2>7. Urheberrecht</h2>
+  <p>
+    Die redaktionellen Texte, das Layout und die Struktur dieser Website sind urheberrechtlich geschützt.
+    Die Vervielfältigung oder Verwendung außerhalb der engen Grenzen des Urheberrechts bedarf unserer
+    vorherigen schriftlichen Zustimmung.
+  </p>
+
+  <h2>8. Haftungsbeschränkung</h2>
+  <p>
+    Wir haften nur für Vorsatz und grobe Fahrlässigkeit. Die Haftung für leichte Fahrlässigkeit ist
+    ausgeschlossen, soweit nicht wesentliche Vertragspflichten, Leben, Körper oder Gesundheit betroffen
+    sind. Dies gilt entsprechend für Erfüllungsgehilfen.
+  </p>
+
+  <h2>9. Änderungen</h2>
+  <p>
+    Wir können diese Nutzungsbedingungen jederzeit anpassen. Die jeweils aktuelle Fassung ist auf dieser
+    Seite abrufbar.
+  </p>
+
+  <h2>10. Anwendbares Recht</h2>
+  <p>
+    Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Gerichtsstand
+    für Streitigkeiten ist — soweit gesetzlich zulässig — Berlin.
+  </p>
+</LegalLayout>
