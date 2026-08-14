@@ -64,8 +64,8 @@ const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
         padding: 1.25rem;
       }
       .grid { display: grid; gap: 1rem; }
-      @media (min-width: 640px) { .grid-2 { grid-template-columns: repeat(2, 1fr); } }
-      @media (min-width: 1024px) { .grid-3 { grid-template-columns: repeat(3, 1fr); } }
+      @media (min-width: 640px) { .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+      @media (min-width: 1024px) { .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
       .badge {
         display: inline-block;
         font-size: 0.75rem;
