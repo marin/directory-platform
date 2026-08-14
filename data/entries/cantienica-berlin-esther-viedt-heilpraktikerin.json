@@ -2,8 +2,8 @@
   "id": "cantienica-berlin-esther-viedt-heilpraktikerin",
   "slug": "cantienica-berlin-esther-viedt-heilpraktikerin",
   "name": "CANTIENICA Berlin | Esther Viedt | Heilpraktikerin",
-  "description": "CANTIENICA Berlin | Esther Viedt | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "CANTIENICA Berlin wird von Esther Viedt geleitet und bietet eine Vielzahl von naturheilkundlichen Behandlungen an, die sich auf die Neurofunktionelle Integration nach Dr. med. Philip Eckardt konzentrieren. Die Praxis in Lichterfelde West legt besonderen Wert auf funktionelles Körpertraining nach der CANTIENICA®-Methode und dem Konzept der Spiraldynamik®. Zudem werden Workshops zu Themen wie Beckenboden, Inkontinenz und Organsenkungen angeboten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,66 @@
   "email": "info@estherviedt.de",
   "website": "http://www.cantienicaberlin.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlung des Nervensystems"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sommerpause"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine Praxis in Lichterfelde West"
+    },
+    {
+      "id": "offer-4",
+      "name": "Workshops 2026"
+    },
+    {
+      "id": "offer-5",
+      "name": "CANTIENICA®-Beckenbodentraining"
+    },
+    {
+      "id": "offer-6",
+      "name": "Trainingsangebot"
+    },
+    {
+      "id": "offer-7",
+      "name": "Die CANTIENICA®-Methode"
+    }
+  ],
+  "images": [
+    "https://estherviedt.de/wp-content/uploads/2019/06/Urlaub_770px-310x184.png",
+    "https://estherviedt.de/wp-content/uploads/2014/04/IMG_9150_770px-310x207.jpg",
+    "https://estherviedt.de/wp-content/uploads/2014/12/IMG_9163_770px-310x178.jpg",
+    "https://estherviedt.de/wp-content/uploads/2014/03/IMG_9141_heller_770px-310x173.jpg",
+    "https://estherviedt.de/wp-content/uploads/2014/03/IMG_6268_02_770px-310x206.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Esther Viedt?",
+      "answer": "Die Praxis von Esther Viedt befindet sich in der Baseler Str. 12, 12205 Berlin, im Stadtteil Lichterfelde West."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Esther Viedt an?",
+      "answer": "Esther Viedt bietet unter anderem die Behandlung des Nervensystems sowie die Neurofunktionelle Integration nach Dr. med. Philip Eckardt an."
+    },
+    {
+      "question": "Wann ist die Praxis von Esther Viedt geschlossen?",
+      "answer": "Die Praxis ist vom 27. Juli bis 15. August 2026 geschlossen."
+    },
+    {
+      "question": "Was ist die CANTIENICA®-Methode?",
+      "answer": "Die CANTIENICA®-Methode ist ein intelligentes Körpertraining, das Bewusstsein und Wahrnehmung für die optimale Haltung des gesamten Körpers fördert."
+    },
+    {
+      "question": "Wie kann ich Esther Viedt kontaktieren?",
+      "answer": "Sie können Esther Viedt telefonisch unter 01634004129 oder per E-Mail an info@estherviedt.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzTRNAl9aqEcR8NRLeFWh7sM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

@@ -2,8 +2,8 @@
   "id": "heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis-chijm3wjul5j",
   "slug": "heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis-chijm3wjul5j",
   "name": "Heilpraxis Katja Anelia - Heilpraktiker:in | Gestalttherapie | Psychotherapie | Systemisches Coaching | Berlin & online",
-  "description": "Heilpraxis Katja Anelia - Heilpraktiker:in | Gestalttherapie | Psychotherapie | Systemisches Coaching | Berlin & online ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Katja Anelia in Berlin bietet eine Vielzahl von therapeutischen Ansätzen, darunter Gestalttherapie, systemisches Coaching und Ayurveda. Die Praxis legt Wert auf ganzheitliche Gesundheit und unterstützt Klienten dabei, ein tieferes Verständnis für sich selbst und ihre Lebensumstände zu entwickeln. Neben individuellen Therapieansätzen werden auch körperorientierte Heilmethoden sowie spirituelle Praktiken integriert, um emotionale Blockaden zu lösen und das Wohlbefinden zu fördern. Die Angebote sind sowohl vor Ort in Berlin als auch online verfügbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -48,7 +48,62 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gestalttherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Systemisches Coaching"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ayurveda"
+    },
+    {
+      "id": "offer-4",
+      "name": "instagram"
+    },
+    {
+      "id": "offer-5",
+      "name": "facebook"
+    },
+    {
+      "id": "offer-6",
+      "name": "Imprint"
+    }
+  ],
+  "images": [
+    "https://static.tildacdn.net/tild3739-3134-4038-b634-626535666466/Katja-Kossakowski.jpg",
+    "https://thb.tildacdn.net/tild3937-6635-4338-b738-386236346436/-/empty/220430-KatjaAyurveda.jpg",
+    "https://thb.tildacdn.net/tild3666-6535-4662-b830-383463316630/-/empty/Katja-95.jpg",
+    "https://thb.tildacdn.net/tild3933-3863-4462-a632-376264343539/-/empty/220430-KatjaAyurveda.jpg",
+    "https://thb.tildacdn.net/tild6363-3430-4662-b435-316232363837/-/empty/IMG_4963.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet die Heilpraxis Katja Anelia an?",
+      "answer": "Die Heilpraxis Katja Anelia bietet Gestalttherapie, systemisches Coaching und Ayurveda an."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Katja Anelia?",
+      "answer": "Die Heilpraxis befindet sich in der Zeppelinstraße 79, 12459 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über den folgenden Link buchen: Termin buchen."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten der Heilpraxis?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Heilpraktikerin Katja Anelia kontaktieren?",
+      "answer": "Sie können Katja Anelia per E-Mail unter katjaanelia@posteo.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm3wJUl5JqEcRBojbz48a1wc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

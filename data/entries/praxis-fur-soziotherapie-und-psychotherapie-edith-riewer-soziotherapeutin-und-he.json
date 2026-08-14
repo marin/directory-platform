@@ -2,8 +2,8 @@
   "id": "praxis-fur-soziotherapie-und-psychotherapie-edith-riewer-soziotherapeutin-und-he",
   "slug": "praxis-fur-soziotherapie-und-psychotherapie-edith-riewer-soziotherapeutin-und-he",
   "name": "Praxis für Soziotherapie und Psychotherapie, Edith Riewer Soziotherapeutin und Heilpraktikerin für Psychotherapie",
-  "description": "Praxis für Soziotherapie und Psychotherapie, Edith Riewer Soziotherapeutin und Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Soziotherapie und Psychotherapie von Edith Riewer befindet sich in der Kochhannstraße 21 in Berlin-Friedrichshain. Als erfahrene Soziotherapeutin und Heilpraktikerin für Psychotherapie bietet sie individuelle Beratungen und Gespräche an, um Klienten bei der Bewältigung ihrer Herausforderungen zu unterstützen. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und eine ganzheitliche Herangehensweise an psychische Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,40 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "\\- Jane Smith"
+    }
+  ],
+  "images": [
+    "https://praxis-fuer-soziotherapie.com/wp-content/uploads/2023/02/info-2.jpg",
+    "https://praxis-fuer-soziotherapie.com/wp-content/uploads/2023/02/info-bg-2.jpg",
+    "https://praxis-fuer-soziotherapie.com/wp-content/uploads/2023/08/praxis-soziotherapie-logo-300.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Soziotherapie und Psychotherapie von Edith Riewer?",
+      "answer": "Die Praxis befindet sich in der Kochhannstraße 21, 10249 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/edith-riewer?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag 09:00 - 17:00, Dienstag bis Donnerstag 09:00 - 18:00, und Freitag 10:00 - 17:00."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet Soziotherapie und Psychotherapie an."
+    },
+    {
+      "question": "Wie kann ich die Praxis telefonisch erreichen?",
+      "answer": "Sie können die Praxis unter der Telefonnummer 015224026308 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq5u5ZPBPqEcROCvYNoALq-c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

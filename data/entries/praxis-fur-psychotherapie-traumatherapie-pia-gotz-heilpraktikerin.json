@@ -2,8 +2,8 @@
   "id": "praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin",
   "slug": "praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin",
   "name": "Praxis für Psychotherapie & Traumatherapie – Pia Götz. Heilpraktikerin",
-  "description": "Praxis für Psychotherapie & Traumatherapie – Pia Götz. Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die folgenden Hinweise geben einen Überblick darüber, welche personenbezogenen Daten auf dieser Website erfasst und wie sie verarbeitet werden. Heilpraktikerin (Psychotherapie, Chinesische Medizin)",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -44,7 +44,53 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychotherapie in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "“Panta rhei – Alles fließt” Heraklit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Stress & Nervensystem"
+    },
+    {
+      "id": "offer-4",
+      "name": "Psychotherapie & Traumatherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Traumatherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Orientierung im therapeutischen Prozess"
+    },
+    {
+      "id": "offer-8",
+      "name": "Ablauf, Preise & Termine"
+    },
+    {
+      "id": "offer-9",
+      "name": "über Pia Götz"
+    }
+  ],
+  "images": [
+    "https://piagoetz.com/wp-content/uploads/Pia-2022-bunt-grose-Auflosung-5-scaled.jpg",
+    "https://piagoetz.com/wp-content/uploads/mitglied_im_gepfadet_schwarz_100-200x200.jpg",
+    "https://piagoetz.com/wp-content/uploads/member_3c.png",
+    "https://piagoetz.com/wp-content/uploads/Pia-2022-bunt-grose-Auflosung-6-scaled-432x550.jpg",
+    "https://piagoetz.com/wp-content/uploads/schivelbeiner-strasse-40-10439-berlin.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ06rv15VTqEcRyB7CnEwnN1U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26
 }

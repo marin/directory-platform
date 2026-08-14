@@ -2,8 +2,8 @@
   "id": "hauptstadttherapeut-traumatherapie-hypnose-emdr-markus-janssen-psychotherapeutis",
   "slug": "hauptstadttherapeut-traumatherapie-hypnose-emdr-markus-janssen-psychotherapeutis",
   "name": "#Hauptstadttherapeut | Traumatherapie ° Hypnose, EMDR ° MARKUS JANSSEN, Psychotherapeutischer Heilpraktiker",
-  "description": "#Hauptstadttherapeut | Traumatherapie ° Hypnose, EMDR ° MARKUS JANSSEN, Psychotherapeutischer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Markus Janssen ist als psychotherapeutischer Heilpraktiker in Berlin tätig und bietet eine Vielzahl von Therapieansätzen an, darunter Traumatherapie, Hypnose und EMDR. In seiner Praxis legt er großen Wert auf eine individuelle und einfühlsame Begleitung seiner Klienten, um deren persönliche Bedürfnisse zu erfüllen. Neben der psychologischen Beratung unterstützt er auch bei Krisenbewältigung und Veränderungsprozessen, sowohl für Einzelpersonen als auch für Paare und Familien.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -50,7 +50,46 @@
       "close": "16:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Auf deinem Weg,"
+    },
+    {
+      "id": "offer-2",
+      "name": "… unterstütze ich dich"
+    }
+  ],
+  "images": [
+    "https://www.hauptstadttherapeut.de/wp-content/uploads/Traumatherapie-in-Berlin.png",
+    "https://www.hauptstadttherapeut.de/wp-content/uploads/2017/10/Heilpraktiker-Psychotherapie-Hypnose_quad.png",
+    "https://www.hauptstadttherapeut.de/wp-content/uploads/2015/07/Heilpraktiker-Psychotherapie-Coaching-e1542843487494.png",
+    "https://www.hauptstadttherapeut.de/wp-content/uploads/HafenKreis_Start.png",
+    "https://www.hauptstadttherapeut.de/wp-content/uploads/wortwolke_1100.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Markus Janssen an?",
+      "answer": "Markus Janssen bietet Traumatherapie, Hypnose, EMDR sowie systemisches Coaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Hauptstadttherapeut?",
+      "answer": "Die Praxis befindet sich in Berlin, Alt-Tegel 13, 13507 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie direkt über die Website unter https://www.hauptstadttherapeut.de/termindirekt buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Dienstag und Mittwoch von 09:00 bis 20:00 Uhr, Donnerstag von 09:00 bis 19:00 Uhr und Freitag von 09:30 bis 16:30 Uhr."
+    },
+    {
+      "question": "Wie kann ich Markus Janssen kontaktieren?",
+      "answer": "Sie können Markus Janssen telefonisch unter 03012085959 oder per E-Mail an hallo@hauptstadttherapeut.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnVTOwmtTqEcRFdoPh5nSCAc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

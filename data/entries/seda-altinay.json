@@ -2,8 +2,8 @@
   "id": "seda-altinay",
   "slug": "seda-altinay",
   "name": "Seda Altinay",
-  "description": "Seda Altinay ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Seda Altinay ist eine ganzheitliche Heilpraktikerin in Berlin-Neukölln, die sich auf die sanfte und nachhaltige Behandlung chronischer und wiederkehrender Beschwerden spezialisiert hat. Ihr Therapieansatz kombiniert bewährte Naturheilkunde mit moderner Diagnostik und umfasst Methoden wie Pflanzenheilkunde, Aromatherapie, Darmsanierung und hochdosierte Vitamin-C-Infusionen. In ihrer Praxis legt sie großen Wert auf individuelle Beratung und Behandlung, um das Wohlbefinden und die Gesundheit ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,80 @@
   "phone": "015906118358",
   "email": "praxis@seda-altinay.de",
   "website": "http://seda-altinay.de/",
+  "bookingUrl": "tel:+4915906118358",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ätherische Öle gezielt eingesetzt"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hautproblemen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Stress, innerer Unruhe und Burnout"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schlafproblemen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Atemwegserkrankungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Verdauungsbeschwerden und Darmgesundheit"
+    },
+    {
+      "id": "offer-7",
+      "name": "Emotionaler Belastung und Stimmungsschwankungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Begleitend bei chronischen Erkrankungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kosten und Erstattung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Mein Therapieangebot"
+    }
+  ],
+  "images": [
+    "https://seda-altinay.de/wp-content/uploads/2026/03/DSC05216_bearbeitet3-1024x683.jpeg",
+    "https://seda-altinay.de/wp-content/uploads/2026/03/crop-0-0-1281-1280-0-giorgio-trovato-OU289M2wuH0-unsplash-edited.jpg",
+    "https://seda-altinay.de/wp-content/uploads/2026/03/bundo-kim-ur2zmbseUIA-unsplash-1920x1920-1-1024x1024.jpeg",
+    "https://seda-altinay.de/wp-content/uploads/2026/03/chelsea-shapouri-r40EYKVyutI-unsplash_1600x1600-1024x1024.jpeg",
+    "https://seda-altinay.de/wp-content/uploads/2026/03/DSC05216_bearbeitet3-scaled.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Beschwerden kann ich in der Naturheilpraxis Seda Altinay behandeln lassen?",
+      "answer": "In der Naturheilpraxis Seda Altinay können Sie Beschwerden wie Hautprobleme, Stress, innere Unruhe, Schlafprobleme, geschwächtes Immunsystem, chronische Erschöpfung, Atemwegserkrankungen, Verdauungsbeschwerden, emotionale Belastungen und begleitend bei chronischen Erkrankungen behandeln lassen."
+    },
+    {
+      "question": "Wie läuft eine Behandlung in der Praxis ab?",
+      "answer": "Die Behandlung in der Praxis von Seda Altinay erfolgt ganzheitlich und individuell abgestimmt auf den Patienten. Es wird Zeit für die Gesundheit und das Wohlbefinden des Patienten genommen."
+    },
+    {
+      "question": "Bietet die Praxis auch Beratungen in anderen Sprachen an?",
+      "answer": "Ja, in der Praxis von Seda Altinay werden Beratungen auf Deutsch, Türkisch und Englisch angeboten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Seda Altinay vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Seda Altinay telefonisch unter der Nummer 015906118358 vereinbaren."
+    },
+    {
+      "question": "Welche Therapieansätze werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden verschiedene Therapieansätze angeboten, darunter Pflanzenheilkunde, Aromatherapie, Darmsanierung und hochdosierte Vitamin-C-Infusionen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-lDVeZRqEcREtemOIRMFaw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12
 }

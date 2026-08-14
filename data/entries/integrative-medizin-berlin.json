@@ -2,8 +2,8 @@
   "id": "integrative-medizin-berlin",
   "slug": "integrative-medizin-berlin",
   "name": "Integrative Medizin Berlin",
-  "description": "Integrative Medizin Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis \"Integrative Medizin Berlin\" in Berlin-Kreuzberg bietet einen ganzheitlichen Ansatz, der komplementäre und konventionelle Medizin vereint. Unter der Leitung von Anton Urlacher werden Methoden wie Chinesische Medizin, Japanische Akupunktur und mitochondriale Therapien angewendet, um individuelle Gesundheitsbedürfnisse zu adressieren. Ziel ist es, nicht nur Symptome zu behandeln, sondern auch die Ursachen von Erkrankungen zu erkennen und zu therapieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
@@ -52,7 +52,45 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Mögliche Indikationen für einen Heilungsansatz durch Integrative Medizin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Das sagen unsere Patienten"
+    }
+  ],
+  "images": [
+    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/chinesische-medizin3.png",
+    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/ohrakupunktur.png",
+    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/westliche-medizin.png",
+    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/mitochonrientherapie.png"
+  ],
+  "faq": [
+    {
+      "question": "Was ist Integrative Medizin?",
+      "answer": "Integrative Medizin bezeichnet eine Kombination von komplementärer und konventioneller Medizin. Sie umfasst sowohl Erkenntnisse aus der Schulmedizin als auch aus den Naturheilverfahren, wie z.B. Chinesische Medizin und Akupunktur."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist von Montag bis Donnerstag von 09:00 bis 17:00 Uhr und am Freitag von 09:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 017623252354 oder per E-Mail an praxis@integrative-heilkunst-berlin.de vereinbaren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Großbeerenstraße 13A, 10963 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Welche Indikationen können mit Integrativer Medizin behandelt werden?",
+      "answer": "Integrative Medizin kann bei verschiedenen Erkrankungen lindernd, unterstützend und verbessernd wirken, insbesondere wenn die Schulmedizin nicht ausreichend weiterhelfen konnte."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9zNyxQqEcR6QNFSXjA2z0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

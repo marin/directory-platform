@@ -2,8 +2,8 @@
   "id": "marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald",
   "slug": "marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald",
   "name": "Marta Steigerwald-Ihre Naturheilpraxis Charlottenburg Marta Steigerwald",
-  "description": "Marta Steigerwald-Ihre Naturheilpraxis Charlottenburg Marta Steigerwald ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Marta Steigerwald-Ihre Naturheilpraxis in Berlin-Charlottenburg ist auf medizinische Ästhetik und Anti Aging spezialisiert. Die mehrfach zertifizierte Expertin bietet ein breites Behandlungsspektrum, darunter Faltenunterspritzung, Kollagenaufbau, Fadenlifting und Microneedling. In der Praxis wird großer Wert auf individuelle Beratung und maßgeschneiderte Behandlungen gelegt, um den Patienten zu einem strahlenden Erscheinungsbild zu verhelfen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,63 @@
   "phone": "015233805057",
   "email": "info@steigerwald-beauty.de",
   "website": "https://steigerwald-beauty.de/",
+  "bookingUrl": "https://steigerwald-beauty.de/?page_id=346",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Eine Frage des Könnens!"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wenn Sie gewusst hätten..."
+    },
+    {
+      "id": "offer-3",
+      "name": "...dass"
+    },
+    {
+      "id": "offer-4",
+      "name": "...nie einfacher war!"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ihre Expertin für Anti Aging!"
+    },
+    {
+      "id": "offer-6",
+      "name": "Was unsere Kunden über uns sagen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Kontaktieren Sie uns!"
+    }
+  ],
+  "images": [
+    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/pexels-photo-371126-scaled.jpeg",
+    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/pexels-photo-458766-scaled.jpeg",
+    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/Faltenunterspritzung-Hyaluron-1422x630-1.jpg",
+    "https://steigerwald-beauty.de/wp-content/uploads/2020/01/LogoMakr_7Ul1NZ.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis von Marta Steigerwald an?",
+      "answer": "Die Praxis bietet ein breites Behandlungsspektrum im Bereich der medizinischen Ästhetik und Anti Aging an, darunter Faltenunterspritzung mit Hyaluronsäure, Vampirlifting, Fadenlifting, Kollagenaufbau und Microneedling."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Marta Steigerwald?",
+      "answer": "Die Praxis befindet sich in der Heerstraße 2, 14052 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 015233805057 oder per E-Mail an info@steigerwald-beauty.de kontaktieren."
+    },
+    {
+      "question": "Was sagen Kunden über die Behandlungen in der Praxis?",
+      "answer": "Kunden berichten von einer sehr netten und kompetenten Beratung sowie von positiven Behandlungsergebnissen, die sie in der Praxis erfahren haben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw0bCLOZQqEcRkF9jfCJSa9s",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 15
 }

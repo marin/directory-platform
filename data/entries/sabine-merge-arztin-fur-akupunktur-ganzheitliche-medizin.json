@@ -2,8 +2,8 @@
   "id": "sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin",
   "slug": "sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin",
   "name": "Sabine Merge Ärztin für Akupunktur & ganzheitliche Medizin",
-  "description": "Sabine Merge Ärztin für Akupunktur & ganzheitliche Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabine Merge ist Ärztin für Akupunktur und ganzheitliche Medizin in Berlin-Steglitz-Zehlendorf. Seit 2000 bietet sie eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, Homöopathie und Ayurveda. Ihr therapeutischer Ansatz zielt darauf ab, die Selbstheilungskräfte der Patienten zu aktivieren und ihre Gesundheit ganzheitlich zu fördern. In ihrer Praxis kombiniert sie traditionelle Heilmethoden mit modernen Erkenntnissen, um individuelle Lösungen für ihre Patienten zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -49,6 +49,35 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://akupunktur-dr.berlin/wp-content/uploads/2016/06/sabine-merge-praxis-0-400x533.jpg",
+    "http://akupunktur-dr.berlin/wp-content/uploads/2016/06/sabine-merge-schild-400x533.jpg",
+    "http://akupunktur-dr.berlin/wp-content/uploads/2016/07/beratung-400x266.jpg",
+    "http://akupunktur-dr.berlin/wp-content/uploads/2016/07/praxis-mitarbeiter-400x267.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Sabine Merge an?",
+      "answer": "Sabine Merge bietet Akupunktur, Homöopathie, Ayurveda, Moxibustion, Laserakupunktur, Schröpfen, Phytotherapie, Ernährungsberatung und Ordnungstherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sabine Merge?",
+      "answer": "Die Praxis von Sabine Merge befindet sich in der Holbeinstraße 28, 12203 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind Montag von 09:00 bis 14:00 Uhr, Dienstag und Donnerstag von 09:00 bis 18:00 Uhr sowie Freitag von 09:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Sabine Merge kontaktieren?",
+      "answer": "Sie können Sabine Merge telefonisch unter 03084314439 oder über die Webseite http://akupunktur-dr.berlin/ kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Behandlung in der Praxis von Sabine Merge?",
+      "answer": "Das Ziel der Behandlung in der Praxis von Sabine Merge ist es, die Gesundheit der Patienten zu fördern."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5cRO0PVaqEcRPE1MYfdSQEU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

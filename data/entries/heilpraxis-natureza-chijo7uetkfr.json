@@ -2,8 +2,8 @@
   "id": "heilpraxis-natureza-chijo7uetkfr",
   "slug": "heilpraxis-natureza-chijo7uetkfr",
   "name": "Heilpraxis Natureza",
-  "description": "Heilpraxis Natureza ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Natureza in Berlin-Charlottenburg wird von Nayla Hettich-Fonseca geleitet, einer erfahrenen Heilpraktikerin und Epigenetik-Coach. Die Praxis bietet individuelle Therapien in den Bereichen Homöopathie und Naturheilkunde an, wobei der Fokus auf der ganzheitlichen Betrachtung von Körper, Geist und Seele liegt. Zu den Schwerpunkten zählen unter anderem Darmsanierung, Colon-Hydro-Therapie sowie Epigenetik- und Gesundheitscoaching, um die Gesundheit der Patienten nachhaltig zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -28,7 +28,54 @@
   "website": "http://www.heilpraxis-natureza.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nayla-hettich-fonseca/booking/new-patient?specialityId=1236&bookingFunnelSource=profile",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Services für Sie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Epigenetik- Gesundheitscoaching"
+    },
+    {
+      "id": "offer-3",
+      "name": "Epigenetik"
+    },
+    {
+      "id": "offer-4",
+      "name": "Gute Gründe für meine Praxis in Berlin-Charlottenburg"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://heilpraxis-natureza.de/wp-content/uploads/2023/08/Heilpraxis-Natureza_Coaching_Fr.-Hettich-Fonseca-1172-Bearbeitet-1024x683.jpg",
+    "https://heilpraxis-natureza.de/wp-content/uploads/2020/04/heilpraxis_natureza_65-393x262.jpg",
+    "https://heilpraxis-natureza.de/wp-content/uploads/2020/05/heilpraxis_natureza_ausleitung_neu.jpg",
+    "https://heilpraxis-natureza.de/wp-content/uploads/2020/05/heilpraxis_natureza_69-393x262.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Heilpraxis Natureza an?",
+      "answer": "Die Heilpraxis Natureza bietet unter anderem Epigenetik- und Gesundheitscoaching, Darmsanierung sowie Colon-Hydro-Therapie an."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Natureza?",
+      "answer": "Die Heilpraxis Natureza befindet sich in Berlin-Charlottenburg, Erdgeschoß - Laden Links, 10589 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Natureza buchen?",
+      "answer": "Sie können einen Termin online über den folgenden Link buchen: Termin Online buchen."
+    },
+    {
+      "question": "Wer ist die Inhaberin der Heilpraxis Natureza?",
+      "answer": "Die Inhaberin der Heilpraxis Natureza ist Nayla Hettich-Fonseca, die als Heilpraktikerin und Epigenetik-Coach tätig ist."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Natureza kontaktieren?",
+      "answer": "Sie können die Heilpraxis Natureza telefonisch unter 03089618411 oder per E-Mail an info@heilpraxis-natureza.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo7UEtkFRqEcRC7X4EMxBaK0",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 9
 }

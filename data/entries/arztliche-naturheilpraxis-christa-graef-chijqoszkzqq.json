@@ -2,8 +2,8 @@
   "id": "arztliche-naturheilpraxis-christa-graef-chijqoszkzqq",
   "slug": "arztliche-naturheilpraxis-christa-graef-chijqoszkzqq",
   "name": "Ärztliche Naturheilpraxis Christa Graef",
-  "description": "Ärztliche Naturheilpraxis Christa Graef ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Ärztliche Naturheilpraxis Christa Graef befindet sich in Berlin-Schöneberg und bietet umfassende Behandlungen in den Bereichen Homöopathie und Naturheilkunde an. Die Praxis wird von Christa Graef, einer praktischen Ärztin und Spezialistin für klassische Homöopathie, geleitet. Neben homöopathischen Therapien werden auch Akupunktur und umweltmedizinische Ansätze angeboten, um die Gesundheit der Patienten ganzheitlich zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,8 +26,31 @@
   "phone": "0307829379",
   "email": "graefgraef@aol.com",
   "website": "http://www.heilen-mit-homoeopathie.com/",
+  "bookingUrl": "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3636289_8478359.png",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/keyvisual/customkey.png",
+    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/slogan_10_6_0.png",
+    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3636282_606589408c.png",
+    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/7083226_1055068125.png",
+    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3639458_487585185.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Ärztliche Naturheilpraxis Christa Graef?",
+      "answer": "Die Praxis befindet sich in der Vorbergstraße 8, 10823 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet die Praxis an?",
+      "answer": "Die Praxis bietet klassische Homöopathie, Akupunktur und Umweltmedizin an."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 0307829379 oder per E-Mail an graefgraef@aol.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQ_oSzkZQqEcRgszF-5dj2UA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

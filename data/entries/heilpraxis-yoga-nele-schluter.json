@@ -2,8 +2,8 @@
   "id": "heilpraxis-yoga-nele-schluter",
   "slug": "heilpraxis-yoga-nele-schluter",
   "name": "Heilpraxis & Yoga Nele Schlüter",
-  "description": "Heilpraxis & Yoga Nele Schlüter ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis & Yoga Nele Schlüter in Berlin-Reinickendorf wird ein ganzheitlicher Ansatz zur Förderung von Gesundheit und Wohlbefinden angeboten. Die Praxis spezialisiert sich auf verschiedene Bereiche der Naturheilkunde, darunter klassische und prozessorientierte Homöopathie, Schmerztherapie nach Liebscher & Bracht, ganzheitliche Massagen sowie systemische Aufstellungen. Zusätzlich werden Yoga- und Meditationskurse angeboten, die individuell angepasst werden können, um den Bedürfnissen der Klienten gerecht zu werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,6 +26,7 @@
   "phone": "03028873439",
   "email": "neleschlueter@gmx.de",
   "website": "http://heilpraxis-schlueter.de/",
+  "bookingUrl": "https://www.heilpraxis-schlueter.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,144 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "120 Min – 180 €",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 180,
+      "priceLabel": "180 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "60-90 Min. -",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 140,
+      "priceLabel": "140 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "60 Min – 90 €",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "je nach Zeitaufwand – 10–90 €",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "90 Min – 135 €",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 135,
+      "priceLabel": "135 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Zehnerkarte für 1,5 h: 160 € 1,5 h",
+      "price": 160,
+      "priceLabel": "160 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Zehnerkarte für 1 h: 1 h",
+      "price": 150,
+      "priceLabel": "150 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Drop-In: 18 €",
+      "price": 18,
+      "priceLabel": "18 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "für 1x 1 h",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "für 5x 1h",
+      "price": 350,
+      "priceLabel": "350 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Teilnahme: 15 €",
+      "price": 15,
+      "priceLabel": "15 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "Teilnahme als Stellvertreter\\in: 50 €",
+      "price": 50,
+      "priceLabel": "50 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "€, Sozialtarif",
+      "price": 180,
+      "priceLabel": "180 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "• in Einzelsitzung 120 Min.",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 300,
+      "priceLabel": "300 €"
+    },
+    {
+      "id": "offer-15",
+      "name": "Klassische und prozessorientierte Homöopathie"
+    },
+    {
+      "id": "offer-16",
+      "name": "Schmerztherapie nach Liebscher & Bracht"
+    },
+    {
+      "id": "offer-17",
+      "name": "Ganzheitliche Massage"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16871083.jpg?t=1752701505",
+    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868672.png?t=1751467528",
+    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868673.jpg?t=1752780627",
+    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868674.jpg?t=1757405755",
+    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868815.png?t=1757413394"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraxis & Yoga Nele Schlüter an?",
+      "answer": "Die Heilpraxis & Yoga Nele Schlüter bietet eine Vielzahl von Dienstleistungen an, darunter klassische und prozessorientierte Homöopathie, Schmerztherapie nach Liebscher & Bracht, ganzheitliche Massage, systemische Aufstellungen und Yoga & Meditation."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
+      "answer": "Sie können einen Termin in der Heilpraxis buchen, indem Sie die Webseite besuchen und das Kontaktformular ausfüllen oder direkt anrufen unter der Telefonnummer 030-28873439."
+    },
+    {
+      "question": "Wann hat die Heilpraxis geöffnet?",
+      "answer": "Die Heilpraxis ist von Montag bis Freitag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis & Yoga Nele Schlüter?",
+      "answer": "Die Heilpraxis & Yoga Nele Schlüter befindet sich in der Martin-Luther-Straße 15, 13467 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Welche Preise gelten für die Behandlungen in der Heilpraxis?",
+      "answer": "Die Preise für Behandlungen in der Heilpraxis variieren je nach Dauer und Art der Behandlung. Beispielsweise kostet eine 60-minütige Sitzung 90 €, eine 90-minütige Sitzung 135 € und eine 120-minütige Sitzung 180 €."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_740TVBQqEcRRsDfc-3taBk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

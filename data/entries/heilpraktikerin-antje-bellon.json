@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-antje-bellon",
   "slug": "heilpraktikerin-antje-bellon",
   "name": "Heilpraktikerin Antje Bellon",
-  "description": "Heilpraktikerin Antje Bellon ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Antje Bellon in Berlin bietet klassische Homöopathie und psychologische Beratung an, um die Selbstheilungsprozesse von Körper, Geist und Seele zu unterstützen. Ihr Behandlungsschwerpunkt liegt auf der homöopathischen Versorgung chronisch kranker Menschen, einschließlich Kindern und älteren Erwachsenen. Zu den häufig behandelten Beschwerden zählen Allergien, Asthma, Hauterkrankungen sowie psychische Herausforderungen wie Ängste und Stimmungsschwankungen. In ihrer Praxis legt sie großen Wert darauf, die Gesundheit ihrer Patienten zu erhalten und individuelle Wege zu mehr Wohlbefinden zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,86 @@
   "phone": "03042021732",
   "email": "praxis@antje-bellon.de",
   "website": "http://www.homoeopathie.antje-bellon.de/",
+  "bookingUrl": "http://www.homoeopathie.antje-bellon.de/html/kontakt.html%20%22Kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "• Erwachsene",
+      "price": 160,
+      "priceLabel": "160 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "• Kinder bis 12 Jahre",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "_Folgetermine_ bis zu einer Stunde",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "_Hausbesuche_ je nach Aufwand zusätzlich 10-",
+      "price": 30,
+      "priceLabel": "30 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Psychologische Beratung pro Stunde",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Klassische Homöopathie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Behandlungsablauf"
+    },
+    {
+      "id": "offer-9",
+      "name": "Psychologische Beratung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Honorare"
+    }
+  ],
+  "images": [
+    "http://www.homoeopathie.antje-bellon.de/images/Gaensebluemchen-04-DD-web.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsformen bietet Heilpraktikerin Antje Bellon an?",
+      "answer": "Heilpraktikerin Antje Bellon bietet klassische Homöopathie und psychologische Beratung an. Ihre Methoden regen die Selbstheilungsprozesse in Körper, Geist und Seele an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Antje Bellon?",
+      "answer": "Die Praxis von Antje Bellon befindet sich in Berlin, im Heidekampweg 36, 12437 Berlin."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung betragen 160 € für Erwachsene und 130 € für Kinder bis 12 Jahre. Folgetermine bis zu einer Stunde kosten 60 €, und Hausbesuche kosten zusätzlich 30 € je nach Aufwand."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Antje Bellon buchen?",
+      "answer": "Sie können einen Termin bei Antje Bellon über die Webseite buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Beschwerden werden häufig behandelt?",
+      "answer": "Häufig behandelte Beschwerden sind Allergien, Heuschnupfen, Asthma, Kopfschmerzen, Hauterkrankungen, Schlafstörungen, Ängste und Konzentrationsstörungen bei Kindern."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiXWuoEZPqEcRR2q-yfSz9as",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

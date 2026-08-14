@@ -2,8 +2,8 @@
   "id": "uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie",
   "slug": "uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie",
   "name": "Uta Alves - Heilpraktikerin Psycho- Ernährungs-& FastenTherapie",
-  "description": "Uta Alves - Heilpraktikerin Psycho- Ernährungs-& FastenTherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Uta Alves ist eine erfahrene Heilpraktikerin für Psychotherapie, die in Berlin-Neukölln tätig ist. Sie bietet umfassende Dienstleistungen in den Bereichen Psycho-, Ernährungs- und Fastentherapie an und begleitet ihre Klienten auf ihrem individuellen Weg zu Gesundheit und Lebensfreude. Ihre Methoden umfassen unter anderem iEMDR, Qigong und Achtsamkeit, um psychische und körperliche Heilungsprozesse zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,8 +27,66 @@
   "phone": "015121680432",
   "email": "info@uta-alves.de",
   "website": "http://www.uta-alves.de/",
+  "bookingUrl": "https://www.uta-alves.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "FastenWochen"
+    },
+    {
+      "id": "offer-2",
+      "name": "iEMDR"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kurzzeit-Unterstützung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ernährungsberatung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Unser Essverhalten ist zutiefst mit psychischen Mustern verknüpft"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kreta"
+    },
+    {
+      "id": "offer-7",
+      "name": "Follow me"
+    }
+  ],
+  "images": [
+    "https://www.uta-alves.de/wp-content/uploads/2021/10/Regenbogen.png",
+    "https://www.uta-alves.de/wp-content/uploads/2021/10/Fastengruppe.png",
+    "https://www.uta-alves.de/wp-content/uploads/2021/09/Orange-1.png",
+    "https://www.uta-alves.de/wp-content/uploads/2021/10/Fasten_Unterkunft-2.png",
+    "https://www.uta-alves.de/wp-content/uploads/2021/09/Kreta.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Uta Alves an?",
+      "answer": "Uta Alves bietet Therapien in den Bereichen Psychotherapie, Ernährungsberatung, Fasten, iEMDR und Kurzzeit-Unterstützung an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Uta Alves?",
+      "answer": "Die Praxis von Uta Alves befindet sich im Ströme-Institut in Berlin, Neukölln, mit der Postleitzahl 12049."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Uta Alves buchen?",
+      "answer": "Einen Termin bei Uta Alves können Sie über die Webseite unter dem Kontaktformular buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Fastenwochen bietet Uta Alves an?",
+      "answer": "Uta Alves bietet Fastenwochen an, die in den folgenden Terminen stattfinden: 7. – 14. April 2024, 13. – 20. Oktober 2024, 11. – 18. Mai 2025, 19. – 25. Oktober 2025, 19. – 26. April 2026 und 4. – 11. Oktober 2026."
+    },
+    {
+      "question": "Wie kann ich Uta Alves kontaktieren?",
+      "answer": "Sie können Uta Alves telefonisch unter 015121680432 oder per E-Mail an info@uta-alves.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo6rujNBPqEcRA3pFVGNILw4"
 }

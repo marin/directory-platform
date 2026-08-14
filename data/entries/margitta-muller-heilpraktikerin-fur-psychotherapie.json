@@ -2,8 +2,8 @@
   "id": "margitta-muller-heilpraktikerin-fur-psychotherapie",
   "slug": "margitta-muller-heilpraktikerin-fur-psychotherapie",
   "name": "Margitta Müller Heilpraktikerin für Psychotherapie",
-  "description": "Margitta Müller Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Margitta Müller ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Seit 1990 bietet sie transpersonale und energetische-spirituelle Therapien an und verfolgt einen ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt. Ihre vielfältigen Angebote basieren auf kontinuierlicher Weiterbildung und persönlicher Entwicklung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -28,7 +28,34 @@
   "phone": "0303125369",
   "website": "http://www.margittamueller.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraktikerin für Psychotherapie & Coach"
+    }
+  ],
+  "images": [
+    "https://www.margittamueller.de/images/Heilpraktikerin-fuer-Psychotherapie-Berlin/Heilpraktikerin-fuer-Psychotherapie-Berlin-Charlottenburg.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Margitta Müller an?",
+      "answer": "Margitta Müller bietet transpersonale und energetisch-spirituelle Therapien an, einschließlich Homöopathie, Psychotherapie, Hypnose und Naturheilkunde."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Margitta Müller?",
+      "answer": "Die Praxis von Margitta Müller befindet sich in der Franklinstraße 4, 10587 Berlin-Charlottenburg."
+    },
+    {
+      "question": "Wie kann ich Margitta Müller kontaktieren?",
+      "answer": "Sie können Margitta Müller telefonisch unter 030 - 312 53 69 oder per E-Mail an post@margittamueller.de kontaktieren."
+    },
+    {
+      "question": "Bietet Margitta Müller auch Coaching an?",
+      "answer": "Ja, Margitta Müller bietet neben Psychotherapie auch Coaching an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV8AElhpRqEcRlR3_n4xIFPM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

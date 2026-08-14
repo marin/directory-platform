@@ -2,8 +2,8 @@
   "id": "heilpraxen-am-kleistpark",
   "slug": "heilpraxen-am-kleistpark",
   "name": "Heilpraxen am Kleistpark",
-  "description": "Heilpraxen am Kleistpark ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxen am Kleistpark in Berlin-Schöneberg bieten ein ganzheitliches Therapieangebot, das Heilpraktiker, Physiotherapeuten und Psychotherapeuten vereint. In einem einladenden Ambiente wird Raum für individuelle Diagnosen, Behandlungen und präventive Maßnahmen geschaffen. Die Praxis legt besonderen Wert auf die Verbindung von Körper, Geist und Seele und unterstützt ihre Klienten bei der Bewältigung von akuten und chronischen Erkrankungen sowie Lebenskrisen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,122 @@
   "phone": "03032663888",
   "email": "kleistpark@die-therapeuten-berlin.de",
   "website": "http://die-therapeuten-berlin.de/",
+  "bookingUrl": "https://die-therapeuten-berlin.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "KONFLIKTLÖSUNG DURCH PAARTHERAPIE – HEILPRAXEN IN BERLIN"
+    },
+    {
+      "id": "offer-2",
+      "name": "Essenziell"
+    },
+    {
+      "id": "offer-3",
+      "name": "Georgios Tziolas (Julio)"
+    },
+    {
+      "id": "offer-4",
+      "name": "Heilpraxen an der Schönhauser Alle"
+    },
+    {
+      "id": "offer-5",
+      "name": "Inga Raven-Nöhles"
+    },
+    {
+      "id": "offer-6",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-7",
+      "name": "Prozessbegleitende Homöopathie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Gesundheitsberatung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Gewichtsreduktion"
+    },
+    {
+      "id": "offer-10",
+      "name": "Raucherentwöhnung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Bach- und Buschblütentherapie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Baumhomöopathie"
+    },
+    {
+      "id": "offer-13",
+      "name": "Komplex-Homöopathie"
+    },
+    {
+      "id": "offer-14",
+      "name": "Burn-out Therapie"
+    },
+    {
+      "id": "offer-15",
+      "name": "Lösen von Blockaden"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-17",
+      "name": "Körpertherapie"
+    },
+    {
+      "id": "offer-18",
+      "name": "Atem- und Stimmtraining"
+    },
+    {
+      "id": "offer-19",
+      "name": "Atemtherapie mit Atemanalyse, Atembehandlungen"
+    },
+    {
+      "id": "offer-20",
+      "name": "Reiki"
+    },
+    {
+      "id": "offer-21",
+      "name": "in Schöneberg und am Prenzlauer Berg"
+    },
+    {
+      "id": "offer-22",
+      "name": "BEHANDLUNG MIT HERZ UND VERSTAND"
+    },
+    {
+      "id": "offer-23",
+      "name": "LEBENSGESTALTUNG UND SELBSTERFAHRUNG"
+    }
+  ],
+  "images": [
+    "https://die-therapeuten-berlin.de/wp-content/uploads/2016/12/header.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis am Kleistpark?",
+      "answer": "Die Heilpraxis am Kleistpark befindet sich in der Crellestraße 27, 10827 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxen am Kleistpark kontaktieren?",
+      "answer": "Sie können die Heilpraxen am Kleistpark telefonisch unter 030 32663888 oder per E-Mail an kleistpark@die-therapeuten-berlin.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen werden in der Heilpraxis angeboten?",
+      "answer": "In der Heilpraxis am Kleistpark werden verschiedene Dienstleistungen im Bereich der Naturheilkunde angeboten, darunter Therapie für chronische und akute Erkrankungen sowie Unterstützung bei Lebenskrisen und Veränderungen von Gedanken- und Handlungsmustern."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
+      "answer": "Sie können einen Termin in der Heilpraxis am Kleistpark über die Buchungsseite unter https://die-therapeuten-berlin.de/kontakt buchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJceS6jEdQqEcRofLAx5SZ0Rs"
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kopenick-chijbxeb2y9h",
   "slug": "naturheilpraxis-kopenick-chijbxeb2y9h",
   "name": "Naturheilpraxis Köpenick",
-  "description": "Naturheilpraxis Köpenick ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Köpenick in Berlin bietet Heilpraktikerin Alexandra Naujeck-Thomas ein breites Spektrum an naturheilkundlichen Therapien an. Die Praxis legt besonderen Wert auf eine ausführliche Anamnese, um individuelle Therapiepläne zu erstellen, die auf die spezifischen Bedürfnisse der Patienten abgestimmt sind. Zu den angebotenen Leistungen zählen unter anderem Behandlungen bei chronischen und akuten Beschwerden sowie Unterstützung bei Kinderwunsch und während der Schwangerschaft.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "015203915591",
   "website": "https://www.naturheilpraxis-berlin-koepenick.de/",
+  "bookingUrl": "https://naturheilpraxiskoepenick.simplybook.it/v2/",
   "openingHours": [
     {
       "day": "Friday",
@@ -31,7 +32,57 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Eine ausführliche Anamnese für dich"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kinderwunsch, Schwangerschaft und Wunschkinder"
+    },
+    {
+      "id": "offer-3",
+      "name": "Dein individueller Therapieplan"
+    },
+    {
+      "id": "offer-4",
+      "name": "Deine Nachricht an mich"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ihre Nachricht an uns"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/5acf127a971d40f282938b77681073c7/dms3rep/multi/opt/flower-of-life-g59c8366cc_1280-1920w.png?Expires=1788815987&Signature=o1dvsy09V-ZQdf9T4~vFsy6GGG8BmfSSqkV2m~fE8bKDUEdFBVD6xzwAGUiKwBl1coZc9qp8697kLPJedD-4eQycY2FiaJ2QPWCkRo21~G~kJXWmLk4IbElGuE1KGLPNhHNf5R2RTvSdFr~OoydR~gtpx8U1H3Bck6aGqEHzMmMhaBAwwkZekBq~ZT5Tj~NYd5Kb1hOan8~6TVdNRR6SqQ8pnrVRR42JWtWgDJS-EzWGxDhDl9KB813vnHCXUcLO8La7kPuKCTxlYnTWU6ZPPr47b~pD1kjZ7ZdCemERsHJTTVhWZA6dkA0zP5MuJG0Lk6WVXwtCjtFED6r0yNyaiQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/5acf127a971d40f282938b77681073c7/dms3rep/multi/opt/Anamnese_2-8cc88346-2ce98b4b-799c051e-1920w.jpg?Expires=1788815987&Signature=m~GDAVTtdw2PeE-DNp9YPnNO~M1ri3jtyQJNwcC9XM4uVsYTsVbWo7jYpSsQHNFaf5K0LyweJuXobnFAbWe04q888WEv106hQpDdGpdwsn7ScUkzX2AdYoRc7IJZzGQTqr5AxgIPaCBnkF4iH~t56Fm1U90oeRiMBS-OEP3Zdz4SWlkEe04SjEdsTuzjCwDkMAUKthJsWEKPwXIRTbbG9Uxc5-v1hOrbPvPXzwSPt5bazUBLq2SpQ5neGJoueLX7Xaa8gz8WxytaBhR2obiXaWVZdUtNsHsQyqnybMEQO~OvwtYVuRAVE7d8V7WW0eqL96w0-berUYNExAFPObYHpg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/5acf127a971d40f282938b77681073c7/dms3rep/multi/opt/Kinderwunsch_4-1920w.jpg?Expires=1788815987&Signature=NlTDz8SPU-TzDaeu6c7gmS77XKLie38V-W7Rz1Pk3uaD6OM36PdXQ6A3Ivlin3oe-lHdkbCinQTgAk0pXXtaqHssrhkCpDkaX8BeyJ8UMLMUyAPHY50Gn1PbwnOeXmuUpXdZi0DMHa0hE~GwHm0w5-0SI0ZBpv04nWir6dPsLwiURkdYajGTNthXHGdjwShjjdm04RSgqK~579W05gCymbIe2TfgpTIM3aolWLAxCiP9niqmmHwCDUNUkNhtnZPh7vf9ob1KmMJ9dwKZ1mCfUj~BhsWHL6Clb1E32~Cmh7NZqDLuApl-6b~zGCpkKzpW-kYWDOo0n1ZBpe8qBUZiGw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/5acf127a971d40f282938b77681073c7/dms3rep/multi/opt/massage-therapy-g37bb647d9_1920-1920w.jpg?Expires=1788815987&Signature=UMNaEWFTQbdMFha5x1BQUFOK0YrKrGAAdKC~ADRRUNWMcW0FvdH-pixmKQIGwXiD79L-VbjceAmXNdSMHnFCDoKppvdl-zVq5YILUXkN4oU6cyJBbhgpmrU8LLlFAMsDNdekXd1ule929fU7HPDA1jPCZVCai9pQ2K4MuhsdInIG3Jm4nPPMoqhxdY6oIggoQwzlrZ7iJDTJaPRzvqOmlTiWRialDjkIm6G9BqlsnnwLZo158IU2tPo~o1Png3PzcEZeqthA2bTn2wWDwg5oTqlpVQIW1cdZSGF7v81-0Yn71v0L5X-LxCZRcWFExAmNYQhXVrkL60JQA32yI6llAA__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Köpenick an?",
+      "answer": "Die Naturheilpraxis Köpenick bietet eine ausführliche Anamnese, individuelle Therapiepläne, Unterstützung bei Kinderwunsch und Schwangerschaft sowie verschiedene naturheilkundliche Behandlungen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Köpenick buchen?",
+      "answer": "Sie können einen Termin direkt über die Website der Naturheilpraxis Köpenick buchen, indem Sie diesem Link folgen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Köpenick geöffnet?",
+      "answer": "Die Naturheilpraxis Köpenick hat am Freitag von 15:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Köpenick?",
+      "answer": "Die Naturheilpraxis Köpenick befindet sich in der Hackenbergstraße 7, 12489 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Köpenick kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Köpenick telefonisch unter 015203915591 oder per E-Mail an kontakt@naturheilpraxis-berlin-koepenick.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbXeB2Y9HqEcRYSvk5z8dGf8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

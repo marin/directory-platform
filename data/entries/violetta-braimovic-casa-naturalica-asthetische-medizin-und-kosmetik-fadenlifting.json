@@ -2,8 +2,8 @@
   "id": "violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting",
   "slug": "violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting",
   "name": "Violetta Braimovic Casa Naturalica - Ästhetische Medizin und Kosmetik, Fadenlifting",
-  "description": "Violetta Braimovic Casa Naturalica - Ästhetische Medizin und Kosmetik, Fadenlifting ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Violetta Braimovic bietet in ihrer Praxis Casa Naturalica in Berlin ästhetische Medizin und kosmetische Behandlungen an. Zu den Schwerpunkten gehören Fadenlifting, Gesichts- und Körperstraffungen sowie die Injektionslipolyse zur Reduktion von Fettpolstern. Die Praxis legt Wert auf individuelle Beratung und ein angenehmes Ambiente, um die natürliche Schönheit ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,229 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlungsdauer je nach Größe des Areals (ca. 30 Minuten)"
+    },
+    {
+      "id": "offer-2",
+      "name": "bei Bedarf lokale Betäubung mittels einer Betäubungssalbe"
+    },
+    {
+      "id": "offer-3",
+      "name": "geringe Nachwirkungen",
+      "description": "leichte Schwellung, Hämatome sowie “Muskelkater-Schmerz”"
+    },
+    {
+      "id": "offer-4",
+      "name": "Wirkung und Behandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Wirkungseintritt nach 3–4 Wochen"
+    },
+    {
+      "id": "offer-6",
+      "name": "1– ca. 5 Sitzungen, je nach Wunschergebnis"
+    },
+    {
+      "id": "offer-7",
+      "name": "Behandlungspause von 3 Wochen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Anwendungsgebiete"
+    },
+    {
+      "id": "offer-9",
+      "name": "Straffung der Gesichtsregion (Gesichts-Konturierung)"
+    },
+    {
+      "id": "offer-10",
+      "name": "Doppelkinn"
+    },
+    {
+      "id": "offer-11",
+      "name": "Wangen (Hängebäckchen)"
+    },
+    {
+      "id": "offer-12",
+      "name": "Dekolleté"
+    },
+    {
+      "id": "offer-13",
+      "name": "Ober- und Unterbauch"
+    },
+    {
+      "id": "offer-14",
+      "name": "Hüften"
+    },
+    {
+      "id": "offer-15",
+      "name": "Beine (Reiterhosen, Oberschenkelinnenseiten)"
+    },
+    {
+      "id": "offer-16",
+      "name": "Kniegelenke (oberhalb/Innenseite)"
+    },
+    {
+      "id": "offer-17",
+      "name": "Rücken-Fettgeschwülste"
+    },
+    {
+      "id": "offer-18",
+      "name": "Rückenpolster unterhalb des BHs"
+    },
+    {
+      "id": "offer-19",
+      "name": "Unteres Gesäß (Bananenfalte)"
+    },
+    {
+      "id": "offer-20",
+      "name": "Was Sie nach der Behandlung vermeiden sollten"
+    },
+    {
+      "id": "offer-21",
+      "name": "Saunagänge"
+    },
+    {
+      "id": "offer-22",
+      "name": "Sonnenbäder"
+    },
+    {
+      "id": "offer-23",
+      "name": "heiße Bäder"
+    },
+    {
+      "id": "offer-24",
+      "name": "Kontraindikationen"
+    },
+    {
+      "id": "offer-25",
+      "name": "Schwangerschaft, Stillzeit"
+    },
+    {
+      "id": "offer-26",
+      "name": "Bekannte Überempfindlichkeit gegen einen der Inhaltsstoffe"
+    },
+    {
+      "id": "offer-27",
+      "name": "Einnahme von Blutverdünnern sowie Blutgerinnungsstörungen"
+    },
+    {
+      "id": "offer-28",
+      "name": "Allergien (Sojabohnen, Lokalanästhetika, Latex, Kreuzallergie",
+      "description": "Birkenpollen)"
+    },
+    {
+      "id": "offer-29",
+      "name": "Infektionserkrankungen"
+    },
+    {
+      "id": "offer-30",
+      "name": "Autoimmunerkrankungen"
+    },
+    {
+      "id": "offer-31",
+      "name": "Schwere Leber- und Nierenerkrankungen"
+    },
+    {
+      "id": "offer-32",
+      "name": "Rheuma"
+    },
+    {
+      "id": "offer-33",
+      "name": "Diabetiker"
+    },
+    {
+      "id": "offer-34",
+      "name": "Entdecken Sie Ihr strahlendes Ich"
+    },
+    {
+      "id": "offer-35",
+      "name": "Fett-weg-Spritze"
+    },
+    {
+      "id": "offer-36",
+      "name": "Fadenlifting"
+    },
+    {
+      "id": "offer-37",
+      "name": "Fillerbehandlung"
+    },
+    {
+      "id": "offer-38",
+      "name": "Kundenstimmen"
+    },
+    {
+      "id": "offer-39",
+      "name": "Wolfgang K."
+    },
+    {
+      "id": "offer-40",
+      "name": "Heidrun L"
+    },
+    {
+      "id": "offer-41",
+      "name": "Tina V."
+    },
+    {
+      "id": "offer-42",
+      "name": "Mandy G."
+    },
+    {
+      "id": "offer-43",
+      "name": "Dorothee S."
+    },
+    {
+      "id": "offer-44",
+      "name": "Gabriela L."
+    },
+    {
+      "id": "offer-45",
+      "name": "Kathrin G."
+    },
+    {
+      "id": "offer-46",
+      "name": "Nadine W."
+    },
+    {
+      "id": "offer-47",
+      "name": "Yonca M."
+    },
+    {
+      "id": "offer-48",
+      "name": "Ihr Kontakt zu uns"
+    }
+  ],
+  "images": [
+    "https://aesthetikpraxisberlin.de/wp-content/uploads/2017/02/DSC02221-1b-1.jpg",
+    "https://aesthetikpraxisberlin.de/wp-content/uploads/2017/02/DSC02247-1a.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Casa Naturalica an?",
+      "answer": "Casa Naturalica bietet verschiedene ästhetische Behandlungen an, darunter Fadenlifting, Injektionslipolyse zur Fettreduzierung und Fillerbehandlungen mit Hyaluronsäure."
+    },
+    {
+      "question": "Wie lange dauert eine Behandlung?",
+      "answer": "Die Behandlungsdauer beträgt je nach Größe des Areals ca. 30 Minuten."
+    },
+    {
+      "question": "Wie viele Sitzungen sind für ein optimales Ergebnis erforderlich?",
+      "answer": "Für ein optimales Ergebnis sind in der Regel 1 bis ca. 5 Sitzungen erforderlich, abhängig vom Wunschergebnis."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Website von Casa Naturalica buchen, indem Sie den folgenden Link verwenden: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten von Casa Naturalica?",
+      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 10:00 bis 19:00 Uhr, Donnerstag von 10:00 bis 18:00 Uhr und Freitag von 09:00 bis 12:00 Uhr."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU-rAFHNRqEcRmlBJoL2ne90",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 19
 }

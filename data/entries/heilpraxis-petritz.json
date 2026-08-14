@@ -2,8 +2,8 @@
   "id": "heilpraxis-petritz",
   "slug": "heilpraxis-petritz",
   "name": "Heilpraxis Petritz",
-  "description": "Heilpraxis Petritz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Petritz in Berlin-Hermsdorf bietet eine ganzheitliche Betrachtungsweise zur Behandlung verschiedener Gesundheitsprobleme. Heilpraktikerin Annette Petritz spezialisiert sich auf alternative Schmerztherapie, Vitalstoffmedizin, Bioresonanz und ästhetische Behandlungen. In der Praxis werden individuelle Therapiekonzepte entwickelt, die auf die spezifischen Beschwerden der Patienten abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03035518128",
   "email": "mail@heilpraxis-petritz.de",
   "website": "https://heilpraxis-petritz.de/",
+  "bookingUrl": "https://heilpraxis-petritz.de/praxis/kontakt-und-anfahrt",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,5 +55,27 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Heilpraxis Petritz?",
+      "answer": "Die Heilpraxis Petritz hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Petritz?",
+      "answer": "Die Heilpraxis Petritz befindet sich in der Glienicker Str. 6B, 13467 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Petritz buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Heilpraxis Petritz buchen, indem Sie das Kontaktformular auf der Seite https://heilpraxis-petritz.de/praxis/kontakt-und-anfahrt ausfüllen."
+    },
+    {
+      "question": "Welche Beschwerden behandelt die Heilpraxis Petritz?",
+      "answer": "Die Heilpraxis Petritz behandelt unter anderem Schmerzen, Allergien, Verdauungsprobleme, Immunsystemschwäche und chronische Beschwerden."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Petritz kontaktieren?",
+      "answer": "Sie können die Heilpraxis Petritz telefonisch unter 03035518128 oder per E-Mail an mail@heilpraxis-petritz.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYZHaAVVqEcRQsM3dgXiZY4"
 }

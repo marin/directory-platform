@@ -2,8 +2,8 @@
   "id": "massage-und-schmerzbehandlung-heilpraktiker-deniz-stitz",
   "slug": "massage-und-schmerzbehandlung-heilpraktiker-deniz-stitz",
   "name": "Massage und Schmerzbehandlung | Heilpraktiker Deniz Stitz",
-  "description": "Massage und Schmerzbehandlung | Heilpraktiker Deniz Stitz ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Deniz Stitz bietet in seiner Praxis in Berlin-Pankow umfassende Leistungen im Bereich der Massage und Schmerzbehandlung an. Mit einem ganzheitlichen Ansatz kombiniert er klassische Massagetechniken mit manuellen Schmerzbehandlungen, um individuelle Beschwerden wie Rückenschmerzen, Schulterverspannungen und andere Beschwerden gezielt zu behandeln. Die Praxis legt großen Wert auf eine entspannte Atmosphäre, in der die Patienten zur Regeneration und Entspannung kommen können.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,6 +26,7 @@
   "phone": "01715671290",
   "email": "deniz.stitz@gmx.de",
   "website": "https://www.heilpraktiker-deniz-stitz.de/",
+  "bookingUrl": "https://heilpraktiker-deniz-stitz.de/termin-buchen",
   "openingHours": [
     {
       "day": "Monday",
@@ -63,7 +64,104 @@
       "close": "22:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Leistungen – Massage & Schmerzbehandlungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schmerzbehandlungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Abrechnung für Privatversicherte"
+    },
+    {
+      "id": "offer-5",
+      "name": "Wichtige Hinweise zur Erstattung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Häufige Beschwerden, mit denen Menschen zu mir kommen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Rückenschmerzen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Schulter- & Nackenverspannungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kopfschmerzen & Spannungszustände"
+    },
+    {
+      "id": "offer-10",
+      "name": "Knie‒ oder Hüftschmerzen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Karpaltunnelsyndrom & Unterarmbeschwerden"
+    },
+    {
+      "id": "offer-12",
+      "name": "Fersensporn & Fußschmerzen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Dafür stehe ich"
+    },
+    {
+      "id": "offer-14",
+      "name": "Fachlichkeit & Feingefühl"
+    },
+    {
+      "id": "offer-15",
+      "name": "Sorgfältige, therapeutische Arbeit"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ein Raum, in dem Du loslassen kannst"
+    },
+    {
+      "id": "offer-17",
+      "name": "Einblick in die Praxis"
+    },
+    {
+      "id": "offer-18",
+      "name": "Rückmeldungen, die für sich sprechen"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Arten von Massagen bietet Heilpraktiker Deniz Stitz an?",
+      "answer": "Heilpraktiker Deniz Stitz bietet verschiedene Massagen an, darunter ganzheitliche Massagen, Faszienmassagen, Sportmassagen und Triggerpunktmassagen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktiker Deniz Stitz buchen?",
+      "answer": "Einen Termin können Sie über die Website von Heilpraktiker Deniz Stitz buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktiker Deniz Stitz?",
+      "answer": "Die Praxis hat von Montag bis Sonntag von 08:00 bis 22:00 Uhr geöffnet."
+    },
+    {
+      "question": "Rechnet Heilpraktiker Deniz Stitz mit Privatversicherungen ab?",
+      "answer": "Ja, Heilpraktiker Deniz Stitz rechnet auf Wunsch nach der Gebührenordnung für Heilpraktiker (GebüH) ab, sodass Privatversicherte die Behandlungskosten ganz oder teilweise erstattet bekommen können."
+    },
+    {
+      "question": "Mit welchen Beschwerden kommen Patienten häufig zu Heilpraktiker Deniz Stitz?",
+      "answer": "Patienten kommen häufig mit Beschwerden wie Rückenschmerzen, Schulter- und Nackenverspannungen, Kopfschmerzen, Knie- oder Hüftschmerzen sowie Fersensporn und Fußschmerzen zu Heilpraktiker Deniz Stitz."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwUUWNXtFYm8RCeAcOHMEJFs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

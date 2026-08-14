@@ -2,8 +2,8 @@
   "id": "ines-gieseler-osteopathie",
   "slug": "ines-gieseler-osteopathie",
   "name": "Ines Gieseler Osteopathie",
-  "description": "Ines Gieseler Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Ines Gieseler ist eine erfahrene Heilpraktikerin und Osteopathin mit einer fundierten Ausbildung am College Sutherland. Ihre Praxis befindet sich in der Rohrwallallee 88a in Berlin, Treptow-Köpenick. Neben ihrer osteopathischen Qualifikation bietet sie spezielle Weiterbildungen in der Behandlung von Säuglingen, Kindern sowie Frauen während und nach der Schwangerschaft an. Mit über 30 Jahren Berufserfahrung in verschiedenen Gesundheitsberufen legt sie großen Wert auf individuelle Patientenbetreuung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -26,7 +26,50 @@
   "email": "info@osteopathie-berlin-gieseler.de",
   "website": "http://www.osteopathie-berlin-gieseler.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "In der Praxis Rohrwallallee"
+    },
+    {
+      "id": "offer-2",
+      "name": "Weiterbildungen in"
+    },
+    {
+      "id": "offer-3",
+      "name": "Berufserfahrung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ines Gieseler ist Mutter von 5 Kindern"
+    }
+  ],
+  "images": [
+    "https://www.osteopathie-berlin-gieseler.de/images/vod-osteopathie.png"
+  ],
+  "faq": [
+    {
+      "question": "Wie kann ich einen Termin bei Ines Gieseler Osteopathie vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 - 51 65 68 22 vereinbaren. Während der Behandlung wird Ihr Anruf von einem Anrufbeantworter entgegengenommen. Bitte hinterlassen Sie Ihre Telefonnummer und Ihr Anliegen, und ich rufe Sie schnellstmöglich zurück. Alternativ können Sie auch eine E-Mail an info@osteopathie-berlin-gieseler.de senden."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Ines Gieseler?",
+      "answer": "Die Praxis befindet sich in der Rohrwallallee 88a, 12527 Berlin."
+    },
+    {
+      "question": "Welche Qualifikationen hat Ines Gieseler?",
+      "answer": "Ines Gieseler hat eine 5-jährige Ausbildung am College Sutherland absolviert und ist seit 2004 Osteopathin sowie seit 2006 Heilpraktikerin. Zudem hat sie eine Ausbildung zur Physiotherapeutin seit 1994 und war Krankenschwester seit 1986."
+    },
+    {
+      "question": "Bietet Ines Gieseler auch Behandlungen für Kinder an?",
+      "answer": "Ja, Ines Gieseler hat Weiterbildungen in der Untersuchung und Behandlung von Säuglingen und Kindern."
+    },
+    {
+      "question": "Wie kann ich die Praxis mit öffentlichen Verkehrsmitteln erreichen?",
+      "answer": "Sie können die Praxis mit der S-Bahn bis zur Station Grünau erreichen oder mit der Straßenbahn Nr. 68 in Richtung Alt-Schmöckwitz bis zur Haltestelle Lübbenauer Weg fahren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRplfm9OqEcRoW1MWw6ZVEA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

@@ -3,7 +3,7 @@
   "slug": "ganzheitliches-coaching-personal-training-wechseljahre-spezialistin-heilpraktike",
   "name": "Ganzheitliches Coaching & Personal Training | Wechseljahre Spezialistin | Heilpraktikerin Daniela Meckies | Online & Berlin",
   "description": "Ganzheitliches Coaching & Personal Training | Wechseljahre Spezialistin | Heilpraktikerin Daniela Meckies | Online & Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -55,5 +55,8 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYffehOFJqEcRNEuSybo27fQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

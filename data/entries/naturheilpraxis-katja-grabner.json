@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-katja-grabner",
   "slug": "naturheilpraxis-katja-grabner",
   "name": "Naturheilpraxis Katja Gräbner",
-  "description": "Naturheilpraxis Katja Gräbner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Katja Gräbner befindet sich in der Mommsenstraße 55 in Berlin-Charlottenburg. In einer etablierten Praxisgemeinschaft mit über 30 Jahren Erfahrung bieten mehrere Heilpraktikerinnen und Heilpraktiker individuelle naturheilkundliche Behandlungen an. Die Praxis legt Wert auf eine kollegiale Zusammenarbeit und regelmäßigen Austausch unter den Mitgliedern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,46 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "MARTINA GROSSE"
+    },
+    {
+      "id": "offer-2",
+      "name": "[Mia Maria\\\\"
+    },
+    {
+      "id": "offer-3",
+      "name": "c/o-Praxis"
+    }
+  ],
+  "images": [
+    "http://www.praxis-mommsen.de/Sommerferien%202026.01.png",
+    "http://www.praxis-mommsen.de/Sommerferien%202026.02.png",
+    "http://www.praxis-mommsen.de/images/index_20.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Katja Gräbner?",
+      "answer": "Die Naturheilpraxis Katja Gräbner befindet sich in der Mommsenstraße 55, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind wie folgt: Montag und Dienstag von 09:00 bis 18:00 Uhr, Mittwoch von 09:00 bis 17:00 Uhr, Donnerstag von 09:00 bis 18:00 Uhr und Freitag von 09:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Katja Gräbner kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Katja Gräbner telefonisch unter 03066770166 erreichen."
+    },
+    {
+      "question": "Bietet die Praxis auch andere Heilpraktiker an?",
+      "answer": "Ja, die Praxisgemeinschaft bietet auch andere Heilpraktiker an, darunter Ekkehard Dehmel, Martina Grosse, Mia Maria Kochendörfer, Andrea Kührt, Heike Martens und Sara Riedel."
+    },
+    {
+      "question": "Gibt es Informationen über die c/o-Praxis für Berufsanfänger?",
+      "answer": "Ja, die c/o-Praxis ist eine naturheilkundliche Berufsanfängerpraxis für Heilpraktiker*innen, die einen voll eingerichteten Praxisraum in der bestehenden Praxisgemeinschaft nutzen können."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX45fgspRqEcRlXJSKzYR1SQ"
 }

@@ -2,8 +2,8 @@
   "id": "huating-li-heilpraktikerin-tcm-akupunktur",
   "slug": "huating-li-heilpraktikerin-tcm-akupunktur",
   "name": "Huating Li Heilpraktikerin TCM Akupunktur",
-  "description": "Huating Li Heilpraktikerin TCM Akupunktur ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Huating Li ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Traditionelle Chinesische Medizin (TCM) und Akupunktur spezialisiert hat. In ihrer Praxis bietet sie eine Vielzahl von Therapien an, darunter Akupunktur, chinesische Kräutertherapie, Diätetik und medizinisches Qi Gong. Zudem werden regelmäßig Kurse und Workshops angeboten, die darauf abzielen, die Prinzipien der TCM in den Alltag zu integrieren und die Gesundheit der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -49,7 +49,70 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kurse Termine Plan 2026"
+    },
+    {
+      "id": "offer-2",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "TCM Kurse und Blog"
+    },
+    {
+      "id": "offer-4",
+      "name": "Medizinisches Qi Gong"
+    },
+    {
+      "id": "offer-5",
+      "name": "TCM Anwendungsgebiete"
+    },
+    {
+      "id": "offer-6",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-7",
+      "name": "Medizinisches Qi Gong – Akupunktur ohne Nadeln"
+    },
+    {
+      "id": "offer-8",
+      "name": "Anwendungsgebiete"
+    }
+  ],
+  "images": [
+    "http://shourentang.de/wp-content/uploads/2019/08/acupuncture.jpg",
+    "https://shourentang.de/wp-content/uploads/2019/08/jujube.jpg",
+    "http://shourentang.de/wp-content/uploads/2020/01/alisher-sharip-mumpl9-D7Uc-unsplash-scaled.jpg",
+    "http://shourentang.de/wp-content/uploads/2019/09/saffu-A7RzCegedb4-unsplash.jpg",
+    "http://shourentang.de/wp-content/uploads/2021/06/IMG_20210603_212221-1024x1024-200x200.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Huating Li an?",
+      "answer": "Huating Li bietet Therapien wie Akupunktur, chinesische Kräuter, Diätetik und Kinder Tuina an, um die Patienten auf ihrem Weg der Heilung zu unterstützen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Huating Li buchen?",
+      "answer": "Sie können einen Termin online buchen, indem Sie die Buchungsseite auf der Website shourentang.de besuchen oder direkt per E-Mail an huatingtcm@gmail.com Kontakt aufnehmen."
+    },
+    {
+      "question": "Wann hat die Praxis von Huating Li geöffnet?",
+      "answer": "Die Praxis hat montags von 09:00 bis 19:00 Uhr, mittwochs von 09:00 bis 16:00 Uhr, donnerstags von 09:00 bis 17:00 Uhr und freitags von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Huating Li?",
+      "answer": "Die Praxis befindet sich in der Linienstraße 119, 10115 Berlin, Deutschland."
+    },
+    {
+      "question": "Welche Kurse bietet Huating Li an?",
+      "answer": "Huating Li bietet verschiedene Kurse an, darunter medizinisches Qi Gong, Healing Qi Gong und TCM-Kurse, die darauf abzielen, die Prinzipien der Traditionellen Chinesischen Medizin in den Alltag zu integrieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1faASN5RqEcRqCxoIbve7o0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31
 }

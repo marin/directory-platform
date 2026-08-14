@@ -2,8 +2,8 @@
   "id": "augendiagnose-berlin-heilpraktikerin",
   "slug": "augendiagnose-berlin-heilpraktikerin",
   "name": "Augendiagnose Berlin / Heilpraktikerin",
-  "description": "Augendiagnose Berlin / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Krohn in Berlin Spandau liegt der Schwerpunkt auf der Augendiagnose, auch bekannt als Iridologie. Diese Methode betrachtet die Iris des Auges als Spiegelbild des gesamten Organismus und ermöglicht Einblicke in die Konstitution und Disposition des Menschen. Neben der Augendiagnose werden auch Verfahren wie die Fußreflexzonendiagnose und Antlitzdiagnose angeboten. Die Praxis befindet sich am Grimnitzsee und bietet eine ganzheitliche Herangehensweise an die Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,38 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Der Preis für eine Augendiagnose Berlin beträgt 60,00 €."
+    }
+  ],
+  "images": [
+    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Christiane-Krohn.jpg",
+    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Augendiagnose-berlin-lymphatisch-300x200.jpg",
+    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Augendiagnose-Berlin-Irisdiagnose-Iridologie-1-300x170.png"
+  ],
+  "faq": [
+    {
+      "question": "Was ist Augendiagnose und wie funktioniert sie?",
+      "answer": "Die Augendiagnose, auch Iridologie genannt, geht davon aus, dass die Regenbogenhaut (Iris) des Auges das Geschehen im gesamten Organismus widerspiegelt. Bei der Augendiagnose wird das gesamte Auge betrachtet, einschließlich der Iris, Sklera, Bindehaut und Anhangsgebilde, um Rückschlüsse auf die Konstitution und Disposition des Menschen zu ziehen."
+    },
+    {
+      "question": "Wie viel kostet eine Augendiagnose in Berlin?",
+      "answer": "Der Preis für eine Augendiagnose in Berlin beträgt 60,00 €."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Heilpraktikerin in Berlin Spandau?",
+      "answer": "Die Heilpraktikerin hat von Montag bis Donnerstag von 10:00 bis 18:00 Uhr und am Freitag von 10:00 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin für eine Augendiagnose vereinbaren?",
+      "answer": "Sie können einen Termin für eine Augendiagnose telefonisch unter 03026329999 oder per E-Mail an info@naturheilpraxis-krohn.de vereinbaren."
+    },
+    {
+      "question": "Welche weiteren Angebote gibt es in der Naturheilpraxis Krohn?",
+      "answer": "Neben der Augendiagnose bietet die Naturheilpraxis Krohn auch Fußreflexzonendiagnose und Antlitzdiagnose an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS7lSB7FXqEcRaBa1pBJ07a0"
 }

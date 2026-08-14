@@ -2,8 +2,8 @@
   "id": "guido-paul-zorner-praxis-fur-kybernetische-medizin",
   "slug": "guido-paul-zorner-praxis-fur-kybernetische-medizin",
   "name": "Guido Paul Zörner - Praxis für kybernetische Medizin",
-  "description": "Guido Paul Zörner - Praxis für kybernetische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Guido Paul Zörner betreibt eine Praxis für kybernetische Medizin in Berlin-Charlottenburg, die sich auf Osteopathie, Akupunktur nach Traditioneller Chinesischer Medizin und Hypnose spezialisiert hat. Neben der Behandlung von Schmerzen und chronischen Erschöpfungszuständen bietet er auch sportmedizinische Leistungen an, die auf Prävention, Rehabilitation und Leistungsoptimierung abzielen. Als lizenzierter Fachübungsleiter leitet er Rehasportgruppen und kombiniert medizinische Ansätze mit sporttherapeutischen Programmen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -55,7 +55,54 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-4",
+      "name": "Sportmedizin"
+    }
+  ],
+  "images": [
+    "https://cybernetic.life/wp-content/uploads/2023/03/guido-paul-zoerner.jpg",
+    "https://cybernetic.life/wp-content/uploads/2020/09/lp-immun-tem-189066571.png",
+    "https://cybernetic.life/wp-content/uploads/2019/10/start-osteo-272756154-150x150.png",
+    "https://cybernetic.life/wp-content/uploads/2019/10/start-tcm-285161065-150x150.png",
+    "https://cybernetic.life/wp-content/uploads/2019/10/start-hypno-212192737-150x150.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Guido Paul Zörner in seiner Praxis an?",
+      "answer": "Guido Paul Zörner bietet in seiner Praxis Osteopathie, Akupunktur, Hypnose und Sportmedizin an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Guido Paul Zörner?",
+      "answer": "Die Praxis befindet sich in der Dernburgstr. 59, 14057 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind wie folgt: Montag von 09:00 bis 18:00 Uhr, Dienstag von 09:00 bis 13:00 Uhr, Mittwoch von 14:00 bis 20:00 Uhr, Donnerstag von 09:00 bis 18:00 Uhr und Freitag von 09:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link buchen: https://www.doctolib.de/osteopath/berlin/guido-paul-zoerner?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Wie kann ich Guido Paul Zörner kontaktieren?",
+      "answer": "Sie können Guido Paul Zörner telefonisch unter 03081816111 oder per E-Mail an join@cybernetic.life kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL2ekCC1aqEcRvzjplwBIIZ0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

@@ -2,8 +2,8 @@
   "id": "harald-montag-heilpraktiker",
   "slug": "harald-montag-heilpraktiker",
   "name": "Harald Montag | Heilpraktiker",
-  "description": "Harald Montag | Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Harald Montag ist ein erfahrener Heilpraktiker in Berlin, der sich auf ganzheitliche Naturheilverfahren und Ernährungsberatung spezialisiert hat. In seiner Praxis in Steglitz-Zehlendorf betrachtet er den menschlichen Körper als ein zusammenhängendes System und geht den Ursachen von Beschwerden wie chronischen Schmerzen, Verdauungsproblemen und Erschöpfung auf den Grund. Durch individuelle Behandlungsansätze, einschließlich der Cranio-Sacral-Therapie, fördert er die Selbstheilungskräfte seiner Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -54,7 +54,62 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Womit Patienten zu mir kommen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ursachenforschung für den Heilerfolg"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ein guter Heilpraktiker kennt Ihre Vorgeschichte"
+    },
+    {
+      "id": "offer-4",
+      "name": "Cranio-Sacral-Therapie zur Schmerzlinderung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Was ich anbiete – und was nicht"
+    },
+    {
+      "id": "offer-6",
+      "name": "Honorare und Kostenübernahme"
+    },
+    {
+      "id": "offer-7",
+      "name": "Mein Angebot für Sie"
+    }
+  ],
+  "images": [
+    "https://www.praxis-montag.de/wp-content/uploads/2024/01/harald_podcast_banner.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Harald Montag als Heilpraktiker an?",
+      "answer": "Harald Montag bietet unter anderem Ernährungsberatung, Cranio-Sacral-Therapie zur Schmerzlinderung und eine umfassende Ursachenforschung für den Heilerfolg an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Harald Montag?",
+      "answer": "Die Praxis von Harald Montag befindet sich in der Ilmenauer Str. 11, 14193 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Harald Montag buchen?",
+      "answer": "Sie können einen Termin bei Harald Montag über die Buchungsseite unter https://koalendar.com/u/HaraldMontag buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Harald Montag?",
+      "answer": "Die Praxis hat von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Harald Montag kontaktieren?",
+      "answer": "Sie können Harald Montag telefonisch unter 0308262753 oder per E-Mail an kontakt@praxis-montag.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-duhQqJQqEcRCfbvfpgYyyc",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 64
 }

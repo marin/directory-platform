@@ -2,8 +2,8 @@
   "id": "martina-merlander-osteopathie-in-berlin",
   "slug": "martina-merlander-osteopathie-in-berlin",
   "name": "Martina Merländer - OSTEOPATHIE in Berlin",
-  "description": "Martina Merländer - OSTEOPATHIE in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Martina Merländer bietet in ihrer Praxis für Osteopathie und Naturheilkunde in Berlin-Charlottenburg eine ganzheitliche Behandlung an, die Körper, Geist und Seele als untrennbare Einheit betrachtet. Mit langjähriger Erfahrung und Offenheit gegenüber verschiedenen medizinischen Richtungen verfolgt sie individuelle Lösungsansätze für gesundheitliche Probleme. Ihre Praxis befindet sich in ruhigen und niveauvollen Räumlichkeiten in der Reichsstraße 93.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -47,7 +47,38 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die Praxis der Osteopathin Martina Merländer"
+    },
+    {
+      "id": "offer-2",
+      "name": "Osteopathie – Naturheilkunde – Musikermedizin"
+    }
+  ],
+  "images": [
+    "https://www.chisanatura.com/wp-content/uploads/2022/03/chisanatura-profilbilder-martina_merlaender.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Martina Merländer an?",
+      "answer": "Martina Merländer bietet Osteopathie, Naturheilkunde und Musikermedizin an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Martina Merländer?",
+      "answer": "Die Praxis befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 10:00 bis 18:30 Uhr, Dienstag von 09:30 bis 19:00 Uhr, Donnerstag von 09:30 bis 19:00 Uhr und Freitag von 10:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Martina Merländer kontaktieren?",
+      "answer": "Sie können Martina Merländer telefonisch unter 0303015772 oder per E-Mail an info@chisanatura.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoXgeNcRQqEcRyzrCv9u1tsk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

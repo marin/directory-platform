@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-dirk-huxol",
   "slug": "naturheilpraxis-dirk-huxol",
   "name": "Naturheilpraxis Dirk Huxol",
-  "description": "Naturheilpraxis Dirk Huxol ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Dirk Huxol in Berlin-Steglitz bietet ganzheitliche Ansätze der Naturheilkunde und authentische Ayurveda-Verfahren an. Heilpraktiker Dirk Huxol und sein Team unterstützen die Patienten dabei, individuelle Wege zu mehr Gesundheit, Lebendigkeit und Wohlbefinden zu finden. Neben einer gründlichen Anamnese werden verschiedene naturheilkundliche und ayurvedische Anwendungen angeboten, um das persönliche Gleichgewicht zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -58,7 +58,46 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraktiker für Naturheilkunde & Ayurveda"
+    },
+    {
+      "id": "offer-2",
+      "name": "Unser Dosha Test für dich!"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/AdobeStock_55583075-1500x430.jpeg",
+    "https://naturheilpraxis-huxol.de/wp-content/uploads/2025/09/Rathen-2021-015-900x430.jpg",
+    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/VillaEmmaBadSchandau-159_Wohnung-1_Praxis-1024x430.jpg",
+    "https://naturheilpraxis-huxol.de/wp-content/uploads/2026/01/IMG_1663-180x180.jpeg",
+    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/AdobeStock_17477729-180x180.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Dirk Huxol an?",
+      "answer": "Die Naturheilpraxis Dirk Huxol bietet Dienstleistungen in den Bereichen Akupunktur, TCM, Ernährungsberatung und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Dirk Huxol?",
+      "answer": "Die Naturheilpraxis Dirk Huxol befindet sich in der Cecilienstraße 6, 12247 Berlin, im Stadtteil Steglitz."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Naturheilpraxis Dirk Huxol hat von Montag bis Samstag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Dirk Huxol vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Dirk Huxol telefonisch unter der Nummer 01631802260 vereinbaren."
+    },
+    {
+      "question": "Bietet die Praxis auch Seminare oder Veranstaltungen an?",
+      "answer": "Ja, die Naturheilpraxis Dirk Huxol bietet kommende Veranstaltungen und Seminare an, die auf der Website einsehbar sind."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjUEuoFtaqEcRQ40e5ZX7rpk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 76
 }

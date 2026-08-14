@@ -2,8 +2,8 @@
   "id": "enmedica-praxis-jana-seifert-team",
   "slug": "enmedica-praxis-jana-seifert-team",
   "name": "enMedica - Praxis Jana Seifert & Team",
-  "description": "enMedica - Praxis Jana Seifert & Team ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die enMedica-Praxis von Jana Seifert & Team in Berlin bietet umfassende naturheilkundliche Behandlungen mit einem Schwerpunkt auf Homöopathie und Elektroakupunktur nach Dr. Voll. Das Team verfolgt einen ganzheitlichen Ansatz zur Gesundheitsförderung und behandelt eine Vielzahl von Beschwerden, darunter Hormonstörungen, Erschöpfung und Allergien. Die Praxis legt großen Wert auf individuelle Therapieansätze und die genaue Analyse von Gesundheitswerten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -47,7 +47,130 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Elektroakupunktur nach Voll (EAV)"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie/Isopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Orthomolekulare Medizin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Clark-Therapie nach Dr. Clark"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ausleitungsverfahren"
+    },
+    {
+      "id": "offer-6",
+      "name": "Reizstromtherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Labordiagnostik"
+    },
+    {
+      "id": "offer-8",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schwermetallausleitung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Behandlung mit Organpräparaten"
+    },
+    {
+      "id": "offer-11",
+      "name": "Unser Konzept: Die ganze Speisekarte."
+    },
+    {
+      "id": "offer-12",
+      "name": "Lassen Sie sich anrufen."
+    },
+    {
+      "id": "offer-13",
+      "name": "Kontakt zu uns."
+    },
+    {
+      "id": "offer-14",
+      "name": "Sprechzeiten"
+    },
+    {
+      "id": "offer-15",
+      "name": "Ausfüllen. Abschicken. Los geht's!"
+    },
+    {
+      "id": "offer-16",
+      "name": "Jana Seifert. Heilpraktikerin. Jeden Tag."
+    },
+    {
+      "id": "offer-17",
+      "name": "ACHTUNG: COVID-19"
+    },
+    {
+      "id": "offer-18",
+      "name": "Schön, dass Sie da sind!"
+    },
+    {
+      "id": "offer-19",
+      "name": "Prima. Das ist genau, was ich tue."
+    },
+    {
+      "id": "offer-20",
+      "name": "Alles beginnt mit Vertrauen."
+    },
+    {
+      "id": "offer-21",
+      "name": "Werte messen. Zusammenhänge verstehen."
+    },
+    {
+      "id": "offer-22",
+      "name": "Elektroakupunktur"
+    },
+    {
+      "id": "offer-23",
+      "name": "Homöopathie"
+    }
+  ],
+  "images": [
+    "https://www.enmedica.de/images/1200/Heilpraktiker_Berlin_Jana_Seifert.jpg",
+    "https://www.enmedica.de/images/1200/Goldfischglas_enMedica.jpg",
+    "https://www.enmedica.de/images/1200/Heilpraktiker_Elektroakupunktur.jpg",
+    "https://www.enmedica.de/images/1200/Homoeopathie_Berlin.jpg",
+    "https://www.enmedica.de/images/400/Elektroakupunktur_nach_Voll.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis enMedica an?",
+      "answer": "Die Praxis enMedica bietet unter anderem Elektroakupunktur nach Voll, Homöopathie/Isopathie, orthomolekulare Medizin, Clark-Therapie nach Dr. Clark, Ausleitungsverfahren, Reizstromtherapie, Labordiagnostik, Darmsanierung, Schwermetallausleitung und die Behandlung mit Organpräparaten an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis enMedica hat montags, dienstags, donnerstags und freitags von 08:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis enMedica?",
+      "answer": "Die Praxis enMedica befindet sich in der Rheinstraße 32, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 030-8518013 vereinbaren oder die Website http://www.enmedica.de/ besuchen."
+    },
+    {
+      "question": "Was ist das besondere Konzept der Praxis enMedica?",
+      "answer": "Das besondere Konzept der Praxis enMedica ist, dass die Therapeuten sich Zeit nehmen, um die Patienten und ihre Gesundheitsprobleme zu verstehen, und sie begleiten die Patienten über mehrere Termine hinweg, um eine maßgeschneiderte Therapie zu entwickeln."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1-MWHhQqEcR-sWeApaeBKg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

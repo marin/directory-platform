@@ -2,8 +2,8 @@
   "id": "annette-ufermann",
   "slug": "annette-ufermann",
   "name": "Annette Ufermann",
-  "description": "Annette Ufermann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Annette Ufermann ist Heilpraktikerin in Berlin und bietet in ihrer Naturheilpraxis eine ganzheitliche Betrachtung von Gesundheit und Krankheit. Mit über zwei Jahrzehnten Erfahrung widmet sie sich verschiedenen gesundheitlichen Herausforderungen, darunter Tinnitus, Allergien, Sportverletzungen und psychische Belastungen wie Depressionen und Prüfungsangst. Ihr Ansatz zielt darauf ab, gemeinsam mit den Patienten den Weg zur Gesundheit zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,35 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Telefon: 030 / 34 50 16 44"
+    }
+  ],
+  "images": [
+    "http://www.naturheilpraxis-ufermann.de/files/stacks_image_1404_1.png",
+    "http://www.naturheilpraxis-ufermann.de/files/stacks_image_1409_1.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis von Annette Ufermann?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 11:00 bis 21:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Annette Ufermann?",
+      "answer": "Die Praxis befindet sich in Berlin, Tegeler Weg 104, 10589 Berlin."
+    },
+    {
+      "question": "Wie kann ich Annette Ufermann kontaktieren?",
+      "answer": "Sie können Annette Ufermann telefonisch unter 03034501644 oder per E-Mail an annette_ufermann@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Schwerpunkte hat die Praxis von Annette Ufermann?",
+      "answer": "Die Schwerpunkte der Praxis sind Tinnitus, Allergien, Sportverletzungen, Probleme des Bewegungsapparats, Depressionen/Burn Out, Panikattacken/Prüfungsangst, unerfüllter Kinderwunsch, Raucherentwöhnung, Hauterkrankungen und Übergewicht/Adipositas."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOeUsEjBRqEcRSYFzDKYdZgA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-am-schlosspark-dr-eva-becker",
   "slug": "naturheilpraxis-am-schlosspark-dr-eva-becker",
   "name": "Naturheilpraxis am Schlosspark Dr. Eva Becker",
-  "description": "Naturheilpraxis am Schlosspark Dr. Eva Becker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis am Schlosspark unter der Leitung von Dr. Eva Becker in Berlin-Pankow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Akupunktur, Psychotherapie und traditionelle chinesische Medizin. Schwerpunkte der Praxis sind unter anderem die Unterstützung bei Kinderwunsch, Schwangerenbegleitung sowie die Behandlung von Kindern. Darüber hinaus werden auch traumatherapeutische Ansätze und innovative Methoden wie die Bemer®-Therapie zur Förderung der Gesundheit eingesetzt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -59,7 +59,61 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schwangerenbegleitung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kinderbehandlung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Traumatherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bemer ®"
+    },
+    {
+      "id": "offer-6",
+      "name": "Access to Innate ®"
+    },
+    {
+      "id": "offer-7",
+      "name": "Krankheitsschwerpunkte"
+    }
+  ],
+  "images": [
+    "https://praxis-evabecker.de/assets/img/header.png",
+    "https://praxis-evabecker.de/assets/img/bemer.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis am Schlosspark an?",
+      "answer": "Die Naturheilpraxis am Schlosspark bietet Therapien in den Bereichen Akupunktur, Psychotherapie und Naturheilkunde an. Zu den speziellen Angeboten gehören Kinderwunsch, Schwangerenbegleitung, Kinderbehandlung, Traumatherapie, Bemer ® und Access to Innate ®."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis am Schlosspark sind von Montag bis Freitag von 08:00 bis 20:00 Uhr und am Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis am Schlosspark?",
+      "answer": "Die Naturheilpraxis am Schlosspark befindet sich in der Pestalozzistraße 12, 13187 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis am Schlosspark telefonisch unter 015735180041 oder per E-Mail an info@praxis-evabecker.de vereinbaren."
+    },
+    {
+      "question": "Welche Krankheitsbilder werden in der Praxis behandelt?",
+      "answer": "In der Naturheilpraxis am Schlosspark werden verschiedene Krankheitsbilder behandelt, darunter Schmerzzustände, Stressabbau, psychosomatische Beschwerden, depressive Verstimmungen, Schlafstörungen, Atemwegserkrankungen, Hauterkrankungen und gynäkologische Erkrankungen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRN08d6KWFbCw"
 }

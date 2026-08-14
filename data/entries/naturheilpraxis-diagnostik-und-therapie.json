@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-diagnostik-und-therapie",
   "slug": "naturheilpraxis-diagnostik-und-therapie",
   "name": "Naturheilpraxis - Diagnostik und Therapie",
-  "description": "Naturheilpraxis - Diagnostik und Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis - Diagnostik und Therapie befindet sich in der Lepsiusstraße 51 in Berlin, im Bezirk Steglitz-Zehlendorf. Hier werden verschiedene naturheilkundliche Ansätze zur Diagnostik und Therapie angeboten. Die Praxis legt Wert auf individuelle Behandlungsansätze und eine ganzheitliche Betrachtung der Gesundheit ihrer Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,29 @@
   "phone": "015736526835",
   "email": "marzenamazur@web.de",
   "website": "http://www.heilpraktiker-berlin-friedenau.de/kontakt.php",
+  "bookingUrl": "https://www.salonmeister.de/",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis - Diagnostik und Therapie?",
+      "answer": "Die Naturheilpraxis - Diagnostik und Therapie befindet sich in der Lepsiusstraße 51, 12163 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis telefonisch unter 015736526835 oder per E-Mail an marzenamazur@web.de kontaktieren."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite https://www.salonmeister.de/ buchen."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis an?",
+      "answer": "Die Naturheilpraxis bietet Dienstleistungen in der Naturheilkunde an, einschließlich Diagnostik und Therapie."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRzSMeZFmEUOM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

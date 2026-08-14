@@ -2,8 +2,8 @@
   "id": "heilpraktiker-maximilian-schon",
   "slug": "heilpraktiker-maximilian-schon",
   "name": "Heilpraktiker Maximilian Schön",
-  "description": "Heilpraktiker Maximilian Schön ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Maximilian Schön in Berlin bietet eine ganzheitliche Schmerztherapie nach dem Liebscher & Bracht Konzept an. Sein Ziel ist es, Patienten ein schmerzfreies Leben zu ermöglichen, ohne den Einsatz von Medikamenten oder Operationen. In seiner Praxis in Friedrichshain-Kreuzberg werden individuelle Schmerzbehandlungen angeboten, die auf die spezifischen Bedürfnisse der Patienten abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017630478143",
   "email": "info@hp-schoen.com",
   "website": "https://www.hp-schoen.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/maximilian-schoen/booking/places?profile_skipped=true&telehealth=false",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,66 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wie entstehen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Eine revolutionäre Schmerztherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Wie können Faszien-Rollmassagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ihr Schmerztherapeut in Berlin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die optimale Schmerzbehandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Der Liebscher & Bracht Goldstandard"
+    },
+    {
+      "id": "offer-7",
+      "name": "So funktioniert die Therapie nach Liebscher & Bracht"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_d4abb722bde248bbbe3766378b4937e6~mv2.jpg/v1/crop/x_0,y_131,w_1050,h_1052/fill/w_292,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_1110-web1800.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Maximilian Schön?",
+      "answer": "Die Praxis von Maximilian Schön befindet sich in der Gubener Str. 29, 10243 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Maximilian Schön buchen?",
+      "answer": "Sie können einen Termin bei Maximilian Schön über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 21:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Maximilian Schön kontaktieren?",
+      "answer": "Sie können Maximilian Schön telefonisch unter 017630478143 oder per E-Mail an info@hp-schoen.com kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Therapie bei Maximilian Schön?",
+      "answer": "Das Ziel der Therapie bei Maximilian Schön ist es, jedem Menschen ein schmerzfreies Leben zu ermöglichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQY9LaFtOqEcRyrye_cfluWw",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 47
 }

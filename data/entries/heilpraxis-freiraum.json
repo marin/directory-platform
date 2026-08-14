@@ -2,8 +2,8 @@
   "id": "heilpraxis-freiraum",
   "slug": "heilpraxis-freiraum",
   "name": "Heilpraxis Freiraum",
-  "description": "Heilpraxis Freiraum ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraxis Freiraum \\\\ \\\\ trauma aware embodiment\\\\ \\\\ Touch of Presence®\\\\ \\\\ Craniosacrale Therapie \\\\ \\\\ und Klang in Berlin Pflichtangaben gemäß §5 Telemediengesetz (TMG) &",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -29,5 +29,6 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwb799HJOqEcRT66MDe1R6oA"
 }

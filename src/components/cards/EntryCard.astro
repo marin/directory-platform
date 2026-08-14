@@ -1,10 +1,13 @@
 ---
 import type { EntryCardViewModel } from "../../lib/data/view-models/entry.ts";
+import { hasGoogleMapsRating } from "../../lib/geo/google-maps-rating.ts";
+import GoogleMapsRating from "../entry/GoogleMapsRating.astro";
 
 interface Props {
   card: EntryCardViewModel;
 }
 const { card } = Astro.props;
+const showGoogleRating = hasGoogleMapsRating(card);
 ---
 
 <article class="card">
@@ -13,5 +16,15 @@ const { card } = Astro.props;
     {!card.isOpen && <span class="badge" style="margin-left: 0.5rem;">Geschlossen</span>}
   </h3>
   <p class="muted" style="font-size: 0.875rem;">{card.primaryCategory}{card.areaName ? ` · ${card.areaName}` : ""}</p>
+  {
+    showGoogleRating && (
+      <GoogleMapsRating
+        rating={card.googleMapsRating!}
+        ratingsCount={card.googleMapsRatingsCount!}
+        mapsUrl={card.googleMapsUrl}
+        variant="compact"
+      />
+    )
+  }
   <p style="font-size: 0.9rem; margin-top: 0.5rem;">{card.description}</p>
 </article>

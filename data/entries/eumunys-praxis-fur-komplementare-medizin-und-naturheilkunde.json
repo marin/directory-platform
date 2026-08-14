@@ -2,8 +2,8 @@
   "id": "eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde",
   "slug": "eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde",
   "name": "eumunys | Praxis für komplementäre Medizin und Naturheilkunde",
-  "description": "eumunys | Praxis für komplementäre Medizin und Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die eumunys Praxis für komplementäre Medizin und Naturheilkunde befindet sich im Herzen Berlins und bietet eine ganzheitliche Herangehensweise an Gesundheit und Wohlbefinden. Schwerpunkte der Praxis sind die Stärkung des Immunsystems, die Aktivierung der Selbstheilungskräfte sowie die umfassende Diagnostik und Therapie von Erkrankungen, die mit Störungen des Immunsystems in Verbindung stehen. Durch individuelle Beratung und therapeutische Maßnahmen wird angestrebt, das Gleichgewicht zwischen Körper und Geist wiederherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017634201642",
   "email": "praxis@eumunys.com",
   "website": "http://www.eumunys.com/",
+  "bookingUrl": "tel:+4917634201642",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,107 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Prävention"
+    },
+    {
+      "id": "offer-2",
+      "name": "Prävention nach schwerer Krankheit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährungsberatung und Hilfe bei der Ernährungsumstellung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beratung zur Darmgesundheit"
+    },
+    {
+      "id": "offer-5",
+      "name": "Impfberatung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Meditation bei uns ganz oben"
+    },
+    {
+      "id": "offer-7",
+      "name": "Immuntherapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-9",
+      "name": "Vorbeugung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Praxis für komplementäre Medizin und Naturheilkunde"
+    },
+    {
+      "id": "offer-11",
+      "name": "Naturheilpraxis in Berlin – mitten im Herzen unserer Stadt"
+    },
+    {
+      "id": "offer-12",
+      "name": "Kontakt \\| Termin"
+    },
+    {
+      "id": "offer-13",
+      "name": "Schwerpunkte unserer Praxis"
+    },
+    {
+      "id": "offer-14",
+      "name": "Autoimmunerkrankungen \\| Allergien"
+    },
+    {
+      "id": "offer-15",
+      "name": "Tumorerkrankungen \\| Krebs"
+    },
+    {
+      "id": "offer-16",
+      "name": "Praxiskonzept"
+    },
+    {
+      "id": "offer-17",
+      "name": "Diagnostikkonzept"
+    },
+    {
+      "id": "offer-18",
+      "name": "Therapiekonzept"
+    }
+  ],
+  "images": [
+    "https://www.eumunys.com/wp-content/uploads/2017/12/iStock-642910178-e1522486241107.jpg",
+    "https://www.eumunys.com/wp-content/uploads/2019/04/1811_LB_Udo-Berg_ONLINE-1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis eumunys an?",
+      "answer": "Die Praxis eumunys bietet eine Vielzahl von Dienstleistungen an, darunter Prävention, Ernährungsberatung, Beratung zur Darmgesundheit, Immuntherapie, psychologische Unterstützung und Yoga. Zudem wird Hilfe bei der Ernährungsumstellung sowie Beratung zu gesundheitsschädlichen Lebensgewohnheiten angeboten."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis eumunys sind von Montag bis Donnerstag von 08:00 bis 16:00 Uhr und am Freitag von 08:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis eumunys?",
+      "answer": "Die Praxis eumunys befindet sich in der Alten Jakobstraße 93, 10179 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis eumunys telefonisch unter 017634201642 vereinbaren."
+    },
+    {
+      "question": "Bietet die Praxis auch Unterstützung bei psychischen Problemen an?",
+      "answer": "Ja, die Praxis eumunys bietet psychologische Unterstützung an, um eine ganzheitliche Therapie zu gewährleisten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH0Ab7ShOqEcRbVhE2rhb-OQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-karin-muuss",
   "slug": "heilpraktikerin-karin-muuss",
   "name": "Heilpraktikerin KARIN MUUSS",
-  "description": "Heilpraktikerin KARIN MUUSS ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Karin Muuss in Berlin-Charlottenburg bietet umfassende Unterstützung in den Bereichen Coaching, Psychotherapie und Orthopädie. Seit 1982 begleitet sie Menschen aus verschiedenen Lebensbereichen auf ihrem Weg zu mehr Balance und innerer Ruhe. Ihr Ansatz berücksichtigt die Wechselwirkungen zwischen Körper, Psyche und Seele, um individuelle Heilungsprozesse zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,5 +53,27 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet Heilpraktikerin Karin Muuss an?",
+      "answer": "Karin Muuss bietet Behandlungsschwerpunkte in den Bereichen Coaching, Psychotherapie und Orthopädie an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten von Karin Muuss?",
+      "answer": "Die Öffnungszeiten sind Montag von 10:00 bis 19:00 Uhr, Dienstag bis Freitag von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Karin Muuss?",
+      "answer": "Die Praxis von Karin Muuss befindet sich in der Goethestraße 58, 10625 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Karin Muuss kontaktieren?",
+      "answer": "Sie können Karin Muuss telefonisch unter 015777830992 erreichen oder ihre Website unter http://www.k-muuss.de/ besuchen."
+    },
+    {
+      "question": "Bietet Karin Muuss Behandlungen in anderen Sprachen an?",
+      "answer": "Ja, die Behandlungen können auch in Englisch oder Französisch angeboten werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz3xVseFQqEcRF0GdmE7kUd0"
 }

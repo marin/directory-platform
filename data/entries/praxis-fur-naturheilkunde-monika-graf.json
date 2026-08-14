@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-monika-graf",
   "slug": "praxis-fur-naturheilkunde-monika-graf",
   "name": "Praxis für Naturheilkunde Monika Graf",
-  "description": "Praxis für Naturheilkunde Monika Graf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Monika Graf befindet sich in Berlin-Pankow und bietet seit über 25 Jahren individuelle naturheilkundliche Behandlungen an. Schwerpunkte der Praxis sind die Colon-Hydro-Therapie, Darmsanierung sowie Mikrobiomtherapie, ergänzt durch Akupunktur und Detox-Kuren. Die Behandlung erfolgt mehrsprachig in Deutsch, Englisch, Französisch und Spanisch, um auf die unterschiedlichen Bedürfnisse der Patienten einzugehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -68,6 +68,34 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://static.wixstatic.com/media/0aec04_ea683fd76db0486bab4ff18014cd9f34~mv2.jpg/v1/fill/w_1905,h_993,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0aec04_ea683fd76db0486bab4ff18014cd9f34~mv2.jpg",
+    "https://static.wixstatic.com/media/0aec04_9d20206e95e7471fa3154d8d6f0a7e2d~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/0aec04_9d20206e95e7471fa3154d8d6f0a7e2d~mv2.jpg",
+    "https://static.wixstatic.com/media/0aec04_792f1c67a1ae4b04962f75c3dab8e4f3~mv2.jpg/v1/fit/w_715,h_714,q_90,enc_avif,quality_auto/0aec04_792f1c67a1ae4b04962f75c3dab8e4f3~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis für Naturheilkunde Monika Graf an?",
+      "answer": "Die Praxis bietet unter anderem Colon-Hydro-Therapie, Darmsanierung, Mikrobiomtherapie, Akupunktur sowie Fasten- und Detox-Kuren an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Monika Graf?",
+      "answer": "Die Praxis befindet sich in der Metzer Str. 40, 10405 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat montags und donnerstags von 10:00 bis 14:00 Uhr und von 15:00 bis 19:00 Uhr geöffnet. Dienstags und freitags ist sie von 10:00 bis 14:00 Uhr und von 15:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "In welchen Sprachen werden die Behandlungen angeboten?",
+      "answer": "Die Behandlungen werden auf Deutsch, Englisch, Französisch und Spanisch angeboten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 01624948914 oder per E-Mail an info@praxis-monika-graf.de vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRoFwAJOqEcRAczXrSpDO-k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende",
   "slug": "praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende",
   "name": "Praxis für Heilkunde & Schmerztherapie Claudia Baltodano Valverde Ingo Mende",
-  "description": "Praxis für Heilkunde & Schmerztherapie Claudia Baltodano Valverde Ingo Mende ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Heilkunde & Schmerztherapie von Claudia Baltodano Valverde und Ingo Mende in Berlin-Mitte bietet ein breites Spektrum an Therapien, darunter Osteopathie, Schmerztherapie und Naturheilkunde. Zu den angebotenen Behandlungen zählen unter anderem Bachblüten, Ernährungstherapie, Darmsanierung sowie die OIDA Therapie und Kambo. Die Praxis legt Wert auf eine individuelle und ganzheitliche Betreuung ihrer Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,6 +27,7 @@
   "phone": "017682172143",
   "email": "praxis@heilkunde-schmerztherapie.de",
   "website": "http://www.heilkunde-schmerztherapie.de/",
+  "bookingUrl": "https://www.doctolib.de/osteopath/berlin/claudia-baltodano-valverde/booking/motives?specialityId=1232&telehealth=false&placeId=practice-331330&insuranceSectorEnabled=true&insuranceSector=public&pid=practice-331330&insurance_sector=public&bookingFunnelSource=profile",
   "openingHours": [
     {
       "day": "Monday",
@@ -59,7 +60,62 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kostenübernahme für Heilpraktiker Zusatzversicherte"
+    },
+    {
+      "id": "offer-2",
+      "name": "Bachblüten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährungstherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-5",
+      "name": "OIDA Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kambo"
+    }
+  ],
+  "images": [
+    "http://inboundyoga.de/wp-content/uploads/2017/12/Schmerztherapie.png",
+    "http://inboundyoga.de/wp-content/uploads/2023/04/HME00521-bea5-2-683x1024.jpg",
+    "http://inboundyoga.de/wp-content/uploads/2017/12/Inboundyoga-berlin-Claudia-4-scaled.jpg",
+    "http://inboundyoga.de/wp-content/uploads/2024/08/IMG_6688-2-1024x768.jpg",
+    "http://inboundyoga.de/wp-content/uploads/2024/08/IMG_6612-2-768x1024.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis für Heilkunde & Schmerztherapie an?",
+      "answer": "Die Praxis bietet verschiedene Therapien an, darunter Osteopathie, Schmerztherapie nach Liebscher & Bracht, Ernährungstherapie, Darmsanierung, Bachblüten, OIDA Therapie und Kambo."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen. Hier ist der Link: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind: Montag 09:00 - 18:30, Dienstag 09:00 - 21:00, Mittwoch 09:00 - 18:30, Donnerstag 09:00 - 20:30, Freitag 09:00 - 19:00 und Samstag 09:00 - 17:00."
+    },
+    {
+      "question": "Übernimmt meine Krankenkasse die Kosten für die Behandlungen?",
+      "answer": "Ja, viele gesetzliche Krankenkassen erstatten anteilig die Kosten für Osteopathiebehandlungen. Es wird empfohlen, sich direkt bei Ihrer Krankenkasse über die Vertragsbedingungen zu informieren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Torstraße 161, 10115 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9XhF5VRqEcRcoxbs-T18cY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

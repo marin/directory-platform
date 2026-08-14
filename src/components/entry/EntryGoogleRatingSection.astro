@@ -1,0 +1,26 @@
+---
+import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+import { hasGoogleMapsRating } from "../../lib/geo/google-maps-rating.ts";
+import GoogleMapsRating from "./GoogleMapsRating.astro";
+
+interface Props {
+  entry: NormalizedEntry;
+}
+
+const { entry } = Astro.props;
+const showRating = hasGoogleMapsRating(entry);
+---
+
+{
+  showRating && (
+    <section aria-labelledby="google-maps-rating-heading" data-testid="entry-google-rating-section">
+      <h2 id="google-maps-rating-heading">Google Bewertungen</h2>
+      <GoogleMapsRating
+        rating={entry.googleMapsRating!}
+        ratingsCount={entry.googleMapsRatingsCount!}
+        mapsUrl={entry.googleMapsUrl}
+        variant="profile"
+      />
+    </section>
+  )
+}

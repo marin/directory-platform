@@ -2,8 +2,8 @@
   "id": "brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie",
   "slug": "brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie",
   "name": "Brigita Bakmaz, Heilpraktikerin für klassische Homöopathie",
-  "description": "Brigita Bakmaz, Heilpraktikerin für klassische Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Brigita Bakmaz ist Heilpraktikerin für klassische Homöopathie in Berlin-Pankow. Seit 2001 führt sie ihre eigene Praxis und hat sich intensiv mit der Homöopathie beschäftigt, nachdem sie eine dreijährige Ausbildung an der Samuel-Hahnemann-Schule in Berlin abgeschlossen hat. In ihrer Arbeit legt sie großen Wert darauf, die individuellen Beschwerden ihrer Patienten umfassend zu verstehen und mit passenden homöopathischen Mitteln zu behandeln. Sie betreut Patienten jeden Alters, von Säuglingen bis zu Erwachsenen, und schätzt die sanfte Wirkung der Homöopathie bei akuten und chronischen Erkrankungen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -25,6 +25,7 @@
   },
   "phone": "03044327617",
   "website": "http://www.bakmaz.de/",
+  "bookingUrl": "https://www.bakmaz.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,61 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "für Kinder, Schüler, Studenten, Hartz-IV-Empfänger",
+      "price": 170,
+      "priceLabel": "170 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "für Kinder, Schüler, Studenten, Hartz-IV-Empfänger",
+      "price": 70,
+      "priceLabel": "70 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "5 bis",
+      "price": 25,
+      "priceLabel": "25 €"
+    }
+  ],
+  "images": [
+    "https://www.bakmaz.de/uploads/images/brigitabakmaz2.jpg?1490887891580",
+    "https://www.bakmaz.de/uploads/images/sprechzimmer1.jpg?1490884297954",
+    "https://www.bakmaz.de/uploads/images/stuehle1.jpg?1490884699903",
+    "https://www.bakmaz.de/uploads/images/stuehle2.jpg?1490884375101"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Brigita Bakmaz an?",
+      "answer": "Brigita Bakmaz bietet klassische Homöopathie an und behandelt sowohl akute als auch chronische Erkrankungen sowie psychosomatische Beschwerden."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung betragen 90 € für Erwachsene und 70 € für Kinder, Schüler, Studenten und Hartz-IV-Empfänger. Die Kosten für Arzneimittel liegen bei etwa 20 € für einen Zeitraum von vier bis acht Wochen."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Dienstag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 14:00 Uhr, Donnerstag von 12:00 bis 20:00 Uhr und Freitag von 08:30 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Brigita Bakmaz?",
+      "answer": "Die Praxis befindet sich in der Raumerstraße 18, 10437 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Website von Brigita Bakmaz unter http://www.bakmaz.de/kontakt oder telefonisch unter 030 44327617 vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV-9IJP5NqEcRTrUPTXJrZrM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

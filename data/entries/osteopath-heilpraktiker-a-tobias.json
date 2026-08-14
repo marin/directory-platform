@@ -2,8 +2,8 @@
   "id": "osteopath-heilpraktiker-a-tobias",
   "slug": "osteopath-heilpraktiker-a-tobias",
   "name": "Osteopath/ Heilpraktiker A. Tobias",
-  "description": "Osteopath/ Heilpraktiker A. Tobias ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Osteopath/ Heilpraktiker A. Tobias bietet in seiner Praxis in Berlin-Pankow umfassende osteopathische Behandlungen an, die auf der klassischen Osteopathie basieren. Im Mittelpunkt seiner Arbeit steht der Mensch als Ganzes, wobei die Selbstheilungskräfte des Körpers unterstützt werden. Die Behandlungen umfassen eine gründliche Anamnese und Untersuchung, gefolgt von individuellen Therapieansätzen, die ohne den Einsatz von Medikamenten durchgeführt werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,7 +54,58 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Vita"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kosten / Übernahme"
+    },
+    {
+      "id": "offer-4",
+      "name": "Info Osteopathie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Empfehlungen zur Behandlungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Termin vereinbaren"
+    }
+  ],
+  "images": [
+    "https://tobias-osteopathie.com/wp-46802-content/uploads/2020/08/andree_tobias_profilbild.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Osteopath/ Heilpraktiker A. Tobias an?",
+      "answer": "Osteopath/ Heilpraktiker A. Tobias bietet klassische osteopathische Behandlungen an, die manipulative Techniken an der Wirbelsäule, viszerale Techniken an Organen, Drainagetechniken auf Gefäßebene sowie cranio-sakrale Ansätze umfassen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei A. Tobias vereinbaren?",
+      "answer": "Termine können direkt über DOCTOLIB oder per E-Mail an office@tobias-osteopathie.com vereinbart werden."
+    },
+    {
+      "question": "Was kostet eine Behandlung bei A. Tobias?",
+      "answer": "Die Erstbehandlung kostet 140€ (60 Minuten), Folgebehandlungen 130€ (40-50 Minuten) und Akutbehandlungen/Kinderbehandlungen 75€ (20-30 Minuten)."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von A. Tobias?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 11:00 bis 20:00, Dienstag von 09:00 bis 16:00, Mittwoch von 08:00 bis 16:00, Donnerstag von 11:00 bis 20:00 und Freitag von 08:00 bis 15:00."
+    },
+    {
+      "question": "Übernimmt meine Krankenkasse die Kosten für die Behandlung?",
+      "answer": "Die Abrechnung erfolgt nach dem Gebührenverzeichnis für Heilpraktiker. Privatversicherte und gesetzlich Versicherte mit Zusatzversicherung für Heilpraktiker erhalten in der Regel eine Kostenübernahme. Es wird empfohlen, sich direkt bei der Krankenkasse zu erkundigen, ob ein Rezept vom Arzt benötigt wird."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcVAwKR5OqEcRozDI0_Y_HVU",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 4
 }

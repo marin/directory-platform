@@ -2,8 +2,8 @@
   "id": "bastiane-hartmann-heilpraktiker-in-kreuzberg",
   "slug": "bastiane-hartmann-heilpraktiker-in-kreuzberg",
   "name": "Bastiane Hartmann, Heilpraktiker in Kreuzberg",
-  "description": "Bastiane Hartmann, Heilpraktiker in Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Bastiane Hartmann ist eine erfahrene Heilpraktikerin in Berlin-Kreuzberg, spezialisiert auf traditionelle chinesische Medizin, Frauen- und Kinderheilkunde sowie Shiatsu. Ihre Praxis befindet sich in der Wiener Straße 24, gegenüber dem Spreewaldbad und ist gut mit öffentlichen Verkehrsmitteln erreichbar. Termine können telefonisch vereinbart werden, und es sind auch Hausbesuche möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,6 +54,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://bastiane-hartmann.de/images/stories/design/banner.png",
+    "http://bastiane-hartmann.de/images/stories/design/praxis.jpg",
+    "http://bastiane-hartmann.de/images/stories/praxis/P1_Vorraum500_P1030597.jpg",
+    "http://bastiane-hartmann.de/images/stories/praxis/P2_Durchgang_P1030600.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Bastiane Hartmann?",
+      "answer": "Die Praxis von Bastiane Hartmann befindet sich in der Wiener Str. 24, 10999 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Bastiane Hartmann an?",
+      "answer": "Bastiane Hartmann bietet Akupunktur, traditionelle chinesische Medizin, Frauen- und Kinderheilkunde sowie Shiatsu an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Termine können telefonisch unter der Nummer 030-69531186 oder mobil unter 0151-18442454 vereinbart werden."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet Bastiane Hartmann Hausbesuche an?",
+      "answer": "Ja, Hausbesuche sind möglich."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdZsXT0tOqEcRBCmiJjabj-g"
 }

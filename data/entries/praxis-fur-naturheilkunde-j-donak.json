@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-j-donak",
   "slug": "praxis-fur-naturheilkunde-j-donak",
   "name": "Praxis für Naturheilkunde J. Donak",
-  "description": "Praxis für Naturheilkunde J. Donak ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde J. Donak befindet sich in der Hilbertstraße 9 in Berlin und bietet individuelle therapeutische Lösungen zur Förderung der Gesundheit an. Der Heilpraktiker Jörg Donak verfolgt einen ganzheitlichen Ansatz, der sowohl körperliche als auch psychische Aspekte berücksichtigt. Zu den Schwerpunkten der Praxis zählen Regenerationsmedizin, die Behandlung chronischer Erkrankungen sowie Psychosomatik und Psychotherapie. Patienten können sich auf eine seriöse und vertrauensvolle Atmosphäre freuen, in der auch Haus- und Klinikbesuche angeboten werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -71,7 +71,77 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schnell erreichbar!"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sprechzeiten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Naturheilkunde ist seriös."
+    },
+    {
+      "id": "offer-4",
+      "name": "Praxiszeiten"
+    },
+    {
+      "id": "offer-5",
+      "name": "Auch Haus- und Klinikbesuche!"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kostenfreie Erstberatung"
+    },
+    {
+      "id": "offer-7",
+      "name": "E-Mail-Kontaktseite einfügen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Naturheilpraxis Joerg Donak"
+    },
+    {
+      "id": "offer-9",
+      "name": "Server-Log Files"
+    },
+    {
+      "id": "offer-10",
+      "name": "Ihre Rechte als Betroffener"
+    },
+    {
+      "id": "offer-11",
+      "name": "Sie erreichen uns unter folgenden Kontaktdaten"
+    }
+  ],
+  "images": [
+    "http://www.praxis-donak.de/images/bus.png",
+    "http://www.praxis-donak.de/images/sprechzeiten.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde J. Donak?",
+      "answer": "Die Praxis befindet sich in der Hilbertstraße 9, 12307 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 - 992 56 810 oder 0177 - 31 31 117 vereinbaren."
+    },
+    {
+      "question": "Welche Sprechzeiten hat die Praxis?",
+      "answer": "Die Sprechzeiten sind Montag, Dienstag und Donnerstag von 09:00 bis 12:00 Uhr und 15:00 bis 18:00 Uhr, Mittwoch und Freitag von 09:00 bis 12:00 Uhr sowie Samstag von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Bietet die Praxis auch Hausbesuche an?",
+      "answer": "Ja, die Praxis bietet auch Haus- und Klinikbesuche an."
+    },
+    {
+      "question": "Gibt es eine kostenfreie Erstberatung?",
+      "answer": "Ja, die Praxis bietet ein kostenfreies und unverbindliches Informationsgespräch an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn8ONGolEqEcRakOIHCuj10M"
 }

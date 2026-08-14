@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-a-spies-praxis-osteopathie-naturheilkunde",
   "name": "Heilpraktiker A. Spies - Praxis Osteopathie & Naturheilkunde",
   "description": "Heilpraktiker A. Spies - Praxis Osteopathie & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -50,7 +50,35 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kategorie: Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Augmentierte Akupunktur nach Dr. Kovic – Soforthilfe bei Allergie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Osteopathie für Babys und Säuglinge"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beckenschiefstand – systemische Kompensation in der Osteopathie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Drei Monats Koliken bei Säuglingen: Ursachen, Diagnostik Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kategorien"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPTFERldOqEcRn7Q_9kdhEDY",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 51
 }

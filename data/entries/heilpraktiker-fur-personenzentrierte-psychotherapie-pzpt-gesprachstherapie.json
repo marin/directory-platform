@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-personenzentrierte-psychotherapie-pzpt-gesprachstherapie",
   "slug": "heilpraktiker-fur-personenzentrierte-psychotherapie-pzpt-gesprachstherapie",
   "name": "Heilpraktiker für Personenzentrierte-Psychotherapie PzPt Gesprächstherapie",
-  "description": "Heilpraktiker für Personenzentrierte-Psychotherapie PzPt Gesprächstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Personenzentrierte Psychotherapie in Berlin-Schöneberg bietet Unterstützung für Menschen, die sich ausgebrannt fühlen, ihre Wünsche aufschieben oder in belastenden Lebenssituationen feststecken. Neben der Gesprächstherapie werden auch Themen wie Trauer, Anpassungsstörungen, Burnout und allgemeine Ängste behandelt. Die Anzahl der Sitzungen richtet sich nach den individuellen Bedürfnissen der Klienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -29,5 +29,27 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Arten von Problemen werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden unter anderem Menschen unterstützt, die sich ausgebrannt fühlen, Trauer, Anpassungsstörungen, Burnout und allgemeine Ängste erleben."
+    },
+    {
+      "question": "Wie viele Sitzungen sind in der Regel erforderlich?",
+      "answer": "Die Anzahl der Sitzungen hängt von den individuellen Gegebenheiten und dem Bedürfnis des Klienten ab. Oft bewirken schon wenige Gespräche große Wirkung."
+    },
+    {
+      "question": "Wie kann ich die Praxis erreichen?",
+      "answer": "Die Praxis ist gut erreichbar mit den Bussen M43 und 143 an der Bundesallee Ecke Berliner Straße sowie Badensche Straße Ecke Kufsteiner Straße und mit dem M46 an der Grunewald Ecke Martin-Luther Straße."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis telefonisch unter 015156867860 kontaktieren oder eine E-Mail an kontakt@pzpt.de senden."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Bozener Str. 13/14, 10825 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhZ9VFPpRqEcR_nbdQX9O4RI"
 }

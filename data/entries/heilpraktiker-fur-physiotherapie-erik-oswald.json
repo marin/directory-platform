@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-physiotherapie-erik-oswald",
   "slug": "heilpraktiker-fur-physiotherapie-erik-oswald",
   "name": "Heilpraktiker für Physiotherapie, Erik Oswald",
-  "description": "Heilpraktiker für Physiotherapie, Erik Oswald ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Erik Oswald ist Heilpraktiker für Physiotherapie in Berlin-Friedrichshain und bietet individuelle, auf die Bedürfnisse seiner Patienten abgestimmte Behandlungen an. Mit über 20 Jahren Erfahrung spezialisiert er sich auf komplexe Fälle und entwickelt ganzheitliche Therapiepläne. Zu seinen Qualifikationen gehören unter anderem Manualtherapie, Neurotherapie und Rückenschulunterricht.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -43,7 +43,50 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihr Spezialist für Physiotherapie in Berlin - Friedrichshain"
+    },
+    {
+      "id": "offer-2",
+      "name": "Spezialisierungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Dienstleistungen"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/11062b_d8a2c9e827694c0d8fc6616fbbcac90ff000.jpg/v1/fill/w_1905,h_660,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_d8a2c9e827694c0d8fc6616fbbcac90ff000.jpg",
+    "https://static.wixstatic.com/media/c7955e_5d09ad96ad1c4f2d84257cccba0ec609~mv2.jpg/v1/fill/w_344,h_531,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7955e_5d09ad96ad1c4f2d84257cccba0ec609~mv2.jpg",
+    "https://static.wixstatic.com/media/c7955e_0f208e1ba5344d8ba5a5e0cf192b65b0~mv2.png/v1/fill/w_49,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c7955e_0f208e1ba5344d8ba5a5e0cf192b65b0~mv2.png",
+    "https://static.wixstatic.com/media/c7955e_c3413181223840f7813753453009d2b8~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c7955e_c3413181223840f7813753453009d2b8~mv2.jpg",
+    "https://static.wixstatic.com/media/c7955e_d8840c8cf14841cf85526a879c2ab2d1~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c7955e_d8840c8cf14841cf85526a879c2ab2d1~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Erik Oswald als Heilpraktiker für Physiotherapie an?",
+      "answer": "Erik Oswald bietet eine individuelle Behandlung, die Anamnese, aktive und passive Behandlung sowie einen Trainingsplan zur Eigenübung umfasst."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Erik Oswald buchen?",
+      "answer": "Sie können einen Termin über die Website Doctolib buchen oder direkt per E-Mail an pt-oswald@gmx.de."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Erik Oswald?",
+      "answer": "Die Praxis ist montags und donnerstags von 08:00 bis 21:00 Uhr sowie freitags von 16:00 bis 21:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Erik Oswald?",
+      "answer": "Die Praxis befindet sich in der Bölschestraße 44, 12587 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Werden die Behandlungen von gesetzlichen Krankenkassen übernommen?",
+      "answer": "Eine Abrechnung über die gesetzliche Krankenkasse ist leider nicht möglich. Privatpatienten können die Kosten über ein gültiges Rezept abrechnen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfWbaH_M3qEcRAARD6AbLdJ4",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 9
 }

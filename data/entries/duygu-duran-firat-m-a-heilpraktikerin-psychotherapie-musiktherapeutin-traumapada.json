@@ -2,8 +2,8 @@
   "id": "duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada",
   "slug": "duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada",
   "name": "Duygu Duran-Firat M.A., Heilpraktikerin (Psychotherapie), Musiktherapeutin, Traumapädagogin, Traumazentrierte Fachberaterin",
-  "description": "Duygu Duran-Firat M.A., Heilpraktikerin (Psychotherapie), Musiktherapeutin, Traumapädagogin, Traumazentrierte Fachberaterin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Duygu Duran-Firat M.A. ist eine erfahrene Heilpraktikerin für Psychotherapie, Musiktherapeutin und Traumapädagogin mit einer Praxis in Berlin-Neukölln. Sie bietet eine einfühlsame Begleitung in der Psychotherapie und Musiktherapie an, um Klient*innen bei der Entdeckung und Nutzung ihrer eigenen Ressourcen zu unterstützen. In ihrer Praxis werden sowohl Einzel- als auch Gruppentherapien sowie Online-Psychotherapie angeboten, wobei der Fokus auf ressourcen- und lösungsorientierten Ansätzen liegt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,6 +25,7 @@
   },
   "phone": "01637852916",
   "website": "http://duyguduran.com/de/",
+  "bookingUrl": "http://duyguduran.com/de/contact/",
   "openingHours": [
     {
       "day": "Monday",
@@ -37,7 +38,78 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ablauf"
+    },
+    {
+      "id": "offer-2",
+      "name": "Aufnahmegespräch und Diagnostik"
+    },
+    {
+      "id": "offer-3",
+      "name": "1 Sitzung wöchentlich (50 min)"
+    },
+    {
+      "id": "offer-4",
+      "name": "Einzeltherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Gruppentherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Online-Psychotherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Arten der Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Vorteile der Anwendung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Häufige Themen in meiner Praxis"
+    },
+    {
+      "id": "offer-10",
+      "name": "Vereinbaren Sie jetzt einen Termin"
+    }
+  ],
+  "images": [
+    "https://duyguduran.com/wp-content/uploads/2024/09/Varlik-1-1.png",
+    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-05-1024x1020.png",
+    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-06-804x1024.png",
+    "https://duyguduran.com/wp-content/uploads/2024/02/Basliksiz-1-e1708428760398.png",
+    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-08-768x147.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Duygu Duran-Firat an?",
+      "answer": "Duygu Duran-Firat bietet Psychotherapie, Musiktherapie, Einzeltherapie, Gruppentherapie und Online-Psychotherapie an."
+    },
+    {
+      "question": "Wie lange dauert eine Therapiesitzung?",
+      "answer": "Eine Therapiesitzung dauert in der Regel 50 bis 60 Minuten."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Therapiesitzung?",
+      "answer": "Die Kosten für eine Einzeltherapie betragen 90 Euro, für eine Gruppentherapie 35 Euro pro Person und die Erstberatung kostet 120 Euro."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite duyguduran.com vereinbaren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist montags von 09:00 bis 19:00 Uhr und freitags von 09:00 bis 18:00 Uhr geöffnet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0398M9lRqEcRTcKseZfWzKM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

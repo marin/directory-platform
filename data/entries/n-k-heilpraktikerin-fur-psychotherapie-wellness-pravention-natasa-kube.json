@@ -2,8 +2,8 @@
   "id": "n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube",
   "slug": "n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube",
   "name": "N | K - Heilpraktikerin für Psychotherapie | Wellness | Prävention - Nataša Kube",
-  "description": "N | K - Heilpraktikerin für Psychotherapie | Wellness | Prävention - Nataša Kube ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Nataša Kube ist Heilpraktikerin für Psychotherapie, Wellness und Prävention in Berlin. Ihre Praxis, N | K - Praxis der Berührung, bietet eine Vielzahl von Dienstleistungen an, darunter Psychotherapie, medizinische und Wellness-Massagen sowie präventive Beratung. Zudem spezialisiert sie sich auf die Kopfschmerz- und Migränetherapie nach Kern sowie die traditionelle chinesische Medizin (TCM). Ihr ganzheitlicher Ansatz zielt darauf ab, das Wohlbefinden ihrer Patienten zu fördern und eine innere Balance zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,7 +27,82 @@
   "email": "support@webador.de",
   "website": "https://www.nk-heilpraktikerin.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Nataša Kube"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxis der Berührung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Medizinische und Wellness- Massagen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Präventive Beratung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kopfschmerz- und Migränetherapie nach Kern"
+    },
+    {
+      "id": "offer-7",
+      "name": "TCM - Die traditionelle chinesische Medizin"
+    },
+    {
+      "id": "offer-8",
+      "name": "“Natasa behandelt einfühlsam, ist nett und zuverlässig.\""
+    },
+    {
+      "id": "offer-9",
+      "name": "Kontaktiere uns"
+    },
+    {
+      "id": "offer-10",
+      "name": "Standort"
+    },
+    {
+      "id": "offer-11",
+      "name": "Erstelle deine eigene Website mit Webador"
+    }
+  ],
+  "images": [
+    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/c1eba94f-36eb-46db-b06f-ebd441fb923b-high.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1%2Coffset-y100&width=800",
+    "https://primary.jwwb.nl/unsplash/ZbzYDboN7fg.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1&width=800",
+    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/bqgnw6/img_7600-1.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1%2Coffset-y100&width=800",
+    "https://primary.jwwb.nl/unsplash/qybZ2w0CzMw.jpg?enable-io=true&enable=upscale&crop=0.951%3A1%2Coffset-y20&width=800",
+    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/img_7599-high.jpg?enable-io=true&enable=upscale&crop=1.2727%3A1%2Coffset-y84&width=800"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Nataša Kube an?",
+      "answer": "Nataša Kube bietet Psychotherapie, medizinische und Wellness-Massagen, präventive Beratung sowie Kopfschmerz- und Migränetherapie nach Kern an. Zusätzlich wird die traditionelle chinesische Medizin (TCM) angeboten."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Nataša Kube?",
+      "answer": "Die Praxis von Nataša Kube befindet sich in der Leonorenstraße 30, 12247 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Nataša Kube kontaktieren?",
+      "answer": "Sie können Nataša Kube telefonisch unter 017656868836 oder per E-Mail an support@webador.de kontaktieren."
+    },
+    {
+      "question": "Bietet Nataša Kube auch präventive Beratung an?",
+      "answer": "Ja, Nataša Kube bietet präventive Beratung an, die Tipps und Hilfestellungen zur Gesundheitsvorsorge und langfristigem Wohlbefinden umfasst."
+    },
+    {
+      "question": "Was sagen Patienten über die Behandlungen bei Nataša Kube?",
+      "answer": "Patienten berichten von positiven Erfahrungen, wie der Wiederfindung ihrer inneren Balance und einer entspannenden Atmosphäre während der Massagen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLYMF8BBbqEcRr0yBVihql64",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

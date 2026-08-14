@@ -2,8 +2,8 @@
   "id": "frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke",
   "slug": "frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke",
   "name": "Frauengesundheit und Kinderwunsch - Heilpraktikerin Dipl.-Psych. Iris Lemke",
-  "description": "Frauengesundheit und Kinderwunsch - Heilpraktikerin Dipl.-Psych. Iris Lemke ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frauengesundheit und Kinderwunsch - Heilpraktikerin Dipl.-Psych. Iris Lemke bietet in Berlin umfassende naturheilkundliche und psychotherapeutische Unterstützung für Frauen in verschiedenen Lebensphasen. Schwerpunkte der Praxis sind die Begleitung durch die Wechseljahre sowie die Erfüllung des Kinderwunsches. Die Praxis befindet sich in der Crellestraße 22 und ist darauf ausgerichtet, Frauen in ihrer Gesundheit und ihrem Wohlbefinden zu stärken.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,48 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "FRAUENGESUNDHEIT WECHSELJAHRE KINDERWUNSCH"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wechseljahre und Menopause"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kinderwunsch erfüllen"
+    }
+  ],
+  "images": [
+    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilpraxis-fuer-frauen_iris-lemke_slider-01.jpg",
+    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilkunde-fuer-frauen_iris-lemke_slider-02.jpg",
+    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilkunde-fuer-frauen_iris-lemke_slider-03.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraktikerin Iris Lemke an?",
+      "answer": "Iris Lemke bietet Dienstleistungen im Bereich Frauengesundheit, Wechseljahre und Kinderwunsch an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Frau Lemke buchen?",
+      "answer": "Sie können einen Termin über die Website von Iris Lemke buchen: http://www.naturheilkunde-fuer-frauen.de/termin."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Iris Lemke?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Frau Lemke?",
+      "answer": "Die Praxis befindet sich in der Crellestraße 22, 10827 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Frau Lemke kontaktieren?",
+      "answer": "Sie können Frau Lemke telefonisch unter 01736334985 oder per E-Mail an info@naturheilkunde-fuer-frauen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_cf1zDhQqEcRjXN_ryk3RM4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21
 }

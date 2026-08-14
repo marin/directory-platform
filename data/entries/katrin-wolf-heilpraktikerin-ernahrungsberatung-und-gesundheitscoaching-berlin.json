@@ -2,8 +2,8 @@
   "id": "katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin",
   "slug": "katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin",
   "name": "Katrin Wolf - Heilpraktikerin, Ernährungsberatung und Gesundheitscoaching Berlin",
-  "description": "Katrin Wolf - Heilpraktikerin, Ernährungsberatung und Gesundheitscoaching Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Katrin Wolf ist Heilpraktikerin in Berlin-Pankow und bietet eine ganzheitliche Therapie sowie Ernährungsberatung und Gesundheitscoaching an. Ihre Praxis umfasst verschiedene naturheilkundliche Ansätze, darunter Homöopathie, Akupunktur und mentale Arbeit zur Selbstentwicklung. Sie unterstützt Patienten bei typischen Anliegen wie Erschöpfung, Reizdarm und innerer Unruhe und legt Wert auf individuelle Therapiepläne zur Förderung von Selbstfürsorge und Prävention.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -55,7 +55,98 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Mentale Arbeit & Selbstentwicklung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie & Naturheilkunde"
+    },
+    {
+      "id": "offer-3",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Selbstfürsorge & Prävention"
+    },
+    {
+      "id": "offer-5",
+      "name": "Und was wäre, wenn du"
+    },
+    {
+      "id": "offer-6",
+      "name": "Typische Anliegen in meiner Praxis"
+    },
+    {
+      "id": "offer-7",
+      "name": "Dein Weg bei mir – Ablauf deiner Begleitung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Erstanamnese (ca. 2 Stunden)"
+    },
+    {
+      "id": "offer-9",
+      "name": "Diagnostik & Laborauswertung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Individueller Therapieplan (4–6 Wochen)"
+    },
+    {
+      "id": "offer-11",
+      "name": "Therapiekontrolle & Weiterentwicklung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Mehr über meine Arbeit als Heilpraktikerin in Berlin"
+    },
+    {
+      "id": "offer-13",
+      "name": "Ein ganzheitlicher Ansatz bei Reizdarm, Erschöpfung & innerer Unruhe"
+    },
+    {
+      "id": "offer-14",
+      "name": "Wenn der Körper nicht mehr mitspielt"
+    },
+    {
+      "id": "offer-15",
+      "name": "Was mir wichtig ist"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/logical-thinking%281%29-1920w.png?Expires=1788636730&Signature=hmNqbi76so8O5zEQcUorjFS1x76Y~5reQl-p5N5BplnWqeNwYSSyrYz0YfE9CGICg3ljvC49fUoC-QcdoH7X37Xdo~MUOzPaayI~LjlhhpgxhqROB5eO63CayVUn2aG3PVWzW3XJjdaZ3MUbiVu6bcdYaYArStWIYcEOoDVuuFUPbola-AEOr2n~SKgxgkgMrKpmyda-p92vuED9d4oc30nvTY3AUM2nIB67ytae1eauuxOx5gZ17jUAtq1htodneaqiVZkJYl5EpIx7y4EStF8S7uWCbv-q-yhg4Fyk-4dOzB9xOdrLnH0AFJgJ6eOwdXewQ2mCgS91hEmvxTf9LQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/herbal-ingredient%281%29-1920w.png?Expires=1788636730&Signature=bPkScCQPnqSTFL2LIp05OmhLYb8jRmIMlOAzCjfVmDTiQuUe-EzfKlqr9Z6LDDarQUWH07cTIFQCDXKvzlHZ6vvfaNMw1UXz1Cg2UB2szUcXrF5CmX1Ad86B2EuNyg-jTCSXSNU1cgslYGptO3n-CILioIqV4cm-pucr6GkQjHAf5hOK3M3wJUcAIvVlyeGtyd7feUlk0lAm~cFSK7FQ-xRC-clT91eIExVKILzwpeYRX-cpeVrHDTmOt~FACBEi2L4G4fMNh-oDzkQyGOrQiLe8vpFXepXm0VUwNHd6vgC3is~Bv3CaNUFdah1gp-k~AW7nFJF8MEh0WvFcjE8uMw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/akupunktur+1-1920w.png?Expires=1788636730&Signature=VAIvUsWlP~h64MCt-4d-S4qbe26ywbXcrcg1NOb5C0DaOV-XqfNvmERpwSksQKulg6N6C8OMSVRjka9juiolGiGsmarTsYkNS1aoaUCwZIeuZtlgqzWgY-zfwlmIxieoYu8MNXIy9VQMpgMcfc58w-uBINf~FUnNBz7O392knac8h85Ain5kMpWmDszHs1qGUlPl-wWNf1pV~II90rCtq13TkGJs6kQhiJvgDdVVq2ftbeiBNObYKljm5cFIrk-HVETcjKqk1D18~ZzgrfConX3y42O24RsadVW5mFv9Qs7qP3MnzFP8~KR7WVGdVoXYoGaz77shq8o-AuoiNBch~w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/self-care%281%29-1920w.png?Expires=1788636730&Signature=Ir9xocpSRrewAkpelLHrxdjKOta6Ks2hK8sUD6LABB0vOtjwSiVYsXCrnChRfQki--xz8F5sxMmpIuzZmZgnebeFP3xBsEUWikt4OugHjpgrJ6ZJRiZkanZpwcKUE7Qp5eZEN4HrboT9uAfPZpa5HUTbiwd0bRz-zz47LatHCBq3VLqRLLXje4yAY~UTrsqCZOHlTCQdg9kp6TN25o8WJBsyP9yGc44wBtbcR6VgZ8XKhXGXZ4bVBfQQUfZ62KY334wwW44i4FpuMpxegscYxQCrC3jP-rvX1HBiuHfzDg6RL43LF-EWTCzwJWPMiV7zEDi13MBPnOuFfKTrQlX15A__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Katrin Wolf in ihrer Heilpraxis an?",
+      "answer": "Katrin Wolf bietet Behandlungen in den Bereichen Homöopathie, Akupunktur, Ernährungsberatung und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Katrin Wolf buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Heilpraxis Katrin Wolf?",
+      "answer": "Die Heilpraxis ist von Montag bis Donnerstag von 09:00 bis 18:00 Uhr und am Freitag von 09:00 bis 13:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Katrin Wolf?",
+      "answer": "Die Praxis befindet sich in der Hauptstraße 18, 13158 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich Katrin Wolf telefonisch erreichen?",
+      "answer": "Sie können Katrin Wolf unter der Telefonnummer 015209736907 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRSdQ3c-DYTDU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

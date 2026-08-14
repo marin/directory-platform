@@ -2,8 +2,8 @@
   "id": "heilpraktiker-praxis-paula-kernchen",
   "slug": "heilpraktiker-praxis-paula-kernchen",
   "name": "Heilpraktiker Praxis - Paula Kernchen",
-  "description": "Heilpraktiker Praxis - Paula Kernchen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktiker Praxis von Paula Kernchen befindet sich in der Busonistraße 47 in Berlin-Pankow. Sie bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen, darunter manuelle Therapie, klassische Massagen und weitere physiotherapeutische Leistungen. Die Praxis legt Wert auf individuelle Betreuung und sucht derzeit nach Unterstützung für ihr Team.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,54 @@
   "email": "info@physio-in-karow.de",
   "website": "http://www.physio-in-karow.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "MANUELLE THERAPIE"
+    },
+    {
+      "id": "offer-2",
+      "name": "BEHANDLUNGSPEKTRUM"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kontaktieren Sie uns am besten per Nachricht"
+    },
+    {
+      "id": "offer-4",
+      "name": "Wir suchen Unterstützung in unserer Praxis."
+    }
+  ],
+  "images": [
+    "https://kernchen-media.de/media/whatsapp.png",
+    "http://www.physio-in-karow.de/images/fotolia_200436131_subscription_monthly_l_640.jpg",
+    "http://www.physio-in-karow.de/images/wartezimmer_640.jpg",
+    "http://www.physio-in-karow.de/images/paratouchpscrollp035887b0600ae12021.jpg",
+    "http://www.physio-in-karow.de/images/paratouchpscrollp035887b0600ae12022.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Heilpraktiker Praxis Paula Kernchen an?",
+      "answer": "Die Heilpraktiker Praxis Paula Kernchen bietet ein breites physiotherapeutisches Behandlungsspektrum an, darunter klassische Massage, Krankengymnastik, manuelle Therapie, manuelle Lymphdrainage, Osteopathie, Elektrotherapie, Ultraschalltherapie, Wärmetherapie, Schröpfen, Fußreflexzonenmassage, Taping, Schlingentischtherapie, HIVAMAT und das ORTHO-konzept©."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Für Terminanfragen senden Sie bitte eine SMS oder kontaktieren Sie die Praxis per WhatsApp auf dem Praxishandy. So erhalten wir Ihre Anfrage auch, wenn wir mal nicht erreichbar sind."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraktiker Praxis Paula Kernchen?",
+      "answer": "Die Praxis befindet sich in der Busonistraße 47, 13125 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 0175 1537035 oder per E-Mail an info@physio-in-karow.de kontaktieren."
+    },
+    {
+      "question": "Suchen Sie Unterstützung in Ihrer Praxis?",
+      "answer": "Ja, die Heilpraktiker Praxis Paula Kernchen sucht eine freundliche und ausgeglichene Verstärkung für ihr Team."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHTLdu0tNqEcRmHJ8zwYNMCc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

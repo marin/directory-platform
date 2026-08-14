@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin",
   "slug": "naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin",
   "name": "Naturheilpraxis und Naturheilgarten Mahlsdorf, Berlin",
-  "description": "Naturheilpraxis und Naturheilgarten Mahlsdorf, Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis und Naturheilgarten Mahlsdorf in Berlin bietet umfassende Unterstützung bei akuten und chronischen gesundheitlichen Problemen durch verschiedene Methoden der Energie- und Pflanzenmedizin, darunter Reiki, Besprechen, Phytotherapie und Homöopathie. Unter der Leitung von Janet Micas, einer erfahrenen Heilpraktikerin und Kunsttherapeutin, werden individuelle Behandlungs- und Therapiepläne erstellt, die auf die persönlichen Bedürfnisse der Patienten abgestimmt sind. Die Praxis richtet sich an Erwachsene und Kinder und legt großen Wert auf eine ausführliche Beratung und Anamnese als Grundlage für den Heilerfolg.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -63,7 +63,42 @@
       "close": "22:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Beratung und Anamnese"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung und Prozessbegleitung"
+    }
+  ],
+  "images": [
+    "https://www.artnat.de/webyep-system/data/3-im-Bild-1569.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Mahlsdorf an?",
+      "answer": "Die Naturheilpraxis Mahlsdorf bietet unter anderem Reiki, Besprechen, Phytotherapie, Homöopathie und die ArtNat®-Methode an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Naturheilpraxis ist von Montag bis Sonntag von 05:00 bis 22:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Mahlsdorf?",
+      "answer": "Die Praxis befindet sich in der Summter Str. 47, 12623 Berlin, im Bezirk Marzahn-Hellersdorf."
+    },
+    {
+      "question": "Wer ist die Inhaberin der Naturheilpraxis?",
+      "answer": "Die Inhaberin der Naturheilpraxis ist Janet Micas, die seit 1994 als Heilpraktikerin und Kunsttherapeutin tätig ist."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 0307717309 oder über die Website http://www.artnat.de/ vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdzJvSNtJqEcR5m4WgVQlyN0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

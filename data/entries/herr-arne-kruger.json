@@ -2,8 +2,8 @@
   "id": "herr-arne-kruger",
   "slug": "herr-arne-kruger",
   "name": "Herr Arne Krüger",
-  "description": "Herr Arne Krüger ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Herr Arne Krüger ist Heilpraktiker mit dem Schwerpunkt Homöopathie und praktiziert in Berlin, im Stadtteil Steglitz-Zehlendorf. Seine Praxis befindet sich in der Mohriner Allee 88. Für weitere Informationen oder Anfragen steht er unter der E-Mail-Adresse homoeovet@t-online.de zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie"
@@ -28,5 +28,21 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Herrn Arne Krüger?",
+      "answer": "Die Praxis von Herrn Arne Krüger befindet sich in der Mohriner Allee 88, 12347 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Welche Therapieform bietet Herr Arne Krüger an?",
+      "answer": "Herr Arne Krüger bietet Homöopathie an."
+    },
+    {
+      "question": "Wie kann ich Herrn Arne Krüger kontaktieren?",
+      "answer": "Sie können Herrn Arne Krüger telefonisch unter 0307036960 oder per E-Mail an homoeovet@t-online.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ673Z03BFqEcRJKpLPJwdw9A",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 5
 }

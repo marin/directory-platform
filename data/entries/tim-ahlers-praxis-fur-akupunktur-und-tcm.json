@@ -2,8 +2,8 @@
   "id": "tim-ahlers-praxis-fur-akupunktur-und-tcm",
   "slug": "tim-ahlers-praxis-fur-akupunktur-und-tcm",
   "name": "Tim Ahlers | Praxis für Akupunktur und TCM",
-  "description": "Tim Ahlers | Praxis für Akupunktur und TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Tim Ahlers ist Heilpraktiker in Berlin, spezialisiert auf Akupunktur und Traditionelle Chinesische Medizin (TCM). In seiner Praxis in der Samariterstraße 16 behandelt er eine Vielzahl von Beschwerden, darunter Stress, chronische Schmerzen und gynäkologische Erkrankungen. Neben Akupunktur bietet er auch weitere TCM-Methoden wie Fußreflexzonenmassage, Moxibustion und Ohrakupunktur an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   "phone": "03060929764",
   "email": "info@akupunktur-praxis-friedrichshain.de",
   "website": "https://akupunktur-praxis-friedrichshain.de/",
+  "bookingUrl": "https://www.akupunktur-praxis-friedrichshain.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,99 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "für Gut-Verdiener, Privatversicherte und Beamte",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "für Normal-Verdiener",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "für Gut-Verdiener, Privatversicherte und Beamte",
+      "price": 50,
+      "priceLabel": "50 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "für Normal-Verdiener",
+      "price": 45,
+      "priceLabel": "45 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "für Gering-Verdiener, Rentner, Studenten, Alleinerziehende, ALG 2-Empfänger",
+      "price": 40,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Heilpraktiker Tim Ahlers"
+    },
+    {
+      "id": "offer-7",
+      "name": "TCM"
+    },
+    {
+      "id": "offer-8",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-9",
+      "name": "Fußreflexzonenmassage"
+    },
+    {
+      "id": "offer-10",
+      "name": "Moxibustion, Schröpfen\\"
+    },
+    {
+      "id": "offer-11",
+      "name": "TuiNa und GuaSha\\"
+    },
+    {
+      "id": "offer-12",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-13",
+      "name": "Praxis für Chinesische Medizin"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=790x10000:format=jpg/path/sacbc9251156bbb4f/image/ic34e39956faf379a/version/1566475256/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=790x10000:format=jpg/path/sacbc9251156bbb4f/image/ib6b0153da3faae5e/version/1566475761/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/sacbc9251156bbb4f/image/i37531dc774cd5cf0/version/1562764925/image.png",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/sacbc9251156bbb4f/image/ib6b0153da3faae5e/version/1566475761/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis von Tim Ahlers an?",
+      "answer": "Die Praxis bietet Behandlungen mit Akupunktur sowie anderen Methoden der Traditionellen Chinesischen Medizin (TCM) an, darunter Fußreflexzonenmassage, Moxibustion, Schröpfen, TuiNa, GuaSha und Ohrakupunktur."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung variieren je nach Einkommensgruppe: 90 € für Gut-Verdiener, 80 € für Normal-Verdiener und 70 € für Gering-Verdiener, Rentner, Studenten, Alleinerziehende, ALG 2-Empfänger, Schüler und Kinder. Es gibt auch spezielle Preise für Hausbesuche und eine detaillierte Preisübersicht auf der Website."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Termine können über die Website der Praxis gebucht werden. Der direkte Link zur Buchung ist: https://www.akupunktur-praxis-friedrichshain.de/kontakt/."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Mittwoch von 09:00 bis 21:00 Uhr, Freitag von 09:00 bis 21:00 Uhr und Samstag von 09:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Tim Ahlers?",
+      "answer": "Die Praxis befindet sich in der Samariterstraße 16, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZX8HhvVOqEcRWoXm0Q6flLw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 47
 }

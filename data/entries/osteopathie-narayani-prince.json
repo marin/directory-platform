@@ -2,8 +2,8 @@
   "id": "osteopathie-narayani-prince",
   "slug": "osteopathie-narayani-prince",
   "name": "Osteopathie Narayani Prince",
-  "description": "Osteopathie Narayani Prince ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "ZKO® – Zentrum für Kinderosteopathie in der DAOM e. V., Münster Dresden Int. University und Osteopathie Schule Deutschland, Berlin",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -25,6 +25,7 @@
   "phone": "015129568547",
   "email": "info@osteopathieprince.de",
   "website": "http://www.osteopathieprince.de/",
+  "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/osteopathie-narayani-prince?utm_campaign=website-button&utm_source=osteopathie-narayani-prince-website-button&utm_medium=referral&utm_content=option-8&utm_term=osteopathie-narayani-prince",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,22 @@
       "close": "16:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung und Kosten"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/67594870882e404d8fbb610e/b914b994-4c02-4e20-97d8-e8cb6bf6be80/IMG_0659_edited.png",
+    "https://images.squarespace-cdn.com/content/v1/67594870882e404d8fbb610e/5dfc6e41-f08c-4a1a-84fd-7396a220d0d4/VOD_Logo.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8SbHd9c3qEcRGYRNkO8YL5Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

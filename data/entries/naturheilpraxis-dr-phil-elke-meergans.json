@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-dr-phil-elke-meergans",
   "slug": "naturheilpraxis-dr-phil-elke-meergans",
   "name": "Naturheilpraxis Dr. phil. Elke Meergans",
-  "description": "Naturheilpraxis Dr. phil. Elke Meergans ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Dr. phil. Elke Meergans in Berlin werden verschiedene traditionelle und moderne ganzheitliche Therapien angeboten, mit einem Schwerpunkt auf Schwingungsmedizin. Zu den Behandlungsschwerpunkten zählen unter anderem Unverträglichkeiten, Darmprobleme, Frauengesundheit, Burnout sowie Erkrankungen des Bewegungsapparates. Die Praxis verfolgt einen ursachenorientierten Therapieansatz und bietet individuelle Diagnosen und Therapien an, um die Gesundheit der Patienten ganzheitlich zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -54,6 +54,34 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://hp-meergans.de/wp-content/uploads/2015/08/Naturheilpraxis-Elke-Meergans.jpg",
+    "http://nhp.hp-meergans.de/wp-content/uploads/2015/08/Bioresonanztherapie-in-Berlin-01.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet die Naturheilpraxis Dr. phil. Elke Meergans an?",
+      "answer": "Die Behandlungsschwerpunkte der Naturheilpraxis umfassen die Behandlung von Unverträglichkeiten und Darmproblemen, Wechseljahre und Frauengesundheit, Burnout / Fatigue, Entgiftung / Ausleitung sowie Erkrankungen des Bewegungsapparates."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin online buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis sind wie folgt: Montag und Mittwoch von 08:30 bis 18:00 Uhr, Dienstag und Donnerstag von 08:30 bis 20:00 Uhr, sowie Freitag von 08:30 bis 13:30 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Dr. phil. Elke Meergans?",
+      "answer": "Die Naturheilpraxis befindet sich in der Christinenstraße 7, 10119 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis telefonisch unter 03041725004 oder per E-Mail an info@hp-meergans.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM07V38HMFo8RHhBwi9bHEwk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

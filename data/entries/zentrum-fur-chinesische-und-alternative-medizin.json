@@ -2,8 +2,8 @@
   "id": "zentrum-fur-chinesische-und-alternative-medizin",
   "slug": "zentrum-fur-chinesische-und-alternative-medizin",
   "name": "Zentrum für Chinesische und Alternative Medizin",
-  "description": "Zentrum für Chinesische und Alternative Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Das Zentrum für Chinesische und Alternative Medizin in Berlin-Pankow bietet eine umfassende naturheilkundliche Betreuung, die sich auf Akupunktur, Ernährungsberatung und verschiedene alternative Heilmethoden spezialisiert hat. Die Praxis, geleitet von Barbara Kornmeier, umfasst auch eine Heilpraktikerschule, die seit 2006 praxisorientierte Ausbildungen in Themen wie TCM, Hypnose und Geomantie anbietet. Interessierte sind herzlich eingeladen, sich über die angebotenen Verfahren zu informieren und individuelle Anliegen zu besprechen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -28,7 +28,54 @@
   "email": "kornmeier@praxislebenskraft.de",
   "website": "http://www.chinesische-medizin-in-berlin.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Lebenskraft hat viele Namen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ausbildungsprogramm"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine Erfahrung für Sie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Angebot zum Bestellen"
+    }
+  ],
+  "images": [
+    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_05.jpg",
+    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_03.jpg",
+    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_04.jpg",
+    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_01.jpg",
+    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_02.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich das Zentrum für Chinesische und Alternative Medizin?",
+      "answer": "Das Zentrum für Chinesische und Alternative Medizin befindet sich in der Griebenowstraße 22, 10435 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet das Zentrum an?",
+      "answer": "Das Zentrum bietet Dienstleistungen in den Bereichen Akupunktur, Ernährungsberatung und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis unter der Telefonnummer 03096519161 anrufen oder eine E-Mail an kornmeier@praxislebenskraft.de senden."
+    },
+    {
+      "question": "Gibt es spezielle Ausbildungsprogramme im Zentrum?",
+      "answer": "Ja, das Zentrum bietet ein Ausbildungsprogramm an, das Themen wie TCM, Rutengehen, Geomantie, Signaturenlehre und Hypnose umfasst."
+    },
+    {
+      "question": "Wie lauten die Sprechzeiten der Praxis?",
+      "answer": "Die Sprechzeiten sind von Montag bis Donnerstag nach Vereinbarung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3-aY6HghZUERAseVQ5_wkHA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

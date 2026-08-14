@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-helena-ahonen-ernahrungsberatung-therapie",
   "slug": "heilpraktikerin-helena-ahonen-ernahrungsberatung-therapie",
   "name": "Heilpraktikerin Helena Ahonen, Ernährungsberatung & -Therapie",
-  "description": "Heilpraktikerin Helena Ahonen, Ernährungsberatung & -Therapie ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Helena Ahonen bietet in ihrer Praxis in Berlin-Pankow umfassende Ernährungsberatung und -therapie an. Ihr Fokus liegt auf ganzheitlichen Ansätzen zur Verbesserung der Gesundheit, insbesondere in den Bereichen Verdauung, weibliche Gesundheit, Hautprobleme sowie Fasting und Detox. Neben der Ernährungsberatung nutzt sie auch pflanzliche Heilmittel und Nahrungsergänzungsmittel, um individuelle Gesundheitsziele zu erreichen. Die Beratungen finden ausschließlich online statt, was eine flexible und stressfreie Betreuung ermöglicht.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -64,7 +64,80 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Holistic nutritional counseling and -therapy"
+    },
+    {
+      "id": "offer-2",
+      "name": "Digestion system"
+    },
+    {
+      "id": "offer-3",
+      "name": "Female health"
+    },
+    {
+      "id": "offer-4",
+      "name": "Skin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Fasting & Detox"
+    },
+    {
+      "id": "offer-6",
+      "name": "Comfortable weight"
+    },
+    {
+      "id": "offer-7",
+      "name": "Healty aging"
+    },
+    {
+      "id": "offer-8",
+      "name": "Plant based nutriton"
+    },
+    {
+      "id": "offer-9",
+      "name": "Vegan athlete"
+    },
+    {
+      "id": "offer-10",
+      "name": "Vegan mom + kid"
+    },
+    {
+      "id": "offer-11",
+      "name": "I'm also offering"
+    },
+    {
+      "id": "offer-12",
+      "name": "Advanced settings"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktikerin Helena Ahonen an?",
+      "answer": "Heilpraktikerin Helena Ahonen bietet ganzheitliche Ernährungsberatung und -therapie an, einschließlich Unterstützung bei Verdauungsproblemen, weiblicher Gesundheit, Hautproblemen, Fasten und Detox, sowie pflanzenbasierter Ernährung."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Helena Ahonen buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf ihrer Website buchen: Termin vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Sonntag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Helena Ahonen?",
+      "answer": "Die Praxis befindet sich in der Remise an der Marie, 10405 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Helena Ahonen kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Helena Ahonen telefonisch unter 017628386286 oder per E-Mail an info@heilpraxis-ahonen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlaJiPQROqEcR4EdTXZeyaUs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

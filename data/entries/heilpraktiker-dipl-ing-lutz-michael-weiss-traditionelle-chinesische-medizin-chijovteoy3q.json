@@ -2,8 +2,8 @@
   "id": "heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin-chijovteoy3q",
   "slug": "heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin-chijovteoy3q",
   "name": "Heilpraktiker, Dipl.-Ing. Lutz-Michael Weiß - Traditionelle Chinesische Medizin",
-  "description": "Heilpraktiker, Dipl.-Ing. Lutz-Michael Weiß - Traditionelle Chinesische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Lutz-Michael Weiß bietet in seiner Praxis in Berlin-Friedrichshagen umfassende Behandlungen auf Basis der Traditionellen Chinesischen Medizin (TCM) an. Mit einem besonderen Fokus auf die Behandlung chronischer Erkrankungen und die komplementäre Krebstherapie durch Guo Lin Qi Gong unterstützt er Patient:innen dabei, ihre Gesundheit und ihr Wohlbefinden nachhaltig zu fördern. Die Praxis legt großen Wert auf individuelle Diagnosen und die Entwicklung maßgeschneiderter therapeutischer Strategien. Weitere Angebote umfassen Qi Gong Kurse und Ausbildungen, die sowohl für Betroffene als auch für Fachkräfte im Gesundheitswesen geeignet sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,7 +27,52 @@
   "email": "info@medqigong.de",
   "website": "https://www.medqigong.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlung chronischer Erkrankungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Komplementäre Krebstherapie mit Guo Lin Qi Gong"
+    },
+    {
+      "id": "offer-3",
+      "name": "Guo Lin Qi Gong Ausbildung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bi Gu Fu Qi"
+    }
+  ],
+  "images": [
+    "https://www.medqigong.de/wp-content/uploads/go-x/u/a1ca3da3-2ef3-4241-b1f4-340dee63b3e3/l0,t0,w274,h62/image.png",
+    "https://www.medqigong.de/wp-content/uploads/go-x/u/7e857314-1dee-4683-9dd7-f6f443ef7089/l0,t0,w818,h1059/image-768x994.png",
+    "https://medqigong.de/wp-content/uploads/go-x/u/7e0f09ba-a442-475a-bd4d-28235497650e/image.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktiker Lutz-Michael Weiß an?",
+      "answer": "Heilpraktiker Lutz-Michael Weiß bietet unter anderem Behandlungen für chronische Erkrankungen, komplementäre Krebstherapie mit Guo Lin Qi Gong, Qi Gong Kurse sowie eine Ausbildung in Guo Lin Qi Gong an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Lutz-Michael Weiß?",
+      "answer": "Die Praxis befindet sich in der Josef-Nawrocki-Straße 7, 12587 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 01772169441 oder per E-Mail an info@medqigong.de vereinbaren."
+    },
+    {
+      "question": "Was ist Guo Lin Qi Gong und welche Vorteile bietet es?",
+      "answer": "Guo Lin Qi Gong ist eine aktive, bewegte Übungsform, die sich besonders bei Patienten mit Krebsdiagnose bewährt hat. Es verbessert die Sauerstoffaufnahme, stimuliert die Meridiane, beruhigt den Geist und stärkt das Immunsystem."
+    },
+    {
+      "question": "Bietet die Praxis auch Kurse an?",
+      "answer": "Ja, die Praxis bietet zertifizierte Qi Gong Kurse an, die sich auf primäre Prävention und Gesundheitsförderung konzentrieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOVT_eOY3qEcRymCZVZ8cG9g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

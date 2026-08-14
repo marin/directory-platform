@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-cornelia-lehmann",
   "slug": "heilpraktikerin-cornelia-lehmann",
   "name": "Heilpraktikerin Cornelia Lehmann",
-  "description": "Heilpraktikerin Cornelia Lehmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Cornelia Lehmann bietet in ihrer Praxis in Berlin-Pankow individuelle, ganzheitliche Beratungen und Behandlungen an, die sich auf körperlich-seelische sowie geistig-spirituelle Entwicklungsprozesse konzentrieren. Ihre Methoden umfassen unter anderem Energiearbeit, Aromatherapie und die hermetische Weisheitslehre, um Klienten bei der Selbstveränderung und Heilung zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,44 @@
   "email": "cornelialehmann@icloud.com",
   "website": "http://www.ganzheitlicheheilkunde.com/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schön, dass Du da bist!"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wenn Pflanzenseelen die körpereigene Schwingung verändern"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1603113669330-6SE5Z4CWHNPHVV24XYP3/IMG_0270.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/04df68d3-3f06-458b-bf26-6916543ccdaa/87F44697-FB30-45DF-B2FB-FA29AA1ED73D.png",
+    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/7cbcdc12-60d1-477e-a812-1c582ab3457e/D77A0DC6-32EA-41F4-8141-E588AC6E318A.png",
+    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1573579852973-0QJ0GE3MJVLY0AMIYC4R/artificial-intelligence-4550606.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1554408302155-VY7WESA32J64QTPGXDI4/Darm_85171593_L.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktikerin Cornelia Lehmann an?",
+      "answer": "Cornelia Lehmann bietet individuelle, ganzheitliche Beratungen an, die sich auf körperlich-seelische und geistig-spirituelle Entwicklungsprozesse konzentrieren. Zu ihren Angeboten gehören unter anderem die hermetische Sichtweise, aromatherapeutische Massagen, neurologische Integration, Darmtherapie und energetische Körperheilarbeit."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Cornelia Lehmann?",
+      "answer": "Die Praxis von Heilpraktikerin Cornelia Lehmann befindet sich im Uhlenweg 33, 13125 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Cornelia Lehmann vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03024617132 oder per E-Mail an cornelialehmann@icloud.com vereinbaren."
+    },
+    {
+      "question": "Bietet Cornelia Lehmann auch Behandlungen über die Ferne an?",
+      "answer": "Ja, die Energiearbeit von Cornelia Lehmann wirkt auch über die Ferne, sodass es nicht zwingend notwendig ist, physisch anwesend zu sein."
+    },
+    {
+      "question": "Welche Philosophie verfolgt Cornelia Lehmann in ihrer Praxis?",
+      "answer": "Cornelia Lehmann verfolgt eine ganzheitliche und lösungsorientierte Philosophie, bei der sie als Übersetzerin für das individuelle Energiesystem ihrer Klienten agiert, um Energieungleichgewichte aufzudecken und Heilungsprozesse anzustoßen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ89M1TnqzqUcR9_yMIAhVk5M"
 }

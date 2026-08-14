@@ -2,8 +2,8 @@
   "id": "brigitte-herold-heilpraktikerin",
   "slug": "brigitte-herold-heilpraktikerin",
   "name": "Brigitte Herold - Heilpraktikerin",
-  "description": "Brigitte Herold - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Brigitte Herold ist eine erfahrene Heilpraktikerin in Berlin-Reinickendorf, die sich auf die Bachblüten-Therapie spezialisiert hat. In ihrer Praxis führt sie ausführliche Diagnose-Gespräche und erstellt umfassende Anamnesen, um individuelle Behandlungskonzepte zu entwickeln. Neben der Bachblüten-Therapie bietet sie auch Therapien mit Klang und Farben an, um das körperliche und energetische Gleichgewicht ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,6 +57,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://brigitteherold.de/wp-content/uploads/2015/06/bachblueten_rose_wild_320-320x197.jpg",
+    "https://brigitteherold.de/wp-content/uploads/2026/07/Klang-Therapie-Rassel-350x197.jpg",
+    "https://brigitteherold.de/wp-content/uploads/2026/07/Klang-Therapie-mit-Licht-3-350x197.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Brigitte Herold an?",
+      "answer": "Brigitte Herold bietet professionelle und fundierte Bachblüten-Therapie sowie Therapie mit Klang und Farben an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Brigitte Herold?",
+      "answer": "Die Praxis von Brigitte Herold befindet sich im Herrnholzweg 24A, 13469 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags bis donnerstags von 15:30 bis 18:00 Uhr und freitags sowie samstags von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Brigitte Herold kontaktieren?",
+      "answer": "Sie können Brigitte Herold telefonisch unter 015906481571 oder über ihre Website http://www.brigitteherold.de/ kontaktieren."
+    },
+    {
+      "question": "Was kann ich von einer Behandlung bei Brigitte Herold erwarten?",
+      "answer": "Sie können eine ausführliche Anamnese und ein objektives Diagnose-Ergebnis erwarten, sowie eine lückenlose Verlaufskontrolle über den gesamten Behandlungsverlauf."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgSAOzWlTqEcRr4SJyGkBK9w"
 }

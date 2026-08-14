@@ -2,8 +2,8 @@
   "id": "praxis-anders-heilpraktikerin-christiane-anders",
   "slug": "praxis-anders-heilpraktikerin-christiane-anders",
   "name": "Praxis Anders - Heilpraktikerin Christiane Anders",
-  "description": "Praxis Anders - Heilpraktikerin Christiane Anders ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis Anders, geleitet von Heilpraktikerin Christiane Anders in Berlin-Lichtenberg, stehen ganzheitliche Labordiagnostik und individuelle Ernährungsberatung im Mittelpunkt. Die Praxis verfolgt einen integrativen Ansatz, der darauf abzielt, die Ursachen von Beschwerden zu identifizieren und nicht nur Symptome zu behandeln. Durch die Analyse von Laborwerten und die Berücksichtigung der persönlichen Biografie der Patienten wird ein individuelles Behandlungskonzept entwickelt, das auf die spezifischen Bedürfnisse jedes Einzelnen eingeht.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -58,7 +58,42 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihre Biografie schreibt das Programm Ihrer Zellen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mein Weg: Ursachen finden, statt Symptome verwalten"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s5ba3f9d92d9d5bc9/backgroundarea/if7dbceacbbb0d16e/version/1776886895/image.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis Anders an?",
+      "answer": "Die Praxis Anders bietet Dienstleistungen in den Bereichen Ernährungsberatung und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Anders buchen?",
+      "answer": "Sie können einen Termin in der Praxis Anders über die Buchungsseite auf Doctolib vereinbaren: Hier buchen."
+    },
+    {
+      "question": "Wann hat die Praxis Anders geöffnet?",
+      "answer": "Die Praxis Anders hat von Montag bis Freitag von 08:00 bis 20:00 Uhr und am Samstag von 10:00 bis 16:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Anders?",
+      "answer": "Die Praxis Anders befindet sich in der Gundelfinger Str. 47, 10318 Berlin, im Stadtteil Lichtenberg."
+    },
+    {
+      "question": "Wie kann ich die Praxis Anders telefonisch erreichen?",
+      "answer": "Sie können die Praxis Anders telefonisch unter der Nummer 03023924082 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_QFA7ytXqEcRFWnwQ0o9XuI",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 13
 }

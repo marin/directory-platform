@@ -2,8 +2,8 @@
   "id": "wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie",
   "slug": "wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie",
   "name": "WandelWege - Praxis für Familie und Trauma - Heilpraktiker für Psychotherapie",
-  "description": "WandelWege - Praxis für Familie und Trauma - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis WandelWege in Berlin bieten Yvonne und Dr. Frank-Oliver Heemeyer therapeutische Unterstützung für Familien und Personen mit traumatischen Erfahrungen. Mit einem Fokus auf EMDR und Hypnosetherapie helfen sie Klienten, innere Blockaden zu lösen und neue Perspektiven zu entwickeln. Die Praxis schafft einen geschützten Raum, in dem Vertrauen und Empathie im Mittelpunkt stehen, um nachhaltige Veränderungen zu ermöglichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,6 +25,7 @@
   },
   "phone": "015201710607",
   "website": "https://www.wandelwege.berlin/traumatherapie/",
+  "bookingUrl": "https://calendly.com/yvonne-wandelwege/orientierungsgesprach",
   "openingHours": [
     {
       "day": "Monday",
@@ -57,7 +58,54 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Trauma verstehen. Veränderung ermöglichen."
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxis WandelWege: Ihr Raum für Heilung und Veränderung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ein sicherer Raum für neue Impulse"
+    },
+    {
+      "id": "offer-4",
+      "name": "EMDR: Effektive Trauma-verarbeitung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hypnosetherapie: Zugang zu inneren Ressourcen"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/501119914/c37ab80a-992b-428b-b98d-ef60aa1c31d5.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche therapeutischen Ansätze bietet die Praxis WandelWege an?",
+      "answer": "Die Praxis WandelWege bietet verschiedene therapeutische Ansätze an, darunter EMDR (Eye Movement Desensitization and Reprocessing) zur effektiven Verarbeitung traumatischer Erlebnisse und Hypnosetherapie, um Zugang zu inneren Ressourcen zu erhalten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis WandelWege buchen?",
+      "answer": "Sie können einen Termin in der Praxis WandelWege über die Buchungsseite unter https://calendly.com/yvonne-wandelwege/orientierungsgesprach buchen."
+    },
+    {
+      "question": "Wann hat die Praxis WandelWege geöffnet?",
+      "answer": "Die Praxis WandelWege hat folgende Öffnungszeiten: Montag von 09:00 bis 18:00, Dienstag bis Donnerstag von 09:00 bis 19:00, Freitag von 09:00 bis 18:00 und Samstag von 13:00 bis 15:00."
+    },
+    {
+      "question": "Wo befindet sich die Praxis WandelWege?",
+      "answer": "Die Praxis WandelWege befindet sich in der Pfalzburger Str. 87, 10719 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Was ist das Ziel der Therapie in der Praxis WandelWege?",
+      "answer": "Das Ziel der Therapie in der Praxis WandelWege ist es, tiefgreifende Verletzungen zu heilen und den Klienten zu einem erfüllten Leben zu verhelfen, indem innere Blockaden gelöst und neue Perspektiven entwickelt werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyESyWIPQCoRsoVpv8Mf6O0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

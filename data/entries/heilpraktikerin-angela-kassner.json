@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-angela-kassner",
   "slug": "heilpraktikerin-angela-kassner",
   "name": "Heilpraktikerin Angela Käßner",
-  "description": "Heilpraktikerin Angela Käßner ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Angela Käßner bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg umfassende Therapien der Naturheilkunde an. Zu den Behandlungsmethoden gehören unter anderem Bioresonanztherapie, Augenakupunktur, Blutegeltherapie sowie Ozontherapie. Die Praxis legt besonderen Wert auf individuelle Diagnosen und eine ganzheitliche Betreuung der Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "0308815702",
   "website": "http://www.naturheilpraxis-kaessner.de/",
+  "bookingUrl": "https://www.heilpraktikerberlin.com/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -46,7 +47,77 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Inhalt"
+    },
+    {
+      "id": "offer-2",
+      "name": "Suche"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hauptnavigation"
+    },
+    {
+      "id": "offer-4",
+      "name": "Servicenavigation"
+    },
+    {
+      "id": "offer-5",
+      "name": "Therapien am Bewegungsapparat"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bioresonanztherapie und -diagnostik"
+    },
+    {
+      "id": "offer-7",
+      "name": "Augenakupunktur, Akupunktur 2000"
+    },
+    {
+      "id": "offer-8",
+      "name": "Blutegeltherapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Ozontherapie"
+    },
+    {
+      "id": "offer-10",
+      "name": "Augendiagnose"
+    }
+  ],
+  "images": [
+    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/f/1/csm_zwoelffingerdarm_d2b3d2d7d1.jpg",
+    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/8/0/csm_kompakta-struktur-der-auesseren-knochenschichten_ebcdb5d42b.jpg",
+    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/6/3/csm_immunsystem-makrophage-abwehr_74d4ea58bd.jpg",
+    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/0/2/csm_sehvermoegen-zapfenzellen_b0e37a4e76.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Angela Käßner an?",
+      "answer": "Heilpraktikerin Angela Käßner bietet verschiedene Therapien an, darunter Chiropraktik, Osteopathie, Bioresonanztherapie, Augenakupunktur, Blutegeltherapie, Ozontherapie und Augendiagnose."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Angela Käßner?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Angela Käßner sind Montag bis Donnerstag von 08:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Angela Käßner?",
+      "answer": "Die Praxis von Angela Käßner befindet sich in der Knesebeckstraße 27, 10623 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Angela Käßner buchen?",
+      "answer": "Sie können einen Termin bei Heilpraktikerin Angela Käßner über die Webseite naturheilpraxis-kaessner.de buchen."
+    },
+    {
+      "question": "Welche Kontaktmöglichkeiten habe ich, um Heilpraktikerin Angela Käßner zu erreichen?",
+      "answer": "Sie können Heilpraktikerin Angela Käßner telefonisch unter 030-8815702 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE_ESsvxQqEcRgKLTwj2jaFg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

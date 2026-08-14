@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb",
   "slug": "heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb",
   "name": "Heilpraktikerin für Physiotherapie & Dualseelen Nicole Weizenegger - Privat- und Selbstzahlerpraxis",
-  "description": "Heilpraktikerin für Physiotherapie & Dualseelen Nicole Weizenegger - Privat- und Selbstzahlerpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktikerin für Physiotherapie und Schmerztherapie, Nicole Weizenegger, bietet in ihrer Privat- und Selbstzahlerpraxis in Berlin-Steglitz-Zehlendorf individuelle physiotherapeutische Behandlungen mit einem besonderen Fokus auf Frauen an. Ihre Schwerpunkte liegen in der Schmerztherapie, Manuellen Therapie, Akupressur und Fußreflexzonentherapie. Ziel ihrer Arbeit ist es, den Heilungsprozess der verletzten Weiblichkeit zu unterstützen und die Energien zwischen weiblicher und männlicher Energie ins Gleichgewicht zu bringen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,6 +26,7 @@
   "phone": "01601862426",
   "email": "termin@physioheilpraxis-weizenegger.de",
   "website": "http://www.physioheilpraxis-weizenegger.de/",
+  "bookingUrl": "https://my.lemniscus.de/pss/40ce9b61-2a91-4104-a0ca-b818c503dad0",
   "openingHours": [
     {
       "day": "Monday",
@@ -44,6 +45,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://static.wixstatic.com/media/90a441_dc4f0083ea584d2683261d6babb45aa2~mv2.jpg/v1/fill/w_459,h_456,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/90a441_dc4f0083ea584d2683261d6babb45aa2~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet die Heilpraktikerin Nicole Weizenegger an?",
+      "answer": "Die Heilpraktikerin Nicole Weizenegger bietet Behandlungsschwerpunkte in Schmerztherapie, Manueller Therapie, Akupressur und Fußreflexzonentherapie an."
+    },
+    {
+      "question": "An wen richtet sich die Praxis von Nicole Weizenegger?",
+      "answer": "Die Praxis von Nicole Weizenegger richtet sich bewusst an Frauen und bietet einen geschützten und ruhigen Rahmen für individuelle physiotherapeutische Behandlungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Praxis über die Online-Terminbuchung auf der Website buchen: Terminbuchung."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 11:00 bis 18:15 Uhr, Dienstag von 11:00 bis 19:15 Uhr und Mittwoch von 12:00 bis 18:15 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Nicole Weizenegger?",
+      "answer": "Die Praxis befindet sich in Berlin, Lowise-Reuter-Ring 33, 12359 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbz6_0xNFqEcRc81dwBQSuAc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

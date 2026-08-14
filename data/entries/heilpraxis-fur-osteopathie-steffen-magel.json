@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-osteopathie-steffen-magel",
   "slug": "heilpraxis-fur-osteopathie-steffen-magel",
   "name": "Heilpraxis für Osteopathie Steffen Magel",
-  "description": "Heilpraxis für Osteopathie Steffen Magel ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Zum Inhalt springen \\| Zur Navigation springen Fußreflexzonentherapie ist eine Möglichkeit über die Reflexzonen am Fuß den Patienten zu befunden und behandeln. Dabei wird mit wanderndem Daumendruck die Fußregion \"abgescannt\" und auffällige Bereich werden mit anhaltendem Druck oder Reiben normalisiert. Ursprung der Fußreflexzonentherapie sind indianische Heiltraditionen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -25,8 +25,14 @@
   },
   "phone": "017648263393",
   "website": "http://heilpraxis-osteopathie.de/",
+  "bookingUrl": "http://www.heilpraxis-osteopathie.de/kontakt.html%20%22Kontaktdaten",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilpraxis-osteopathie.de/img/behandlungsraum/image-00.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ49uSGg5OqEcRUQXGNDQF-Pc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

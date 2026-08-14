@@ -2,8 +2,8 @@
   "id": "claudia-drogan",
   "slug": "claudia-drogan",
   "name": "Claudia Drogan",
-  "description": "Claudia Drogan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Claudia Drogan ist Heilpraktikerin in Berlin-Reinickendorf und bietet eine Vielzahl von naturheilkundlichen Methoden an, um Menschen auf ihrer persönlichen Lebensreise zu begleiten. Ihr Ansatz umfasst unter anderem prozessorientierte Homöopathie, systemische Aufstellungen, Ohrakupunktur und spirituelle Lebensberatung. Ziel ihrer Praxis ist es, individuelle Wege zu Gesundheit und persönlichem Wohlbefinden zu finden, wobei sie auf die Bedürfnisse jedes Einzelnen eingeht.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,7 +24,92 @@
   },
   "website": "https://nawaygo.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Mein Angebot für deine persönliche Lebensreise"
+    },
+    {
+      "id": "offer-2",
+      "name": "Was deine Lebenskraft nährt"
+    },
+    {
+      "id": "offer-3",
+      "name": "Persönliche Erfahrungen und Schicksalsschläge"
+    },
+    {
+      "id": "offer-4",
+      "name": "Störungen im Familiensystem"
+    },
+    {
+      "id": "offer-5",
+      "name": "Das Spüren von kollektivem Leid und Wissen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Erfahrungen aus vergangenen Leben (Reinkarnation)"
+    },
+    {
+      "id": "offer-7",
+      "name": "prozessorientierte Homöopathie"
+    },
+    {
+      "id": "offer-8",
+      "name": "systemische Aufstellung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Elemente aus der Kinesiologie"
+    },
+    {
+      "id": "offer-10",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-11",
+      "name": "spirituelle Lebensberatung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Schamanismus"
+    },
+    {
+      "id": "offer-13",
+      "name": "Faszien-Meridian-Massage®"
+    },
+    {
+      "id": "offer-14",
+      "name": "Deine persönliche Medizin finden"
+    },
+    {
+      "id": "offer-15",
+      "name": "_Die indigene Legende vom Kolibri_"
+    },
+    {
+      "id": "offer-16",
+      "name": "Symptome als Wegweiser"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was sind die Hauptangebote von Claudia Drogan?",
+      "answer": "Claudia Drogan bietet eine Vielzahl von Angeboten an, darunter persönliche Lebensberatung, prozessorientierte Homöopathie, systemische Aufstellungen, Ohrakupunktur, schamanische Praktiken und die Faszien-Meridian-Massage®. Zudem unterstützt sie Menschen bei der Suche nach ihrer persönlichen Medizin und begleitet sie auf ihrer Lebensreise."
+    },
+    {
+      "question": "In welchem Stadtteil von Berlin befindet sich die Praxis von Claudia Drogan?",
+      "answer": "Die Praxis von Claudia Drogan befindet sich in Reinickendorf, Berlin, in der Wachsmuthstraße 14."
+    },
+    {
+      "question": "Welche Zielgruppe spricht Claudia Drogan an?",
+      "answer": "Claudia Drogan richtet ihr Angebot an Menschen jeden Alters und bietet Unterstützung für Einzelpersonen, Paare und Familien an."
+    },
+    {
+      "question": "Was versteht Claudia Drogan unter 'Symptome als Wegweiser'?",
+      "answer": "Claudia Drogan betrachtet Symptome wie körperliche Schmerzen und seelische Probleme als Wegweiser für die persönliche Entwicklung und Gesundheit, die auf einen Weg in Richtung Leichtigkeit und Freiheit hinweisen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpZuxaphUqEcRo_4D6xFEk3o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

@@ -2,8 +2,8 @@
   "id": "regina-voss-heilpraktikerin-fur-psychotherapie-entspannungs-und-atemtherapie",
   "slug": "regina-voss-heilpraktikerin-fur-psychotherapie-entspannungs-und-atemtherapie",
   "name": "Regina Voß, Heilpraktikerin für Psychotherapie, Entspannungs- und Atemtherapie",
-  "description": "Regina Voß, Heilpraktikerin für Psychotherapie, Entspannungs- und Atemtherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Regina Voß ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin Nord. Sie bietet Unterstützung in Krisensituationen und hilft ihren Klienten, ihre Sorgen aus verschiedenen Perspektiven zu betrachten. Durch individuelle Therapieprozesse fördert sie die Klärung von Konflikten und die Entfaltung des persönlichen Potenzials, um die Lebenszufriedenheit zu erhöhen. Ihr Ansatz ist einfühlsam und wertschätzend, wobei sie den Entwicklungsprozess ihrer Klienten begleitet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,7 +27,48 @@
   "email": "info@psychotherapie-atem-voss.de",
   "website": "http://psychotherapie-atem-voss.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Regina Voß Heilpraktikerin für"
+    },
+    {
+      "id": "offer-2",
+      "name": "Psychotherapie in Berlin Nord"
+    },
+    {
+      "id": "offer-3",
+      "name": "Praxis für Psychotherapie,"
+    },
+    {
+      "id": "offer-4",
+      "name": "Atem- und Entspannungstherapie"
+    }
+  ],
+  "images": [
+    "http://psychotherapie-atem-voss.de/wp-content/uploads/2014/04/Psychotherapie-1-211x300.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Regina Voß an?",
+      "answer": "Regina Voß bietet Psychotherapie, Atemtherapie und Entspannungstherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Regina Voß?",
+      "answer": "Die Praxis von Regina Voß befindet sich im Kieselbronner Weg 8A, 13469 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Wie kann ich Regina Voß kontaktieren?",
+      "answer": "Sie können Regina Voß telefonisch unter 015126247821 oder per E-Mail an info@psychotherapie-atem-voss.de kontaktieren."
+    },
+    {
+      "question": "Hat die Praxis von Regina Voß Öffnungszeiten?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    },
+    {
+      "question": "Was ist das Ziel der Therapie bei Regina Voß?",
+      "answer": "Das Ziel der Therapie ist es, Sorgen aus verschiedenen Perspektiven zu betrachten, Konflikte zu klären und die Lebenszufriedenheit zu erhöhen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBY1FQG9TqEcRIjaqAiTeHYE"
 }

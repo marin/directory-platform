@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-ruth-wellmann",
   "slug": "naturheilpraxis-ruth-wellmann",
   "name": "Naturheilpraxis Ruth Wellmann",
-  "description": "Naturheilpraxis Ruth Wellmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Ruth Wellmann in Berlin-Treptow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. In einer einladenden und ruhigen Atmosphäre stehen individuelle Therapien zur Verfügung, die auf die Bedürfnisse der Patienten abgestimmt sind. Die Praxis legt Wert auf ganzheitliche Heilmethoden und bietet verschiedene Anwendungen, darunter Fußreflexzonenmassagen und Behandlungen für Erwachsene, Studenten und Kinder.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,135 @@
   "phone": "03063103757",
   "email": "natur@heilpraxis-wellmann.de",
   "website": "http://www.heilpraxis-wellmann.de/",
+  "bookingUrl": "https://www.heilpraxis-wellmann.de/kontakt-praxis/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "30 min. o",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30 Eur"
+    },
+    {
+      "id": "offer-2",
+      "name": "45 min. o",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 44,
+      "priceLabel": "44 Eur"
+    },
+    {
+      "id": "offer-3",
+      "name": "60 min. o",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 53,
+      "priceLabel": "53 Eur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Wellness-Fußreflexzonenmassage /Std.",
+      "price": 55,
+      "priceLabel": "55 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Erwachsene: /Std.",
+      "price": 70,
+      "priceLabel": "70 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Studenten: /Std.",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Kinder: /Std.",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Erwachsene",
+      "price": 120,
+      "priceLabel": "120 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "Studenten",
+      "price": 100,
+      "priceLabel": "100 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Kinder",
+      "price": 100,
+      "priceLabel": "100 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "pro 30 min. Fahrzeit",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 25,
+      "priceLabel": "25 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "aber mindestens",
+      "price": 25,
+      "priceLabel": "25 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "Heilung"
+    },
+    {
+      "id": "offer-14",
+      "name": "Indikationen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Kontakt/Praxis"
+    },
+    {
+      "id": "offer-16",
+      "name": "Schön, dass Sie da sind"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-wellmann.de/s/img/emotionheader.jpg?1780395118.960px.374px",
+    "https://www.heilpraxis-wellmann.de/s/cc_images/cache_2485692575.png?t=1744530339",
+    "https://cdn.website-start.de/s/img/cc/printer.gif",
+    "https://www.heilpraxis-wellmann.de/s/misc/logo.png?t=1783521455"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Ruth Wellmann?",
+      "answer": "Die Naturheilpraxis Ruth Wellmann befindet sich in der Arthur-Müller-Straße 21, 12487 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Ruth Wellmann über die Webseite buchen: hier klicken."
+    },
+    {
+      "question": "Welche Behandlungen werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis Ruth Wellmann werden verschiedene Behandlungen angeboten, darunter Fußreflexzonenmassagen und Therapien für Erwachsene, Studenten und Kinder."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung variieren je nach Dauer und Art der Therapie. Beispielsweise kostet eine 30-minütige Behandlung 30 Euro, während eine 60-minütige Behandlung 53 Euro kostet."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Ruth Wellmann kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Ruth Wellmann telefonisch unter 03063103757 oder per E-Mail an natur@heilpraxis-wellmann.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9QQ8wxlGqEcRB1fO7_YJA3E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

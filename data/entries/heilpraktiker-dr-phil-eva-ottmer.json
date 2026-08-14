@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-dr-phil-eva-ottmer",
   "name": "Heilpraktiker Dr. phil. Eva Ottmer",
   "description": "Heilpraktiker Dr. phil. Eva Ottmer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,19 @@
   "phone": "015228982186",
   "website": "http://www.eva-ottmer.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraxis am Tornowsee"
+    },
+    {
+      "id": "offer-2",
+      "name": "Qigong Workshops am Tornowsee"
+    }
+  ],
+  "images": [
+    "https://www.eva-ottmer.de/wp-content/uploads/2017/08/cropped-eva-ottmer-1.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx_fDzQVSqEcRU3piI3nH8mI"
 }

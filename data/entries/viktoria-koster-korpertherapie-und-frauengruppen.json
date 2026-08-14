@@ -2,8 +2,8 @@
   "id": "viktoria-koster-korpertherapie-und-frauengruppen",
   "slug": "viktoria-koster-korpertherapie-und-frauengruppen",
   "name": "Viktoria Köster | Körpertherapie und Frauengruppen",
-  "description": "Viktoria Köster | Körpertherapie und Frauengruppen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Viktoria Köster bietet in ihrer Praxis für Körpertherapie und Frauengruppen in Berlin-Neukölln ganzheitliche naturheilkundliche Behandlungen an. Ihr Ansatz fokussiert sich auf die individuelle Körperarbeit und die Stärkung von Frauen in verschiedenen Lebensphasen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -40,5 +40,29 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Viktoria Köster?",
+      "answer": "Die Praxis von Viktoria Köster befindet sich in der Allerstraße 18, Berlin, im Stadtteil Neukölln, mit der Postleitzahl 12049."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Viktoria Köster buchen?",
+      "answer": "Sie können einen Termin bei Viktoria Köster über den folgenden Link buchen: https://calendly.com/viktoria-koester."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat am Mittwoch und Donnerstag von 10:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Viktoria Köster kontaktieren?",
+      "answer": "Sie können Viktoria Köster telefonisch unter 015787106010 oder per E-Mail an info@viktoriakoester.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Viktoria Köster an?",
+      "answer": "Viktoria Köster bietet Körpertherapie und Frauengruppen im Bereich der Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXUcDqU9PqEcRpsXWgzz-IuI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 47
 }

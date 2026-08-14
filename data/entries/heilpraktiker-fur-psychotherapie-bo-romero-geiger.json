@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-psychotherapie-bo-romero-geiger",
   "slug": "heilpraktiker-fur-psychotherapie-bo-romero-geiger",
   "name": "Heilpraktiker für Psychotherapie Bo Romero Geiger",
-  "description": "Heilpraktiker für Psychotherapie Bo Romero Geiger ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Bo Romero Geiger ist Heilpraktiker für Psychotherapie mit Sitz in Berlin-Pankow. Er bietet psychologische Beratung in Form von Online-Sitzungen an, die sich auf die Stärkung der individuellen Ressourcen und die persönliche Entwicklung konzentrieren. Sein Ansatz berücksichtigt die einzigartigen Bedürfnisse jedes Einzelnen und zielt darauf ab, positive Veränderungen im Leben der Klienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -43,7 +43,42 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "In 45 minütigen Online-Sitzungen zu je nur SelbstzahlerInnen",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 90,
+      "priceLabel": "90€"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://static.wixstatic.com/media/7a827b_5fc1d56ef5ef4e319b6285818d4c3a58~mv2.jpg/v1/crop/x_0,y_0,w_4160,h_4334/fill/w_270,h_281,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/7a827b_5fc1d56ef5ef4e319b6285818d4c3a58~mv2.jpg",
+    "https://static.wixstatic.com/media/11062b_55094bc17ac84f9eb155208b19fb36d1~mv2.jpg/v1/crop/x_251,y_1315,w_4442,h_399/fill/w_1568,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55094bc17ac84f9eb155208b19fb36d1~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Bo Romero Geiger an?",
+      "answer": "Bo Romero Geiger bietet psychologische Beratung in Form von Online-Sitzungen an, die auf die Stärkung der persönlichen Ressourcen und die Förderung positiver Veränderungen im Leben der Klienten ausgerichtet sind."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite von Bo Romero Geiger auf Doctolib buchen: Termin Online buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten von Bo Romero Geiger?",
+      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie viel kosten die Online-Sitzungen?",
+      "answer": "Die 45-minütigen Online-Sitzungen kosten 90€."
+    },
+    {
+      "question": "Wie kann ich Bo Romero Geiger kontaktieren?",
+      "answer": "Sie können Bo Romero Geiger per E-Mail unter kontakt@boromerogeiger.com erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjzHtSFhPqEcR3uCBsbqUUyU"
 }

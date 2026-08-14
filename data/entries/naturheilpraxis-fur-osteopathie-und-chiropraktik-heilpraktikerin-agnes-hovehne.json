@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne",
   "slug": "naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne",
   "name": "Naturheilpraxis für Osteopathie und Chiropraktik Heilpraktikerin Agnes Hovehne",
-  "description": "Naturheilpraxis für Osteopathie und Chiropraktik Heilpraktikerin Agnes Hovehne ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "\\[timeline type=“solid“\\]\\[timeline\\_sep sep\\_text=“Physiotherapie & Naturheilpraxis“ sep\\_color=“4E5B6D“ sep\\_text\\_color=“FFFFFF“\\]\\[timeline\\_item position=“right“ date=“1990″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Ausgebildete Physiotherapeutin“\\]Abschluss der Ausbildung zur Physiotherapeutin in Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“right“ date=“1992″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Ausgebildete Heilpraktikerin“\\]Erteilung der Berufsbezeichnung Heilpraktikerin durch das Bezirksamt Charlottenburg von Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“left“ date=“1993–1996″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Tätigkeit als Heilpraktikerin“\\]in der Praxis von Yashi Kunz in Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“left“ date=“1992–1997″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Fußreflexzo…",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -49,7 +49,29 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "NATURHEILPRAXIS und YOGASTUDIO in Berlin Borsigwalde – Reinickendorf."
+    },
+    {
+      "id": "offer-2",
+      "name": "Yogastudio in Borsigwalde – Berlin Reinickendorf"
+    },
+    {
+      "id": "offer-3",
+      "name": "Mit den Worten anderer"
+    }
+  ],
+  "images": [
+    "https://agneshovehne.de/wp-content/uploads/2015/09/01-e1603816645800.jpg",
+    "https://agneshovehne.de/wp-content/uploads/2020/10/yoga-berlin-reinickendorf-agneshovehne-e1603814744690.jpg",
+    "https://agneshovehne.de/wp-content/uploads/2020/10/meditation-naturheilpraxis-berlin-reinickendorf-e1603814727908.jpg",
+    "https://agneshovehne.de/wp-content/uploads/2025/05/agnes-hovehne_l3punkt-60.png",
+    "https://agneshovehne.de/wp-content/uploads/2024/06/rating-stars-1-150x27.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3aAKpnpUqEcRTcr8fSUcgLE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19
 }

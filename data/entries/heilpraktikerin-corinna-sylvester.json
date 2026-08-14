@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-corinna-sylvester",
   "slug": "heilpraktikerin-corinna-sylvester",
   "name": "Heilpraktikerin Corinna Sylvester",
-  "description": "Heilpraktikerin Corinna Sylvester ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Corinna Sylvester bietet in ihrer Praxis in Berlin-Spandau eine ganzheitliche Diagnostik und Therapie an, die auf die individuellen Bedürfnisse ihrer Patienten abgestimmt ist. Ihr Ansatz zielt darauf ab, die oft versteckten Ursachen von Krankheiten zu erkennen und zu beseitigen, um den Patienten auf ihrem Weg zur Gesundheit zu begleiten. Sie legt großen Wert darauf, dass es keinen universellen Weg zur Gesundung gibt, sondern dass jeder Mensch in seiner spezifischen Situation betrachtet werden sollte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,5 +27,29 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis von Corinna Sylvester?",
+      "answer": "Die Heilpraxis von Corinna Sylvester befindet sich im Tile-Brügge-Weg 87, 13509 Berlin, Spandau."
+    },
+    {
+      "question": "Wie kann ich Corinna Sylvester kontaktieren?",
+      "answer": "Sie können Corinna Sylvester telefonisch unter 03040105217 erreichen oder ihre Website unter http://www.heilpraxis-corinna-sylvester.de/ besuchen."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Corinna Sylvester an?",
+      "answer": "Corinna Sylvester bietet eine ganzheitliche Diagnostik und Therapie an, die auf die individuellen Ursachen von Krankheiten fokussiert ist, jedoch sind keine spezifischen Behandlungsmethoden im Kontext angegeben."
+    },
+    {
+      "question": "Hat die Heilpraxis von Corinna Sylvester Öffnungszeiten?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten für die Heilpraxis von Corinna Sylvester angegeben."
+    },
+    {
+      "question": "Was ist das Ziel der Behandlung bei Corinna Sylvester?",
+      "answer": "Das Ziel der Behandlung bei Corinna Sylvester ist es, die individuellen Ursachen von Krankheiten zu erkennen und zu beseitigen, um den Patienten auf dem Weg zu ihrer Gesundung und Gesunderhaltung zu begleiten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz6n5mmRUqEcRswZyOoJfPhI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

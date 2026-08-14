@@ -2,8 +2,8 @@
   "id": "physiotherapie-naturheilkunde-melanie-ehegartner",
   "slug": "physiotherapie-naturheilkunde-melanie-ehegartner",
   "name": "Physiotherapie & Naturheilkunde | Melanie Ehegartner",
-  "description": "Physiotherapie & Naturheilkunde | Melanie Ehegartner ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Du bist unter 16 Jahre alt? Dann kannst du nicht in optionale Services einwilligen. Du kannst deine Eltern oder Erziehungsberechtigten bitten, mit dir in diese Services einzuwilligen. Mit über 10 Jahren Erfahrung in der Physiotherapie habe ich mich auf verschiedene Behandlungsmethoden spezialisiert, darunter Krankengymnastik, manuelle Lymphdrainage und Triggerpunkttherapie. Jeder Schmerz und jede Verspannung sind einzigartig, und ich betrachte den ganzen Menschen, um die bestmögliche Therapie zu bieten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -26,6 +26,7 @@
   "phone": "017643871347",
   "email": "kontakt@physiotherapie-halensee.de",
   "website": "https://physiotherapie-halensee.de/",
+  "bookingUrl": "https://physiotherapie-halensee.de/contact/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,49 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Therapieleistungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Krankengymnastik"
+    },
+    {
+      "id": "offer-3",
+      "name": "Triggerpunkt- und Faszientherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Was mich auszeichnet"
+    },
+    {
+      "id": "offer-5",
+      "name": "Individuelle Behandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Was meine Patienten sagen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Fast geschafft! 🎉"
+    },
+    {
+      "id": "offer-8",
+      "name": "Jetzt Kontakt aufnehmen"
+    }
+  ],
+  "images": [
+    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Krankengymnastik-Berlin-Halensee_11zon-699x1024.webp",
+    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Lymphdrainage-Berlin-Halensee_11zon-768x1024.webp",
+    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Triggerpunktbehandlung-Faszienbehandlung-Berlin-Halensee_11zon-768x1024.webp",
+    "https://physiotherapie-halensee.de/wp-content/uploads/2024/11/Mella-Physiotherapeutin-Berlin-Halensee-768x1024.jpg",
+    "https://physiotherapie-halensee.de/wp-content/uploads/2024/11/Heilpraktikerin-fuer-Physiotherapie-Berlin-683x1024.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaZGQb6JtmCkRQgduLD0S96k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-julia-kleinen",
   "slug": "heilpraktikerin-fur-psychotherapie-julia-kleinen",
   "name": "Heilpraktikerin für Psychotherapie // Julia Kleinen",
-  "description": "Heilpraktikerin für Psychotherapie // Julia Kleinen ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In meiner Arbeit schaffe ich einen Raum nur für Sie. Einen Raum, in dem sein darf, was ist und in dem sich zeigen darf, was gesehen werden möchte. Wenn wir Konflikten, Ängsten und Sorgen mit offenem Interesse und Mitgefühl begegnen, entstehen neue Handlungsmöglichkeiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,25 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Einzeln"
+    },
+    {
+      "id": "offer-2",
+      "name": "Unterstützung nach Maß"
+    }
+  ],
+  "images": [
+    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/portrait-jk-startseite-768x512.webp",
+    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/portrait-jk-startseite-freigestellt.png",
+    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-tivasee-6438672.jpg",
+    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-ashutoshsonwani-1669605-scaled-1.jpg",
+    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-photomix-company-1002703-e1733913346717.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3dSyc9PqEcR68lms4biae0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12
 }

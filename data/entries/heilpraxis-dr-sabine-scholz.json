@@ -2,8 +2,8 @@
   "id": "heilpraxis-dr-sabine-scholz",
   "slug": "heilpraxis-dr-sabine-scholz",
   "name": "Heilpraxis Dr. Sabine Scholz",
-  "description": "Heilpraxis Dr. Sabine Scholz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Dr. Sabine Scholz befindet sich im schönen Berlin-Zehlendorf, nur einen Steinwurf vom Nikolassee entfernt. Hier werden verschiedene naturheilkundliche Behandlungen angeboten, darunter auch spezielle Ansätze zur Unterstützung bei Erkältungen und zur Harmonisierung der Chakren. Die Praxis legt Wert auf eine individuelle Betreuung und bietet zudem Online-Beratung und Bewegungskurse an, um die Gesundheit der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -77,7 +77,42 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Chakren"
+    }
+  ],
+  "images": [
+    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC03487-mehr-Kraft-Header-1200x514.jpg",
+    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC03487-mehr-Leichtigkeit-Header-3-1200x514.jpg",
+    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC08168-mehr-Energie-Header-1200x514.jpg",
+    "https://www.sabine-scholz.de/wp-content/uploads/2023/03/DSC03487-mehr-Kraft-500px.jpg",
+    "https://www.sabine-scholz.de/wp-content/uploads/2023/03/DSC03487-mehr-Leichtigkeit-500px.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Dr. Sabine Scholz?",
+      "answer": "Die Heilpraxis Dr. Sabine Scholz befindet sich in der Lohengrinstraße 13, 14109 Berlin, im Stadtteil Zehlendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
+      "answer": "Die Heilpraxis hat montags bis freitags von 09:00 bis 12:00 Uhr und von 15:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Welche Angebote bietet die Heilpraxis an?",
+      "answer": "Die Heilpraxis bietet verschiedene Dienstleistungen an, darunter die Behandlung von Chakren, Beratung bei Schnupfen und allgemeine naturheilkundliche Behandlungen."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Dr. Sabine Scholz kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 03080491353 oder per E-Mail an kontakt@sabine-scholz.de kontaktieren."
+    },
+    {
+      "question": "Gibt es Online-Angebote in der Heilpraxis?",
+      "answer": "Ja, die Heilpraxis bietet auch Online-Beratung und Bewegungskurse zur Gesundheitsförderung an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD3wxmhBZqEcRZK2UkYXTTF8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

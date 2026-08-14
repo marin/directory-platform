@@ -2,8 +2,8 @@
   "id": "jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm",
   "slug": "jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm",
   "name": "Jessica Ward - Heilpraktikerin für Psychotherapie - Traumatherapie NARM",
-  "description": "Jessica Ward - Heilpraktikerin für Psychotherapie - Traumatherapie NARM ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Jessica Ward ist eine Heilpraktikerin für Psychotherapie mit Schwerpunkt auf Traumatherapie nach NARM in Berlin-Lichtenberg. In ihrer Praxis bietet sie Einzel- und Paartherapie an und schafft einen geschützten Raum, um individuelle Erfahrungen und Herausforderungen zu erkunden. Ihr Ansatz fördert die Selbstentdeckung und die Auseinandersetzung mit hinderlichen Mustern, um mehr Intimität und Verbindung im Leben zu ermöglichen. Die Therapie wird in Deutsch, Englisch und Französisch angeboten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,6 +27,33 @@
   "website": "https://www.jessica-ward.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=279x1024:format=jpg/path/s6aa645529e8a9c74/image/i8ead0ac35688e607/version/1761562592/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x1024:format=jpg/path/s6aa645529e8a9c74/image/i8ead0ac35688e607/version/1761562592/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieform bietet Jessica Ward an?",
+      "answer": "Jessica Ward bietet Traumatherapie nach dem NARM-Ansatz an, der sich auf die Heilung von Trauma konzentriert."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jessica Ward?",
+      "answer": "Die Praxis von Jessica Ward befindet sich in der Wönnichstraße 103/103, 10317 Berlin, Deutschland."
+    },
+    {
+      "question": "Bietet Jessica Ward auch Paartherapie an?",
+      "answer": "Ja, Jessica Ward bietet neben Einzeltherapie auch Paartherapie an."
+    },
+    {
+      "question": "In welchen Sprachen bietet Jessica Ward ihre Therapie an?",
+      "answer": "Jessica Ward bietet ihre Therapie in Deutsch, Englisch und Französisch an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Jessica Ward vereinbaren?",
+      "answer": "Interessierte können Jessica Ward per E-Mail unter kontakt@jessica-ward.de kontaktieren, um einen Termin für ein kostenfreies und unverbindliches Vorgespräch zu vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6yuriRP8jooRRDscVWVZ_7Y",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

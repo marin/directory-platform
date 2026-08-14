@@ -2,8 +2,8 @@
   "id": "frau-beatrix-lass",
   "slug": "frau-beatrix-lass",
   "name": "Frau Beatrix Laß",
-  "description": "Frau Beatrix Laß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Beatrix Laß ist Heilpraktikerin in Berlin und bietet in ihrer Naturheilpraxis ganzheitliche Heilmethoden an, die eine Alternative zur symptomatischen Behandlung darstellen. Ihr Ziel ist es, Patienten zu unterstützen, ihre Leistungsfähigkeit und ihr Wohlbefinden zu fördern. Frau Laß verfügt über umfangreiche Ausbildungen und Zertifikate in verschiedenen naturheilkundlichen Therapien, darunter Akupunktur und Homöopathie.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,35 @@
   "phone": "03031562626",
   "email": "mail@naturheilpraxis-lass.de",
   "website": "http://www.naturheilpraxis-lass.de/",
+  "bookingUrl": "https://www.naturheilpraxis-lass.de/kontakt.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-lass.de/img/Bea.jpg",
+    "https://www.naturheilpraxis-lass.de/img/naturheilpraxis.gif",
+    "https://www.naturheilpraxis-lass.de/img/signet.gif",
+    "https://www.naturheilpraxis-lass.de/img/nav_rund_li_sel.gif",
+    "https://www.naturheilpraxis-lass.de/img/px.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Frau Beatrix Laß?",
+      "answer": "Die Naturheilpraxis von Frau Beatrix Laß befindet sich in der Kösterstraße 1B, 14165 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Frau Beatrix Laß kontaktieren?",
+      "answer": "Sie können Frau Beatrix Laß telefonisch unter 03031562626 oder per E-Mail an mail@naturheilpraxis-lass.de kontaktieren."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Frau Beatrix Laß an?",
+      "answer": "Frau Beatrix Laß bietet ganzheitliche Heilmethoden an, darunter Akupunktur, Homöopathie und weitere naturheilkundliche Therapien."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website unter https://www.naturheilpraxis-lass.de/kontakt.html buchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEX1T4NNbqEcRZf5MCANbSm8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

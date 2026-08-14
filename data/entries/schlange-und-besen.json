@@ -2,8 +2,8 @@
   "id": "schlange-und-besen",
   "slug": "schlange-und-besen",
   "name": "Schlange und Besen",
-  "description": "Schlange und Besen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis \"Schlange und Besen\" in Berlin-Spandau bietet umfassende naturheilkundliche Behandlungen für leibliche und spirituelle Gesundheit an. In einer einladenden Atmosphäre nimmt sich der Heilpraktiker Zeit für individuelle Beratungen und Therapieansätze. Termine können unkompliziert über die Website oder telefonisch vereinbart werden. Besuchen Sie die Praxis, um gemeinsam Lösungen für Ihre gesundheitlichen Anliegen zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,6 +53,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://usercontent.one/wp/www.schlange-und-besen.de/wp-content/uploads/2018/05/essential-oils-3084952_1920.jpg",
+    "https://usercontent.one/wp/www.schlange-und-besen.de/wp-content/uploads/2018/05/cropped-logo_text3-1.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis 'Schlange und Besen'?",
+      "answer": "Die Heilpraxis 'Schlange und Besen' befindet sich in der Seegefelder Str. 142, 13583 Berlin, Spandau."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Termine können entweder über Treatwell oder telefonisch unter der Nummer 0157 86 87 71 46 gebucht werden."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag und Mittwoch von 09:30 bis 20:00 Uhr, Dienstag von 09:30 bis 12:00 Uhr, Donnerstag von 16:00 bis 20:00 Uhr und Freitag von 09:30 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03058885707 oder per E-Mail an kontakt@schlange-und-besen.de kontaktieren."
+    },
+    {
+      "question": "Bietet die Praxis spezielle Behandlungen an?",
+      "answer": "Im Moment sind keine speziellen Angebote auf der Website aufgeführt, aber die Praxis bietet Leistungen im Bereich der Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUXDaMQ1WqEcRxdenRURdetc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 22
 }

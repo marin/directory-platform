@@ -30,13 +30,8 @@ export function formatPhoneForDisplay(
 }
 
 export function formatAddress(address: Address): string {
-  const parts = [
-    address.street,
-    `${address.locality}, ${address.region}`,
-    address.postalCode,
-    address.country,
-  ].filter(Boolean);
-  return parts.join(", ");
+  const cityLine = [address.postalCode, address.locality].filter(Boolean).join(" ");
+  return [address.street, cityLine].filter(Boolean).join(", ");
 }
 
 export function buildNap(

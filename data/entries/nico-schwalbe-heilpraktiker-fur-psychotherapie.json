@@ -3,7 +3,7 @@
   "slug": "nico-schwalbe-heilpraktiker-fur-psychotherapie",
   "name": "Nico Schwalbe - Heilpraktiker für Psychotherapie",
   "description": "Nico Schwalbe - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -31,7 +31,13 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diese Seite existiert leider nicht mehr."
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy8dNNABRqEcRwmf-uWgZYCQ"
 }

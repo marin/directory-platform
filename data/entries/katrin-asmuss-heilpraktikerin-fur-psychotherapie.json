@@ -2,8 +2,8 @@
   "id": "katrin-asmuss-heilpraktikerin-fur-psychotherapie",
   "slug": "katrin-asmuss-heilpraktikerin-fur-psychotherapie",
   "name": "Katrin Asmuß, Heilpraktikerin für Psychotherapie",
-  "description": "Katrin Asmuß, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Katrin Asmuß ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Adlershof. Sie bietet psychotherapeutische Behandlungen und Coaching an, die auch per Videosprechstunde möglich sind. Ihre Praxis verfolgt einen ganzheitlichen Ansatz, der Elemente der Naturheilkunde integriert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,7 +27,39 @@
   "website": "http://www.heilpraxis-adlershof.com/",
   "bookingUrl": "https://katrinasmuss.wordpress.com/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Teilen mit"
+    }
+  ],
+  "images": [
+    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2020/06/img_3794.jpg",
+    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2018/09/stethoscope-1584222__340.jpg",
+    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2018/09/stethoscope-1584222__340.jpg?w=640",
+    "https://s0.wp.com/i/logo/wpcom-gray-white.png?m=1479929237i"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis von Katrin Asmuß?",
+      "answer": "Die Heilpraxis von Katrin Asmuß befindet sich in der Waldstraße 42, 12489 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Katrin Asmuß an?",
+      "answer": "Katrin Asmuß bietet Psychotherapie und Coaching an, auch in Form von Videosprechstunden."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Katrin Asmuß buchen?",
+      "answer": "Sie können einen Termin bei Katrin Asmuß über die Buchungsseite unter https://katrinasmuss.wordpress.com/kontakt/ buchen."
+    },
+    {
+      "question": "Wie kann ich Katrin Asmuß kontaktieren?",
+      "answer": "Sie können Katrin Asmuß telefonisch unter 015115766322 erreichen."
+    },
+    {
+      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
+      "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJx-Ufu5JqEcRCGcHFOh9BFc"
 }

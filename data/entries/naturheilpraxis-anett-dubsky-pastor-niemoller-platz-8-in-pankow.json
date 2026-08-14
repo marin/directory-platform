@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow",
   "slug": "naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow",
   "name": "Naturheilpraxis Anett Dubsky Pastor-Niemöller-Platz 8 in Pankow",
-  "description": "Naturheilpraxis Anett Dubsky Pastor-Niemöller-Platz 8 in Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Anett Dubsky in Berlin Pankow steht der Mensch als Ganzes im Mittelpunkt. Die Praxis bietet individuelle naturheilkundliche und diagnostische Therapieansätze, die auf die spezifischen Beschwerden und Ziele der Patienten abgestimmt sind. Mit einem ganzheitlichen Blick werden Ursachen von Beschwerden analysiert, um gezielte Lösungen zu finden und die Selbstregulation des Körpers zu unterstützen. Die Praxis legt Wert auf eine umfassende Begleitung und arbeitet eng mit verschiedenen Fachleuten aus der Medizin und Naturheilkunde zusammen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,68 @@
   "phone": "015566330663",
   "email": "kontakt@naturheilpraxis-in-berlin.com",
   "website": "https://www.naturheilpraxis-in-berlin.com/",
+  "bookingUrl": "https://naturheilpraxis-in-berlin.com/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "teilen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schreibe einen Kommentar Antwort abbrechen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Corona"
+    },
+    {
+      "id": "offer-4",
+      "name": "Gürtelrose"
+    },
+    {
+      "id": "offer-5",
+      "name": "Herpes"
+    },
+    {
+      "id": "offer-6",
+      "name": "Gesundheit beginnt dort, wo wir genauer hinschauen!"
+    },
+    {
+      "id": "offer-7",
+      "name": "Mit Vorsorge Ungleichgewichte frühzeitig erkennen"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/06/Corona-400x280.jpg",
+    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/06/Guertelrose-400x280.jpg",
+    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2025/03/Herpes-400x280.png",
+    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/05/Darmbeschwerden-Darmsanierung-400x280.png",
+    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2025/08/Plasma_Frequenz-400x280.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Anett Dubsky?",
+      "answer": "Die Naturheilpraxis Anett Dubsky befindet sich am Pastor-Niemöller-Platz 8 in Berlin Pankow, 13156."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis telefonisch unter 015566330663 kontaktieren oder das Kontaktformular auf der Webseite nutzen: https://naturheilpraxis-in-berlin.com/kontakt/."
+    },
+    {
+      "question": "Welche Therapieansätze werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis stehen verschiedene naturheilkundliche und diagnostische Therapieansätze zur Verfügung, die individuell auf die Beschwerden und Ziele der Patienten abgestimmt werden."
+    },
+    {
+      "question": "Wie lange praktiziert Anett Dubsky bereits als Heilpraktikerin?",
+      "answer": "Anett Dubsky begleitet Menschen seit 17 Jahren mit Erfahrung, Sorgfalt und einem ganzheitlichen Blick."
+    },
+    {
+      "question": "Wie kann ich Anett Dubsky kontaktieren?",
+      "answer": "Sie können Anett Dubsky per E-Mail unter kontakt@naturheilpraxis-in-berlin.com oder telefonisch unter 015566330663 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNyw-3QnCOQkRLEMjUXMA7I0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

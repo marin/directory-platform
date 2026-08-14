@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-christin-franke",
   "slug": "heilpraktikerin-christin-franke",
   "name": "Heilpraktikerin Christin Franke",
-  "description": "Heilpraktikerin Christin Franke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Christin Franke in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Hypnose-Therapie, Akupunktur, Ohrakupunktur und Klangmeditationen. Ihr Ansatz zielt darauf ab, Klienten bei der Bewältigung von Stress, Schlafstörungen und unerwünschten Gewohnheiten zu unterstützen. In einer einfühlsamen und professionellen Atmosphäre stehen die individuellen Bedürfnisse der Patienten im Vordergrund.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,114 @@
       "close": "15:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur & Ohrakupunktur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Klangmeditationen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Indikationen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hypnose-Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Entspannungstraining"
+    },
+    {
+      "id": "offer-7",
+      "name": "Stressreduktion/-management"
+    },
+    {
+      "id": "offer-8",
+      "name": "Regulation des Nervensystems"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schlafstörungen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Gewichtsreduktion"
+    },
+    {
+      "id": "offer-11",
+      "name": "Anspannungen lösen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Selbstbewusstsein & -vertrauen steigern"
+    },
+    {
+      "id": "offer-13",
+      "name": "Akupunktur / Ohrakupunktur"
+    },
+    {
+      "id": "offer-14",
+      "name": "Allergien"
+    },
+    {
+      "id": "offer-15",
+      "name": "Chronische oder akute Schmerzen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Auto-Immun-Erkrankungen"
+    },
+    {
+      "id": "offer-17",
+      "name": "Migräne oder Kopfschmerzen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Honorar & Erstattung"
+    },
+    {
+      "id": "offer-19",
+      "name": "Hier erreichst du mich"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/1739299335018-SQE28QYVCL1TNT45YOJB/Blog+Heilpraktikerin+Christin+Franke.jpg",
+    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/d16f8839-2669-44cb-9e4c-a59c26ce9ba8/Hypnose+Therapie+Soundbath+Charlottenburg+Akupunktur.JPG",
+    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/58cd3a8d-9e4d-4d3f-b188-94b050e0f362/AGTCM.png",
+    "https://images.squarespace-cdn.com/content/v1/6318962264475814777b6172/1662556281104-ULPTYHZA02VCEL0YDD1C/20140228_Trade+151_0046+1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6318962264475814777b6172/1662556281118-6XP97Z9J3GOLA1AKAUWA/Aro+Ha_0010+1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Christin Franke an?",
+      "answer": "Christin Franke bietet Hypnose-Therapie, Akupunktur, Ohrakupunktur und Klangmeditationen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Christin Franke?",
+      "answer": "Die Praxis von Christin Franke befindet sich in der Bleibtreustraße 17, 10623 Berlin - Charlottenburg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Donnerstag von 09:00 bis 16:30 Uhr und am Freitag von 09:00 bis 15:30 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Einen Termin können Sie telefonisch unter 015201875785 oder per E-Mail an hi@flow-and-flourish.de vereinbaren."
+    },
+    {
+      "question": "Welche Indikationen behandelt Christin Franke?",
+      "answer": "Christin Franke behandelt unter anderem Schlafstörungen, Stressreduktion, Anspannungen, Allergien und chronische oder akute Schmerzen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2aVRbz5RqEcRnDQDavi7Nvk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

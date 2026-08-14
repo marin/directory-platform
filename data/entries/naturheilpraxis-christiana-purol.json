@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-christiana-purol",
   "slug": "naturheilpraxis-christiana-purol",
   "name": "Naturheilpraxis Christiana Purol",
-  "description": "Naturheilpraxis Christiana Purol ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Christiana Purol in Berlin bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Akupunktur, Dorntherapie und Mesotherapie. Die Praxis legt besonderen Wert auf eine individuelle Patientenbetreuung und betrachtet jeden Patienten in seiner Ganzheit. Zu den Behandlungsschwerpunkten zählen Atemwegserkrankungen, Hauterkrankungen sowie Erkrankungen des Stütz- und Bewegungssystems.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   "phone": "03084719888",
   "email": "info@purol.de",
   "website": "http://www.purol.de/",
+  "bookingUrl": "https://purol.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,206 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Atemwegserkrankungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Asthma bronchiale"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bronchitis"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hyperreagibles Bronchialsystem (überreaktives Bronchialsystem)"
+    },
+    {
+      "id": "offer-6",
+      "name": "Pseudokrupp (Atemwegsentzündung bei Kindern)"
+    },
+    {
+      "id": "offer-7",
+      "name": "Erkrankungen der Haut"
+    },
+    {
+      "id": "offer-8",
+      "name": "Neurodermitis"
+    },
+    {
+      "id": "offer-9",
+      "name": "Urtikaria (Nesselsucht)"
+    },
+    {
+      "id": "offer-10",
+      "name": "Erkrankungen des Stütz- und Bewegungssystems"
+    },
+    {
+      "id": "offer-11",
+      "name": "Arthralgien (Gelenkschmerz)"
+    },
+    {
+      "id": "offer-12",
+      "name": "Arthritis (entzündliche Gelenkerkrankung)"
+    },
+    {
+      "id": "offer-13",
+      "name": "Arthrosen (degenerative Gelenkerkrankung)"
+    },
+    {
+      "id": "offer-14",
+      "name": "BWS-Syndrom (Schmerzen in der Brustwirbelsäule)"
+    },
+    {
+      "id": "offer-15",
+      "name": "Epikondylopathien (Tennis- oder Golferellenbogen)"
+    },
+    {
+      "id": "offer-16",
+      "name": "Gonarthrose (Kniegelenks-Arthrose)"
+    },
+    {
+      "id": "offer-17",
+      "name": "Gonalgie (Kniegelenksschmerzen)"
+    },
+    {
+      "id": "offer-18",
+      "name": "HWS-Syndrom (Schmerzen in der Halswirbelsäule)"
+    },
+    {
+      "id": "offer-19",
+      "name": "Ischialgie (Ischiasschmerzen)"
+    },
+    {
+      "id": "offer-20",
+      "name": "Karpaltunnelsyndrom (Handwurzelschmerz durch Nervenkompression)"
+    },
+    {
+      "id": "offer-21",
+      "name": "Koxarthrose, Koxalgie (Arthrose bzw. Schmerzen im Hüftgelenk)"
+    },
+    {
+      "id": "offer-22",
+      "name": "Lumbago (»Hexenschuss«)"
+    },
+    {
+      "id": "offer-23",
+      "name": "LWS-Syndrom (Schmerzen in der Lendenwirbelsäule)"
+    },
+    {
+      "id": "offer-24",
+      "name": "Myofasziale Schmerzsyndrome (Muskelbinden- und Sehnenschmerz)"
+    },
+    {
+      "id": "offer-25",
+      "name": "Periarthritis humeroscapularis (Gewebenetzündung)"
+    },
+    {
+      "id": "offer-26",
+      "name": "Pseudoradikulärsyndrome / Radikulärsyndrome (Nervenwurzelschmerzen)"
+    },
+    {
+      "id": "offer-27",
+      "name": "Schulter-Arm-Syndrom"
+    },
+    {
+      "id": "offer-28",
+      "name": "Tortikollis (»Schiefhals«)"
+    },
+    {
+      "id": "offer-29",
+      "name": "Cholezystitis (Entzündung der Gallenblase)"
+    },
+    {
+      "id": "offer-30",
+      "name": "Colon irritabile (Reizdarm)"
+    },
+    {
+      "id": "offer-31",
+      "name": "Colitis ulcerosa (Darmentzündung)"
+    },
+    {
+      "id": "offer-32",
+      "name": "Gastroenteritis (infektiöse Magen-Darm-Entzündung)"
+    },
+    {
+      "id": "offer-33",
+      "name": "Gastritis (Magenschleimhautentzündung)"
+    },
+    {
+      "id": "offer-34",
+      "name": "Hepatitis (Leberentzündung)"
+    },
+    {
+      "id": "offer-35",
+      "name": "Hyperemesis (übermäßiges Erbrechen)"
+    },
+    {
+      "id": "offer-36",
+      "name": "Singultus (Schluckauf)"
+    },
+    {
+      "id": "offer-37",
+      "name": "Obstipation (Verstopfung)"
+    },
+    {
+      "id": "offer-38",
+      "name": "Dorntherapie"
+    },
+    {
+      "id": "offer-39",
+      "name": "Mesotherapie"
+    },
+    {
+      "id": "offer-40",
+      "name": "Reittherapie"
+    },
+    {
+      "id": "offer-41",
+      "name": "Schmerztherapie"
+    },
+    {
+      "id": "offer-42",
+      "name": "Wechseljahre"
+    },
+    {
+      "id": "offer-43",
+      "name": "Anamnese"
+    }
+  ],
+  "images": [
+    "https://purol.de/wp-content/uploads/2023/09/startbilder5.jpg",
+    "https://purol.de/wp-content/uploads/2023/11/dorn-neu.jpg",
+    "https://purol.de/wp-content/uploads/2023/09/therapie-akupunktur1.jpg",
+    "https://purol.de/wp-content/uploads/2023/11/meso-neu.jpg",
+    "https://purol.de/wp-content/uploads/2024/02/pferd-start.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Christiana Purol an?",
+      "answer": "Die Naturheilpraxis Christiana Purol bietet unter anderem Akupunktur, Atemwegserkrankungen, Erkrankungen der Haut, sowie Erkrankungen des Stütz- und Bewegungssystems an."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis geöffnet?",
+      "answer": "Die Naturheilpraxis hat von Montag bis Freitag von 09:00 bis 19:00 Uhr und am Samstag von 09:00 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Christiana Purol?",
+      "answer": "Die Naturheilpraxis Christiana Purol befindet sich in der Wismarer Str. 44, 12207 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Bietet die Praxis ein unverbindliches Vorgespräch an?",
+      "answer": "Ja, die Praxis bietet ein unverbindliches Vorgespräch an, in dem Sie Fragen zu den Behandlungsmöglichkeiten stellen können."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl7Hz8wBbqEcRpf67h39DXvU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

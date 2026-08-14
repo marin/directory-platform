@@ -2,8 +2,8 @@
   "id": "heilpraxis-fenske",
   "slug": "heilpraxis-fenske",
   "name": "Heilpraxis Fenske",
-  "description": "Heilpraxis Fenske ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Fenske in Berlin bietet ein breites Spektrum an ganzheitlichen Therapien, darunter Akupunktur, Chiropraktik und verschiedene psychotherapeutische Ansätze wie Gestalttherapie und Traumatherapie. Das Team um Markus und Juliane Fenske legt großen Wert auf die Förderung des körperlichen und seelischen Wohlbefindens seiner Patienten. In einer vertrauensvollen Atmosphäre werden individuelle Behandlungskonzepte entwickelt, die sowohl vor Ort als auch digital durchgeführt werden können.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -53,7 +53,134 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gestalttherapie: Ein Weg zur Selbstentdeckung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einführung in die Gestalttherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Der Mehrdimensionale Ansatz der Gestalttherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Der Prozess der Gestalttherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die Vorteile der Gestalttherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Beziehungskonflikten"
+    },
+    {
+      "id": "offer-7",
+      "name": "Unklarheiten und diffusen Gefühlslagen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Gefühlen von Blockaden und Stillstand"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kontrollverlust über Emotionen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Selbstfindung und Selbstverwirklichung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Schwierigkeiten im sozialen Kontakt"
+    },
+    {
+      "id": "offer-12",
+      "name": "Gefühlen von Entfremdung und Funktionalität"
+    },
+    {
+      "id": "offer-13",
+      "name": "Fazit"
+    },
+    {
+      "id": "offer-14",
+      "name": "Folgen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Essenziell"
+    },
+    {
+      "id": "offer-16",
+      "name": "Statistik"
+    },
+    {
+      "id": "offer-17",
+      "name": "Marketing"
+    },
+    {
+      "id": "offer-18",
+      "name": "Chiropraktik"
+    },
+    {
+      "id": "offer-19",
+      "name": "Hormonberatung"
+    },
+    {
+      "id": "offer-20",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-21",
+      "name": "Anti-Stress Coaching"
+    },
+    {
+      "id": "offer-22",
+      "name": "Traumatherapie"
+    },
+    {
+      "id": "offer-23",
+      "name": "Akupunkt-Massage nach Penzel"
+    },
+    {
+      "id": "offer-24",
+      "name": "Rückführungstherapie"
+    },
+    {
+      "id": "offer-25",
+      "name": "Gestalttherapie"
+    },
+    {
+      "id": "offer-26",
+      "name": "Traumatherapie: Ein Weg zur Heilung"
+    }
+  ],
+  "images": [
+    "https://heilpraxis-fenske.de/wp-content/uploads/2023/08/heilpraxis-fenske-logo-berlin-jeserig.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Heilpraxis Fenske an?",
+      "answer": "Die Heilpraxis Fenske bietet unter anderem Gestalttherapie, Chiropraktik, Hypnose, Traumatherapie, Hormonberatung und Akupunkt-Massage an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis Fenske?",
+      "answer": "Die Öffnungszeiten der Heilpraxis Fenske sind: Montag von 10:00 bis 18:00 Uhr, Dienstag von 12:00 bis 19:00 Uhr, Mittwoch von 10:00 bis 19:00 Uhr, Donnerstag von 10:00 bis 19:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Fenske?",
+      "answer": "Die Heilpraxis Fenske befindet sich in Berlin, Alt-Lankwitz 96, 12247 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Fenske kontaktieren?",
+      "answer": "Sie können die Heilpraxis Fenske telefonisch unter 01727960577 oder per E-Mail an info@heilpraxis-fenske.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO1zgXb9aqEcRG4IIQuZEV8Q",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 84
 }

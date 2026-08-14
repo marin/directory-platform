@@ -2,8 +2,8 @@
   "id": "frau-andrea-mayr-gasper",
   "slug": "frau-andrea-mayr-gasper",
   "name": "Frau Andrea Mayr-Gasper",
-  "description": "Frau Andrea Mayr-Gasper ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Andrea Mayr-Gasper ist Heilpraktikerin in Berlin-Treptow-Köpenick und bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Ihre Praxis befindet sich in der Salvador-Allende-Straße 2-8, wo sie individuelle Therapiekonzepte entwickelt, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,52 @@
   "phone": "03061674798",
   "website": "https://www.theralupa.de/heilpraktiker/heilpraxis-mayr-gasper-berlin-9153",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Andrea Mayr-Gasper Salvador-Allende-Str.11 im Ärztehaus 12559Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxiszeiten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Leistungsspektrum"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlungsschwerpunkte & Erfahrungen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Meine therapeutische Ausbildung"
+    }
+  ],
+  "images": [
+    "https://www.theralupa.de/images/banners/banner-podcast.jpg",
+    "https://www.theralupa.de/images/banners/heilpraktikerschule.jpg",
+    "https://www.theralupa.de/images/banners/ich-will-meinen-heilpraktiker.png",
+    "https://www.theralupa.de/images/banners/banner-app.jpg",
+    "https://www.theralupa.de/images/com_theralupa/gallery/9153/9203_image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis von Frau Andrea Mayr-Gasper?",
+      "answer": "Die Heilpraxis von Frau Andrea Mayr-Gasper befindet sich in der Salvador-Allende-Straße 2-8, 12559 Berlin."
+    },
+    {
+      "question": "Wie kann ich Frau Andrea Mayr-Gasper kontaktieren?",
+      "answer": "Sie können Frau Andrea Mayr-Gasper telefonisch unter der Nummer 03061674798 kontaktieren."
+    },
+    {
+      "question": "Welche Kategorien deckt die Heilpraxis ab?",
+      "answer": "Die Heilpraxis von Frau Andrea Mayr-Gasper deckt die Kategorie Naturheilkunde ab."
+    },
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet die Heilpraxis an?",
+      "answer": "Die Heilpraxis bietet ein breites Leistungsspektrum an, welches verschiedene naturheilkundliche Verfahren umfasst."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjevdIg9IqEcR6wTDaTtfRcE"
 }

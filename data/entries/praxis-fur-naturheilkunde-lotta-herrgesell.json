@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-lotta-herrgesell",
   "slug": "praxis-fur-naturheilkunde-lotta-herrgesell",
   "name": "Praxis für Naturheilkunde Lotta Herrgesell",
-  "description": "Praxis für Naturheilkunde Lotta Herrgesell ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Lotta Herrgesell in Berlin bietet individuelle Beratungen in den Bereichen Homöopathie, Ernährungsberatung und Naturheilkunde an. Ziel der Heilpraktikerin ist es, das Wohlbefinden ihrer Patientinnen und Patienten zu fördern, indem sie wissenschaftlich fundierte Strategien für Langlebigkeit und die Stärkung des Immunsystems vermittelt. In einem ganzheitlichen Ansatz werden Körper, Seele und Geist in Einklang gebracht, um ein gesundes und zufriedenes Leben zu ermöglichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -28,7 +28,50 @@
   "email": "info@lottaherrgesell.de",
   "website": "http://www.lottaherrgesell.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wissenschaftlich fundierte Strategien für Langlebigkeit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Stärkung des Immunsystems für mehr Widerstandskraft"
+    },
+    {
+      "id": "offer-3",
+      "name": "Individuelle Beratung für Ernährung, gesunden Lebensstil und Regeneration"
+    }
+  ],
+  "images": [
+    "http://lottaherrgesell.de/wp-content/uploads/headerimages/home.jpg",
+    "https://lottaherrgesell.de/wp-content/uploads/2012/01/lottaherrgesell.jpg",
+    "https://lottaherrgesell.de/wp-content/uploads/2026/06/Longevity-150x150.jpg",
+    "https://lottaherrgesell.de/wp-content/uploads/2026/06/VeraenderJung-150x150.jpeg",
+    "https://lottaherrgesell.de/wp-content/uploads/2026/04/HAPPY-EASTER-GLAD-PASK-FROHE-OSTERN-150x150.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis für Naturheilkunde Lotta Herrgesell an?",
+      "answer": "Die Praxis bietet wissenschaftlich fundierte Strategien für Langlebigkeit, Stärkung des Immunsystems für mehr Widerstandskraft und individuelle Beratung für Ernährung, gesunden Lebensstil und Regeneration an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Lotta Herrgesell?",
+      "answer": "Die Praxis befindet sich in der Auguste-Viktoria-Straße 62, 14199 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis für Naturheilkunde Lotta Herrgesell kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 01729417111 oder per E-Mail an info@lottaherrgesell.de kontaktieren."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Beratung an?",
+      "answer": "Ja, die Praxis bietet eine bequeme Beratung per Videokonferenz an."
+    },
+    {
+      "question": "Was ist das Ziel der Behandlung in der Praxis für Naturheilkunde Lotta Herrgesell?",
+      "answer": "Das Ziel ist es, dass sich die Patientinnen und Patienten wieder wohl und gesund fühlen und das Zusammenspiel von Körper, Seele und Geist optimiert wird."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC6vvnJVQqEcRPXOwP1K8w0g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

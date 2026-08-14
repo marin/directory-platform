@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-nicole-marx-berlin",
   "slug": "heilpraktikerin-nicole-marx-berlin",
   "name": "Heilpraktikerin Nicole Marx Berlin",
-  "description": "Heilpraktikerin Nicole Marx Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Nicole Marx in Berlin bietet eine ganzheitliche Praxis, die Bewegung, Entspannung, Ernährung und Naturheilkunde vereint. Ihr Ziel ist es, die Gesundheit ihrer Patienten zu fördern und zu erhalten, indem sie gemeinsam die Ursachen von Beschwerden erarbeitet. Neben individuellen Behandlungen stehen auch spezielle Angebote wie Beckenbodenbehandlungen und Yogatherapie zur Verfügung, um das körperliche und seelische Wohlbefinden zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -54,6 +54,34 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://heilpraxis-marx.de/wp-content/uploads/20220409_152321_DSC04127a_2048-2-1024x683.jpg",
+    "https://heilpraxis-marx.de/wp-content/uploads/2022/03/20190522_144357_DSC00028a_2048-1024x683.jpg",
+    "https://heilpraxis-marx.de/wp-content/uploads/20220409_095509_DSC04108-RGBa_2048-1-1024x683.jpg",
+    "https://heilpraxis-marx.de/wp-content/uploads/IMG_0711-969x1024.jpg",
+    "https://heilpraxis-marx.de/wp-content/uploads/20220409_160109_DSC04247a_2048-1024x683.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerin Nicole Marx?",
+      "answer": "Die Heilpraktikerin Nicole Marx befindet sich in der Salierstraße 15, 12524 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Nicole Marx buchen?",
+      "answer": "Sie können einen Termin bei Nicole Marx über die Webseite buchen: heilpraxis-marx.de oder direkt über diesen Link: Termin vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Heilpraktikerin Nicole Marx sind: Montag von 08:00 bis 19:00 Uhr, Dienstag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 16:00 Uhr, Donnerstag von 08:00 bis 18:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Bietet Nicole Marx ein Erstgespräch an?",
+      "answer": "Ja, Nicole Marx bietet ein kostenfreies, telefonisches Erstgespräch an, um die Anliegen der Patienten zu besprechen."
+    },
+    {
+      "question": "Welche Therapieangebote gibt es bei Nicole Marx?",
+      "answer": "Nicole Marx bietet eine Kombination aus Bewegung, Entspannung, Ernährung und Naturheilkunde an, einschließlich Beckenbodenbehandlungen und Yogatherapie."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRcZ70WdHqEcR8II7e8MqNj0"
 }

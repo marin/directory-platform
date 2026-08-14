@@ -2,8 +2,8 @@
   "id": "zeit-fur-gesundheit-sophia-broggi",
   "slug": "zeit-fur-gesundheit-sophia-broggi",
   "name": "Zeit für Gesundheit - Sophia Broggi",
-  "description": "Zeit für Gesundheit - Sophia Broggi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis \"Zeit für Gesundheit\" von Sophia Broggi in Berlin-Pankow stehen ganzheitliche Ansätze der Naturheilkunde im Mittelpunkt. Die Praxis bietet eine Vielzahl von Behandlungen an, darunter Akupunktur, klassische Massagen und individuelle Therapieplanerstellungen. Sophia Broggi kombiniert ihre Expertise als Heilpraktikerin und Physiotherapeutin, um Patienten auf ihrem Weg zu mehr Gesundheit und Lebensqualität zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "015209620977",
   "email": "info@naturheilpraxis-zfg.de",
   "website": "http://www.naturheilpraxis-zfg.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/sophia-broggi?utm_campaign=website-button&utm_source=sophia-broggi-website-button&utm_medium=referral&utm_content=option-8&utm_term=sophia-broggi",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,92 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlung",
+      "price": 30,
+      "priceLabel": "30€"
+    },
+    {
+      "id": "offer-2",
+      "name": "Infusionen: 80-",
+      "price": 150,
+      "priceLabel": "150€"
+    },
+    {
+      "id": "offer-3",
+      "name": "Injektionen: 30-",
+      "price": 60,
+      "priceLabel": "60€"
+    },
+    {
+      "id": "offer-4",
+      "name": "Baunscheidtieren oder Schröpfen",
+      "price": 60,
+      "priceLabel": "60€"
+    },
+    {
+      "id": "offer-5",
+      "name": "Akupunktur",
+      "price": 40,
+      "priceLabel": "40€"
+    },
+    {
+      "id": "offer-6",
+      "name": "Laborauswertung & Therapieplanerstellung",
+      "price": 90,
+      "priceLabel": "90€"
+    },
+    {
+      "id": "offer-7",
+      "name": "Metavital Scan/Behandlung 90- je nach Zeitaufwand",
+      "price": 180,
+      "priceLabel": "180€"
+    },
+    {
+      "id": "offer-8",
+      "name": "klassische Massagen und Lymphdrainage: 60min –",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 100,
+      "priceLabel": "100€"
+    },
+    {
+      "id": "offer-9",
+      "name": "Alles auf einen Blick"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-zfg.de/wp-content/uploads/2026/06/Sophia_business-2-440x550.jpg",
+    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Sophia_broggi_frauen_heilpraxis-2_websize-534x800.jpg",
+    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Sophia_broggi_frauen_heilpraxis-11_websize-683x1024.jpg",
+    "http://naturheilpraxis-zfg.de/wp-content/uploads/2026/06/Sophia_business-2-440x550.jpg",
+    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Logo-Webseite-gross-e1696367702922-300x184.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Sophia Broggi in ihrer Naturheilpraxis an?",
+      "answer": "Sophia Broggi bietet verschiedene Behandlungen an, darunter Akupunktur, Infusionen, Injektionen, Baunscheidtieren oder Schröpfen, klassische Massagen und Lymphdrainage sowie Laborauswertungen und Therapieplanerstellungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin über die Website naturheilpraxis-zfg.de oder direkt über den Buchungslink hier vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind wie folgt: Montag von 09:00 bis 12:00, Dienstag von 09:00 bis 17:00, Mittwoch von 09:00 bis 14:00, Donnerstag von 09:00 bis 19:00 und Freitag von 09:00 bis 12:00."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für die Behandlungen?",
+      "answer": "Die Kosten für die Behandlungen variieren. Zum Beispiel kostet eine Behandlung 30€, Akupunktur 40€, und klassische Massagen 100€ für 60 Minuten. Für Kinder und Jugendliche bis zum 25. Lebensjahr werden 20€ pro angefangene Viertelstunde berechnet."
+    },
+    {
+      "question": "Kann ich ein Kennenlerngespräch vereinbaren?",
+      "answer": "Ja, Sie können ein 15-minütiges Kennenlerngespräch mit Sophia Broggi vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTadfqNPqEcRL-8vx7yBK1M",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-und-kinderosteopathie-kerstin-grutzmacher",
   "slug": "praxis-fur-osteopathie-und-kinderosteopathie-kerstin-grutzmacher",
   "name": "Praxis für Osteopathie und Kinderosteopathie Kerstin Grützmacher",
-  "description": "Praxis für Osteopathie und Kinderosteopathie Kerstin Grützmacher ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie und Kinderosteopathie Kerstin Grützmacher befindet sich im Prinzenviertel in Karlshorst, Berlin. Hier werden osteopathische Behandlungen für Erwachsene und Kinder angeboten, die auf einer umfassenden Ausbildung basieren. Die Praxis legt Wert auf individuelle Betreuung und unterstützt die Patienten auf ihrem Weg zu mehr Gesundheit und Wohlbefinden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -26,7 +26,32 @@
   "email": "mail@kerstin-gruetzmacher.de",
   "website": "http://www.kerstin-gruetzmacher.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "im Prinzenviertel in Karlshorst!"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Osteopathie von Kerstin Grützmacher?",
+      "answer": "Die Praxis befindet sich in der Ehrlichstraße 15, 10318 Berlin, im Prinzenviertel in Karlshorst."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 0179 355 21 82 oder per E-Mail an mail@kerstin-gruetzmacher.de vereinbaren."
+    },
+    {
+      "question": "Erstattet meine Krankenkasse die osteopathische Behandlung?",
+      "answer": "Ob und unter welchen Voraussetzungen Ihre Krankenkasse Osteopathie erstattet, sollten Sie vor Behandlungsbeginn klären. Gesetzliche Krankenkassen übernehmen teilweise die Kosten, während private Krankenversicherungen die Kosten direkt oder über die Gebührenordnung der Heilpraktiker erstatten, sofern dies in Ihrem Vertrag enthalten ist."
+    },
+    {
+      "question": "Welche Therapien werden in der Praxis angeboten?",
+      "answer": "In der Praxis wird Osteopathie sowie neuromotorische Entwicklungsförderung angeboten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYQrt39BIqEcRWs2UcnwSIOo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

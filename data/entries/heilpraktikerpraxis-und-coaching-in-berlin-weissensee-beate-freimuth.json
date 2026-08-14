@@ -2,8 +2,8 @@
   "id": "heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth",
   "slug": "heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth",
   "name": "Heilpraktikerpraxis und Coaching in Berlin Weißensee - Beate Freimuth",
-  "description": "Heilpraktikerpraxis und Coaching in Berlin Weißensee - Beate Freimuth ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktikerpraxis von Beate Freimuth in Berlin Weißensee bietet eine ganzheitliche therapeutische Begleitung in den Bereichen Craniosacrale Osteopathie, integrative Gestalt- und Körpertherapie sowie Heilarbeit. Ziel der Praxis ist es, den Klienten zu helfen, sich selbst zu erkennen und zu spüren, was sie wirklich wollen, um ein erfülltes Leben zu führen. Beate Freimuth unterstützt Menschen auf ihrem individuellen Heilungsweg und schafft einen Raum für persönliche Transformation und innere Heilung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,8 +26,50 @@
   },
   "phone": "017684711522",
   "website": "http://www.praxis-freimuth.de/",
+  "bookingUrl": "https://praxis-freimuth.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erinnere dich, wer und was du in Wahrheit bist"
+    },
+    {
+      "id": "offer-2",
+      "name": "Meine Begleitung für Dein erfülltes SEIN"
+    },
+    {
+      "id": "offer-3",
+      "name": "Du bist richtig bei mir, wenn ..."
+    },
+    {
+      "id": "offer-4",
+      "name": "Heilung kann nicht gemacht werden - Heilung geschieht"
+    }
+  ],
+  "images": [
+    "https://praxis-freimuth.de/wp-content/uploads/2025/11/IMG_9911-2-3-768x1024.jpeg",
+    "https://praxis-freimuth.de/wp-content/uploads/elementor/thumbs/IMG_2875-2-rmoiy2p0gc5w8dtmyvmdgsvm0i6azb9t2suec62czk.jpeg",
+    "https://praxis-freimuth.de/wp-content/uploads/2025/11/IMG_8834-2.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet die Heilpraktikerpraxis von Beate Freimuth an?",
+      "answer": "Die Praxis bietet therapeutische Leistungen in Craniosacraler Osteopathie, integrativer Gestalt- und Körpertherapie sowie Heilarbeit an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Beate Freimuth?",
+      "answer": "Die Praxis befindet sich in der Mahlerstraße 35, 13088 Berlin, Weißensee."
+    },
+    {
+      "question": "Was ist das Ziel der therapeutischen Begleitung in dieser Praxis?",
+      "answer": "Das Ziel der therapeutischen Begleitung ist es, Menschen auf ihrem individuellen Heilungsweg zu unterstützen, sie zu ermutigen, sich selbst zu spüren und ihre Wahrheit zu erkennen."
+    },
+    {
+      "question": "Wie kann ich Beate Freimuth kontaktieren?",
+      "answer": "Beate Freimuth kann telefonisch unter 017684711522 oder über die Website http://www.praxis-freimuth.de/ kontaktiert werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJg0Ba1Q1OqEcR933_FLpwWb4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

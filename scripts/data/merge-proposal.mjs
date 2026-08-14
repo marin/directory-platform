@@ -12,15 +12,20 @@ if (!slug) {
 }
 
 const candidatePath = join(ROOT, `work/staging/candidates/${slug}.json`);
-const scrapePath = join(ROOT, `work/scrapes/firecrawl/${slug}/homepage.json`);
+const manifestPath = join(ROOT, `work/scrapes/firecrawl/${slug}/manifest.json`);
 const publishedPath = join(ROOT, `data/entries/${slug}.json`);
 
 const discovered = existsSync(candidatePath)
   ? JSON.parse(readFileSync(candidatePath, "utf-8"))
   : {};
-const extracted = existsSync(scrapePath)
-  ? JSON.parse(readFileSync(scrapePath, "utf-8")).extracted ?? {}
-  : {};
+
+const extracted = {};
+if (existsSync(manifestPath)) {
+  console.warn(
+    `Markdown scrape found for ${slug} — structured merge skipped. ` +
+      "Run data:generate on homepage.md to produce enriched fields.",
+  );
+}
 const current = existsSync(publishedPath)
   ? JSON.parse(readFileSync(publishedPath, "utf-8"))
   : undefined;

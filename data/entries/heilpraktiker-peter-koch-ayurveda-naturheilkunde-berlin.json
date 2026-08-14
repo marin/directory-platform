@@ -2,8 +2,8 @@
   "id": "heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin",
   "slug": "heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin",
   "name": "Heilpraktiker Peter Koch – Ayurveda & Naturheilkunde Berlin",
-  "description": "Heilpraktiker Peter Koch – Ayurveda & Naturheilkunde Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis von Heilpraktiker Peter Koch in Berlin wird ayurvedische Therapie auf Grundlage des traditionellen indischen Medizinsystems angeboten. Der Fokus liegt auf individueller Diagnostik und ursachenorientierter Behandlung, die sowohl ayurvedische als auch naturheilkundliche Methoden umfasst. Zu den angebotenen Therapien gehören unter anderem Entgiftungskuren und ayurvedische Anwendungen, die durch Puls- und Augendiagnose ergänzt werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,102 @@
       "close": "18:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Entgiftungskur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Panchakarma Kur – das Aushängeschild Ayurvedas"
+    },
+    {
+      "id": "offer-3",
+      "name": "Traditionelle Vorgehensweise einer Ayurveda Detox Kur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Es gibt zwei Arten von Toxine"
+    },
+    {
+      "id": "offer-5",
+      "name": "Wasserlösliche",
+      "description": "Ausscheidung über Nieren über den Urin."
+    },
+    {
+      "id": "offer-6",
+      "name": "Fettlösliche",
+      "description": "dafür wird innerlich Öl ( Ghee) verabreicht. Dies dringt in das tiefere Gewebe ein und verbindet sich mit den fettlöslichen Toxine. Es soll letztlich über den Stuhl ausgeschieden werden."
+    },
+    {
+      "id": "offer-7",
+      "name": "Ablauf einer ayurvedischen Behandlung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Elemente der Behandlung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Pulsdiagnose"
+    },
+    {
+      "id": "offer-10",
+      "name": "Augendiagnose"
+    },
+    {
+      "id": "offer-11",
+      "name": "East meets West - westliche Heilkräuter"
+    },
+    {
+      "id": "offer-12",
+      "name": "Zusammenarbeit mit der Ayushakti Klinik"
+    },
+    {
+      "id": "offer-13",
+      "name": "Nasya - Nasennebenhöhlenbehandlung"
+    },
+    {
+      "id": "offer-14",
+      "name": "Basti - Einlauf"
+    },
+    {
+      "id": "offer-15",
+      "name": "Netra Basti - Augenbehandlung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ayurveda hat sich bei folgenden Erkrankungen bewährt"
+    }
+  ],
+  "images": [
+    "http://heilkunde-ayurveda.de/wp-content/uploads/2016/10/Ayurveda-02.jpg",
+    "http://heilkunde-ayurveda.de/wp-content/uploads/2016/10/netra_basti.jpg",
+    "https://www-static.heilkunde-ayurveda.de/wp-content/uploads/2016/10/Ayurveda-02.jpg?media=1778672442"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktiker Peter Koch an?",
+      "answer": "Heilpraktiker Peter Koch bietet verschiedene Therapien an, darunter Entgiftungskuren, Panchakarma Kuren, traditionelle ayurvedische Detox Kuren sowie ayurvedische Anwendungen wie Nasya und Basti."
+    },
+    {
+      "question": "Wie läuft eine ayurvedische Behandlung ab?",
+      "answer": "Nach einem ausführlichen Gespräch sowie der Puls- und Augendiagnose wird ein individueller Therapieplan erstellt, der Ernährungs- und Lifestyle-Empfehlungen beinhaltet, abgestimmt auf die Beschwerden und die spezielle Konstitution des Patienten."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 18:30 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Website von Heilpraktiker Peter Koch buchen, indem Sie den Kontaktlink auf https://heilkunde-ayurveda.de/kontakt/ nutzen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktiker Peter Koch?",
+      "answer": "Die Praxis befindet sich in der Nostitzstraße 33, 10965 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlcoh8ydQqEcRn4OMSqbqJo0",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 19
 }

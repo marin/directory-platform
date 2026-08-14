@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier",
   "slug": "praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier",
   "name": "Praxis für Naturheilkunde & Körpertherapie Heilpraktiker Christian Maier",
-  "description": "Praxis für Naturheilkunde & Körpertherapie Heilpraktiker Christian Maier ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde & Körpertherapie von Heilpraktiker Christian Maier befindet sich seit 2010 in Berlin Prenzlauer Berg. Mit über 15 Jahren Erfahrung in Naturheilverfahren, Pflanzenheilkunde und Massagen bietet die Praxis seit 2024 auch osteopathische Behandlungen an. Die Kombination von Osteopathie und Naturheilkunde ermöglicht eine individuelle Therapie für akute und chronische Erkrankungen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,55 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "auf den Seiten der Praxis für Naturheilkunde & Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "NEU! Osteopathische Behandlungen in Schöneberg und Panketal"
+    },
+    {
+      "id": "offer-3",
+      "name": "Praxis Sinclair (Schöneberg)"
+    },
+    {
+      "id": "offer-4",
+      "name": "GesuVital Gesundheitszentrum (Panketal)"
+    },
+    {
+      "id": "offer-5",
+      "name": "Sommer-/ Winterlinde (Tiliae ssp.)"
+    }
+  ],
+  "images": [
+    "http://www.naturheilkundepraxis-berlin.de/images/praxis_01_360.jpg",
+    "http://www.naturheilkundepraxis-berlin.de/images/galerie/lindenbluete_02.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktiker Christian Maier an?",
+      "answer": "Heilpraktiker Christian Maier bietet Naturheilverfahren, Pflanzenheilkunde, Massagen sowie osteopathische Behandlungen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Christian Maier?",
+      "answer": "Die Praxis für Naturheilkunde & Körpertherapie befindet sich in der Liselotte-Herrmann-Straße 3, 10407 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat montags von 09:00 bis 13:00 und von 14:30 bis 19:00 Uhr sowie donnerstags von 09:00 bis 13:00 und von 14:30 bis 19:00 Uhr geöffnet. Samstags ist die Praxis von 10:00 bis 16:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03096512942 oder per E-Mail an info@naturheilkundepraxis-berlin.de vereinbaren."
+    },
+    {
+      "question": "Welche neuen Angebote gibt es in der Praxis?",
+      "answer": "Neu in der Praxis sind osteopathische Behandlungen, die seit 2024 angeboten werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVQ68A5OqEcRjXu_YZvp5v8",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 5
 }

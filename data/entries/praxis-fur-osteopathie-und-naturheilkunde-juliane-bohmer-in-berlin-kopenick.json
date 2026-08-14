@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-und-naturheilkunde-juliane-bohmer-in-berlin-kopenick",
   "slug": "praxis-fur-osteopathie-und-naturheilkunde-juliane-bohmer-in-berlin-kopenick",
   "name": "Praxis für Osteopathie und Naturheilkunde Juliane Böhmer in Berlin-Köpenick",
-  "description": "Praxis für Osteopathie und Naturheilkunde Juliane Böhmer in Berlin-Köpenick ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Osteopathie und Naturheilkunde Juliane Böhmer in Berlin-Köpenick steht der ganzheitliche Ansatz im Mittelpunkt der Behandlung. Die Heilpraktikerin nimmt sich Zeit, um die individuellen Beschwerden ihrer Patienten umfassend zu erfassen und gemeinsam ein passendes Therapiekonzept zu entwickeln. Neben der Osteopathie werden auch verschiedene naturheilkundliche Methoden angeboten, um die Gesundheit und das Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -28,6 +28,33 @@
   "website": "http://www.osteopathie-naturheilkunde-koepenick.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.osteopathie-naturheilkunde-koepenick.de/resources/_wsb_613x407_aaa01+Rand++++++.png",
+    "http://www.osteopathie-naturheilkunde-koepenick.de/resources/_wsb_621x414_aaa03+Rand-paint.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Osteopathie und Naturheilkunde von Juliane Böhmer?",
+      "answer": "Die Praxis befindet sich in der Wendenschloßstraße 437a, 12557 Berlin-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Bitte vereinbaren Sie telefonisch einen Termin unter der Nummer 03064897272. Sollte die Praxis nicht erreichbar sein, können Sie einen kostenfreien Rückrufservice nutzen, indem Sie Ihre Telefonnummer und Ihren Namen hinterlassen."
+    },
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden verschiedene Diagnose- und Behandlungsmethoden kombiniert, um ein individuelles Therapiekonzept für die Patienten zu erstellen. Dazu gehören Osteopathie und naturheilkundliche Ansätze."
+    },
+    {
+      "question": "Kann ich in der Praxis auch bei schweren Erkrankungen behandelt werden?",
+      "answer": "Die Praxis nimmt Patienten mit allen Fragen, Befindlichkeiten und Erkrankungen auf, jedoch kann nicht garantiert werden, dass eine Behandlung zur Heilung oder Linderung führt. Bestimmte Erkrankungen, wie bestimmte Infektionskrankheiten, dürfen vom Heilpraktiker nicht behandelt werden."
+    },
+    {
+      "question": "Wie lange dauert eine Behandlung in der Praxis?",
+      "answer": "Die Dauer einer Behandlung hängt von den individuellen Bedürfnissen des Patienten ab. Zeit ist ein wichtiger Faktor, weshalb ausreichend Zeit für die Behandlung eingeplant wird."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7TODl3RIqEcRawwhbaJ2Qi4",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 13
 }

@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-und-asthetik-heilpraktikerin-cornelia-zoll",
   "name": "Praxis für Naturheilkunde und Ästhetik | Heilpraktikerin Cornelia Zoll",
   "description": "Praxis für Naturheilkunde und Ästhetik | Heilpraktikerin Cornelia Zoll ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -42,6 +42,11 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/s71250a4d3cfc6d8c/image/i05fd5197ade46646/version/1556104215/image.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjfvZkCVVqEcRkHFKqlRDBQM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

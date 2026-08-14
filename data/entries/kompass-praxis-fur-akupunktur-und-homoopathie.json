@@ -2,8 +2,8 @@
   "id": "kompass-praxis-fur-akupunktur-und-homoopathie",
   "slug": "kompass-praxis-fur-akupunktur-und-homoopathie",
   "name": "kompass. Praxis für Akupunktur und Homöopathie",
-  "description": "kompass. Praxis für Akupunktur und Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die kompass. Praxis für Akupunktur und Homöopathie befindet sich in Berlin-Kreuzberg und bietet individuelle Behandlungen in den Bereichen Akupunktur, Homöopathie und Ernährungsberatung an. Durch personalisierte Therapien, die auf die spezifischen Bedürfnisse der Patienten abgestimmt sind, wird die Aktivierung der Selbstheilungskräfte gefördert. Die Praxis legt besonderen Wert auf eine ganzheitliche Betrachtung der Gesundheit, einschließlich körperlicher, geistiger und seelischer Aspekte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -65,6 +65,35 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://kompasspraxis-kreuzberg.de/wp-content/uploads/2023/11/IMG_6438_9-2048x1455.jpg",
+    "https://kompasspraxis-kreuzberg.de/wp-content/uploads/2024/07/kompass_praxis_akupunktur-2048x1455.jpg",
+    "https://kompasspraxis-kreuzberg.de/wp-content/themes/kom/lib/images/logo.png",
+    "https://kompasspraxis-kreuzberg.de/wp-content/themes/kom/lib/images/logo-active.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die kompass. Praxis für Akupunktur und Homöopathie an?",
+      "answer": "Die Praxis bietet Akupunktur, Homöopathie und Ernährungsberatung an."
+    },
+    {
+      "question": "Wo befindet sich die kompass. Praxis für Akupunktur und Homöopathie?",
+      "answer": "Die Praxis befindet sich in der Fichtestraße 12, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen: https://www.doctolib.de/heilpraktiker/berlin/petra-reichensperger-3bcdfec1-f3da-463d-b1b1-257633ffbf0e."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag 11:00 - 15:30, Dienstag 12:00 - 21:30, Mittwoch 10:00 - 12:00, Donnerstag 11:30 - 17:00, Freitag 13:00 - 17:00, Samstag 10:30 - 15:30, Sonntag 11:00 - 17:00."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 015231097732 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuTvRJuVPqEcRq18Q4nFlv-0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31
 }

@@ -2,8 +2,8 @@
   "id": "klassische-homoopathie-clementina-rabuffetti",
   "slug": "klassische-homoopathie-clementina-rabuffetti",
   "name": "Klassische Homöopathie Clementina Rabuffetti",
-  "description": "Klassische Homöopathie Clementina Rabuffetti ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für klassische Homöopathie von Clementina Rabuffetti in Berlin-Charlottenburg werden seit über 36 Jahren individuelle Behandlungen für Kinder und Erwachsene angeboten. Die Schwerpunkte liegen auf Schilddrüsen- und Autoimmunerkrankungen, Allergien sowie Kinderwunsch. Durch eine umfassende Erstanamnese und gezielte Arzneiwahl wird die Lebenskraft der Patienten aktiviert und die Selbstheilung gefördert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -25,6 +25,7 @@
   },
   "phone": "0307813904",
   "website": "https://rabuffetti.de/",
+  "bookingUrl": "https://rabuffetti.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,70 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schilddrüse & Autoimmun-Erkrankungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Allergien"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-4",
+      "name": "Der Mensch individuell betrachtet"
+    },
+    {
+      "id": "offer-5",
+      "name": "Erstanamnese ✺ Arzneiwahl ✺ Heilungsverlauf"
+    },
+    {
+      "id": "offer-6",
+      "name": "Behandlungsfelder der Homöopathie-Praxis"
+    },
+    {
+      "id": "offer-7",
+      "name": "Homöopathie-Verband & Zertifizierung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Gern für Sie da"
+    }
+  ],
+  "images": [
+    "https://rabuffetti.de/wp-content/uploads/2022/01/klassische-homoeopathie-charlottenburg.jpg",
+    "https://rabuffetti.de/wp-content/uploads/2022/01/klassische-homoeopathie-charlottenburg-wilmersdorf.jpg",
+    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-schilddruese-berlin-charlottenburg-1.jpg",
+    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-allergie-berlin-charlottenburg-1.jpg",
+    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-kinderwunsch-berlin-charlottenburg-1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet die Praxis von Clementina Rabuffetti an?",
+      "answer": "Die Praxis von Clementina Rabuffetti bietet Behandlungsschwerpunkte in den Bereichen Schilddrüse & Autoimmun-Erkrankungen, Allergien, Kinderwunsch sowie eine individuelle Betrachtung des Menschen an."
+    },
+    {
+      "question": "Wie lange dauert die Erstanamnese in der Praxis?",
+      "answer": "Die Erstanamnese dauert in der Praxis von Clementina Rabuffetti etwa 2 Stunden."
+    },
+    {
+      "question": "An welchen Tagen hat die Praxis geöffnet?",
+      "answer": "Die Praxis ist montags, dienstags, donnerstags und freitags von 10:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Einen Termin in der Praxis können Sie über die Webseite unter dem Kontaktformular buchen: https://rabuffetti.de/kontakt/."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Clementina Rabuffetti?",
+      "answer": "Die Praxis befindet sich in der Berliner Straße 140, 10715 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2S0MJ4tQqEcRb0a-pSmBp_w",
+  "googleMapsRating": 3.4,
+  "googleMapsRatingsCount": 5
 }

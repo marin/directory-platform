@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-berlin",
   "slug": "praxis-fur-naturheilkunde-berlin",
   "name": "Praxis für Naturheilkunde Berlin",
-  "description": "Praxis für Naturheilkunde Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Berlin, geleitet von Heilpraktikerin Gudrun Reinhild Pawelke, bietet individuelle und ganzheitliche Ansätze zur Gesundheitsförderung. Durch umfassende Anamnese und ursachenorientierte Analysen werden die Selbstheilungskräfte der Patienten aktiviert. Die Praxis spezialisiert sich auf verschiedene Therapieformen, darunter BMS-Kinesiologie, neurobiologischer Stressabbau, Kinderheilkunde und Mitochondrien Systemtherapie, um gezielt auf die Bedürfnisse jedes Einzelnen einzugehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,46 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Umfassende Anamnese"
+    },
+    {
+      "id": "offer-2",
+      "name": "Selbstheilungskräfte aktivieren"
+    },
+    {
+      "id": "offer-3",
+      "name": "Die Gesundheitskraft freilegen"
+    }
+  ],
+  "images": [
+    "http://praxis-fuer-naturheilkunde-berlin.de/img/_page/01_header_HP_06_09_17.png",
+    "http://praxis-fuer-naturheilkunde-berlin.de/img/_page/01_gudrun_HP_05_10_17.png",
+    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_top_HP_06_09_17.png",
+    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_mid_HP_06_09_17.png",
+    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_low_HP_06_09_17.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis für Naturheilkunde Berlin an?",
+      "answer": "Die Praxis bietet umfassende Anamnese, ursachenorientierte Analyse, Aktivierung der Selbstheilungskräfte und das Freilegen der Gesundheitskraft an."
+    },
+    {
+      "question": "Wann hat die Praxis für Naturheilkunde Berlin geöffnet?",
+      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 09:00 bis 18:00 Uhr, Mittwoch und Donnerstag von 14:00 bis 18:00 Uhr, sowie Freitag von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Berlin?",
+      "answer": "Die Praxis befindet sich in der Kreuzbergstraße 45, 10965 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich die Praxis für Naturheilkunde Berlin kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03070094074 oder per E-Mail an info@praxis-fuer-naturheilkunde-berlin.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu2goLjtQqEcReVarUrQhvRY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

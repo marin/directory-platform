@@ -3,7 +3,7 @@
   "slug": "daniela-schmidt-heilpraktikerin-fur-psychotherapie-und-massage",
   "name": "Daniela Schmidt Heilpraktikerin für Psychotherapie und Massage",
   "description": "Daniela Schmidt Heilpraktikerin für Psychotherapie und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,7 +26,17 @@
   "phone": "017641698528",
   "website": "http://www.danielaschmidt.berlin/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Und jedem Anfang wohnt ein Zauber inne..."
+    }
+  ],
+  "images": [
+    "http://www.danielaschmidt.berlin/img/wald.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMY_HfuZRqEcRaHL6Mgj0miU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 22
 }

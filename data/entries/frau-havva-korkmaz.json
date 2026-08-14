@@ -2,8 +2,8 @@
   "id": "frau-havva-korkmaz",
   "slug": "frau-havva-korkmaz",
   "name": "Frau Havva Korkmaz",
-  "description": "Frau Havva Korkmaz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Havva Korkmaz führt seit über 20 Jahren eine Naturheilpraxis in Berlin-Friedenau. In ihrer Praxis bietet sie ein breites Spektrum an traditionellen und modernen Therapiemethoden an, darunter Dorn-Therapie, Orthomolekulare Medizin, Ernährungsberatung sowie Akupunktur. Ihr Ziel ist es, individuelle Unterstützung zu leisten und eine solide Basis für das zukünftige Wohlbefinden ihrer Patientinnen und Patienten zu schaffen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,67 @@
   "phone": "0308551791",
   "website": "http://www.havvakorkmaz.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapieansatz"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dorn-Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Orthomolekular Medizin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ernährungsberatung, Entgiftung, Entsäuerung und Darmsanierung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-6",
+      "name": "Akupunktur nach Prof. Boel (bei allen Augenkrankheiten)"
+    },
+    {
+      "id": "offer-7",
+      "name": "Eichotherm (Lichttherapie)"
+    },
+    {
+      "id": "offer-8",
+      "name": "Medi-Tape"
+    }
+  ],
+  "images": [
+    "http://www.havvakorkmaz.de/images/content/home_pic_1.jpg",
+    "http://www.havvakorkmaz.de/images/main/logo_havva_korkmaz_heilpraktikerin.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapiemethoden bietet Frau Havva Korkmaz an?",
+      "answer": "Frau Havva Korkmaz bietet eine Vielzahl von Therapiemethoden an, darunter Dorn-Therapie, Orthomolekulare Medizin, Ernährungsberatung, Entgiftung, Entsäuerung, Darmsanierung, Akupunktur, Akupunktur nach Prof. Boel, Eichotherm (Lichttherapie) und Medi-Tape."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Frau Korkmaz?",
+      "answer": "Die Naturheilpraxis von Frau Havva Korkmaz befindet sich in der Cranachstraße 2, 12157 Berlin, im Stadtteil Friedenau."
+    },
+    {
+      "question": "Wie kann ich Frau Korkmaz kontaktieren?",
+      "answer": "Sie können Frau Havva Korkmaz telefonisch unter 0308551791 erreichen oder ihre Website unter http://www.havvakorkmaz.de/ besuchen."
+    },
+    {
+      "question": "Wie lange praktiziert Frau Korkmaz bereits als Heilpraktikerin?",
+      "answer": "Frau Havva Korkmaz führt ihre Naturheilpraxis seit mehr als 20 Jahren."
+    },
+    {
+      "question": "Bietet Frau Korkmaz auch Behandlungen für Augenkrankheiten an?",
+      "answer": "Ja, Frau Havva Korkmaz bietet Akupunktur nach Prof. Boel an, die speziell bei allen Augenkrankheiten eingesetzt wird."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH7dBrXZQqEcRZK3B9Rlq7Hk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

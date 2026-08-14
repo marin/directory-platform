@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-yogatherapie-constanze-ziaja",
   "name": "Praxis für Osteopathie & Yogatherapie - Constanze Ziaja",
   "description": "Praxis für Osteopathie & Yogatherapie - Constanze Ziaja ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -26,6 +26,11 @@
   "website": "https://www.osteo-yoga.com/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://osteo-yoga.com/wp-content/uploads/2019/02/Logo_Osteopathie.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1bcTFddFqEcRIAEmggOrQ24",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

@@ -2,8 +2,8 @@
   "id": "heilpraxis-wittke",
   "slug": "heilpraxis-wittke",
   "name": "Heilpraxis Wittke",
-  "description": "Heilpraxis Wittke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Wittke in Berlin-Steglitz-Zehlendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen. Zu den Schwerpunkten zählen die Spezialblutuntersuchung im Dunkelfeld, Chiropraktik, Fußreflexzonentherapie sowie Ernährungsberatung und Fastenbegleitung. Darüber hinaus werden Ohrakupunktur, Unterstützung bei Rauchentwöhnung und Essstörungen sowie homöopathische Behandlungen angeboten. Die Praxis ist barrierefrei und befindet sich im 2. Obergeschoss.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,60 @@
   "phone": "03088679605",
   "website": "http://heilpraktik-dunkelfeld.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Spezialblutuntersuchung im Dunkelfeld"
+    },
+    {
+      "id": "offer-2",
+      "name": "Chiropraktik und Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährungsberatung und Fastenbegleitung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ohrakupunktur auch für"
+    },
+    {
+      "id": "offer-5",
+      "name": "Rauchentwöhnung oder"
+    },
+    {
+      "id": "offer-6",
+      "name": "Essstörungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Homöopathie"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/061061d5e6de4a44884597d45cc8c163/dms3rep/multi/opt/03122016-5-366w.jpg?Expires=1789026354&Signature=ccQ4cuBnIy2zbBdLdXBush0UprbVkVkAxYroF0pzXxPF6NMF7T2vcIhu8GNBieAxVLxjULLV86HrorntdtuD~7Ry3uHcbqG1psnVBA61OYadchgWVS0SLumd6PoNYvpYjg4pGUxSetLL9l0rx3JKfD3rZzmC1mITJ5LQ9DlUEfMR31k84PoOX-g9x5TZwhbis-W8pes6xbF4YK642GReGHD4lmxsnXhcrdrnMYTde5tnoLkbVXlbvAYr-VkIlG~GIsOnaski9T699IZVWcxzD6321rb~gPVrO2l0tfxwi4ksMh8wykAHC5EOdSnFQnbb0ytoDzS5M1zfWr1oU-pD9A__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Wittke?",
+      "answer": "Die Heilpraxis Wittke befindet sich in der Breite Str. 15, 14199 Berlin."
+    },
+    {
+      "question": "Welche Behandlungsmöglichkeiten bietet die Heilpraxis Wittke an?",
+      "answer": "Die Heilpraxis Wittke bietet unter anderem Spezialblutuntersuchungen im Dunkelfeld, Chiropraktik, Fußreflexzonentherapie, Ernährungsberatung, Fastenbegleitung, Ohrakupunktur, Rauchentwöhnung, Essstörungen und Homöopathie an."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Wittke kontaktieren?",
+      "answer": "Sie können die Heilpraxis Wittke telefonisch unter 03088679605 erreichen oder die Webseite http://heilpraktik-dunkelfeld.de/ besuchen."
+    },
+    {
+      "question": "Sind die Räumlichkeiten der Heilpraxis Wittke barrierefrei?",
+      "answer": "Ja, die Praxis ist barrierefrei und befindet sich im 2. OG mit Fahrstuhl."
+    },
+    {
+      "question": "Gibt es Öffnungszeiten für die Heilpraxis Wittke?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKQqi-nJRqEcR2yF18pAw02Y"
 }

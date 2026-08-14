@@ -2,8 +2,8 @@
   "id": "praxis-fur-gestaltungstherapie-klinische-kunsttherapie-anke-andrea-eckert-heilpr",
   "slug": "praxis-fur-gestaltungstherapie-klinische-kunsttherapie-anke-andrea-eckert-heilpr",
   "name": "Praxis für Gestaltungstherapie / Klinische Kunsttherapie Anke Andrea Eckert Heilpraktikerin Psychotherapie (HeilprG)",
-  "description": "Praxis für Gestaltungstherapie / Klinische Kunsttherapie Anke Andrea Eckert Heilpraktikerin Psychotherapie (HeilprG) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Gestaltungstherapie und Klinische Kunsttherapie von Anke Andrea Eckert befindet sich in Berlin-Köpenick. Als Heilpraktikerin für Psychotherapie bietet sie eine Vielzahl von therapeutischen Angeboten an, die auf kreativen Methoden basieren. Die Praxis legt Wert auf eine individuelle und einfühlsame Betreuung, um die psychische Gesundheit ihrer Klienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -52,7 +52,72 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "/75 Minuten",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 50.5,
+      "priceLabel": "50,50 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "/90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 66.5,
+      "priceLabel": "66,50 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "/ eine Person 2 Tage",
+      "price": 167.5,
+      "priceLabel": "167,50 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "/ zwei Personen 2 Tage Jede Person 125,50 €",
+      "price": 251,
+      "priceLabel": "251,00 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "/120 Minuten",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 34,
+      "priceLabel": "34,00 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Befundbehandlung -",
+      "price": 25,
+      "priceLabel": "25,00 €"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet die Praxis für Gestaltungstherapie an?",
+      "answer": "Die Praxis bietet verschiedene Therapieangebote an, darunter Sitzungen von 75 Minuten für 50,50 €, 90 Minuten für 66,50 €, sowie eine 120-minütige Sitzung für 34,00 €. Es gibt auch spezielle Angebote für zwei Personen über zwei Tage, wobei jede Person 125,50 € kostet."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Donnerstag von 08:00 bis 19:00 Uhr und am Freitag von 08:00 bis 16:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Gestaltungstherapie?",
+      "answer": "Die Praxis befindet sich in der Peter-Hille-Straße 121 B, 12587 Berlin, im Stadtteil Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis telefonisch unter 0306412144 vereinbaren oder die Website der Praxis besuchen."
+    },
+    {
+      "question": "Ist die Heilpraktikerin Mitglied in einem Verband?",
+      "answer": "Ja, Anke Andrea Eckert ist Mitglied im VFP e.V."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF7RqKOI3qEcRExZFl6_8CGc"
 }

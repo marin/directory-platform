@@ -2,8 +2,8 @@
   "id": "klinik-plus-naturheilkunde-und-asthetische-medizin",
   "slug": "klinik-plus-naturheilkunde-und-asthetische-medizin",
   "name": "Klinik Plus. Naturheilkunde und Ästhetische Medizin",
-  "description": "Klinik Plus. Naturheilkunde und Ästhetische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Klinik Plus in Berlin bietet eine Kombination aus ästhetischer Medizin und ganzheitlicher Naturheilkunde. Unter der Leitung von Valentina Solopow werden moderne Behandlungen zur Förderung der natürlichen Schönheit sowie umfassende Therapien für das innere Wohlbefinden angeboten. Die Praxis befindet sich in der Würzburger Straße 2 und legt großen Wert auf individuelle Betreuung und Expertise in beiden Fachbereichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,46 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Modernste ästhetische Behandlungen für Ihre natürliche Schönheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitliche Naturheiltherapien für Ihr inneres Wohlbefinden"
+    },
+    {
+      "id": "offer-3",
+      "name": "Erfolgreich zum Wunschgewicht mit unserer Stoffwechselkur"
+    }
+  ],
+  "images": [
+    "https://www.naturheil-med.de/wp-content/uploads/Klinik-plus.webp",
+    "https://www.naturheil-med.de/wp-content/uploads/Innovative_Pflege.webp",
+    "https://www.naturheil-med.de/wp-content/uploads/klinik-plus_aesthetik_small.webp",
+    "https://www.naturheil-med.de/wp-content/uploads/klinik-plus_heiltherapie_small.webp",
+    "https://www.naturheil-med.de/wp-content/uploads/Valentaina_Solopow.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Klinik Plus an?",
+      "answer": "Die Klinik Plus bietet modernste ästhetische Behandlungen für natürliche Schönheit, ganzheitliche Naturheiltherapien für inneres Wohlbefinden und eine Stoffwechselkur zur Gewichtsreduktion an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Klinik Plus?",
+      "answer": "Die Klinik Plus hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Klinik Plus?",
+      "answer": "Die Klinik Plus befindet sich in der Würzburger Str. 2, 10789 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Klinik Plus kontaktieren?",
+      "answer": "Sie können die Klinik Plus telefonisch unter 030 688 100 46 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV6JuQ1ZQqEcRmjc5RNGfJ0k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

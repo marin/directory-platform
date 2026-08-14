@@ -2,8 +2,8 @@
   "id": "praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann",
   "slug": "praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann",
   "name": "Praxis für komplementäre Medizin & Kosmetik , HP Dr. M. Kretschmann",
-  "description": "Praxis für komplementäre Medizin & Kosmetik , HP Dr. M. Kretschmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für komplementäre Medizin & Kosmetik von Dr. M. Kretschmann in Berlin-Steglitz werden Patienten, die gesund werden oder bleiben möchten, umfassend betreut. Neben naturheilkundlichen Behandlungen werden auch kosmetische Anwendungen angeboten. Dr. Kretschmann bringt seine Erfahrung aus der klassischen Schulmedizin und der alternativen Medizin ein, um individuelle Therapieansätze zu entwickeln. Die Praxis befindet sich in der Schützenstraße 8, nur wenige Minuten vom S/U-Bahnhof Rathaus Steglitz entfernt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "015678616726",
   "website": "http://www.prakomed.de/",
+  "bookingUrl": "https://calendly.com/prakomed",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,44 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gemeinsam ein starkes Team"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kontaktieren Sie mich"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/Michael+Kretschmann-1920w.jpg",
+    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/HP+Therapien-1920w.jpeg",
+    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/MediumSquareLogo-1920w.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für komplementäre Medizin & Kosmetik von Dr. M. Kretschmann?",
+      "answer": "Die Praxis befindet sich in der Schützenstraße 8, 12165 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können direkt einen Termin über den folgenden Link buchen: Termin-PrakoMed. Alternativ können Sie auch eine E-Mail mit Ihrem Anliegen senden."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 10:00 bis 14:00, Mittwoch von 10:00 bis 19:00, Donnerstag von 13:00 bis 19:00, Freitag von 10:00 bis 18:00 und Samstag von 10:00 bis 14:00."
+    },
+    {
+      "question": "Übernimmt die Krankenkasse die Kosten für die Behandlungen?",
+      "answer": "Die Kosten für einfache Heilbehandlungen richten sich nach der Gebührenordnung, und die meisten privaten Krankenkassen übernehmen die Kosten. Heilbehandlungen sind zudem von der Steuer absetzbar."
+    },
+    {
+      "question": "Wie kann ich Dr. M. Kretschmann kontaktieren?",
+      "answer": "Sie können Dr. M. Kretschmann telefonisch unter 015678616726 oder per E-Mail an prakomed@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRVR1c49aqEcRWRyxx2HVb5I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

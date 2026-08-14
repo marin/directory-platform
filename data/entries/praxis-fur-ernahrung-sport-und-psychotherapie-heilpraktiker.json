@@ -2,8 +2,8 @@
   "id": "praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker",
   "slug": "praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker",
   "name": "Praxis für Ernährung, Sport und Psychotherapie (Heilpraktiker)",
-  "description": "Praxis für Ernährung, Sport und Psychotherapie (Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Ernährung, Sport und Psychotherapie von Oliver Tonndorf befindet sich in Berlin-Zehlendorf und bietet ein integratives Therapieangebot in den Bereichen Ernährungsberatung, Bewegungstherapie und psychische Gesundheit. Mit langjähriger Erfahrung und einem ganzheitlichen Ansatz unterstützt Herr Tonndorf seine Klienten dabei, ihre Gesundheit und ihr Wohlbefinden nachhaltig zu fördern. Die Praxis kombiniert evidenzbasierte Methoden mit individueller Beratung, um maßgeschneiderte Lösungen für die Bedürfnisse jedes Einzelnen zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,64 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "/ Std.",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "120- / Std.",
+      "price": 140,
+      "priceLabel": "140 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Sport & Bewegung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Entspannung"
+    }
+  ],
+  "images": [
+    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Ern%C3%A4hrung-2.jpg",
+    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Sport-4-2.jpg",
+    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Psycho-10-2.jpg",
+    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Entspannung-15-2.jpg",
+    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/12a1086-36-x.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis für Ernährung, Sport und Psychotherapie an?",
+      "answer": "Die Praxis bietet Dienstleistungen in den Bereichen Ernährung, Sport & Bewegung sowie Psychotherapie an. Dazu gehören Ernährungsberatung, Sport- & Bewegungstherapie, integrative Psychotherapie, Entspannungsverfahren und mehr."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 015222178080 oder per E-Mail an mail@oliver-tonndorf.de vereinbaren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Düppelstraße 21 A, 14163 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Welche Preise gelten für die angebotenen Leistungen?",
+      "answer": "Die Preise für die angebotenen Leistungen liegen bei 90 € pro Stunde und 140 € für 120 Minuten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM1dUuixaqEcRDHaDBwsiMyc"
 }

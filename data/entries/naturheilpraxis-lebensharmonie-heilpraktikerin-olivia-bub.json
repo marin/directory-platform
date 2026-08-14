@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub",
   "slug": "naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub",
   "name": "Naturheilpraxis Lebensharmonie Heilpraktikerin Olivia Bub",
-  "description": "Naturheilpraxis Lebensharmonie Heilpraktikerin Olivia Bub ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Lebensharmonie, geleitet von Heilpraktikerin Olivia Bub, befindet sich im Süden Berlins und bietet eine ganzheitliche Behandlung, die körperliche, geistige und seelische Aspekte berücksichtigt. Zu den Behandlungsmethoden zählen Homöopathie, Schüßler-Salze, Organetik sowie Heilpilze (Mykotherapie). Die Praxis hat sich auf naturheilkundliche Frauen- und Kinderheilkunde spezialisiert und legt besonderen Wert auf die Wiederherstellung des Gleichgewichts bei hormonellen Beschwerden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -42,7 +42,40 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Olivia Bub Heilpraktikerin"
+    }
+  ],
+  "images": [
+    "https://www.lebensharmonie.net/wp-content/uploads/2023/04/cropped-5-2.png",
+    "https://www.lebensharmonie.net/wp-content/uploads/2025/08/about-300x199.jpg",
+    "https://www.lebensharmonie.net/wp-content/uploads/2023/04/5-300x133.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Lebensharmonie an?",
+      "answer": "Die Naturheilpraxis Lebensharmonie bietet unter anderem Homöopathie, Schüßler-Salze, Organetik und Heilpilze (Mykotherapie) an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Lebensharmonie?",
+      "answer": "Die Naturheilpraxis Lebensharmonie befindet sich in der Tautenburger Str. 23, 12249 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Lebensharmonie sind Mittwoch, Donnerstag und Freitag von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Lebensharmonie kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Lebensharmonie telefonisch unter 03068000229 oder per E-Mail an info@lebensharmonie.net kontaktieren."
+    },
+    {
+      "question": "Bietet die Praxis spezielle Behandlungen für Frauen und Kinder an?",
+      "answer": "Ja, die Naturheilpraxis Lebensharmonie hat sich auf naturheilkundliche Frauenheilkunde und naturheilkundliche Kinderheilkunde spezialisiert."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwSGzajNbqEcREDeJPj8q35k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

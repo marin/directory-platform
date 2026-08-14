@@ -2,8 +2,8 @@
   "id": "praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio",
   "slug": "praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio",
   "name": "Praxis Oliver Finck (Physiotherapeut, Heilpraktiker) Feldenkrais Osteopathie Physiotherapie",
-  "description": "Praxis Oliver Finck (Physiotherapeut, Heilpraktiker) Feldenkrais Osteopathie Physiotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Oliver Finck in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen, darunter Osteopathie, Physiotherapie und Feldenkrais. Der Heilpraktiker und Physiotherapeut Oliver Finck legt großen Wert auf individuelle Therapieansätze, um die Gesundheit und das Wohlbefinden seiner Patienten zu fördern. Neben persönlichen Behandlungen werden auch Online-Kurse und kostenlose Audio-Tutorials angeboten, die sich mit gesundheitsfördernden Themen, wie der richtigen Sitzposition beim Radfahren, befassen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -53,7 +53,50 @@
       "close": "15:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Free audio-tutorial: sitting on the bike"
+    },
+    {
+      "id": "offer-2",
+      "name": "ONLINE-COURSES"
+    },
+    {
+      "id": "offer-3",
+      "name": "Basic positions and handling on the bike"
+    }
+  ],
+  "images": [
+    "https://praxis-finck.berlin/wp-content/uploads/2022/06/DSC6769-1024x684.jpg",
+    "https://praxis-finck.berlin/wp-content/uploads/2022/06/DSC6643.jpg",
+    "https://praxis-finck.berlin/wp-content/uploads/2022/08/image1-rotated.jpeg",
+    "https://praxis-finck.berlin/wp-content/uploads/2022/08/image4.jpeg",
+    "https://praxis-finck.berlin/wp-content/uploads/2022/07/silhouette-683751-300x300.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis Oliver Finck an?",
+      "answer": "Die Praxis Oliver Finck bietet Physiotherapie, Osteopathie und Functional Integration an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Plattform Doctolib buchen. Hier ist der Link: Termin buchen via Doctolib."
+    },
+    {
+      "question": "Wann hat die Praxis Oliver Finck geöffnet?",
+      "answer": "Die Öffnungszeiten sind wie folgt: Montag 08:30 - 17:00, Dienstag 08:00 - 16:00, Mittwoch 08:30 - 18:00, Donnerstag 08:00 - 16:00, Freitag 08:30 - 15:30."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Oliver Finck?",
+      "answer": "Die Praxis befindet sich in der Körtestraße 10, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Kurse an?",
+      "answer": "Ja, die Praxis bietet Online-Kurse an, darunter einen Kurs über grundlegende Positionen und Handhabung auf dem Fahrrad."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGRtsdj1PqEcR5XCFpHB-Fxk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie",
   "slug": "heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie",
   "name": "Heilpraktikerin Katrin Kelly - Praxis für Craniosacral - und Körpertherapie",
-  "description": "Heilpraktikerin Katrin Kelly - Praxis für Craniosacral - und Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Katrin Kelly bietet in ihrer Praxis für Craniosacral- und Körpertherapie in Berlin-Friedrichshain ganzheitliche Therapien an, die auf individuelle Heilungsprozesse abzielen. Mit einem Fokus auf körperorientierte Trauma-Therapie und Leibarbeit unterstützt sie ihre Klienten dabei, eine tiefere Verbindung zu ihrem Körper und ihrer Lebensgeschichte herzustellen. Die Praxis richtet sich vorwiegend an Erwachsene und bietet auch spezielle Behandlungen für Kinder und Jugendliche an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,36 @@
   "phone": "015111224749",
   "email": "katrin@cranio-sacral-berlin.eu",
   "website": "http://www.cranio-sacral-berlin.eu/",
+  "bookingUrl": "https://katrinkelly.com/termine/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ganzheitliche Therapien für deinen Heilungsweg"
+    }
+  ],
+  "images": [
+    "https://katrinkelly.com/wp-content/uploads/ganzheitliche-therapie-berlin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Heilpraktikerin Katrin Kelly an?",
+      "answer": "Katrin Kelly bietet ganzheitliche Therapien für deinen Heilungsweg an, darunter Craniosacrale- und körperorientierte Trauma-Therapie sowie Leibarbeit."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Katrin Kelly?",
+      "answer": "Die Praxis befindet sich in der Bänschstraße 59, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Bietet Katrin Kelly auch Behandlungen für Kinder an?",
+      "answer": "Ja, Katrin Kelly behandelt vorwiegend Erwachsene, bietet jedoch auch Behandlungen für Kinder und Jugendliche an."
+    },
+    {
+      "question": "Kann ich auch auf Englisch behandelt werden?",
+      "answer": "Ja, Katrin Kelly bietet ihre Behandlungen auch auf Englisch an, falls dies für dich angenehmer ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7yI8X29OqEcRFqM-rPgEp_I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

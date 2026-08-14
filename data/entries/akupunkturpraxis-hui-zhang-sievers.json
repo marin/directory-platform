@@ -2,8 +2,8 @@
   "id": "akupunkturpraxis-hui-zhang-sievers",
   "slug": "akupunkturpraxis-hui-zhang-sievers",
   "name": "Akupunkturpraxis Hui Zhang-Sievers",
-  "description": "Akupunkturpraxis Hui Zhang-Sievers ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Akupunkturpraxis Hui Zhang-Sievers in Berlin-Friedenau bietet umfassende Behandlungen im Bereich der Traditionellen Chinesischen Medizin (TCM) an. Unter der Leitung von Heilpraktikerin Hui Zhang-Sievers, die über 30 Jahre klinische Erfahrung verfügt, wird ein ganzheitlicher Ansatz verfolgt, der Akupunktur, chinesische Kräutermedizin, Tuina-Therapie, Ernährungstherapie und Bewegungstherapien umfasst. Die Praxis legt großen Wert auf individuelle Betreuung und die Förderung des natürlichen Gleichgewichts der Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
@@ -48,7 +48,54 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Unsere Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Anamnese & Preise"
+    },
+    {
+      "id": "offer-3",
+      "name": "Lernen Sie die Akupunktur Praxis Berlin-Friedenau kennen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Veranstaltungen"
+    }
+  ],
+  "images": [
+    "https://akupunktur-praxis.berlin/wp-content/uploads/2025/03/DSC07442-683x1024.webp",
+    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/DSC08906-r9tqazg5hkvy1k4eqnowlm7et186fgfv5rybllm0pg.webp",
+    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/Zhang-21-scaled-r9tqh91f1tgrfz0q5d7d81a1dic9qtbg0sius0bj84.webp",
+    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/DSC08821-r9tqajgw9ea2k6rmbys8x88kphexsloffkv2fw9pn8.webp",
+    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/fzkbdh3466_close-up_of_a_Single_person_practicing_Qi-Gong_or__2cd72f18-2509-4963-bfb5-af55b860244b_2-r9tid0zqc1fm07hoj1uu1rz4x2o8qd7l6f4jn5lpn8.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Akupunkturpraxis Hui Zhang-Sievers an?",
+      "answer": "Die Praxis bietet verschiedene Therapien der Traditionellen Chinesischen Medizin (TCM) an, darunter Akupunktur, Chinesische Kräutermedizin, Tuina-Therapie, Ernährungstherapie nach den fünf Elementen und Bewegungstherapien wie Qi Gong."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin direkt über Doctolib buchen oder die Praxis telefonisch unter 03047393735 kontaktieren."
+    },
+    {
+      "question": "Wann hat die Akupunkturpraxis geöffnet?",
+      "answer": "Die Praxis hat dienstags bis freitags von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Akupunkturpraxis Hui Zhang-Sievers?",
+      "answer": "Die Praxis befindet sich in Berlin-Friedenau, Südwestkorso 8, 12161 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis per E-Mail unter info@huizhang.de oder telefonisch unter 03047393735 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUdLHS3JRqEcRkOvOdrA7zZk",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 301
 }

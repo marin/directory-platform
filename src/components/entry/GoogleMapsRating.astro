@@ -1,0 +1,114 @@
+---
+import siteConfig from "../../../config/site.config.ts";
+import {
+  formatGoogleMapsRating,
+  formatGoogleMapsRatingsCount,
+} from "../../lib/geo/google-maps-rating.ts";
+
+interface Props {
+  rating: number;
+  ratingsCount: number;
+  mapsUrl?: string;
+  variant?: "default" | "compact" | "profile";
+}
+
+const { rating, ratingsCount, mapsUrl, variant = "default" } = Astro.props;
+const locale = siteConfig.site.defaultLocale;
+const formattedRating = formatGoogleMapsRating(rating, locale);
+const formattedCount = formatGoogleMapsRatingsCount(ratingsCount, locale);
+const ratingLabel = `${formattedRating} von 5 Sternen auf Google Maps`;
+const countLabel =
+  variant === "compact" ? `(${formattedCount})` : `${formattedCount} Bewertungen`;
+---
+
+<div
+  class:list={[
+    "gmp-rating",
+    { "gmp-rating--compact": variant === "compact", "gmp-rating--profile": variant === "profile" },
+  ]}
+  data-testid="google-maps-rating"
+>
+  <p class="gmp-rating-line">
+    <span class="gmp-rating-score" aria-label={ratingLabel}>
+      <span class="gmp-rating-star" aria-hidden="true">★</span>
+      <strong>{formattedRating}</strong>
+    </span>
+    <span class="gmp-rating-count muted">{countLabel}</span>
+    {
+      mapsUrl && (
+        <a
+          href={mapsUrl}
+          class="gmp-attribution"
+          target="_blank"
+          rel="noopener noreferrer"
+          translate="no"
+          data-testid="google-maps-attribution"
+        >
+          Google Maps
+        </a>
+      )
+    }
+  </p>
+  {
+    variant === "profile" && mapsUrl && (
+      <p class="gmp-rating-link">
+        <a href={mapsUrl} target="_blank" rel="noopener noreferrer">
+          Alle Bewertungen auf Google Maps ansehen
+        </a>
+      </p>
+    )
+  }
+</div>
+
+<style>
+  .gmp-rating {
+    margin-top: 0.5rem;
+  }
+  .gmp-rating-line {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.375rem 0.5rem;
+    font-size: 0.9375rem;
+  }
+  .gmp-rating--compact .gmp-rating-line {
+    font-size: 0.875rem;
+  }
+  .gmp-rating--profile {
+    margin-top: 0;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-surface);
+  }
+  .gmp-rating--profile .gmp-rating-line {
+    font-size: 1.0625rem;
+  }
+  .gmp-rating--profile .gmp-rating-star {
+    font-size: 1.25rem;
+  }
+  .gmp-rating-link {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+  }
+  .gmp-rating-score {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.125rem;
+  }
+  .gmp-rating-star {
+    color: #f59e0b;
+    font-size: 1rem;
+    line-height: 1;
+  }
+  .gmp-attribution {
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: #5e5e5e;
+    text-decoration: none;
+  }
+  .gmp-attribution:hover {
+    color: var(--color-accent);
+  }
+</style>

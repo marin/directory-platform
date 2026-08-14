@@ -2,8 +2,8 @@
   "id": "osteopathie-berlin-pankow",
   "slug": "osteopathie-berlin-pankow",
   "name": "Osteopathie Berlin Pankow",
-  "description": "Osteopathie Berlin Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Osteopathie Berlin Pankow bietet ganzheitliche Behandlungen unter der Leitung von Christine Vahl, Heilpraktikerin mit Schwerpunkt auf Osteopathie und miasmatischer Homöopathie. Die Praxis unterstützt Patienten bei akuten und chronischen Beschwerden sowie Funktionsstörungen und Schmerzzuständen. Ziel der Therapie ist es, die in jedem Menschen vorhandene Lebenskraft zu aktivieren und zu nutzen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -55,5 +55,29 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungen werden in der Praxis Osteopathie Berlin Pankow angeboten?",
+      "answer": "In der Praxis werden akute und chronische Beschwerden, Funktionsstörungen und Schmerzzustände behandelt. Zudem werden Gesundheitsberatung und Gesundheitsprophylaxe angeboten."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03075635800 oder per E-Mail an info@osteopathie-berlin-pankow.de kontaktieren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Osteopathie Berlin Pankow?",
+      "answer": "Die Praxis befindet sich in der Parkstraße 42, 13129 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Welche Therapieansätze werden in der Praxis verfolgt?",
+      "answer": "Die Praxis verfolgt die Ansätze der Osteopathie und der miasmatischen Homöopathie zur Aktivierung der Selbstheilungskräfte."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU6EDGHJNqEcRstcOj1ThOCY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg",
   "slug": "heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg",
   "name": "Heilpraktiker Berlin | Praxis für Homöopathie und Mediation | Sabine Neuenburg",
-  "description": "Heilpraktiker Berlin | Praxis für Homöopathie und Mediation | Sabine Neuenburg ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabine Neuenburg ist eine erfahrene Heilpraktikerin in Berlin Charlottenburg, die sich auf Homöopathie und Mediation spezialisiert hat. In ihrer Praxis bietet sie individuelle Behandlungen an, die auf die Bedürfnisse ihrer Klienten abgestimmt sind, und legt besonderen Wert auf die psychologischen Aspekte der Heilung. Zu ihren Angeboten zählen unter anderem Familienaufstellungen, intuitives Malen und Paarmediation.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -54,7 +54,77 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine _Angebote_"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Familienaufstellung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Paarmediation"
+    },
+    {
+      "id": "offer-5",
+      "name": "Meine _Praxis_"
+    },
+    {
+      "id": "offer-6",
+      "name": "_Schwerpunkte_ meiner Arbeit"
+    },
+    {
+      "id": "offer-7",
+      "name": "Wechseljahre"
+    },
+    {
+      "id": "offer-8",
+      "name": "Mutter-Kind-Beziehung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Partnerschaft"
+    },
+    {
+      "id": "offer-10",
+      "name": "Sie finden mich _hier_"
+    }
+  ],
+  "images": [
+    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/IMG-20260309-WA0002-768x576.jpg",
+    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/sabine-neuenburg-heilpraktikerin-charlottenburg-2b-1024x670.jpg",
+    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2023/08/heilpraktiker-praxis-remise-schillerstrasse-40.jpg",
+    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/IMG-20260309-WA0002.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Sabine Neuenburg?",
+      "answer": "Die Praxis befindet sich in der Schillerstraße 40, 10627 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Sabine Neuenburg an?",
+      "answer": "Sabine Neuenburg bietet Behandlungsmethoden wie Homöopathie, Familienaufstellung, intuitives Malen und Paarmediation an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Website buchen, indem Sie den folgenden Link nutzen: https://praxis-heilpraktikerin-mediatorin.de/kontakt/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 10:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Sabine Neuenburg kontaktieren?",
+      "answer": "Sie können Sabine Neuenburg telefonisch unter 015158111547 oder per E-Mail an info@praxis-heilpraktikerin-mediatorin.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS2-Gkd9QqEcRDMDyT_2u8C8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

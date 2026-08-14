@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-lea-banse",
   "slug": "heilpraktikerin-lea-banse",
   "name": "Heilpraktikerin Lea Banse",
-  "description": "Heilpraktikerin Lea Banse ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Lea Banse bietet in ihrer Praxis in Berlin Tempelhof-Schöneberg umfassende Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Ihr Leistungsspektrum umfasst unter anderem die Osteopathie für Säuglinge sowie die Cranio-Sacral-Therapie.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -28,6 +28,30 @@
   "website": "https://heilpraktikerin-banse.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://praxis-lea-banse.de/wp-content/uploads/2021/02/1280.jpg",
+    "https://praxis-lea-banse.de/wp-content/uploads/2024/09/BabyOsteo-768x512.jpg",
+    "https://praxis-lea-banse.de/wp-content/uploads/2024/09/Craniosacrale-768x512.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Lea Banse?",
+      "answer": "Die Praxis befindet sich in der Fregestraße 36, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Lea Banse an?",
+      "answer": "Heilpraktikerin Lea Banse bietet Osteopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Lea Banse kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Lea Banse telefonisch unter 015738996860 oder per E-Mail unter heilpraktikerin.banse@gmail.com kontaktieren."
+    },
+    {
+      "question": "Bietet die Praxis Öffnungszeiten an?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy8DkqiZbqEcRkBVQ24hf-dM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

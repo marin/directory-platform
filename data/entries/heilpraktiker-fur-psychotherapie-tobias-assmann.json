@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-psychotherapie-tobias-assmann",
   "name": "Heilpraktiker für Psychotherapie Tobias Assmann",
   "description": "Heilpraktiker für Psychotherapie Tobias Assmann ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,6 +27,9 @@
   "website": "https://hpta.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://hpta.de/_next/static/media/welcome.359eb113.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY1vMTVZOqEcRGwV_g2PEL_4"
 }

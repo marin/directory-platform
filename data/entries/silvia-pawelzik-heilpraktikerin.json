@@ -2,8 +2,8 @@
   "id": "silvia-pawelzik-heilpraktikerin",
   "slug": "silvia-pawelzik-heilpraktikerin",
   "name": "Silvia Pawelzik - Heilpraktikerin",
-  "description": "Silvia Pawelzik - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Silvia Pawelzik ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin, im Stadtteil Tempelhof-Schöneberg. Sie bietet naturheilkundliche Behandlungen an und legt großen Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Gesundheitsförderung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,38 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die aufgerufene Domain ist derzeit nicht erreichbar"
+    }
+  ],
+  "images": [
+    "https://www.denic.de/fileadmin/_processed_/b/5/csm_DENIC_kontakt-profil-logo_bc465ccc0b.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Silvia Pawelzik?",
+      "answer": "Die Praxis von Silvia Pawelzik befindet sich in der Hauptstraße 52, 10827 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Samstag jeweils von 10:00 bis 12:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Silvia Pawelzik kontaktieren?",
+      "answer": "Sie können Silvia Pawelzik telefonisch unter 03078715335 oder per E-Mail an naturpawelzik@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Silvia Pawelzik an?",
+      "answer": "Silvia Pawelzik bietet Dienstleistungen im Bereich der Naturheilkunde an."
+    },
+    {
+      "question": "Ist die Website von Silvia Pawelzik erreichbar?",
+      "answer": "Derzeit ist die aufgerufene Domain nicht erreichbar."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgdtQd2lQqEcRiqbylvjjpcM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

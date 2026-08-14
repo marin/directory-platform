@@ -2,8 +2,8 @@
   "id": "atempause-naturheilkunde-schmerztherapie-markus-brandenburg",
   "slug": "atempause-naturheilkunde-schmerztherapie-markus-brandenburg",
   "name": "ATEMPAUSE | Naturheilkunde Schmerztherapie | Markus Brandenburg",
-  "description": "ATEMPAUSE | Naturheilkunde Schmerztherapie | Markus Brandenburg ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "ATEMPAUSE | Naturheilkunde Schmerztherapie in Berlin-Reinickendorf bietet eine ganzheitliche Herangehensweise zur Linderung von Schmerzen und chronischen Beschwerden. Unter der Leitung von Markus Brandenburg werden verschiedene Therapieformen, darunter die Liebscher&Bracht-Schmerztherapie und Traditionelle Chinesische Medizin, eingesetzt, um die Ursachen von Schmerzen zu identifizieren und zu behandeln. Ziel ist es, das körperliche Gleichgewicht wiederherzustellen und die Selbstheilungskräfte zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,6 +26,7 @@
   "phone": "015228668531",
   "email": "info@schmerzfrei-atempause.de",
   "website": "http://www.schmerzfrei-atempause.de/",
+  "bookingUrl": "https://dieursacheheilen.com/termin-buchen",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,70 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die wirksamsten Therapieformen aus einer Hand!"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sport- und Bewegungstherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Liebscher&Bracht-Schmerztherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Traditionelle Chinesische Medizin und Ernährung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mit BEMER leistungsfähig leben"
+    },
+    {
+      "id": "offer-6",
+      "name": "Das sagen meine Kunden"
+    },
+    {
+      "id": "offer-7",
+      "name": "Psyche und Stress"
+    },
+    {
+      "id": "offer-8",
+      "name": "Spannung im faszialen-muskulären Gewebe"
+    }
+  ],
+  "images": [
+    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/Kein-Titel-700-%C3%97-500-px-700-%C3%97-300-px-700-%C3%97-200-px-700-%C3%97-150-px-600-%C3%97-150-px.png",
+    "https://schmerzfrei-atempause.de/wp-content/uploads/2025/05/Front-Racked-Cover.jpg",
+    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/1.png",
+    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/4.png",
+    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/09/Design-ohne-Titel-9.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet ATEMPAUSE an?",
+      "answer": "ATEMPAUSE bietet verschiedene Therapieformen an, darunter Sport- und Bewegungstherapie, Liebscher&Bracht-Schmerztherapie, Traditionelle Chinesische Medizin und Ernährung sowie die Anwendung von BEMER zur Leistungssteigerung."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin direkt über die Buchungsseite auf der Webseite von ATEMPAUSE buchen. Der Link dazu ist: https://dieursacheheilen.com/termin-buchen."
+    },
+    {
+      "question": "Wann hat ATEMPAUSE geöffnet?",
+      "answer": "Die Öffnungszeiten von ATEMPAUSE sind wie folgt: Montag von 09:00 bis 18:00, Dienstag und Mittwoch von 09:00 bis 21:00, Donnerstag und Freitag von 09:00 bis 18:00."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von ATEMPAUSE?",
+      "answer": "Die Praxis von ATEMPAUSE befindet sich in Berlin, Falkentaler Steig 13, 13467 Berlin."
+    },
+    {
+      "question": "Wie kann ich ATEMPAUSE kontaktieren?",
+      "answer": "Sie können ATEMPAUSE telefonisch unter 015228668531 oder per E-Mail an info@schmerzfrei-atempause.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6doJjDhVqEcRwfANFdCa_ps",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

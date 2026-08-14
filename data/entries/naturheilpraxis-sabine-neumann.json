@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-sabine-neumann",
   "slug": "naturheilpraxis-sabine-neumann",
   "name": "Naturheilpraxis Sabine Neumann",
-  "description": "Naturheilpraxis Sabine Neumann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Sabine Neumann in Berlin-Charlottenburg-Wilmersdorf stehen ganzheitliche Gesundheitsansätze im Mittelpunkt. Die Praxis bietet individuelle Therapien, die auf die speziellen Bedürfnisse der Patienten abgestimmt sind, einschließlich Homöopathie, Akupunktur, Phytotherapie und Ernährungsberatung. Ziel ist es, das Wohlbefinden durch natürliche Heilmethoden nachhaltig zu steigern und die Selbstheilungskräfte des Körpers zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,58 @@
   },
   "phone": "0303655696",
   "website": "http://www.sabine-neumann-naturheilpraxis.de/",
+  "bookingUrl": "https://sabine-neumann-naturheilpraxis.geo.io/#",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Warum ganzheitliche Gesundheit so wichtig ist"
+    },
+    {
+      "id": "offer-2",
+      "name": "Die Lösung: Ihre Naturheilpraxis"
+    },
+    {
+      "id": "offer-3",
+      "name": "So funktioniert es im Detail"
+    },
+    {
+      "id": "offer-4",
+      "name": "Expertenmeinung und Studien"
+    },
+    {
+      "id": "offer-5",
+      "name": "Fazit & Zusammenfassung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Location"
+    },
+    {
+      "id": "offer-7",
+      "name": "Weather"
+    }
+  ],
+  "images": [
+    "https://sabine-neumann-naturheilpraxis.geo.io/geo.io/images/custom/444717452768_1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bieten Sie an?",
+      "answer": "Wir bieten Homöopathie, Akupunktur, Phytotherapie und Ernährungsberatung an."
+    },
+    {
+      "question": "Wie lange dauert eine Behandlung?",
+      "answer": "Die Dauer der Behandlung variiert je nach Methode und individuellen Bedürfnissen. In der Regel zwischen 30 und 90 Minuten."
+    },
+    {
+      "question": "Sind die Therapien auch für Kinder geeignet?",
+      "answer": "Ja, viele unserer Behandlungsmethoden sind auch für Kinder geeignet. Sprechen Sie uns an für weitere Informationen."
+    },
+    {
+      "question": "Brauche ich eine Überweisung vom Arzt?",
+      "answer": "Nein, für unsere naturheilkundlichen Behandlungen benötigen Sie keine Überweisung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ31L2SEhWqEcRqYKq_zfPAvE"
 }

@@ -2,8 +2,8 @@
   "id": "martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada",
   "slug": "martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada",
   "name": "Martina Gäde - Heilpraktikerin für Psychotherapie & Coachin - c/o Praxis Rada",
-  "description": "Martina Gäde - Heilpraktikerin für Psychotherapie & Coachin - c/o Praxis Rada ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Martina Gäde ist Heilpraktikerin für Psychotherapie und Coachin in Berlin, Friedrichshain-Kreuzberg. Sie bietet Unterstützung in herausfordernden Lebensphasen, insbesondere in Zeiten von Trauer und Veränderung, sowohl online als auch in der Natur. Ihr Ansatz ist geprägt von Klarheit und Empathie, wobei sie ihren Klienten hilft, Gedanken und Gefühle zu sortieren und neue Perspektiven zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "015141335683",
   "email": "kontakt@martinagaede.de",
   "website": "https://www.martinagaede.de/",
+  "bookingUrl": "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
   "openingHours": [
     {
       "day": "Wednesday",
@@ -38,7 +39,69 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "ÜBER MICH & MEINE ARBEIT"
+    },
+    {
+      "id": "offer-2",
+      "name": "Trauerbegleitung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-4",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-5",
+      "name": "RAHMEN & PREISE"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schreib mir gern über Whatsapp."
+    },
+    {
+      "id": "offer-7",
+      "name": "Email"
+    },
+    {
+      "id": "offer-8",
+      "name": "Du findest mich auch hier"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://static.wixstatic.com/media/2e8c84_6f132761992245cdac2f65c1a8014648~mv2.jpeg/v1/crop/x_1705,y_0,w_4627,h_4221/fill/w_556,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8c84_6f132761992245cdac2f65c1a8014648~mv2.jpeg",
+    "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+    "https://static.wixstatic.com/media/2e8c84_e934d165784046948ac234b0480e8fed~mv2.png/v1/fill/w_143,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2025_11_23-Logo_Signet.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Martina Gäde an?",
+      "answer": "Martina Gäde bietet Trauerbegleitung, Coaching und Hypnose an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Martina Gäde buchen?",
+      "answer": "Sie können einen Termin über die Website von Martina Gäde buchen: martinagaede.de oder direkt über den Doctolib-Link."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten von Martina Gäde?",
+      "answer": "Die Öffnungszeiten sind Mittwoch und Donnerstag von 15:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Sitzung?",
+      "answer": "Die Kosten für eine Sitzung betragen 80 € für Trauerbegleitung, 90 € für Coaching und 100 € für Hypnose, jeweils für 60 Minuten."
+    },
+    {
+      "question": "Bietet Martina Gäde auch ein Erstgespräch an?",
+      "answer": "Ja, es gibt ein kostenfreies Erstgespräch von 30 Minuten, um das Anliegen zu klären und zu prüfen, ob eine Zusammenarbeit stimmig ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqdvnSrpPqEcRnQmDl1f7Kw8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

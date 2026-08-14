@@ -1,10 +1,15 @@
-Write a concise, useful description for this {{entrySingular}} using only the facts provided.
+Schreibe eine kurze Praxisbeschreibung für diesen {{entrySingular}} auf Deutsch.
 
-## Listing data
+## Verzeichnisdaten (verlässlich)
 {{listingJson}}
 
-## Rules
-- Use only facts present in the listing data.
-- Do not invent prices, hours, certifications, or availability.
-- Write 2-3 sentences in a neutral, informative tone.
-- Geography: {{locality}}, {{region}}.
+## Website-Auszug (nur als Quelle für zusätzliche Fakten)
+{{websiteExcerpt}}
+
+## Regeln
+- Nur Fakten aus den Daten oben verwenden. Nichts erfinden.
+- Keine Preise, Telefonnummern oder Öffnungszeiten erfinden.
+- 2–4 Sätze, sachlich-neutraler Verzeichnistext.
+- Keine Website-URLs, Markdown-Links oder Sätze wie „Weitere Informationen finden Sie auf der Website“.
+- Bezug: {{locality}}, {{region}}.
+- Antworte nur mit dem Beschreibungstext, ohne Überschrift.

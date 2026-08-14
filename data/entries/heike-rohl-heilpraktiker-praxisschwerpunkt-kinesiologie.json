@@ -2,8 +2,8 @@
   "id": "heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie",
   "slug": "heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie",
   "name": "Heike Röhl Heilpraktiker Praxisschwerpunkt Kinesiologie",
-  "description": "Heike Röhl Heilpraktiker Praxisschwerpunkt Kinesiologie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heike Röhl ist eine erfahrene Heilpraktikerin mit dem Schwerpunkt Kinesiologie, die seit fast 25 Jahren in Berlin tätig ist. In ihrer Praxis bietet sie verschiedene naturheilkundliche Therapien an, darunter die Klinghardt Methode, Dentosophie und Ozon-Sauerstofftherapie. Ihr Ansatz zielt darauf ab, die Ursachen von Symptomen zu identifizieren und die Selbstheilungskräfte der Patienten zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03063211957",
   "website": "http://www.heikeroehl.de/",
+  "bookingUrl": "https://heikeroehl.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -46,7 +47,106 @@
       "close": "18:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ozon-Sauerstofftherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Aktiv-Sauerstoff zur ganzheitlichen Unterstützung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Patientenstimmen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ich berate Sie gerne!"
+    },
+    {
+      "id": "offer-5",
+      "name": "Telefon"
+    },
+    {
+      "id": "offer-6",
+      "name": "E-Mail"
+    },
+    {
+      "id": "offer-7",
+      "name": "Praxiskonzept"
+    },
+    {
+      "id": "offer-8",
+      "name": "Angebote"
+    },
+    {
+      "id": "offer-9",
+      "name": "Dentosophie Ausbildung - Dentosophie Schule"
+    },
+    {
+      "id": "offer-10",
+      "name": "Mentoring"
+    },
+    {
+      "id": "offer-11",
+      "name": "Seminare und Coaching"
+    },
+    {
+      "id": "offer-12",
+      "name": "Atemarbeit"
+    },
+    {
+      "id": "offer-13",
+      "name": "Paarberatung"
+    },
+    {
+      "id": "offer-14",
+      "name": "Psycho-Sexuelle Begleitung"
+    },
+    {
+      "id": "offer-15",
+      "name": "Psycho-Spirituelle Beratung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Email"
+    },
+    {
+      "id": "offer-17",
+      "name": "Oder schreiben Sie mir über das Formular"
+    }
+  ],
+  "images": [
+    "https://heikeroehl.de/wp-content/uploads/2025/11/Heike-Roehl-4.png.pagespeed.ce.qCjho5Hlv0.png",
+    "https://heikeroehl.de/wp-content/uploads/2025/12/Refugium-Place.png.pagespeed.ce.0F3tUiUmuv.png",
+    "https://heikeroehl.de/wp-content/uploads/2025/12/calumed.png.pagespeed.ce.LJ-DO1pOed.png",
+    "https://heikeroehl.de/wp-content/uploads/2025/12/norbert.png.pagespeed.ce.NAT_zJFEaW.png",
+    "https://heikeroehl.de/wp-content/uploads/2025/12/dento.png.pagespeed.ce.PTmmMPEZ50.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heike Röhl in ihrer Praxis an?",
+      "answer": "Heike Röhl bietet verschiedene Therapien an, darunter Kinesiologie (ART-Methode nach Dr. D. Klinghardt), Dentosophie, autonome Haltungsregulation (AHNF), Neuraltherapie und Ozon-Sauerstofftherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heike Röhl buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Heike Röhl buchen, indem Sie das Kontaktformular auf dieser Seite ausfüllen."
+    },
+    {
+      "question": "Wann hat die Praxis von Heike Röhl geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 09:00 bis 18:30 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heike Röhl?",
+      "answer": "Die Praxis befindet sich in der Nollendorfstraße 15, 10777 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Heike Röhl telefonisch erreichen?",
+      "answer": "Sie können Heike Röhl unter der Telefonnummer 03063211957 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Z1IpdD1qEcRWuVeG2unUew",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

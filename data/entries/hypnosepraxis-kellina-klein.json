@@ -2,8 +2,8 @@
   "id": "hypnosepraxis-kellina-klein",
   "slug": "hypnosepraxis-kellina-klein",
   "name": "Hypnosepraxis Kellina Klein",
-  "description": "Hypnosepraxis Kellina Klein ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Hypnosepraxis Kellina Klein in Berlin-Treptow-Köpenick bietet eine spezialisierte Behandlung durch die staatlich zugelassene Heilpraktikerin für Psychotherapie Kellina Klein an. Ihr Fokus liegt auf der ursachenauflösenden Hypnoanalyse, die es ermöglicht, emotionale Probleme in oft nur 1-4 Sitzungen zu behandeln. Die Praxis richtet sich an Menschen, die Unterstützung bei Themen wie Ängsten, Depressionen, Schlafstörungen oder Suchtverhalten suchen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,8 +26,36 @@
   "phone": "015155419198",
   "email": "info@hypnose-koepenick.de",
   "website": "https://www.hypnose-koepenick.de/",
+  "bookingUrl": "https://hypnose-koepenick.de/?page_id=15/%20%22Kontakt",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.hypnose-koepenick.de/wp-content/uploads/header-image-kk.jpg",
+    "https://www.hypnose-koepenick.de/wp-content/uploads/image-praxis-ar.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Hypnosepraxis Kellina Klein an?",
+      "answer": "Die Hypnosepraxis Kellina Klein bietet Hypnosebehandlungen an, die sich auf die ursachenauflösende Hypnoanalyse spezialisiert haben. Diese Methode kann bei verschiedenen emotional bedingten Problemen wie Depressionen, Ängsten, Essstörungen und Süchten eingesetzt werden."
+    },
+    {
+      "question": "Wo befindet sich die Hypnosepraxis Kellina Klein?",
+      "answer": "Die Hypnosepraxis Kellina Klein befindet sich in der Rosenstraße 15, 12555 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Hypnosepraxis Kellina Klein buchen?",
+      "answer": "Sie können einen Termin in der Hypnosepraxis Kellina Klein über die Webseite buchen. Dort finden Sie einen Link zur Buchungsseite: https://hypnose-koepenick.de/?page_id=15."
+    },
+    {
+      "question": "Wie kann ich die Hypnosepraxis Kellina Klein kontaktieren?",
+      "answer": "Sie können die Hypnosepraxis Kellina Klein telefonisch unter 015155419198 oder per E-Mail an info@hypnose-koepenick.de kontaktieren."
+    },
+    {
+      "question": "Welche Probleme können mit Hypnose behandelt werden?",
+      "answer": "Mit Hypnose können verschiedene Probleme behandelt werden, darunter Rauchentwöhnung, Gewichtsabnahme, Depressionen, Traumata, Ängste, Schlafstörungen, Trauer, Zwänge und Süchte."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIYsB63FIqEcRPIp7SBqp_Mo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 47
 }

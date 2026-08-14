@@ -3,6 +3,8 @@ import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync, exists
 import { join } from "node:path";
 import { ROOT } from "../lib/work-utils.mjs";
 import { parseGermanOpeningHours } from "../../src/lib/data/parse-opening-hours.ts";
+import { resolveGoogleMapsUrl } from "../../src/lib/geo/google-maps.ts";
+import { parseGoogleMapsRatingFields } from "../../src/lib/geo/google-maps-rating.ts";
 
 const CSV_PATH = join(
   ROOT,
@@ -191,6 +193,8 @@ function rowToEntry(row, slug) {
     email: normalizeEmail(row.EMAIL),
     website: normalizeWebsite(row.WEBSITE),
     bookingUrl: normalizeWebsite(row["BOOKING LINK"]),
+    googleMapsUrl: resolveGoogleMapsUrl(row["PLACE ID"], row.URL),
+    ...parseGoogleMapsRatingFields(row.SCORE, row.RATINGS),
     openingHours: parseGermanOpeningHours(row["OPENING HOURS"]),
     offers: [],
     images: [],

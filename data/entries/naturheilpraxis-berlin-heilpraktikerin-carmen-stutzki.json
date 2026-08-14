@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki",
   "slug": "naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki",
   "name": "Naturheilpraxis Berlin- Heilpraktikerin Carmen Stutzki",
-  "description": "Naturheilpraxis Berlin- Heilpraktikerin Carmen Stutzki ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Berlin, geleitet von Heilpraktikerin Carmen Stutzki, befindet sich in der Pariser Straße 59 in Berlin-Charlottenburg. Schwerpunkte der Praxis sind die Colon-Hydro-Therapie, Darmsanierung sowie verschiedene naturheilkundliche Verfahren wie Hypnose, Elektroakupunktur nach Dr. Voll und Schmerzbehandlungen. Ziel der Behandlungen ist es, das Wohlbefinden der Patienten zu fördern und gesundheitliche Beschwerden ganzheitlich zu behandeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "01624940650",
   "website": "https://www.naturheilpraxis-berlin.de/",
+  "bookingUrl": "https://naturheilpraxis-berlin.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -46,7 +47,58 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-2",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Elektroakupunktur nach Dr. Voll (EAV)"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerzbehandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Traumgewicht finden"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-berlin.de/wp-content/uploads/nhpb_header2.jpg",
+    "https://naturheilpraxis-berlin.de/wp-content/uploads/Carmen_Stutzki.jpg",
+    "https://naturheilpraxis-berlin.de/wp-content/uploads/Orchidee_klein.jpg",
+    "https://naturheilpraxis-berlin.de/wp-content/uploads/Hypnose-Siegel.png",
+    "https://naturheilpraxis-berlin.de/wp-content/uploads/darmentgiftung.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Berlin an?",
+      "answer": "Die Naturheilpraxis Berlin bietet verschiedene Behandlungen an, darunter Darmsanierung, Hypnose, Elektroakupunktur nach Dr. Voll, Schmerzbehandlung und Unterstützung beim Finden des Traumgewichts."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Berlin vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Berlin über die Webseite naturheilpraxis-berlin.de vereinbaren."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Berlin geöffnet?",
+      "answer": "Die Naturheilpraxis Berlin hat von Montag bis Donnerstag von 12:00 bis 16:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Berlin?",
+      "answer": "Die Naturheilpraxis Berlin befindet sich in der Pariser Str. 59, 10719 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Berlin kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Berlin telefonisch unter 01624940650 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7bIr1fNQqEcRTLfr-I0c010",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

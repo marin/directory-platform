@@ -2,8 +2,8 @@
   "id": "krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth",
   "slug": "krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth",
   "name": "Krankengymnastik - Physiotherapeutin und Heilpraktikerin Evelyn Kürth",
-  "description": "Krankengymnastik - Physiotherapeutin und Heilpraktikerin Evelyn Kürth ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis von Evelyn Kürth in Berlin-Tiergarten bietet eine ganzheitliche Herangehensweise an Gesundheit und Wohlbefinden. Als erfahrene Physiotherapeutin und Heilpraktikerin hat sie sich auf die Triggertherapie spezialisiert, die gezielt Schmerzpunkte behandelt und somit die Beweglichkeit und Lebensfreude der Patienten verbessert. Neben der Triggertherapie werden auch Wellness- und Fitnessangebote bereitgestellt, um Körper und Geist in Einklang zu bringen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "0303911009",
   "website": "http://www.vitalbody.de/",
+  "bookingUrl": "http://www.vitalbody.de/kontakt.php",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,65 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Geöffnet"
+    },
+    {
+      "id": "offer-2",
+      "name": "Geschenkt"
+    },
+    {
+      "id": "offer-3",
+      "name": "Triggerpunkttherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Wohlfühlen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Fitness"
+    },
+    {
+      "id": "offer-6",
+      "name": "Patientenstimmen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Wellness"
+    }
+  ],
+  "images": [
+    "http://www.vitalbody.de/content_img/sectionteaser_trigger.jpg",
+    "http://www.vitalbody.de/content_img/sectionimg_wellness.jpg",
+    "http://www.vitalbody.de/content_img/sectionimg_fitness.jpg",
+    "http://www.vitalbody.de/style/gfx/logo_praxis_kuerth.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Evelyn Kürth?",
+      "answer": "Die Praxis ist montags, dienstags und donnerstags von 9:00 bis 19:00 Uhr geöffnet. Mittwochs und freitags ist die Praxis von 9:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Evelyn Kürth?",
+      "answer": "Die Praxis befindet sich in der Thomasiusstraße 1, 10557 Berlin-Tiergarten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website vitalbody.de buchen."
+    },
+    {
+      "question": "Welche Therapieformen bietet Evelyn Kürth an?",
+      "answer": "Evelyn Kürth bietet unter anderem Triggerpunkttherapie, Physiotherapie und verschiedene Wellnessangebote an."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 0303911009 oder per E-Mail an praxis@vitalbody.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZ4fHaFRqEcR6TQhriZkrVU",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 4
 }

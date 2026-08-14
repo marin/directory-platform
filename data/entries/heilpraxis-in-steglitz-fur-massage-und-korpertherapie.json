@@ -2,8 +2,8 @@
   "id": "heilpraxis-in-steglitz-fur-massage-und-korpertherapie",
   "slug": "heilpraxis-in-steglitz-fur-massage-und-korpertherapie",
   "name": "Heilpraxis in Steglitz für Massage und Körpertherapie",
-  "description": "Heilpraxis in Steglitz für Massage und Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis in Steglitz für Massage und Körpertherapie, geleitet von Heilpraktikerin Franziska Valenti Clari, befindet sich in Berlin-Friedenau, nahe dem S-Bahnhof Bundesplatz. In der Praxis werden verschiedene Techniken der Körpertherapie angeboten, um das körperliche Gleichgewicht zu fördern und das Wohlbefinden zu steigern. Die Behandlungen sind darauf ausgerichtet, den Klienten durch achtsame Berührung und tiefes Hineinspüren in Kontakt mit ihrem Körper zu bringen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03039370803",
   "website": "http://www.heilpraxis-valenti-clari.de/",
+  "bookingUrl": "https://heilpraxis-valenti-clari.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,75 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "60 Min –",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 75,
+      "priceLabel": "75,00 EUR"
+    },
+    {
+      "id": "offer-2",
+      "name": "75 Min –",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 90,
+      "priceLabel": "90,00 EUR"
+    },
+    {
+      "id": "offer-3",
+      "name": "90 Min –",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 100,
+      "priceLabel": "100,00 EUR"
+    },
+    {
+      "id": "offer-4",
+      "name": "75 Min – mit mehr Nacken-Relax",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 90,
+      "priceLabel": "90,00 EUR"
+    },
+    {
+      "id": "offer-5",
+      "name": "Massage genießen: Entspannung und Körperwahrnehmung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Massage in Berlin-Friedenau zur Erholung und Regeneration"
+    }
+  ],
+  "images": [
+    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/heilpraxis-valenti-clari-238x300.jpg",
+    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2026/08/wellness-massage-friedenau.jpg",
+    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/naturheilpraxis-friedenau.png",
+    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/heilpraxis-valenti-clari.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis in Steglitz?",
+      "answer": "Die Heilpraxis befindet sich in der Isoldestraße 10, 12159 Berlin, im Stadtteil Friedenau."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Welche Arten von Massagen werden angeboten?",
+      "answer": "Es werden verschiedene Massagen angeboten, darunter 60 Min, 75 Min, 90 Min Massagen sowie spezielle Massagen wie Nacken-Relax und Massagen zur Erholung und Regeneration."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Webseite der Heilpraxis buchen: Termin buchen."
+    },
+    {
+      "question": "Wie viel kosten die Massagen?",
+      "answer": "Die Preise für die Massagen liegen zwischen 75,00 EUR für 60 Minuten und 100,00 EUR für 90 Minuten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJczvpEHFQqEcR6q9kq_a2qJQ"
 }

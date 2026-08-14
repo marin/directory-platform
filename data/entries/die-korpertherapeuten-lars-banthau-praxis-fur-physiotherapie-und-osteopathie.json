@@ -2,8 +2,8 @@
   "id": "die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie",
   "slug": "die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie",
   "name": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie",
-  "description": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie in Berlin bietet eine ganzheitliche Betrachtung des Körpers und kombiniert fundierte Physiotherapie mit osteopathischem Denken. Das Team aus spezialisierten Therapeuten verfolgt das Ziel, nicht nur Symptome zu behandeln, sondern die Ursachen von Beschwerden zu identifizieren und zu beheben. Zu den Leistungen gehören unter anderem manuelle Therapie, Krankengymnastik, Sportphysiotherapie und Osteopathie, um die Bewegungsfreiheit der Patienten nachhaltig zu sichern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -24,6 +24,7 @@
   },
   "phone": "03048820820",
   "website": "http://www.diekoerpertherapeuten.de/",
+  "bookingUrl": "https://peak-physio.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,94 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wir verstehen deinen Körper als Einheit. Nicht als Baustelle."
+    },
+    {
+      "id": "offer-2",
+      "name": "Präzision in der Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Manuelle Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Krankengymnastik (KGG)"
+    },
+    {
+      "id": "offer-5",
+      "name": "Sportphysiotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Lymphdrainage"
+    },
+    {
+      "id": "offer-7",
+      "name": "CMD Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Massage"
+    },
+    {
+      "id": "offer-9",
+      "name": "Optimiere dein Potential."
+    },
+    {
+      "id": "offer-10",
+      "name": "Osteopathie. Der Blick über den Tellerrand."
+    },
+    {
+      "id": "offer-11",
+      "name": "Ein Blick hinter die Kulissen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Nicht nur behandeln. Begleiten."
+    },
+    {
+      "id": "offer-13",
+      "name": "Expertise"
+    },
+    {
+      "id": "offer-14",
+      "name": "Atmosphäre"
+    }
+  ],
+  "images": [
+    "https://peak-physio.de/assets/hero-sliced-front--webp-Dl98byD1.webp",
+    "https://peak-physio.de/assets/010-compress-peak-0038MEY08659-CzHnQkkV.jpg",
+    "https://peak-physio.de/assets/037-compress-peak-0173MEY08686-B7yOoTfE.jpg",
+    "https://peak-physio.de/assets/053-compress-peak-0231MEY08744--NY8aId8.jpg",
+    "https://peak-physio.de/assets/000-compress-peak-0008MEY08629-Do4qo_OK.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieleistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet verschiedene Therapieleistungen an, darunter Manuelle Therapie, Krankengymnastik (KGG), Sportphysiotherapie, Lymphdrainage, CMD Therapie und Massage."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Praxis über die Webseite buchen, indem Sie den folgenden Link nutzen: Jetzt Hilfe anfragen."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Heerstraße 24/26, 14052 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie erreiche ich die Praxis telefonisch?",
+      "answer": "Sie können die Praxis telefonisch unter der Nummer 03048820820 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ82HiQC9XqEcRSOY_c9pL4jI",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 4
 }

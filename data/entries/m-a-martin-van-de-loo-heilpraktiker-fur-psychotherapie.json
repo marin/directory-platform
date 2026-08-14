@@ -2,8 +2,8 @@
   "id": "m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie",
   "slug": "m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie",
   "name": "M.A. Martin van de Loo, Heilpraktiker für Psychotherapie",
-  "description": "M.A. Martin van de Loo, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "M.A. Martin van de Loo ist Heilpraktiker für Psychotherapie mit einer Praxis in der Solmsstraße 30 in Berlin, Kreuzberg. Er bietet queere, körperorientierte Traumatherapie an und ist spezialisiert auf Methoden wie Somatic Experiencing, NARM sowie Hypnose und Ego-State Therapy. Sein therapeutisches Angebot richtet sich insbesondere an Menschen mit Schock- und Entwicklungstraumata und zielt darauf ab, die emotionale Stabilität und Selbstregulation des autonomen Nervensystems zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -33,7 +33,102 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Somatic Experiencing Therapie in Kreuzberg"
+    },
+    {
+      "id": "offer-2",
+      "name": "Somatic Experiencing"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behand­lung von Schock- und Entwick­lungs­traumata"
+    },
+    {
+      "id": "offer-4",
+      "name": "Weitere Methoden: Ego State & Hypnose"
+    },
+    {
+      "id": "offer-5",
+      "name": "Über mich – Therapie in Kreuzberg"
+    },
+    {
+      "id": "offer-6",
+      "name": "Queer NARM & Queer Somatic Experiencing in Kreuzberg"
+    },
+    {
+      "id": "offer-7",
+      "name": "Drogen & Trauma in der LGBTIQ+ Community"
+    },
+    {
+      "id": "offer-8",
+      "name": "Mein thera­peuti­sches Angebot für dich"
+    },
+    {
+      "id": "offer-9",
+      "name": "NARM\\"
+    },
+    {
+      "id": "offer-10",
+      "name": "Brain­spotting und EMDR\\"
+    },
+    {
+      "id": "offer-11",
+      "name": "Hypnose und Ego-State Therapy"
+    },
+    {
+      "id": "offer-12",
+      "name": "Hypnotisches Schreib- und Roman-Coaching"
+    },
+    {
+      "id": "offer-13",
+      "name": "Queere Psycho- und Trauma­­therapie"
+    },
+    {
+      "id": "offer-14",
+      "name": "Queere Psycho- und Trauma­­­therapie"
+    },
+    {
+      "id": "offer-15",
+      "name": "\\\\\\\\ NARM\\"
+    },
+    {
+      "id": "offer-16",
+      "name": "Hypnotisches Schreib und Roman-­Coaching"
+    }
+  ],
+  "images": [
+    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Vector-1024x571.png",
+    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-271-1.png",
+    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-270-1.png",
+    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-269-1.png",
+    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-268-1.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Martin van de Loo?",
+      "answer": "Die Praxis befindet sich in der Solmsstraße 30 im Bergmannkiez in Berlin Kreuzberg."
+    },
+    {
+      "question": "Welche Therapiemethoden bietet Martin van de Loo an?",
+      "answer": "Martin van de Loo bietet unter anderem Somatic Experiencing Therapie, Behandlung von Schock- und Entwicklungstraumata sowie Methoden wie Ego State und Hypnose an."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Du kannst einen Termin über die Webseite von Martin van de Loo buchen. Der Link dazu ist: https://www.martinvandeloo.de/termine-und-kontakt/."
+    },
+    {
+      "question": "An welchen Tagen hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat am Freitag von 08:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Welche Zielgruppe spricht Martin van de Loo an?",
+      "answer": "Martin van de Loo bietet queere Traumatherapie und Coaching an und richtet sich somit insbesondere an die LGBTIQ+ Community."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ47TgEUBPqEcR4z_qsVIsGag",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

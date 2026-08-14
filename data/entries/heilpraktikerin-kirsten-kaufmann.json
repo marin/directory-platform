@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-kirsten-kaufmann",
   "slug": "heilpraktikerin-kirsten-kaufmann",
   "name": "Heilpraktikerin Kirsten Kaufmann",
-  "description": "Heilpraktikerin Kirsten Kaufmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Kirsten Kaufmann bietet in ihrer Naturheilpraxis in Berlin Wilmersdorf-Charlottenburg umfassende Unterstützung zur Entwicklung und Erhaltung von Vitalität und Wohlbefinden. Zu ihren Behandlungsschwerpunkten zählen die Linderung akuter und chronischer Schmerzen, die Verbesserung funktioneller und allergischer Beschwerden sowie der Ausgleich von Erschöpfungszuständen und Stress-Symptomen. Weitere Angebote umfassen die Behandlung von Menstruationsstörungen und die Förderung von Beweglichkeit und Körperbewusstsein.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01708306375",
   "email": "info@die-akupunktur-praxis.de",
   "website": "http://www.die-akupunktur-praxis.de/",
+  "bookingUrl": "https://www.die-akupunktur-praxis.de/kontakt.html",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -47,7 +48,70 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Entwicklung und Erhalt von Vitalität und Wohlbefinden"
+    },
+    {
+      "id": "offer-2",
+      "name": "Linderung akuter und chronischer Schmerzen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Verbesserung funktioneller und allergischer Beschwerden"
+    },
+    {
+      "id": "offer-4",
+      "name": "Abbau von Menstruationsstörungen und andere Frauenthemen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ausgleich von Erschöpfungszuständen und Stress-Symptomen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Förderung von Beweglichkeit, Körperbewusstsein,"
+    },
+    {
+      "id": "offer-7",
+      "name": "BEHANDLUNG"
+    },
+    {
+      "id": "offer-8",
+      "name": "TÄTIGKEITSBEREICHE"
+    },
+    {
+      "id": "offer-9",
+      "name": "PERSON"
+    }
+  ],
+  "images": [
+    "https://www.die-akupunktur-praxis.de/bilder/btn_mobil.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktikerin Kirsten Kaufmann an?",
+      "answer": "Heilpraktikerin Kirsten Kaufmann bietet Behandlungen zur Entwicklung und Erhalt von Vitalität und Wohlbefinden, zur Linderung akuter und chronischer Schmerzen, zur Verbesserung funktioneller und allergischer Beschwerden, zum Abbau von Menstruationsstörungen und anderen Frauenthemen sowie zum Ausgleich von Erschöpfungszuständen und Stress-Symptomen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Kirsten Kaufmann?",
+      "answer": "Die Praxis von Kirsten Kaufmann befindet sich in der Ettaler Str. 12, 10777 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist dienstags bis freitags von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 0170 8306375."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis per E-Mail unter info@die-akupunktur-praxis.de oder telefonisch unter 0170 8306375 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaTAo81lQqEcRjanS53Ot8ko",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

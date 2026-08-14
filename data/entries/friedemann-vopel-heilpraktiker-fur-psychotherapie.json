@@ -2,8 +2,8 @@
   "id": "friedemann-vopel-heilpraktiker-fur-psychotherapie",
   "slug": "friedemann-vopel-heilpraktiker-fur-psychotherapie",
   "name": "♥️ Friedemann Vopel - Heilpraktiker für Psychotherapie",
-  "description": "♥️ Friedemann Vopel - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Friedemann Vopel ist Heilpraktiker für Psychotherapie in Berlin-Mitte und bietet einen geschützten Raum für persönliche Entwicklung. Seine Praxis richtet sich an Menschen, die an emotionalen Belastungen, Beziehungsthemen oder Lebenskrisen arbeiten möchten. Neben Psychotherapie werden auch Coaching-Angebote bereitgestellt, um individuelle Ziele zu erreichen und persönliche Herausforderungen zu meistern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "015237655841",
   "email": "kontakt@friedemannvopel.de",
   "website": "https://friedemannvopel.de/",
+  "bookingUrl": "https://friedemannvopel.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,80 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychotherapie für Menschen, die wachsen wollen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Psychotherapie in Berlin-Mitte"
+    },
+    {
+      "id": "offer-3",
+      "name": "Typische Anliegen in meiner Praxis"
+    },
+    {
+      "id": "offer-4",
+      "name": "Anhaltender Stress & innere Unruhe"
+    },
+    {
+      "id": "offer-5",
+      "name": "Beziehungskonflikte & wiederkehrende Muster"
+    },
+    {
+      "id": "offer-6",
+      "name": "Selbstzweifel & Unsicherheit im Kontakt"
+    },
+    {
+      "id": "offer-7",
+      "name": "Lebenskrisen & innere Orientierungssuche"
+    },
+    {
+      "id": "offer-8",
+      "name": "Meine therapeutischen Schwerpunkte"
+    },
+    {
+      "id": "offer-9",
+      "name": "Coaching in Berlin-Mitte"
+    },
+    {
+      "id": "offer-10",
+      "name": "Dein Weg zu einem Therapieplatz in Berlin"
+    },
+    {
+      "id": "offer-11",
+      "name": "Über mich – Friedemann Vopel"
+    }
+  ],
+  "images": [
+    "https://friedemannvopel.de/wp-content/uploads/go-x/u/aa99c0bf-7aec-475d-a6d7-a707c724d545/l0,t33,w1499,h1934/image-797x1028.jpg",
+    "https://friedemannvopel.de/wp-content/uploads/go-x/u/dd52cef3-4222-423b-b559-49586959b111/l0,t18,w900,h1163/image-768x992.jpg",
+    "https://friedemannvopel.de/wp-content/uploads/go-x/u/6338e420-07a8-40e3-a8b5-495531947007/l101,t0,w1799,h1500/image-768x640.jpg",
+    "https://friedemannvopel.de/wp-content/uploads/go-x/u/a9f8408e-60a0-4862-9ee9-5a1e43f12595/l54,t118,w1148,h1484/image-768x993.jpg",
+    "https://friedemannvopel.de/wp-content/uploads/go-x/u/138064ce-7475-48a9-a7f4-ae45f5023eb6/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wie schnell bekomme ich einen Termin bei Friedemann Vopel?",
+      "answer": "Oft innerhalb weniger Tage."
+    },
+    {
+      "question": "Was kostet eine Sitzung bei Friedemann Vopel?",
+      "answer": "Die Kosten für Psychotherapie betragen 120 € für 60 Minuten, mit einem begrenzten Sozialtarif von 95 €. Coaching kostet 140 € für 60 Minuten."
+    },
+    {
+      "question": "Wo findet die Therapie statt?",
+      "answer": "Die Therapie ist online oder vor Ort in der Praxis möglich."
+    },
+    {
+      "question": "Bietet Friedemann Vopel auch Coaching an?",
+      "answer": "Ja, Friedemann Vopel bietet Coaching für Menschen an, die konkrete berufliche oder persönliche Ziele erreichen möchten."
+    },
+    {
+      "question": "Wie kann ich ein kostenfreies Erstgespräch vereinbaren?",
+      "answer": "Du kannst ein kostenfreies Erstgespräch über die Website von Friedemann Vopel unter https://friedemannvopel.de/kontakt/ vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_FzXA9TqEcRE3KrufIyGGw"
 }

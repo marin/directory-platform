@@ -2,8 +2,8 @@
   "id": "barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg",
   "slug": "barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg",
   "name": "Barbara Naur - Heilpraktikerin Coaching - Malama_Praxis für regenerative Lebensenergie",
-  "description": "Barbara Naur - Heilpraktikerin Coaching - Malama_Praxis für regenerative Lebensenergie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Barbara Naur ist Heilpraktikerin in Berlin-Wilmersdorf und bietet in ihrer Praxis \"Malama - Praxis für regenerative Lebensenergie\" eine Vielzahl von naturheilkundlichen Behandlungen an. Ihr Schwerpunkt liegt auf Shiatsu, Körperpsychotherapie und Akupunktur, um Klienten bei der Bewältigung von Stress, Erschöpfung und körperlichen Beschwerden zu unterstützen. Durch individuelle Therapieansätze fördert sie das Wohlbefinden und die Selbstwahrnehmung ihrer Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017623288286",
   "email": "btnaur@gmail.com",
   "website": "https://www.malama-praxis.com/",
+  "bookingUrl": "https://buchung.treatwell.de/ort/malama-praxis-fuer-regenerative-lebensenergie/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,137 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Mein Therapie-Angebot für dich"
+    },
+    {
+      "id": "offer-2",
+      "name": "Lebenslust statt ständig Frust"
+    },
+    {
+      "id": "offer-3",
+      "name": "Eine körpertherapeutische Behandlung",
+      "description": "in der Regel Shiatsu oder Akupunktur . Wenn sich Dein Körper entspannt, Du dich wach und gut versorgt fühlst, bist Du für Deinen Alltag besser gerüstet."
+    },
+    {
+      "id": "offer-4",
+      "name": "Das Behandlungspaket im Detail"
+    },
+    {
+      "id": "offer-5",
+      "name": "6 Termine zu jeweils 90 Minuten Behandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Behandlungssequenz über 3 Monate"
+    },
+    {
+      "id": "offer-7",
+      "name": "Viel Zeit zum Reden, Reflektieren und sich selber Wahrnehmen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Je nach Deinem Anliegen",
+      "description": "Konfliktlösung, Leadership-Coaching, Ganzheitliche Selbstwahrnehmung, Körperübungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Achtsame Körpertherapie mit Fokus auf Kraftaufbau, Entspannung und Loslassen."
+    },
+    {
+      "id": "offer-10",
+      "name": "nach Bedarf",
+      "description": "Anleitung für sinnvolle Übungen für Deinen Alltag"
+    },
+    {
+      "id": "offer-11",
+      "name": "Alle verwendeten Materialien für die Therapie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Über mich: Barbara Naur"
+    },
+    {
+      "id": "offer-13",
+      "name": "Was meine Patient\\innen sagen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Bei Malama-Praxis für regenerative Lebensenergie helfe ich Dir"
+    },
+    {
+      "id": "offer-15",
+      "name": "Hier kannst Du lernen,"
+    },
+    {
+      "id": "offer-16",
+      "name": "Shiatsu"
+    },
+    {
+      "id": "offer-17",
+      "name": "Körperpsychotherapie"
+    },
+    {
+      "id": "offer-18",
+      "name": "Ich bin Barbara Naur."
+    },
+    {
+      "id": "offer-19",
+      "name": "Meine Videos: Hilf Dir selbst, JETZT :-)"
+    },
+    {
+      "id": "offer-20",
+      "name": "Was ich für Dich tun kann"
+    },
+    {
+      "id": "offer-21",
+      "name": "Malama Praxis in den sozialen Medien"
+    },
+    {
+      "id": "offer-22",
+      "name": "Instagram"
+    },
+    {
+      "id": "offer-23",
+      "name": "Youtube"
+    },
+    {
+      "id": "offer-24",
+      "name": "Facebook"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1634570034666-XUZMV8RBL7GXVUHLXLV9/barbara-naur-heilpraktikerin.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1661282919428-TT4Y8ZNIELQE3DGSND0J/Barbara-Naur-Heilpraktikerin-Berlin.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1666113676334-636DJJD5WNPH2R6F59XS/Video-Morgenuebung-fu%CC%88r-alle-Gelenke-Malama-Praxis.png",
+    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1621076210628-RXETZW8QE3GGAZELL0W9/Barbara-Naur-Shiatsu-massage.jpg",
+    "http://static1.squarespace.com/static/5f788322e262891544a57cc5/t/6991e9ed65c7eb519ef544c1/1771170285435/logo_malama.png?format=1500w"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Barbara Naur in ihrer Praxis an?",
+      "answer": "Barbara Naur bietet verschiedene Therapieangebote an, darunter Shiatsu, Körperpsychotherapie, psychotherapeutische Gespräche und körpertherapeutische Behandlungen. Zudem gibt es Behandlungspakete mit mehreren Terminen und individuellen Schwerpunkten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Malama-Praxis buchen?",
+      "answer": "Einen Termin in der Malama-Praxis können Sie über die Buchungsseite unter https://buchung.treatwell.de/ort/malama-praxis-fuer-regenerative-lebensenergie/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Malama-Praxis?",
+      "answer": "Die Malama-Praxis hat folgende Öffnungszeiten: Montag von 14:00 bis 18:00 Uhr, Dienstag von 09:00 bis 14:00 Uhr, Donnerstag von 09:00 bis 14:00 Uhr und Freitag von 14:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Malama-Praxis für regenerative Lebensenergie?",
+      "answer": "Die Malama-Praxis befindet sich in der Holsteinischen Str. 1, 10717 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Barbara Naur kontaktieren?",
+      "answer": "Sie können Barbara Naur telefonisch unter 017623288286 oder per E-Mail unter btnaur@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3ik__lQqEcRtnfc9ypNbWs",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 50
 }

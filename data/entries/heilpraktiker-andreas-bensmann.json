@@ -2,8 +2,8 @@
   "id": "heilpraktiker-andreas-bensmann",
   "slug": "heilpraktiker-andreas-bensmann",
   "name": "Heilpraktiker Andreas Bensmann",
-  "description": "Heilpraktiker Andreas Bensmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Andreas Bensmann bietet in seiner Praxis in der Kaskelstraße 31 in Berlin-Lichtenberg naturheilkundliche Behandlungen an. Die Praxis ist montags und mittwochs von 17:30 bis 21:00 Uhr geöffnet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -38,5 +38,23 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktiker Andreas Bensmann?",
+      "answer": "Die Praxis von Heilpraktiker Andreas Bensmann befindet sich in der Kaskelstraße 31, 10317 Berlin, Lichtenberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags und mittwochs von 17:30 bis 21:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Heilpraktiker Andreas Bensmann kontaktieren?",
+      "answer": "Sie können Heilpraktiker Andreas Bensmann telefonisch unter 01705804138 kontaktieren."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Heilpraktiker Andreas Bensmann an?",
+      "answer": "Im Moment sind keine spezifischen Angebote oder Behandlungsmethoden aufgelistet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvYDV0dJPqEcRup9N85dT_WI"
 }

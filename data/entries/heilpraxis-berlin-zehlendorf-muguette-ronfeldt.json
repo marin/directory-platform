@@ -3,7 +3,7 @@
   "slug": "heilpraxis-berlin-zehlendorf-muguette-ronfeldt",
   "name": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt",
   "description": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,7 +27,23 @@
   "email": "muguette.r@web.de",
   "website": "http://www.heilpraxis-zehlendorf.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Cranio-Sacrale-Therapie in Berlin-Zehlendorf & am Seediner See"
+    },
+    {
+      "id": "offer-2",
+      "name": "Heilpraxis Berlin Zehlendorf – Muguette Rönfeldt"
+    },
+    {
+      "id": "offer-3",
+      "name": "Heilpraxis Seddiner See – Muguette Rönfeldt"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo0ps2YlZqEcRGvbA-_23ZlU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

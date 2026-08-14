@@ -2,8 +2,8 @@
   "id": "heike-sansoni-psychotherapeutische-heilpraktikerin",
   "slug": "heike-sansoni-psychotherapeutische-heilpraktikerin",
   "name": "Heike Sansoni, Psychotherapeutische Heilpraktikerin",
-  "description": "Heike Sansoni, Psychotherapeutische Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heike Sansoni ist eine psychotherapeutische Heilpraktikerin mit Sitz in Berlin-Schöneberg. Sie bietet Synergetik-Therapie, Familienaufstellungen und CQM an, um Klienten bei der Entfaltung ihres Potentials zu unterstützen. Mit über 23 Jahren Erfahrung in der Begleitung von Innenweltreisen schafft sie einen Raum für Heilung und Kommunikation.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,40 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "www.synergetik-berlin.de"
+    }
+  ],
+  "images": [
+    "https://www.synergetik-berlin.de/schwan.jpg",
+    "https://www.synergetik-berlin.de/IMG_0390%20-%20Kopie.JPG",
+    "https://www.synergetik-berlin.de/index.3.jpg",
+    "https://www.synergetik-berlin.de/button1.gif",
+    "https://www.synergetik-berlin.de/button2.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heike Sansoni an?",
+      "answer": "Heike Sansoni bietet Synergetik-Therapie, Familienaufstellungen und CQM (Chinesische Quantum Methode) an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten von Heike Sansoni?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 10:00 bis 21:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heike Sansoni?",
+      "answer": "Die Praxis befindet sich in der Bamberger Str. 48a, 10779 Berlin, im Stadtteil Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Heike Sansoni kontaktieren?",
+      "answer": "Sie können Heike Sansoni telefonisch unter 01772404257 oder per E-Mail an heike.sansoni@synergetik-berlin.de kontaktieren."
+    },
+    {
+      "question": "Gibt es Parkmöglichkeiten in der Nähe der Praxis?",
+      "answer": "Ja, es gibt kostenloses Parken in der Nähe der Praxis."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ8wV_Y5RqEcRvyjbxQ8B4Jw"
 }

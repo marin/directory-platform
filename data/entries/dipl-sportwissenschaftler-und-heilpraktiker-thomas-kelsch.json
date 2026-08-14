@@ -2,8 +2,8 @@
   "id": "dipl-sportwissenschaftler-und-heilpraktiker-thomas-kelsch",
   "slug": "dipl-sportwissenschaftler-und-heilpraktiker-thomas-kelsch",
   "name": "Dipl.-Sportwissenschaftler und Heilpraktiker Thomas Kelsch",
-  "description": "Dipl.-Sportwissenschaftler und Heilpraktiker Thomas Kelsch ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dipl.-Sportwissenschaftler und Heilpraktiker Thomas Kelsch bietet in seiner Praxis in Berlin alternative Heilmethoden zur Förderung der ganzheitlichen Gesundheit an. Mit einem Fokus auf angewandte Kinesiologie, strukturelle Osteopathie und Frequenz-Therapie verfolgt er das Ziel, die Ursachen von Beschwerden zu identifizieren und nachhaltig zu behandeln. Seine langjährige Erfahrung und die Zufriedenheit seiner Patienten spiegeln sich in der erfolgreichen Behandlung von über 2000 Fällen wider.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,49 @@
   },
   "phone": "03081014627",
   "website": "http://www.thomas-kelsch.de/",
+  "bookingUrl": "https://thomas-kelsch.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihr Weg zu ganzheitlicher Gesundheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Erleben Sie den Unterschied"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kontakt aufnehmen"
+    }
+  ],
+  "images": [
+    "https://thomas-kelsch.de/wp-content/uploads/go-x/u/e7690710-e573-4ab0-8317-63a79fe907e3/l269,t262,w1462,h1462/image-768x768.jpg",
+    "https://thomas-kelsch.de/wp-content/uploads/go-x/u/e7690710-e573-4ab0-8317-63a79fe907e3/image-1200x1192.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Thomas Kelsch an?",
+      "answer": "Thomas Kelsch bietet unter anderem angewandte Kinesiologie, KinesioTaping, strukturelle Osteopathie und Frequenz-Therapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Thomas Kelsch?",
+      "answer": "Die Praxis von Thomas Kelsch befindet sich in der Berlinickestraße 15, 12165 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Thomas Kelsch buchen?",
+      "answer": "Sie können einen Termin bei Thomas Kelsch über die Kontaktseite auf seiner Website buchen: Termin buchen."
+    },
+    {
+      "question": "Wie viele Jahre Erfahrung hat Thomas Kelsch?",
+      "answer": "Thomas Kelsch hat über 10 Jahre Erfahrung in der Heilpraktiker-Praxis."
+    },
+    {
+      "question": "Wie viele Patienten hat Thomas Kelsch bereits behandelt?",
+      "answer": "Thomas Kelsch hat bereits über 2000 Patienten behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJca7LIFU7ZUERHG1Z4-FUss8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

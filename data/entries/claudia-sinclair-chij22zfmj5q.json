@@ -2,8 +2,8 @@
   "id": "claudia-sinclair-chij22zfmj5q",
   "slug": "claudia-sinclair-chij22zfmj5q",
   "name": "Claudia Sinclair",
-  "description": "Claudia Sinclair ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Claudia Sinclair ist eine erfahrene Heilpraktikerin mit über 35 Jahren Praxis in Berlin. Ihre Naturheilpraxis in der Cranachstraße 59 bietet individuelle Diagnostik und Therapien an, die auf Augendiagnose, Antlitzdiagnose, Pflanzenheilkunde und Komplexhomöopathie spezialisiert sind. Darüber hinaus werden traditionelle Heilmethoden wie Aderlass, Blutegelbehandlungen und Schwermetallausleitungen angeboten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,60 @@
   "phone": "0307825655",
   "email": "hapmusi@t-online.de",
   "website": "http://www.naturheilpraxis-sinclair.de/",
+  "bookingUrl": "https://www.naturheilpraxis-sinclair.de/kontakt-preise/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-2",
+      "name": "Fortbildung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Publikationen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Person"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kontakt/Preise"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-sinclair.de/s/img/emotionheader24876191.png?1668542251.960px.233px",
+    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_43758485.png?t=1736702110",
+    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38936362.png?t=1706191400",
+    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38947404.png?t=1599476114",
+    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38936385.png?t=1603281225"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Claudia Sinclair in ihrer Naturheilpraxis an?",
+      "answer": "Claudia Sinclair bietet Diagnostik, Fortbildung, Publikationen und verschiedene Therapien an, darunter Augendiagnose, Antlitzdiagnose, Pflanzenheilkunde und Komplexhomöopathie."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Claudia Sinclair?",
+      "answer": "Die Naturheilpraxis von Claudia Sinclair befindet sich in der Cranachstraße 59, 12157 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Claudia Sinclair buchen?",
+      "answer": "Sie können einen Termin bei Claudia Sinclair über die Buchungsseite auf ihrer Webseite unter https://www.naturheilpraxis-sinclair.de/kontakt-preise/ buchen."
+    },
+    {
+      "question": "Wie kann ich Claudia Sinclair kontaktieren?",
+      "answer": "Sie können Claudia Sinclair telefonisch unter 030-7825655 oder per E-Mail an hapmusi@t-online.de kontaktieren."
+    },
+    {
+      "question": "Bietet Claudia Sinclair auch Fortbildungen an?",
+      "answer": "Ja, Claudia Sinclair bietet Fortbildungen an, die auf ihrer Webseite näher beschrieben werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ22Zfmj5QqEcRfQuFzG6WTkA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

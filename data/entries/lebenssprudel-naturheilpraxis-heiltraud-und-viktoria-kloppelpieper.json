@@ -2,8 +2,8 @@
   "id": "lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper",
   "slug": "lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper",
   "name": "Lebenssprudel Naturheilpraxis Heiltraud und Viktoria Klöppelpieper",
-  "description": "Lebenssprudel Naturheilpraxis Heiltraud und Viktoria Klöppelpieper ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Lebenssprudel Naturheilpraxis, geleitet von Heiltraud und Viktoria Klöppelpieper, befindet sich in Berlin-Spandau und spezialisiert sich auf Frauenheilkunde. In der Praxis wird eine ganzheitliche Form der Salutogenese praktiziert, die sich auf die individuellen Bedürfnisse der Frauen konzentriert. Das Leistungsspektrum umfasst unter anderem Diagnostik, Anamnese sowie Therapien bei hormonellen Dysbalancen, Zyklusstörungen und weiteren frauenspezifischen Beschwerden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,201 @@
   },
   "phone": "015111280259",
   "website": "http://www.praxis-lebenssprudel.de/",
+  "bookingUrl": "https://praxis-lebenssprudel.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Leistungen für Frauenheilkunde"
+    },
+    {
+      "id": "offer-2",
+      "name": "Unser Leistungsdreiklang für Ihre Frauengesundheit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-4",
+      "name": "Anamnese"
+    },
+    {
+      "id": "offer-5",
+      "name": "Blutanalytik"
+    },
+    {
+      "id": "offer-6",
+      "name": "Stuhlanalytik"
+    },
+    {
+      "id": "offer-7",
+      "name": "Speicheldiagnostik"
+    },
+    {
+      "id": "offer-8",
+      "name": "Herzratenvariabilität/HRV"
+    },
+    {
+      "id": "offer-9",
+      "name": "Bioscan"
+    },
+    {
+      "id": "offer-10",
+      "name": "Beschwerden und Therapien"
+    },
+    {
+      "id": "offer-11",
+      "name": "Zyklusstörungen und Regelschmerzen"
+    },
+    {
+      "id": "offer-12",
+      "name": "PCOS"
+    },
+    {
+      "id": "offer-13",
+      "name": "Stimmungsschwankungen und Gereiztheit"
+    },
+    {
+      "id": "offer-14",
+      "name": "Schlafstörungen"
+    },
+    {
+      "id": "offer-15",
+      "name": "eingeschränkte Leistungsfähigkeit"
+    },
+    {
+      "id": "offer-16",
+      "name": "Depression"
+    },
+    {
+      "id": "offer-17",
+      "name": "Libidoverlust"
+    },
+    {
+      "id": "offer-18",
+      "name": "Kopfschmerzen"
+    },
+    {
+      "id": "offer-19",
+      "name": "unreine Haut (Akne)"
+    },
+    {
+      "id": "offer-20",
+      "name": "bis hin zum unerfüllten Kinderwunsch"
+    },
+    {
+      "id": "offer-21",
+      "name": "u.v.m."
+    },
+    {
+      "id": "offer-22",
+      "name": "Menstruationsbeschwerden / PMS"
+    },
+    {
+      "id": "offer-23",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-24",
+      "name": "Beschwerden in den Wechseljahren"
+    },
+    {
+      "id": "offer-25",
+      "name": "Endometriose"
+    },
+    {
+      "id": "offer-26",
+      "name": "Nahrungsmittelunverträglichkeiten / Ernährungsberatung"
+    },
+    {
+      "id": "offer-27",
+      "name": "Chronische Unverträglichkeiten haben schwere Folgen."
+    },
+    {
+      "id": "offer-28",
+      "name": "Reizdarm / Darmaufbau"
+    },
+    {
+      "id": "offer-29",
+      "name": "Vitalstofftherapie / Orthomolekulare Medizin"
+    },
+    {
+      "id": "offer-30",
+      "name": "Eine ausgewogene Ernährung"
+    },
+    {
+      "id": "offer-31",
+      "name": "Erkennen von Defiziten und Mangelversorgung"
+    },
+    {
+      "id": "offer-32",
+      "name": "Allergien"
+    },
+    {
+      "id": "offer-33",
+      "name": "Entgiftung / Ausleitung"
+    },
+    {
+      "id": "offer-34",
+      "name": "Stress / Burnout"
+    },
+    {
+      "id": "offer-35",
+      "name": "Prävention"
+    },
+    {
+      "id": "offer-36",
+      "name": "Bio 12Code-Medizin (Audio-Farb-Therapie)"
+    },
+    {
+      "id": "offer-37",
+      "name": "Wohltuende Ganzkörper-Basen-Wickel"
+    },
+    {
+      "id": "offer-38",
+      "name": "Gesunderhaltung ist unser Ziel"
+    },
+    {
+      "id": "offer-39",
+      "name": "Jede Frau ist einzigartig"
+    },
+    {
+      "id": "offer-40",
+      "name": "Deswegen nehmen wir uns viel Zeit für Ihre Gesundheit"
+    },
+    {
+      "id": "offer-41",
+      "name": "Diagnostik – Therapie – Prävention"
+    },
+    {
+      "id": "offer-42",
+      "name": "Naturheilpraxis für Frauengesundheit"
+    }
+  ],
+  "images": [
+    "http://praxis-lebenssprudel.de/wp-content/uploads/2020/02/heilpraxis-lebenssprudel.jpg",
+    "http://praxis-lebenssprudel.de/wp-content/uploads/2019/09/lebenssprudel.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Leistungen bietet die Lebenssprudel Naturheilpraxis an?",
+      "answer": "Die Lebenssprudel Naturheilpraxis bietet verschiedene Leistungen im Bereich der Frauenheilkunde an, darunter Anamnese, Diagnostik, Blutanalytik, Stuhlanalytik, Speicheldiagnostik, Herzratenvariabilität (HRV) und Bioscan. Zudem werden Therapien für hormonelle Dysbalancen, Zyklusstörungen, Stimmungsschwankungen und weitere Beschwerden angeboten."
+    },
+    {
+      "question": "Wo befindet sich die Lebenssprudel Naturheilpraxis?",
+      "answer": "Die Lebenssprudel Naturheilpraxis befindet sich in Berlin, Platenhofer Weg 3b, 13503 Berlin."
+    },
+    {
+      "question": "Bietet die Praxis auch telefonische Beratungen an?",
+      "answer": "Ja, die Lebenssprudel Naturheilpraxis bietet die Möglichkeit einer telefonischen Erst-Anamnese an."
+    },
+    {
+      "question": "Was ist das Ziel der Lebenssprudel Naturheilpraxis?",
+      "answer": "Das Ziel der Lebenssprudel Naturheilpraxis ist die Gesunderhaltung der Frauen durch eine ganzheitliche und natürliche Form der Salutogenese, wobei die individuellen Bedürfnisse und Probleme der Patientinnen im Mittelpunkt stehen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOWLVHnFVqEcRquohMTfOQgU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

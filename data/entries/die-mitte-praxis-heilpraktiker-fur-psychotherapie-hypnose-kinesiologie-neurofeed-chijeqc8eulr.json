@@ -2,8 +2,8 @@
   "id": "die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed-chijeqc8eulr",
   "slug": "die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed-chijeqc8eulr",
   "name": "Die Mitte Praxis - Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie, Neurofeedback in Berlin Mitte",
-  "description": "Die Mitte Praxis - Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie, Neurofeedback in Berlin Mitte ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Mitte Praxis in Berlin Mitte bietet umfassende therapeutische Unterstützung durch Heilpraktiker für Psychotherapie. Das Team um Dr. Caroline Böttiger und Andreas Weller arbeitet mit einem breiten Spektrum an Methoden, darunter Hypnotherapie, Kinesiologie und Neurofeedback, um Klienten bei Stress, Ängsten, Burnout sowie seelischen und psychosomatischen Leiden zu helfen. Die Praxis legt großen Wert auf eine einfühlsame und traumasensible Herangehensweise, um individuelle Anliegen bestmöglich zu adressieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,6 +27,7 @@
   "phone": "03027583216",
   "email": "kontakt@boettiger-psychotherapie.de",
   "website": "https://www.mitte-praxis.de/",
+  "bookingUrl": "https://www.etermin.net/carolineboettiger1?calendarid=48279",
   "openingHours": [
     {
       "day": "Monday",
@@ -74,7 +75,62 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wir helfen bei"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dr. rer. nat. Caroline Böttiger"
+    },
+    {
+      "id": "offer-3",
+      "name": "Neurofeedback gestützte Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Paartherapie 2:2"
+    },
+    {
+      "id": "offer-5",
+      "name": "Das sagen unsere Kunden"
+    },
+    {
+      "id": "offer-6",
+      "name": "Oder schreiben Sie uns"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/i1659a26af934e8e8/version/1761115631/einzeltherapie-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-60-min-90-min-vor-ort-oder-online.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/ia183ac2865a1dcc8/version/1761115829/paartherapie-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-im-2-2-format-90-min-vor-ort-oder-online.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/i587c40d56949e867/version/1771406312/neurofeedbacktraining-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-geeignet-bei-ads-adhs-konzentrationsschwierigkeiten-f%C3%BCr-erwachsene-und-kinder.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=354x10000:format=jpg/path/sdab31b493f975fb0/image/i7cc7b6ebecd8afa2/version/1761115762/heilpraktiker-f%C3%BCr-psychotherapie-in-berlin-mitte-dr-caroline-b%C3%B6ttiger.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=354x10000:format=jpg/path/sdab31b493f975fb0/image/i52764de7628cccff/version/1761115806/heilpraktiker-f%C3%BCr-psychotherapie-und-kinesiologie-nach-dr-klinghardt-in-berlin-mitte-andreas-weller.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Mitte Praxis an?",
+      "answer": "Die Mitte Praxis bietet ein breites Spektrum an Therapien an, darunter Psychotherapie, Traumatherapie, Kinesiologie nach Dr. Klinghardt, Neurofeedback, Hypnose, WingWave, TRE (Trauma Releasing Exercise), Paartherapie und Familienstellen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Mitte Praxis buchen?",
+      "answer": "Sie können einen Termin in der Mitte Praxis über die Website buchen. Hier ist der direkte Link zur Buchung: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Mitte Praxis geöffnet?",
+      "answer": "Die Mitte Praxis hat montags, dienstags, mittwochs und donnerstags von 09:30 bis 12:00 Uhr und von 14:00 bis 20:00 Uhr geöffnet. Am Freitag ist die Praxis von 09:30 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Mitte Praxis?",
+      "answer": "Die Mitte Praxis befindet sich in der Linienstraße 130/2, Hinterhof, in Berlin Mitte, 10115 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Mitte Praxis kontaktieren?",
+      "answer": "Sie können die Mitte Praxis telefonisch unter 03027583216 oder per E-Mail an kontakt@boettiger-psychotherapie.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQc8EulRqEcRfakxVP529EI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

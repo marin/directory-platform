@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-liana-stetskovych",
   "slug": "heilpraktikerin-liana-stetskovych",
   "name": "Heilpraktikerin Liana Stetskovych",
-  "description": "Heilpraktikerin Liana Stetskovych ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Liana Stetskovych bietet in ihrer Naturheilpraxis in Berlin-Steglitz-Zehlendorf eine umfassende Behandlung durch verschiedene Heilverfahren an. Zu den angebotenen Therapien zählen unter anderem Osteopathie, Phytotherapie, Homöopathie, Hypnosetherapie und Aromatherapie. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Gesundheitsförderung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03062728033",
   "email": "info@charme-d-orient.de",
   "website": "https://www.charme-d-orient.de/heilpraxis.html",
+  "bookingUrl": "https://www.charme-d-orient.de/kontakt-anfahrt.html",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,38 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraxis"
+    }
+  ],
+  "images": [
+    "https://www.charme-d-orient.de/uploads/1/3/7/9/137965117/3k9a0416_orig.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerin Liana Stetskovych?",
+      "answer": "Die Heilpraktikerin Liana Stetskovych befindet sich in Berlin, Buckower Damm 175, 12349 Berlin."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet die Heilpraktikerin an?",
+      "answer": "Die Heilpraktikerin bietet verschiedene Heilverfahren an, darunter Osteopathie, Phytotherapie, Hirudotherapie, Homöopathie, Hypnosetherapie, Aromatherapie, Yoga, Massagen, Ohrakupunktur und Fußreflexzonenmassage."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin buchen, indem Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt über diesen Link: https://www.charme-d-orient.de/kontakt-anfahrt.html."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Heilpraktikerin?",
+      "answer": "Die Heilpraktikerin hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Werden die Behandlungskosten von Krankenkassen übernommen?",
+      "answer": "Die Kosten für die Behandlung können zum Teil von den gesetzlichen oder privaten Krankenkassen übernommen werden. Es wird empfohlen, bei der eigenen Krankenkasse nachzufragen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA_T-4GxFqEcRXad7h9bp8B4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

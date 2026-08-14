@@ -2,8 +2,8 @@
   "id": "annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun",
   "slug": "annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun",
   "name": "Annette Moll: Praxis für Chinesische Medizin - Akupunktur, Kräuterheilkunde, Ernährung",
-  "description": "Annette Moll: Praxis für Chinesische Medizin - Akupunktur, Kräuterheilkunde, Ernährung ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Annette Moll bietet in ihrer Praxis für Chinesische Medizin in Berlin-Prenzlauer Berg umfassende Behandlungen an, die Akupunktur, Kräuterheilkunde und Ernährungsberatung umfassen. Sie behandelt eine Vielzahl von Beschwerden, darunter Schmerzen, Schlafprobleme und Verdauungsstörungen, und legt großen Wert auf eine individuelle Diagnostik und Therapieplanung. Die Praxis ist gut erreichbar und bietet eine empathische, patientenorientierte Betreuung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -55,7 +55,54 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "So läuft der erste Termin ab"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur als Teil der Chinesischen Medizin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Krankheiten mit Akupunktur behandeln und vorbeugen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Massage und Akupressur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Schröpfen"
+    }
+  ],
+  "images": [
+    "https://annettemoll-praxis.de/wp-content/uploads/2016/01/AGTCM-Annette-Moll-Akupunktur-Neuk%C3%B6lln-Berlin-1-300x82.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Annette Moll in ihrer Praxis an?",
+      "answer": "Annette Moll bietet Akupunktur, Kräuterheilkunde und Ernährungsberatung an, die alle Teil der Chinesischen Medizin sind."
+    },
+    {
+      "question": "Wie läuft der erste Termin in der Praxis ab?",
+      "answer": "Der erste Termin dauert bis zu 2 Stunden und umfasst ein ausführliches Gespräch über Ihre Beschwerden, eine Diagnose gemäß den Leitlinien der Chinesischen Medizin und eine anschließende Behandlung mit Akupunktur sowie gegebenenfalls anderen Methoden."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Annette Moll?",
+      "answer": "Die Praxis befindet sich in der Kopenhagener Str. 33, 10437 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Webseite annettemoll-praxis.de buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag von 10:00 bis 18:00, Dienstag von 10:00 bis 18:30, Mittwoch von 10:00 bis 19:00, Donnerstag von 11:00 bis 19:00 und Freitag von 10:00 bis 18:00."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4V-jLVPqEcRqMSL_kebSBQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

@@ -2,8 +2,8 @@
   "id": "frau-viola-schalski",
   "slug": "frau-viola-schalski",
   "name": "Frau Viola Schalski",
-  "description": "Frau Viola Schalski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Viola Schalski ist Heilpraktikerin in ihrer Naturheilpraxis in der Altstadt Spandau, Berlin. Ihr Anliegen ist es, Gesundheit auf allen Ebenen des Daseins – körperlich, seelisch und geistig – zu bewahren, zu fördern und bei der Wiederherstellung zu unterstützen. Zu ihren Angeboten zählen unter anderem Pflanzenheilkunde, Strömungs-Massage, Reflexzonentherapie sowie Ohr-Akupunktur.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,74 @@
   "phone": "03035303653",
   "website": "https://www.hauptstadt-heilpflanzen.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-2",
+      "name": "Strömungs-Massage"
+    },
+    {
+      "id": "offer-3",
+      "name": "Reflexzonentherapie an Händen, Füßen und Ohren"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ohr-Akupunktur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Naturheilkundliche Verfahren"
+    },
+    {
+      "id": "offer-6",
+      "name": "Lebensberatung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Fasten vor Ostern"
+    },
+    {
+      "id": "offer-8",
+      "name": "Therapieverfahren auf einen Blick"
+    },
+    {
+      "id": "offer-9",
+      "name": "Naturheilpraxis in der Altstadt Spandau"
+    },
+    {
+      "id": "offer-10",
+      "name": "Angebote"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1000,height=525/image/222240434/7322ffc2-e984-4121-9291-5bde8e49c9bc.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Frau Viola Schalski an?",
+      "answer": "Frau Viola Schalski bietet unter anderem Pflanzenheilkunde, Strömungs-Massage, Reflexzonentherapie an Händen, Füßen und Ohren, Ohr-Akupunktur sowie verschiedene naturheilkundliche Verfahren an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Frau Viola Schalski?",
+      "answer": "Die Naturheilpraxis von Frau Viola Schalski befindet sich in der Ritterstraße 12, 13597 Berlin, im Stadtteil Altstadt Spandau."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Frau Viola Schalski vereinbaren?",
+      "answer": "Termine können nach Vereinbarung unter der Telefonnummer 030 35303653 oder per E-Mail an vi.schalski@gmx.de vereinbart werden."
+    },
+    {
+      "question": "Bietet Frau Viola Schalski auch Lebensberatung an?",
+      "answer": "Ja, Frau Viola Schalski bietet Lebensberatung als Teil ihrer Dienstleistungen an."
+    },
+    {
+      "question": "Gibt es spezielle Veranstaltungen oder Kurse in der Praxis?",
+      "answer": "Ja, Frau Viola Schalski bietet Heilpflanzen-Kurse, Wildkräuter-Wanderungen und Vorträge zur Anwendung von Naturheilmitteln an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI-yaw0ZWqEcRiMEBn0L2YjI",
+  "googleMapsRating": 1,
+  "googleMapsRatingsCount": 2
 }

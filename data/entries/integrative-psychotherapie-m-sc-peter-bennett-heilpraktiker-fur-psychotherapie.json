@@ -2,8 +2,8 @@
   "id": "integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie",
   "slug": "integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie",
   "name": "Integrative Psychotherapie - M.Sc Peter Bennett (Heilpraktiker für Psychotherapie)",
-  "description": "Integrative Psychotherapie - M.Sc Peter Bennett (Heilpraktiker für Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Integrative Psychotherapie - M.Sc Peter Bennett bietet in Berlin eine individuelle und ganzheitliche psychotherapeutische Behandlung an. Der Ansatz kombiniert verschiedene therapeutische Schulen, darunter Verhaltenstherapie, systemische Therapie und Körperpsychotherapie, um auf die spezifischen Bedürfnisse der Klienten einzugehen. Die Praxis legt besonderen Wert auf die Verbindung zwischen Körper und Geist und nutzt Achtsamkeit sowie somatische Übungen, um ein tiefes Verständnis der eigenen Emotionen und Verhaltensweisen zu fördern. Sitzungen sind sowohl vor Ort in der Waisenstraße 28 als auch online möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -52,7 +52,42 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Verwurzelt in Wissenschaft, geleitet von Intuition"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kosten & Kontakt"
+    }
+  ],
+  "images": [
+    "https://berlinpsychotherapy.com/wp-content/uploads/2025/09/Psychotherapie-1-scaled.jpg",
+    "https://berlinpsychotherapy.com/wp-content/uploads/2026/05/Psychotherapie-Peter-Bennett.jpg",
+    "https://berlinpsychotherapy.com/wp-content/uploads/2025/01/Logo.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieansätze verwendet Peter Bennett in seiner Praxis?",
+      "answer": "Peter Bennett nutzt einen schulenübergreifenden Ansatz, der Verhaltenstherapie, Systemische Therapie, Tiefenpsychologie und Körperpsychotherapie umfasst."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Sitzung bei Peter Bennett?",
+      "answer": "Die Kosten für die Sitzungen liegen zwischen 90 € und 120 € pro 60 Minuten, gestaffelt nach Einkommen. Das Erstgespräch kostet 50 € für 60 Minuten."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Peter Bennett?",
+      "answer": "Die Praxis befindet sich in der Waisenstraße 28, 10179 Berlin."
+    },
+    {
+      "question": "Bietet Peter Bennett auch Online-Sitzungen an?",
+      "answer": "Ja, die Sitzungen können sowohl vor Ort in der Praxis als auch online stattfinden."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Peter Bennett vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie Peter Bennett per E-Mail unter peterbennett@berlinpsychotherapy.com oder telefonisch unter +49 (0) 176 380 70 203 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwjPBitPqEcR8tTBsTSXJus"
 }

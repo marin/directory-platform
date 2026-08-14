@@ -2,8 +2,8 @@
   "id": "marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak",
   "slug": "marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak",
   "name": "Marcel Hermkes - Psychotherapeutische Praxis für Gestalttherapie & Coaching | Heilpraktiker für Psychotherapie",
-  "description": "Marcel Hermkes - Psychotherapeutische Praxis für Gestalttherapie & Coaching | Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der psychotherapeutischen Praxis von Marcel Hermkes in Berlin-Friedenau werden Gestalttherapie, traumainformierte Begleitung und Coaching angeboten. Der Heilpraktiker für Psychotherapie schafft einen geschützten Raum, in dem Klienten emotionale Herausforderungen bewältigen und persönliche sowie berufliche Veränderungsprozesse unterstützen können. Durch einen ganzheitlichen und integrativen Ansatz wird der Zugang zu Selbsterfahrung und Heilung gefördert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "017674584935",
   "email": "gestaltpraxis-hermkes@posteo.de",
   "website": "https://gestalttherapie-hermkes.de/",
+  "bookingUrl": "https://www.gestalttherapie-hermkes.de/contact",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,80 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die gesuchte Seite wurde verschoben oder gelöscht."
+    },
+    {
+      "id": "offer-2",
+      "name": "Gestalttherapie \\| Traumainformierte Begleitung \\| Coaching"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine therapeutischen Schwerpunkte"
+    },
+    {
+      "id": "offer-4",
+      "name": "Mein Behandlungsangebot"
+    },
+    {
+      "id": "offer-5",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-7",
+      "name": "Traumasensible Beratung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Dialogisch & Beziehungsorientiert"
+    },
+    {
+      "id": "offer-9",
+      "name": "Körperorientiert"
+    },
+    {
+      "id": "offer-10",
+      "name": "Traumasensibel"
+    },
+    {
+      "id": "offer-11",
+      "name": "Familiendynamisch & Transgenerational"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/1754214505431-BOEF4FRGKIJTP3U9L5CX/unsplash-image-xMFCS3j7thU.jpg",
+    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/8ba85670-ab7e-4c73-8613-005719c1fbd2/marcel_therapy_square.jpg",
+    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/781b5008-b760-48f0-a4a0-e73a4476a240/annie-spratt-o2IzXk3oqUQ-unsplash.jpg",
+    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/b599af3f-3ccf-4a5b-afe5-31809b9803c9/annie-spratt-TIJyMHphhAo-unsplash.jpg",
+    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/1755981082630-CXSIQMI0Q3PX6V8LHXLW/unsplash-image-zA7I5BtFbvw.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche therapeutischen Ansätze bietet Marcel Hermkes an?",
+      "answer": "Marcel Hermkes bietet Gestalttherapie, traumainformierte Begleitung und Coaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Marcel Hermkes?",
+      "answer": "Die Praxis befindet sich in der Wielandstraße 9, 12159 Berlin, im Stadtteil Friedenau."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Webseite gestalttherapie-hermkes.de buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 19:00 Uhr, am Freitag von 08:00 bis 20:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Marcel Hermkes kontaktieren?",
+      "answer": "Sie können Marcel Hermkes telefonisch unter 017674584935 oder per E-Mail an gestaltpraxis-hermkes@posteo.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF-_SVuZRqEcRtHTLedx3sVo"
 }

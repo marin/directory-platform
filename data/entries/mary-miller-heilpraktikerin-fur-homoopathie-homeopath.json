@@ -2,8 +2,8 @@
   "id": "mary-miller-heilpraktikerin-fur-homoopathie-homeopath",
   "slug": "mary-miller-heilpraktikerin-fur-homoopathie-homeopath",
   "name": "Mary Miller - Heilpraktikerin für Homöopathie, Homeopath",
-  "description": "Mary Miller - Heilpraktikerin für Homöopathie, Homeopath ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Mary Miller ist eine erfahrene Heilpraktikerin für Homöopathie mit einer Praxis in der Stargarder Straße 63 in Berlin-Pankow. Sie bietet individuelle homöopathische Behandlungen für Frauen, insbesondere in den Bereichen Menstruationsbeschwerden, Schwangerschaft und Stillzeit, sowie für Kinder bei Entwicklungsstörungen und akuten Erkrankungen an. Ihre Praxis legt Wert auf natürliche und nicht-toxische Heilmittel, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   "phone": "03030136945",
   "email": "info@marymiller.de",
   "website": "http://www.marymiller.de/",
+  "bookingUrl": "https://hompractice.youcanbook.me/",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,6 +55,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.marymiller.de/wp-content/uploads/2013/11/01_planausschnitt.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Mary Miller an?",
+      "answer": "Mary Miller ist Heilpraktikerin für Homöopathie und bietet Behandlungen für Frauenheilkunde, Schwangerschaftsprobleme, sowie pädiatrische Anliegen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Mary Miller buchen?",
+      "answer": "Sie können einen Termin online buchen, indem Sie diesen Link verwenden: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag, Mittwoch, Donnerstag und Freitag von 09:00 bis 16:00 Uhr und Dienstag von 15:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Mary Miller?",
+      "answer": "Die Praxis befindet sich in der Stargarder Str. 63, 10437 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie kann ich Mary Miller kontaktieren?",
+      "answer": "Sie können Mary Miller telefonisch unter 03030136945 oder per E-Mail an info@marymiller.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm42yQP9NqEcRoV4tgkwh4CE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

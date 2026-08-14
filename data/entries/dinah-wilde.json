@@ -2,8 +2,8 @@
   "id": "dinah-wilde",
   "slug": "dinah-wilde",
   "name": "Dinah Wilde",
-  "description": "Dinah Wilde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dinah Wilde ist eine erfahrene Heilpraktikerin für Infusionstherapie und Akupunktur mit Sitz in Berlin-Weißensee. Ihr ganzheitlicher Ansatz verbindet fundiertes Wissen der Komplementärmedizin mit individueller Begleitung in körperlichen und seelischen Anliegen. Besonders spezialisiert ist sie auf die komplementärmedizinische Unterstützung von Brustkrebspatientinnen. In ihrer Praxis bietet sie zudem ergänzende Verfahren wie Massagen und Reiki an, um eine tiefgehende Entspannung und Regeneration zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017684988678",
   "email": "hallo@dinahwilde.com",
   "website": "http://www.dinahwilde.com/",
+  "bookingUrl": "https://calendly.com/dinah-wilde/dripdrip",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -47,7 +48,64 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Infusionen & Drip Spa"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Gut zu wissen"
+    },
+    {
+      "id": "offer-4",
+      "name": "– Dorothee, 53 Jahre, Brustkrebspatientin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Heilpraktikerin für Infusionstherapie & Akupunktur in Berlin-Weissensee"
+    },
+    {
+      "id": "offer-6",
+      "name": "Infusions-therapie & Drip Spa"
+    },
+    {
+      "id": "offer-7",
+      "name": "Aus- und Weiterbildungen"
+    }
+  ],
+  "images": [
+    "https://dinahwilde.com/wp-content/uploads/2023/03/cropped-Bildschirmfoto-2023-03-16-um-18.06.38.png",
+    "http://dinahwilde.com/wp-content/uploads/2026/04/IMG_9598_quer_b-scaled.jpg",
+    "http://dinahwilde.com/wp-content/uploads/2023/07/IMG_6118-scaled.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Dinah Wilde an?",
+      "answer": "Dinah Wilde bietet Infusionstherapie, Drip Spa und Akupunktur an. Zudem umfasst ihr Angebot ergänzende Verfahren wie Massagen und Reiki."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Dinah Wilde?",
+      "answer": "Die Praxis von Dinah Wilde befindet sich in Berlin, c/o Neocosmetic Berlin, 13086 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dinah Wilde buchen?",
+      "answer": "Sie können einen Termin bei Dinah Wilde über die Buchungsseite calendly.com/dinah-wilde/dripdrip buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Dienstag bis Donnerstag von 09:30 bis 20:00 Uhr und Freitag von 09:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Dinah Wilde kontaktieren?",
+      "answer": "Sie können Dinah Wilde telefonisch unter 017684988678 oder per E-Mail an hallo@dinahwilde.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYapt8KRRqEcRc-Ub5nl4wvM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

@@ -2,8 +2,8 @@
   "id": "manuel-glasl-heilpraktiker-fur-psychotherapie",
   "slug": "manuel-glasl-heilpraktiker-fur-psychotherapie",
   "name": "Manuel Glasl - Heilpraktiker für Psychotherapie",
-  "description": "Manuel Glasl - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Manuel Glasl ist Heilpraktiker für Psychotherapie in Berlin-Steglitz-Zehlendorf. In seiner Praxis bietet er erlebnisorientierte Therapiemethoden wie Gestalttherapie, Traumatherapie und Körpertherapie an, um Klienten bei der Auseinandersetzung mit ihren Emotionen und Erfahrungen zu unterstützen. Ziel seiner Arbeit ist es, Verhaltensweisen und Denkmuster positiv zu verändern sowie die Resilienz und persönliche Entwicklung zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,172 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapie-Methoden"
+    },
+    {
+      "id": "offer-2",
+      "name": "Allgemein"
+    },
+    {
+      "id": "offer-3",
+      "name": "Persönlichkeitsstrukturen günstig zu beeinflussen"
+    },
+    {
+      "id": "offer-4",
+      "name": "und Leiden zu lindern."
+    },
+    {
+      "id": "offer-5",
+      "name": "Motivation zur Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "subjektiver Leidensdruck (eigener oder durch andere)"
+    },
+    {
+      "id": "offer-7",
+      "name": "Fähigkeit zur Einsicht (Introspektionsfähigkeit)"
+    },
+    {
+      "id": "offer-8",
+      "name": "Beziehungsfähigkeit (sich auf den Therapeuten einlassen können)"
+    },
+    {
+      "id": "offer-9",
+      "name": "Fähigkeit zur kritischen Selbstüberprüfung (Reflektionsfähigkeit)"
+    },
+    {
+      "id": "offer-10",
+      "name": "Konfliktfähigkeit und ein wenig Ausdauer"
+    },
+    {
+      "id": "offer-11",
+      "name": "Für mich ist die Grundhaltung wichtig. Ich arbeite Klientenorientiert."
+    },
+    {
+      "id": "offer-12",
+      "name": "Fokaltherapie (tiefenpsychologisch orientierte Kurzzeittherapie)"
+    },
+    {
+      "id": "offer-13",
+      "name": "Kognitive Therapie, Systemische Desensibilisierung"
+    },
+    {
+      "id": "offer-14",
+      "name": "soziales Kompetenztraining"
+    },
+    {
+      "id": "offer-15",
+      "name": "Interpersonelle Psychotherapie"
+    },
+    {
+      "id": "offer-16",
+      "name": "systemische Familientherapie"
+    },
+    {
+      "id": "offer-17",
+      "name": "Paartherapie"
+    },
+    {
+      "id": "offer-18",
+      "name": "Gestalttherapie"
+    },
+    {
+      "id": "offer-19",
+      "name": "Psychodrama"
+    },
+    {
+      "id": "offer-20",
+      "name": "klientenzentrierte Gesprächstherapie"
+    },
+    {
+      "id": "offer-21",
+      "name": "Kunsttherapie"
+    },
+    {
+      "id": "offer-22",
+      "name": "Musiktherapie"
+    },
+    {
+      "id": "offer-23",
+      "name": "Tanztherapie"
+    },
+    {
+      "id": "offer-24",
+      "name": "bioenergetische Analyse"
+    },
+    {
+      "id": "offer-25",
+      "name": "Muskelrelaxation nach Jacobson"
+    },
+    {
+      "id": "offer-26",
+      "name": "Hypnotherapie"
+    },
+    {
+      "id": "offer-27",
+      "name": "autogenes Training"
+    },
+    {
+      "id": "offer-28",
+      "name": "Yoga"
+    },
+    {
+      "id": "offer-29",
+      "name": "Psychoedukation"
+    },
+    {
+      "id": "offer-30",
+      "name": "verhaltenstherapeutische Techniken wie Exposition Systemische Desensibilisierung"
+    },
+    {
+      "id": "offer-31",
+      "name": "Selbstsicherheitsttraining"
+    },
+    {
+      "id": "offer-32",
+      "name": "Was ich anbiete"
+    },
+    {
+      "id": "offer-33",
+      "name": "Einzeltherapie"
+    },
+    {
+      "id": "offer-34",
+      "name": "Familienberatung"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/cf6dd9_89434fb6422a402aa51a2ddda9c78614~mv2.jpg/v1/fill/w_946,h_675,fp_0.69_0.38,q_85,enc_avif,quality_auto/cf6dd9_89434fb6422a402aa51a2ddda9c78614~mv2.jpg",
+    "https://static.wixstatic.com/media/nsplsh_454b51e538324d279a8bf6a47367b6cb~mv2.jpg/v1/crop/x_728,y_0,w_2912,h_2912/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image%20by%20Jan%20Genge.jpg",
+    "https://static.wixstatic.com/media/cf6dd9_77ea7dfb6215413687e11345b04b531f~mv2.jpg/v1/crop/x_1005,y_0,w_1995,h_2000/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/black%20and%20white%20ceramic%20bowl_edited.jpg",
+    "https://static.wixstatic.com/media/nsplsh_4c7957377071735038316b~mv2_d_5184_3456_s_4_2.jpg/v1/crop/x_864,y_0,w_3456,h_3456/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image%20by%20Olesya%20Yemets.jpg",
+    "https://static.wixstatic.com/media/nsplsh_9e7ff4357beb40e2a2b519f7de279ea8~mv2.jpg/v1/crop/x_0,y_1000,w_4000,h_4000/fill/w_121,h_121,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image%20by%20Orlando%20Allo.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapiemethoden bietet Manuel Glasl an?",
+      "answer": "Manuel Glasl bietet erlebnisorientierte Therapiemethoden an, darunter Gestalttherapie, Traumatherapie, Körpertherapie und Aufstellungsarbeit."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Manuel Glasl buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf der Website von Manuel Glasl buchen: https://www.manuelglasl.com/book-online."
+    },
+    {
+      "question": "Was sind häufige Themen, die in der Therapie behandelt werden?",
+      "answer": "Häufige Themen in der Therapie sind Entscheidungsfindung, Jobwechsel, Work-Life-Balance, Trennung, Verlust, Angst, Depression und persönliche Weiterentwicklung."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:30 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Manuel Glasl?",
+      "answer": "Die Praxis befindet sich in Berlin, Kadettenweg 62, 12205 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq6qaiFxaqEcRueiQpjdt6ew"
 }

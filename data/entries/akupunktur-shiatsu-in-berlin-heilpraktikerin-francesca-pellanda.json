@@ -2,8 +2,8 @@
   "id": "akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda",
   "slug": "akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda",
   "name": "Akupunktur & Shiatsu in Berlin – Heilpraktikerin Francesca Pellanda",
-  "description": "Akupunktur & Shiatsu in Berlin – Heilpraktikerin Francesca Pellanda ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Francesca Pellanda bietet in ihrer Praxis in Berlin Kreuzberg und Neukölln individuelle Behandlungen mit Akupunktur und Shiatsu an. Sie legt großen Wert auf persönliche Diagnosen und Behandlungspläne, um die Selbstheilungskräfte des Körpers zu unterstützen. Ihre Therapieangebote umfassen unter anderem Frauenheilkunde, Kinderwunsch sowie Schmerzbehandlungen. Die Behandlungen können in mehreren Sprachen durchgeführt werden, darunter Deutsch, Englisch, Italienisch und Französisch.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,70 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Therapie Angebote"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Shiatsu"
+    },
+    {
+      "id": "offer-4",
+      "name": "Frauenheilkunde"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schwangerschaft & Geburtvorbereitung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Schmerzbehandlung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Long Covid-Syndrom"
+    }
+  ],
+  "images": [
+    "https://francescapellanda.de/wp-content/uploads/2023/03/DSF4848.jpg",
+    "https://francescapellanda.de/wp-content/uploads/2023/03/IMG_8230.jpg",
+    "https://francescapellanda.de/wp-content/uploads/2023/03/francescapellanda.jpg",
+    "https://francescapellanda.de/wp-content/uploads/2023/02/reviews.svg",
+    "https://francescapellanda.de/wp-content/uploads/2023/03/Stars.svg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Francesca Pellanda an?",
+      "answer": "Francesca Pellanda bietet Akupunktur und Shiatsu an, die zur Behandlung von verschiedenen Beschwerden und zur Förderung der Gesundheit eingesetzt werden."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Francesca Pellanda?",
+      "answer": "Die Praxis befindet sich in der Manteuffelstraße 67, 10999 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin online über Doctolib buchen. Hier ist der Link: Termin online buchen."
+    },
+    {
+      "question": "Welche Sprachen werden in der Behandlung angeboten?",
+      "answer": "Die Behandlungen können auf Deutsch, Englisch, Italienisch und Französisch durchgeführt werden."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 08:00 bis 14:00, Dienstag von 15:00 bis 21:00, Mittwoch von 08:00 bis 14:00, Donnerstag von 09:00 bis 19:00 und Freitag von 09:00 bis 21:00."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPXnxlcpPqEcRqZf8DgVAXEI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 38
 }

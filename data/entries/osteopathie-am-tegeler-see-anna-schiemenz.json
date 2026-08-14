@@ -2,8 +2,8 @@
   "id": "osteopathie-am-tegeler-see-anna-schiemenz",
   "slug": "osteopathie-am-tegeler-see-anna-schiemenz",
   "name": "Osteopathie am Tegeler See – Anna Schiemenz",
-  "description": "Osteopathie am Tegeler See – Anna Schiemenz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Finde nicht irgendeine Ausbildung – sondern die Osteopath/Osteopathin. Jetzt informieren!",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,8 +26,39 @@
   "phone": "030585838490",
   "email": "datenschutz@osteopathie.de",
   "website": "https://www.osteopathie.de/therapeutenliste?thnr=316076&plzbereich=1&suchplz=&suchort=&suchfirma=&suchname=&dosymbol=&kindersymbol=",
+  "bookingUrl": "https://www.osteopathie.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "THERAPEUTENLISTE QUALIFIZIERTER OSTEOPATHINNEN & OSTEOPATHEN"
+    },
+    {
+      "id": "offer-2",
+      "name": "Suchen Sie nach ..."
+    },
+    {
+      "id": "offer-3",
+      "name": "oder Anzeige nach PLZ"
+    },
+    {
+      "id": "offer-4",
+      "name": "Suche im Umkreis"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hinweis zur Therapeutenliste"
+    }
+  ],
+  "images": [
+    "https://www.osteopathie.de/extern/therapeutenliste/dkarte.jpg",
+    "https://osteopathie.de/style/kindersymbol_neu.png",
+    "https://osteopathie.de/style/parken.png",
+    "https://osteopathie.de/style/rs.png",
+    "https://www.osteopathie.de/style/facebook.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm-Qjc95fqEcRpohxLqcAAg8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

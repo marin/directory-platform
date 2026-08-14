@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-kosmetik-massage",
   "slug": "praxis-fur-naturheilkunde-kosmetik-massage",
   "name": "Praxis für Naturheilkunde, Kosmetik & Massage",
-  "description": "Praxis für Naturheilkunde, Kosmetik & Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde, Kosmetik & Massage in Berlin-Lichtenberg bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen sowie kosmetischen Anwendungen. Zu den angebotenen Therapien zählen unter anderem medizinische Massagen, Colon-Hydro-Therapie und verschiedene Gesichtsbehandlungen. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Förderung von Gesundheit und Wohlbefinden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03080586691",
   "email": "kontakt@naturheilpraxis-karlshorst.de",
   "website": "http://naturheilpraxis-karlshorst.de/",
+  "bookingUrl": "https://naturheilpraxis-karlshorst.de/Termine.htm",
   "openingHours": [
     {
       "day": "Monday",
@@ -57,7 +58,259 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "MEDIZINISCHE GANZKÖRPER- ca. 90 Min.",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 70,
+      "priceLabel": "70,00 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "MEDIZINISCHE GANZKÖRPER-ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 50,
+      "priceLabel": "50,00 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "MEDIZINISCHE RÜCKEN-MASSAGE ca. 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30,00 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "MEDIZINISCHE RÜCKEN & BEIN-ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 50,
+      "priceLabel": "50,00 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "SPORT-MASSAGE ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 50,
+      "priceLabel": "50,00 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "BINDEGEWEBS-MASSAGE ca. 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30,00 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "SCHRÖPFKOPF-MASSAGE ca. 20 Min.",
+      "durationMinutes": 20,
+      "durationLabel": "20 min",
+      "price": 20,
+      "priceLabel": "20,00 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "GESICHTSBEHANDLUNG „BASIS“ ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 45,
+      "priceLabel": "45,00 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "GESICHTSBEHANDLUNG „WELLNESS“ ca. 90 Min.",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 55,
+      "priceLabel": "55,00 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "GESICHTSBEHANDLUNG „DELUXE“ ca. 100 Min.",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 60,
+      "priceLabel": "60,00 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "GESICHTSBEHANDLUNG ca. 100 Min.",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 80,
+      "priceLabel": "80,00 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "GESICHTSBEHANDLUNG „BASIS“ ca. 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 35,
+      "priceLabel": "35,00 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "DEKOLLETÉBEHANDLUNG 2 3 AUGENBRAUENKORREKTUR",
+      "price": 15,
+      "priceLabel": "15,00 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "AUGENBRAUENKORREKTUR",
+      "price": 15,
+      "priceLabel": "15,00€"
+    },
+    {
+      "id": "offer-15",
+      "name": "AUGENBRAUEN FÄRBEN",
+      "price": 15,
+      "priceLabel": "15,00€"
+    },
+    {
+      "id": "offer-16",
+      "name": "WIMPERN FÄRBEN",
+      "price": 15,
+      "priceLabel": "15,00€"
+    },
+    {
+      "id": "offer-17",
+      "name": "In Kombination mit einer Kosmetikbehandlung je",
+      "price": 10,
+      "priceLabel": "10,00€"
+    },
+    {
+      "id": "offer-18",
+      "name": "BASIS-MANIKÜRE ca. 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 25,
+      "priceLabel": "25,00 €"
+    },
+    {
+      "id": "offer-19",
+      "name": "INTENSIV-MANIKÜRE ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 35,
+      "priceLabel": "35,00 €"
+    },
+    {
+      "id": "offer-20",
+      "name": "BASIS-PEDIKÜRE ca. 30 – 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 25,
+      "priceLabel": "25,00 €"
+    },
+    {
+      "id": "offer-21",
+      "name": "INTENSIV-PEDIKÜRE ca. 60 – 90 Min.",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 35,
+      "priceLabel": "35,00 €"
+    },
+    {
+      "id": "offer-22",
+      "name": "NAGELLACK ENTFERNEN Hand / Fuß je",
+      "price": 5,
+      "priceLabel": "5,00 €"
+    },
+    {
+      "id": "offer-23",
+      "name": "NÄGEL LACKIEREN Hand / Fuß je",
+      "price": 10,
+      "priceLabel": "10,00 €"
+    },
+    {
+      "id": "offer-24",
+      "name": "ULTRASCHALLBEHANDLUNG ca. 75 Min.",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 89,
+      "priceLabel": "89,00 €"
+    },
+    {
+      "id": "offer-25",
+      "name": "COLON-HYDRO-THERAPIE ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 75,
+      "priceLabel": "75,00€"
+    },
+    {
+      "id": "offer-26",
+      "name": "10er-Karte",
+      "price": 650,
+      "priceLabel": "650,00€"
+    },
+    {
+      "id": "offer-27",
+      "name": "FUSSREFLEXZONEN-MASSAGE ca. 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 45,
+      "priceLabel": "45,00€"
+    },
+    {
+      "id": "offer-28",
+      "name": "SCHRÖPFBEHANDLUNG ca. 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30,00€"
+    },
+    {
+      "id": "offer-29",
+      "name": "ENERGETISCHE THERAPIE-ANWENDUNG ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 45,
+      "priceLabel": "45,00€"
+    },
+    {
+      "id": "offer-30",
+      "name": "Beine, Bauch, Arme und Rücken ca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 45,
+      "priceLabel": "45,00€"
+    }
+  ],
+  "images": [
+    "http://naturheilpraxis-karlshorst.de/images/Britta/Foto_kl_kl_kl..JPG",
+    "http://naturheilpraxis-karlshorst.de/images/pfeilmenue.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde, Kosmetik & Massage?",
+      "answer": "Die Praxis befindet sich in der Am Carlsgarten 14 A, 10318 Berlin, Lichtenberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag bis Donnerstag von 09:00 bis 19:00 Uhr, Freitag von 09:00 bis 18:00 Uhr und Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Welche Behandlungen werden in der Praxis angeboten?",
+      "answer": "Die Praxis bietet eine Vielzahl von Behandlungen an, darunter medizinische Massagen, Gesichtsbehandlungen, Maniküre und Pediküre sowie verschiedene naturheilkundliche Therapien."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03080586691 oder per E-Mail an kontakt@naturheilpraxis-karlshorst.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwx_ZIIxJqEcRIQti41dBfIs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

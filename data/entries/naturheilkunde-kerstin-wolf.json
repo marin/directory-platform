@@ -2,8 +2,8 @@
   "id": "naturheilkunde-kerstin-wolf",
   "slug": "naturheilkunde-kerstin-wolf",
   "name": "Naturheilkunde Kerstin Wolf",
-  "description": "Naturheilkunde Kerstin Wolf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Naturheilkunde Kerstin Wolf in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen für Kinder, Jugendliche und Erwachsene an. Die Praxis legt großen Wert auf eine individuelle Anamnese, um gemeinsam mit den Patienten das passende Heilverfahren auszuwählen. Zu den angebotenen Therapien zählen klassische Homöopathie, Akupunktur, Pflanzenheilkunde sowie verschiedene ergänzende Naturheilverfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,36 @@
   "phone": "03091147582",
   "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
   "website": "https://www.naturheilkunde-in-weissensee.de/",
+  "bookingUrl": "https://www.naturheilkunde-in-weissensee.de/kontakt/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilkunde-in-weissensee.de/s/cc_images/cache_2462197589.jpg?t=1510242958",
+    "https://www.naturheilkunde-in-weissensee.de/s/img/emotionheader.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche naturheilkundlichen Behandlungen bietet Kerstin Wolf an?",
+      "answer": "Kerstin Wolf bietet klassische Homöopathie, Akupunktur, Pflanzenheilkunde, Ernährungsmedizin sowie andere Naturheilverfahren wie Neuraltherapie, Schröpfen, Bachblüten, Eigenbluttherapie, Blutegel und Vitamininfusionen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Naturheilkunde Kerstin Wolf?",
+      "answer": "Die Praxis befindet sich in der Börnestr. 28, 13086 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Naturheilkunde Kerstin Wolf buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website unter https://www.naturheilkunde-in-weissensee.de/kontakt/ buchen."
+    },
+    {
+      "question": "Wie kann ich Naturheilkunde Kerstin Wolf kontaktieren?",
+      "answer": "Sie können Kerstin Wolf telefonisch unter 03091147582 oder per E-Mail an kerstin.wolf@naturheilkunde-in-weissensee.de kontaktieren."
+    },
+    {
+      "question": "Behandelt Kerstin Wolf auch Kinder und Jugendliche?",
+      "answer": "Ja, Kerstin Wolf behandelt Kinder, Jugendliche und Erwachsene mit akuten und chronischen Erkrankungen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNTX4ZsNNqEcRgPKZSg2jGlY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

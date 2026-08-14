@@ -2,8 +2,8 @@
   "id": "gudrun-kruger-schmerztherapie-heilpraktikerin",
   "slug": "gudrun-kruger-schmerztherapie-heilpraktikerin",
   "name": "Gudrun Krüger Schmerztherapie, Heilpraktikerin",
-  "description": "Gudrun Krüger Schmerztherapie, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Gudrun Krüger ist als Heilpraktikerin auf Schmerztherapie und Naturheilkunde spezialisiert und bietet ihre Dienstleistungen in Berlin, Treptow-Köpenick, an. In ihrer Praxis am Treppendorfer Weg 12 verfolgt sie einen ganzheitlichen Ansatz zur Linderung von Schmerzen und zur Förderung des Wohlbefindens.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -52,7 +52,48 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Browser"
+    },
+    {
+      "id": "offer-2",
+      "name": "Cloudflare"
+    },
+    {
+      "id": "offer-3",
+      "name": "Host"
+    },
+    {
+      "id": "offer-4",
+      "name": "If you're a visitor of this website"
+    },
+    {
+      "id": "offer-5",
+      "name": "If you're the owner of this website"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Gudrun Krüger?",
+      "answer": "Die Praxis von Gudrun Krüger befindet sich am Treppendorfer Weg 12 in Berlin, 12527."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Welche Therapieangebote bietet Gudrun Krüger an?",
+      "answer": "Gudrun Krüger bietet Schmerztherapie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich Gudrun Krüger kontaktieren?",
+      "answer": "Sie können Gudrun Krüger telefonisch unter 01797442309 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZZKDrRI5qEcRdf0xI5Khr7M",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

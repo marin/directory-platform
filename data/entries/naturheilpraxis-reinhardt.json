@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-reinhardt",
   "slug": "naturheilpraxis-reinhardt",
   "name": "Naturheilpraxis Reinhardt",
-  "description": "Naturheilpraxis Reinhardt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Reinhardt in Berlin bietet eine Vielzahl von klassischen Heilverfahren aus der Naturheilkunde an, darunter Akupunktur, Blutegeltherapie und verschiedene Massagetechniken. Zudem werden psychotherapeutische Methoden wie Verhaltenstherapie und Gesprächstherapie angeboten. Die Praxis legt großen Wert auf individuelle Diagnosen und maßgeschneiderte Therapieansätze, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -58,7 +58,224 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Anamnese vor jeder Erstbehandlungca. 25 Min.",
+      "durationMinutes": 25,
+      "durationLabel": "25 min",
+      "price": 55,
+      "priceLabel": "55,00 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Anamnese / Dunkelfeld-, Zungendiagnoseca. 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 125,
+      "priceLabel": "125,00 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Anamnese / Dunkelfeld-, Zungen-, Puls- und Anlitzdiagnoseca. 1,5 h",
+      "price": 175,
+      "priceLabel": "175,00 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Individuelle Erstellung einer chinesischen Kräuterrezeptur nach TCM",
+      "price": 80,
+      "priceLabel": "80,00 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Individuelle Erstellung einer Schüßlersalzerezeptur",
+      "price": 55,
+      "priceLabel": "55,00 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Therapie: Blutegeltherapie 90-120 Min.",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 115,
+      "priceLabel": "115,00 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "_zzgl. pro Blutegel_",
+      "price": 15,
+      "priceLabel": "15 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Therapie: Blutiges Schröpfen / Hijama 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90,00 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "_zzgl. Material_",
+      "price": 20,
+      "priceLabel": "20 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Therapie: Bioresonanztherapie 90-120 Min.",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 115,
+      "priceLabel": "115,00 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "_zzgl. / je Chip, Öl oder Klebepads_",
+      "price": 8,
+      "priceLabel": "8,00 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "Therapie: Akkupunktur mit Pulsdiagnose und Ohrakkupunktur 60-75 Min.",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 115,
+      "priceLabel": "115,00 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "Therapie: Ohrakkupunktur mit Pulsdiagnose ca. 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 75,
+      "priceLabel": "75,00 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "Therapie: Aderlass inkl. kurzes Anamanesegspräch ca. 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 68,
+      "priceLabel": "68,00 €"
+    },
+    {
+      "id": "offer-15",
+      "name": "_zzgl. Material_",
+      "price": 15,
+      "priceLabel": "15,00 €"
+    },
+    {
+      "id": "offer-16",
+      "name": "Therapie: Medizinische Massage mit speziellen Salben 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 70,
+      "priceLabel": "70,00 €"
+    },
+    {
+      "id": "offer-17",
+      "name": "Therapie: Medizinische Fußreflexzonenmassage 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 50,
+      "priceLabel": "50,00 €"
+    },
+    {
+      "id": "offer-18",
+      "name": "Therapie: Breußmassage 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 55,
+      "priceLabel": "55,00 €"
+    },
+    {
+      "id": "offer-19",
+      "name": "Therapie: Manuelle Lymphdrainage mit einer speziellen Lymphsalbe 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 70,
+      "priceLabel": "70,00 €"
+    },
+    {
+      "id": "offer-20",
+      "name": "95,00",
+      "price": 95,
+      "priceLabel": "95,00 €"
+    },
+    {
+      "id": "offer-21",
+      "name": "pro Woche",
+      "price": 180,
+      "priceLabel": "180,00 €"
+    },
+    {
+      "id": "offer-22",
+      "name": "Blutegel inkl. Verbandsmaterial je Egel",
+      "price": 15,
+      "priceLabel": "15,00 €"
+    },
+    {
+      "id": "offer-23",
+      "name": "Verbandsmaterial Schröpfen blutig",
+      "price": 20,
+      "priceLabel": "20,00 €"
+    },
+    {
+      "id": "offer-24",
+      "name": "Meisterschamane Dhansing Tamang aus Nepal in Berlin (3.-12.10.2026)"
+    },
+    {
+      "id": "offer-25",
+      "name": "Workshop: Samhain – Wenn der Schleier dünn wird..."
+    },
+    {
+      "id": "offer-26",
+      "name": "Wintersonnenwende & Beginn der Rauhnächte"
+    },
+    {
+      "id": "offer-27",
+      "name": "Buchen Sie eine Schröpftherapie in Berlin"
+    },
+    {
+      "id": "offer-28",
+      "name": "Buchen Sie heute eine Dunkelfeld-Diagnose"
+    },
+    {
+      "id": "offer-29",
+      "name": "Buchen Sie eine Chiropraktik-Behandlung"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-potsdamer-platz.com/images/de.png",
+    "https://www.naturheilpraxis-potsdamer-platz.com/images/en.png",
+    "https://www.naturheilpraxis-potsdamer-platz.com/images/naturheilpraxis/Naturheilpraxis-Berlin-Potsdamer-Platz.jpg",
+    "https://www.naturheilpraxis-potsdamer-platz.com/images/naturheilpraxis/Blutegel-Naturheilpraxis-Berlin-Potsdamer-Platz.jpg",
+    "https://www.naturheilpraxis-potsdamer-platz.com/images/naturheilpraxis/Gletschermassage-Naturheilpraxis-Berlin-Potsdamer-Platz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Reinhardt an?",
+      "answer": "Die Naturheilpraxis Reinhardt bietet eine Vielzahl von Therapien an, darunter Akupunktur, Blutegeltherapie, Schröpftherapie, medizinische Massagen, Bioresonanztherapie und verschiedene Formen der Psychotherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Reinhardt buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Reinhardt über die Webseite buchen. Besuchen Sie dazu den Kontaktbereich unter https://www.naturheilpraxis-potsdamer-platz.com/kontakt-naturheilpraxis-berlin.html."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Reinhardt geöffnet?",
+      "answer": "Die Naturheilpraxis Reinhardt hat von Montag bis Freitag von 08:00 bis 20:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Reinhardt?",
+      "answer": "Die Naturheilpraxis Reinhardt befindet sich in der Alten Potsdamer Str. 11, 10785 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Reinhardt kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Reinhardt telefonisch unter 03025935849 oder per E-Mail an info@naturheilpraxis-potsdamer-platz.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJZwgzstRqEcRAit7-Qxl_yc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12
 }

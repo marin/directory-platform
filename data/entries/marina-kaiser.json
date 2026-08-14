@@ -2,8 +2,8 @@
   "id": "marina-kaiser",
   "slug": "marina-kaiser",
   "name": "Marina Kaiser",
-  "description": "Marina Kaiser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Marina Kaiser ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis in der Hildburghauser Str. 10 bietet sie persönliche Unterstützung und Begleitung an, um das Vertrauen in das eigene Leben und die Liebe zu sich selbst zu stärken.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,38 @@
   "phone": "0307218938",
   "email": "marina.kaiser111@gmail.com",
   "website": "http://www.marina-kaiser.de/",
+  "bookingUrl": "https://marina-kaiser.de/qualifikationen-und-meine-wege",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/02/heilende-Wege-schmal.jpg?resize=559%2C128&ssl=1",
+    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?resize=394%2C482&ssl=1",
+    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg",
+    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?w=640"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Marina Kaiser?",
+      "answer": "Die Praxis von Marina Kaiser befindet sich in der Hildburghauser Str. 10, 12279 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Marina Kaiser kontaktieren?",
+      "answer": "Sie können Marina Kaiser telefonisch unter 0307218938 oder per E-Mail an marina.kaiser111@gmail.com kontaktieren."
+    },
+    {
+      "question": "Bietet Marina Kaiser Online-Buchungen an?",
+      "answer": "Ja, Sie können Termine online buchen. Besuchen Sie dazu die Webseite von Marina Kaiser unter http://www.marina-kaiser.de/."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Marina Kaiser an?",
+      "answer": "Marina Kaiser bietet verschiedene therapeutische Begleitungen und Anregungen im Bereich der Naturheilkunde an."
+    },
+    {
+      "question": "Gibt es spezielle Öffnungszeiten für die Praxis?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben. Es wird empfohlen, die Webseite zu besuchen oder direkt Kontakt aufzunehmen, um Informationen zu den Öffnungszeiten zu erhalten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2YJfctREqEcR58QKJuJusX4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

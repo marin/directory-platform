@@ -3,7 +3,7 @@
   "slug": "hypnose-praxis-heilpraktiker-psych-edith-friedel",
   "name": "Hypnose Praxis - Heilpraktiker Psych - Edith Friedel",
   "description": "Hypnose Praxis - Heilpraktiker Psych - Edith Friedel ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -28,7 +28,17 @@
   "email": "info@edithfriedel.de",
   "website": "https://edithfriedel.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hypnose"
+    }
+  ],
+  "images": [
+    "http://edithfriedel.de/wp-content/uploads/2023/03/edith-im-park-neu-e1679575361287-244x300.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcaovgDlRqEcRH4Wxmq_Bkys",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-zembski",
   "slug": "naturheilpraxis-zembski",
   "name": "Naturheilpraxis Zembski",
-  "description": "Naturheilpraxis Zembski ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Zembski befindet sich in Berlin-Dahlem und bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Akupunktur, Homöopathie und Regena-Therapie. Heilpraktikerin Bettina Zembski legt großen Wert auf Aufklärung und Hilfe zur Selbsthilfe, um die Selbstheilungskräfte des Organismus zu aktivieren. Neue Patienten sind herzlich eingeladen, ein kostenloses Erstgespräch zu vereinbaren, um mehr über die angebotenen Therapien zu erfahren und individuelle Fragen zu klären.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,46 @@
   "phone": "01788246611",
   "email": "kontakt@naturheilpraxis-zembski.de",
   "website": "https://naturheilpraxis-zembski.de/",
+  "bookingUrl": "https://naturheilpraxis-zembski.de/kontakt-heilpraktiker-zehlendorf/heilpraktiker-zehlendorf-kontaktformular/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Regena-Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "REGENA-Therapie - Das Baukasten-Konzept mit REGENAPLEXEN"
+    },
+    {
+      "id": "offer-3",
+      "name": "teilen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Gesundheit"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-zembski.de/wp-content/uploads/2017/10/soziales-honorar-1.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Zembski an?",
+      "answer": "Die Naturheilpraxis Zembski bietet unter anderem Akupunktur, biologische Schmerztherapie, Neuraltherapie, Homöopathie und Regena-Therapie an."
+    },
+    {
+      "question": "Gibt es ein kostenloses Erstgespräch?",
+      "answer": "Ja, die Naturheilpraxis Zembski bietet jedem neuen Patienten ein ca. 30-minütiges kostenloses Gespräch an, um die Praxis und die Therapien kennenzulernen."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Zembski?",
+      "answer": "Die Naturheilpraxis Zembski befindet sich in der Thielallee 12, 14195 Berlin-Dahlem."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Zembski?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Zembski sind nach Vereinbarung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJozmy4UBbqEcRGzx4dtX1yGE"
 }

@@ -2,8 +2,8 @@
   "id": "heilpraxis-christian-janshen",
   "slug": "heilpraxis-christian-janshen",
   "name": "Heilpraxis Christian Janshen",
-  "description": "Heilpraxis Christian Janshen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Christian Janshen befindet sich in Berlin-Tempelhof und bietet ein breites Spektrum an naturheilkundlichen Therapien an. Unter der Leitung von Heilpraktiker und Qigong-Lehrer Christian Janshen werden verschiedene Behandlungen, darunter Akupunktur und Qigong-Kurse, angeboten. Die Praxis legt Wert auf individuelle Betreuung und fördert das Wohlbefinden ihrer Patienten durch ganzheitliche Ansätze.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,32 @@
   "website": "http://www.heilpraxis-janshen.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.heilpraxis-janshen.de/s/img/emotionheader5807197436.jpg?1477890411.920px.186px",
+    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2498394608.jpg?t=1730293318",
+    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2498394610.jpg?t=1730293353",
+    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2497136965.jpg?t=1701435807",
+    "https://www.heilpraxis-janshen.de/s/img/emotionheader5807197436.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Christian Janshen?",
+      "answer": "Die Heilpraxis Christian Janshen befindet sich in der Schönburgstraße 9, 12103 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Welche Therapieangebote bietet die Heilpraxis an?",
+      "answer": "Die Heilpraxis Christian Janshen bietet unter anderem Qigong, Akupunktur und verschiedene Kurse an."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 030 755 15 952 oder per E-Mail an mail@heilpraxis-janshen.de kontaktieren."
+    },
+    {
+      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
+      "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben. Für Terminwünsche können Sie die Praxis direkt kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5U8Vev5PqEcRWEIN4ZTnNqA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

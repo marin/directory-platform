@@ -6,6 +6,8 @@ export default {
     maxPagesPerSite: 8,
     maxTotalPages: 500,
     confirmThreshold: 50,
+    minDelayMs: 7000,
+    maxRetries: 5,
   },
   generation: {
     provider: "openai",

@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-private-psychotherapie-und-homoopathie",
   "slug": "heilpraxis-fur-private-psychotherapie-und-homoopathie",
   "name": "Heilpraxis für private Psychotherapie und Homöopathie",
-  "description": "Heilpraxis für private Psychotherapie und Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis für private Psychotherapie und Homöopathie in Berlin-Treptow-Köpenick wird von Petra Hartmann geleitet, die seit 2002 als Heilpraktikerin tätig ist. Sie spezialisiert sich auf die Behandlung von Schocktraumata, insbesondere bei geburtstraumatisierten Eltern, und verfolgt einen ganzheitlichen Ansatz, der auf der emotionalen Verarbeitung im limbischen System basiert. Neben Psychotherapie bietet die Praxis auch homöopathische Behandlungen an, um Klienten in Krisensituationen individuell zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -54,7 +54,69 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Lernen Sie mich und meine Heilpraxis kennen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Heilpraxis für Psychotherapie und Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Geburtstrauma – Ein Interview mit Trauma-Expertin Petra Hartmann"
+    },
+    {
+      "id": "offer-4",
+      "name": "Geburtstrauma vorbeugen – Ein Interview mit Traumatherapeutin Petra Hartmann"
+    },
+    {
+      "id": "offer-5",
+      "name": "Der Rucksack des Lebens"
+    },
+    {
+      "id": "offer-6",
+      "name": "Depressionen und bipolare Störung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ängste, Panikattacken und Phobien"
+    },
+    {
+      "id": "offer-8",
+      "name": "Psychosomatik"
+    },
+    {
+      "id": "offer-9",
+      "name": "Lebenskrisen und negative Gefühle"
+    }
+  ],
+  "images": [
+    "https://gesundsein.info/images/uploads/Petra-Hartmann.jpg",
+    "https://gesundsein.info/images/Qualitaets-Guetesiegel.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Heilpraxis an?",
+      "answer": "Die Heilpraxis für private Psychotherapie und Homöopathie bietet Therapien in den Bereichen Psychotherapie, Homöopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 03088947817 oder per E-Mail an pehar12@gmail.com vereinbaren."
+    },
+    {
+      "question": "Wann hat die Heilpraxis geöffnet?",
+      "answer": "Die Heilpraxis hat von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis?",
+      "answer": "Die Heilpraxis befindet sich in der Bölschestraße 100, 12587 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Was sind die Schwerpunkte der Therapie?",
+      "answer": "Die Schwerpunkte der Therapie liegen auf der Behandlung von Schocktraumata, Ängsten, Panikattacken, Depressionen sowie psychosomatischen Beschwerden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZTQB-Q3qEcRM175T6hzhJg"
 }

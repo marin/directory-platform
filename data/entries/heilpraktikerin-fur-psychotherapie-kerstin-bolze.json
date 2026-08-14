@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-kerstin-bolze",
   "slug": "heilpraktikerin-fur-psychotherapie-kerstin-bolze",
   "name": "Heilpraktikerin für Psychotherapie, Kerstin Bolze",
-  "description": "Heilpraktikerin für Psychotherapie, Kerstin Bolze ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kerstin Bolze ist Heilpraktikerin für Psychotherapie und Astrologin in Berlin. Sie bietet ganzheitliche Unterstützung bei emotionalen Blockaden und Lebenskrisen, unter anderem durch Klopfakupressur und klientenzentrierte Gesprächstherapie. In ihrer Praxis werden auch homöopathische Ansätze sowie angewandte Astrologie zur Förderung des Wohlbefindens eingesetzt. Interessierte können ein kostenfreies Kennenlerngespräch vereinbaren, um individuelle Begleitmöglichkeiten zu besprechen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -49,7 +49,44 @@
       "close": "17:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meridian-Energie-Klopftherapie (MET)"
+    },
+    {
+      "id": "offer-2",
+      "name": "für Erwachsene, auch Kinder und Jugendliche"
+    }
+  ],
+  "images": [
+    "https://i0.wp.com/kerstinbolze.de/wp-content/uploads/2022/03/DSC_7460_25perc-1.jpg?fit=450%2C675&ssl=1",
+    "https://i0.wp.com/kerstinbolze.de/wp-content/uploads/2021/05/20210504_111444-scaled.jpg?resize=495%2C400&ssl=1",
+    "https://kerstinbolze.de/wp-content/uploads/2023/04/KB_Welle_1134px_MitText.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Kerstin Bolze an?",
+      "answer": "Kerstin Bolze bietet unter anderem Meridian-Energie-Klopftherapie (MET), Klientenzentrierte Gesprächstherapie nach C. Rogers sowie Homöopathie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Kerstin Bolze buchen?",
+      "answer": "Sie können einen Termin über die Website von Kerstin Bolze buchen. Der direkte Link zur Terminbuchung ist: https://kerstinbolze.de/termin/."
+    },
+    {
+      "question": "An welchen Tagen hat die Praxis geöffnet?",
+      "answer": "Die Praxis von Kerstin Bolze hat von Montag bis Donnerstag geöffnet, jeweils von 09:30 bis 17:30 Uhr."
+    },
+    {
+      "question": "Bietet Kerstin Bolze auch Beratungen für Kinder und Jugendliche an?",
+      "answer": "Ja, Kerstin Bolze bietet ihre Therapien auch für Erwachsene, Kinder und Jugendliche an."
+    },
+    {
+      "question": "Wie kann ich Kerstin Bolze kontaktieren?",
+      "answer": "Sie können Kerstin Bolze telefonisch unter 01724274655 oder per E-Mail an kontakt@kerstinbolze.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTUoFkGIG2yURhzepkzfDWqU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

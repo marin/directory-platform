@@ -2,8 +2,8 @@
   "id": "heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren",
   "slug": "heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren",
   "name": "Heilpraktiker Jan Dunkel - Ganzheitliche Chiropraktik und Naturheilverfahren",
-  "description": "Heilpraktiker Jan Dunkel - Ganzheitliche Chiropraktik und Naturheilverfahren ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Jan Dunkel in Berlin-Spandau bietet eine ganzheitliche Behandlung, die auf über 20 Jahren Erfahrung in der Naturheilkunde basiert. Sein Leistungsspektrum umfasst Chiropraktik, Osteopathie, Schmerztherapie sowie psychotherapeutische Ansätze wie Hypnose und psychosomatische Beratung. In seiner Praxis legt er Wert auf individuelle Betreuung und die Förderung von Selbstheilungsprozessen, um seinen Klienten zu mehr Lebensenergie und innerem Wachstum zu verhelfen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -58,7 +58,82 @@
       "close": "18:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Keine Ergebnisse gefunden"
+    },
+    {
+      "id": "offer-2",
+      "name": "Naturheilpraxis Berlin-Spandau"
+    },
+    {
+      "id": "offer-3",
+      "name": "Was meine Kunden sagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Professionell und Einfühlsam: Dein Heilpraktiker"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ersttermin in der Naturheilpraxis"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ganzheitlich, individuell und lösungsorientiert"
+    },
+    {
+      "id": "offer-7",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-8",
+      "name": "Gesundheitsberatung in der Praxis oder Online"
+    },
+    {
+      "id": "offer-9",
+      "name": "Chiropraktik, Schmerztherapie & Wirbelsäulentherapie nach Dorn"
+    },
+    {
+      "id": "offer-10",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Retreats & Seminare"
+    },
+    {
+      "id": "offer-12",
+      "name": "Erfolgsmeldung"
+    }
+  ],
+  "images": [
+    "https://gesundsein-bewusstsein.de/wp-content/uploads/2025/06/jan.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktiker Jan Dunkel an?",
+      "answer": "Heilpraktiker Jan Dunkel bietet verschiedene Behandlungen an, darunter ganzheitliche Chiropraktik, Dorn-Therapie, Gesundheits- und Ernährungsberatung, Meridianbehandlungen, Schröpfen, psychologische Beratung und Huna-Coaching."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Jan Dunkel buchen?",
+      "answer": "Einen Termin bei Jan Dunkel können Sie online über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis sind Montag bis Donnerstag von 09:30 bis 18:30 Uhr und Freitag von 08:30 bis 18:30 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jan Dunkel?",
+      "answer": "Die Praxis von Jan Dunkel befindet sich in der Klosterstraße 33, 13581 Berlin-Spandau."
+    },
+    {
+      "question": "Wie kann ich Jan Dunkel kontaktieren?",
+      "answer": "Sie können Jan Dunkel telefonisch unter 0178 5348126 oder per E-Mail an info@gesundsein-bewusstsein.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAzqZYtFQqEcR1vInIYwErJk",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 52
 }

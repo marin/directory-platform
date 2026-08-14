@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-sylwia-spiller",
   "slug": "heilpraktikerin-sylwia-spiller",
   "name": "Heilpraktikerin Sylwia Spiller",
-  "description": "Heilpraktikerin Sylwia Spiller ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Sylwia Spiller bietet in ihrer Praxis für Naturheilkunde in Berlin-Steglitz-Zehlendorf individuelle und ganzheitliche Behandlungsmethoden an. Ihr Ansatz zielt darauf ab, Körper, Geist und Seele in Einklang zu bringen und die Selbstheilungskräfte zu aktivieren. Zu den angebotenen Leistungen gehören unter anderem Ohrakupunktur, Infusionen und Injektionen sowie Reflexzonentherapie.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "015560759736",
   "website": "https://www.heilpraxis-spiller.de/",
+  "bookingUrl": "https://www.heilpraxis-spiller.de/kontakt",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -46,7 +47,36 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Körper, Geist & Seele im Einklang"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-spiller.de/static/media/Logo.b052d32c9119bac54bb6.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Leistungen bietet Heilpraktikerin Sylwia Spiller an?",
+      "answer": "Heilpraktikerin Sylwia Spiller bietet unter anderem Ohrakupunktur, Infusionen & Injektionen sowie Reflexzonentherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sylwia Spiller?",
+      "answer": "Die Praxis befindet sich in der Riemeisterstraße 39 a, 14169 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Sylwia Spiller vereinbaren?",
+      "answer": "Sie können einen Termin über die Website heilpraxis-spiller.de vereinbaren."
+    },
+    {
+      "question": "Wann hat die Praxis von Sylwia Spiller geöffnet?",
+      "answer": "Die Praxis hat dienstags und mittwochs von 13:00 bis 19:00 Uhr sowie freitags und samstags von 08:30 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Sylwia Spiller kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Sylwia Spiller telefonisch unter 015560759736 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJobPpS8BbqEcRVMIm0hcd420"
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-effner",
   "slug": "naturheilpraxis-effner",
   "name": "Naturheilpraxis Effner",
-  "description": "Naturheilpraxis Effner ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Effner in Berlin-Pankow bietet eine ganzheitliche Behandlung von akuten und chronischen Erkrankungen. Heilpraktiker André Effner kombiniert jahrzehntelange Erfahrung mit einem individuellen Ansatz, der sowohl naturheilkundliche als auch schulmedizinische Methoden umfasst. Die Praxis legt besonderen Wert auf Ursachenbehandlung und nimmt sich Zeit für eine ausführliche Anamnese, um maßgeschneiderte Therapiekonzepte zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -27,6 +27,7 @@
   "phone": "0304529538",
   "email": "hello.blite@gmail.com",
   "website": "http://www.heilpraktiker-effner.de/",
+  "bookingUrl": "https://www.heilpraktiker-effner.de/#FORM",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,98 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Warum Sie bei mir richtig sind"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ursachenbehandlung statt Symptome unterdrücken"
+    },
+    {
+      "id": "offer-3",
+      "name": "Individueller Blick & Zeit für jeden einzelnen Patienten"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kombiniertes Wissen aus Naturheilkunde, Komplementär- und Schulmedizin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Meine Behandlungsbereiche"
+    },
+    {
+      "id": "offer-6",
+      "name": "Meine Therapieverfahren"
+    },
+    {
+      "id": "offer-7",
+      "name": "So gehen wir vor"
+    },
+    {
+      "id": "offer-8",
+      "name": "Erstgespräch"
+    },
+    {
+      "id": "offer-9",
+      "name": "Ausführliche Anamnese"
+    },
+    {
+      "id": "offer-10",
+      "name": "Individuelle Therapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Das wertschätzen meine Patienten an mir"
+    },
+    {
+      "id": "offer-12",
+      "name": "30 Jahre"
+    },
+    {
+      "id": "offer-13",
+      "name": "Über 1.000"
+    },
+    {
+      "id": "offer-14",
+      "name": "20 Jahre"
+    },
+    {
+      "id": "offer-15",
+      "name": "Heilpraktiker André Effner"
+    }
+  ],
+  "images": [
+    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d266a8d7e5a2bb1604e081_naturheilpraxis%20hero%20img-min.jpg",
+    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2723955221a198ed4f75e_vorteil%201-min.png",
+    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2723a25087d70467bc2c5_vorteil%202-min.png",
+    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2727655221acdc0d4fb80_vorteil%203-min.png",
+    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2763925087d133a7c0162_Geschichte%20Portrait-min.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieverfahren bietet die Naturheilpraxis Effner an?",
+      "answer": "Die Naturheilpraxis Effner bietet verschiedene Therapieverfahren an, darunter Homöopathie, Akupunktur (TCM) und Naturheilkunde."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Effner buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Effner über die Webseite buchen. Hier ist der Link zur Terminbuchung: Termin vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Effner?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Effner sind von Montag bis Donnerstag von 09:00 bis 19:00 Uhr und am Freitag von 09:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Effner?",
+      "answer": "Die Naturheilpraxis Effner befindet sich in der Hauptstraße 18, 13158 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Effner kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Effner telefonisch unter 0304529538 oder per E-Mail an hello.blite@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRA3Br0CJPNao",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-musiktherapie-hypnose",
   "name": "Heilpraxis für Musiktherapie & Hypnose",
   "description": "Heilpraxis für Musiktherapie & Hypnose ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "hypnose",
@@ -53,7 +53,23 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "50 Minuten",
+      "durationMinutes": 50,
+      "durationLabel": "50 min",
+      "price": 90,
+      "priceLabel": "90,00 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "kosten innerhalb des Berliner S-Bahn-Netzes pauschal extra.",
+      "price": 25,
+      "priceLabel": "25,-€"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw4Ap-T9RqEcR-jcCcDAkpw0"
 }

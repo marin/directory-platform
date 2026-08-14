@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-christine-drieske",
   "slug": "heilpraktikerin-christine-drieske",
   "name": "Heilpraktikerin Christine Drieske",
-  "description": "Heilpraktikerin Christine Drieske ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Christine Drieske bietet in ihrer Praxis in Berlin-Schöneberg umfassende Schmerztherapie und Physiotherapie an. Seit 1992 behandelt sie sowohl akute als auch chronische Schmerzen sowie orthopädische, chirurgische und neurologische Erkrankungen. Ihr ganzheitlicher Ansatz umfasst eine ausführliche Anamnese und individuell abgestimmte Therapiepläne, die klassische und alternative Behandlungsmethoden wie Akupunktur, Schröpfen und Faszientherapie kombinieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "017655149760",
   "website": "http://www.schmerztherapie-drieske.de/",
+  "bookingUrl": "https://www.schmerztherapie-drieske.de/#termine",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,43 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schmerztherapie Christine Drieske"
+    },
+    {
+      "id": "offer-2",
+      "name": "Unsere Behandlungs­schwer­punkte liegen auf folgenden Er­krankungen"
+    }
+  ],
+  "images": [
+    "https://www.schmerztherapie-drieske.de/wp-content/uploads/2019/07/DrieskeHeilpraktiker-7900a-1-uai-720x720.jpg",
+    "https://www.schmerztherapie-drieske.de/wp-content/uploads/2019/07/DrieskeHeilpraktiker-5809-1-uai-720x720.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte hat Heilpraktikerin Christine Drieske?",
+      "answer": "Die Behandlungsschwerpunkte liegen auf akuten und chronischen Störungen des gesamten Bewegungsapparates, Organbeschwerden aufgrund von Störungen des Energieflusses sowie Störfeldbehandlungen mit Neuraltherapie und Akupunktur."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Christine Drieske vereinbaren?",
+      "answer": "Termine können telefonisch unter der Nummer 0176 5514 9760 oder persönlich vereinbart werden."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Christine Drieske?",
+      "answer": "Die Öffnungszeiten sind Montag von 09:00 bis 18:00 Uhr, Dienstag von 08:00 bis 15:00 Uhr, Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 08:00 bis 15:00 Uhr und Freitag von 08:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Christine Drieske?",
+      "answer": "Die Praxis befindet sich in der Innsbrucker Str. 2, 10825 Berlin."
+    },
+    {
+      "question": "Welche Therapieformen bietet Christine Drieske an?",
+      "answer": "Christine Drieske bietet verschiedene Therapieformen an, darunter Chiropraktik, Mesotherapie, manuelle Therapie, Kinesiotape, Akupunktur, Schröpfen, cranio-sakrale Therapie, Neuraltherapie und viele weitere."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY907iO5QqEcRJB8JRfhzpFY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

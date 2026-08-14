@@ -2,8 +2,8 @@
   "id": "heilpraktiker-sven-jehle-heilpraxis-fur-homoopathie-psychotherapie-und-massage",
   "slug": "heilpraktiker-sven-jehle-heilpraxis-fur-homoopathie-psychotherapie-und-massage",
   "name": "Heilpraktiker Sven Jehle, Heilpraxis für Homöopathie, Psychotherapie und Massage",
-  "description": "Heilpraktiker Sven Jehle, Heilpraxis für Homöopathie, Psychotherapie und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Sven Jehle bietet in seiner Heilpraxis für Homöopathie, Psychotherapie und Massage in Berlin-Treptow-Köpenick umfassende naturheilkundliche Behandlungen an. Mit einem ganzheitlichen Ansatz und der Überzeugung, dass „die beste Arznei für den Menschen der Mensch“ ist, setzt er auf die individuelle Betreuung seiner Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -28,7 +28,32 @@
   "email": "hp.svenjehle@googlemail.com",
   "website": "http://www.heilpraxis-svenjehle.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "_(Paracelsus)_"
+    }
+  ],
+  "images": [
+    "http://heilpraxis-svenjehle.de/wp-content/uploads/2019/12/Startseite3.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktiker Sven Jehle an?",
+      "answer": "Heilpraktiker Sven Jehle bietet Dienstleistungen in den Bereichen Homöopathie, Psychotherapie und Massage an."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis von Sven Jehle?",
+      "answer": "Die Heilpraxis von Sven Jehle befindet sich in der Scharnweberstraße 25, 12587 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich Heilpraktiker Sven Jehle kontaktieren?",
+      "answer": "Sie können Heilpraktiker Sven Jehle telefonisch unter 03040528654 oder per E-Mail an hp.svenjehle@googlemail.com kontaktieren."
+    },
+    {
+      "question": "Was ist das Motto von Heilpraktiker Sven Jehle?",
+      "answer": "Das Motto von Heilpraktiker Sven Jehle lautet: 'Die beste Arznei für den Menschen ist der Mensch. Der höchste Grad dieser Arznei ist die Liebe.' - Paracelsus."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQQvCh1o3qEcRElZN0oCWgZE"
 }

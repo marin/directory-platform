@@ -2,8 +2,8 @@
   "id": "praxis-fur-verhaltenstherapeutisch-orientierte-sucht-psychotherapie-franziska-bu",
   "slug": "praxis-fur-verhaltenstherapeutisch-orientierte-sucht-psychotherapie-franziska-bu",
   "name": "Praxis für verhaltenstherapeutisch orientierte Sucht- & Psychotherapie| Franziska Bude, Heilpraktikerin für Psychotherapie",
-  "description": "Praxis für verhaltenstherapeutisch orientierte Sucht- & Psychotherapie| Franziska Bude, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für verhaltenstherapeutisch orientierte Sucht- und Psychotherapie von Franziska Bude in Berlin-Friedrichshain stehen die Unterstützung und Begleitung von Menschen in herausfordernden Lebenssituationen im Mittelpunkt. Die Praxis bietet Suchttherapie, Psychotherapie sowie Kriseninterventionen auf Selbstzahlerbasis an. Die Sitzungen können sowohl vor Ort als auch online durchgeführt werden, um individuelle Bedürfnisse bestmöglich zu berücksichtigen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -39,7 +39,99 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Suchttherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Menschen, die Substanzen gebrauchen und reduzieren wollen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Partygägner:innen, die ihren Konsum reflektieren wollen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Angehörige von abhängigen Menschen"
+    },
+    {
+      "id": "offer-5",
+      "name": "agressive Entgleisung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Straftaten, Bewährungen, Geldstrafen"
+    },
+    {
+      "id": "offer-7",
+      "name": "verringertes Selbstwertgefühl"
+    },
+    {
+      "id": "offer-8",
+      "name": "(starke) Gefühlsschwankungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Gedächtnisstörungen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Depression"
+    },
+    {
+      "id": "offer-11",
+      "name": "paranoide Zustände"
+    },
+    {
+      "id": "offer-12",
+      "name": "Panikanfälle"
+    },
+    {
+      "id": "offer-13",
+      "name": "chronische Eifersucht"
+    },
+    {
+      "id": "offer-14",
+      "name": "HerzlichWilkommen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Krisenintervention"
+    },
+    {
+      "id": "offer-16",
+      "name": "Psychotherapie nach Heilpraktikergesetz"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://franziskabude.de/wp-content/uploads/go-x/u/de95261a-97f8-49f3-ac71-3764941094f5/image.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Franziska Bude an?",
+      "answer": "Franziska Bude bietet Suchttherapie, psychotherapeutische Begleitung, Krisenintervention sowie Unterstützung für Menschen mit dysfunktionalem Verhalten an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Franziska Bude?",
+      "answer": "Die Praxis befindet sich in der Gubener Str. 6, 10243 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Franziska Bude buchen?",
+      "answer": "Sie können einen Termin über die Website von Franziska Bude buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist mittwochs von 15:00 bis 19:00 Uhr und donnerstags von 16:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Franziska Bude kontaktieren?",
+      "answer": "Sie können Franziska Bude telefonisch unter 015561155408 oder per E-Mail an kontakt@franziskabude.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXKYk5hPqEcRqv-c8Z5LqIg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

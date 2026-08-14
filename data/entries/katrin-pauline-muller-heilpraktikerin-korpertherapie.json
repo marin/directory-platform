@@ -2,8 +2,8 @@
   "id": "katrin-pauline-muller-heilpraktikerin-korpertherapie",
   "slug": "katrin-pauline-muller-heilpraktikerin-korpertherapie",
   "name": "Katrin Pauline Müller, Heilpraktikerin / Körpertherapie",
-  "description": "Katrin Pauline Müller, Heilpraktikerin / Körpertherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Katrin Pauline Müller ist eine erfahrene Heilpraktikerin mit dem Schwerpunkt auf Körpertherapie in Berlin-Pankow. In ihrer Praxis bietet sie individuelle naturheilkundliche Behandlungen an, die auf die Bedürfnisse ihrer Klienten abgestimmt sind. Ihre ganzheitliche Herangehensweise zielt darauf ab, das körperliche und seelische Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,6 +26,34 @@
   "website": "http://www.katrinpaulinemueller.com/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4447.jpg",
+    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4448.jpg",
+    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4449.jpg",
+    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4450.jpg",
+    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4451-2.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Katrin Pauline Müller?",
+      "answer": "Die Praxis von Katrin Pauline Müller befindet sich in der Milastraße 4, 10437 Berlin, Pankow."
+    },
+    {
+      "question": "Welche Therapieform bietet Katrin Pauline Müller an?",
+      "answer": "Katrin Pauline Müller bietet Körpertherapie im Rahmen der Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich Katrin Pauline Müller kontaktieren?",
+      "answer": "Sie können Katrin Pauline Müller per E-Mail unter hi@katrinpaulinemueller.com erreichen oder ihre Website unter http://www.katrinpaulinemueller.com/ besuchen."
+    },
+    {
+      "question": "Hat die Praxis von Katrin Pauline Müller Öffnungszeiten?",
+      "answer": "Im Moment sind keine Öffnungszeiten angegeben."
+    },
+    {
+      "question": "In welchem Bereich ist Katrin Pauline Müller tätig?",
+      "answer": "Katrin Pauline Müller ist im Bereich der Naturheilkunde tätig."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKYruFRqEcRsW0GoaHyWFw"
 }

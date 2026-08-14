@@ -2,8 +2,8 @@
   "id": "hoppe-hypnose-heilpraktiker-fur-psychotherapie",
   "slug": "hoppe-hypnose-heilpraktiker-fur-psychotherapie",
   "name": "Hoppe-Hypnose Heilpraktiker für Psychotherapie",
-  "description": "Hoppe-Hypnose Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Hypnosepraxis Hoppe in Berlin bietet Heilpraktiker für Psychotherapie, spezialisiert auf Hypnosetherapie, eine Vielzahl von therapeutischen Anwendungen an. Zu den Schwerpunkten zählen die Behandlung von Angststörungen, Schlafstörungen, Süchten sowie psychosomatischen Beschwerden. Durch innovative Methoden wie die Yager Code Therapie und klinische Hypnose unterstützt die Praxis Klienten dabei, positive Veränderungen in ihrem Leben zu erreichen und Blockaden zu überwinden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,8 +27,94 @@
   "phone": "015226017313",
   "email": "hypnose-hoppe@gmx.de",
   "website": "http://www.hypnose-hoppe.de/",
+  "bookingUrl": "https://www.hypnose-hoppe.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "YagerCode Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Grundlagen und Ziele der Yager Code Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Anwendung in der Hypnosepraxis Berlin und Brandenburg"
+    },
+    {
+      "id": "offer-4",
+      "name": "Raucherentwöhnung und der Behandlung von Süchten"
+    },
+    {
+      "id": "offer-5",
+      "name": "Angsttherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "der Behandlung von Schlafstörungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Psychosomatischen Beschwerden (bspw. Magen/Darm, Asthma und Allergien)"
+    },
+    {
+      "id": "offer-8",
+      "name": "Meine Philosophie – Hypnosetherapie in Berlin und Brandenburg"
+    },
+    {
+      "id": "offer-9",
+      "name": "Traumatherapie Berlin"
+    },
+    {
+      "id": "offer-10",
+      "name": "Hypnose bei Angst und Panik"
+    },
+    {
+      "id": "offer-11",
+      "name": "Hypnose bei Allergien"
+    },
+    {
+      "id": "offer-12",
+      "name": "Hypnose bei Schlafstörungen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Raucherentwöhnung Hypnose"
+    },
+    {
+      "id": "offer-14",
+      "name": "Klinische Hypnose und ihre Anwendung"
+    }
+  ],
+  "images": [
+    "https://www.hypnose-hoppe.de/wp-content/uploads/elementor/thumbs/mond-pfrkb4q80fm2apq1t089b300hvvbppn5m7spb4ahtw.png",
+    "https://www.hypnose-hoppe.de/wp-content/uploads/siegel-deutsches-institut-fuer-klinische-hypnose-dr-preetz.png",
+    "https://www.hypnose-hoppe.de/www/wp-content/uploads/elementor/thumbs/mond-pfrkb4q80fm2apq1t089b300hvvbppn5m7spb4ahtw.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Hypnosepraxis Hoppe an?",
+      "answer": "Die Hypnosepraxis Hoppe bietet verschiedene Therapien an, darunter YagerCode Therapie, Raucherentwöhnung, Angsttherapie, Behandlung von Schlafstörungen, sexuelle Störungen und psychosomatische Beschwerden."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Hypnosepraxis Hoppe buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen, indem Sie das Kontaktformular auf dieser Seite ausfüllen."
+    },
+    {
+      "question": "Gibt es ein kostenfreies Vorgespräch?",
+      "answer": "Ja, in der Hypnosepraxis Hoppe wird ein kostenfreies Vorgespräch angeboten, um erste Fragen zu klären und einen Eindruck von der Therapie zu bekommen."
+    },
+    {
+      "question": "Wo befindet sich die Hypnosepraxis Hoppe?",
+      "answer": "Die Hypnosepraxis Hoppe befindet sich in der Gustav-Adolf-Straße 149, 13086 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 015226017313 oder per E-Mail an hypnose-hoppe@gmx.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS342lvFNqEcRS_3AHyEL9cQ",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 2
 }

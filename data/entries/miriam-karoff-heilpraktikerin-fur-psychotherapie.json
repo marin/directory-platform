@@ -2,8 +2,8 @@
   "id": "miriam-karoff-heilpraktikerin-fur-psychotherapie",
   "slug": "miriam-karoff-heilpraktikerin-fur-psychotherapie",
   "name": "Miriam Karoff Heilpraktikerin für Psychotherapie",
-  "description": "Miriam Karoff Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Miriam Karoff ist Heilpraktikerin für Psychotherapie in Berlin-Zehlendorf. In ihrer Privatpraxis bietet sie individuelle psychotherapeutische Unterstützung an, um Klienten bei der Bewältigung von Krisen, Konflikten und psychischen Problemen zu helfen. Ihr Ansatz kombiniert verschiedene Therapieverfahren und legt besonderen Wert auf eine vertrauensvolle Beziehung zwischen Klient und Therapeut. Zu ihren Angeboten zählen unter anderem Traumatherapie, EMDR und psychologische Unterstützung im Leistungssport.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "017645623874",
   "email": "miriam.karoff@hp-psychotherapie-karoff.de",
   "website": "https://hp-psychotherapie-karoff.de/",
+  "bookingUrl": "https://hp-psychotherapie-karoff.de/praxis-kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,86 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gern unterstütze ich Sie bei"
+    },
+    {
+      "id": "offer-2",
+      "name": "der Bewältigung von Krisen und Konflikten"
+    },
+    {
+      "id": "offer-3",
+      "name": "dem Wunsch nach persönlicher Entwicklung und Selbstvertrauen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ihrem Bedürfnis nach mentaler Stärkung im Leistungssport"
+    },
+    {
+      "id": "offer-5",
+      "name": "dem Meistern von Beziehungsproblemen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Stressbewältigung, Überforderung und Schlafstörungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "dem Überwinden von Ängsten und Phobien"
+    },
+    {
+      "id": "offer-8",
+      "name": "der Lösung von Zwangshandlungen und Zwangsgedanken"
+    },
+    {
+      "id": "offer-9",
+      "name": "depressiven Verstimmungen"
+    },
+    {
+      "id": "offer-10",
+      "name": "der Verarbeitung von traumatischen Erlebnissen"
+    },
+    {
+      "id": "offer-11",
+      "name": "die Verbesserung der Leistung von Einzelnen oder Teams"
+    },
+    {
+      "id": "offer-12",
+      "name": "die Überwindung von Krisen, z.B. bei Verletzungen oder Misserfolgen"
+    },
+    {
+      "id": "offer-13",
+      "name": "die Bewältigung des Karriereendes"
+    }
+  ],
+  "images": [
+    "https://hp-psychotherapie-karoff.de/wp-content/uploads/2023/06/Miriam_Karoff_home.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieverfahren bietet Miriam Karoff an?",
+      "answer": "Miriam Karoff bietet verschiedene Therapieverfahren an, darunter Traumatherapie, klientenzentrierte Therapie, ressourcenorientierte Psychotherapie, EMDR (Eye Movement Desensitization and Reprocessing) und psychologische Unterstützung im Sport."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Miriam Karoff buchen?",
+      "answer": "Sie können einen Termin bei Miriam Karoff über die Buchungsseite auf ihrer Website buchen: https://hp-psychotherapie-karoff.de/praxis-kontakt."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Miriam Karoff?",
+      "answer": "Die Praxis von Miriam Karoff hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "In welchem Bereich bietet Miriam Karoff ihre Dienstleistungen an?",
+      "answer": "Miriam Karoff bietet ihre Dienstleistungen in der Psychotherapie und Naturheilkunde an, speziell in Berlin, im Stadtteil Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Miriam Karoff kontaktieren?",
+      "answer": "Sie können Miriam Karoff telefonisch unter 017645623874 oder per E-Mail an miriam.karoff@hp-psychotherapie-karoff.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0dFIKDRbqEcRvU6a92IXxS0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

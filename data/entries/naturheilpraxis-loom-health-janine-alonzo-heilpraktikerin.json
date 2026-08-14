@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-loom-health-janine-alonzo-heilpraktikerin",
   "slug": "naturheilpraxis-loom-health-janine-alonzo-heilpraktikerin",
   "name": "Naturheilpraxis LOOM health Janine Alonzo- Heilpraktikerin",
-  "description": "Naturheilpraxis LOOM health Janine Alonzo- Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Meine Reise in die Welt der ganzheitlichen Gesundheit begann – wie bei vielen – durch persönliche Erfahrungen. Über Jahre spürte ich, dass mein Körper Signale sendete, die mehr Aufmerksamkeit, Verständnis und Verbindung brauchten, als die klassische Medizin mir damals bieten konnte. Als ich Anfang zwanzig nach San Francisco zog, begegnete mir zum ersten Mal die funktionelle Medizin – und damit ein Ansatz, der Körper, Emotionen, Lebensstil und innere Prozesse zusammen betrachtet. Diese Begegnung hat mein Leben verändert und eine tiefe Faszination in mir geweckt.",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -55,5 +55,8 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaYPggxFRqEcRpEzYFp63Kf0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 36
 }

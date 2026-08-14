@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-desire-azizoglu",
   "slug": "heilpraktikerin-fur-psychotherapie-desire-azizoglu",
   "name": "Heilpraktikerin für Psychotherapie, Desire Azizoglu",
-  "description": "Heilpraktikerin für Psychotherapie, Desire Azizoglu ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Desire Azizoglu ist Heilpraktikerin für Psychotherapie in Berlin. Sie bietet eine Vielzahl von therapeutischen Dienstleistungen an, darunter ganzheitliche Psychotherapie, Traumatherapie, traumasensitives Yoga und Coaching für Gesundheitsförderung sowie Persönlichkeitsentwicklung. Ihre Herangehensweise ist empathisch und klient*innenzentriert, wobei sie auch Online-Sitzungen zur Unterstützung anbietet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,8 +25,58 @@
   },
   "email": "info@traumatherapyberlin.de",
   "website": "https://www.traumatherapyberlin.de/",
+  "bookingUrl": "https://www.traumatherapyberlin.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "\\\\\\WICHTIG\\\\\\"
+    },
+    {
+      "id": "offer-2",
+      "name": "YARDIM Hizmetleri - BERLIN"
+    },
+    {
+      "id": "offer-3",
+      "name": "HELPLINES - Mental Health Support in BERLIn"
+    },
+    {
+      "id": "offer-4",
+      "name": "HILFEN - BERATUNGSSTELLEN BERLIN"
+    },
+    {
+      "id": "offer-5",
+      "name": "HILFEN ZUR SELBSTHILFE"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e2db71027c24e6ace767f66/1582485313682-MKJ025OIED35P3IJANRL/20160605-IMG_4331.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e2db71027c24e6ace767f66/1599223599030-L0KFACNHTA8GNIQTMH0U/1.png",
+    "https://images.squarespace-cdn.com/content/v1/5e2db71027c24e6ace767f66/1599223627736-B74OBZQDLR3UOJYZPBH4/2.png",
+    "https://images.squarespace-cdn.com/content/v1/5e2db71027c24e6ace767f66/1599223655960-EWY6I0Y73GAIYJDYFBRP/3.png",
+    "https://images.squarespace-cdn.com/content/v1/5e2db71027c24e6ace767f66/1599223802075-G3YD7BU8H97X8LIA88WO/4.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Sprachen werden in der Praxis von Desire Azizoglu angeboten?",
+      "answer": "Die Angebote werden auf Deutsch, Englisch und Türkisch angeboten."
+    },
+    {
+      "question": "Bietet Desire Azizoglu auch Online-Sitzungen an?",
+      "answer": "Ja, Desire Azizoglu bietet ihre Angebote ergänzend und unterstützend auch in Form von Online-Sitzungen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Desire Azizoglu buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website traumatherapyberlin.de buchen."
+    },
+    {
+      "question": "Gibt es ein kostenloses Erstgespräch?",
+      "answer": "Ja, es gibt die Möglichkeit für ein erstes kostenloses Gespräch per Telefon, um herauszufinden, was in der aktuellen Phase Ihres Lebens am hilfreichsten sein könnte."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Desire Azizoglu?",
+      "answer": "Die Praxis befindet sich in Berlin, am Koppenpl. 6, 10115 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrSU62TZPqEcRfZCS-jv2mq4"
 }

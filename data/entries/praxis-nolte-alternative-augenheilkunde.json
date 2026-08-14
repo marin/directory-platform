@@ -2,8 +2,8 @@
   "id": "praxis-nolte-alternative-augenheilkunde",
   "slug": "praxis-nolte-alternative-augenheilkunde",
   "name": "Praxis Nolte - Alternative Augenheilkunde",
-  "description": "Praxis Nolte - Alternative Augenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Mein Name ist Bernd Nolte, ich bin der Inhaber dieser Praxis für Alternative Augenheilkunde. Geboren bin ich im Jahr 1969 und Vater zweier Kinder.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03026076710",
   "email": "info@praxisnolte.de",
   "website": "http://www.praxisnolte.de/",
+  "bookingUrl": "https://praxisnolte.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,57 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Praxisräume"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kooperationspartner"
+    },
+    {
+      "id": "offer-3",
+      "name": "Informationsveranstaltung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Augenakupunktur"
+    },
+    {
+      "id": "offer-6",
+      "name": "Patientenmeinungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Augenerkrankungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Makuladegeneration"
+    },
+    {
+      "id": "offer-9",
+      "name": "Glaukom"
+    },
+    {
+      "id": "offer-10",
+      "name": "Augentest"
+    }
+  ],
+  "images": [
+    "https://praxisnolte.de/wp-content/uploads/2024/09/Praxis_Nolte_Augenheilkunde_Berlin_Akupunktur_Makuladegeneration.jpg",
+    "https://praxisnolte.de/wp-content/uploads/2024/09/Praxis_Nolte_Augenheilkunde_Berlin_tcm_Makuladegeneration.jpg",
+    "https://praxisnolte.de/wp-content/uploads/2024/12/Augenakunpunktur-Ansatz-mit-System.png",
+    "https://praxisnolte.de/wp-content/uploads/2024/09/Nolte-b006-eingepasst-in.jpg",
+    "https://praxisnolte.de/wp-content/uploads/2024/09/logo-nolte.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbc3fn3pQqEcRE3NHKhHjxMU",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 31
 }

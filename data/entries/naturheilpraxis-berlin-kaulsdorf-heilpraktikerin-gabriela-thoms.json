@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms",
   "slug": "naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms",
   "name": "Naturheilpraxis Berlin-Kaulsdorf | Heilpraktikerin Gabriela Thoms",
-  "description": "Naturheilpraxis Berlin-Kaulsdorf | Heilpraktikerin Gabriela Thoms ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Berlin-Kaulsdorf bietet Heilpraktikerin Gabriela Thoms eine Vielzahl von naturheilkundlichen Behandlungen an. Zu den Schwerpunkten zählen Stressabbau, Reflexzonentherapie am Fuß, Ohrakupunktur sowie die individuelle Unterstützung bei Allergien, Migräne und weiteren Beschwerden. Die Praxis legt Wert auf ein ganzheitliches Konzept, um den Körper wieder ins Gleichgewicht zu bringen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,117 @@
   "email": "info@gabriela-thoms.de",
   "website": "https://gabriela-thoms.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "LeistungenStressabbau\\- Reflexzonentherapie am Fuß - Ohrakupunktur - Homöopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Individueller Stressabbau durch Health Kinesiologie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kopfschmerzen, Migräne"
+    },
+    {
+      "id": "offer-4",
+      "name": "Sinusitis, Schnupfen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Nacken,- Schulter,- Rückenbeschwerden"
+    },
+    {
+      "id": "offer-6",
+      "name": "Asthma bronchiale"
+    },
+    {
+      "id": "offer-7",
+      "name": "Hüftbeschwerden"
+    },
+    {
+      "id": "offer-8",
+      "name": "Bettnässerkinder"
+    },
+    {
+      "id": "offer-9",
+      "name": "Hämorrhoiden"
+    },
+    {
+      "id": "offer-10",
+      "name": "Frauenleiden"
+    },
+    {
+      "id": "offer-11",
+      "name": "Lymphstauungen der Beine"
+    },
+    {
+      "id": "offer-12",
+      "name": "Reizdarm, Colitis ulcerosa, Morbus Crohn"
+    },
+    {
+      "id": "offer-13",
+      "name": "Lymphatisch belastete Kinder"
+    },
+    {
+      "id": "offer-14",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-15",
+      "name": "Ischiasneuralgie und Bandscheibenvorfall"
+    },
+    {
+      "id": "offer-16",
+      "name": "Sportverletzungen (Bänderdehnung)"
+    },
+    {
+      "id": "offer-17",
+      "name": "Migräne"
+    },
+    {
+      "id": "offer-18",
+      "name": "Bluthochdruck"
+    },
+    {
+      "id": "offer-19",
+      "name": "Vegetative Magen- und Darmstörungen"
+    },
+    {
+      "id": "offer-20",
+      "name": "Regelschmerzen"
+    },
+    {
+      "id": "offer-21",
+      "name": "Nikotinentwöhnung"
+    },
+    {
+      "id": "offer-22",
+      "name": "Essstörungen"
+    }
+  ],
+  "images": [
+    "https://gabriela-thoms.de/.cm4all/iproc.php/P1156160.JPG/downsize_1280_0/P1156160.JPG",
+    "https://gabriela-thoms.de/.cm4all/uproc.php/0/P1156149.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Berlin-Kaulsdorf an?",
+      "answer": "Die Naturheilpraxis Berlin-Kaulsdorf bietet unter anderem Stressabbau, Reflexzonentherapie am Fuß, Ohrakupunktur und Homöopathie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Gabriela Thoms?",
+      "answer": "Die Praxis befindet sich in der Myslowitzer Str. 29, 12621 Berlin, im Stadtteil Kaulsdorf."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis telefonisch unter 0305676227 oder per E-Mail an info@gabriela-thoms.de kontaktieren."
+    },
+    {
+      "question": "Welche Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden unter anderem Kopfschmerzen, Migräne, Nacken-, Schulter- und Rückenbeschwerden, Asthma, sowie Reizdarm und viele weitere Beschwerden behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF2LMQp5JqEcR63NLOT3RxhU"
 }

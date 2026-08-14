@@ -2,8 +2,8 @@
   "id": "dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg",
   "slug": "dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg",
   "name": "Dorn-Therapie Volker Baur - Heilpraktiker Berlin Kreuzberg",
-  "description": "Dorn-Therapie Volker Baur - Heilpraktiker Berlin Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktikerpraxis von Volker Baur in Berlin-Kreuzberg bietet ganzheitliche Behandlungen und Begleitungen bei körperlichen Beschwerden sowie inneren Belastungsthemen an. Schwerpunkte der Praxis sind die Dorntherapie, die Körperstatik sowie die Darmgesundheit und Ernährung. Durch eine ursachenorientierte Herangehensweise wird auf die individuellen Bedürfnisse der Patienten eingegangen, um ein ausgewogenes körperliches und mentales Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -28,7 +28,46 @@
   "website": "http://www.heilpraxis-baur.de/",
   "bookingUrl": "https://heilpraxis-baur.de/Kontakt-Impressum/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine drei Schwerpunkte und die Regeneration"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schwerpunkt Dorntherapie und Körperstatik"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schwerpunkt Darmgesundheit und Ernährung"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-baur.de/.cm4all/uproc.php/0/Volker%20neu.jpg?_=182c20ead30"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Volker Baur in seiner Praxis an?",
+      "answer": "Volker Baur bietet verschiedene Therapien an, darunter Dorntherapie und Körperstatik, Darmgesundheit und Ernährung sowie Krisenbegleitung, Stress und Orientierung."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Dorn-Therapie Volker Baur?",
+      "answer": "Die Praxis befindet sich in der Lindenstraße 16, 10969 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Volker Baur buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Volker Baur buchen, indem Sie den Kontaktbereich aufrufen: https://heilpraxis-baur.de/Kontakt-Impressum/."
+    },
+    {
+      "question": "Welche Schwerpunkte hat Volker Baur in seiner Arbeit?",
+      "answer": "Die Schwerpunkte von Volker Baur sind Dorntherapie und Körperstatik, Darmgesundheit und Ernährung sowie Krisenbegleitung und Stressmanagement."
+    },
+    {
+      "question": "Wie kann ich Volker Baur kontaktieren?",
+      "answer": "Sie können Volker Baur telefonisch unter 03022396582 oder per E-Mail an info@heilpraxis-baur.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfXQwDNVRqEcRexHUTVMm_mE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

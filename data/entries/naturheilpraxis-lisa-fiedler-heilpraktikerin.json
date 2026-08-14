@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-lisa-fiedler-heilpraktikerin",
   "slug": "naturheilpraxis-lisa-fiedler-heilpraktikerin",
   "name": "Naturheilpraxis Lisa Fiedler, Heilpraktikerin",
-  "description": "Naturheilpraxis Lisa Fiedler, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Lisa Fiedler in Berlin bietet eine umfassende Betreuung im Bereich der Naturheilkunde an. Als Heilpraktikerin unterstützt Lisa Fiedler ihre Patienten dabei, die Ursachen von Beschwerden zu verstehen und individuelle Wege zu mehr Wohlbefinden zu finden. Zu den Schwerpunkten der Praxis zählen unter anderem Darmgesundheit, Schmerztherapie sowie Ernährungsberatung. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Gesundheit und kombiniert verschiedene Therapieansätze, um die bestmöglichen Ergebnisse für ihre Patienten zu erzielen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,121 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Darmgesundheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Aufgaben der Darmbakterien"
+    },
+    {
+      "id": "offer-3",
+      "name": "Unterstützung des Immunsystems"
+    },
+    {
+      "id": "offer-4",
+      "name": "Regulation des pH-Wertes im Darm"
+    },
+    {
+      "id": "offer-5",
+      "name": "Unterstützung der Verdauung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schutz vor fremden Keimen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Bildung von Hormonen, Botenstoffen, Vitaminen, u.v.m."
+    },
+    {
+      "id": "offer-8",
+      "name": "Blähungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Verstopfung / Durchfall oder beides abwechselnd"
+    },
+    {
+      "id": "offer-10",
+      "name": "Bauchschmerzen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Sodbrennen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Schmerzen (Muskelschmerzen, Gelenkschmerzen, Kopfschmerzen)"
+    },
+    {
+      "id": "offer-13",
+      "name": "Hautprobleme"
+    },
+    {
+      "id": "offer-14",
+      "name": "Konzentrationsstörungen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Schmerzen (chronische und akute)"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ernährungsberatung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Life-Coaching"
+    },
+    {
+      "id": "offer-18",
+      "name": "Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-19",
+      "name": "Sonstiges und Basistherapie"
+    },
+    {
+      "id": "offer-20",
+      "name": "Weitere Informationen zu den Therapiemethoden"
+    },
+    {
+      "id": "offer-21",
+      "name": "Terminabsagen"
+    },
+    {
+      "id": "offer-22",
+      "name": "Folge mir auf Instagram"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=743,height=390.075/image/370273425/9e93dafb-bea1-40ad-b4dd-35efda810636.jpg",
+    "https://static-assets.jimstatic.com/renderer/static/instagram_logo.7e0360e5a22f5b6da20a..png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Lisa Fiedler?",
+      "answer": "Die Naturheilpraxis Lisa Fiedler hat folgende Öffnungszeiten: Montag bis Mittwoch von 09:00 bis 19:00 Uhr, Donnerstag und Freitag von 09:00 bis 18:00 Uhr, und Samstag von 10:30 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Einen Termin in der Naturheilpraxis Lisa Fiedler können Sie online über die Buchungsseite hier buchen."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Lisa Fiedler?",
+      "answer": "Die Naturheilpraxis Lisa Fiedler befindet sich in der Waldowallee 67, 10318 Berlin, im Stadtteil Lichtenberg."
+    },
+    {
+      "question": "Welche Themen werden in der Naturheilpraxis behandelt?",
+      "answer": "In der Naturheilpraxis Lisa Fiedler werden unter anderem Themen wie Darmgesundheit, Unterstützung des Immunsystems, Schmerzen (chronische und akute), Ernährungsberatung und Life-Coaching behandelt."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Lisa Fiedler telefonisch unter 017648982332 oder über die Kontaktmöglichkeiten auf der Website hier kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD2PNidhJqEcReJgX_PJmJ5Q"
 }

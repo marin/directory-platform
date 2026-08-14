@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-juliane-jacobi",
   "slug": "naturheilpraxis-juliane-jacobi",
   "name": "Naturheilpraxis Juliane Jacobi",
-  "description": "Naturheilpraxis Juliane Jacobi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Juliane Jacobi in Berlin Charlottenburg bietet eine individuelle naturheilkundliche Begleitung bei komplexen Beschwerden. Mit über 20 Jahren Erfahrung stehen Diagnostik, Augendiagnose sowie verschiedene Therapieverfahren wie Akupunktur nach Boel, Phytotherapie und Homöopathie im Mittelpunkt der Behandlung. Die Praxis legt großen Wert auf maßgeschneiderte Behandlungskonzepte, die auf die persönlichen Bedürfnisse der Patienten abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03020068431",
   "email": "info@juliane-jacobi.de",
   "website": "https://www.juliane-jacobi.de/",
+  "bookingUrl": "https://www.juliane-jacobi.de/kontakt.html",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,125 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "1,5 - 2 Stunden",
+      "price": 195,
+      "priceLabel": "195 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "/ halbe Stunde",
+      "price": 50,
+      "priceLabel": "50 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "/ volle Stunde",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "jede angefangenen 10 min. werden mit 15 € berechnet",
+      "durationMinutes": 10,
+      "durationLabel": "10 min",
+      "price": 15,
+      "priceLabel": "15 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ersttermin",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Folgebehandlung",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Trockenes Schröpfen",
+      "price": 28,
+      "priceLabel": "28 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Blutiges Schröpfen",
+      "price": 35,
+      "priceLabel": "35 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "130 € inkl. Verbandsmaterial, zusätzlich der Kosten der Blutegel",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Vitamin-D-Test: Ergebnis innerhalb 15 Minuten.",
+      "durationMinutes": 15,
+      "durationLabel": "15 min",
+      "price": 35,
+      "priceLabel": "35 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Augendiagnose",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "berechnet.",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "Individuelle Behandlungskonzepte für Ihre persönliche Situation"
+    },
+    {
+      "id": "offer-14",
+      "name": "Naturheilkunde mit Erfahrung"
+    },
+    {
+      "id": "offer-15",
+      "name": "Praxis und Lehre"
+    }
+  ],
+  "images": [
+    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/augendiagnose_orig.jpg",
+    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/naturheilkunde_orig.jpg",
+    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/augenakupunktur_orig.jpg",
+    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/published/naturheilpraxis-logo-professionell-erstellen-lassen-1.png?1687173539"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Juliane Jacobi an?",
+      "answer": "Die Naturheilpraxis Juliane Jacobi bietet unter anderem Akupunktur nach Boel, Augenakupunktur, Phytotherapie, Homöopathie sowie individuelle naturheilkundliche Begleitung bei komplexen Beschwerden an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Juliane Jacobi buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den folgenden Link nutzen: Termin vereinbaren. Alternativ können Sie auch telefonisch unter 030 200 68 431 Kontakt aufnehmen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Juliane Jacobi sind Montag und Dienstag von 09:00 bis 17:00 Uhr, Donnerstag von 09:00 bis 17:00 Uhr und Freitag von 09:00 bis 12:00 Uhr."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Erstbehandlung?",
+      "answer": "Die Kosten für eine Erstbehandlung in der Naturheilpraxis Juliane Jacobi betragen 65 €."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Juliane Jacobi?",
+      "answer": "Die Naturheilpraxis Juliane Jacobi befindet sich in der Suarezstraße 2, 14057 Berlin, im Stadtteil Charlottenburg."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE09zXNhQqEcRwXcunSGdtfo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

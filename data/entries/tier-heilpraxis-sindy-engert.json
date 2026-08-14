@@ -3,7 +3,7 @@
   "slug": "tier-heilpraxis-sindy-engert",
   "name": "Tier-Heilpraxis Sindy Engert",
   "description": "Tier-Heilpraxis Sindy Engert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,15 @@
   "email": "info@tierheilpraxis-engert.de",
   "website": "https://www.tierheilpraxis-engert.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Sorry, this page was not found."
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQA865ROqEcR81h3KN6dq10",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

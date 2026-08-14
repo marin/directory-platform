@@ -2,8 +2,8 @@
   "id": "heilpraktiker-ulrich-christen",
   "slug": "heilpraktiker-ulrich-christen",
   "name": "Heilpraktiker Ulrich Christen",
-  "description": "Heilpraktiker Ulrich Christen ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Ulrich Christen in Berlin bietet eine ganzheitliche Augentherapie, die auf der Chinesischen Medizin basiert. Sein Ansatz umfasst individuelle Behandlungen, die sowohl die Augen als auch den gesamten Menschen berücksichtigen. Neben Akupunktur und Tuina-Massage werden auch Sehtraining und Beratungen zu augenrelevanten Themen angeboten. Die Praxis befindet sich in Friedrichshain-Kreuzberg und richtet sich an Erwachsene sowie Kinder und Jugendliche.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,42 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Eine neue Perspektive!"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mein ganzheitliches Angebot"
+    }
+  ],
+  "images": [
+    "https://www.ulrichchristen.de/wp-content/uploads/2021/05/ChristenUlrich_SMR0786_pp_web_rz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktiker Ulrich Christen an?",
+      "answer": "Heilpraktiker Ulrich Christen bietet individuelle, ganzheitliche Behandlungen auf der Grundlage der Chinesischen Medizin an. Dazu gehören Tuina-Massagen, Akupunktur, Sehtraining und weitere Techniken zur optimalen Versorgung der Augen und zum Ausgleich der Energie."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktiker Ulrich Christen buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website von Ulrich Christen buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Ulrich Christen?",
+      "answer": "Die Praxis von Heilpraktiker Ulrich Christen hat von Montag bis Freitag geöffnet, jeweils von 08:30 bis 20:00 Uhr."
+    },
+    {
+      "question": "Bietet Ulrich Christen auch Onlineberatungen an?",
+      "answer": "Ja, Ulrich Christen bietet datensichere Onlineberatungen an."
+    },
+    {
+      "question": "Wie kann ich Kontakt zu Heilpraktiker Ulrich Christen aufnehmen?",
+      "answer": "Sie können Heilpraktiker Ulrich Christen telefonisch unter 030201693093 oder per E-Mail an post@ulrichchristen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC1ShWMVPqEcR3cgDMxip1UY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

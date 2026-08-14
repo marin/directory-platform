@@ -2,8 +2,8 @@
   "id": "tierheilpraxis-kreuzberg",
   "slug": "tierheilpraxis-kreuzberg",
   "name": "Tierheilpraxis Kreuzberg",
-  "description": "Tierheilpraxis Kreuzberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Tierheilpraxis Kreuzberg in Berlin bietet umfassende naturheilkundliche Behandlungen für Groß- und Kleintiere an. Die Praxis legt besonderen Wert darauf, die Ursachen von Beschwerden zu identifizieren und nicht nur die Symptome zu behandeln. Neben klassischen Therapien werden auch alternative Methoden wie Physiotherapie und Bioresonanz eingesetzt, um das Wohlbefinden der Tiere zu fördern. Haus- und Hofbesuche sind ebenfalls Teil des Angebots, um eine individuelle Betreuung zu gewährleisten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,53 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "PHYSIOTHERAPIE"
+    },
+    {
+      "id": "offer-2",
+      "name": "ZUR PRAXIS"
+    },
+    {
+      "id": "offer-3",
+      "name": "PATIENTENFEEDBACK"
+    },
+    {
+      "id": "offer-4",
+      "name": "NEWS & UPDATES"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/50e0f8_d6aef1f9b78b4246a4ba94ef91604818~mv2.png/v1/fill/w_1905,h_993,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/50e0f8_d6aef1f9b78b4246a4ba94ef91604818~mv2.png",
+    "https://static.wixstatic.com/media/c9043cd18a0744928ce22b6745b60a2e.jpg/v1/fill/w_585,h_773,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9043cd18a0744928ce22b6745b60a2e.jpg",
+    "https://static.wixstatic.com/media/97b9329227124a40b0d8a05ede8ccfc8.jpg/v1/fill/w_600,h_773,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/97b9329227124a40b0d8a05ede8ccfc8.jpg",
+    "https://static.wixstatic.com/media/50e0f8_60a41ac6ea4245f393e836a4ac54e3c5~mv2.png/v1/fill/w_843,h_305,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-big.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Tierheilpraxis Kreuzberg an?",
+      "answer": "Die Tierheilpraxis Kreuzberg bietet unter anderem Physiotherapie für Tiere an."
+    },
+    {
+      "question": "Wo befindet sich die Tierheilpraxis Kreuzberg?",
+      "answer": "Die Tierheilpraxis Kreuzberg befindet sich in der Warschauer Str. 29, 10243 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Tierheilpraxis Kreuzberg?",
+      "answer": "Die Öffnungszeiten sind: Montag und Mittwoch von 11:00 bis 17:00 Uhr, Dienstag und Donnerstag von 14:00 bis 20:00 Uhr, sowie Freitag von 11:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Tierheilpraxis Kreuzberg kontaktieren?",
+      "answer": "Sie können die Tierheilpraxis Kreuzberg telefonisch unter 017634384738 erreichen."
+    },
+    {
+      "question": "Bietet die Tierheilpraxis auch Hausbesuche an?",
+      "answer": "Ja, die Tierheilpraxis Kreuzberg bietet Haus- und Hofbesuche für Tiere an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsSxNn2lPqEcRJB_pSeTZdm8",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 21
 }

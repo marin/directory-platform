@@ -2,8 +2,8 @@
   "id": "seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork",
   "slug": "seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork",
   "name": "Seelenbalsam Berlin - Massage - Heilpraktiker - Osteopathie - Schmerzbehandlung - Bodywork",
-  "description": "Seelenbalsam Berlin - Massage - Heilpraktiker - Osteopathie - Schmerzbehandlung - Bodywork ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Seelenbalsam in Berlin ist eine ganzheitliche Praxis, die sich auf Osteopathie, Schmerzbehandlung und verschiedene Massageformen spezialisiert hat. Hier finden Klienten einen Ort der Ruhe und Entspannung, an dem individuelle Bedürfnisse im Fokus stehen. Neben therapeutischen Anwendungen werden auch Ernährungsberatung und Psychotherapie angeboten, um das Wohlbefinden ganzheitlich zu fördern. Besuchen Sie die Praxis in der Düsseldorfer Straße 31A und erleben Sie eine persönliche Betreuung in einem harmonischen Ambiente.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -57,7 +57,273 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Tiefenmassage 30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 45,
+      "priceLabel": "45€"
+    },
+    {
+      "id": "offer-2",
+      "name": "45 Min",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 60,
+      "priceLabel": "60€"
+    },
+    {
+      "id": "offer-3",
+      "name": "60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90€"
+    },
+    {
+      "id": "offer-4",
+      "name": "90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 110,
+      "priceLabel": "110€"
+    },
+    {
+      "id": "offer-5",
+      "name": "Sportmassage 30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 55,
+      "priceLabel": "55€"
+    },
+    {
+      "id": "offer-6",
+      "name": "45 Min",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 75,
+      "priceLabel": "75€"
+    },
+    {
+      "id": "offer-7",
+      "name": "60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 100,
+      "priceLabel": "100€"
+    },
+    {
+      "id": "offer-8",
+      "name": "Rücken Schulter Nacken Arme klassisch fest 30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-9",
+      "name": "45 Min",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 55,
+      "priceLabel": "55€"
+    },
+    {
+      "id": "offer-10",
+      "name": "60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 70,
+      "priceLabel": "70€"
+    },
+    {
+      "id": "offer-11",
+      "name": "Schmerzbehandlung Triggerpunktmassage inkl Beratung medizinisch 60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 100,
+      "priceLabel": "100€"
+    },
+    {
+      "id": "offer-12",
+      "name": "90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 130,
+      "priceLabel": "130€"
+    },
+    {
+      "id": "offer-13",
+      "name": "Kopf / Gesicht wahlweise auch einzeln 20 Min",
+      "durationMinutes": 20,
+      "durationLabel": "20 min",
+      "price": 25,
+      "priceLabel": "25€"
+    },
+    {
+      "id": "offer-14",
+      "name": "30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-15",
+      "name": "Anti Migräne / Kopf 20 Min",
+      "durationMinutes": 20,
+      "durationLabel": "20 min",
+      "price": 30,
+      "priceLabel": "30€"
+    },
+    {
+      "id": "offer-16",
+      "name": "30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 40,
+      "priceLabel": "40€"
+    },
+    {
+      "id": "offer-17",
+      "name": "30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 45,
+      "priceLabel": "45€"
+    },
+    {
+      "id": "offer-18",
+      "name": "Anti Cellulite Beine hinten 30 Min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-19",
+      "name": "Beine hinten und vorne 45 Min",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 50,
+      "priceLabel": "50€"
+    },
+    {
+      "id": "offer-20",
+      "name": "Beine hinten und vorne und Bauch 60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 65,
+      "priceLabel": "65€"
+    },
+    {
+      "id": "offer-21",
+      "name": "Reflexzonenmassage wahlweise Fuß, Hand, Ohren, Gesicht 20 Min",
+      "durationMinutes": 20,
+      "durationLabel": "20 min",
+      "price": 25,
+      "priceLabel": "25€"
+    },
+    {
+      "id": "offer-22",
+      "name": "Fußmassage inkl Fußbad 20 Min",
+      "durationMinutes": 20,
+      "durationLabel": "20 min",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-23",
+      "name": "Ganzkörpermassage ohne Intimbereich! 60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 70,
+      "priceLabel": "70€"
+    },
+    {
+      "id": "offer-24",
+      "name": "90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 100,
+      "priceLabel": "100€"
+    },
+    {
+      "id": "offer-25",
+      "name": "Zeremonielle Cakao Massage 90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120€"
+    },
+    {
+      "id": "offer-26",
+      "name": "120 Min",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 150,
+      "priceLabel": "150€"
+    },
+    {
+      "id": "offer-27",
+      "name": "Rituelle Chakra Stimulation Reinigung Massage und Meditation 90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120€"
+    },
+    {
+      "id": "offer-28",
+      "name": "Posturale Integration Rebalance Bodywork Sitzungspreis Teilkörper 60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90€"
+    },
+    {
+      "id": "offer-29",
+      "name": "Einstiegs- und Endsitzung je 90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120€"
+    },
+    {
+      "id": "offer-30",
+      "name": "Namaste!"
+    }
+  ],
+  "images": [
+    "https://seelenbalsamberlin.de/wp-content/uploads/2022/07/cropped-Screenshot_20220706_081418.jpg",
+    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/Sonnenfinsternis2026-480x324.jpg",
+    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/UrlauberInselusedom-480x324.png",
+    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/Fahrradhelm-480x324.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Seelenbalsam in Berlin an?",
+      "answer": "Seelenbalsam bietet Dienstleistungen in den Bereichen Osteopathie, Psychotherapie, Ernährungsberatung, Schmerztherapie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Seelenbalsam buchen?",
+      "answer": "Sie können einen Termin direkt über die Website buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten von Seelenbalsam?",
+      "answer": "Die Öffnungszeiten sind: Montag von 12:00 bis 20:00, Dienstag von 10:00 bis 20:00, Mittwoch von 14:00 bis 20:00, Donnerstag von 12:00 bis 20:00 und Freitag von 10:00 bis 18:00."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Seelenbalsam?",
+      "answer": "Die Praxis Seelenbalsam befindet sich in der Düsseldorfer Str. 31A, 6. Etage, in 10707 Berlin."
+    },
+    {
+      "question": "Wie kann ich Seelenbalsam kontaktieren?",
+      "answer": "Sie können Seelenbalsam telefonisch unter 015201389471 oder per E-Mail an seelenbalsam@mail.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC5SeqchRqEcRvUrRqc6IU0U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 123
 }

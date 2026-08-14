@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie",
   "slug": "praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie",
   "name": "Praxis für Osteopathie am Ludwigkirchplatz & Heilpraktiker für Psychotherapie",
-  "description": "Praxis für Osteopathie am Ludwigkirchplatz & Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Osteopathie am Ludwigkirchplatz in Berlin bieten wir spezialisierte osteopathische Behandlungen für Babys, Kinder und Erwachsene an. Unser ganzheitlicher Ansatz betrachtet den Menschen als Einheit und zielt darauf ab, die natürliche Heilung des Körpers zu unterstützen sowie Beschwerden nachhaltig zu lindern. Neben osteopathischen Therapien bieten wir auch psychotherapeutische Beratung an, um das körperliche und emotionale Wohlbefinden unserer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,7 +54,58 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie Erwachsene"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitliche Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Osteopathie Baby"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlungsablauf"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kontaktieren Sie uns"
+    }
+  ],
+  "images": [
+    "https://osteopathie-jk.com/wp-content/uploads/2024/11/praxis8-scaled-e1732716884409-1500x630.jpg",
+    "https://osteopathie-jk.com/wp-content/uploads/2024/12/Unknown-e1734681203284-1030x1030.jpg",
+    "https://osteopathie-jk.com/wp-content/uploads/2024/11/2016-12-21-19-37-49-0039-scaled-e1732715251105-300x300.jpg",
+    "https://osteopathie-jk.com/wp-content/uploads/2024/11/Gabriel-17_edited-scaled-e1732715281674-300x300.jpg",
+    "https://osteopathie-jk.com/wp-content/uploads/2024/11/VOD_Logo.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis für Osteopathie am Ludwigkirchplatz an?",
+      "answer": "Die Praxis bietet spezialisierte osteopathische Behandlungen für Babys, Kinder und Erwachsene an, einschließlich ganzheitlicher Therapieansätze, Osteopathie für Erwachsene und Osteopathie für Babys."
+    },
+    {
+      "question": "Wie lange dauert eine Erstbehandlung in der Praxis?",
+      "answer": "Die Erstbehandlung dauert in der Regel 55-60 Minuten und umfasst eine gründliche Anamnese sowie eine individuelle Behandlung."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03088778484 oder per E-Mail an osteopathie.jk@gmail.com vereinbaren."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat Montag und Dienstag von 09:00 bis 15:00 Uhr, Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 09:00 bis 16:00 Uhr und Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Ersetzt die osteopathische Behandlung die Schulmedizin?",
+      "answer": "Die Behandlung mittels osteopathischer Techniken gehört zur Komplementärmedizin und ersetzt keine klassische Schulmedizin. Es handelt sich um eine Selbstzahlerleistung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__-TefpQqEcRuVo-CP87mhQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26
 }

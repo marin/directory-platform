@@ -2,8 +2,8 @@
   "id": "praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth",
   "slug": "praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth",
   "name": "Praxis für kognitive Verhaltenstherapie | Luise Bomke - Heilpraktikerin für Psychotherapie",
-  "description": "Praxis für kognitive Verhaltenstherapie | Luise Bomke - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für kognitive Verhaltenstherapie von Luise Bomke befindet sich in Berlin-Friedrichshain und bietet Unterstützung für Menschen, die sich innerlich erschöpft oder unter Druck fühlen, obwohl sie nach außen hin erfolgreich wirken. Als Heilpraktikerin für Psychotherapie mit dem Schwerpunkt auf Kognitiver Verhaltenstherapie (KVT) verfolgt sie einen lösungsorientierten Ansatz, der individuelle Therapieformen wie Einzeltherapie und Walk and Talk umfasst. Die Praxis legt Wert auf eine transparente und vertrauensvolle Zusammenarbeit, um neue Perspektiven und Strategien für den Alltag zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -44,7 +44,81 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine therapeutische Haltung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einzeltherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Walk and Talk"
+    },
+    {
+      "id": "offer-4",
+      "name": "Das sagen meine Patient:innen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ablauf und Rahmenbedingungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "FAQ - Häufig gestellte Fragen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Telefonseelsorge"
+    },
+    {
+      "id": "offer-8",
+      "name": "Über mich & meinen Ansatz"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kosten & Kostenübernahme"
+    },
+    {
+      "id": "offer-10",
+      "name": "Ablauf & Rahmenbedingungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Therapieformen"
+    }
+  ],
+  "images": [
+    "https://luisebomke.de/wp-content/uploads/2024/08/IMG_20211031_091159-scaled-e1765133968447-190x300.jpg",
+    "https://luisebomke.de/wp-content/uploads/2026/03/google-rezensionen-luise-bomke-kognitive-verhaltenstherapie.jpg",
+    "https://luisebomke.de/wp-content/uploads/2023/12/VFP_Siegel-300x289.png",
+    "https://og.zeeg.me/v1/event/09d92663-a174-41f4-aaaf-93d9911c0db0.png?d=eyJhY2NlbnQiOiIwMDk2ODgiLCJicmFuZEF2YXRhciI6bnVsbCwiZHVyYXRpb24iOjMwLCJoaWRlWmVlZ0JyYW5kaW5nIjpmYWxzZSwiaG9zdHMiOlt7ImF2YXRhciI6Imh0dHBzOi8vdXBsb2Fkcy56ZWVnLm1lL3VzZXIvYXZhdGFyL3JxNWl2ZWpsanpvM3Jvb3ppM3ZodGR6ZiIsImZpcnN0TmFtZSI6IlByYXhpcyBmw7xyIGtvZ25pdGl2ZSBWZXJoYWx0ZW5zdGhlcmFwaWUgfCIsImxhc3ROYW1lIjoiTHVpc2UgQm9ta2UgLSBIZWlscHJha3Rpa2VyaW4gZsO8ciBQc3ljaG90aGVyYXBpZSJ9XSwiaWQiOiIwOWQ5MjY2My1hMTc0LTQxZjQtYWFhZi05M2Q5OTExYzBkYjAiLCJraW5kIjoiT05FX09OX09ORSIsImxvY2FsZSI6ImRlIiwibG9jYXRpb24iOlsiSU5fUEVSU09OIl0sIm93bmVyTmFtZSI6IlByYXhpcyBmw7xyIGtvZ25pdGl2ZSBWZXJoYWx0ZW5zdGhlcmFwaWUgfCBMdWlzZSBCb21rZSAtIEhlaWxwcmFrdGlrZXJpbiBmw7xyIFBzeWNob3RoZXJhcGllIiwib3duZXJUeXBlIjoidXNlciIsInByaWNlIjpudWxsLCJzbHVnVXJsIjoiemVlZy5tZS9sdWlzZWJvbWtlL0tlbm5lbmxlcm5lbiIsInN1cmZhY2UiOiJldmVudCIsInRpdGxlIjoiS2VubmVubGVybmdlc3Byw6RjaCAtIGtvc3RlbmZyZWkgJiB1bnZlcmJpbmRsaWNoIn0&v=6b71ea1dcde3b4d8&s=hkfI4PT5UDsAdp7Zc95G-elKejWA7rkHwEKeQVhUoo4"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet Luise Bomke an?",
+      "answer": "Luise Bomke bietet Einzeltherapie und Walk and Talk an, wobei Walk and Talk therapeutische Gespräche mit Bewegung in der Natur kombiniert."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis für kognitive Verhaltenstherapie vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite luisebomke.de vereinbaren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat montags von 09:00 bis 15:00 Uhr, dienstags von 09:00 bis 16:00 Uhr und donnerstags von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet die Praxis auch ein kostenloses Kennenlerngespräch an?",
+      "answer": "Ja, die Praxis bietet ein kostenfreies und unverbindliches Kennenlerngespräch von 30 Minuten an."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine reguläre Sitzung?",
+      "answer": "Eine reguläre Sitzung in der Praxis kostet 90,00 € und dauert 50 Minuten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi4LRNz9PqEcRHpGroM0Lrao",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

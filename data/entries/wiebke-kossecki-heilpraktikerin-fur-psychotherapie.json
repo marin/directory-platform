@@ -2,8 +2,8 @@
   "id": "wiebke-kossecki-heilpraktikerin-fur-psychotherapie",
   "slug": "wiebke-kossecki-heilpraktikerin-fur-psychotherapie",
   "name": "Wiebke Kossecki, Heilpraktikerin für Psychotherapie",
-  "description": "Wiebke Kossecki, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Wiebke Kossecki ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet professionelle und einfühlsame Unterstützung in der psychologischen Beratung und Psychotherapie an, mit Schwerpunkten in der Einzel- und Paarberatung sowie Biografiearbeit und Life-Coaching. Ziel ihrer Arbeit ist es, gemeinsam mit den Klienten Lösungsmöglichkeiten und Perspektiven zu erarbeiten, um mehr Zufriedenheit und Lebensfreude zu erreichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,8 +25,52 @@
   },
   "phone": "03082007867",
   "website": "http://www.wiebke-kossecki.de/",
+  "bookingUrl": "https://www.wiebke-kossecki.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Termine nach 18 Uhr und am Wochenende 60 Min.....",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 100,
+      "priceLabel": "100,-€"
+    },
+    {
+      "id": "offer-2",
+      "name": "Paarberatung nach 18 Uhr und am WE 90 Min...........",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 225,
+      "priceLabel": "225,-€"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=310x10000:format=jpg/path/s2361cdf7ee3c9b0b/image/if744a491cbbeaa3e/version/1392660630/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=298x10000:format=jpg/path/s2361cdf7ee3c9b0b/image/i23fa91e581dd8900/version/1493561768/image.jpg",
+    "https://u.jimcdn.com/cms/o/s2361cdf7ee3c9b0b/emotion/crop/header.jpg?t=1383656312"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Wiebke Kossecki an?",
+      "answer": "Wiebke Kossecki bietet Einzelberatung, Paarberatung, Biografiearbeit, Life-Coaching und Lebensrückblicks-Gespräche an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Wiebke Kossecki buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Wiebke Kossecki buchen, indem Sie die Kontaktseite besuchen: https://www.wiebke-kossecki.de/kontakt/."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Wiebke Kossecki?",
+      "answer": "Die Praxis von Wiebke Kossecki befindet sich in der Uhlandstraße 145, 10719 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Sitzung?",
+      "answer": "Die Kosten für eine Sitzung betragen 100,-€ für 60 Minuten und 225,-€ für eine Paarberatung von 90 Minuten."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten sind nicht angegeben, jedoch werden Termine nach 18 Uhr und am Wochenende angeboten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ07Tp0vBQqEcRmEfex_AYj-Q"
 }

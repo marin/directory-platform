@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-tcm-larysa-willner",
   "slug": "heilpraxis-fur-tcm-larysa-willner",
   "name": "Heilpraxis für TCM Larysa Willner",
-  "description": "Heilpraxis für TCM Larysa Willner ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis für Traditionelle Chinesische Medizin von Larysa Willner befindet sich in der Oberfeldstraße 180 in Berlin-Biesdorf. Hier werden verschiedene Methoden der TCM angeboten, darunter Akupunktur, Tuina-Massagen, Arzneimitteltherapie und Qi Gong. Ziel der Praxis ist es, die Gesundheit und das Wohlbefinden der Patienten durch individuell abgestimmte Behandlungen zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -38,7 +38,56 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Arzneimitteltherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Tuina"
+    },
+    {
+      "id": "offer-4",
+      "name": "Diätetik"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ohrakupunktur"
+    }
+  ],
+  "images": [
+    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/a/9/csm_Depositphotos_29903537_original_0886051891.webp",
+    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/1/2/csm_akpunktur_b0d11d7c06.webp",
+    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/7/7/csm_arzneimittel_295d938cd7.webp",
+    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/1/0/csm_tuina_0bdafd16bb.webp",
+    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/5/7/csm_qigong_0e4f7d398c.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Heilpraxis für TCM Larysa Willner an?",
+      "answer": "Die Heilpraxis bietet unter anderem Akupunktur, Arzneimitteltherapie, Tuina, Qi Gong, Diätetik und Ohrakupunktur an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
+      "answer": "Die Heilpraxis ist montags und donnerstags von 10:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis für TCM Larysa Willner?",
+      "answer": "Die Praxis befindet sich in der Oberfeldstraße 180, 12683 Berlin-Biesdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Termine können telefonisch unter 0172 - 172 68 75 oder per E-Mail an larysa.willner@gmx.de vereinbart werden."
+    },
+    {
+      "question": "Was ist Traditionelle Chinesische Medizin (TCM)?",
+      "answer": "Traditionelle Chinesische Medizin ist ein ganzheitliches Heilverfahren, das verschiedene Methoden wie Akupunktur, Tuina, Moxibustion und chinesische Arzneimitteltherapie umfasst."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl8d2PG2JeIARPOxqmLWDse8"
 }

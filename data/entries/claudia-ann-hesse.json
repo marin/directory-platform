@@ -2,8 +2,8 @@
   "id": "claudia-ann-hesse",
   "slug": "claudia-ann-hesse",
   "name": "Claudia Ann Hesse",
-  "description": "Claudia Ann Hesse ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Claudia Ann Hesse ist eine erfahrene Heilpraktikerin mit einer Naturheilpraxis in den Askaniahöfen in Berlin. Sie bietet verschiedene naturheilkundliche Behandlungen an, darunter Bioresonanz und Klangmassage. Die Praxis befindet sich in der Stubenrauchstraße 72, im 3. Obergeschoss, und ist gut mit öffentlichen Verkehrsmitteln erreichbar. Termine sind nur nach telefonischer Absprache möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,32 @@
   },
   "phone": "03028857000",
   "website": "http://claudia-ann-hesse.de/kontakt.html",
+  "bookingUrl": "http://claudia-ann-hesse.de/kontakt.html",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis in den Askaniahöfen"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Claudia Ann Hesse?",
+      "answer": "Die Naturheilpraxis von Claudia Ann Hesse befindet sich in der Stubenrauchstraße 72, 12161 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Claudia Ann Hesse vereinbaren?",
+      "answer": "Termine können nur nach telefonischer Absprache oder Vereinbarung unter der Telefonnummer 030 / 28857000 vereinbart werden."
+    },
+    {
+      "question": "Welche Verkehrsanbindungen gibt es zur Praxis?",
+      "answer": "Die Praxis ist gut mit öffentlichen Verkehrsmitteln erreichbar. In der Nähe befinden sich die U-Bahnhöfe Walther-Schreiber-Platz und Friedrich-Wilhelm-Platz (U9) sowie der S-Bahnhof Bundesplatz (S45). Zudem halten die Buslinien M76, X76, 181, 186 und 246 in der Nähe."
+    },
+    {
+      "question": "Bietet Claudia Ann Hesse spezielle Therapien an?",
+      "answer": "Ja, Claudia Ann Hesse bietet unter anderem Bioresonanz und Klangmassage an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCMM3lQqEcRMsaRZ7JbIUg"
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerpraxis-private-physiotherapie-doris-groth",
   "slug": "heilpraktikerpraxis-private-physiotherapie-doris-groth",
   "name": "Heilpraktikerpraxis & private Physiotherapie - Doris Groth",
-  "description": "Heilpraktikerpraxis & private Physiotherapie - Doris Groth ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraktikerpraxis & privaten Physiotherapie von Doris Groth in Berlin Reinickendorf werden Patienten ganzheitlich und systematisch behandelt. Die Schwerpunkte liegen auf Gesundheitsvorsorge, Entgiftung, Ernährungsberatung nach Hildegard von Bingen sowie verschiedenen Therapieformen wie Physiotherapie, Shiatsu und Energiearbeit. Doris Groth begleitet ihre Patienten auf dem Weg zu einer ganzheitlichen Gesundheit und bietet individuelle Behandlungsansätze an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,46 @@
   "phone": "01719459669",
   "email": "groth-doris@t-online.de",
   "website": "http://www.dorisgroth.de/",
+  "bookingUrl": "https://www.dorisgroth.de/?page_id=56",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis Doris Groth"
+    },
+    {
+      "id": "offer-2",
+      "name": "Physiotherapie"
+    }
+  ],
+  "images": [
+    "https://www.dorisgroth.de/wp-content/uploads/2022/12/Design-ohne-Titel-45.png",
+    "https://www.dorisgroth.de/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-09-at-10.02.02-300x300.jpeg",
+    "https://www.dorisgroth.de/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-09-at-10.02.25.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerpraxis von Doris Groth?",
+      "answer": "Die Heilpraktikerpraxis von Doris Groth befindet sich in der Olafstraße 6, 13467 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Welche Leistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet verschiedene Leistungen an, darunter Entgiftung durch Azidosemassagen und Schröpfen, Komplexhomöopathie, Ernährungsberatung nach Hildegard von Bingen, unterschiedliche Massagen, Shiatsu, Energiearbeit, sowie Physiotherapie wie Krankengymnastik, Bobath Therapie, manuelle Lymphdrainage und funktionelles Beckenbodentraining."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin buchen, indem Sie die Buchungsseite auf der Website von Doris Groth besuchen: https://www.dorisgroth.de/?page_id=56."
+    },
+    {
+      "question": "Wie kann ich Doris Groth kontaktieren?",
+      "answer": "Sie können Doris Groth telefonisch unter 01719459669 oder per E-Mail an groth-doris@t-online.de kontaktieren."
+    },
+    {
+      "question": "Was ist das Hauptziel der Heilpraktikerpraxis?",
+      "answer": "Das Hauptziel der Heilpraktikerpraxis ist es, die Patienten auf ihrem Weg zur ganzheitlichen Gesundheit zu begleiten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmaM7NvdVqEcRWJrRtHEipAc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

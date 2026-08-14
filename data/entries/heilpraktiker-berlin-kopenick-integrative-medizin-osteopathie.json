@@ -2,8 +2,8 @@
   "id": "heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie",
   "slug": "heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie",
   "name": "Heilpraktiker Berlin Köpenick - Integrative Medizin & Osteopathie",
-  "description": "Heilpraktiker Berlin Köpenick - Integrative Medizin & Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Stephan Plöger in Berlin Köpenick bietet eine ganzheitliche Behandlung aus den Bereichen Integrative Medizin und Osteopathie an. Mit einem Fokus auf individuelle Beratung und umfassende Labordiagnostik zielt er darauf ab, die Gesundheit seiner Patienten nachhaltig zu fördern. Zu seinen Schwerpunkten zählen unter anderem Mikrobiom, HRV-Messung, Mikroimmuntherapie und Kinderosteopathie. Die Praxis legt großen Wert auf eine verständliche Kommunikation und die Einbeziehung der Patienten in den Behandlungsprozess.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,7 +27,110 @@
   "email": "info@nature-practice.de",
   "website": "https://www.nature-practice.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Stephan Plöger Osteopath & Heilpraktiker in Magdeburg & Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitliche Behandlung beim Heilpraktiker & Osteopathen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Mikrobiom"
+    },
+    {
+      "id": "offer-4",
+      "name": "HRV-Messung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mikroimmuntherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Laboranalyse"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kinderosteopathie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Wann kann eine heilpraktische und osteopathische Behandlung sinnvoll sein"
+    },
+    {
+      "id": "offer-10",
+      "name": "Schmerzen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Verdauung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Vegetativ"
+    },
+    {
+      "id": "offer-13",
+      "name": "Kopfbereich"
+    },
+    {
+      "id": "offer-14",
+      "name": "Immunsystem"
+    },
+    {
+      "id": "offer-15",
+      "name": "Sehnenreizung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Erfahrungen: Was sagen Patienten über Behandlungen"
+    },
+    {
+      "id": "offer-17",
+      "name": "Praxis für Osteopathie & Integrative Medizin an zwei Standorten"
+    },
+    {
+      "id": "offer-18",
+      "name": "Magdeburg - Stadtfeld Ost"
+    },
+    {
+      "id": "offer-19",
+      "name": "Berlin - Köpenick"
+    }
+  ],
+  "images": [
+    "https://www.nature-practice.de/wp-content/uploads/2026/04/cropped-cropped-cropped-entwurf_logo_practical_postwork.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet der Heilpraktiker in Berlin Köpenick an?",
+      "answer": "Der Heilpraktiker in Berlin Köpenick bietet eine Vielzahl von Behandlungen an, darunter Osteopathie, Mikroimmuntherapie, HRV-Messung, Laboranalysen und Kinderosteopathie."
+    },
+    {
+      "question": "Wann kann eine heilpraktische und osteopathische Behandlung sinnvoll sein?",
+      "answer": "Eine heilpraktische und osteopathische Behandlung kann sinnvoll sein bei Schmerzen, Verdauungsproblemen, vegetativen Beschwerden, Kopfbereichsproblemen, Immunsystemstörungen und Sehnenreizungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03058882808 oder per E-Mail an info@nature-practice.de vereinbaren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Osteopathie und Integrative Medizin?",
+      "answer": "Die Praxis befindet sich in der Grünauer Str. 14, 12557 Berlin, im Stadtteil Köpenick."
+    },
+    {
+      "question": "Was sagen Patienten über die Behandlungen bei Herrn Plöger?",
+      "answer": "Patienten berichten von positiven Erfahrungen, insbesondere über die individuelle Betreuung, das umfangreiche Fachwissen und die erfolgreiche Behandlung von verschiedenen Beschwerden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEZTRZv1RqEcRDFuPHE7huEM",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 21
 }

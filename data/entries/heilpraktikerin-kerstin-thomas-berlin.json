@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-kerstin-thomas-berlin",
   "slug": "heilpraktikerin-kerstin-thomas-berlin",
   "name": "Heilpraktikerin Kerstin Thomas Berlin",
-  "description": "Heilpraktikerin Kerstin Thomas Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Kerstin Thomas bietet in ihrer Praxis in Berlin alternative Heilmethoden, einschließlich Traditioneller Chinesischer Medizin (TCM) und Akupunktur, sowie Psychotherapie an. Die Praxis befindet sich in der Lohmeyerstraße 13 und hat sich auf ganzheitliche Ansätze zur Förderung der Gesundheit spezialisiert. Leider ist die Praxis seit dem 1. Juli geschlossen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,6 +26,32 @@
   "website": "http://www.heilpraktikerin-thomas-berlin.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=299x10000:format=jpg/path/s9c7eded6600a1fcd/image/id579e9346ced77d6/version/1486468117/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s9c7eded6600a1fcd/backgroundarea/if91624383b29cc9b/version/1486470750/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=274x1024:format=jpg/path/s9c7eded6600a1fcd/image/i3c9bb349f96d4409/version/1753357899/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Kerstin Thomas?",
+      "answer": "Die Praxis von Heilpraktikerin Kerstin Thomas befindet sich in der Lohmeyerstraße 13, 10587 Berlin."
+    },
+    {
+      "question": "Welche Heilmethoden bietet Heilpraktikerin Kerstin Thomas an?",
+      "answer": "Heilpraktikerin Kerstin Thomas bietet unter anderem TCM (Traditionelle Chinesische Medizin), Akupunktur, alternative Heilmethoden und Psychotherapie an."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Kerstin Thomas kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Kerstin Thomas telefonisch unter 017638919657 erreichen oder ihre Webseite unter http://www.heilpraktikerin-thomas-berlin.de/ besuchen."
+    },
+    {
+      "question": "Hat die Praxis von Heilpraktikerin Kerstin Thomas aktuell geöffnet?",
+      "answer": "Die Praxis ist seit dem 1. Juli geschlossen."
+    },
+    {
+      "question": "In welchem Gebiet ist Heilpraktikerin Kerstin Thomas tätig?",
+      "answer": "Heilpraktikerin Kerstin Thomas ist im Bereich Mitte in Berlin tätig."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvWzX4yRRqEcR6dDNHphvWsg"
 }

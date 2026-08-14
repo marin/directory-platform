@@ -2,8 +2,8 @@
   "id": "linsenmair-barbara-heilpraktikerin",
   "slug": "linsenmair-barbara-heilpraktikerin",
   "name": "Linsenmair Barbara Heilpraktikerin",
-  "description": "Linsenmair Barbara Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Barbara Linsenmair ist Heilpraktikerin in Berlin-Tegel mit einem Schwerpunkt auf Kinesiologie und Neurale Organisations Technik. Sie bietet individuelle Behandlungstermine an, um die Gesundheit und Leistungsfähigkeit ihrer Patienten zu stärken und zu verbessern. Mit umfangreicher Erfahrung und kontinuierlicher Fortbildung unterstützt sie Menschen dabei, innere und äußere Entspannung zu finden sowie persönliche Fähigkeiten zu entfalten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,47 @@
   "phone": "03043668210",
   "email": "b-linsenmair@gmx.de",
   "website": "http://www.kinesiologie-berlinbrandenburg.de/",
+  "bookingUrl": "https://www.kinesiologie-berlinbrandenburg.de/kontakt.html",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Barbara Linsenmair - Über meine Person"
+    },
+    {
+      "id": "offer-2",
+      "name": "Zur Kinesiologie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Barbara Linsenmair (geb. Dewitz), Heilpraktikerin. Kinesiologie in Tegel"
+    }
+  ],
+  "images": [
+    "https://www.kinesiologie-berlinbrandenburg.de/bilder/pfeil_hoch.gif",
+    "https://www.kinesiologie-berlinbrandenburg.de/bilder/pfeil_runter.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Barbara Linsenmair?",
+      "answer": "Die Praxis von Barbara Linsenmair befindet sich in Berlin, Wildganssteig 5, 13503 Berlin."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Barbara Linsenmair an?",
+      "answer": "Barbara Linsenmair bietet unter anderem Kinesiologie und Neurale Organisations Technik an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Barbara Linsenmair vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 - 43 66 82 10 vereinbaren oder über die Webseite Kontakt in Berlin."
+    },
+    {
+      "question": "Welche Zielgruppe spricht Barbara Linsenmair mit ihren Behandlungen an?",
+      "answer": "Barbara Linsenmair richtet sich an Menschen, die den Stress des Alltags hinter sich lassen und innere sowie äußere Entspannung finden möchten."
+    },
+    {
+      "question": "Wie lange praktiziert Barbara Linsenmair bereits als Heilpraktikerin?",
+      "answer": "Barbara Linsenmair hat ihre Prüfung zum Heilpraktiker im Jahr 1999 bestanden und praktiziert seitdem."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-SW33HRVqEcRbJTeHn9A9F4"
 }

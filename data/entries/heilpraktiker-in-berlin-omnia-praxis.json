@@ -2,8 +2,8 @@
   "id": "heilpraktiker-in-berlin-omnia-praxis",
   "slug": "heilpraktiker-in-berlin-omnia-praxis",
   "name": "Heilpraktiker in Berlin - Omnia Praxis",
-  "description": "Heilpraktiker in Berlin - Omnia Praxis ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Omnia Praxis in Berlin bietet eine umfassende naturheilkundliche Betreuung mit einem Fokus auf klassische Naturheilverfahren und Wellness-Behandlungen. Die Praxis verfolgt einen ganzheitlichen Ansatz, der den Menschen als Einheit von Körper und Seele betrachtet. Ziel ist es, die Selbstheilungskräfte zu aktivieren und die Lebensqualität der Patienten zu steigern. Zu den angebotenen Behandlungen zählen unter anderem Akupunktur, Fußreflexzonenmassage und Reiki.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -28,7 +28,74 @@
   "website": "http://www.omnia-praxis.de/",
   "bookingUrl": "https://omnia-praxis.de/online-termin/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Besser"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitlich"
+    },
+    {
+      "id": "offer-3",
+      "name": "Unsere Behandlungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Erste Beratung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Lesen Sie unsere neuesten Artikel"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kontaktiere uns"
+    },
+    {
+      "id": "offer-7",
+      "name": "Wählen Sie den Standort in Ihrer Nähe"
+    },
+    {
+      "id": "offer-8",
+      "name": "Info"
+    },
+    {
+      "id": "offer-9",
+      "name": "Pflichtangaben"
+    }
+  ],
+  "images": [
+    "https://omnia-praxis.de/wp-content/uploads/2023/01/Small-21-MOBILE-480.jpg",
+    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-1-420.jpg",
+    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-2-480.jpg",
+    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-3-480.jpg",
+    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-5-480.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Omnia Praxis in Berlin?",
+      "answer": "Die Omnia Praxis befindet sich in der Parchwitzer Str. 50, 12526 Berlin."
+    },
+    {
+      "question": "Welche Behandlungen bietet die Omnia Praxis an?",
+      "answer": "Die Omnia Praxis bietet klassische Naturheilverfahren und Wellness-Behandlungen an, darunter Akupunktur, Fußreflexzonenmassage, Reiki, Ohrakupunktur und Schröpfen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Omnia Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Webseite der Omnia Praxis buchen: Online-Termin."
+    },
+    {
+      "question": "Wie kann ich die Omnia Praxis kontaktieren?",
+      "answer": "Sie können die Omnia Praxis telefonisch unter 015565998959 oder per E-Mail an omnia.naturheilpraxis@gmail.com kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Naturheilkunde in der Omnia Praxis?",
+      "answer": "Das Ziel der Naturheilkunde in der Omnia Praxis ist es, Krankheit vorzubeugen und die Selbstfürsorge zu fördern, indem die Reize gesetzt werden, die der Körper benötigt, um sich selbst zu heilen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv-qRwSVHqEcRg1gRCufxiDY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

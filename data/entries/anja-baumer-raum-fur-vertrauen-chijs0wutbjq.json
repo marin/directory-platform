@@ -2,8 +2,8 @@
   "id": "anja-baumer-raum-fur-vertrauen-chijs0wutbjq",
   "slug": "anja-baumer-raum-fur-vertrauen-chijs0wutbjq",
   "name": "Anja Bäumer – Raum für Vertrauen",
-  "description": "Anja Bäumer – Raum für Vertrauen ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Anja Bäumer – Raum für Vertrauen in Berlin-Lichtenberg bietet eine einfühlsame Begleitung in der Naturheilkunde und Psychotherapie. Die Praxis legt Wert auf persönliche Entwicklung, innere Heilung und die Entfaltung der eigenen Spiritualität. Anja Bäumer unterstützt ihre Klienten dabei, ihren individuellen Weg zu finden und ein erfülltes Leben in Leichtigkeit und Zufriedenheit zu erleben.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,60 @@
   "phone": "03086387468",
   "email": "20anja.baeumer@raum-fuer-vertrauen.de",
   "website": "https://raum-fuer-vertrauen.de/",
+  "bookingUrl": "https://calendly.com/anja-baeumer/kennenlernen",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Geh mit mir auf Deine Reise"
+    },
+    {
+      "id": "offer-2",
+      "name": "Inneren Frieden finden"
+    },
+    {
+      "id": "offer-3",
+      "name": "Eigene Spiritualität leben"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schwangerschaft (mit Tabu)"
+    },
+    {
+      "id": "offer-5",
+      "name": "Eigene Spiritualiät leben"
+    },
+    {
+      "id": "offer-6",
+      "name": "Rezensionen"
+    }
+  ],
+  "images": [
+    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Selbstwertgefuehl.jpg",
+    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Paar_jung.jpg",
+    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Gluecklich.jpg",
+    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Optimiert.jpg",
+    "https://raum-fuer-vertrauen.de/wp-content/uploads/2021/09/Anker_innerer_Frieden.svg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Anja Bäumer?",
+      "answer": "Die Praxis von Anja Bäumer befindet sich in Berlin, An d. Karlshorster Heide 48, 10318 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Anja Bäumer buchen?",
+      "answer": "Sie können einen Termin bei Anja Bäumer über die Buchungsseite unter https://calendly.com/anja-baeumer/kennenlernen buchen."
+    },
+    {
+      "question": "Welche Angebote bietet Anja Bäumer an?",
+      "answer": "Anja Bäumer bietet verschiedene Angebote an, darunter 'Geh mit mir auf Deine Reise', 'Inneren Frieden finden', 'Eigene Spiritualität leben' und Unterstützung während der Schwangerschaft."
+    },
+    {
+      "question": "Wie kann ich Anja Bäumer kontaktieren?",
+      "answer": "Sie können Anja Bäumer telefonisch unter 03086387468 oder per E-Mail unter 20anja.baeumer@raum-fuer-vertrauen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS0_wuTBJqEcR08Vo0ktMa6A",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

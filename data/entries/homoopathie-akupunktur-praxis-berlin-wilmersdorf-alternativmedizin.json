@@ -2,8 +2,8 @@
   "id": "homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin",
   "slug": "homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin",
   "name": "Homöopathie & Akupunktur Praxis Berlin Wilmersdorf Alternativmedizin",
-  "description": "Homöopathie & Akupunktur Praxis Berlin Wilmersdorf Alternativmedizin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Homöopathie & Akupunktur Praxis Berlin Wilmersdorf bietet ganzheitliche Gesundheitslösungen und seelische Balance unter der Leitung von Julia Nitzsche, einer erfahrenen Heilpraktikerin mit über 30 Jahren Praxiserfahrung. Die Praxis spezialisiert sich auf Homöopathie, Akupunktur und Naturheilkunde und befindet sich in der Mainzer Str. 23 in Berlin. Hier werden individuelle Heilmethoden angewendet, um die Gesundheit der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -54,7 +54,47 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "JULIA NITZSCHE – HEILPRAKTIKERIN & NATUROPATH / BERLIN"
+    },
+    {
+      "id": "offer-2",
+      "name": "Über 30 Jahre Praxiserfahrung in individueller Heilkunde"
+    },
+    {
+      "id": "offer-3",
+      "name": "Please choose your language"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/520b3a75e4b0b7f30c88c254/60aa2940-9932-4a06-9348-e35bb4f235cc/homoeopathie-praxis-berlin-wilmersdorf-hero.webp",
+    "http://static1.squarespace.com/static/520b3a75e4b0b7f30c88c254/t/6902416c6b7b7c29aad44853/1761755500071/Homoeopathie-akupunktur-berlin.webp?format=1500w"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis an?",
+      "answer": "Die Praxis bietet Homöopathie, Akupunktur (TCM) und Naturheilkunde an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag, Dienstag und Donnerstag von 10:00 bis 18:30 Uhr, Mittwoch von 11:30 bis 16:30 Uhr und Freitag von 10:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Mainzer Str. 23, 10715 Berlin, im Stadtteil Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 0308329027 oder per E-Mail an julia.nitzsche@gmx.de kontaktieren."
+    },
+    {
+      "question": "Wer ist die Heilpraktikerin der Praxis?",
+      "answer": "Die Heilpraktikerin der Praxis ist Julia Nitzsche, die über 30 Jahre Praxiserfahrung in individueller Heilkunde verfügt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt96ixolQqEcR3SsAaeCojlE",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 30
 }

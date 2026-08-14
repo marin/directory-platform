@@ -2,8 +2,8 @@
   "id": "corinna-simpson-heilpraktikerin-fur-psychotherapie-einzel-paar-familientherapie-",
   "slug": "corinna-simpson-heilpraktikerin-fur-psychotherapie-einzel-paar-familientherapie-",
   "name": "Corinna Simpson Heilpraktikerin für Psychotherapie Einzel-, Paar- & Familientherapie nach Jesper Juul, EMDR, Kinesiologie",
-  "description": "Corinna Simpson Heilpraktikerin für Psychotherapie Einzel-, Paar- & Familientherapie nach Jesper Juul, EMDR, Kinesiologie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Corinna Simpson ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Steglitz. Sie bietet Einzel-, Paar- und Familientherapie nach den Grundsätzen von Jesper Juul an und nutzt Methoden wie EMDR und Kinesiologie. Ihr Ansatz fokussiert sich auf die Förderung von Beziehungen und echtem Kontakt, um Menschen in schwierigen Lebenssituationen zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "03077206956",
   "email": "mail@beratungspraxis-simpson.de",
   "website": "http://beratungspraxis-simpson.de/",
+  "bookingUrl": "https://beratungspraxis-simpson.de/Kontakt/",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -49,6 +50,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://beratungspraxis-simpson.de/.cm4all/uproc.php/0/_DSC5893.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet Corinna Simpson an?",
+      "answer": "Corinna Simpson bietet Einzel-, Paar- und Familientherapie nach Jesper Juul, EMDR und Kinesiologie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Corinna Simpson?",
+      "answer": "Die Praxis von Corinna Simpson befindet sich in der Moltkestraße 46, 12203 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Dienstag und Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 09:00 bis 14:00 Uhr und Freitag von 10:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Corinna Simpson buchen?",
+      "answer": "Einen Termin können Sie über die Webseite unter https://beratungspraxis-simpson.de/Kontakt/ buchen."
+    },
+    {
+      "question": "Wie kann ich Corinna Simpson kontaktieren?",
+      "answer": "Sie können Corinna Simpson telefonisch unter 03077206956 oder per E-Mail an mail@beratungspraxis-simpson.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhxJTK3lQqEcR9HiEXqtkJtA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

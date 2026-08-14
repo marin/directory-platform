@@ -2,8 +2,8 @@
   "id": "beate-ney-heilpraktikerin",
   "slug": "beate-ney-heilpraktikerin",
   "name": "Beate Ney - Heilpraktikerin",
-  "description": "Beate Ney - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Beate Ney ist eine erfahrene Heilpraktikerin mit Sitz in Berlin-Neukölln. Sie bietet klassische Homöopathie sowie Fußreflexzonentherapie nach Hanne Marquardt an. In ihrer Praxis legt sie Wert auf individuelle Beratung und umfassende Informationen zu den angebotenen Therapien.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,26 @@
   "website": "https://www.ney-homoeopathie-hagen-atw.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/keyvisual/customkey.png",
+    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/7766730_2125172617c.png",
+    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/7828163_1145022818.png",
+    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/8218274_1480157413.png",
+    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/8726420_107002503.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Beate Ney als Heilpraktikerin an?",
+      "answer": "Beate Ney bietet die Klassische Homöopathie und die Fußreflexzonentherapie nach Hanne Marquardt© an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Beate Ney?",
+      "answer": "Die Praxis von Beate Ney befindet sich in der Jonasstraße 25, 12053 Berlin, Neukölln."
+    },
+    {
+      "question": "Wie kann ich Beate Ney kontaktieren?",
+      "answer": "Sie können Beate Ney telefonisch unter 054019186 oder per E-Mail an beateney@web.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV233BplPqEcRK6TKdD5m4TA"
 }

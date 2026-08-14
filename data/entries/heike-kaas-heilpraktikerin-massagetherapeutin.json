@@ -2,8 +2,8 @@
   "id": "heike-kaas-heilpraktikerin-massagetherapeutin",
   "slug": "heike-kaas-heilpraktikerin-massagetherapeutin",
   "name": "Heike Kaas Heilpraktikerin & Massagetherapeutin",
-  "description": "Heike Kaas Heilpraktikerin & Massagetherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heike Kaas ist eine erfahrene Heilpraktikerin und Massagetherapeutin mit Sitz in Berlin. Seit 2013 bietet sie in ihrer Praxis eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Reflexzonentherapie, verschiedene Massagetechniken und Ernährungsberatung nach Hildegard von Bingen. Ihr ganzheitlicher Ansatz basiert auf der Traditionellen Europäischen Medizin, die darauf abzielt, das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,53 @@
   "phone": "017695145388",
   "website": "http://www.heike-kaas-heilpraktikerin.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraktikerin & Massagetherapeutin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Reflexzonentherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ernährungslehre"
+    },
+    {
+      "id": "offer-5",
+      "name": "Einen Termin vereinbaren"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/10019660/9b676289-0000-42b7-aa3f-263074ccfedd.jpg",
+    "https://static-assets.jimstatic.com/renderer/static/calendly_logo.eb5a11216dbbe4bd0d8f..png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heike Kaas an?",
+      "answer": "Heike Kaas bietet Heilpraktiker- und Massagetherapie, Reflexzonentherapie, verschiedene Massagen und Ernährungslehre an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heike Kaas?",
+      "answer": "Die Praxis von Heike Kaas befindet sich am Erntedankweg 28, 12683 Berlin und ab dem 1. März 2023 auch in der Lindenallee 62, 15366 Hoppegarten."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heike Kaas vereinbaren?",
+      "answer": "Um einen Termin zu vereinbaren, können Sie Heike Kaas eine Nachricht senden."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis in Hoppegarten?",
+      "answer": "Die Öffnungszeiten in Hoppegarten sind Dienstag von 10:00 bis 13:00 und 14:00 bis 18:00 Uhr sowie Mittwoch von 14:00 bis 18:00 Uhr und nach Vereinbarung."
+    },
+    {
+      "question": "Wie kann ich Heike Kaas kontaktieren?",
+      "answer": "Sie können Heike Kaas telefonisch unter 0176-95 145 388 oder per E-Mail an heike.kaas@gmx.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2-RE0DhJqEcR5gJcTWNuf-k"
 }

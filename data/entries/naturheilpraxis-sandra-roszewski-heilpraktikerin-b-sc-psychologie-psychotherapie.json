@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie",
   "slug": "naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie",
   "name": "Naturheilpraxis Sandra Roszewski. Heilpraktikerin & B.Sc. Psychologie. Psychotherapie, Schilddrüsensprechstunde, Coaching",
-  "description": "Naturheilpraxis Sandra Roszewski. Heilpraktikerin & B.Sc. Psychologie. Psychotherapie, Schilddrüsensprechstunde, Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis von Sandra Roszewski in Berlin-Neukölln stehen Psychotherapie, Naturheilkunde und individuelle Gesundheitsberatung im Mittelpunkt. Die Heilpraktikerin und Psychologin bietet unter anderem eine spezielle Schilddrüsensprechstunde sowie ganzheitliche Frauenheilkunde an. Ihr Ansatz kombiniert psychotherapeutische Verfahren mit naturheilkundlichen Methoden, um die individuellen Bedürfnisse der Patienten zu berücksichtigen und ganzheitliche Lösungen zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -29,7 +29,71 @@
   "website": "https://naturheilpraxis-sr.de/",
   "bookingUrl": "http://naturheilpraxis-sr.de/kontakt-und-termine",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schwerpunkte der Praxis"
+    },
+    {
+      "id": "offer-2",
+      "name": "SCHILDDRÜSEN-SPRECHSTUNDE"
+    },
+    {
+      "id": "offer-3",
+      "name": "PSYCHOTHERAPIE & TRAUMATHERAPIE"
+    },
+    {
+      "id": "offer-4",
+      "name": "GANZHEITLICHE FRAUENHEILKUNDE"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mein Ansatz: Individuell statt \"Schema F\""
+    },
+    {
+      "id": "offer-6",
+      "name": "Psychotherapie für dich alleine. Oder für euch als Paar."
+    },
+    {
+      "id": "offer-7",
+      "name": "Onlinekurse & Ebooks.Wir beide. Auf deiner Couch."
+    },
+    {
+      "id": "offer-8",
+      "name": "THYROID SECRETS"
+    },
+    {
+      "id": "offer-9",
+      "name": "Was Patientinnen sagen"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-sr.de/wp-content/uploads/2022/10/20220917_Sandra_Roszewski_PolasBerlin_IRP4077-2-scaled.jpg",
+    "https://naturheilpraxis-sr.de/wp-content/uploads/2022/10/Sandra-Roszewski-scaled.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Sandra Roszewski an?",
+      "answer": "Die Naturheilpraxis Sandra Roszewski bietet Psychotherapie, Schilddrüsensprechstunden, Coaching sowie verschiedene naturheilkundliche Verfahren wie Homöopathie und Akupunktur an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Sandra Roszewski?",
+      "answer": "Die Naturheilpraxis befindet sich in der Nansenstraße 2, 12047 Berlin, Neukölln."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Webseite unter dem Abschnitt \"Kontakt und Termine\" buchen: hier klicken."
+    },
+    {
+      "question": "Was kostet eine Sitzung in der Naturheilpraxis?",
+      "answer": "Die Kosten für eine Sitzung in der Naturheilpraxis betragen im Schnitt 40 Euro pro angefangene Viertelstunde, während Folgetermine 30 Euro pro angefangene Viertelstunde kosten."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Kurse an?",
+      "answer": "Ja, die Naturheilpraxis bietet auch Onlinekurse und E-Books an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5s61H1QqEcRfmpVriNiP60",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

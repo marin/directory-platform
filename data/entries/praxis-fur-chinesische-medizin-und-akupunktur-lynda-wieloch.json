@@ -2,8 +2,8 @@
   "id": "praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch",
   "slug": "praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch",
   "name": "Praxis für Chinesische Medizin und Akupunktur Lynda Wieloch",
-  "description": "Praxis für Chinesische Medizin und Akupunktur Lynda Wieloch ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Chinesische Medizin und Akupunktur von Lynda Wieloch befindet sich in Berlin-Kreuzberg und bietet eine umfassende Behandlung auf Basis der Traditionellen Chinesischen Medizin (TCM). Die Heilpraktikerin spezialisiert sich auf Akupunktur, Ernährungsberatung sowie die Behandlung von gynäkologischen Beschwerden, Schmerzen und Verdauungsproblemen. In der Praxis werden verschiedene Verfahren der TCM angewendet, um die Gesundheit der Patienten ganzheitlich zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,6 +25,7 @@
   },
   "phone": "01605603949",
   "website": "http://www.tcm-kreuzberg.de/",
+  "bookingUrl": "https://www.tcm-kreuzberg.de/kontakt/%20%22Kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -42,7 +43,53 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur und Chinesische Medizin in Berlin, Kreuzberg"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kreuzberg"
+    },
+    {
+      "id": "offer-3",
+      "name": "Gynäkologie und Kinderwunsch"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerzen aller Art"
+    },
+    {
+      "id": "offer-5",
+      "name": "Magen und Darm, Probleme des Verdauungstraktes"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=878x10000:format=jpg/path/s5ffac28a97f14290/image/i81a22c40d22462d5/version/1541583580/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/i2182fac647b807a0/version/1711292646/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/ife1b658b43f346a1/version/1711292571/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/ifbc80739701c93e1/version/1711292646/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis für Chinesische Medizin und Akupunktur an?",
+      "answer": "Die Praxis bietet Akupunktur, Chinesische Medizin, Ernährungsberatung sowie verschiedene Verfahren wie Kräutertherapie, Schröpfen, Gua Sha und Moxibustion an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags, dienstags und mittwochs von 10:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Lynda Wieloch?",
+      "answer": "Die Praxis befindet sich in der Johanniterstraße 10, 10961 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "In welchen Bereichen kann ich Unterstützung in der Praxis erwarten?",
+      "answer": "Die Praxis bietet Unterstützung in Bereichen wie Gynäkologie und Kinderwunsch, Schmerzen aller Art sowie Magen- und Darmprobleme."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjSijrbJPqEcRufEZVRpvjKo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

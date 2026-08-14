@@ -2,8 +2,8 @@
   "id": "heilpraxis-wolfgang-runge-chija2nlg-la",
   "slug": "heilpraxis-wolfgang-runge-chija2nlg-la",
   "name": "Heilpraxis Wolfgang Runge",
-  "description": "Heilpraxis Wolfgang Runge ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Wolfgang Runge in Berlin bietet umfassende naturheilkundliche Behandlungen an, mit einem Schwerpunkt auf Psychokinesiologie, Regulationsdiagnostik und Mentalfeldtechnik (MFT) nach Dr. Klinghardt sowie Mindflow nach Tom Mögele. Die Praxis unterstützt Klienten bei der Identifizierung und Lösung von energetischen Blockaden, psychischen Konflikten und körperlichen Beschwerden wie Müdigkeit, Erschöpfung und Schmerzen. Durch individuelle Diagnosen und Therapien wird die Selbstregulation und Selbstheilung des Körpers gefördert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -78,7 +78,82 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diagnose und Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Überzeugen Sie sich selbst"
+    },
+    {
+      "id": "offer-3",
+      "name": "Erschöpfung und Abgeschlagenheit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerzen und Schmerztherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Burnout: Ausgebrannt sein"
+    },
+    {
+      "id": "offer-6",
+      "name": "Vereinbaren Sie noch heute einen Termin"
+    },
+    {
+      "id": "offer-7",
+      "name": "Online-Terminkalender"
+    },
+    {
+      "id": "offer-8",
+      "name": "Was meine Klienten sagen"
+    },
+    {
+      "id": "offer-9",
+      "name": "ImmunSymbiose - Immuntoleranz durch Kommunikation und Frieden mit Mikroben"
+    },
+    {
+      "id": "offer-10",
+      "name": "Amalgam – Risiko für die Menschheit: Quecksilbervergiftungen richtig ausleiten"
+    },
+    {
+      "id": "offer-11",
+      "name": "Die biologische Behandlung der Lyme-Borreliose"
+    }
+  ],
+  "images": [
+    "https://w-runge.de/resources/image-003.jpg",
+    "https://w-runge.de/resources/image-006.jpg",
+    "https://w-runge.de/resources/image-002.jpg",
+    "https://w-runge.de/resources/image-008.jpg",
+    "https://w-runge.de/resources/image-001.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Heilpraxis Wolfgang Runge an?",
+      "answer": "Die Heilpraxis Wolfgang Runge bietet unter anderem Psychokinesiologie, Regulationsdiagnostik, MFT nach Dr. Klinghardt, sowie Behandlungen für Müdigkeit, Erschöpfung, Schmerzen und Burnout an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Wolfgang Runge vereinbaren?",
+      "answer": "Sie können einen Termin online über den Terminkalender vereinbaren oder die Praxis telefonisch unter 0302923194 kontaktieren."
+    },
+    {
+      "question": "Wann hat die Heilpraxis Wolfgang Runge geöffnet?",
+      "answer": "Die Heilpraxis hat montags, dienstags, mittwochs und donnerstags von 09:00 bis 13:00 Uhr und von 15:00 bis 18:00 Uhr geöffnet. Am Freitag ist die Praxis von 11:00 bis 13:00 Uhr und von 15:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Wolfgang Runge?",
+      "answer": "Die Heilpraxis Wolfgang Runge befindet sich in der Kaulbachstraße 10A, 12247 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Wolfgang Runge kontaktieren?",
+      "answer": "Sie können die Heilpraxis Wolfgang Runge per E-Mail unter praxis@w-runge.de oder telefonisch unter 0302923194 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA2nlg-laqEcR8K_zAWt6svw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

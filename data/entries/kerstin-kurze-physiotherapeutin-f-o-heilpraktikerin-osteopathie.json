@@ -2,8 +2,8 @@
   "id": "kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie",
   "slug": "kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie",
   "name": "Kerstin Kurze - Physiotherapeutin F.O. Heilpraktikerin/Osteopathie",
-  "description": "Kerstin Kurze - Physiotherapeutin F.O. Heilpraktikerin/Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kerstin Kurze ist als Physiotherapeutin und Heilpraktikerin für Osteopathie in Berlin tätig. In ihrer Praxis am Minzeweg 38 bietet sie ein breites Spektrum an Behandlungen an, darunter Osteopathie, craniosacrale Therapie, Physiotherapie und dermatologische Behandlungen. Ihr Ansatz basiert auf der Philosophie, dass ganzheitliches Wohlbefinden die Harmonie von Körper, Geist und Seele erfordert, und sie setzt verschiedene Techniken ein, um die Selbstheilungskräfte ihrer Patienten zu aktivieren und das körperliche Gleichgewicht wiederherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,7 +27,76 @@
   "email": "an@physiokos.de",
   "website": "http://www.physiokos.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "85,-",
+      "price": 85,
+      "priceLabel": "85,- €"
+    },
+    {
+      "id": "offer-2",
+      "name": "35,-",
+      "price": 35,
+      "priceLabel": "35,- €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Praxisspektrum"
+    },
+    {
+      "id": "offer-4",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Craniosacrale Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Physiotherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Dermatologische Behandlungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Ihr erster Termin"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kosten und Erstattungen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Kontaktieren Sie mich"
+    }
+  ],
+  "images": [
+    "https://www.physiokos.de/storage/app/uploads/public/ozc_responsive/fe55f8d5232e6c8f276ace3531ff29ea.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Kerstin Kurze an?",
+      "answer": "Kerstin Kurze bietet verschiedene Behandlungen an, darunter Osteopathie, Craniosacrale Therapie, Physiotherapie und dermatologische Behandlungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Ihren ersten Termin können Sie am besten telefonisch unter der Nummer 030/60970117 vereinbaren."
+    },
+    {
+      "question": "Was sollte ich zu meinem ersten Termin mitbringen?",
+      "answer": "Bitte bringen Sie vorhandene Röntgenbilder, MRT-Befunde und alle weiteren ärztlichen Befunde mit."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für die Behandlungen?",
+      "answer": "Die Kosten für Behandlungen variieren. Für genauere Informationen können Sie die Webseite besuchen oder direkt Kontakt aufnehmen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Kerstin Kurze?",
+      "answer": "Die Praxis befindet sich im Minzeweg 38, 12357 Berlin, im Bezirk Steglitz-Zehlendorf."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cHphvtFqEcR6Gw1403Y3qY"
 }

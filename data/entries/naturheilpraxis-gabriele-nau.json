@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-gabriele-nau",
   "slug": "naturheilpraxis-gabriele-nau",
   "name": "Naturheilpraxis Gabriele Nau",
-  "description": "Naturheilpraxis Gabriele Nau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Gabriele Nau in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Reiki, Akupunktur, Ohrkerzen-Behandlungen und Homöopathie. Als erfahrene Reiki-Meisterin und Heilpraktikerin legt Gabriele Nau besonderen Wert auf ganzheitliche Heilmethoden, die Körper und Geist in Einklang bringen. Die Praxis befindet sich in der Zoppoter Straße 7 und ist darauf ausgerichtet, Patienten in ihrer Gesundheit und ihrem Wohlbefinden zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,58 @@
   "email": "reiki.nau@t-online.de",
   "website": "http://www.berlin-reiki.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Reiki-Meisterin Akupunktur Heilpraktikerin Homöopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "REIKI"
+    },
+    {
+      "id": "offer-3",
+      "name": "AKUPUNKTUR"
+    },
+    {
+      "id": "offer-4",
+      "name": "OHRKERZEN-BEHANDLUNG"
+    },
+    {
+      "id": "offer-5",
+      "name": "HOMÖOPATHIE"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/bfb478f2-4117-4cf2-92b8-da3be7ca98a6/Gabriele_Nau_Heilpraktikerin_Berlin_Reiki__.png",
+    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551805544501-6Y0C5F5CVXU3UZC579S6/Reiki_Berlin.jpg",
+    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551806182203-FL5E2LV3E4FR39HCVKYX/Reiki_Berlin_Seminare.jpg",
+    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551806200585-5IHQ57YLK7GA8F3E52O6/Reiki_Berlin_Akupunktur.jpg",
+    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1554476181308-S4GAJLGYSQC88VALHCCT/Ohrkerzen_Gabriele_Nau.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Gabriele Nau an?",
+      "answer": "Die Naturheilpraxis Gabriele Nau bietet Behandlungen in den Bereichen Reiki, Akupunktur, Ohrkerzen-Behandlung und Homöopathie an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Gabriele Nau?",
+      "answer": "Die Naturheilpraxis Gabriele Nau befindet sich in der Zoppoter Str. 7, 14199 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Gabriele Nau kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Gabriele Nau telefonisch unter 0302143458 oder per E-Mail an reiki.nau@t-online.de kontaktieren."
+    },
+    {
+      "question": "Was ist Reiki und wie funktioniert es?",
+      "answer": "Reiki ist eine alte Heilkunst, die mit Lebensenergie arbeitet. Es sorgt für Entspannung und stellt dem Körper neue Lebenskraft zur Verfügung."
+    },
+    {
+      "question": "Was ist Ohrakupunktur und welche Vorteile hat sie?",
+      "answer": "Ohrakupunktur ist eine Reflexzonentherapie, die sehr wirksam ist und keine Nebenwirkungen erzeugt. Sie kann schnell und präzise in der Notfallmedizin, z.B. bei Schmerzbehandlung, eingesetzt werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQdbQUfRQqEcR-1iJ23SuqS0",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 14
 }

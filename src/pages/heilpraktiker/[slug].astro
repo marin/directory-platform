@@ -4,6 +4,7 @@ import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
 import EntryHeader from "../../components/entry/EntryHeader.astro";
 import EntryCtaBar from "../../components/entry/EntryCtaBar.astro";
+import EntryGoogleRatingSection from "../../components/entry/EntryGoogleRatingSection.astro";
 import OffersSection from "../../components/entry/OffersSection.astro";
 import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astro";
 import ContactSection from "../../components/entry/ContactSection.astro";
@@ -67,6 +68,7 @@ const breadcrumbItems = [
     <Breadcrumbs items={breadcrumbItems} />
     <EntryHeader vm={vm} />
     <EntryCtaBar entry={entry} />
+    <EntryGoogleRatingSection entry={entry} />
     <section style="margin: 1.5rem 0;">
       <h2>Über</h2>
       <p data-testid="entry-description">{entry.description}</p>

@@ -2,8 +2,8 @@
   "id": "jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps",
   "slug": "jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps",
   "name": "Jördis Friedl - Heilpraktikerin für Psychotherapie und Coaching - Spezialisierung Psychoonkologie",
-  "description": "Jördis Friedl - Heilpraktikerin für Psychotherapie und Coaching - Spezialisierung Psychoonkologie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Jördis Friedl ist Heilpraktikerin für Psychotherapie und Coaching mit einer Spezialisierung auf Psychoonkologie in Berlin. Sie bietet einfühlsame Begleitung für Menschen in belastenden Lebenssituationen, insbesondere für Betroffene und Angehörige von Krebserkrankungen. In ihrer Praxis kombiniert sie professionelle Qualifikationen mit persönlicher Erfahrung und verfolgt einen ganzheitlichen Ansatz, der Körper, Seele und Geist in den Fokus stellt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,8 +26,109 @@
   "phone": "017663160322",
   "email": "info@heilpraxis-friedl.de",
   "website": "http://www.heilpraxis-friedl.de/",
+  "bookingUrl": "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Leistungen im Überblick"
+    },
+    {
+      "id": "offer-2",
+      "name": "Gesprächsführung Therapie & LifeCoaching nach Carl Rogers"
+    },
+    {
+      "id": "offer-3",
+      "name": "Empathie",
+      "description": "Ich begegne Ihnen mit echtem Einfühlungsvermögen, um Ihre Perspektive besser zu verstehen und Sie auf Ihrem Weg zu begleiten."
+    },
+    {
+      "id": "offer-4",
+      "name": "Akzeptanz",
+      "description": "In unserer Arbeit stehen Sie als Mensch im Fokus, unabhängig von den Herausforderungen, die Sie mitbringen. Ich schaffe eine Atmosphäre, in der Sie sich vollständig angenommen fühlen können."
+    },
+    {
+      "id": "offer-5",
+      "name": "Authentizität",
+      "description": "Als Therapeutin bin ich ehrlich und echt in meiner Begegnung mit Ihnen, um eine vertrauensvolle und offene Beziehung aufzubauen."
+    },
+    {
+      "id": "offer-6",
+      "name": "Psychoonkologische Beratung & Therapie für Betroffene & Angehörige"
+    },
+    {
+      "id": "offer-7",
+      "name": "Hypnotherapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Für Frauen nach Krebs mit Visionen"
+    },
+    {
+      "id": "offer-9",
+      "name": "_Rise&Thrive Gold_\\- Vision Ein _16-Wochen-Weg_"
+    },
+    {
+      "id": "offer-10",
+      "name": "_klick_ _hier!_"
+    },
+    {
+      "id": "offer-11",
+      "name": "Psychotherapie Coaching"
+    },
+    {
+      "id": "offer-12",
+      "name": "Wie ich Ihnen helfen kann"
+    },
+    {
+      "id": "offer-13",
+      "name": "Psychoonkologie"
+    },
+    {
+      "id": "offer-14",
+      "name": "LifeCoaching"
+    },
+    {
+      "id": "offer-15",
+      "name": "Für wen meine Arbeit gedacht ist"
+    },
+    {
+      "id": "offer-16",
+      "name": "Was mich von anderen unterscheidet"
+    },
+    {
+      "id": "offer-17",
+      "name": "Begleitung mit Erfahrung"
+    }
+  ],
+  "images": [
+    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://cdn1.site-media.eu/images/1024/15888462/JoerdisPartraitbearbeitetGlanz-x7k2Gj0Z_kKIbkULyJHNcw.png",
+    "https://cdn1.site-media.eu/images/1200x630/11508205/017605_Heilpraxisfur_2v2-01.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche speziellen Leistungen bietet Jördis Friedl an?",
+      "answer": "Jördis Friedl bietet unter anderem Psychoonkologische Beratung und Therapie, Hypnotherapie sowie LifeCoaching an. Ihre Arbeit konzentriert sich auf Menschen in belastenden Lebenssituationen, insbesondere Betroffene und Angehörige von Krebserkrankungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Jördis Friedl buchen?",
+      "answer": "Sie können einen Termin online buchen, indem Sie auf den folgenden Link klicken: Termin buchen. Alternativ können Sie auch die Website heilpraxis-friedl.de besuchen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jördis Friedl?",
+      "answer": "Die Praxis von Jördis Friedl befindet sich in der Gemeinschaftspraxis im Erdgeschoss links, in Berlin, Friedrichshain-Kreuzberg, mit der Postleitzahl 10967."
+    },
+    {
+      "question": "Wie kann ich Jördis Friedl kontaktieren?",
+      "answer": "Sie können Jördis Friedl telefonisch unter 017663160322 oder per E-Mail an info@heilpraxis-friedl.de kontaktieren."
+    },
+    {
+      "question": "Was unterscheidet Jördis Friedl von anderen Heilpraktikern?",
+      "answer": "Jördis Friedl kombiniert professionelle Qualifikationen mit persönlicher Erfahrung, insbesondere durch eigene Herausforderungen wie eine Krebsdiagnose. Sie verfolgt einen ganzheitlichen Ansatz, der den Menschen als Einheit von Körper, Seele und Geist betrachtet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiSPaAN9PqEcRLwON7nS1zzw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

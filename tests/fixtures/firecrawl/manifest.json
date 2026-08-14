@@ -1,0 +1,9 @@
+{
+  "slug": "fixture-spa",
+  "url": "https://fixture-spa.example.com",
+  "scrapedAt": "2026-01-01T00:00:00.000Z",
+  "metadata": {
+    "title": "Fixture Wellness Spa",
+    "creditsUsed": 1
+  }
+}

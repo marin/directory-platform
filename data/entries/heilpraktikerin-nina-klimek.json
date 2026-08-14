@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-nina-klimek",
   "name": "Heilpraktikerin Nina Klimek",
   "description": "Heilpraktikerin Nina Klimek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,99 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schwerpunkte der Praxis"
+    },
+    {
+      "id": "offer-2",
+      "name": "Erkrankungen des Magen-Darm-Traktes und Verdauungsbeschwerden"
+    },
+    {
+      "id": "offer-3",
+      "name": "SIBO, IMO und ISO"
+    },
+    {
+      "id": "offer-4",
+      "name": "Blähungen und Völlegefühl"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bauchschmerzen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Durchfall oder Verstopfung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Übelkeit"
+    },
+    {
+      "id": "offer-8",
+      "name": "Müdigkeit"
+    },
+    {
+      "id": "offer-9",
+      "name": "Gewichtsverlust oder -zunahme"
+    },
+    {
+      "id": "offer-10",
+      "name": "Mangelerscheinungen durch Nährstoffverlust"
+    },
+    {
+      "id": "offer-11",
+      "name": "Schilddrüsenerkrankungen"
+    },
+    {
+      "id": "offer-12",
+      "name": "umfassende Anamnese und präzise Analyse"
+    },
+    {
+      "id": "offer-13",
+      "name": "sinnvolle Nahrungsergänzungsmittel (z. B. Vitamin D als \"Sonnenvitamin\")"
+    },
+    {
+      "id": "offer-14",
+      "name": "Strategien für Deinen Schlaf- und Energiehaushalt"
+    },
+    {
+      "id": "offer-15",
+      "name": "regelmäßige Kontrolle Deiner Schilddrüsenfunktion"
+    },
+    {
+      "id": "offer-16",
+      "name": "Prävention und Leistungsfähigkeit"
+    },
+    {
+      "id": "offer-17",
+      "name": "bewusste und ausgewogene Ernährung"
+    },
+    {
+      "id": "offer-18",
+      "name": "Vorbeugung von Diabetes"
+    },
+    {
+      "id": "offer-19",
+      "name": "Entwicklung eines gesunden Schlafrhythmus"
+    },
+    {
+      "id": "offer-20",
+      "name": "Förderung Deiner Work-Life-Balance"
+    },
+    {
+      "id": "offer-21",
+      "name": "Energie-Booster für Haut, Körper und Gehirn"
+    },
+    {
+      "id": "offer-22",
+      "name": "Anfrage per Formular"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJraiq7TpFqEcRE8uUeMbEiZ4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 55
 }

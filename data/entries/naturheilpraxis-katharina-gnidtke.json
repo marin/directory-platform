@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-katharina-gnidtke",
   "slug": "naturheilpraxis-katharina-gnidtke",
   "name": "Naturheilpraxis Katharina Gnidtke",
-  "description": "Naturheilpraxis Katharina Gnidtke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Katharina Gnidtke in Berlin-Pankow bietet ein ganzheitliches Behandlungskonzept, das traditionelle Heilweisen mit modernen alternativen Methoden kombiniert. Zu den Therapieangeboten zählen unter anderem Bodyscan, Schröpfen, Breuss-Wirbelsäulenmassage, Akupressur sowie Klangschalenmassage. Die Praxis legt besonderen Wert auf die Arbeit mit dem Unterbewusstsein und bietet Unterstützung bei psychosomatischen Erkrankungen sowie als Begleittherapie bei schweren und chronischen Erkrankungen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,68 @@
   "phone": "03047599257",
   "email": "info@gnidtke.de",
   "website": "http://www.gnidtke.de/",
+  "bookingUrl": "http://www.gnidtke.de/kontakt/kontakt.html",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Bodyscan"
+    },
+    {
+      "id": "offer-3",
+      "name": "Mix aus Schröpfen, Breuss-Wirbelsäulenmassage und Akupressur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Fußreflexzonenmassage"
+    },
+    {
+      "id": "offer-5",
+      "name": "Klangschalenmassage"
+    },
+    {
+      "id": "offer-6",
+      "name": "Für die Seele"
+    },
+    {
+      "id": "offer-7",
+      "name": "gut einsetzbar als Begleittherapie bei schweren und chronischen Erkrankungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "bei psychosomatischen Erkrankungen"
+    }
+  ],
+  "images": [
+    "http://www.gnidtke.de/image/film_.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Katharina Gnidtke an?",
+      "answer": "Die Naturheilpraxis Katharina Gnidtke bietet ein breites Behandlungsspektrum an, darunter Therapien wie Bodyscan, einen Mix aus Schröpfen, Breuss-Wirbelsäulenmassage und Akupressur, Fußreflexzonenmassage, Klangschalenmassage sowie psychotherapeutische Ansätze auf der Grundlage von Milton Erickson und C. G. Jung."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Katharina Gnidtke?",
+      "answer": "Die Naturheilpraxis Katharina Gnidtke befindet sich in Berlin, im Stadtteil Pankow, mit der Adresse: Naturheilpraxis Katharina Gnidtke, 13156 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Katharina Gnidtke über die Webseite buchen. Besuchen Sie dazu den Kontaktbereich unter http://www.gnidtke.de/kontakt/kontakt.html."
+    },
+    {
+      "question": "Welche Zielgruppen werden in der Praxis angesprochen?",
+      "answer": "Die Naturheilpraxis Katharina Gnidtke bietet Behandlungen, die gut einsetzbar sind als Begleittherapie bei schweren und chronischen Erkrankungen sowie bei psychosomatischen Erkrankungen."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Katharina Gnidtke kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Katharina Gnidtke telefonisch unter 03047599257 oder per E-Mail an info@gnidtke.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0NuOMBTqEcRf2xvqS9-0yU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

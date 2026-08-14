@@ -2,8 +2,8 @@
   "id": "akupunktur-michael-rock-heilpraktiker-in-berlin-mitte",
   "slug": "akupunktur-michael-rock-heilpraktiker-in-berlin-mitte",
   "name": "Akupunktur - Michael Rock Heilpraktiker in Berlin-Mitte",
-  "description": "Akupunktur - Michael Rock Heilpraktiker in Berlin-Mitte ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michael Rock ist Heilpraktiker in Berlin-Mitte und spezialisiert auf Akupunktur sowie traditionelle chinesische Medizin (TCM). Die Praxis befindet sich in der Fehrbelliner Str. 50, 10119 Berlin. Termine werden nach Vereinbarung angeboten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,8 +25,31 @@
   },
   "phone": "015737733701",
   "website": "https://www.michael-rock.de/kontakt/",
+  "bookingUrl": "https://www.michael-rock.de/kontakt/#%20%22Dieses%20Element%20zuklappen",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s2d64e3d305dae3bf/backgroundarea/i9cfa9584505376bf/version/1487550854/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s2d64e3d305dae3bf/image/i474bed914325cc60/version/1488474516/image.png",
+    "https://assets.jimstatic.com/s/img/cc/icons/txt.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Michael Rock, Heilpraktiker?",
+      "answer": "Die Praxis befindet sich in der Fehrbelliner Str. 50, 10119 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Michael Rock buchen?",
+      "answer": "Termine können nach Vereinbarung gebucht werden."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Michael Rock an?",
+      "answer": "Michael Rock bietet Akupunktur und naturheilkundliche Behandlungen an."
+    },
+    {
+      "question": "Wie kann ich Michael Rock per E-Mail kontaktieren?",
+      "answer": "Sie können Michael Rock per E-Mail unter info@michael-rock.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG6LW5_pRqEcRsN4t6le5cJo"
 }

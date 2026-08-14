@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-monika-groth-bei-metafeld",
   "slug": "heilpraktikerin-monika-groth-bei-metafeld",
   "name": "Heilpraktikerin Monika Groth bei METAFELD",
-  "description": "Heilpraktikerin Monika Groth bei METAFELD ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Monika Groth bietet in ihrer Praxis bei METAFELD in Berlin-Pankow eine ganzheitliche Behandlung von chronischen und funktionellen Beschwerden an. Mit 19 Jahren naturheilkundlicher Erfahrung liegt ihr Schwerpunkt auf der Behandlung von Reizdarm, funktionellen Verdauungsbeschwerden, Beschwerden des Bewegungsapparates sowie Hauterkrankungen und Erschöpfungszuständen. Ihre individuelle Diagnostik und Therapie zielen darauf ab, die Lebensqualität ihrer Patienten nachhaltig zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,52 @@
   "website": "http://www.naturheilpraxisgroth.de/",
   "bookingUrl": "https://naturheilpraxisgroth.de/termin-buchen",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilkundliche Erfahrung seit 19 Jahren"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schwerpunkte meiner Praxis"
+    },
+    {
+      "id": "offer-3",
+      "name": "Reizdarm und funktionelle Verdauungsbeschwerden"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beschwerden des Bewegungsapparates"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hauterkrankungen und Erschöpfungszustände"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Schwerpunkte hat die Heilpraktikerin Monika Groth?",
+      "answer": "Die Schwerpunkte von Heilpraktikerin Monika Groth sind die Behandlung von Reizdarm und funktionellen Verdauungsbeschwerden, Beschwerden des Bewegungsapparates sowie Hauterkrankungen und Erschöpfungszuständen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Monika Groth?",
+      "answer": "Die Praxis von Monika Groth befindet sich bei METAFELD, Schönhauser Allee 129, 10437 Berlin Prenzlauer Berg. Sie sollten bei METAFELD klingeln."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei der Heilpraktikerin buchen?",
+      "answer": "Sie können einen Termin direkt online buchen über die Webseite: https://naturheilpraxisgroth.de/termin-buchen oder eine Nachricht mit Ihrem Anliegen oder Terminwunsch an die E-Mail-Adresse info@naturheilpraxisgroth.de senden."
+    },
+    {
+      "question": "Wie lange ist die Erfahrung von Monika Groth in der Naturheilkunde?",
+      "answer": "Monika Groth hat 19 Jahre Erfahrung in der Naturheilkunde."
+    },
+    {
+      "question": "Welche Methoden verwendet Monika Groth zur Behandlung von Beschwerden des Bewegungsapparates?",
+      "answer": "Zur Behandlung von Beschwerden des Bewegungsapparates verwendet Monika Groth regulierende Verfahren wie Zentherapie, Dorntherapie, Akupunktur und weitere körpertherapeutische Methoden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxRvCO2lSqEcRHyAyk10Hb2k",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 10
 }

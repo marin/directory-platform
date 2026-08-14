@@ -2,8 +2,8 @@
   "id": "praxis-gesund-in-berlin-heilpraktiker-janan-mahmod",
   "slug": "praxis-gesund-in-berlin-heilpraktiker-janan-mahmod",
   "name": "Praxis Gesund in Berlin, Heilpraktiker Janan Mahmod",
-  "description": "Praxis Gesund in Berlin, Heilpraktiker Janan Mahmod ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Gesund in Berlin, geleitet von Heilpraktiker Janan Mahmod, bietet ganzheitliche Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Mit einem Fokus auf die Diagnostik und Therapie von Erkrankungen des Bewegungsapparates sowie Verdauungsstörungen, Burnout und Toxinbelastungen, hat sich die Praxis seit 2018 als eine der führenden Einrichtungen im deutschsprachigen Raum etabliert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -58,7 +58,176 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapien – Praxis Gesund in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Naturheilpraxis Gesund in Berlin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ernährungsberatung – Ernährungsstrategie"
+    },
+    {
+      "id": "offer-5",
+      "name": "IHHT - Höhentraining"
+    },
+    {
+      "id": "offer-6",
+      "name": "Infusionstherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Schmerztherapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Termin vereinbaren"
+    },
+    {
+      "id": "offer-10",
+      "name": "Rundgang"
+    },
+    {
+      "id": "offer-11",
+      "name": "Abrechnung und Kostenerstattung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Warteliste für Erstgespräche"
+    },
+    {
+      "id": "offer-13",
+      "name": "Anfahrt zur Praxis Gesund in Berlin"
+    },
+    {
+      "id": "offer-14",
+      "name": "Beschwerden"
+    },
+    {
+      "id": "offer-15",
+      "name": "IHHT",
+      "description": "Intervall-Hypoxie-Hyperoxie-Training"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ernährungsstrategie",
+      "description": "Ernährungsberatung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-18",
+      "name": "Labordiagnostik"
+    },
+    {
+      "id": "offer-19",
+      "name": "Atemgastest"
+    },
+    {
+      "id": "offer-20",
+      "name": "VNS Analyse"
+    },
+    {
+      "id": "offer-21",
+      "name": "Anamnesebogen"
+    },
+    {
+      "id": "offer-22",
+      "name": "Erstgespräch"
+    },
+    {
+      "id": "offer-23",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-24",
+      "name": "Folgegespräch"
+    },
+    {
+      "id": "offer-25",
+      "name": "Erfolgskontrolle"
+    },
+    {
+      "id": "offer-26",
+      "name": "Burnout"
+    },
+    {
+      "id": "offer-27",
+      "name": "Colitis ulcerosa"
+    },
+    {
+      "id": "offer-28",
+      "name": "Dysbiose"
+    },
+    {
+      "id": "offer-29",
+      "name": "Leaky-Gut-Syndrom – Der undichte Darm"
+    },
+    {
+      "id": "offer-30",
+      "name": "Nährstoffdefizite"
+    },
+    {
+      "id": "offer-31",
+      "name": "Nebennierenschwäche"
+    },
+    {
+      "id": "offer-32",
+      "name": "Reizdarm"
+    },
+    {
+      "id": "offer-33",
+      "name": "SIBO - Dünndarmfehlbesiedlung"
+    },
+    {
+      "id": "offer-34",
+      "name": "Mein Therapieangebot"
+    }
+  ],
+  "images": [
+    "https://www.gesund-inberlin.de/images/Gesund_in_Berlin-Intro-Text.png",
+    "https://www.gesund-inberlin.de/images/Heilpraktiker-Janan-Mahmod.jpg",
+    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Burnout_thumb-7438971fb72197c2b33aa86dbc4a9d00.jpg",
+    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Colitis-ulcerosa_thumb-cdc7c760cad592b9af28e304a455b928.jpg",
+    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Dysbiose_thumb-53064b42ce22c3bc1ae39b70b20bd9be.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis Gesund in Berlin an?",
+      "answer": "Die Praxis Gesund in Berlin bietet verschiedene Therapien an, darunter Osteopathie, Naturheilkunde, Darmsanierung, Ernährungsberatung, IHHT (Höhentraining) und Infusionstherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin direkt online über die Website der Praxis Gesund in Berlin buchen. Besuchen Sie dazu die Seite unter https://www.gesund-inberlin.de/termin."
+    },
+    {
+      "question": "Wann hat die Praxis Gesund in Berlin geöffnet?",
+      "answer": "Die Öffnungszeiten der Praxis Gesund in Berlin sind: Montag bis Mittwoch von 10:00 bis 18:00 Uhr, Donnerstag von 10:00 bis 19:00 Uhr, Freitag von 12:00 bis 19:00 Uhr und Samstag von 11:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Gesund in Berlin?",
+      "answer": "Die Praxis Gesund in Berlin befindet sich in der Prenzlauer Promenade 191, 13189 Berlin, im Bezirk Pankow."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis per E-Mail unter info@gesund-inberlin.de kontaktieren oder die Website https://www.gesund-inberlin.de besuchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZCFOSZNqEcRwVG-p7pbLXg",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 38
 }

@@ -2,8 +2,8 @@
   "id": "psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie",
   "slug": "psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie",
   "name": "Psychotherapie Berlin – Marc Strüder, Heilpraktiker für Psychotherapie",
-  "description": "Psychotherapie Berlin – Marc Strüder, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Marc Strüder ist Heilpraktiker für Psychotherapie in Berlin und bietet eine Vielzahl von therapeutischen Ansätzen an, darunter Gesprächspsychotherapie, Hypnosetherapie und Körpertherapie. In seiner Praxis unterstützt er Menschen in belastenden Lebensphasen, die mit Ängsten, Depressionen, Trauma oder körperlichen Beschwerden zu kämpfen haben. Sein Ziel ist es, einen geschützten Raum zu schaffen, in dem Klienten gemeinsam Lösungen finden und neue Perspektiven entwickeln können.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,6 +25,7 @@
   },
   "phone": "015112997658",
   "website": "https://www.marcstrueder.de/",
+  "bookingUrl": "https://marcstrueder.de/gespraechszugang/",
   "openingHours": [
     {
       "day": "Monday",
@@ -62,7 +63,153 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "GesprächsGrundlagen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Themen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ängste und Blockaden"
+    },
+    {
+      "id": "offer-4",
+      "name": "Burn-Out, Depressionen und Trauer"
+    },
+    {
+      "id": "offer-5",
+      "name": "Trauma und Lebensveränderungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Beziehungen und Verluste"
+    },
+    {
+      "id": "offer-7",
+      "name": "LGBTQ\\",
+      "description": "spezifische Themen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Prophylaxe und Resilienz"
+    },
+    {
+      "id": "offer-9",
+      "name": "Coping-Strategien für Angehörige und Freunde"
+    },
+    {
+      "id": "offer-10",
+      "name": "Gesprächspsychotherapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "(trauma-sensible) Körpertherapie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Hypnosetherapie"
+    },
+    {
+      "id": "offer-13",
+      "name": "Somatic Therapy"
+    },
+    {
+      "id": "offer-14",
+      "name": "Humanistische Therapie"
+    },
+    {
+      "id": "offer-15",
+      "name": "EMDR"
+    },
+    {
+      "id": "offer-16",
+      "name": "Gestalt- und Aufstellungsarbeit"
+    },
+    {
+      "id": "offer-17",
+      "name": "Qualifikationen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Heilpraktiker für Psychotherapie"
+    },
+    {
+      "id": "offer-19",
+      "name": "Kriseninterventionshelfer für das Land Berlin (Psychosoziale Notfallversorgung)"
+    },
+    {
+      "id": "offer-20",
+      "name": "Dipl. Sozialarbeiter (FH)"
+    },
+    {
+      "id": "offer-21",
+      "name": "Mediator"
+    },
+    {
+      "id": "offer-22",
+      "name": "Therapeutische Thai-Körperarbeit"
+    },
+    {
+      "id": "offer-23",
+      "name": "Yoga-Lehrer (Jivamukti, Mysore, Yin)"
+    },
+    {
+      "id": "offer-24",
+      "name": "NLP-Master-Trainer"
+    },
+    {
+      "id": "offer-25",
+      "name": "Business-Coach"
+    },
+    {
+      "id": "offer-26",
+      "name": "Marc Strüder Heilpraktiker für Psychotherapie in Berlin Schöneberg"
+    },
+    {
+      "id": "offer-27",
+      "name": "Let's fix this"
+    },
+    {
+      "id": "offer-28",
+      "name": "Ich unterstütze bei"
+    },
+    {
+      "id": "offer-29",
+      "name": "Ein guter Therapeut ist wie ein professioneller Freund."
+    }
+  ],
+  "images": [
+    "https://marcstrueder.de/wp-content/uploads/2025/03/scribble.png",
+    "https://marcstrueder.de/wp-content/uploads/2025/03/marc2.png",
+    "https://marcstrueder.de/wp-content/uploads/2024/04/home-2-150x150.png",
+    "https://marcstrueder.de/wp-content/uploads/2024/04/home-1.png",
+    "https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Marc Strüder an?",
+      "answer": "Marc Strüder bietet eine Vielzahl von Therapien an, darunter Gesprächspsychotherapie, Hypnosetherapie, EMDR, Trauma- und Lebensveränderungstherapie sowie spezifische Ansätze für LGBTQ*-Themen."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Sonntag von 07:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Marc Strüder?",
+      "answer": "Die Praxis befindet sich in der Dresdener Str. 117, 10999 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Website von Marc Strüder buchen, indem Sie den folgenden Link verwenden: https://marcstrueder.de/gespraechszugang/."
+    },
+    {
+      "question": "Welche Themen werden in der Therapie behandelt?",
+      "answer": "In der Therapie werden Themen wie Ängste und Blockaden, Burn-Out, Depressionen, Trauer, Trauma, Lebensveränderungen sowie langanhaltende Körperbeschwerden behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf8wrsDFPqEcRWwMlCjIZKo8"
 }

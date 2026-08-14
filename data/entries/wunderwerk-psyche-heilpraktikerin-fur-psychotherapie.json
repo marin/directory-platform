@@ -3,7 +3,7 @@
   "slug": "wunderwerk-psyche-heilpraktikerin-fur-psychotherapie",
   "name": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie",
   "description": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -52,7 +52,19 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ein sicherer Ort für Wachstum, Reflexion und neue Perspektiven"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7WsxH7tVqEcRkCrAEAkw06I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

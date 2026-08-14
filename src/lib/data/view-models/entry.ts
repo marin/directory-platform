@@ -19,6 +19,9 @@ export interface EntryCardViewModel {
   areaName: string | undefined;
   isOpen: boolean;
   lastUpdated: string;
+  googleMapsRating?: number;
+  googleMapsRatingsCount?: number;
+  googleMapsUrl?: string;
 }
 
 export interface EntryViewModel {
@@ -53,6 +56,9 @@ export function toEntryCardViewModel(
     areaName: primaryArea?.name,
     isOpen: entry.isOpen,
     lastUpdated: entry.lastUpdated,
+    googleMapsRating: entry.googleMapsRating,
+    googleMapsRatingsCount: entry.googleMapsRatingsCount,
+    googleMapsUrl: entry.googleMapsUrl,
   };
 }
 

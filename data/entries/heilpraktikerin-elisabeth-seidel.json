@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-elisabeth-seidel",
   "slug": "heilpraktikerin-elisabeth-seidel",
   "name": "Heilpraktikerin Elisabeth Seidel",
-  "description": "Heilpraktikerin Elisabeth Seidel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Elisabeth Seidel bietet in ihrer Praxis in Berlin-Schöneberg umfassende naturheilkundliche Behandlungen an. Ihr Ansatz basiert auf funktioneller Medizin, die individuelle Gesundheitsgeschichte und spezifische Bedürfnisse der Patienten in den Mittelpunkt stellt. Die Praxis spezialisiert sich auf ganzheitliche Diagnostik und Therapiegestaltung, um die Gesundheit und Vitalität ihrer Klienten nachhaltig zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03031806915",
   "email": "praxis@elisabethseidel.de",
   "website": "https://www.elisabethseidel.de/",
+  "bookingUrl": "https://www.doctolib.de/gemeinschaftspraxis/berlin/praxis-fuer-naturheilkunde-elisabeth-seidel",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,126 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ausführliche Anamnese 1,5 Std.",
+      "price": 265,
+      "priceLabel": "265 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Folgetermin / Beratung 1 Std.",
+      "price": 165,
+      "priceLabel": "165 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Folgetermin / Beratung 0,5 Std.",
+      "price": 95,
+      "priceLabel": "95 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Colon Hydro Therapie",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Infusion klein",
+      "price": 90,
+      "priceLabel": "ab 90 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Infusion groß",
+      "price": 165,
+      "priceLabel": "ab 165 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Autonome Atmungs- und Haltungsregulation",
+      "price": 165,
+      "priceLabel": "165 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Akupunktur Ersttermin",
+      "price": 120,
+      "priceLabel": "120 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "Akupunktur Folgetermin",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Ohrakupunktur",
+      "price": 40,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Gesundheit gestalten,"
+    },
+    {
+      "id": "offer-12",
+      "name": "Vitalität erleben."
+    },
+    {
+      "id": "offer-13",
+      "name": "Deine Reise zur persönlichen Gesundheit"
+    },
+    {
+      "id": "offer-14",
+      "name": "Ausführliche Anamnese"
+    },
+    {
+      "id": "offer-15",
+      "name": "Ganzheitliche Diagnostik"
+    },
+    {
+      "id": "offer-16",
+      "name": "Individuelle Therapiegestaltung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Erlebe meinen ganzheitlichen Ansatz"
+    }
+  ],
+  "images": [
+    "https://www.elisabethseidel.de/wp-content/uploads/2024/05/Praxis_Elisabeth_Seidel_Hintergrund_gruen_Banner2.webp",
+    "https://www.elisabethseidel.de/wp-content/uploads/2022/03/PRAXIS-ELISABETH-SEIDEL-BERLIN-SCHOENEBERG-NATURHEILKUNDE-2.webp",
+    "https://www.elisabethseidel.de/wp-content/uploads/2024/06/Praxis_Elisabeth_Seidel_Naturheilverfahren_Berlin_colon_hydro_therapie.webp",
+    "https://www.elisabethseidel.de/wp-content/uploads/2024/07/Praxis_Elisabeth_Seidel_Naturheilverfahren_Berlin_acupuncture_new.webp",
+    "https://www.elisabethseidel.de/wp-content/uploads/2022/04/Praxis_Naturheilverfahren_Elisabeth_Seidel_Footer_Logo_Mailerlite.webp"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Elisabeth Seidel?",
+      "answer": "Die Praxis befindet sich in der Nollendorfstraße 25, 10777 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Elisabeth Seidel buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Donnerstag von 09:00 bis 18:00 Uhr und Freitag von 09:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Welche Leistungen bietet Heilpraktikerin Elisabeth Seidel an?",
+      "answer": "Zu den angebotenen Leistungen gehören unter anderem ausführliche Anamnese, Akupunktur, Colon Hydro Therapie und individuelle Therapiegestaltung."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Elisabeth Seidel kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03031806915 oder per E-Mail an praxis@elisabethseidel.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZQyub9RqEcRXbQI38cRMcQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 28
 }

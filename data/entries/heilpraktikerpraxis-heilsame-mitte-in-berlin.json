@@ -2,8 +2,8 @@
   "id": "heilpraktikerpraxis-heilsame-mitte-in-berlin",
   "slug": "heilpraktikerpraxis-heilsame-mitte-in-berlin",
   "name": "Heilpraktikerpraxis \"Heilsame Mitte\" in Berlin",
-  "description": "Heilpraktikerpraxis \"Heilsame Mitte\" in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktikerpraxis \"Heilsame Mitte\" in Berlin bietet eine Vielzahl von naturheilkundlichen Behandlungen an. Das Team besteht aus erfahrenen Heilpraktikern, darunter Axel Müller und Jutta Zimmermann, die sich auf individuelle Therapiekonzepte und ganzheitliche Gesundheitsansätze spezialisiert haben. Die Praxis befindet sich in der Zionskirchstraße 71 und ist gut erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,6 +52,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilsamemitte.de/images/axel-0.jpg",
+    "http://www.heilsamemitte.de/images/jutta-0.jpg",
+    "http://www.heilsamemitte.de/images/ines-0.jpg",
+    "http://www.heilsamemitte.de/images/rene-0.jpg",
+    "http://www.heilsamemitte.de/images/hm-header.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerpraxis \"Heilsame Mitte\"?",
+      "answer": "Die Praxis befindet sich in der Zionskirchstraße 71, 10119 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 10:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 01714774666 erreichen."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraktikerpraxis an?",
+      "answer": "Die Praxis bietet Dienstleistungen im Bereich Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1DKJv1RqEcRErVgX-qnhAY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

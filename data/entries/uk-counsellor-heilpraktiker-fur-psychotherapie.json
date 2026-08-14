@@ -2,8 +2,8 @@
   "id": "uk-counsellor-heilpraktiker-fur-psychotherapie",
   "slug": "uk-counsellor-heilpraktiker-fur-psychotherapie",
   "name": "UK Counsellor/Heilpraktiker für Psychotherapie",
-  "description": "UK Counsellor/Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "David Barnes ist ein Heilpraktiker für Psychotherapie mit einer privaten Praxis in Berlin. Er bietet individuelle Beratung und Sexualtherapie an, sowohl in Präsenz als auch online, unter Berücksichtigung der erforderlichen Hygienerichtlinien. Seine Praxis befindet sich in der Lützowstraße im Stadtteil Charlottenburg-Wilmersdorf.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,39 @@
       "close": "19:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Counsellor & Sex Therapist based in Berlin"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/1ab336_bb651d9854f946e1b9652d64952782cd~mv2.jpg/v1/fill/w_787,h_1005,al_t,q_85,enc_avif,quality_auto/1ab336_bb651d9854f946e1b9652d64952782cd~mv2.jpg",
+    "https://static.wixstatic.com/media/1ab336_3ce2d9087f3d4002a85f3710517b37e7~mv2.png/v1/fill/w_34,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/menu.png",
+    "https://static.wixstatic.com/media/1ab336_35e6bbe927074291935b8cb1b4da484d~mv2.png/v1/fill/w_228,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202025-06-27%20at%2019_21_40.png",
+    "https://static.wixstatic.com/media/1ab336_f7f2ea29d9dc461da51d262aabc2e3b6%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/1ab336_f7f2ea29d9dc461da51d262aabc2e3b6%7Emv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet David Barnes an?",
+      "answer": "David Barnes bietet individuelle Beratung und Sexualtherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von David Barnes?",
+      "answer": "Die Praxis befindet sich in der Lützowstraße, 10785 Berlin, Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:30 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich David Barnes kontaktieren?",
+      "answer": "Sie können David Barnes telefonisch unter 03072297100 oder per E-Mail an info@davidbarnes.de kontaktieren."
+    },
+    {
+      "question": "Bietet David Barnes auch Online-Sitzungen an?",
+      "answer": "Ja, die Sitzungen sind sowohl online als auch persönlich verfügbar."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVgC10xQqEcRCUHzUIB-Jnc"
 }

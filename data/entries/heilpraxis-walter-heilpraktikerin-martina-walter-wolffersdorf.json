@@ -2,8 +2,8 @@
   "id": "heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf",
   "slug": "heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf",
   "name": "Heilpraxis Walter / Heilpraktikerin Martina Walter-Wolffersdorf",
-  "description": "Heilpraxis Walter / Heilpraktikerin Martina Walter-Wolffersdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "With specialisations in women’s health, musculoskeletal disorders, mental health promotion, sports health, TCM support for transition and hormone therapy, and burnout, I guide my patients individually on their path to greater balance and well-being. For over 30 years, I have passionately guided people on their path to greater health and well-being. I deepened my thorough training in Traditional Chinese Medicine (TCM) through study stays in China. I have successfully applied my knowledge in emergency situations as well as in general medical contexts.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,77 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Personalized therapy with natural methods for long-term health."
+    },
+    {
+      "id": "offer-2",
+      "name": "Healing through nature"
+    },
+    {
+      "id": "offer-3",
+      "name": "Therapy that respects diversity"
+    },
+    {
+      "id": "offer-4",
+      "name": "Your well-being is our priority"
+    },
+    {
+      "id": "offer-5",
+      "name": "Passionate therapist since 1995"
+    },
+    {
+      "id": "offer-6",
+      "name": "Tradtional Chinese Medicine (TCM)"
+    },
+    {
+      "id": "offer-7",
+      "name": "Solution Oriented Short-Term Therapy"
+    },
+    {
+      "id": "offer-8",
+      "name": "Australian Bush Flower Therapy"
+    },
+    {
+      "id": "offer-9",
+      "name": "Phytotherapy"
+    },
+    {
+      "id": "offer-10",
+      "name": "Fertility & Pregnancy"
+    },
+    {
+      "id": "offer-11",
+      "name": "Queer Health TCM / Traditional Chinese Medicine Trans Care"
+    },
+    {
+      "id": "offer-12",
+      "name": "Gift a voucher"
+    },
+    {
+      "id": "offer-13",
+      "name": "What my patients say"
+    },
+    {
+      "id": "offer-14",
+      "name": "GesundZeitGeber"
+    },
+    {
+      "id": "offer-15",
+      "name": "Opening hours"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/Untitled-design-40-1024x768.png",
+    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_101948-768x576.jpg",
+    "https://www.heilpraxis-walter.de/wp-content/uploads/2024/11/Praxisbild-2-2-768x576.jpg",
+    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_104323-768x576.jpg",
+    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_103440-768x576.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4YQo2lOqEcR0-Zv4DaGSuc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

@@ -3,7 +3,7 @@
   "slug": "psychotherapie-sibylle-funfstuck-heilpraktikerin-fur-psychotherapie",
   "name": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie",
   "description": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,31 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Überbrückungstherapie in Berlin – schnelle Hilfe ohne lange Wartezeit"
+    },
+    {
+      "id": "offer-2",
+      "name": "➤ Psychotherapeutische Überbrückung: flexibel, zeitnah, unterstützend"
+    },
+    {
+      "id": "offer-3",
+      "name": "🟣 wenn du auf einen kassengeförderten Therapieplatz wartest"
+    },
+    {
+      "id": "offer-4",
+      "name": "🟣 wenn du dich in einer akuten Krise befindest"
+    },
+    {
+      "id": "offer-5",
+      "name": "Häufig gestellte Fragen zur Überbrückungstherapie"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXemNfRPqEcRY-3DbLUx6XY",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 6
 }

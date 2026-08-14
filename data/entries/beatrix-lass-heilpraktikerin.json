@@ -2,8 +2,8 @@
   "id": "beatrix-lass-heilpraktikerin",
   "slug": "beatrix-lass-heilpraktikerin",
   "name": "Beatrix Laß Heilpraktikerin",
-  "description": "Beatrix Laß Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis von Beatrix Laß in Berlin-Zehlendorf stehen ganzheitliche Heilmethoden im Mittelpunkt, die eine wirkungsvolle Alternative zur symptomatischen Behandlung bieten. Die Heilpraktikerin unterstützt ihre Patienten dabei, ihre Leistungsfähigkeit und ihr Wohlbefinden zu fördern, insbesondere für stressgeplagte Menschen. Mit einer umfangreichen Ausbildung und verschiedenen Zertifikaten in Akupunktur, Homöopathie und weiteren naturheilkundlichen Verfahren bringt sie fundiertes Wissen in ihre Praxis ein.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,37 @@
   "phone": "03081054130",
   "email": "mail@naturheilpraxis-lass.de",
   "website": "http://www.naturheilpraxis-lass.de/",
+  "bookingUrl": "https://www.naturheilpraxis-lass.de/kontakt.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-lass.de/img/Bea.jpg",
+    "https://www.naturheilpraxis-lass.de/img/naturheilpraxis.gif",
+    "https://www.naturheilpraxis-lass.de/img/signet.gif",
+    "https://www.naturheilpraxis-lass.de/img/nav_rund_li_sel.gif",
+    "https://www.naturheilpraxis-lass.de/img/px.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Beatrix Laß?",
+      "answer": "Die Naturheilpraxis von Beatrix Laß befindet sich in der Beerenstraße 23A, 14163 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Beatrix Laß kontaktieren?",
+      "answer": "Sie können Beatrix Laß telefonisch unter 03081054130 oder per E-Mail an mail@naturheilpraxis-lass.de kontaktieren."
+    },
+    {
+      "question": "Bietet Beatrix Laß Online-Terminbuchungen an?",
+      "answer": "Ja, Sie können einen Termin online buchen, indem Sie die Webseite besuchen und den entsprechenden Link zur Kontaktseite nutzen: https://www.naturheilpraxis-lass.de/kontakt.html."
+    },
+    {
+      "question": "Welche Heilmethoden bietet Beatrix Laß an?",
+      "answer": "Beatrix Laß bietet ganzheitliche Heilmethoden an, die eine Alternative zur gängigen symptomatischen Behandlungsweise darstellen."
+    },
+    {
+      "question": "Gibt es Informationen über die Öffnungszeiten der Praxis?",
+      "answer": "Im aktuellen Eintrag sind keine Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2TQ_VIdZqEcRz8IpdG6QR9A"
 }

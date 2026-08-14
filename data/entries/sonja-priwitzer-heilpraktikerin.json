@@ -2,8 +2,8 @@
   "id": "sonja-priwitzer-heilpraktikerin",
   "slug": "sonja-priwitzer-heilpraktikerin",
   "name": "Sonja Priwitzer Heilpraktikerin",
-  "description": "Sonja Priwitzer Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sonja Priwitzer ist eine erfahrene Heilpraktikerin in Berlin-Tempelhof, die sich auf Akupunktur, Hypnose und Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie eine Vielzahl von Therapien an, darunter Dorntherapie, Schmerzbehandlung und verschiedene Massagetechniken. Ihr ganzheitlicher Ansatz berücksichtigt sowohl körperliche als auch seelische Aspekte, um das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,6 +27,7 @@
   "phone": "01796640567",
   "email": "kontakt@praxis-priwitzer.de",
   "website": "https://www.praxis-priwitzer.de/",
+  "bookingUrl": "https://www.praxis-priwitzer.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,198 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ergänzende Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dorntherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Breuss – Massage mit Seidenpapier"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerzbehandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Triggerpunktbehandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Tapen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Pneumatische Pulsationstherapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "_Kopfschmerzen und Migräne_"
+    },
+    {
+      "id": "offer-10",
+      "name": "_Tinnitus_"
+    },
+    {
+      "id": "offer-11",
+      "name": "_Sinusitis_"
+    },
+    {
+      "id": "offer-12",
+      "name": "_Hautleiden_"
+    },
+    {
+      "id": "offer-13",
+      "name": "_Nervensystem und Psyche_"
+    },
+    {
+      "id": "offer-14",
+      "name": "_Narbenbehandlung_"
+    },
+    {
+      "id": "offer-15",
+      "name": "_Lipödem_"
+    },
+    {
+      "id": "offer-16",
+      "name": "_Wundheilungsprozesse_"
+    },
+    {
+      "id": "offer-17",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Deep Tissue Massage/ Tiefengewebsmassage"
+    },
+    {
+      "id": "offer-19",
+      "name": "Lomi Lomi Massage"
+    },
+    {
+      "id": "offer-20",
+      "name": "Hot Stone Massage"
+    },
+    {
+      "id": "offer-21",
+      "name": "Wellness Massage"
+    },
+    {
+      "id": "offer-22",
+      "name": "Aromaöl Massage"
+    },
+    {
+      "id": "offer-23",
+      "name": "Klassische Massagen"
+    },
+    {
+      "id": "offer-24",
+      "name": "Bindegewebsmassage"
+    },
+    {
+      "id": "offer-25",
+      "name": "Entspannungsmassagen"
+    },
+    {
+      "id": "offer-26",
+      "name": "Ernährungsberatung"
+    },
+    {
+      "id": "offer-27",
+      "name": "Aromatherapie"
+    },
+    {
+      "id": "offer-28",
+      "name": "Arbeiten mit Bachblüten"
+    },
+    {
+      "id": "offer-29",
+      "name": "Gern für Sie da."
+    },
+    {
+      "id": "offer-30",
+      "name": "Veränderung fühlen, um sie zu leben."
+    },
+    {
+      "id": "offer-31",
+      "name": "Hypnosetherapie"
+    },
+    {
+      "id": "offer-32",
+      "name": "Wechseljahresberatung"
+    },
+    {
+      "id": "offer-33",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-34",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-35",
+      "name": "Neu in der Praxis"
+    },
+    {
+      "id": "offer-36",
+      "name": "Dry Needling-Akupunkturnadeln"
+    },
+    {
+      "id": "offer-37",
+      "name": "Heilpraktiker-Praxis in Tempelhof"
+    },
+    {
+      "id": "offer-38",
+      "name": "Erfahrungswerte"
+    },
+    {
+      "id": "offer-39",
+      "name": "Ich kann einfach nur danke sagen"
+    },
+    {
+      "id": "offer-40",
+      "name": "Zuvorkommend & äußerst professionell"
+    }
+  ],
+  "images": [
+    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/03/hypnose.jpg",
+    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/03/wechseljahre-beratung-berlin.jpg",
+    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/04/akupunktur.jpg",
+    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/10/coaching-tempelhof-schoeneberg.jpg",
+    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/10/heilpraktiker-tempelhof.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Sonja Priwitzer an?",
+      "answer": "Sonja Priwitzer bietet eine Vielzahl von Therapien an, darunter Akupunktur, Hypnose, Dorntherapie, Breuss-Massage, Schmerzbehandlung, Triggerpunktbehandlung, Massagen, Schröpfen und pneumatische Pulsationstherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Sonja Priwitzer buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den folgenden Link nutzen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Praxis von Sonja Priwitzer geöffnet?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag, Dienstag, Donnerstag von 09:00 bis 18:00 Uhr, Mittwoch von 09:00 bis 19:00 Uhr und Freitag von 09:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sonja Priwitzer?",
+      "answer": "Die Praxis befindet sich in der Friedrich-Wilhelm-Straße 28, 12103 Berlin, im Stadtteil Tempelhof."
+    },
+    {
+      "question": "Wie kann ich Sonja Priwitzer kontaktieren?",
+      "answer": "Sie können Sonja Priwitzer telefonisch unter 01796640567 oder per E-Mail an kontakt@praxis-priwitzer.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa0HdVmhFqEcRWd1aQtcD04c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

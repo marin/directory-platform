@@ -2,8 +2,8 @@
   "id": "osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich",
   "slug": "osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich",
   "name": "Osteopathie - Physiotherapie - Heilpraktiker - Susanne Heidenreich",
-  "description": "Osteopathie - Physiotherapie - Heilpraktiker - Susanne Heidenreich ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Willkommen in der Praxis für Osteopathie, Heilkunde und Physiotherapie von Susanne Heidenreich in Berlin-Weißensee. Seit August 2012 bietet das Team einen ganzheitlichen Ansatz zur Behandlung von körperlichen Beschwerden, der auch Lebensgewohnheiten und Ernährung berücksichtigt. Ziel ist es, langfristige Erleichterungen für die Patienten zu erreichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,6 +26,7 @@
   "phone": "03023365170",
   "email": "info@osteopathie-heidenreich.de",
   "website": "http://osteopathie-heidenreich.de/",
+  "bookingUrl": "https://osteopathie-heidenreich.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,100 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlung",
+      "price": 15,
+      "priceLabel": "15 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung",
+      "price": 42,
+      "priceLabel": "42 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlung",
+      "price": 45,
+      "priceLabel": "45 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlung",
+      "price": 20,
+      "priceLabel": "20 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Behandlung",
+      "price": 25,
+      "priceLabel": "25 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Behandlung",
+      "price": 33,
+      "priceLabel": "33 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Behandlung",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Behandlung",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "Für Hausbesuche berechnen wir pauschal .",
+      "price": 40,
+      "priceLabel": "40€"
+    },
+    {
+      "id": "offer-10",
+      "name": "Die Praxis befindet sich in Berlin – Weissensee."
+    },
+    {
+      "id": "offer-11",
+      "name": "Sprechzeiten und Anfahrt"
+    }
+  ],
+  "images": [
+    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_003-1080-1024x576.jpg",
+    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_003-1080.jpg",
+    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_002-1080-1024x576.jpg",
+    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_002-1080.jpg",
+    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_001-1080-1024x576.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Susanne Heidenreich an?",
+      "answer": "Susanne Heidenreich bietet Behandlungen in den Bereichen Osteopathie, Physiotherapie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist Montag von 09:00 bis 19:00 Uhr, Dienstag und Mittwoch von 09:00 bis 20:00 Uhr, Donnerstag von 08:00 bis 20:00 Uhr und Freitag von 08:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Susanne Heidenreich?",
+      "answer": "Die Praxis befindet sich in der Langhansstraße 66, Berlin, 13086."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Webseite unter https://osteopathie-heidenreich.de/kontakt/ buchen."
+    },
+    {
+      "question": "Wie hoch sind die Behandlungskosten?",
+      "answer": "Die Behandlungskosten variieren zwischen 15 € und 100 €, abhängig von der Art der Behandlung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUpJEPFNqEcRDxN2Wl8j_MM",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 9
 }

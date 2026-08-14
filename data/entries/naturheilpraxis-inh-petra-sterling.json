@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-inh-petra-sterling",
   "slug": "naturheilpraxis-inh-petra-sterling",
   "name": "Naturheilpraxis Inh. Petra Sterling",
-  "description": "Naturheilpraxis Inh. Petra Sterling ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Inh. Petra Sterling befindet sich in Berlin-Zehlendorf und bietet eine Vielzahl von naturheilkundlichen Therapien an. Zu den Schwerpunkten gehören die Wirbel- und Gelenktherapie nach Dorn, LnB Schmerztherapie, Homöopathie sowie Fußreflexzonentherapie. Petra Sterling ist seit 2000 als Heilpraktikerin tätig und verfügt über umfangreiche Ausbildungen in verschiedenen therapeutischen Methoden. Ziel der Praxis ist es, den Patienten zu einem selbständigen, gesunden und schmerzfreien Leben zu verhelfen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,72 @@
   "email": "petra-sterling@web.de",
   "website": "http://www.naturheilpraxis-sterling.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "April 2009 Ausbildung zur LnB Schmerztherapeutin"
+    },
+    {
+      "id": "offer-2",
+      "name": "seit 2007 Ausbilderin in der Dornmethode und Breußmassage"
+    },
+    {
+      "id": "offer-3",
+      "name": "seit 2003 gelistete Dorntherapeutin für Wirbel- und Gelenktherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "2001 Ausbildung in Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "seit 2000 in eigener Praxis als Heilpraktikerin tätig"
+    },
+    {
+      "id": "offer-6",
+      "name": "1998 Ausbildung in Homöopathie"
+    },
+    {
+      "id": "offer-7",
+      "name": "1997 Ausbildung zur Heilpraktikerin im \"Weg der Mitte e.V.\""
+    },
+    {
+      "id": "offer-8",
+      "name": "Anrufen"
+    },
+    {
+      "id": "offer-9",
+      "name": "eMail"
+    }
+  ],
+  "images": [
+    "http://www.naturheilpraxis-sterling.de/images/praxis_f.jpg",
+    "http://www.naturheilpraxis-sterling.de/images/sterling_massage_therapie_zehlendorf.jpg",
+    "http://www.naturheilpraxis-sterling.de/images/Sterling_Naturheilpraxis_Zehlendorf2.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Petra Sterling an?",
+      "answer": "Die Naturheilpraxis Petra Sterling bietet unter anderem Wirbel- und Gelenktherapie nach Dorn, LnB Schmerztherapie, Homöopathie, Fußreflexzonentherapie und klassische Massage an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03086203336 oder per E-Mail an petra-sterling@web.de vereinbaren."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Petra Sterling?",
+      "answer": "Die Naturheilpraxis Petra Sterling befindet sich im Herbergerweg 10, 14167 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Seit wann ist Petra Sterling als Heilpraktikerin tätig?",
+      "answer": "Petra Sterling ist seit 2000 in eigener Praxis als Heilpraktikerin tätig."
+    },
+    {
+      "question": "Welche Ausbildung hat Petra Sterling im Bereich Schmerztherapie?",
+      "answer": "Petra Sterling hat im April 2009 eine Ausbildung zur LnB Schmerztherapeutin abgeschlossen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRjY8dL5abD-g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

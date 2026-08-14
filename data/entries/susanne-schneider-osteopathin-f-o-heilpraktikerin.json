@@ -2,8 +2,8 @@
   "id": "susanne-schneider-osteopathin-f-o-heilpraktikerin",
   "slug": "susanne-schneider-osteopathin-f-o-heilpraktikerin",
   "name": "Susanne Schneider - Osteopathin F. O. / Heilpraktikerin",
-  "description": "Susanne Schneider - Osteopathin F. O. / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Susanne Schneider ist als Heilpraktikerin und Osteopathin F.O. in Berlin-Pankow tätig. In ihrer Praxis bietet sie ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter funktionelle Osteopathie, Tiefengewebsmassage, Craniosacrale Therapie sowie Fußreflexzonentherapie. Ihre Therapieansätze kombinieren verschiedene Methoden, um die Selbstheilungskräfte ihrer Patienten zu unterstützen und ein ganzheitliches Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,6 +26,7 @@
   "phone": "03081700961",
   "email": "schneider-susanne@gmx.net",
   "website": "http://www.heilpraxis-schneider.com/",
+  "bookingUrl": "https://module.bookingtime.com/booking/organization/f6GLpBrLJlFiqhv7rdqLgIWsbEl1WhDz/moduleConfig/5fHsNvPxEzLMBCjHP3IfxqFtQ3N92qFy/bookingTemplate?m=1",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -48,7 +49,60 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlungsschwerpunkte"
+    },
+    {
+      "id": "offer-2",
+      "name": "Funktionelle Osteopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Tiefengewebsmassage"
+    },
+    {
+      "id": "offer-4",
+      "name": "Craniosacrale Therapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Phytotherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Honorare"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet Susanne Schneider an?",
+      "answer": "Susanne Schneider bietet Behandlungsschwerpunkte in der Funktionellen Osteopathie, Tiefengewebsmassage, Craniosacraler Therapie, Fußreflexzonentherapie, Schüssler Salzen und Phytotherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Susanne Schneider buchen?",
+      "answer": "Sie können einen Termin bei Susanne Schneider über die Buchungsseite unter folgendem Link buchen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Praxis von Susanne Schneider geöffnet?",
+      "answer": "Die Praxis von Susanne Schneider hat dienstags, mittwochs, donnerstags und freitags von 11:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Susanne Schneider?",
+      "answer": "Die Praxis von Susanne Schneider befindet sich in der Rhinower Str. 12, 10437 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich Susanne Schneider kontaktieren?",
+      "answer": "Sie können Susanne Schneider telefonisch unter 03081700961 oder per E-Mail an schneider-susanne@gmx.net kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq37sjQRSqEcRBBUe2x12jdc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

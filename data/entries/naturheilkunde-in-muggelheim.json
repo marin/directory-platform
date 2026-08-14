@@ -3,7 +3,7 @@
   "slug": "naturheilkunde-in-muggelheim",
   "name": "Naturheilkunde in Müggelheim",
   "description": "Naturheilkunde in Müggelheim ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -76,7 +76,17 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "502 Bad Gateway"
+    },
+    {
+      "id": "offer-2",
+      "name": "Host Not Found or connection failed"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBdyfe8w5qEcRehbwxBP571o"
 }

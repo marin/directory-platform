@@ -2,8 +2,8 @@
   "id": "mamaveda-heilpraktikerin-fur-ganzheitliche-frauenheilkunde-und-schwangerenbeglei",
   "slug": "mamaveda-heilpraktikerin-fur-ganzheitliche-frauenheilkunde-und-schwangerenbeglei",
   "name": "MAMAVEDA Heilpraktikerin für ganzheitliche Frauenheilkunde und Schwangerenbegleitung in Berlin",
-  "description": "MAMAVEDA Heilpraktikerin für ganzheitliche Frauenheilkunde und Schwangerenbegleitung in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "MAMAVEDA ist eine Heilpraktikerin für ganzheitliche Frauenheilkunde und Schwangerenbegleitung in Berlin, die sich auf die verschiedenen Lebensphasen von Frauen spezialisiert hat. Ihr Ansatz umfasst die Behandlung von hormonellen Ungleichgewichten, Menstruationsproblemen sowie die Unterstützung während der Schwangerschaft und der Menopause. Durch sanfte, aber effektive Methoden aus der Naturheilkunde bietet sie individuelle Unterstützung und Beratung, um das Wohlbefinden ihrer Patientinnen zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,43 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "WOMEN'S HEALING"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ayurvedic proverb"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/09eadb_a9ee585d818743acb168d6029233c9f8~mv2.jpg/v1/fill/w_1905,h_680,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/09eadb_a9ee585d818743acb168d6029233c9f8~mv2.jpg",
+    "https://static.wixstatic.com/media/09eadb_35785508d53d4bbea0e6ae666f564e86%7Emv2.png/v1/fit/w_2500,h_1330,al_c/09eadb_35785508d53d4bbea0e6ae666f564e86%7Emv2.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet MAMAVEDA an?",
+      "answer": "MAMAVEDA bietet ganzheitliche Frauenheilkunde und Schwangerenbegleitung an, einschließlich Unterstützung bei hormonellen Ungleichgewichten, Menstruationsproblemen, Schwangerschaftsbeschwerden und mehr."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei MAMAVEDA vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 017661986626 oder per E-Mail an hello@mama-veda.de vereinbaren."
+    },
+    {
+      "question": "Wann hat MAMAVEDA geöffnet?",
+      "answer": "Die Öffnungszeiten sind Montag und Mittwoch von 09:00 bis 15:00 Uhr, Dienstag und Donnerstag von 15:00 bis 20:00 Uhr sowie Freitag von 09:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von MAMAVEDA?",
+      "answer": "Die Praxis befindet sich in der Dirschauer Str. 1, 10245 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Bietet MAMAVEDA eine kostenlose Erstberatung an?",
+      "answer": "Ja, MAMAVEDA bietet ein kostenloses erstes Einführungsgespräch an, um zu besprechen, wie Unterstützung geleistet werden kann."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkfQfrMNPqEcR_z0Lq7CC_pE",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 17
 }

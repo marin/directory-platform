@@ -2,8 +2,8 @@
   "id": "doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu",
   "slug": "doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu",
   "name": "Doreen Platz, Heilpraktikerin. Homöopathie - Shiatsu & Massage – Naturheilverfahren, Naturheilpraxis für Kinder & Erwachsene.",
-  "description": "Doreen Platz, Heilpraktikerin. Homöopathie - Shiatsu & Massage – Naturheilverfahren, Naturheilpraxis für Kinder & Erwachsene. ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Doreen Platz ist eine erfahrene Heilpraktikerin in Berlin-Neukölln, die sich auf klassische Homöopathie, Shiatsu und verschiedene Naturheilverfahren spezialisiert hat. Ihre Naturheilpraxis bietet Behandlungen für Kinder und Erwachsene an und legt großen Wert auf einen ganzheitlichen Ansatz, der körperliche, emotionale und geistige Aspekte berücksichtigt. Neben individuellen Behandlungen werden auch Kindersprechstunden und Hausbesuche angeboten, um eine umfassende Betreuung zu gewährleisten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -54,7 +54,70 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Klassische Homöopathie・ Shiatsu \\| Massage・ Naturheilverfahren"
+    },
+    {
+      "id": "offer-2",
+      "name": "Der ganzheitliche Blick auf den Menschen – Diagnose"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlung und Begleitung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beratung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kindersprechstunde"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schwangerenbegleitung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Hausbesuche"
+    },
+    {
+      "id": "offer-8",
+      "name": "Blog-Beiträge (Auswahl)"
+    }
+  ],
+  "images": [
+    "https://www.platz-fuer-gesundheit.de/wp-content/uploads/2023/03/Slider_Schafgarbe-1-1024x359.png",
+    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2023/01/AdobeStock_296482402.jpeg",
+    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2022/07/AdobeStock_250287876-scaled-1-1024x680.jpeg",
+    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2023/01/AdobeStock_19797455.jpeg",
+    "https://www.platz-fuer-gesundheit.de/wp-content/uploads/2023/03/Slider_Wildkraeuter-1024x359.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Doreen Platz an?",
+      "answer": "Doreen Platz bietet klassische Homöopathie, Shiatsu, Massage und verschiedene Naturheilverfahren an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online buchen über die Webseite: https://app.cituro.com/booking/heilpraktikerin-doreen-platz."
+    },
+    {
+      "question": "Welche Altersgruppen werden in der Naturheilpraxis behandelt?",
+      "answer": "In der Naturheilpraxis werden sowohl Kinder als auch Erwachsene behandelt."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:30 bis 19:30 Uhr und am Freitag von 08:30 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Doreen Platz?",
+      "answer": "Die Praxis befindet sich in der Weichselstraße 53, 12045 Berlin, im Stadtteil Neukölln."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcRpeAnF1S_f38",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

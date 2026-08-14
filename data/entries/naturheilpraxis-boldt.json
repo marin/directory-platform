@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-boldt",
   "slug": "naturheilpraxis-boldt",
   "name": "Naturheilpraxis Boldt",
-  "description": "Naturheilpraxis Boldt ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Boldt in Berlin bietet eine ganzheitliche und individuelle Behandlung in den Bereichen Homöopathie, Akupunktur (TCM), Psychotherapie und Naturheilkunde an. Heilpraktiker Christian Boldt legt großen Wert auf eine ausführliche Anamnese und entwickelt für jeden Patienten ein maßgeschneidertes Behandlungskonzept. Zu den Therapieschwerpunkten zählen unter anderem Stressbewältigung, Allergien, Hauterkrankungen sowie psychologische Beratungen. Besuchen Sie die Praxis in der Degnerstraße 3, um mehr über die angebotenen Therapien zu erfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -56,7 +56,58 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Zum 12 – jährigen Bestehen der Naturheilpraxis"
+    },
+    {
+      "id": "offer-2",
+      "name": "Therapieschwerpunkte in meiner Naturheilpraxis"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlungsschwerpunkte in meiner Praxis"
+    },
+    {
+      "id": "offer-4",
+      "name": "Naturheilpraxis Christian Boldt"
+    },
+    {
+      "id": "offer-5",
+      "name": "Adresse: 13053 Berlin Degnerstraße 3"
+    },
+    {
+      "id": "offer-6",
+      "name": "E-Mail: naturheilpraxis-boldt@web.de"
+    },
+    {
+      "id": "offer-7",
+      "name": "Telefon: 030 5658 8419 oder 0157 8168 6880"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-boldt.de/wp-content/uploads/2022/09/DSC_81291-scaled.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieschwerpunkte bietet die Naturheilpraxis Boldt an?",
+      "answer": "Die Naturheilpraxis Boldt bietet Therapieschwerpunkte in Traditioneller Chinesischer Medizin (TCM) Akupunktur, klassischer Homöopathie, Allergie- und Schmerztherapie, psychologischen Beratungen sowie ressourcenorientierter Traumatherapie an."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Boldt geöffnet?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Boldt sind Montag von 09:00 bis 19:00 Uhr, Dienstag bis Donnerstag von 08:00 bis 19:00 Uhr, und Freitag von 08:00 bis 18:00 Uhr. Termine sind auch nach Vereinbarung möglich."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Boldt?",
+      "answer": "Die Naturheilpraxis Boldt befindet sich in der Degnerstraße 3, 13053 Berlin."
+    },
+    {
+      "question": "Bietet die Naturheilpraxis Boldt auch Videosprechstunden an?",
+      "answer": "Ja, in der Naturheilpraxis Boldt sind auch Videosprechstunden möglich."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnd1LQTBMqEcRJNWNdyX3dXc",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 15
 }

@@ -3,7 +3,7 @@
   "slug": "massage-heilpraxis-berlin-jorg-blohm",
   "name": "Massage Heilpraxis Berlin Jörg Blohm",
   "description": "Massage Heilpraxis Berlin Jörg Blohm ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -50,7 +50,31 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bachblüten-Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "System zur Förderung der seelischen Gesundheit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Homöopathieähnlich aufbereitete Blütenauszüge"
+    },
+    {
+      "id": "offer-4",
+      "name": "+49 (30) 46 73 63 96"
+    },
+    {
+      "id": "offer-5",
+      "name": "+49 (173) 244 83 59"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa5nUEvZQqEcR61Qj9DM5XMo",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 152
 }

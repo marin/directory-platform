@@ -2,8 +2,8 @@
   "id": "kerstin-beiersdorfer-heilpraktiker-berlin",
   "slug": "kerstin-beiersdorfer-heilpraktiker-berlin",
   "name": "Kerstin Beiersdorfer, Heilpraktiker Berlin",
-  "description": "Kerstin Beiersdorfer, Heilpraktiker Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kerstin Beiersdorfer ist Heilpraktikerin in Berlin-Charlottenburg und bietet in ihrer Naturheilpraxis am Kurfürstendamm eine Vielzahl von naturheilkundlichen Behandlungen an. Ihr Ansatz berücksichtigt psychosomatische Zusammenhänge und zielt darauf ab, die Ursachen von Erkrankungen ganzheitlich zu erfassen. Zu den angebotenen Therapien gehören unter anderem Ozon-Sauerstofftherapie, Hypnosetherapie und ästhetische Medizin wie Faltenunterspritzung und Microneedling.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,28 @@
   "website": "http://www.heilpraktiker-beiersdorfer.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilpraktiker-beiersdorfer.de/Kerstin-Rahmen-Augenfarbe.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Kerstin Beiersdorfer?",
+      "answer": "Die Naturheilpraxis von Kerstin Beiersdorfer befindet sich am Kurfürstendamm 137, 10711 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Kerstin Beiersdorfer an?",
+      "answer": "Kerstin Beiersdorfer bietet verschiedene naturheilkundliche Verfahren an, darunter Ozon-Sauerstofftherapie, Hypnosetherapie, Neuraltherapie, Hochfrequenztherapie und Biolasertherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Kerstin Beiersdorfer vereinbaren?",
+      "answer": "Termine bei Kerstin Beiersdorfer können nach individueller Vereinbarung vereinbart werden. Sie können sie telefonisch unter 0171 / 899 28 06 oder per E-Mail an beiersdorfer@gmx.com kontaktieren."
+    },
+    {
+      "question": "Bietet Kerstin Beiersdorfer auch ästhetische Behandlungen an?",
+      "answer": "Ja, Kerstin Beiersdorfer bietet auch ästhetische Behandlungen an, darunter Faltenunterspritzung, Fadenlifting und Microneedling."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJleck0-dQqEcRoKzdfQ0isTU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

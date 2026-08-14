@@ -3,7 +3,7 @@
   "slug": "heilpraxis-katrin-schubert-naturheilkunde-ganzheitliche-frauenheilkunde-darmgesu",
   "name": "Heilpraxis Katrin Schubert – Naturheilkunde, Ganzheitliche Frauenheilkunde & Darmgesundheit",
   "description": "Heilpraxis Katrin Schubert – Naturheilkunde, Ganzheitliche Frauenheilkunde & Darmgesundheit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,110 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "DARMSANIERUNG IN BERLIN PRENZLAUER BERG"
+    },
+    {
+      "id": "offer-2",
+      "name": "Warum eine gesunde Darmflora so wichtig ist"
+    },
+    {
+      "id": "offer-3",
+      "name": "Die Darmschleimhaut – unsere natürliche Schutzbarriere"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bedeutung der Darmbakterien für einen gesunden Organismus"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die Stuhlanalyse der Darmflora als Grundlage ganzheitlicher Behandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bei folgenden Symptomen ziehe ich eine Darmfloraanalyse in Betracht"
+    },
+    {
+      "id": "offer-7",
+      "name": "Allergischen Erkrankungen wie Heuschnupfen, Asthma"
+    },
+    {
+      "id": "offer-8",
+      "name": "Nahrungsmittelunverträglichkeiten"
+    },
+    {
+      "id": "offer-9",
+      "name": "Hauterkrankungen wie Neurodermitis"
+    },
+    {
+      "id": "offer-10",
+      "name": "Migräne und depressive Verstimmung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Autoimmunerkrankungen"
+    },
+    {
+      "id": "offer-12",
+      "name": "chronischer Müdigkeit und Leistungsabfall"
+    },
+    {
+      "id": "offer-13",
+      "name": "erhöhte Infektanfälligkeit und Abwehrschwäche"
+    },
+    {
+      "id": "offer-14",
+      "name": "Der Darmcheck umfasst folgende Untersuchungen"
+    },
+    {
+      "id": "offer-15",
+      "name": "der pH-Wert des Stuhls"
+    },
+    {
+      "id": "offer-16",
+      "name": "mögliche Pilzbelastung im Darm"
+    },
+    {
+      "id": "offer-17",
+      "name": "Verdauungsrückstände im Stuhl",
+      "description": "wie Fett, Eiweiß, Stärke und Zuckergehalt"
+    },
+    {
+      "id": "offer-18",
+      "name": "Gestörte Nährstoffaufnahme durch Entzündungen der Darmschleimhaut"
+    },
+    {
+      "id": "offer-19",
+      "name": "Leaky Gut Syndrom- erhöhte Durchlässigkeit der Darmschleimhaut"
+    },
+    {
+      "id": "offer-20",
+      "name": "Verdauungsstörungen",
+      "description": "Pankreasleistung und Gallensäuren im Stuhl"
+    },
+    {
+      "id": "offer-21",
+      "name": "Sekretorisches Immunglobulin A (sIgA)",
+      "description": "wie ist die Funktion des darmeigenen Immunsystems."
+    },
+    {
+      "id": "offer-22",
+      "name": "Histaminose"
+    },
+    {
+      "id": "offer-23",
+      "name": "Glutenunverträglichkeit"
+    },
+    {
+      "id": "offer-24",
+      "name": "Ganzheitliches Therapiekonzept – Darmaufbau und Ernährungsberatung"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn2lEV05QqEcRoBRhAir9B2I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

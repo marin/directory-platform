@@ -2,8 +2,8 @@
   "id": "michaela-vogt-heilpraktikerin-ayurvedatherapeutin",
   "slug": "michaela-vogt-heilpraktikerin-ayurvedatherapeutin",
   "name": "Michaela Vogt - Heilpraktikerin & Ayurvedatherapeutin",
-  "description": "Michaela Vogt - Heilpraktikerin & Ayurvedatherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michaela Vogt ist eine erfahrene Heilpraktikerin und Ayurveda-Therapeutin mit einer Praxis in Berlin-Zehlendorf. Sie bietet individuelle Ayurveda-Behandlungen an, die darauf abzielen, Körper, Geist und Seele zu regenerieren. Zu ihrem Leistungsspektrum gehören unter anderem Ayurveda-Massagen, ayurvedische Kochkurse, Blutegelbehandlungen und Ernährungsberatung. In ihrer modernen und einladenden Praxis legt sie großen Wert auf eine ganzheitliche Betreuung ihrer Klienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,84 @@
   "website": "https://heilpraxisvogt.com/",
   "bookingUrl": "https://heilpraxisvogt.com/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bei mir sind Sie richtig"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ayurveda Massage"
+    },
+    {
+      "id": "offer-3",
+      "name": "Blutegelbehandlung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ayurvedische Ernährungsberatung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ayurveda erleben! Kurangebot"
+    },
+    {
+      "id": "offer-6",
+      "name": "Yoga"
+    },
+    {
+      "id": "offer-7",
+      "name": "Michaela Vogt - Ayurvedaexpertin"
+    },
+    {
+      "id": "offer-8",
+      "name": "Modern"
+    },
+    {
+      "id": "offer-9",
+      "name": "Zuverlässig"
+    },
+    {
+      "id": "offer-10",
+      "name": "Menschlich"
+    },
+    {
+      "id": "offer-11",
+      "name": "Hier finden Sie mich"
+    },
+    {
+      "id": "offer-12",
+      "name": "Vereinbaren Sie heute Ihren Termin mit mir"
+    }
+  ],
+  "images": [
+    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Vogt07-scaled.jpg",
+    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-55.png",
+    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-61.png",
+    "https://heilpraxisvogt.com/wp-content/uploads/2023/12/iStock-470012708-e1703160486335.jpg",
+    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-54.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Michaela Vogt?",
+      "answer": "Die Praxis von Michaela Vogt befindet sich in der Beerenstraße 14, 14163 Berlin-Zehendorf."
+    },
+    {
+      "question": "Welche Behandlungen bietet Michaela Vogt an?",
+      "answer": "Michaela Vogt bietet verschiedene Behandlungen an, darunter Ayurveda Massage, ayurvedische Kochkurse, Blutegelbehandlung, ayurvedische Ernährungsberatung und Yoga."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Michaela Vogt vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 0172 - 9825180 oder über die Website heilpraxisvogt.com vereinbaren."
+    },
+    {
+      "question": "Welche Philosophie verfolgt Michaela Vogt in ihrer Praxis?",
+      "answer": "Michaela Vogt verfolgt eine ganzheitliche und individuelle Herangehensweise, um Körper, Geist und Seele auf einer tiefgreifenden Ebene zu regenerieren."
+    },
+    {
+      "question": "Wie kann ich Michaela Vogt kontaktieren?",
+      "answer": "Sie können Michaela Vogt per E-Mail unter mail@heilpraxisvogt.com oder telefonisch unter 0172 - 9825180 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2T_YRRIum0cRxm55ZUX-Jc0"
 }

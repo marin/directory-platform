@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-gaby-blankson-chijb0sgzr5r",
   "slug": "naturheilpraxis-gaby-blankson-chijb0sgzr5r",
   "name": "Naturheilpraxis Gaby Blankson",
-  "description": "Naturheilpraxis Gaby Blankson ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Gaby Blankson in Berlin Friedenau bietet eine ganzheitliche Behandlung, die moderne energetische Heilverfahren mit dem uralten Wissen der chinesischen Medizin kombiniert. Die Praxis legt besonderen Wert auf individuelle Beratung, insbesondere in den Bereichen Ernährung, Lebensführung sowie Kinderwunsch und Schwangerschaftsbegleitung. Gaby Blankson, Heilpraktikerin mit über 25 Jahren Erfahrung, unterstützt ihre Patienten dabei, die Selbstheilungskräfte zu aktivieren und ein gesundes Gleichgewicht zu erreichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01736061919",
   "email": "info@naturheilpraxis-blankson.de",
   "website": "http://www.naturheilpraxis-blankson.de/",
+  "bookingUrl": "https://www.naturheilpraxis-blankson.de/#kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,50 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Chinesische Medizin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Stress los-sein"
+    },
+    {
+      "id": "offer-3",
+      "name": "Individuelle Beratung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Terminanfrage oder Rückrufwunsch"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-blankson.de/wp-content/uploads/Blankson-Logo-2020_bold.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Gaby Blankson an?",
+      "answer": "Die Naturheilpraxis Gaby Blankson bietet verschiedene Dienstleistungen an, darunter moderne energetische Heilverfahren, chinesische Medizin, Stressbewältigung und individuelle Beratung."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Gaby Blankson vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 0173 606 1919 oder per E-Mail an info@naturheilpraxis-blankson.de vereinbaren."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Gaby Blankson geöffnet?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Gaby Blankson sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Gaby Blankson?",
+      "answer": "Die Naturheilpraxis Gaby Blankson befindet sich in der Wilhelmshöher Str. 2, 12161 Berlin, im Stadtteil Friedenau."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Gaby Blankson kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Gaby Blankson telefonisch unter 0173 606 1919 oder per E-Mail an info@naturheilpraxis-blankson.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB0sgzr5RqEcRpdHQL53r-OU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

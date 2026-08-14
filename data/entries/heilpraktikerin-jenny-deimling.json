@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-jenny-deimling",
   "slug": "heilpraktikerin-jenny-deimling",
   "name": "Heilpraktikerin Jenny Deimling",
-  "description": "Heilpraktikerin Jenny Deimling ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Jenny Deimling bietet in ihrer Praxis in der Herrfurthstraße 6a in Berlin-Neukölln klassische Homöopathie an. Sie ist Mitglied im Verband klassischer Homöopathen Deutschlands e.V. und verfügt über die Erlaubnis zur Ausübung der Heilkunde ohne Bestallung, erteilt durch das Bezirksamt Tempelhof-Schöneberg.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -39,6 +39,30 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Jenny Deimling?",
+      "answer": "Die Praxis von Heilpraktikerin Jenny Deimling befindet sich in der Herrfurthstraße 6a, 12049 Berlin, Neukölln."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Jenny Deimling buchen?",
+      "answer": "Sie können einen Termin bei Heilpraktikerin Jenny Deimling über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker/berlin/deimling-jenny."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktikerin Jenny Deimling?",
+      "answer": "Die Praxis hat am Donnerstag und Freitag von 14:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Jenny Deimling kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Jenny Deimling telefonisch unter 017670012683 oder per E-Mail unter kontakt@heilpraktikerin-jenny-deimling.de kontaktieren."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Jenny Deimling an?",
+      "answer": "Heilpraktikerin Jenny Deimling bietet klassische Homöopathie an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdTWT6MeJ3C4RZGIWIUodhlw"
 }

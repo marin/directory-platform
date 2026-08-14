@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-celine-meyer-rogge-chijucg59ydq",
   "slug": "naturheilpraxis-celine-meyer-rogge-chijucg59ydq",
   "name": "Naturheilpraxis Céline Meyer- Rogge",
-  "description": "Naturheilpraxis Céline Meyer- Rogge ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Céline Meyer-Rogge in Berlin-Wilmersdorf bietet eine Vielzahl von alternativen Heilmethoden an, darunter Symbolon Therapie, Dorn Therapie und systemische Therapie. Die Praxis legt besonderen Wert auf ganzheitliche Ansätze zur Unterstützung von Körper und Seele, sei es bei körperlichen Beschwerden oder seelischen Herausforderungen. Zudem werden individuelle Begleitungen beim Fasten sowie Massagen angeboten, um das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,58 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Massage Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Systemische Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Selbstfindung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Individuelle Begleitung beim Fasten Berlin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Naturheilkunde in Berlin - im geschützten Raum"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-wilmersdorf.com/s/img/emotionheader32088401.jpg?1557822391.920px.340px",
+    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51377452.jpg?t=1557061493",
+    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_49150555.jpg?t=1555016244",
+    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51377176.jpeg?t=1555083337",
+    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51291726.jpeg?t=1555016276"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Céline Meyer-Rogge an?",
+      "answer": "Die Naturheilpraxis Céline Meyer-Rogge bietet unter anderem Symbolon Therapie, Massage, Dorn Therapie, systemische Therapie, individuelle Begleitung beim Fasten sowie psychologische Astrologie an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Naturheilpraxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Céline Meyer-Rogge?",
+      "answer": "Die Praxis befindet sich in der Wittelsbacherstraße 25, 10707 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03088497716 oder per E-Mail an kontakt@naturheilpraxis-wilmersdorf.com vereinbaren."
+    },
+    {
+      "question": "Bietet die Praxis auch Fastenbegleitung an?",
+      "answer": "Ja, die Naturheilpraxis bietet individuelle Begleitung beim Fasten in Berlin an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJucG59YdQqEcRJAyVDHH3r6c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17
 }

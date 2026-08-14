@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-anne-meisenbach",
   "slug": "heilpraktikerin-anne-meisenbach",
   "name": "Heilpraktikerin Anne Meisenbach",
-  "description": "Heilpraktikerin Anne Meisenbach ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Anne Meisenbach bietet in ihrer Praxis in Berlin-Prenzlauer Berg ganzheitliche Körpertherapie an. Ihr Schwerpunkt liegt auf Darmanalyse, Labordiagnostik und Frequenztherapie, um die Selbstregulation der Patienten zu unterstützen. Durch individuelle Therapieansätze, die Ernährungsanpassungen und gezielte Labortests umfassen, wird der Ursprung körperlicher Beschwerden ermittelt und behandelt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "015238564179",
   "website": "https://www.deine-naturheilkraft.de/",
+  "bookingUrl": "https://www.deine-naturheilkraft.de/kontakt/%20%22Kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,79 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "30 min -",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 40,
+      "priceLabel": "40 EUR"
+    },
+    {
+      "id": "offer-2",
+      "name": "45 min -",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 60,
+      "priceLabel": "60 EUR"
+    },
+    {
+      "id": "offer-3",
+      "name": "60 min -",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 85,
+      "priceLabel": "85 EUR"
+    },
+    {
+      "id": "offer-4",
+      "name": "90 min -",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120 EUR"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die Erstananmese dauert 90-100 min und kostet .",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 150,
+      "priceLabel": "150,00 EUR"
+    },
+    {
+      "id": "offer-6",
+      "name": "Darmanalyse, Labordiagnostik & Frequenztherapie"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=406x10000:format=jpg/path/sd8b0ca368680c32e/image/id0aa6b9b7d85a6be/version/1700341111/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/sd8b0ca368680c32e/image/id0aa6b9b7d85a6be/version/1700341111/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Anne Meisenbach?",
+      "answer": "Die Praxis von Heilpraktikerin Anne Meisenbach befindet sich in der Naugarder Str. 12, 10409 Berlin-Prenzlauer Berg."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Anne Meisenbach an?",
+      "answer": "Heilpraktikerin Anne Meisenbach bietet unter anderem Darmanalyse, Labordiagnostik und Frequenztherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite deine-naturheilkraft.de vereinbaren."
+    },
+    {
+      "question": "Was kostet eine Erstananalyse bei Heilpraktikerin Anne Meisenbach?",
+      "answer": "Die Erstananalyse dauert 90-100 Minuten und kostet 150,00 EUR."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-ftTsLdNqEcRlDu8pLUzw2g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

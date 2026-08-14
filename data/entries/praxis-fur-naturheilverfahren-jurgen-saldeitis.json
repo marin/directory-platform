@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilverfahren-jurgen-saldeitis",
   "slug": "praxis-fur-naturheilverfahren-jurgen-saldeitis",
   "name": "Praxis für Naturheilverfahren, Jürgen Saldeitis",
-  "description": "Praxis für Naturheilverfahren, Jürgen Saldeitis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilverfahren von Jürgen Saldeitis in Berlin bietet innovative Ansätze der regulativen Schwingungsmedizin an. Durch die von ihm entwickelte CBT-2000 Frequenztherapie wird die Kommunikation zwischen Zellen gefördert, um die natürlichen Selbstheilungskräfte des Körpers zu aktivieren. Die Praxis legt besonderen Wert auf individuelle Behandlungsansätze und die Förderung der Energiebalance im Organismus.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "0307443001",
   "website": "http://www.cbt2000.de/",
+  "bookingUrl": "https://www.cbt2000.de/#xl_xr_page_frequenztherapie-kontakt,frequenztherapie,cbt2000,knochenheilung,wundheilung,diabetes,biofacelifting,immunsystem,knochenbrueche,frakturen",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,56 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Regulative Schwingungsmedizin"
+    },
+    {
+      "id": "offer-2",
+      "name": "FFG - Forschungsinstitut für Frequenztherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Grundlagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Wundheilung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ergebnisse"
+    },
+    {
+      "id": "offer-6",
+      "name": "Auditiv"
+    }
+  ],
+  "images": [
+    "https://www.cbt2000.de/index_htm_files/5825.png",
+    "https://www.cbt2000.de/index_htm_files/5844.png",
+    "https://www.cbt2000.de/index_htm_files/5827.jpg",
+    "https://www.cbt2000.de/index_htm_files/5829.jpg",
+    "https://www.cbt2000.de/index_htm_files/5831.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis für Naturheilverfahren an?",
+      "answer": "Die Praxis bietet unter anderem regulative Schwingungsmedizin, Frequenztherapie, Wundheilung und weitere Behandlungen an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags, dienstags, donnerstags und freitags von 09:00 bis 18:00 Uhr und mittwochs von 09:00 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilverfahren?",
+      "answer": "Die Praxis befindet sich in der Bahnhofstraße 4, 12305 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 0307443001 erreichen oder die Website http://www.cbt2000.de/ besuchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWfCDGFEqEcRpylZr1DayQA"
 }

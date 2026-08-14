@@ -2,8 +2,8 @@
   "id": "heilpraxis-christiane-brischke",
   "slug": "heilpraxis-christiane-brischke",
   "name": "Heilpraxis Christiane Brischke",
-  "description": "Heilpraxis Christiane Brischke ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Christiane Brischke befindet sich im Süden von Berlin, in Lichtenrade, und bietet eine ganzheitliche Betreuung durch erfahrene Heilpraktikerin Christiane Brischke. Sie ist spezialisiert auf klassische Homöopathie, Akupunktur und Quantec und verfolgt das Ziel, das körperliche und seelische Wohlbefinden ihrer Patienten zu fördern. Neben bewährten Naturheilverfahren bietet sie auch innovative Behandlungen wie Biosoftlaser und kreative Aufstellungsarbeit an, um die Selbstheilungskräfte des Körpers zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -27,6 +27,7 @@
   "phone": "03070768426",
   "email": "praxis@heilpraxis-brischke.de",
   "website": "http://heilpraxis-brischke.de/",
+  "bookingUrl": "https://www.heilpraxis-brischke.de/kontakt-anfahrt",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,51 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Alleinstellungsmerkmale"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wahrnehmen der Blockaden",
+      "description": "durch Verknüpfung verschiedener Elemente werden diese gelöst."
+    },
+    {
+      "id": "offer-3",
+      "name": "Einige meiner Leistungen (vollständige Übersicht hier)"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/4eab08_e212e665864142d386b0c1c991eff9f8~mv2.jpg",
+    "https://static.wixstatic.com/media/4eab08_4ba123d704c84ab689469a1c70201538~mv2.jpg",
+    "https://static.wixstatic.com/media/4eab08_16ae40b6ac2e401bb9fc453be7689cb8~mv2.jpg/v1/fill/w_595,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_16ae40b6ac2e401bb9fc453be7689cb8~mv2.jpg",
+    "https://static.wixstatic.com/media/4eab08_c902bf964bcc42318b7bce2320b2f1a9~mv2.jpg/v1/fill/w_582,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_c902bf964bcc42318b7bce2320b2f1a9~mv2.jpg",
+    "https://static.wixstatic.com/media/4eab08_1305e119082941578ca1d4218399e8b7~mv2.jpg/v1/fill/w_578,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_1305e119082941578ca1d4218399e8b7~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Heilpraxis Christiane Brischke an?",
+      "answer": "Die Heilpraxis Christiane Brischke bietet unter anderem Homöopathie, Akupunktur, Biosoftlaserbehandlungen, Ohrakupunktur, Fußreflexzonenmassage, Reiki und pulsierende Magnetfeldtherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Christiane Brischke buchen?",
+      "answer": "Sie können einen Termin über die Website der Heilpraxis buchen, indem Sie den Kontaktlink nutzen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Heilpraxis Christiane Brischke geöffnet?",
+      "answer": "Die Öffnungszeiten der Heilpraxis sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Christiane Brischke?",
+      "answer": "Die Heilpraxis Christiane Brischke befindet sich im Griembergweg 35, 12305 Berlin, im Stadtteil Lichtenrade."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Christiane Brischke kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 03070768426 oder per E-Mail an praxis@heilpraxis-brischke.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdSSqzP5EqEcRH3gJts679RY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

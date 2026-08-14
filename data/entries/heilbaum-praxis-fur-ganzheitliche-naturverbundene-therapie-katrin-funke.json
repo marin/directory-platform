@@ -2,8 +2,8 @@
   "id": "heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke",
   "slug": "heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke",
   "name": "Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie Katrin Funke",
-  "description": "Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie Katrin Funke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie von Katrin Funke in Berlin werden individuelle Bedürfnisse nach Beratung und Therapie ganzheitlich und naturverbunden begleitet. Die Praxis kombiniert Körper-, Trauma-, Yoga- und Natur-Therapie, um die Selbstheilungskräfte der Klienten zu aktivieren. Angeboten werden Einzelsitzungen, Gruppenkurse sowie Seminare, die sowohl in der Praxis als auch in der Natur stattfinden können. Die Schwerpunkte liegen unter anderem auf psychischen Problemen, Trauma und Stressbewältigung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,64 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ausbildung, Heilerlaubnis, Abrechnung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlungs-Schwerpunkte"
+    },
+    {
+      "id": "offer-3",
+      "name": "Therapie-Angebot"
+    },
+    {
+      "id": "offer-4",
+      "name": "Freie Plätze / Wartezeiten"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mitgliedschaften"
+    },
+    {
+      "id": "offer-6",
+      "name": "Traumasensibles Yoga"
+    },
+    {
+      "id": "offer-7",
+      "name": "Seminare Yoga und Naturerfahrung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kurse"
+    }
+  ],
+  "images": [
+    "https://www.therapie.de/fileadmin/_processed_/0/b/csm_funke.katrin_9d7e55d9c3.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet die Heilbaum-Praxis an?",
+      "answer": "Die Heilbaum-Praxis bietet Einzeltherapie für Erwachsene, Gruppentherapie und Paartherapie an."
+    },
+    {
+      "question": "Welche Schwerpunkte hat die Praxis in der Behandlung?",
+      "answer": "Die Behandlungs-Schwerpunkte umfassen unter anderem ADHS, Angst- und Essstörungen, Depression, Psychosomatik, Stress, Sucht, Trauer und Trauma."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 13:30 bis 20:00 Uhr, Mittwoch von 09:00 bis 12:00 Uhr, sowie Donnerstag und Freitag von 09:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Bietet die Praxis auch Kurse oder Seminare an?",
+      "answer": "Ja, die Praxis bietet Seminare zu Yoga und Naturerfahrung sowie regelmäßige Kurse an."
+    },
+    {
+      "question": "Gibt es freie Plätze oder Wartezeiten für Termine?",
+      "answer": "Es sind freie Plätze vorhanden, und in dringenden Fällen sind auch kurzfristige Termine möglich."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNc0FoD1RqEcRPsIn3sskl7g"
 }

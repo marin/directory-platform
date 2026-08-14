@@ -2,8 +2,8 @@
   "id": "maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach",
   "slug": "maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach",
   "name": "Maik Heyne Heilpraktiker für Psychotherapie & Systemischer Coach",
-  "description": "Maik Heyne Heilpraktiker für Psychotherapie & Systemischer Coach ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Maik Heyne ist Heilpraktiker für Psychotherapie und Systemischer Coach in Berlin. Seit 2008 begleitet er Klienten in Einzel- und Paartherapien sowie in Gruppen, um persönliche Themen zu bearbeiten und innere Wandlungen zu fördern. Seine Praxis bietet verschiedene Therapieansätze, darunter systemische Aufstellungsarbeit und Sexualtherapie, um Klienten bei der Bewältigung von Herausforderungen und der Wiederentdeckung von Lebensfreude zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,66 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Häufig nachgefragte Themen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Erfahrungsberichte über Paartherapiesitzungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Beratung: Innere Wandlung mit Impulsen aus der Akasha-Chronik"
+    },
+    {
+      "id": "offer-4",
+      "name": "Erfahrungsberichte über Therapiesitzungen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Damit das Leben wieder Freude macht,"
+    },
+    {
+      "id": "offer-6",
+      "name": "Gesetz der Entwicklung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Kontaktieren Sie mich hier"
+    }
+  ],
+  "images": [
+    "https://www.maikheyne.de/files/maikheyne/bilder/personen/Enhancer_1000001760-Insta-Zoom-Web-680px.jpg",
+    "https://www.maikheyne.de/assets/images/x/2026-05-Pluto-Wandlung-Web_640px-Schrift-j1mambsf2wsdhxc.jpg",
+    "https://www.maikheyne.de/assets/images/h/MH-kraeftig-2799_800px-y5pk0349vpfxcc6.jpg",
+    "https://www.maikheyne.de/assets/images/f/osterblumen-nah-1400px-jsn8ve95p50r5f7.jpg",
+    "https://www.maikheyne.de/assets/images/s/rueckfuehrung-1_1200x600px-088nam251z2jbf0.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Maik Heyne an?",
+      "answer": "Maik Heyne bietet Einzel- und Paartherapie sowie systemisches Coaching an. Zu den häufig nachgefragten Themen gehören unter anderem Burnout, innere Anteile Integration, Sexualtherapie und systemische Aufstellungsarbeit."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Maik Heyne buchen?",
+      "answer": "Sie können einen Termin direkt über die Buchungsseite auf der Website von Maik Heyne buchen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Heilpraxis geöffnet?",
+      "answer": "Die Heilpraxis ist von Montag bis Freitag geöffnet, jeweils von 10:30 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Maik Heyne?",
+      "answer": "Die Praxis befindet sich in der Heinrich-Heine-Straße 21, 10179 Berlin."
+    },
+    {
+      "question": "Wie kann ich Maik Heyne kontaktieren?",
+      "answer": "Sie können Maik Heyne telefonisch unter der Nummer 03034660470 oder über die Website maikheyne.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc-6eU2lOqEcRnh5tsp1jc4I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

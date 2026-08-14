@@ -2,8 +2,8 @@
   "id": "tommy-loncaric-heilpraktiker",
   "slug": "tommy-loncaric-heilpraktiker",
   "name": "Tommy Loncaric Heilpraktiker",
-  "description": "Tommy Loncaric Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Tommy Loncaric ist ein erfahrener Heilpraktiker in Berlin, spezialisiert auf Osteopathie und Naturheilkunde. Mit über 20 Jahren Erfahrung bietet er ein breites Behandlungsspektrum, das von klassischer Therapie über Sportmassage bis hin zu osteopathischen Techniken reicht. Sein Ziel ist es, die körperliche Beweglichkeit seiner Patienten zu steigern und ihnen zu einer schmerzfreien Bewegung zu verhelfen. In seiner Praxis in der Danckelmannstraße legt er großen Wert auf individuelle Beratung und maßgeschneiderte Behandlungskonzepte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -60,6 +60,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://tommy-loncaric.de/wp-content/uploads/2020/02/Tommy_Loncaric-Massagestudio-800x525.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Tommy Loncaric an?",
+      "answer": "Tommy Loncaric bietet ein umfangreiches Behandlungsspektrum an, darunter klassische Therapie, Sportmassage, Lymphdrainage, Rücken Erste Hilfe, therapeutische Massage, osteopathische Behandlung und Schwangerschaftsmassage."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Tommy Loncaric?",
+      "answer": "Die Praxis von Tommy Loncaric befindet sich in der Danckelmannstraße 45, 14059 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Tommy Loncaric buchen?",
+      "answer": "Sie können einen Termin bei Tommy Loncaric über die Buchungsseite auf Doctolib buchen: Jetzt buchen!."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Freitag von 09:00 bis 18:00 Uhr und Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Tommy Loncaric kontaktieren?",
+      "answer": "Sie können Tommy Loncaric telefonisch unter 01732056522 oder per E-Mail an mail@tommy-loncaric.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfyhl_RRqEcRj0YeExqI4AA",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 130
 }

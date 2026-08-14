@@ -2,8 +2,8 @@
   "id": "sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy",
   "slug": "sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy",
   "name": "Sophie Honig - Praxis für bindungsorientierte Psychotherapie (Heilpraktiker für Psychotherapie)",
-  "description": "Sophie Honig - Praxis für bindungsorientierte Psychotherapie (Heilpraktiker für Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sophie Honig ist Heilpraktikerin für Psychotherapie und bietet in ihrer Praxis in der Akazienstraße 25 in Berlin-Schöneberg bindungsorientierte Psychotherapie, Bindungsanalyse und psychologische Krisenbegleitung an. Ihr Ansatz fokussiert sich auf die Entwicklung einer gesunden Selbstbindung und die Stärkung individueller Ressourcen. Neben persönlichen Gesprächen werden auch Online-Termine und Telefonate angeboten, um eine flexible Unterstützung zu gewährleisten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -43,6 +43,34 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://sophie-honig.de/wp-content/uploads/2025/09/SophieVanessa_0425-16.jpg",
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://sophie-honig.de/wp-content/uploads/2023/07/authentisches-selbst.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet Sophie Honig in ihrer Praxis an?",
+      "answer": "Sophie Honig bietet bindungsorientierte Psychotherapie, Bindungsanalyse und psychologische Krisenbegleitung an. Ihre Schwerpunkte liegen unter anderem in der Krisenbegleitung, der Traumaverarbeitung, der Unterstützung bei Kinderwunsch und der Beratung von Eltern."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sophie Honig?",
+      "answer": "Die Praxis von Sophie Honig befindet sich in der Akazienstraße 25, 10823 Berlin, im Stadtteil Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Sophie Honig buchen?",
+      "answer": "Sie können einen Termin bei Sophie Honig über die Buchungsseite auf Doctolib buchen. Hier ist der Link: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Sophie Honig?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 09:00 bis 19:00 Uhr, Mittwoch von 09:00 bis 14:30 Uhr und Freitag von 09:00 bis 14:30 Uhr."
+    },
+    {
+      "question": "Bietet Sophie Honig auch Online-Sitzungen an?",
+      "answer": "Ja, Sophie Honig bietet neben persönlichen Gesprächen auch Online-Treffen und Telefonate an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ36jbXpRRqEcRzFIlVmMnIOw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14
 }

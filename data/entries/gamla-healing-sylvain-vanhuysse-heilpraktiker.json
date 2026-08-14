@@ -2,8 +2,8 @@
   "id": "gamla-healing-sylvain-vanhuysse-heilpraktiker",
   "slug": "gamla-healing-sylvain-vanhuysse-heilpraktiker",
   "name": "Gamla Healing - Sylvain Vanhuysse - Heilpraktiker",
-  "description": "Gamla Healing - Sylvain Vanhuysse - Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "My name is Sylvain. I'm a holistic therapist specialising in mind-body-soul alignment. My path here began unexpectedly. I spent years working as an engineer before a deep personal journey led me to a new calling: helping others reconnect with themselves and achieve meaningful healing, growth and purpose. I combine an analytical, evidence-informed mindset with the wisdom of holistic and esoteric traditions. For me, true healing is both grounded in facts and open to the full depth of human experience.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,53 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Enter the waiting list"
+    },
+    {
+      "id": "offer-2",
+      "name": "Customers are saying"
+    },
+    {
+      "id": "offer-3",
+      "name": "Featured product"
+    },
+    {
+      "id": "offer-4",
+      "name": "View store information"
+    },
+    {
+      "id": "offer-5",
+      "name": "Coloring Book Little Beings Big Feelings — Astro Edition"
+    },
+    {
+      "id": "offer-6",
+      "name": "Evolutionary Astrology Reading - Birth Chart"
+    },
+    {
+      "id": "offer-7",
+      "name": "Evolutionary Astrology Reading - Birth Chart & Current Transits"
+    },
+    {
+      "id": "offer-8",
+      "name": "Zodiac Caps - Dusty Rose Collection"
+    },
+    {
+      "id": "offer-9",
+      "name": "Hoodies"
+    }
+  ],
+  "images": [
+    "https://www.gamlahealing.com/cdn/shop/files/mystic_purple_meadow_mountains_butterflies.png?v=1779875255&width=3840",
+    "https://www.gamlahealing.com/cdn/shop/files/man_holding_a_glass_ball.png?v=1779874483&width=3840",
+    "https://www.gamlahealing.com/cdn/shop/files/Screenshot2026-07-02at23.06.56.png?v=1783026436&width=3840",
+    "https://www.gamlahealing.com/cdn/shop/files/pluto_watercolor_purple.png?v=1779877366&width=3840",
+    "https://www.gamlahealing.com/cdn/shop/files/pluto_lotus-flower_watercolor_purple.png?v=1779880635&width=3840"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI9o-V9xPqEcRlFAnfv41MSo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

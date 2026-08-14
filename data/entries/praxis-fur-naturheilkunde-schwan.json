@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-schwan",
   "slug": "praxis-fur-naturheilkunde-schwan",
   "name": "Praxis für Naturheilkunde Schwan",
-  "description": "Praxis für Naturheilkunde Schwan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Schwan befindet sich in Berlin, Tempelhof-Schöneberg, und bietet ein breites Spektrum an naturheilkundlichen Behandlungen und Seminaren an. Zu den Schwerpunkten zählen Hypnose, Kinesiologie, Stressmanagement sowie Ernährungsberatung. Zudem werden regelmäßig Veranstaltungen zur Frauengesundheit angeboten, um Frauen zu ermutigen, auf die Signale ihres Körpers zu achten und sich mit naturheilkundlichen Mitteln selbst zu helfen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,79 @@
   "website": "http://www.heilpraxis-schwan.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/antje-schwan?utm_source=google-maps&utm_campaign=google-maps",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Seminar-Reihe zur Frauengesundheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "4 Themen-Abende"
+    },
+    {
+      "id": "offer-3",
+      "name": "Start: Mo 8.11.2018"
+    },
+    {
+      "id": "offer-4",
+      "name": "Der gute Tipp"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ingwer ist echt scharf!"
+    },
+    {
+      "id": "offer-6",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ernährung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kinesiologie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Stress \\ \\ und \\ \\ Entspannung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Rauchfrei leben – Raucherentwöhnung"
+    }
+  ],
+  "images": [
+    "https://heilpraxis-schwan.de/wp-content/uploads/elementor/thumbs/wildkr%C3%A4uterwiese-nk3b1u2p2vyvo4u3mw5gnv0wceh8tge5segzblo7ao.jpg",
+    "https://heilpraxis-schwan.de/wp-content/uploads/2016/12/antje-schwan_logo_gross.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Schwan?",
+      "answer": "Die Praxis für Naturheilkunde Schwan befindet sich in der Gustav-Müller-Straße 11, 10829 Berlin."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet verschiedene Dienstleistungen an, darunter Hypnose, Kinesiologie, Stress- und Entspannungsmanagement, Massagen, Ernährungsberatung sowie eine Raucherentwöhnung."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen: Termin buchen."
+    },
+    {
+      "question": "Gibt es spezielle Seminare in der Praxis?",
+      "answer": "Ja, die Praxis bietet eine Seminar-Reihe zur Frauengesundheit an, die sich mit Themen wie Brust-Gesundheit, Fruchtbarkeit und Ernährung beschäftigt."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 01723179849 oder per E-Mail unter heilpraxis@antjeschwan.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw8OEB4ZRqEcRvQLuDTCu8IA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

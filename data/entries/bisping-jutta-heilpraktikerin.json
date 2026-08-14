@@ -2,8 +2,8 @@
   "id": "bisping-jutta-heilpraktikerin",
   "slug": "bisping-jutta-heilpraktikerin",
   "name": "Bisping Jutta Heilpraktikerin",
-  "description": "Bisping Jutta Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Jutta Bisping bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg ein umfangreiches Therapieangebot mit Schwerpunkten in Homöopathie, Hypnotherapie und CranioSacraler Therapie. Sie begleitet ihre Patienten auf dem Weg zu ganzheitlicher Gesundheit und einem achtsamen Umgang mit sich selbst. Zu den behandelten Beschwerden zählen unter anderem akute und chronische Kopf- und Rückenschmerzen, Schlafstörungen sowie Erschöpfungszustände und Stress.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,76 @@
   "email": "info@jutta-bisping.de",
   "website": "http://www.jutta-bisping.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "CranioSacrale Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akuten sowie chronischen Kopf- und Rückenschmerzen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Wirbelsäulenproblemen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Körperlichen und psychischen Traumata"
+    },
+    {
+      "id": "offer-5",
+      "name": "Tinnitus, Schwindel"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schlafstörungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Erschöpfungszuständen, Stress"
+    },
+    {
+      "id": "offer-8",
+      "name": "Konzentrationsstörungen und Lernschwierigkeiten"
+    },
+    {
+      "id": "offer-9",
+      "name": "Beschwerden der Organe im Becken- und Bauchraum"
+    },
+    {
+      "id": "offer-10",
+      "name": "der Regulation des Hormonhaushaltes"
+    },
+    {
+      "id": "offer-11",
+      "name": "der Stabilisierung des Immunsystems"
+    },
+    {
+      "id": "offer-12",
+      "name": "Heilpraktikerin Jutta Bisping in Berlin-Charlottenburg"
+    }
+  ],
+  "images": [
+    "https://www.jutta-bisping.de/wp-content/uploads/2019/04/Sonnenuntergang-1024x427.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Jutta Bisping an?",
+      "answer": "Jutta Bisping bietet verschiedene Therapien an, darunter Homöopathie, Hypnotherapie und CranioSacrale Therapie."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jutta Bisping?",
+      "answer": "Die Praxis von Jutta Bisping befindet sich in der Niebuhrstraße 66, 10629 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie kann ich Jutta Bisping kontaktieren?",
+      "answer": "Sie können Jutta Bisping telefonisch unter 03085726534 oder per E-Mail an info@jutta-bisping.de kontaktieren."
+    },
+    {
+      "question": "Welche Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden unter anderem akute und chronische Kopf- und Rückenschmerzen, Wirbelsäulenprobleme, Tinnitus, Schwindel, Schlafstörungen sowie Erschöpfungszustände und Stress behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtyESt-ZQqEcRR8LkhsXynQM"
 }

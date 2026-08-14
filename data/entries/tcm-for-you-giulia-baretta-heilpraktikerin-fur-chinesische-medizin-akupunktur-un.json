@@ -3,7 +3,7 @@
   "slug": "tcm-for-you-giulia-baretta-heilpraktikerin-fur-chinesische-medizin-akupunktur-un",
   "name": "TCM for YOU- Giulia Baretta- Heilpraktikerin für Chinesische Medizin (Akupunktur) und Massagetherapeutin",
   "description": "TCM for YOU- Giulia Baretta- Heilpraktikerin für Chinesische Medizin (Akupunktur) und Massagetherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -43,7 +43,75 @@
       "close": "15:30"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "_Ausführliche TCM-Diagnostik und erste Behandlung mit Akupunktur._",
+      "price": 95,
+      "priceLabel": "95 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "_ca. 90 Min.:_ __",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 100,
+      "priceLabel": "100 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "⭐ 80 Min Ganzkörpermassage – Vorder- & Rückseite",
+      "durationMinutes": 80,
+      "durationLabel": "80 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "60 Min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 70,
+      "priceLabel": "70 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "5er-Paket Folge-Behandlungen: statt 300 €",
+      "price": 250,
+      "priceLabel": "250 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "10er-Paket Folge-Behandlungen: statt 600 €",
+      "price": 500,
+      "priceLabel": "500 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "3er-Paket Klassische Massage 60 Min.: statt 210 €",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 180,
+      "priceLabel": "180 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "5er-Paket Klassische Massage 60 Min.: statt 350 €",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 300,
+      "priceLabel": "300 €"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzY1xV2RPqEcROCNDcCk6B5U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

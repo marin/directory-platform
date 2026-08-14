@@ -2,8 +2,8 @@
   "id": "bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis",
   "slug": "bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis",
   "name": "Bernhard Ismer- Heilpraktiker für Psychotherapie, Psychoonkologische Praxis",
-  "description": "Bernhard Ismer- Heilpraktiker für Psychotherapie, Psychoonkologische Praxis ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Bernhard Ismer ist Heilpraktiker für Psychotherapie mit einer spezialisierten Praxis für Psychoonkologie in Berlin. Er bietet therapeutische Unterstützung durch Heilhypnose und andere naturheilkundliche Methoden an. Die Praxis befindet sich in der Strelitzer Straße 3, 10115 Berlin.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,8 +25,36 @@
   },
   "phone": "017684287254",
   "website": "http://www.heil-hypnose-therapie.de/",
+  "bookingUrl": "https://heil-hypnose-therapie.de/kontakt.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://heil-hypnose-therapie.de/img/bernhard_ismer.jpg",
+    "https://heil-hypnose-therapie.de/img/tel.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Bernhard Ismer?",
+      "answer": "Die Praxis von Bernhard Ismer befindet sich in der Strelitzer Str. 3, 10115 Berlin."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Bernhard Ismer an?",
+      "answer": "Bernhard Ismer ist Heilpraktiker für Psychotherapie und bietet eine psychoonkologische Praxis an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Bernhard Ismer buchen?",
+      "answer": "Einen Termin bei Bernhard Ismer können Sie über die Buchungsseite auf seiner Website buchen: https://heil-hypnose-therapie.de/kontakt.html."
+    },
+    {
+      "question": "Wie erreiche ich Bernhard Ismer telefonisch?",
+      "answer": "Sie können Bernhard Ismer unter der Telefonnummer 0176 / 84 28 72 54 erreichen."
+    },
+    {
+      "question": "Hat die Praxis von Bernhard Ismer Öffnungszeiten?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwCtMuRRqEcR0sovgANcCPU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

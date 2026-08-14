@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-psychotherapie-und-hypnosetherapie",
   "slug": "heilpraktiker-fur-psychotherapie-und-hypnosetherapie",
   "name": "Heilpraktiker für Psychotherapie und Hypnosetherapie",
-  "description": "Heilpraktiker für Psychotherapie und Hypnosetherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Heilpraktiker für Psychotherapie und Hypnosetherapie in Berlin-Adlershof bietet Unterstützung bei psychischen Erkrankungen wie Angststörungen, Depressionen und Burnout. Mit einem ganzheitlichen Ansatz werden individuelle Lösungen erarbeitet, um den Klienten zu helfen, ihren Lebensweg zu finden und ihre Herausforderungen zu meistern. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und nutzt die Methoden der Hypnosetherapie zur Förderung des psychischen Wohlbefindens.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -55,6 +55,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=820x10000:format=jpg/path/s47437749bdb58e7c/image/i3be014a7fc02e753/version/1448387588/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s47437749bdb58e7c/backgroundarea/id0d6ecdc690f10a6/version/1527083439/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet der Heilpraktiker an?",
+      "answer": "Der Heilpraktiker bietet Psychotherapie und Hypnosetherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis des Heilpraktikers?",
+      "answer": "Die Praxis befindet sich in der Genossenschaftsstraße 37, 12489 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Website des Heilpraktikers buchen: https://www.lebensberatung-hypnose-adlershof.de/."
+    },
+    {
+      "question": "Wie kann ich den Heilpraktiker kontaktieren?",
+      "answer": "Sie können den Heilpraktiker telefonisch unter 03028391378 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX39-AYJIqEcRuPEDbtpvIZQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

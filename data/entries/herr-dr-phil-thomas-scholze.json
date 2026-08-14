@@ -2,8 +2,8 @@
   "id": "herr-dr-phil-thomas-scholze",
   "slug": "herr-dr-phil-thomas-scholze",
   "name": "Herr Dr. phil. Thomas Scholze",
-  "description": "Herr Dr. phil. Thomas Scholze ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Herr Dr. phil. Thomas Scholze bietet in seiner Naturheilpraxis in Berlin-Treptow-Köpenick innovative Behandlungen im Bereich der Implantat-Akupunktur an. Diese moderne Therapieform nutzt winzige Nadeln, die an spezifischen Akupunkturpunkten im Ohr eingesetzt werden, um die Selbstheilkräfte des Körpers zu aktivieren. Die Praxis legt großen Wert auf individuelle Beratung und Behandlung, um auf die spezifischen Bedürfnisse jedes Patienten einzugehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "0306485447",
   "email": "naturheilpraxis.dr.scholze@freenet.de",
   "website": "http://www.implantat-akupunktur.berlin/",
+  "bookingUrl": "https://www.implantat-akupunktur.berlin/#Kontakt",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -42,7 +43,84 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Sprechzeiten"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einwilligung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Name und Anschrift der Verantwortlichen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Allgemeines zur Datenverarbeitung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Verwendung und Zweckbindung persönlicher Daten"
+    },
+    {
+      "id": "offer-6",
+      "name": "Rechtsgrundlage für die Verarbeitung personenbezogener Daten"
+    },
+    {
+      "id": "offer-7",
+      "name": "Datenlöschung und Speicherdauer"
+    },
+    {
+      "id": "offer-8",
+      "name": "Bereitstellung der Website und Erstellung von Logfiles"
+    },
+    {
+      "id": "offer-9",
+      "name": "Beschreibung und Umfang der Datenverarbeitung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Zugriffsdaten"
+    },
+    {
+      "id": "offer-11",
+      "name": "Zweck der Datenverarbeitung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Rechtsgrundlage für die Datenverarbeitung"
+    }
+  ],
+  "images": [
+    "https://www.implantat-akupunktur.berlin/images/bg_scale.jpg",
+    "http://www.naturheilpraxis-dr-scholze.de/images/Buch%20Thomas%20Scholze.png",
+    "http://www.implantat-akupunktur.berlin/images/Bund-Heilpraktiker.jpg",
+    "http://www.implantat-akupunktur.berlin/images/Implantat-Akupunktur-nadeln-setzen.jpg",
+    "http://www.implantat-akupunktur.berlin/images/Implantat.akupunktur-behandlung.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Was ist Implantat-Akupunktur?",
+      "answer": "Die Implantat-Akupunktur ist ein modernes Behandlungsverfahren der Naturheilkunde, bei dem winzige Nadeln an den Akupunkturpunkten des Gewebes der Ohrmuschel eingesetzt werden. Diese Methode stimuliert kontinuierlich das zentrale Nervensystem."
+    },
+    {
+      "question": "Bei welchen Krankheitsbildern hilft die Implantat-Akupunktur?",
+      "answer": "Die Implantat-Akupunktur hilft sowohl bei chronischen als auch bei akuten Zuständen und Krankheiten, einschließlich neurologischer Erkrankungen wie Parkinson, Ataxie, Multiple Sklerose, nach einem Schlaganfall, Restless-Legs-Syndrom und Tinnitus."
+    },
+    {
+      "question": "Wie lange dauert eine Sitzung der Implantat-Akupunktur?",
+      "answer": "Eine Sitzung der Implantat-Akupunktur dauert etwa zwei Stunden, in denen um die 20 Nadeln eingesetzt werden können, abhängig von der individuellen Therapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dr. Thomas Scholze buchen?",
+      "answer": "Sie können einen Termin bei Dr. Thomas Scholze über die Buchungsseite auf seiner Website unter https://www.implantat-akupunktur.berlin/#Kontakt buchen oder ihn telefonisch unter 0306485447 kontaktieren."
+    },
+    {
+      "question": "Wann sind die Sprechzeiten von Dr. Thomas Scholze?",
+      "answer": "Die Sprechzeiten sind Dienstag, Mittwoch und Donnerstag von 09:00 bis 17:00 Uhr."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6eDF-kY3qEcRWp-_z-z1kCE"
 }

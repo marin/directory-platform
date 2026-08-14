@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-kristin-wiegleb-praxisgemeinschaft",
   "name": "Naturheilpraxis Kristin Wiegleb (Praxisgemeinschaft)",
   "description": "Naturheilpraxis Kristin Wiegleb (Praxisgemeinschaft) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -63,6 +63,12 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://naturheilpraxis-wiegleb.de/wp-content/uploads/2023/01/Naturheilpraxis_Wiegleb_DSC6050-1200x800.jpg",
+    "https://naturheilpraxis-wiegleb.de/wp-content/uploads/2023/01/Naturheilpraxis_Wiegleb_DSC6050.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgyo11cFPqEcR0HQ_R-Dl52I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

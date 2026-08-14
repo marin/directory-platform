@@ -2,8 +2,8 @@
   "id": "sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen",
   "slug": "sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen",
   "name": "Sascha Rieck - Osteopathie & Craniosacrale Therapie in Berlin Friedrichshagen",
-  "description": "Sascha Rieck - Osteopathie & Craniosacrale Therapie in Berlin Friedrichshagen ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sascha Rieck bietet in seiner Praxis für Osteopathie und Craniosacrale Therapie in Berlin Friedrichshagen eine ganzheitliche Behandlung für Menschen jeden Alters an. Die Praxis richtet sich an Erwachsene mit Rückenschmerzen, Personen mit Schlafstörungen sowie Eltern von Babys, die häufig unruhig sind. Interessierte können sich auf der Website über die angebotenen Therapien informieren und einen Termin für ein ausführliches Anamnesegespräch vereinbaren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -24,8 +24,39 @@
   },
   "phone": "015224761332",
   "website": "https://www.osteopathie-cranio.de/",
+  "bookingUrl": "https://www.osteopathie-cranio.de/kontakt/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.osteopathie-cranio.de/wp-content/uploads/BVO_Kinderosteopathie.png",
+    "https://www.osteopathie-cranio.de/wp-content/uploads/osteopathie.png",
+    "https://www.osteopathie-cranio.de/wp-content/uploads/craniosacral.png",
+    "https://www.osteopathie-cranio.de/wp-content/uploads/babys.png",
+    "https://www.osteopathie-cranio.de/wp-content/uploads/bvo_logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Sascha Rieck?",
+      "answer": "Die Praxis von Sascha Rieck befindet sich in der Scharnweberstraße 2, 12587 Berlin, Friedrichshagen."
+    },
+    {
+      "question": "Welche Therapien bietet Sascha Rieck an?",
+      "answer": "Sascha Rieck bietet Osteopathie und Craniosacrale Therapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Kontaktseite auf der Website besuchen: https://www.osteopathie-cranio.de/kontakt/."
+    },
+    {
+      "question": "Wie kann ich Sascha Rieck telefonisch erreichen?",
+      "answer": "Sie können Sascha Rieck telefonisch unter der Nummer 015224761332 erreichen."
+    },
+    {
+      "question": "Was ist der ganzheitliche Ansatz in der Therapie von Sascha Rieck?",
+      "answer": "Der ganzheitliche Ansatz in der Therapie von Sascha Rieck zielt darauf ab, Menschen jeden Alters zu behandeln, einschließlich Erwachsener mit Rückenschmerzen und Babys, die häufig schreien."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu7VAvN43qEcRebDgoQAkSDY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

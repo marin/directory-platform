@@ -2,8 +2,8 @@
   "id": "heilpraxis-provital-in-berlin-spandau-monika-mukherjea-heilpraktikerin",
   "slug": "heilpraxis-provital-in-berlin-spandau-monika-mukherjea-heilpraktikerin",
   "name": "Heilpraxis proVital in Berlin Spandau | Monika Mukherjea Heilpraktikerin",
-  "description": "Heilpraxis proVital in Berlin Spandau | Monika Mukherjea Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis proVital in Berlin Spandau, geleitet von Heilpraktikerin Monika Mukherjea, bietet naturheilkundliche Therapien mit einem ganzheitlichen Ansatz an. Der Fokus liegt auf der Förderung der Gesundheit durch Ernährung, Bewegung, Stressmanagement und weitere Lebensstilfaktoren. Ziel der Praxis ist es, das innere Gleichgewicht der Patienten wiederherzustellen und die Selbstheilungskräfte zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,31 @@
   "phone": "03024533337",
   "email": "info@provital-kladow.de",
   "website": "https://www.provital-kladow.de/",
+  "bookingUrl": "https://www.provital-kladow.de/kontakt-anfahrt",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis proVital?",
+      "answer": "Die Heilpraxis proVital befindet sich in Berlin Spandau, Alt-Kladow 17, 14089 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis proVital vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 03024533337."
+    },
+    {
+      "question": "Welche Therapien bietet Monika Mukherjea in ihrer Praxis an?",
+      "answer": "Monika Mukherjea bietet verschiedene Therapien im Bereich der Naturheilkunde an, darunter Ernährungsberatung, Nährstoffberatung und Infusionstherapie."
+    },
+    {
+      "question": "Wie kann ich die Heilpraktikerin Monika Mukherjea kontaktieren?",
+      "answer": "Sie können Monika Mukherjea per E-Mail unter info@provital-kladow.de oder telefonisch unter 03024533337 kontaktieren."
+    },
+    {
+      "question": "Hat die Heilpraxis proVital Öffnungszeiten?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3wxEB0tA1YcRsd_E4o3o91s"
 }

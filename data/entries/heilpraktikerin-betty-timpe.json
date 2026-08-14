@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-betty-timpe",
   "slug": "heilpraktikerin-betty-timpe",
   "name": "Heilpraktikerin Betty Timpe",
-  "description": "Heilpraktikerin Betty Timpe ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Betty Timpe bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg ein ganzheitliches und individuelles Therapiekonzept an. Ihre Schwerpunkte liegen in der natürlichen Frauenheilkunde, Hautgesundheit, Stoffwechseloptimierung und Darmgesundheit. Sie unterstützt ihre Patienten bei hormonellen Beschwerden, Hautproblemen sowie in der gesunden und nachhaltigen Gewichtsabnahme.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,64 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihre Naturheilpraxis Betty Timpe in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Frauengesundheit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schöne und gesunde Haut"
+    },
+    {
+      "id": "offer-4",
+      "name": "Gesund abnehmen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Darmgesundheit und Ernährungstherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Meine Therapieverfahren"
+    },
+    {
+      "id": "offer-7",
+      "name": "Diagnostik"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://le-de.cdn-website.com/83eb0744556140c39b45fc9f1c937979/dms3rep/multi/opt/shutterstock_318849443-1104w.jpg",
+    "https://le-de.cdn-website.com/83eb0744556140c39b45fc9f1c937979/dms3rep/multi/opt/smog-betty-timpe-1920w.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Betty Timpe?",
+      "answer": "Die Naturheilpraxis von Betty Timpe befindet sich in der Marburger Str. 3, 10789 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Welche Behandlungsschwerpunkte bietet Heilpraktikerin Betty Timpe an?",
+      "answer": "Betty Timpe bietet Behandlungsschwerpunkte in den Bereichen Frauengesundheit, Hautgesundheit, gesundes Abnehmen sowie Darmgesundheit und Ernährungstherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Betty Timpe vereinbaren?",
+      "answer": "Sie können einen Termin online über die Webseite von Betty Timpe buchen: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich Betty Timpe kontaktieren?",
+      "answer": "Sie können Betty Timpe telefonisch unter 0160 4476772 oder per E-Mail an info@betty-timpe.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCabYapJRqEcRH2kaxx2Oti0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31
 }

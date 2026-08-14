@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-christina-schenck",
   "slug": "praxis-fur-naturheilkunde-christina-schenck",
   "name": "Praxis für Naturheilkunde Christina Schenck",
-  "description": "Praxis für Naturheilkunde Christina Schenck ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Christina Schenck in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen, darunter Akupunktur, Tuina, Shiatsu und Fußreflexzonenmassage. Die Heilpraktikerin Christina Schenck legt großen Wert auf individuelle Beratung und Therapieansätze, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,8 +26,180 @@
   "phone": "0306913418",
   "email": "kontakt@naturheilkunde-berlin.de",
   "website": "http://www.naturheilkunde-berlin.de/",
+  "bookingUrl": "mailto:kontakt@naturheilkunde-berlin.de",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstgespräch 130 € ca. 120 Minuten",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Folgegespräch 65 € ca. 60 Minuten",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Telefonische Beratung 25 € 10 Minuten",
+      "durationMinutes": 10,
+      "durationLabel": "10 min",
+      "price": 25,
+      "priceLabel": "25 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "45 Minuten 55 €",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 55,
+      "priceLabel": "55 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "60 Minuten 65 €",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "90 Minuten 95 €",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 95,
+      "priceLabel": "95 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Erstgespräch mit umfassender Diagnose 130 €",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "1 Akupunktursitzung 65 €",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "10 Sitzungen 550 €",
+      "price": 550,
+      "priceLabel": "550 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Erstanamnese 130 € ca. 120 Minuten",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 130,
+      "priceLabel": "130 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Folgebehandlung 65 € ca. 60 Minuten",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 65,
+      "priceLabel": "65 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "5 Termine 85 € jew. 90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 85,
+      "priceLabel": "85 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "10 Termine 190 € jew. 90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 190,
+      "priceLabel": "190 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "Sonntag 100 € 10 bis 18 Uhr",
+      "price": 100,
+      "priceLabel": "100 €"
+    },
+    {
+      "id": "offer-15",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-16",
+      "name": "Tuina"
+    },
+    {
+      "id": "offer-17",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-18",
+      "name": "Shiatsu"
+    },
+    {
+      "id": "offer-19",
+      "name": "Fußreflex"
+    },
+    {
+      "id": "offer-20",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-21",
+      "name": "Beratung"
+    },
+    {
+      "id": "offer-22",
+      "name": "Lebenspflege"
+    },
+    {
+      "id": "offer-23",
+      "name": "Qigong"
+    },
+    {
+      "id": "offer-24",
+      "name": "Dozentin"
+    }
+  ],
+  "images": [
+    "https://www.naturheilkunde-berlin.de/img/tina_schenck3_q.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Christina Schenck?",
+      "answer": "Die Praxis befindet sich in der Neuen Schönhauser Str. 17, 10178 Berlin."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet verschiedene Dienstleistungen an, darunter Akupunktur, Tuina, Shiatsu, Fußreflexzonenmassage und individuelle Beratungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin buchen, indem Sie eine E-Mail an kontakt@naturheilkunde-berlin.de senden oder die Telefonnummer 030 6913418 anrufen."
+    },
+    {
+      "question": "Was kostet ein Erstgespräch in der Praxis?",
+      "answer": "Ein Erstgespräch kostet 130 € und dauert ca. 120 Minuten."
+    },
+    {
+      "question": "Gibt es spezielle Angebote für mehrere Sitzungen?",
+      "answer": "Ja, es gibt Angebote wie 10 Akupunktursitzungen für 550 € oder 5 Termine für 85 € jeweils 90 Minuten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9Z5peFRqEcRe7_mKXcQFgo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

@@ -2,8 +2,8 @@
   "id": "akupunktur-krauterheilkunde",
   "slug": "akupunktur-krauterheilkunde",
   "name": "Akupunktur & Kräuterheilkunde",
-  "description": "Akupunktur & Kräuterheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Akupunktur & Kräuterheilkunde in Berlin Prenzlauer Berg bietet eine ganzheitliche Behandlung nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM). Schwerpunkte der Praxis sind unter anderem die Behandlung von Allergien, Schmerzsyndromen, Frauenheilkunde sowie Unterstützung bei Stress und Schlafstörungen. Neben Akupunktur kommen auch chinesische Arzneimitteltherapie und individuelle Ernährungsberatung zum Einsatz, um die Selbstheilungskräfte des Körpers zu aktivieren und das innere Gleichgewicht wiederherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -55,6 +55,36 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-6-720x424.jpg",
+    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-2-720x424.jpg",
+    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-bewertung-1-720x424.jpg",
+    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-3-720x424.jpg",
+    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-4-720x424.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis für Akupunktur & Kräuterheilkunde angeboten?",
+      "answer": "In der Praxis werden Akupunktur, chinesische und westliche Arzneimitteltherapie, Moxibustion, Schröpfen, Hinweise zur Ernährung nach der TCM, Entspannungsübungen, Stressmanagement, Mykotherapie, Homöopathie und Coaching angeboten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 616 43 831 oder 0172 901 74 29 vereinbaren oder per E-Mail an info@natur-praxisberlin.de."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 21:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Akupunktur & Kräuterheilkunde?",
+      "answer": "Die Praxis befindet sich in der Bötzowstraße 41, 10407 Berlin – Prenzlauer Berg."
+    },
+    {
+      "question": "Welche Beschwerden können in der Praxis behandelt werden?",
+      "answer": "Zu den Schwerpunkten der Praxis gehören Allergien, Schmerzsyndrome, Frauenheilkunde, Kinderwunsch, Stress, Schlafstörungen, Müdigkeit und wiederkehrende Infekte."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0rNkgZOqEcRKlcYw5Tbeng",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21
 }

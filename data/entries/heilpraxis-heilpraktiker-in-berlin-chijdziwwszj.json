@@ -2,8 +2,8 @@
   "id": "heilpraxis-heilpraktiker-in-berlin-chijdziwwszj",
   "slug": "heilpraxis-heilpraktiker-in-berlin-chijdziwwszj",
   "name": "Heilpraxis, Heilpraktiker in Berlin",
-  "description": "Heilpraxis, Heilpraktiker in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis von Heilpraktikerin Ulrike Rose befindet sich in der Werbellinstraße 18 in Berlin-Marzahn. Sie bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter auch spezielle Therapien wie die Behandlung mit Blutegeln. Neben der individuellen Patientenbetreuung veranstaltet sie regelmäßig Vorträge und Workshops zu Themen der Naturheilkunde und Tierheilkunde.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,56 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Explore"
+    },
+    {
+      "id": "offer-2",
+      "name": "More from YouTube"
+    },
+    {
+      "id": "offer-3",
+      "name": "14\\. Arbeitstagung für Heilpraktiker - \"Lets Work! 2015\""
+    },
+    {
+      "id": "offer-4",
+      "name": "Ulrike Scheitler Heilpraktikerin behandelt Model"
+    },
+    {
+      "id": "offer-5",
+      "name": "🍀DIE KUNST DES HEILENS🍀"
+    },
+    {
+      "id": "offer-6",
+      "name": "Hildegard's Secret to a Healthy Life: Sebastian Liew"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/JjfFQoSQTFk/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwWkO34f5NA_9UAhQ9K2ybe6zHCg",
+    "https://i.ytimg.com/vi/POU1eb00mng/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABtYv5xBM9H6abjp-JjtFe8hzNrw",
+    "https://i.ytimg.com/vi/CPwd35serfo/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABHFUrD6pIx-ETtMB7xBTWFJGd7Q",
+    "https://i.ytimg.com/vi/oYS4cz0Pu8o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPf9aQiP2uL33dhu4svnwYxyZylA",
+    "https://i.ytimg.com/vi/1Z9zEX3KpDw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4YSOH50818EolIkSEZdwkSi4DKw"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis von Ulrike Rose?",
+      "answer": "Die Heilpraxis befindet sich in der Werbellinstraße 18, 12623 Berlin, im Bezirk Marzahn-Hellersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
+      "answer": "Die Heilpraxis ist von Montag bis Freitag jeweils von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 015906604884 oder per E-Mail an robert@broofa.com kontaktieren."
+    },
+    {
+      "question": "Bietet die Heilpraxis spezielle Therapien an?",
+      "answer": "Ja, die Heilpraxis bietet unter anderem Blutegeltherapie und Workshops zu verschiedenen Themen an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDZIWwSZJqEcRketKJLHC5UE"
 }

@@ -2,8 +2,8 @@
   "id": "tcm-praxis-jessica-noll-heilpraktikerin-faborm",
   "slug": "tcm-praxis-jessica-noll-heilpraktikerin-faborm",
   "name": "TCM Praxis - Jessica Noll, Heilpraktikerin, FABORM",
-  "description": "TCM Praxis - Jessica Noll, Heilpraktikerin, FABORM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der TCM Praxis von Jessica Noll in Berlin wird eine ganzheitliche Betreuung für Frauen und Paare angeboten, die sich auf den Weg zur Elternschaft begeben. Die Praxis kombiniert Traditionelle Chinesische Medizin (TCM) mit modernen wissenschaftlichen Ansätzen, um individuelle Behandlungspläne zu erstellen. Jessica Noll, als Expertin für Kinderwunsch und Frauenheilkunde, legt besonderen Wert auf eine integrative Therapie, die Akupunktur, Kräutermedizin und Ernährungsberatung umfasst.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -64,7 +64,50 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Entdecken Sie die ganzheitliche Kinderwunsch-behandlung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Zwischen TCM und traditioneller Medizin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Vereinbaren Sie noch heute Ihren Termin"
+    }
+  ],
+  "images": [
+    "https://jessica-noll.de/wp-content/uploads/2024/02/taisiia-shestopal-ehQgKY4KX0g-unsplash-scaled.jpg",
+    "https://jessica-noll.de/wp-content/uploads/2024/02/nathan-dumlao-EytWx3BOrwI-unsplash-scaled.jpg",
+    "https://jessica-noll.de/wp-content/uploads/2024/03/Jessica-Noll-Berlin-Pulsdiagnose.png",
+    "https://jessica-noll.de/wp-content/uploads/2024/02/toa-heftiba-a9pFSC8dTlo-unsplash-scaled.jpg",
+    "https://jessica-noll.de/wp-content/uploads/2024/02/isaac-quesada-dZYI4ga2eUA-unsplash-scaled.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die TCM Praxis von Jessica Noll an?",
+      "answer": "Die TCM Praxis von Jessica Noll bietet eine ganzheitliche Kinderwunschbehandlung sowie Akupunktur und naturheilkundliche Therapien an, die auf die individuellen Bedürfnisse von Frauen und Paaren abgestimmt sind."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der TCM Praxis von Jessica Noll über die Website buchen, indem Sie den folgenden Link verwenden: https://tcm.qi-point.de/neuertermin."
+    },
+    {
+      "question": "Wann hat die TCM Praxis geöffnet?",
+      "answer": "Die TCM Praxis hat montags von 08:30 bis 12:00 und 14:30 bis 19:00 Uhr, dienstags von 10:00 bis 12:00 Uhr, mittwochs und donnerstags von 08:30 bis 12:00 und 14:30 bis 19:00 Uhr sowie freitags von 15:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die TCM Praxis von Jessica Noll?",
+      "answer": "Die TCM Praxis von Jessica Noll befindet sich in der Karlsruher Str. 7a/8, 10711 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Jessica Noll kontaktieren?",
+      "answer": "Sie können Jessica Noll telefonisch unter 0308312344 oder per E-Mail an info@jessica-noll.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7vPbFhQqEcRBw53pzeiuS4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 24
 }

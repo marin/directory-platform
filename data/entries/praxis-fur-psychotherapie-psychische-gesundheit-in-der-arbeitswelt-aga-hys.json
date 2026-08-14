@@ -2,8 +2,8 @@
   "id": "praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys",
   "slug": "praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys",
   "name": "Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt | Aga Hys",
-  "description": "Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt | Aga Hys ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt von Aga Hys in Berlin-Friedrichshain stehen berufstätige Klienten im Fokus, die unter Belastungen wie toxischer Führung, Mobbing, Burnout und Depression leiden. Die Therapie bietet einen geschützten Raum, um individuelle Herausforderungen zu bearbeiten und emotionale Stabilität zu fördern. Die Heilpraktikerin für Psychotherapie und Job Coach arbeitet bedürfnisorientiert und respektvoll, um Klienten bei der Entwicklung neuer Perspektiven und der Stärkung ihrer inneren Ressourcen zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "015150542517",
   "email": "info@psyche-arbeitswelt.de",
   "website": "https://www.psyche-arbeitswelt.de/",
+  "bookingUrl": "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,70 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wenn dein Arbeitsplatz zur Belastung wird..."
+    },
+    {
+      "id": "offer-2",
+      "name": "Ein zentraler Bestandteil der gemeinsamen Arbeit ist"
+    },
+    {
+      "id": "offer-3",
+      "name": "Stimme einer Klientin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Vertraulich & diskret"
+    },
+    {
+      "id": "offer-5",
+      "name": "Auf dich abgestimmt"
+    },
+    {
+      "id": "offer-6",
+      "name": "Respektvoll"
+    },
+    {
+      "id": "offer-7",
+      "name": "Psychotherapie Berlin Friedrichshain"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kennenlerngespräch anfragen"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/2e66b0_37bc198d82874b0d9a89278dd25a8de1~mv2.png/v1/fill/w_94,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e66b0_37bc198d82874b0d9a89278dd25a8de1~mv2.png",
+    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://static.wixstatic.com/media/2e66b0_fb01efacd6024417ad0411689d30eb34~mv2.jpg/v1/fill/w_353,h_355,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e66b0_fb01efacd6024417ad0411689d30eb34~mv2.jpg",
+    "https://static.wixstatic.com/media/2e66b0_2d5ee6e460cc4a6e8102203a0ca3d397~mv2.jpg/v1/crop/x_0,y_194,w_1024,h_1023/fill/w_369,h_369,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ChatGPT%20Image%2011_%20Feb_edited.jpg",
+    "https://static.wixstatic.com/media/2e66b0_766d3582f147464a891797f87a3bcf96~mv2.jpg/v1/fill/w_2500,h_2434,al_c/2e66b0_766d3582f147464a891797f87a3bcf96~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Art von psychotherapeutischer Hilfe bieten Sie an?",
+      "answer": "Ich biete psychotherapeutische Hilfe für Berufstätige bei toxischer Führung, Mobbing, Burnout und Depression an. Meine Praxis ist auf die psychische Gesundheit in der Arbeitswelt spezialisiert."
+    },
+    {
+      "question": "Wie kann ich einen Termin in Ihrer Praxis buchen?",
+      "answer": "Sie können einen Termin direkt über meine Website buchen. Klicken Sie einfach auf den Buchungslink oder rufen Sie mich unter 015150542517 an."
+    },
+    {
+      "question": "Wie sind Ihre Öffnungszeiten?",
+      "answer": "Meine Öffnungszeiten sind wie folgt: Montag von 12:00 bis 16:00 Uhr, Dienstag und Mittwoch von 15:00 bis 21:00 Uhr, Donnerstag von 09:00 bis 15:00 Uhr, Freitag von 12:00 bis 16:00 Uhr und Samstag von 10:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Bieten Sie auch Online-Therapiesitzungen an?",
+      "answer": "Ja, ich biete psychotherapeutische Sitzungen sowohl vor Ort in meiner Praxis in Berlin Friedrichshain als auch online an."
+    },
+    {
+      "question": "Wie wird die Vertraulichkeit in Ihrer Praxis gewährleistet?",
+      "answer": "Ich unterliege der gesetzlichen Schweigepflicht und gebe keine Behandlungsdaten an Krankenkassen, Versicherungen oder Behörden weiter."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU99B9IFPqEcR47TTILKTdqU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

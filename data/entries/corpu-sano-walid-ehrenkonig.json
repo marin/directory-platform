@@ -2,8 +2,8 @@
   "id": "corpu-sano-walid-ehrenkonig",
   "slug": "corpu-sano-walid-ehrenkonig",
   "name": "Corpu Sano - Walid Ehrenkönig",
-  "description": "Corpu Sano - Walid Ehrenkönig ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Corpu Sano - Walid Ehrenkönig ist eine Heilpraktikerpraxis in Berlin-Charlottenburg, die sich auf Psychotherapie und Naturheilkunde spezialisiert hat. Unter der Leitung von Walid Temiaa werden individuelle Therapieansätze angeboten, die Ernährung, Körper und Psyche in den Fokus stellen. Ziel ist es, die Gesundheit der Patienten durch natürliche Heilmittel und gezielte Therapien zu fördern und ein neues Lebensgefühl zu schaffen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -62,7 +62,58 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapieformen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ernährung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Körper"
+    },
+    {
+      "id": "offer-4",
+      "name": "Psyche"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kombination"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kontaktdaten"
+    }
+  ],
+  "images": [
+    "https://www.corpusano.de/wp-content/uploads/walid-temiaa.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet Corpu Sano an?",
+      "answer": "Corpu Sano bietet verschiedene Therapieformen an, darunter Psychotherapie, Naturheilkunde, Ernährung, Körpertherapie, psychologische Unterstützung und die Anwendung natürlicher Heilmittel."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten von Corpu Sano?",
+      "answer": "Corpu Sano hat von Montag bis Sonntag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Walid Ehrenkönig?",
+      "answer": "Die Praxis von Walid Ehrenkönig befindet sich in der Eisenzahnstraße 11-14, 10709 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Corpu Sano vereinbaren?",
+      "answer": "Termine bei Corpu Sano können nach Vereinbarung vereinbart werden. Sie können die Praxis telefonisch oder per E-Mail kontaktieren."
+    },
+    {
+      "question": "Wie kann ich Walid Ehrenkönig kontaktieren?",
+      "answer": "Sie können Walid Ehrenkönig per E-Mail unter w.temiaa@corpusano.de oder telefonisch unter +49 30 25581187 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0A3P-lQqEcR2Xx9XWKB0b0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26
 }

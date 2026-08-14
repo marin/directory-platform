@@ -2,8 +2,8 @@
   "id": "praxis-fur-psychotherapie-nicole-schneider-heilpraktikerin",
   "slug": "praxis-fur-psychotherapie-nicole-schneider-heilpraktikerin",
   "name": "Praxis für Psychotherapie Nicole Schneider Heilpraktikerin",
-  "description": "Praxis für Psychotherapie Nicole Schneider Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Psychotherapie von Nicole Schneider in Berlin bietet integrative Therapieansätze für Einzelpersonen und Paare an. In einem geschützten Rahmen werden verschiedene Methoden, darunter systemisch-lösungsorientierte Therapie und tiefenpsychologische Ansätze, eingesetzt, um Klienten bei der Bewältigung von Lebensherausforderungen zu unterstützen. Die Sitzungen können sowohl vor Ort als auch flexibel online in deutscher und spanischer Sprache durchgeführt werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -56,5 +56,29 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet Nicole Schneider in ihrer Praxis an?",
+      "answer": "Nicole Schneider bietet eine integrative Therapie an, die Methoden aus der systemisch-lösungsorientierten Therapie, tiefenpsychologischen Ansätzen, Gesprächspsychotherapie nach Rogers, emotionaler Körpertherapie und Achtsamkeitstraining umfasst."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin telefonisch unter 03022465501, per E-Mail an nicole@praxis-mit-gefuehl.de oder direkt über die Online-Buchung auf der Website https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/nicole-schneider-berlin?utm_source=google-maps&utm_campaign=google-maps buchen."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten der Praxis für Psychotherapie?",
+      "answer": "Die Praxis hat montags, mittwochs und donnerstags von 15:00 bis 21:00 Uhr, freitags von 14:30 bis 17:30 Uhr und samstags von 12:00 bis 16:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Therapien an?",
+      "answer": "Ja, Nicole Schneider bietet Therapiesitzungen sowohl persönlich vor Ort als auch flexibel online an."
+    },
+    {
+      "question": "Ist das Erstgespräch kostenfrei?",
+      "answer": "Ja, das Erstgespräch in der Praxis für Psychotherapie ist kostenfrei."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCzC5ahdRqEcR6Avee9FzIZw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

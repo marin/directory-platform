@@ -2,8 +2,8 @@
   "id": "praxis-claudia-c-zimmermann",
   "slug": "praxis-claudia-c-zimmermann",
   "name": "Praxis Claudia C. Zimmermann",
-  "description": "Praxis Claudia C. Zimmermann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis von Claudia C. Zimmermann befindet sich in Berlin, im Stadtteil Tempelhof-Schöneberg. Sie bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Psychotherapie, Yagertherapie und mediale Lebensberatung. Mit über 25.000 geführten Gesprächen unterstützt sie ihre Klienten bei emotionalen Problemen, Ängsten und seelischen Blockaden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,54 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Psychotherapie HP"
+    },
+    {
+      "id": "offer-3",
+      "name": "Yagertherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Mediale Lebensberatung"
+    }
+  ],
+  "images": [
+    "https://claudiazimmermann.de/wp-content/uploads/2026/01/Claudia-Zimmermann.jpg",
+    "https://claudiazimmermann.de/wp-content/uploads/2023/10/nlp-neurolinguistic-programming-practitioner-having-conversation-with-client.jpg",
+    "https://claudiazimmermann.de/wp-content/uploads/2022/12/Yagertherapie.png",
+    "https://claudiazimmermann.de/wp-content/uploads/2024/10/IMG_1682-300x300.jpg",
+    "https://claudiazimmermann.de/wp-content/uploads/2022/12/Buch-DE.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis Claudia C. Zimmermann an?",
+      "answer": "Die Praxis bietet verschiedene Therapien an, darunter Psychotherapie, Yagertherapie und mediale Lebensberatung."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 20:00 Uhr und am Samstag von 10:00 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich am Steglitzer Damm 67, 12169 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 01713262530 oder per E-Mail an info@claudiazimmermann.de kontaktieren."
+    },
+    {
+      "question": "Bietet Claudia C. Zimmermann auch ein Buch an?",
+      "answer": "Ja, Claudia C. Zimmermann hat ein Buch mit dem Titel \"Geliebte Seele – Gebete mit Gott\" veröffentlicht."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv2Bul3xRqEcRw-MAkhmKiFE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

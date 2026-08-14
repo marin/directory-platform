@@ -2,8 +2,8 @@
   "id": "praxis-fur-akupunktur-und-tcm",
   "slug": "praxis-fur-akupunktur-und-tcm",
   "name": "Praxis für Akupunktur und TCM",
-  "description": "Praxis für Akupunktur und TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Akupunktur und TCM in Berlin bietet Alfons Müller seit über 15 Jahren ganzheitliche Behandlungen an, die auf den Prinzipien der Traditionellen Chinesischen Medizin basieren. Die Praxis unterstützt Patienten bei akuten und chronischen Beschwerden, wie Schmerzen, Verdauungsproblemen und Hauterkrankungen, durch Methoden wie Akupunktur, Kräuterheilkunde und Ernährungsberatung. Ziel ist es, die Lebensqualität der Patienten zu verbessern und ihre Gesundheit nachhaltig zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -53,7 +53,150 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilmethoden"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wie ich Sie unterstütze"
+    },
+    {
+      "id": "offer-3",
+      "name": "<span data-metadata=\"\"<span data-buffer=\"\"Akupunktur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kräuterheilkunde"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ernähnungsberatung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Tuina"
+    },
+    {
+      "id": "offer-7",
+      "name": "Qigong"
+    },
+    {
+      "id": "offer-8",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-9",
+      "name": "Nährstoffe"
+    },
+    {
+      "id": "offer-10",
+      "name": "Fitness"
+    },
+    {
+      "id": "offer-11",
+      "name": "Der Weg zu ihrer Gesundheit​"
+    },
+    {
+      "id": "offer-12",
+      "name": "Alfons Müller in Berlin"
+    },
+    {
+      "id": "offer-13",
+      "name": "(Traditionelle chinesische Medizin)"
+    },
+    {
+      "id": "offer-14",
+      "name": "Akupunktur und TCM Praxis in Berlin"
+    },
+    {
+      "id": "offer-15",
+      "name": "Akupunktur und TCM lindern Schmerzen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Verdauung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Schmerzen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Hauterkrankungen"
+    },
+    {
+      "id": "offer-19",
+      "name": "Stress"
+    },
+    {
+      "id": "offer-20",
+      "name": "Frauengesundheit"
+    },
+    {
+      "id": "offer-21",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-22",
+      "name": "Über mich, Alfons Müller"
+    },
+    {
+      "id": "offer-23",
+      "name": "Sie stehen im Mittelpunkt meiner Arbeit"
+    },
+    {
+      "id": "offer-24",
+      "name": "Was Patient:innen über meine Arbeit sagen"
+    },
+    {
+      "id": "offer-25",
+      "name": "Ratgeber für Akupunktur und TCM in Berlin"
+    },
+    {
+      "id": "offer-26",
+      "name": "Häufige Fragen zu Akupunktur und TCM"
+    },
+    {
+      "id": "offer-27",
+      "name": "FAQs"
+    },
+    {
+      "id": "offer-28",
+      "name": "Reden wir miteinander"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://tcm-mueller.berlin/wp-content/uploads/2023/11/2.1.UberMich-TCM-Berlin-.jpeg",
+    "https://tcm-mueller.berlin/wp-content/uploads/2023/08/tcm2.jpg",
+    "https://tcm-mueller.berlin/wp-content/uploads/2023/08/tcm3.jpg",
+    "https://tcm-mueller.berlin/wp-content/uploads/2023/08/4.5.3.Ratgeber-Hauterkrankungen-Neurodermitis.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis für Akupunktur und TCM angeboten?",
+      "answer": "In der Praxis werden verschiedene Heilmethoden angeboten, darunter Akupunktur, Kräuterheilkunde, Ernährungsberatung, Tuina, Qigong, Coaching und Nährstoffberatung."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin online buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Akupunktur und TCM?",
+      "answer": "Die Praxis befindet sich in der Wiesbadener Str. 24, 14197 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis telefonisch erreichen?",
+      "answer": "Sie können die Praxis unter der Telefonnummer 017631787227 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbc3fn3pQqEcRbWiWXsxvtLE",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 28
 }

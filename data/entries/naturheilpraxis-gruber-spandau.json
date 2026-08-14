@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-gruber-spandau",
   "slug": "naturheilpraxis-gruber-spandau",
   "name": "Naturheilpraxis Gruber - Spandau",
-  "description": "Naturheilpraxis Gruber - Spandau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Gruber in Berlin-Spandau steht die Gesundheit der Patienten im Mittelpunkt einer ganzheitlichen Therapie. Heilpraktikerin Gabriele Gruber bietet professionelle Anwendungen, die traditionelle Naturheilkunde mit modernen Methoden verbinden, um langfristige Behandlungserfolge zu erzielen. Zu den Schwerpunkten der Praxis gehören unter anderem Schmerztherapie, biologische Krebstherapie und Umweltmedizin, wobei stets die individuelle Ursachensuche und Prävention im Vordergrund stehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03039793766",
   "email": "praxis@wir-sind-gesund.de",
   "website": "https://wir-sind-gesund.de/",
+  "bookingUrl": "https://wir-sind-gesund.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -42,7 +43,59 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gesundheit lässt Sie strahlen, denn Gesundheit macht sexy"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung auf allen Ebenen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Die Therapieschwerpunkte in meiner Praxis in Berlin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerztherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Biologische Krebstherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Umweltmedizin"
+    }
+  ],
+  "images": [
+    "https://wir-sind-gesund.de/wp-content/uploads/2025/03/heilpraktikerin-berlin.jpg",
+    "https://wir-sind-gesund.de/wp-content/uploads/2021/04/GabyGruber.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieschwerpunkte bietet die Naturheilpraxis Gruber an?",
+      "answer": "Die Naturheilpraxis Gruber bietet verschiedene Therapieschwerpunkte an, darunter Schmerztherapie, biologische Krebstherapie, Umweltmedizin und Sub Health Coaching."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Gruber vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Gruber über die Webseite wir-sind-gesund.de vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Gruber?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Gruber sind Montag bis Mittwoch von 10:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Gruber?",
+      "answer": "Die Naturheilpraxis Gruber befindet sich in der Zeppelinstraße 27, 13583 Berlin, Spandau."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Gruber kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Gruber telefonisch unter 03039793766 oder per E-Mail an praxis@wir-sind-gesund.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7ZshSJWqEcR2gPUPUMtFnI",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 6
 }

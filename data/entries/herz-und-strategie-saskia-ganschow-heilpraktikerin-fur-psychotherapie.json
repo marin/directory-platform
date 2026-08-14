@@ -60,5 +60,8 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu2sOXO1TqEcRqG7AreMCZZo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

@@ -2,8 +2,8 @@
   "id": "fabian-geimer-lorusso-heilpraktiker",
   "slug": "fabian-geimer-lorusso-heilpraktiker",
   "name": "Fabian Geimer-Lorusso, Heilpraktiker",
-  "description": "Fabian Geimer-Lorusso, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Fabian Geimer-Lorusso ist Heilpraktiker in Berlin-Neukölln und bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Akupunktur und Massage. Seine Praxis befindet sich im Gesundheitszentrum Impuls in der Weichselstraße 53. Terminvereinbarungen sind sowohl per E-Mail als auch online möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01796167814",
   "email": "fabian.geimer@gmx.de",
   "website": "https://www.naturheilpraxis-geimer-lorusso.de/termin-vereinbaren",
+  "bookingUrl": "https://naturheilpraxis-geimer-lorusso-appointments.as.me/",
   "openingHours": [
     {
       "day": "Wednesday",
@@ -42,7 +43,36 @@
       "close": "22:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Termine vereinbaren"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie kann ich einen Termin bei Fabian Geimer-Lorusso vereinbaren?",
+      "answer": "Sie können einen Termin entweder per E-Mail an fabian.geimer@gmx.de oder direkt online über die Webseite buchen: https://naturheilpraxis-geimer-lorusso-appointments.as.me/."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Fabian Geimer-Lorusso?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Mittwoch von 13:00 bis 22:00 Uhr, Donnerstag von 08:30 bis 14:00 Uhr und Freitag von 14:00 bis 22:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Fabian Geimer-Lorusso?",
+      "answer": "Die Praxis befindet sich in der Weichselstraße 53, 12045 Berlin, im Stadtteil Neukölln."
+    },
+    {
+      "question": "Wie kann ich Fabian Geimer-Lorusso kontaktieren?",
+      "answer": "Sie können Fabian Geimer-Lorusso telefonisch unter 01796167814 oder per E-Mail an fabian.geimer@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Therapien bietet Fabian Geimer-Lorusso an?",
+      "answer": "Fabian Geimer-Lorusso bietet Therapien in den Bereichen Akupunktur und Massage an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcZZxGbBPqEcRGGfJ_B_y8DA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

@@ -3,7 +3,7 @@
   "slug": "artemisia-heilpraxis-heilpraktiker-in-berlin-pankow-u-a-darmsanierung-schropfen-",
   "name": "Artemisia Heilpraxis - Heilpraktiker in Berlin/Pankow [u.a. Darmsanierung, Schröpfen, Blutegeltherapie]",
   "description": "Artemisia Heilpraxis - Heilpraktiker in Berlin/Pankow [u.a. Darmsanierung, Schröpfen, Blutegeltherapie] ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -48,7 +48,83 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Skip to main content"
+    },
+    {
+      "id": "offer-2",
+      "name": "Additional menu"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schröpfen _trocken & blutig_"
+    },
+    {
+      "id": "offer-4",
+      "name": "in Ihrer Nähe in Berlin / Pankow"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hpyotonie und Kreislaufstörungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Durchblutungsstörungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "chronischer Stress"
+    },
+    {
+      "id": "offer-8",
+      "name": "Muskelverspannungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Zellulitis"
+    },
+    {
+      "id": "offer-10",
+      "name": "Zyklusstörungen, Dysmenorrhö, Amenorrhö"
+    },
+    {
+      "id": "offer-11",
+      "name": "Migräne und Kopfschmerzen"
+    },
+    {
+      "id": "offer-12",
+      "name": "chronische Verspannungen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Grippe, Bronchialkatarrh und Erkältung"
+    },
+    {
+      "id": "offer-14",
+      "name": "Entlastung der Bronchien bei Rauchentwöhnung"
+    },
+    {
+      "id": "offer-15",
+      "name": "rheumatische Erkrankungen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Verdauungsbeschwerden"
+    },
+    {
+      "id": "offer-17",
+      "name": "Unterstützende Anwendung beim Fasten und Ausleiten"
+    },
+    {
+      "id": "offer-18",
+      "name": "Das sagen meine Patienten über mich"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJyUH23w1TqEcRECftab3FL4Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

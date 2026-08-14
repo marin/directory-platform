@@ -2,8 +2,8 @@
   "id": "heilpraktiker",
   "slug": "heilpraktiker",
   "name": "Heilpraktiker",
-  "description": "Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Peter Krauss ist Heilpraktiker in Berlin-Schöneberg und bietet eine Vielzahl von naturheilkundlichen Behandlungen an. In seiner Praxis in der Gleditschstraße 44 steht er seinen Patienten mit individueller Beratung und Therapie zur Seite. Gemeinsam mit seiner Kollegin Bettina Albring, die sich auf klassische Homöopathie spezialisiert hat, verfolgt er einen ganzheitlichen Ansatz zur Förderung der Gesundheit. Für Terminvereinbarungen oder Fragen steht er telefonisch oder per E-Mail zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,40 @@
   "email": "peter@heilpraktiker-krauss.de",
   "website": "https://www.heilpraktiker-krauss.de/kontakt-heilpraktiker-peter-krauss-berlin/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Tel.030/216 900 6"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mo bis Do von 13.00 – 14.00 Uhr"
+    }
+  ],
+  "images": [
+    "https://www.heilpraktiker-krauss.de/wp-content/uploads/eingang1-2-300x225.jpg",
+    "https://www.heilpraktiker-krauss.de/wp-content/uploads/PK-2026-J123-246x300.jpg",
+    "https://www.heilpraktiker-krauss.de/wp-content/uploads/Bettina-244x300.jpg",
+    "https://www.heilpraktiker-krauss.de/wp-content/uploads/Praxisschild-300x288.jpg",
+    "https://www.heilpraktiker-krauss.de/wp-content/uploads/eingang1-2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktiker Peter Krauss vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 030/216 900 6 vereinbaren oder eine E-Mail an peter@heilpraktiker-krauss.de senden."
+    },
+    {
+      "question": "Wann sind die Sprechzeiten von Peter Krauss?",
+      "answer": "Die Sprechzeiten sind von Montag bis Donnerstag von 13.00 bis 14.00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktiker Peter Krauss?",
+      "answer": "Die Praxis befindet sich in der Gleditschstraße 44, 10781 Berlin/Schöneberg."
+    },
+    {
+      "question": "Bietet Peter Krauss auch telefonische Beratung an?",
+      "answer": "Ja, Sie können ihn telefonisch unter 030/216 900 6 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnwk8cUZQqEcRORI8-KwWB4A"
 }

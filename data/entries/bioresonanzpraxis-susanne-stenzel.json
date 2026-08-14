@@ -2,8 +2,8 @@
   "id": "bioresonanzpraxis-susanne-stenzel",
   "slug": "bioresonanzpraxis-susanne-stenzel",
   "name": "Bioresonanzpraxis Susanne Stenzel",
-  "description": "Bioresonanzpraxis Susanne Stenzel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Bioresonanzpraxis Susanne Stenzel befindet sich in Berlin-Zehlendorf und bietet naturheilkundliche Behandlungen mit dem Schwerpunkt auf Bioresonanztherapie an. In einem kostenlosen Kennenlerngespräch können Interessierte mehr über die Methode und den Therapieablauf erfahren. Die Praxis legt Wert auf individuelle Betreuung und eine vertrauensvolle Atmosphäre.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,41 @@
   },
   "phone": "033284289746",
   "website": "http://www.bioresonanz-berlin.com/",
+  "bookingUrl": "https://www.bioresonanz-berlin.com/Terminbuchung/%20%22Terminbuchung",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "_TERMINBUCHUNG_"
+    }
+  ],
+  "images": [
+    "https://www.bioresonanz-berlin.com/.cm4all/iproc.php/imported/big_14038189_0_300-200.jpg/downsize_1280_0/big_14038189_0_300-200.jpg",
+    "https://www.bioresonanz-berlin.com/.cm4all/uproc.php/0/20160917_222637.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Bioresonanzpraxis Susanne Stenzel?",
+      "answer": "Die Bioresonanzpraxis Susanne Stenzel befindet sich in der Machnower Str. 19A, 14165 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Bioresonanzpraxis Susanne Stenzel über die Webseite unter folgendem Link buchen: Terminbuchung."
+    },
+    {
+      "question": "Welche Therapieform wird in der Praxis angeboten?",
+      "answer": "In der Bioresonanzpraxis Susanne Stenzel wird die Bioresonanztherapie angeboten."
+    },
+    {
+      "question": "Gibt es ein Kennlerngespräch, bevor ich eine Behandlung beginne?",
+      "answer": "Ja, es gibt ein kostenloses Kennlerngespräch, in dem Sie alle Fragen zur Bioresonanzmethode und zum Therapieablauf stellen können."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Bioresonanzpraxis Susanne Stenzel telefonisch unter der Nummer 033284289746 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBUtLRxhbqEcRupqP0Utrao8",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 16
 }

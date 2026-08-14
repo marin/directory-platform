@@ -2,8 +2,8 @@
   "id": "akupunktur-in-berlin-treptow-rudi-fink",
   "slug": "akupunktur-in-berlin-treptow-rudi-fink",
   "name": "Akupunktur in Berlin Treptow - Rudi Fink",
-  "description": "Akupunktur in Berlin Treptow - Rudi Fink ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Chinese medicine searches for the root of the problem. I can help you search out and find this root. A health problem, whether physical and/or emotional in nature, does not arise in isolation – it is always rooted in the context of your life. That’s why I develop treatment plans with a holistic approach with you. Acupuncture is a gentle method and is tailored to each person individually. I accept you just as you are, and I won’t pathologize you. I listen carefully to your concerns and work toward your treatment goals. You can contact me for treatment with virtually any concern: Support for chronic illnesses and cancer to improve quality of life • emotional imbalances • fears • trauma • overactive nervous system • anxiety • stress • lack of energy • sleep disorders • chronic fatigue syndrome • Long Covid • digestive problems • irritable bowel syndrome • Stomach problems • Allergies • C…",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -49,7 +49,33 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Acupuncture"
+    },
+    {
+      "id": "offer-2",
+      "name": "Japanese Moxa"
+    },
+    {
+      "id": "offer-3",
+      "name": "Qìgōng-Tuīná"
+    },
+    {
+      "id": "offer-4",
+      "name": "Nourishing"
+    }
+  ],
+  "images": [
+    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunkteur_Berlin-768x512.jpg",
+    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunktur_Praxisraum_Berlin_1a-e1706699455380-768x512.jpg",
+    "https://akupunkturpunkt.com/wp-content/uploads/2024/02/Rudi_Fink_Akupunktur_2-e1708686101291-768x511.jpg",
+    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunktur_Japanisches_Moxa_1a-e1708685681698-768x512.jpg",
+    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Qigong_Tuina_Landscape-e1708685904401-768x512.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC8wbWlVOqEcR7oJZ-U-LWcE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31
 }

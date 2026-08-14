@@ -2,8 +2,8 @@
   "id": "aleksandra-sicha-heilpraktikerin-fur-psychotherapie",
   "slug": "aleksandra-sicha-heilpraktikerin-fur-psychotherapie",
   "name": "Aleksandra Sicha - Heilpraktikerin für Psychotherapie",
-  "description": "Aleksandra Sicha - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Aleksandra Sicha ist Heilpraktikerin für Psychotherapie in Berlin-Pankow und bietet eine ganzheitliche Therapie, die Gesprächstherapie mit EMDR, Hypnotherapie und körperorientierten Ansätzen kombiniert. Ihr Schwerpunkt liegt auf der Begleitung von Menschen, deren Erleben durch belastende Kindheits-, Bindungs- oder Verlusterfahrungen geprägt ist. In ihrer Praxis unterstützt sie Klienten dabei, innere Sicherheit und Stabilität zu entwickeln und belastende Erinnerungen zu verarbeiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "01601814186",
   "email": "kontakt@traumatherapie-sicha.de",
   "website": "https://www.traumatherapie-sicha.de/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/aleksandra-sicha",
   "openingHours": [
     {
       "day": "Monday",
@@ -63,7 +64,134 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "EMDR-Therapie in Berlin-Pankow"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wie EMDR unterstützen kann"
+    },
+    {
+      "id": "offer-3",
+      "name": "Den Alarmmodus des Körpers beruhigen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Stärkende innere Überzeugungen entwickeln"
+    },
+    {
+      "id": "offer-5",
+      "name": "Anamnese und Zielklärung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Vorbereitung und Stabilisierung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Verarbeitung belastender Erfahrungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Integration und neue Perspektiven"
+    },
+    {
+      "id": "offer-9",
+      "name": "Abschluss und Stabilisierung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Psychotherapie nach dem Heilpraktikergesetz"
+    },
+    {
+      "id": "offer-11",
+      "name": "Wenn belastende Erfahrungen bis heute nachwirken"
+    },
+    {
+      "id": "offer-12",
+      "name": "Traumatherapie in Berlin-Pankow"
+    },
+    {
+      "id": "offer-13",
+      "name": "Traumatische Erfahrungen verstehen und verarbeiten"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kindheit"
+    },
+    {
+      "id": "offer-15",
+      "name": "Bindung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Verlust"
+    },
+    {
+      "id": "offer-17",
+      "name": "Trauma"
+    },
+    {
+      "id": "offer-18",
+      "name": "Mein therapeutischer Ansatz umfasst unter anderem"
+    },
+    {
+      "id": "offer-19",
+      "name": "Aleksandra Sicha Heilpraktikerin für Psychotherapie"
+    },
+    {
+      "id": "offer-20",
+      "name": "Erstgespräch – Preisgestaltung"
+    },
+    {
+      "id": "offer-21",
+      "name": "Erstgespräch (90 Minuten)"
+    },
+    {
+      "id": "offer-22",
+      "name": "Meine Vorgehensweise mit 5er-Blöcken"
+    },
+    {
+      "id": "offer-23",
+      "name": "Warum das wichtig ist"
+    },
+    {
+      "id": "offer-24",
+      "name": "Kundenstimmen"
+    }
+  ],
+  "images": [
+    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/traumatherapie_sicha_portrait_startseite-715x1024.jpg",
+    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_wie_ich_arbeite-683x1024.jpg",
+    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_ueber_mich-683x1024.jpg",
+    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_kontakt_illustration-1024x1024.png",
+    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/praxis-bild.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet Aleksandra Sicha an?",
+      "answer": "Aleksandra Sicha bietet EMDR-Therapie, Hypnotherapie und körperorientierte Ansätze in ihrer Praxis für Psychotherapie und Traumatherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Aleksandra Sicha?",
+      "answer": "Die Praxis von Aleksandra Sicha befindet sich in der Schliemannstraße 41/2.3.26, 10437 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Aleksandra Sicha buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link buchen: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/aleksandra-sicha."
+    },
+    {
+      "question": "Wann hat die Praxis von Aleksandra Sicha geöffnet?",
+      "answer": "Die Praxis hat montags und mittwochs von 16:00 bis 21:00 Uhr, donnerstags von 10:00 bis 14:00 Uhr und von 15:00 bis 21:00 Uhr sowie freitags von 10:00 bis 14:00 Uhr und von 15:00 bis 21:00 Uhr geöffnet. Samstags ist die Praxis von 12:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann EMDR-Therapie hilfreich sein?",
+      "answer": "EMDR-Therapie kann hilfreich sein, um belastende Erfahrungen zu verarbeiten, den Alarmmodus des Körpers zu beruhigen und stärkende innere Überzeugungen zu entwickeln."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfUiCQuJNqEcR1mtTbeJ1vhI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

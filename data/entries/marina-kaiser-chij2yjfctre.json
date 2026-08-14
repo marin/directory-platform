@@ -2,8 +2,8 @@
   "id": "marina-kaiser-chij2yjfctre",
   "slug": "marina-kaiser-chij2yjfctre",
   "name": "Marina Kaiser",
-  "description": "Marina Kaiser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Marina Kaiser ist eine erfahrene Heilpraktikerin in Berlin, spezialisiert auf Naturheilkunde. In ihrer Praxis in der Hildburghauser Str. 10 bietet sie individuelle Unterstützung und Begleitung an, um das Vertrauen in sich selbst und das Leben zu stärken. Ihre therapeutische Arbeit umfasst verschiedene Methoden und Ansätze, die auf die Bedürfnisse ihrer Klienten abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,38 @@
   "phone": "0307218938",
   "email": "sonneundmond53@gmx.de",
   "website": "http://www.marina-kaiser.de/",
+  "bookingUrl": "https://marina-kaiser.de/qualifikationen-und-meine-wege",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/02/heilende-Wege-schmal.jpg?resize=559%2C128&ssl=1",
+    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?resize=394%2C482&ssl=1",
+    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg",
+    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?w=640"
+  ],
+  "faq": [
+    {
+      "question": "Wie kann ich einen Termin bei Marina Kaiser buchen?",
+      "answer": "Sie können einen Termin bei Marina Kaiser über die Buchungsseite auf ihrer Website buchen: Buchungslink."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Marina Kaiser?",
+      "answer": "Die Praxis von Marina Kaiser befindet sich in der Hildburghauser Str. 10, 12279 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Marina Kaiser kontaktieren?",
+      "answer": "Sie können Marina Kaiser telefonisch unter 0307218938 oder per E-Mail an sonneundmond53@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Marina Kaiser an?",
+      "answer": "Marina Kaiser bietet verschiedene therapeutische Begleitungen und Anregungen im Bereich der Naturheilkunde an."
+    },
+    {
+      "question": "Gibt es Informationen über die Arbeitsweise von Marina Kaiser?",
+      "answer": "Ja, Sie können mehr über die Arbeitsweise, Methoden und Einstellungen von Marina Kaiser auf ihrer Website erfahren: Website."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2YJfctREqEcR58QKJuJusX4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

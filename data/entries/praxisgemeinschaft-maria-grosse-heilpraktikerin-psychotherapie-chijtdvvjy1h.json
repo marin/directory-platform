@@ -2,8 +2,8 @@
   "id": "praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie-chijtdvvjy1h",
   "slug": "praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie-chijtdvvjy1h",
   "name": "Praxisgemeinschaft Maria Große (Heilpraktikerin Psychotherapie)",
-  "description": "Praxisgemeinschaft Maria Große (Heilpraktikerin Psychotherapie) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxisgemeinschaft Maria Große in Berlin-Adlershof bietet umfassende psychotherapeutische und coachingbasierte Unterstützung an. Unter der Leitung von Heilpraktikerin Maria Große liegt der Fokus auf ganzheitlich-integrativer Traumaarbeit, systemischer Therapie und EMDR. Die Praxis richtet sich an Erwachsene, Kinder und Jugendliche, die in belastenden Lebenssituationen Unterstützung suchen, und bietet ein breites Spektrum an Angeboten, darunter Coaching, Beratung und spezifische Programme für Schulen und Lehrkräfte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -59,7 +59,70 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Sinn & Seele"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dein Raum für Stabilität, Sinn und Entwicklung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Coaching & Beratung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Psychotherapie & EMDR"
+    },
+    {
+      "id": "offer-5",
+      "name": "Für Schulen & Lehrkräfte"
+    },
+    {
+      "id": "offer-6",
+      "name": "Für Coaches & Heilpraktiker:innen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Weitere Heilpraktiker:innen in meiner Praxis"
+    },
+    {
+      "id": "offer-8",
+      "name": "Mehr über mich im CoachCast"
+    }
+  ],
+  "images": [
+    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/cddc168c-5aef-4c4a-bf29-e076db898741/l551,t0,w1328,h1328/image.jpg",
+    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/e94ddd42-9b14-474d-a9e1-8e270426c40a/l177,t0,w1328,h1328/image-768x768.jpg",
+    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/5b4fd1cb-8954-443b-a158-3feedf5790a8/l515,t0,w1328,h1328/image-768x768.jpg",
+    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/5a087cdc-8d27-425a-b35e-49c5465201b2/l420,t199,w1099,h1099/image-768x768.jpg",
+    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/28401bac-41b7-47bb-87dc-eb39cd6a7ae2/l672,t0,w1328,h1328/image-768x768.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxisgemeinschaft Maria Große an?",
+      "answer": "Die Praxisgemeinschaft Maria Große bietet Psychotherapie, Coaching und Beratung an, mit Schwerpunkten auf systemischer, traumasensibler und ressourcenorientierter Arbeit. Zu den spezifischen Angeboten gehören EMDR-Therapie, Prüfungscoaching sowie Unterstützung für Schulen und Lehrkräfte."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 21:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Termine können über die Buchungsseite auf Doctolib gebucht werden. Der Link zur Buchung ist: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/maria-grosse?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Wo befindet sich die Praxisgemeinschaft?",
+      "answer": "Die Praxisgemeinschaft befindet sich in der Genossenschaftsstraße 70/2. OG, 12489 Berlin, im Stadtteil Adlershof."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Die Praxis kann telefonisch unter 01722882018 oder per E-Mail an maria_grosse@sinn-und-seele-coaching.de kontaktiert werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTdvvjY1HqEcRK5n84hwLxrM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19
 }

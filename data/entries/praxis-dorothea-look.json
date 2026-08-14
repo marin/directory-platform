@@ -2,8 +2,8 @@
   "id": "praxis-dorothea-look",
   "slug": "praxis-dorothea-look",
   "name": "Praxis Dorothea Look",
-  "description": "Praxis Dorothea Look ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Dorothea Look in Berlin-Neukölln bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Homöopathie, Ernährungsberatung sowie Massage- und Fußreflexzonentherapie. Die Heilpraktikerin Dorothea Look legt besonderen Wert auf sanfte und dauerhafte Heilmethoden, die die Selbstheilungskräfte der Patienten aktivieren. In herausfordernden Lebenssituationen werden zudem Schematherapie und psychosoziale Gespräche angeboten, um neue Perspektiven zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   },
   "phone": "03030023324",
   "website": "http://www.dorothea-look.de/",
+  "bookingUrl": "https://www.dorothea-look.de/schreiben-sie-uns-/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,44 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "mehr zur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Die Website im Netz"
+    }
+  ],
+  "images": [
+    "https://d078e91a52.clvaw-cdnwnd.com/1168208794d6e93b313389dcc2cbd061/200000160-dd623df564/50000000.jpg?ph=d078e91a52",
+    "https://www.therapeutenkatalog.de/images_siegel_certified_id/therapeutenkatalog_zertifikat_id-0000-3696.gif",
+    "https://d078e91a52.clvaw-cdnwnd.com/1168208794d6e93b313389dcc2cbd061/200000214-44bc246af8/branchenbuch_christel.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Praxis Dorothea Look an?",
+      "answer": "Die Praxis Dorothea Look bietet klassische Homöopathie, Ernährungsberatung, Schematherapie, psychosoziale Gespräche, Massage und Fußreflexzonentherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Dorothea Look?",
+      "answer": "Die Praxis befindet sich in der Bürknerstraße 7, 12047 Berlin, Neukölln."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Dorothea Look vereinbaren?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen, indem Sie den folgenden Link nutzen: https://www.dorothea-look.de/schreiben-sie-uns-/."
+    },
+    {
+      "question": "Welche Zielgruppe spricht die Praxis an?",
+      "answer": "Die Praxis richtet sich an Personen mit chronischen Beschwerden, Menschen, die ihre Gesundheit pflegen möchten, sowie Eltern, die eine schonende Heilmethode für ihre Kinder suchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgQHJjLVPqEcRE6rXd0x1gCY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20
 }

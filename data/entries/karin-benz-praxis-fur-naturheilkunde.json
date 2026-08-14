@@ -3,7 +3,7 @@
   "slug": "karin-benz-praxis-fur-naturheilkunde",
   "name": "Karin Benz Praxis für Naturheilkunde",
   "description": "Karin Benz Praxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,6 +57,13 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.karin-benz-die-praxis.de/Bilder/Einfachheit_gross.gif",
+    "https://www.karin-benz-die-praxis.de/Bilder/KarinBenz.gif",
+    "https://www.karin-benz-die-praxis.de/Bilder/Heilpraktikerin.gif"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0IVGl5QqEcRuWcCEvCxrCQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

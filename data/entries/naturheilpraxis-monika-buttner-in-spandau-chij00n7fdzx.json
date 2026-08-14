@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-monika-buttner-in-spandau-chij00n7fdzx",
   "slug": "naturheilpraxis-monika-buttner-in-spandau-chij00n7fdzx",
   "name": "Naturheilpraxis Monika Büttner in Spandau",
-  "description": "Naturheilpraxis Monika Büttner in Spandau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Monika Büttner in Berlin-Spandau bietet individuelle naturheilkundliche Behandlungen an, die auf die einzigartigen Bedürfnisse jedes Patienten abgestimmt sind. Die Praxis legt großen Wert auf einen ganzheitlichen Ansatz zur Förderung von Gesundheit und Lebensfreude. Hierbei wird die Anpassungsfähigkeit des Körpers an wechselnde Gegebenheiten in den Mittelpunkt gestellt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01636927586",
   "email": "info@monikabuettner.de",
   "website": "https://monikabuettner.de/",
+  "bookingUrl": "https://www.etermin.net/%20%22Online%20Terminplaner%20und%20Online%20Terminbuchung.%20Testen%20Sie%20uns%2030%20Tage%20kostenlos!",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,47 @@
       "close": "18:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bewerten Sie unsere Dienstleistung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Gesundheit ganzheitlich"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine Angebote für mehr Gesundheit und Lebensfreude"
+    }
+  ],
+  "images": [
+    "https://monikabuettner.de/wp-content/uploads/go-x/u/13a7643d-91ac-48e0-98e6-0cd5bc418a13/l0,t79,w794,h794/image-768x768.jpg",
+    "https://monikabuettner.de/wp-content/uploads/go-x/u/44e19341-61aa-448c-aea1-cbd50333c5ba/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Monika Büttner?",
+      "answer": "Die Naturheilpraxis Monika Büttner befindet sich in der Breite Str. 49, 13597 Berlin, Spandau."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Sie können einen Termin online über den folgenden Link buchen: Online Terminbuchung."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Monika Büttner?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 08:00 bis 18:30 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Monika Büttner kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 01636927586 oder per E-Mail an info@monikabuettner.de kontaktieren."
+    },
+    {
+      "question": "Welche Zahlungsmethoden werden in der Naturheilpraxis akzeptiert?",
+      "answer": "In der Naturheilpraxis können Sie online, vor Ort oder per Rechnung bezahlen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ00n7FDZXqEcReyWfCEfXZPQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

@@ -2,8 +2,8 @@
   "id": "kathrin-schwarzkopf-heilpraktikerin",
   "slug": "kathrin-schwarzkopf-heilpraktikerin",
   "name": "kathrin schwarzkopf heilpraktikerin",
-  "description": "kathrin schwarzkopf heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kathrin Schwarzkopf ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin-Pankow, die sich auf Naturheilkunde spezialisiert hat. Ihr Therapieangebot umfasst verschiedene Methoden, darunter Stressregulation, Lebensenergie-Heilung und Sensitive Radionik. Darüber hinaus bietet sie Workshops und Seminare an, um das Wissen über alternative Heilmethoden zu erweitern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,68 @@
   },
   "phone": "01729295355",
   "website": "https://www.heilpraxis-schwarzkopf.de/kontakt/",
+  "bookingUrl": "https://www.heilpraxis-schwarzkopf.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapieangebot"
+    },
+    {
+      "id": "offer-2",
+      "name": "Empfehlungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine Behandlungsschwerpunkte"
+    },
+    {
+      "id": "offer-4",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-5",
+      "name": "Stressregulation"
+    },
+    {
+      "id": "offer-6",
+      "name": "Lebensenergie-Heilung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ernährungstyp-Beratung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Heilgymastik"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=180x10000:format=jpg/path/sa7216ed1ef7e7a00/image/i2b6f9271a01e1231/version/1732805521/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Kathrin Schwarzkopf?",
+      "answer": "Die Praxis von Kathrin Schwarzkopf befindet sich in der Heilpraxen an der Schönhauser Allee, 10439 Berlin."
+    },
+    {
+      "question": "Welche Therapieangebote bietet Kathrin Schwarzkopf an?",
+      "answer": "Kathrin Schwarzkopf bietet verschiedene Therapieangebote an, darunter Naturheilkunde, Stressregulation, Lebensenergie-Heilung, Sensitive Radionik, Ernährungstyp-Beratung und Heilgymnastik."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Kathrin Schwarzkopf buchen?",
+      "answer": "Sie können einen Termin bei Kathrin Schwarzkopf über die Webseite buchen, indem Sie das Kontaktformular auf https://www.heilpraxis-schwarzkopf.de/kontakt/ ausfüllen."
+    },
+    {
+      "question": "Wie kann ich Kathrin Schwarzkopf kontaktieren?",
+      "answer": "Sie können Kathrin Schwarzkopf telefonisch unter 01729295355 oder über das Kontaktformular auf ihrer Webseite kontaktieren."
+    },
+    {
+      "question": "Bietet Kathrin Schwarzkopf auch Workshops oder Seminare an?",
+      "answer": "Ja, Kathrin Schwarzkopf bietet Workshops und Seminare an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCQzQVSqEcRsea6iF5iBps",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 3
 }

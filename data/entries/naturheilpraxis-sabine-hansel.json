@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-sabine-hansel",
   "slug": "naturheilpraxis-sabine-hansel",
   "name": "Naturheilpraxis Sabine Hansel",
-  "description": "Naturheilpraxis Sabine Hansel ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Sabine Hansel befindet sich in Berlin-Kreuzberg und bietet eine Vielzahl von naturheilkundlichen Therapien an. Zu den Schwerpunkten gehören die Liebscher und Bracht Therapie, Ohrakupunktur sowie Fußreflexzonentherapie. Ziel der Praxis ist es, Patienten bei der Linderung von Schmerzen und der Wiederherstellung ihrer Lebensqualität zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,66 @@
   },
   "phone": "017634443686",
   "website": "http://www.schmerzfrei-sein-berlin.de/",
+  "bookingUrl": "mailto:kontakt@schmerzfrei-sein-berlin.de \"kontakt@schmerzfrei-sein-berlin.de",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kleiner Stich - Große Wirkung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlungsablauf"
+    },
+    {
+      "id": "offer-4",
+      "name": "AnwendungsMÖGLICHKEITEN"
+    },
+    {
+      "id": "offer-5",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Liebscher und Bracht Therapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Fußreflexzonen- therapie"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/i929675157b9b76ea/version/1534062402/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/i3df7217767ae9e18/version/1534062109/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/id1c334e9c8261bcb/version/1534062215/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Sabine Hansel?",
+      "answer": "Die Naturheilpraxis Sabine Hansel befindet sich in der Am Tempelhofer Berg 7d, 10965 Berlin-Kreuzberg."
+    },
+    {
+      "question": "Welche Therapieangebote bietet die Praxis an?",
+      "answer": "Die Praxis bietet unter anderem Ohrakupunktur, Liebscher und Bracht Therapie sowie Fußreflexzonentherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis telefonisch unter 017634443686 kontaktieren oder eine E-Mail an kontakt@schmerzfrei-sein-berlin.de senden."
+    },
+    {
+      "question": "Gibt es regelmäßige Informationsveranstaltungen in der Praxis?",
+      "answer": "Ja, es finden nahezu monatlich kostenlose Informationsveranstaltungen zur Liebscher & Bracht Schmerztherapie statt."
+    },
+    {
+      "question": "Wie kann ich mehr Informationen über die angebotenen Therapien erhalten?",
+      "answer": "Für mehr Informationen über die angebotenen Therapien können Sie die Website der Praxis unter http://www.schmerzfrei-sein-berlin.de/ besuchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzwBXWTpRqEcRNoo2gX0bGrU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

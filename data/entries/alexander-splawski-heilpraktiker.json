@@ -2,8 +2,8 @@
   "id": "alexander-splawski-heilpraktiker",
   "slug": "alexander-splawski-heilpraktiker",
   "name": "Alexander Splawski Heilpraktiker",
-  "description": "Alexander Splawski Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Alexander Splawski ist ein erfahrener Heilpraktiker mit eigener Naturheilpraxis in Berlin-Charlottenburg seit 1987. Er bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Chiro-Wirbelsäulentherapie, Massagen, Eigenbluttherapie, Sauerstoff-Ozon-Kuren und Raucherentwöhnung. Seine Ausbildung absolvierte er an einer Schule des größten deutschen Heilpraktikerverbandes, gefolgt von zweijähriger Assistenz in verschiedenen Naturheilpraxen. Für persönliche Gespräche steht er seinen Patienten gerne zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,36 @@
   },
   "phone": "0308825678",
   "website": "http://www.naturheilpraxis-splawski.de/",
+  "bookingUrl": "http://www.naturheilpraxis-splawski.de/sites/kontakt.htm",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.naturheilpraxis-splawski.de/images/linie-gruen23.gif",
+    "http://www.naturheilpraxis-splawski.de/images/alx-bild1.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Alexander Splawski?",
+      "answer": "Die Naturheilpraxis von Alexander Splawski befindet sich in der Bleibtreustraße 8-9, 10623 Berlin - Charlottenburg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Alexander Splawski buchen?",
+      "answer": "Sie können einen Termin bei Alexander Splawski über die Buchungsseite auf seiner Website buchen: http://www.naturheilpraxis-splawski.de/sites/kontakt.htm."
+    },
+    {
+      "question": "Welche Therapie-Schwerpunkte bietet Alexander Splawski an?",
+      "answer": "Alexander Splawski bietet unter anderem Chiro-Wirbelsäulentherapie, Massagen, Eigenbluttherapie, Sauerstoff-Ozon-Kuren und Raucherentwöhnung an."
+    },
+    {
+      "question": "Wie kann ich Alexander Splawski telefonisch erreichen?",
+      "answer": "Sie können Alexander Splawski unter der Telefonnummer 030 / 882 5678 erreichen."
+    },
+    {
+      "question": "Hat die Naturheilpraxis von Alexander Splawski Öffnungszeiten?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD_fPaeNQqEcRiKfz3FTW1j8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

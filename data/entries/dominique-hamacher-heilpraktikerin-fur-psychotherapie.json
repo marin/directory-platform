@@ -3,7 +3,7 @@
   "slug": "dominique-hamacher-heilpraktikerin-fur-psychotherapie",
   "name": "Dominique Hamacher Heilpraktikerin für Psychotherapie",
   "description": "Dominique Hamacher Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -64,7 +64,19 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Coaching in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ablauf eines persönlichen Coachings"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ29fRrYpRqEcRdHi40rx5AOE",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 8
 }

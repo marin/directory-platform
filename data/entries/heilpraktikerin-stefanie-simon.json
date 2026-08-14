@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-stefanie-simon",
   "slug": "heilpraktikerin-stefanie-simon",
   "name": "heilpraktikerin stefanie simon",
-  "description": "heilpraktikerin stefanie simon ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Stefanie Simon bietet in ihrer Praxis in Berlin-Reinickendorf eine ganzheitliche und individuelle Begleitung auf dem Weg zur Gesundheit an. Nach ihrer Ausbildung im Institut von Hanne Edling und der Prüfung zur Heilpraktikerin im Jahr 2005 hat sie sich in verschiedenen Bereichen, darunter klassische Homöopathie und Reflexzonentherapie, fortgebildet. Seit 2016 ergänzt der Vegatest ihr Angebot, um die Selbstheilungskräfte des Körpers zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,6 +53,28 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilpraktikerin-simon.de/assets/images/8/steffi-2024-4fdee730.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Stefanie Simon?",
+      "answer": "Die Praxis von Heilpraktikerin Stefanie Simon befindet sich in der Gollanczstraße 37 B, 13465 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Stefanie Simon kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Stefanie Simon telefonisch unter 03040605416 oder per E-Mail an info@heilpraktikerin-simon.de kontaktieren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 10:00 bis 20:00 Uhr, Dienstag bis Freitag von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Stefanie Simon an?",
+      "answer": "Heilpraktikerin Stefanie Simon bietet unter anderem klassische Homöopathie, Reflexzonentherapie und den Vegatest an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1YQJNclUqEcRfWpfQh3xyMo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

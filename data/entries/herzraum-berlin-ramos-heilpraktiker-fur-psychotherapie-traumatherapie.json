@@ -3,7 +3,7 @@
   "slug": "herzraum-berlin-ramos-heilpraktiker-fur-psychotherapie-traumatherapie",
   "name": "Herzraum Berlin - Ramos - Heilpraktiker für Psychotherapie - Traumatherapie",
   "description": "Herzraum Berlin - Ramos - Heilpraktiker für Psychotherapie - Traumatherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -28,6 +28,11 @@
   "bookingUrl": "https://herzraum.de/online-terminbuchung",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://herzraum.de/wp-content/uploads/2018/08/ramos_kreis-750x350.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc7afawFPqEcRIe5oy5clHrI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-anja-kayser",
   "slug": "heilpraktikerin-anja-kayser",
   "name": "Heilpraktikerin Anja Kayser",
-  "description": "Heilpraktikerin Anja Kayser ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Anja Kayser in Berlin Zehlendorf bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Traumaarbeit, Craniosacrale Körperarbeit und Familienaufstellungen. Ihr Ansatz zielt darauf ab, verborgene Emotionen zu erkennen und zu transformieren, um Lebensfreude und innere Stabilität zu fördern. In einer einfühlsamen Atmosphäre unterstützt sie ihre Klienten dabei, ihre individuellen Herausforderungen zu bewältigen und ein erfülltes Leben zu führen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,54 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Traumaarbeit, Craniosacrale Körperarbeit und Familienaufstellung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Traumaarbeit"
+    },
+    {
+      "id": "offer-3",
+      "name": "Familienaufstellung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Craniosacrale Körperarbeit"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=307x10000:format=jpg/path/s347c9c0d9ce8743e/image/ie14b9e0b28e78727/version/1636567402/heilpraxis-anja-kayser.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i834239708e0d7e2f/version/1634978546/traumaarbeit-anja-kayser-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i1a580c7ac9cf4a03/version/1634978562/familienaufstellung-anja-kayser-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i3282a0fc0ed55270/version/1634978596/craniosacrale-koerperarbeit-anja-kayser-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s347c9c0d9ce8743e/backgroundarea/idea8a24272e50255/version/1634988840/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktikerin Anja Kayser an?",
+      "answer": "Heilpraktikerin Anja Kayser bietet Traumaarbeit, Craniosacrale Körperarbeit und Familienaufstellung an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Anja Kayser?",
+      "answer": "Die Praxis von Anja Kayser befindet sich in der Onkel-Tom-Straße 3a, 14169 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 09:00 bis 18:00, Dienstag von 10:00 bis 20:00, Mittwoch von 08:00 bis 16:00, Donnerstag von 12:00 bis 20:00 und Freitag von 10:00 bis 18:00."
+    },
+    {
+      "question": "Wie kann ich Anja Kayser kontaktieren?",
+      "answer": "Sie können Anja Kayser telefonisch unter 01723853623 oder über ihre Website http://www.kayseranja.de/ kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Traumaarbeit bei Anja Kayser?",
+      "answer": "Das Ziel der Traumaarbeit bei Anja Kayser ist es, überwältigende Erlebnisse zu erlösen und zu transformieren, sodass Gefühle von Geborgenheit und Sicherheit verankert werden und Lebensfreude zurückkehrt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Wpt79tbqEcRxGBLpbL1cYk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

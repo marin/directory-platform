@@ -2,8 +2,8 @@
   "id": "liebscher-und-bracht-schmerztherapie-sabrina-braun-chijveg2yqvj",
   "slug": "liebscher-und-bracht-schmerztherapie-sabrina-braun-chijveg2yqvj",
   "name": "Liebscher und Bracht - Schmerztherapie Sabrina Braun",
-  "description": "Liebscher und Bracht - Schmerztherapie Sabrina Braun ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Sabrina Braun in Berlin-Friedrichshagen bietet die zertifizierte Liebscher & Bracht Therapeutin individuelle Schmerztherapien und ganzheitliche Behandlungen an. Die Praxis legt Wert auf fundierte Beratung und nimmt sich Zeit für die Bedürfnisse ihrer Patienten. Neben der Schmerztherapie werden auch verschiedene naturheilkundliche Methoden wie Heilmassagen, Lymphdrainage und Neuraltherapie angeboten, um die Gesundheit und das Wohlbefinden der Klienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,6 +26,7 @@
   "phone": "01722402707",
   "email": "heilpraxis-sabrinabraun@gmx.de",
   "website": "https://naturheilpraxis-sabrinabraun.de/",
+  "bookingUrl": "https://naturheilpraxis-sabrinabraun.de/kontakt/#naturheil-formular%20%22Jetzt%20Termin%20vereinbaren",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,106 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihre Gesundheit in guten Händen"
+    },
+    {
+      "id": "offer-2",
+      "name": "3 Gründe, die unsere Naturheilpraxis ausmachen."
+    },
+    {
+      "id": "offer-3",
+      "name": "Wir nehmen uns Zeit für Sie."
+    },
+    {
+      "id": "offer-4",
+      "name": "Fundierte Beratung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ganzheitliche Therapien"
+    },
+    {
+      "id": "offer-6",
+      "name": "Die Philosophie der Naturheilpraxis Sabrina Braun"
+    },
+    {
+      "id": "offer-7",
+      "name": "Liebscher & Bracht"
+    },
+    {
+      "id": "offer-8",
+      "name": "Osteopressur"
+    },
+    {
+      "id": "offer-9",
+      "name": "Engpassdehnung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Weitere Therapieangebote"
+    },
+    {
+      "id": "offer-11",
+      "name": "Unser Therapieangebot in der Naturheilpraxis"
+    },
+    {
+      "id": "offer-12",
+      "name": "Heilmassagen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Lymphdrainage"
+    },
+    {
+      "id": "offer-14",
+      "name": "Vitamin-C-Hochdosis-Therapie"
+    },
+    {
+      "id": "offer-15",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Neuraltherapie"
+    },
+    {
+      "id": "offer-17",
+      "name": "Ohr-Akupunktur"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/KayH20221122-_P2A9974-1-scaled-circle.jpg",
+    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/IMG_1530-landscape.jpg",
+    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/IMG_1531-scaled-landscape.jpg",
+    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/2022/03/Heilmassagen-scaled.webp",
+    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/2022/04/AdobeStock_148825025-scaled.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Sabrina Braun an?",
+      "answer": "Die Naturheilpraxis Sabrina Braun bietet eine Vielzahl von Therapien an, darunter Osteopressur, Engpassdehnung, Heilmassagen, Lymphdrainage, Vitamin-C-Hochdosis-Therapie, Schröpfen, Neuraltherapie, Gua Sha und Ohr-Akupunktur."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Sabrina Braun über die Website buchen. Besuchen Sie dazu den Link: https://naturheilpraxis-sabrinabraun.de/kontakt/#naturheil-formular und füllen Sie das Kontaktformular aus."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis geöffnet?",
+      "answer": "Die Naturheilpraxis Sabrina Braun hat von Montag bis Samstag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wie erreiche ich die Praxis telefonisch?",
+      "answer": "Sie können die Naturheilpraxis Sabrina Braun unter der Telefonnummer 01722402707 erreichen."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Sabrina Braun?",
+      "answer": "Die Naturheilpraxis befindet sich in Berlin, Weg zur Quelle 12, 12587 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJveG2YQVJqEcR828zsrHVNS0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

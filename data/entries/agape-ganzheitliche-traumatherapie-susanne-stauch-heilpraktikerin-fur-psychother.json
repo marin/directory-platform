@@ -2,8 +2,8 @@
   "id": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
   "slug": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
   "name": "AGAPE - ganzheitliche Traumatherapie, Susanne Stauch, Heilpraktikerin für Psychotherapie",
-  "description": "AGAPE - ganzheitliche Traumatherapie, Susanne Stauch, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "If it is your first time with me, please book a 20 minute free video call so we can clarify how I can support you best. Our first session lasts 100 minutes with getting to know each other, initial interview, planning the therapy and other formalities. If there is enough time, I will give a first introduction to an intervention.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -47,6 +47,15 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://agape.supernova.institute/wp-content/uploads/sites/7/2024/08/stauch_agape-238x300.jpg",
+    "https://agape.supernova.institute/wp-content/uploads/2023/08/Susa_Agape_Drum_web.jpg",
+    "https://agape.supernova.institute/wp-content/uploads/2025/04/agape-full-logo.png",
+    "https://agape.supernova.institute/wp-content/uploads/2023/07/heartmind-icon.svg",
+    "https://agape.supernova.institute/wp-content/uploads/2023/07/spiritmind-icon.svg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPV0qK8tPqEcRjL_RNVyYHvw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

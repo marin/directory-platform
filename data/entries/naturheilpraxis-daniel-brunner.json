@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-daniel-brunner",
   "slug": "naturheilpraxis-daniel-brunner",
   "name": "Naturheilpraxis Daniel Brunner",
-  "description": "Naturheilpraxis Daniel Brunner ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Daniel Brunner in Berlin-Moabit bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, TCM und spezielle Verfahren wie Dry Needling und Mikrostromtherapie. Der Heilpraktiker Daniel Brunner ist auf die Behandlung chronischer Schmerzen und funktioneller Störungen spezialisiert und verfolgt einen evidenzorientierten Ansatz, der die Naturheilkunde als sinnvolle Ergänzung zur westlichen Medizin versteht. In ruhiger Atmosphäre werden individuelle Therapieansätze entwickelt, um das Wohlbefinden der Patienten nachhaltig zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   "phone": "015151113146",
   "email": "info@hp-brunner.de",
   "website": "https://www.hp-brunner.de/",
+  "bookingUrl": "https://www.hp-brunner.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,216 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Verfahren für Ihre Gesundheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akupunktur \\ Ohrakupunktur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Stress und Schlafstörungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Verdauungsprobleme"
+    },
+    {
+      "id": "offer-5",
+      "name": "Allergien und Asthma"
+    },
+    {
+      "id": "offer-6",
+      "name": "Menstruationsbeschwerden"
+    },
+    {
+      "id": "offer-7",
+      "name": "Traditionelle Chinesische Medizin"
+    },
+    {
+      "id": "offer-8",
+      "name": "Innere Medizin und Verdauung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Immunschwäche"
+    },
+    {
+      "id": "offer-10",
+      "name": "Tinnitus und Schwindel"
+    },
+    {
+      "id": "offer-11",
+      "name": "Akute und chronische Schmerzen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Muskelverspannungen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Gelenkschmerzen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Migräne und Kopfschmerzen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Sportverletzungen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Kopfschmerzen und Migräne"
+    },
+    {
+      "id": "offer-17",
+      "name": "Extremitätenschmerzen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Hüft- und Gesäßschmerzen"
+    },
+    {
+      "id": "offer-19",
+      "name": "Mykotherapie"
+    },
+    {
+      "id": "offer-20",
+      "name": "Unterstützung des Immunsystems"
+    },
+    {
+      "id": "offer-21",
+      "name": "Begleitende Krebstherapie"
+    },
+    {
+      "id": "offer-22",
+      "name": "Stress und Erschöpfung"
+    },
+    {
+      "id": "offer-23",
+      "name": "Stoffwechselerkrankungen"
+    },
+    {
+      "id": "offer-24",
+      "name": "Blutegeltherapie"
+    },
+    {
+      "id": "offer-25",
+      "name": "gewebsentspannend"
+    },
+    {
+      "id": "offer-26",
+      "name": "gefäßerweiternd"
+    },
+    {
+      "id": "offer-27",
+      "name": "schmerzstillend"
+    },
+    {
+      "id": "offer-28",
+      "name": "lymphabflussanregend"
+    },
+    {
+      "id": "offer-29",
+      "name": "blutgerinnselauflösend"
+    },
+    {
+      "id": "offer-30",
+      "name": "Vitamin-C-Infusion"
+    },
+    {
+      "id": "offer-31",
+      "name": "Geweberegeneration und Wundheilung"
+    },
+    {
+      "id": "offer-32",
+      "name": "Reduktion von Fatigue"
+    },
+    {
+      "id": "offer-33",
+      "name": "Hautgesundheit"
+    },
+    {
+      "id": "offer-34",
+      "name": "Natürliche Wege zu mehr Gesundheit und Lebensqualität"
+    },
+    {
+      "id": "offer-35",
+      "name": "Individuelle Beratung für Ihre Beschwerden"
+    },
+    {
+      "id": "offer-36",
+      "name": "So läuft Ihre Behandlung ab – Schritt für Schritt"
+    },
+    {
+      "id": "offer-37",
+      "name": "2️⃣ Diagnose und Behandlungsplan"
+    },
+    {
+      "id": "offer-38",
+      "name": "3️⃣ Nachbesprechung und Empfehlungen"
+    },
+    {
+      "id": "offer-39",
+      "name": "4️⃣ Nachhaltige Begleitung"
+    },
+    {
+      "id": "offer-40",
+      "name": "Ihr Wohlbefinden im Mittelpunkt."
+    },
+    {
+      "id": "offer-41",
+      "name": "Erfahrungsberichte aus meiner Praxis"
+    },
+    {
+      "id": "offer-42",
+      "name": "Forschung, Ergebnisse und Erkenntnisse"
+    },
+    {
+      "id": "offer-43",
+      "name": "Akupunktur in der Augenheilkunde"
+    },
+    {
+      "id": "offer-44",
+      "name": "Naturheilkunde bei Hypothyreose"
+    },
+    {
+      "id": "offer-45",
+      "name": "Akupunktur bei trockener AMD"
+    },
+    {
+      "id": "offer-46",
+      "name": "Reishi in der Krebsbehandlung"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Naturheilpraxis Daniel Brunner an?",
+      "answer": "Die Naturheilpraxis Daniel Brunner bietet verschiedene Behandlungsmethoden an, darunter Akupunktur, Ohrakupunktur, Dry Needling, Blutegeltherapie, Mikrostromtherapie, Magnetfeldtherapie, Mykotherapie (Heilpilze), Kräutermedizin (Phytotherapie) und Bachblütentherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Daniel Brunner telefonisch unter 015151113146, per E-Mail an info@hp-brunner.de oder über das Online-Buchungssystem auf der Website https://www.hp-brunner.de/kontakt vereinbaren."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Daniel Brunner geöffnet?",
+      "answer": "Die Naturheilpraxis Daniel Brunner hat von Montag bis Freitag jeweils von 09:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Daniel Brunner?",
+      "answer": "Die Naturheilpraxis Daniel Brunner befindet sich in der Siemensstraße 6, 10551 Berlin."
+    },
+    {
+      "question": "Welche Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Naturheilpraxis Daniel Brunner werden verschiedene Beschwerden behandelt, darunter chronische Schmerzen, Stress und Schlafstörungen, Verdauungsprobleme, Allergien und Asthma, Menstruationsbeschwerden sowie Tinnitus und Schwindel."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtVPWui1RqEcR8Bl-wfEHVhI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 36
 }

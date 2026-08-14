@@ -2,8 +2,8 @@
   "id": "daniela-draeger-heilpraktikerin",
   "slug": "daniela-draeger-heilpraktikerin",
   "name": "Daniela Draeger Heilpraktikerin",
-  "description": "Daniela Draeger Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Daniela Draeger ist eine erfahrene Heilpraktikerin mit Sitz in Berlin-Lichterfelde, die sich auf die Rückengesundheit spezialisiert hat. In ihrer Praxis bietet sie eine Vielzahl von naturheilkundlichen Therapien an, darunter BEMER®, Faszienbehandlungen, K-Taping®-Therapie sowie Ohrakupunktur und Wirbelsäulentherapie nach Dorn. Ihr ganzheitlicher Ansatz zielt darauf ab, Patienten individuell zu unterstützen und ihnen zu helfen, sich wieder schmerzfrei und beweglich zu fühlen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,100 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "BEMER®"
+    },
+    {
+      "id": "offer-2",
+      "name": "Faszienbehandlung"
+    },
+    {
+      "id": "offer-3",
+      "name": "K-Taping®-Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kontraindikationen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Noch nicht verheilte Narben"
+    },
+    {
+      "id": "offer-6",
+      "name": "Akute Neurodermitis/Psoriasis"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Schröpfen / Schröpfmassage"
+    },
+    {
+      "id": "offer-9",
+      "name": "Shendo® Shiatsu"
+    },
+    {
+      "id": "offer-10",
+      "name": "Wirbelsäulentherapie nach Dorn"
+    },
+    {
+      "id": "offer-11",
+      "name": "Yogatherapie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Kurse"
+    },
+    {
+      "id": "offer-13",
+      "name": "Stimmen einiger Teilnehmerinnen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Firmen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-16",
+      "name": "Reisen"
+    }
+  ],
+  "images": [
+    "https://daniela-draeger.de/wp-content/uploads/2025/06/Rosa-Kreis-Formen-Muttertag-Femme-Influencer-Instagram-Story-576x1024.jpg",
+    "https://daniela-draeger.de/wp-content/uploads/2021/05/Yoga-Praev-576x1024.jpg",
+    "https://daniela-draeger.de/wp-content/uploads/2025/09/Rosa-Kreis-Formen-Muttertag-Femme-Influencer-Instagram-Story1-576x1024.jpg",
+    "https://daniela-draeger.de/wp-content/uploads/2021/05/Shiatsu-Elemente-576x1024.png",
+    "https://daniela-draeger.de/wp-content/uploads/2026/01/Ruecken-akut-576x1024.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Daniela Draeger an?",
+      "answer": "Daniela Draeger bietet verschiedene Therapien an, darunter BEMER®, Faszienbehandlung, K-Taping®-Therapie, Ohrakupunktur, Schröpfen / Schröpfmassage, Shendo® Shiatsu und Wirbelsäulentherapie nach Dorn."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Daniela Draeger buchen?",
+      "answer": "Sie können einen Termin bei Daniela Draeger über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Praxis von Daniela Draeger geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Daniela Draeger?",
+      "answer": "Die Praxis befindet sich in Berlin, Kranoldplatz 1A, 12209 Berlin."
+    },
+    {
+      "question": "Wie kann ich Daniela Draeger kontaktieren?",
+      "answer": "Sie können Daniela Draeger telefonisch unter 03076289899 oder per E-Mail an mail@daniela-draeger.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGc_UTlBFqEcRpDOWegj3kgc"
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-am-ufer-shima-saeedi",
   "slug": "naturheilpraxis-am-ufer-shima-saeedi",
   "name": "Naturheilpraxis am Ufer : Shima Saeedi",
-  "description": "Naturheilpraxis am Ufer : Shima Saeedi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis am Ufer in Berlin-Kreuzberg bietet Shima Saeedi, eine erfahrene Heilpraktikerin mit Schwerpunkt auf Akupunktur, individuelle Behandlungen an. Die Praxis legt Wert auf eine umfassende Anamnese, die durch chinesische Zungen- und Pulsdiagnose ergänzt wird. Die Behandlungen können in Deutsch, Englisch oder Farsi durchgeführt werden und richten sich nach den Bedürfnissen der Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -33,7 +33,44 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlungsablauf"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxisadresse"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kreuzberg"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis am Ufer an?",
+      "answer": "Die Naturheilpraxis am Ufer unter der Leitung von Shima Saeedi bietet Behandlungen mit Schwerpunkt auf Akupunktur und Traditioneller Chinesischer Medizin (TCM) an."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin direkt über die Website Doctolib buchen oder Sie kontaktieren Shima Saeedi per E-Mail unter contact@shimasaeedi.de oder telefonisch unter 015736627724."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat am Freitag von 13:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis am Ufer?",
+      "answer": "Die Naturheilpraxis am Ufer befindet sich in der Lausitzer Straße 26A, 10999 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "In welchen Sprachen können die Gespräche geführt werden?",
+      "answer": "Die Gespräche können auf Deutsch, Englisch oder Farsi geführt werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOzAocLVPqEcRE5EFIQ4PukM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21
 }

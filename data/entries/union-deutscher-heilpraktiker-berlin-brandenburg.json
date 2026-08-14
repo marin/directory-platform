@@ -2,8 +2,8 @@
   "id": "union-deutscher-heilpraktiker-berlin-brandenburg",
   "slug": "union-deutscher-heilpraktiker-berlin-brandenburg",
   "name": "Union Deutscher Heilpraktiker Berlin-Brandenburg",
-  "description": "Union Deutscher Heilpraktiker Berlin-Brandenburg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Union Deutscher Heilpraktiker Berlin-Brandenburg ist ein Landesverband, der als Ansprechpartner für Heilpraktiker in den neuen Bundesländern fungiert. Die Praxis befindet sich in der Knesebeckstraße 27 in Berlin-Charlottenburg. Ziel des Verbandes ist es, die Mitglieder in ihrer beruflichen Entwicklung zu unterstützen und aktuelle Informationen aus der Naturheilkunde bereitzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,62 @@
   "phone": "03312010958",
   "email": "kontakt@udh-ost.de",
   "website": "https://udh-ost.de/",
+  "bookingUrl": "http://udh-ost.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Empfangen • Bewahren • Lindern • Heilen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mitglied werden"
+    },
+    {
+      "id": "offer-3",
+      "name": "Vorstand"
+    },
+    {
+      "id": "offer-4",
+      "name": "1\\. Vorsitzender Frank Haseloff"
+    },
+    {
+      "id": "offer-5",
+      "name": "2\\. Vorsitzende Angela Käßner"
+    },
+    {
+      "id": "offer-6",
+      "name": "Verschaffen Sie sich einen Überblick über die aktuellsten Berichte/Nachrichten"
+    },
+    {
+      "id": "offer-7",
+      "name": "Neue Webpräsenz unter www.udh-ost.de"
+    }
+  ],
+  "images": [
+    "https://udh-ost.de/wp-content/uploads/2023/07/Kachel-Verband.webp",
+    "https://udh-ost.de/wp-content/uploads/2023/07/kachel-news.webp",
+    "https://udh-ost.de/wp-content/uploads/2023/07/kachel-kontakt.webp",
+    "https://udh-ost.de/wp-content/uploads/2023/09/1680416841065-2.jpeg",
+    "https://udh-ost.de/wp-content/uploads/2023/09/UDH-Logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Union Deutscher Heilpraktiker Berlin-Brandenburg?",
+      "answer": "Die Union Deutscher Heilpraktiker Berlin-Brandenburg befindet sich in der Knesebeckstraße 27, 10623 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Union Deutscher Heilpraktiker Berlin-Brandenburg kontaktieren?",
+      "answer": "Sie können die Union Deutscher Heilpraktiker Berlin-Brandenburg telefonisch unter 03312010958 oder per E-Mail an kontakt@udh-ost.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Union Deutscher Heilpraktiker an?",
+      "answer": "Die Union Deutscher Heilpraktiker bietet unter anderem die Dienstleistungen 'Empfangen • Bewahren • Lindern • Heilen' sowie die Möglichkeit, Mitglied zu werden."
+    },
+    {
+      "question": "Wie kann ich Mitglied bei der Union Deutscher Heilpraktiker werden?",
+      "answer": "Um Mitglied zu werden, können Sie die entsprechende Seite auf der Website der Union Deutscher Heilpraktiker besuchen und den Anweisungen folgen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS8INYKVRqEcRp98UAESBxLM"
 }

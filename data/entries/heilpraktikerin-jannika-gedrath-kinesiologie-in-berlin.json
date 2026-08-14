@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-jannika-gedrath-kinesiologie-in-berlin",
   "slug": "heilpraktikerin-jannika-gedrath-kinesiologie-in-berlin",
   "name": "Heilpraktikerin Jannika Gedrath - Kinesiologie in Berlin",
-  "description": "Heilpraktikerin Jannika Gedrath - Kinesiologie in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Jannika Gedrath bietet in ihrer Praxis in Berlin Kinesiologie als ganzheitliche Methode zur Unterstützung bei körperlichen, psychischen und psychosomatischen Beschwerden an. Mit über 15 Jahren Erfahrung begleitet sie ihre Klienten auf dem Weg zu mehr Selbstbestimmung und innerer Stärke. Die Behandlung erfolgt individuell und orientiert sich an den persönlichen Zielen der Patienten, wobei auch der kinesiologische Allergietest Teil des Angebots ist.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,6 +52,34 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://jannika-gedrath.de/wp-content/uploads/2019/06/Portrait_Jannika-200x300.jpg",
+    "http://jannika-gedrath.de/wp-content/uploads/2019/05/Gespr%C3%A4chsecke-1024x683.jpg",
+    "http://jannika-gedrath.de/wp-content/uploads/2019/05/Behandlungsraum-1-1024x683.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Jannika Gedrath an?",
+      "answer": "Heilpraktikerin Jannika Gedrath bietet Kinesiologie als Behandlungsmethode an, die bei körperlichen, psychischen oder psychosomatischen Beschwerden eingesetzt wird."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jannika Gedrath?",
+      "answer": "Die Praxis von Jannika Gedrath befindet sich in der Tegeler Str. 38, 13353 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Jannika Gedrath vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03028612500 vereinbaren."
+    },
+    {
+      "question": "Wer kann die Angebote von Jannika Gedrath nutzen?",
+      "answer": "Das Angebot von Jannika Gedrath richtet sich an Personen mit körperlichen, psychischen oder psychosomatischen Beschwerden sowie an Menschen, die ihre muskuläre Leistungsfähigkeit stärken möchten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvzeOSC5RqEcRMk3p4nx1lRU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

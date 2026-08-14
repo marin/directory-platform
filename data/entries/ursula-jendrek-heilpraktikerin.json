@@ -2,8 +2,8 @@
   "id": "ursula-jendrek-heilpraktikerin",
   "slug": "ursula-jendrek-heilpraktikerin",
   "name": "Ursula Jendrek, Heilpraktikerin",
-  "description": "Ursula Jendrek, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Ursula Jendrek ist eine erfahrene Heilpraktikerin mit einer Naturheilpraxis im Kräuterlab in Berlin-Spandau. Sie bietet klassische Homöopathie für Kinder und Erwachsene an und legt großen Wert auf individuelle Behandlungsansätze. Ihre Praxis befindet sich in der Jacobsenweg 56, 13509 Berlin.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,40 @@
   "email": "info@homoeopathie-berlin-praxis.de",
   "website": "http://www.homoeopathie-berlin-praxis.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis Ursula Jendrek"
+    },
+    {
+      "id": "offer-2",
+      "name": "Klassische Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "für Kinder und Erwachsene"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/11062b_808b40c463104f22943c284c625d31c3f000.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_808b40c463104f22943c284c625d31c3f000.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Ursula Jendrek?",
+      "answer": "Die Naturheilpraxis von Ursula Jendrek befindet sich im Jacobsenweg 56, 13509 Berlin, Spandau."
+    },
+    {
+      "question": "Welche Behandlungen bietet Ursula Jendrek an?",
+      "answer": "Ursula Jendrek bietet klassische Homöopathie für Kinder und Erwachsene an."
+    },
+    {
+      "question": "Wie kann ich Ursula Jendrek kontaktieren?",
+      "answer": "Sie können Ursula Jendrek telefonisch unter 033056224355 oder per E-Mail an info@homoeopathie-berlin-praxis.de kontaktieren."
+    },
+    {
+      "question": "Hat die Praxis von Ursula Jendrek spezielle Öffnungszeiten?",
+      "answer": "Im Moment sind keine Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5ayaptpUqEcRcgF4LvR3FhU"
 }

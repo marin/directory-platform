@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-natalia-spurman",
   "slug": "heilpraktikerin-fur-psychotherapie-natalia-spurman",
   "name": "Heilpraktikerin für Psychotherapie, Natalia Spurman",
-  "description": "Heilpraktikerin für Psychotherapie, Natalia Spurman ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin für Psychotherapie Natalia Spurman bietet in ihrer Praxis in Berlin-Prenzlauer Berg individuelle psychotherapeutische Begleitung und systemische Aufstellungsarbeit an. In einem ruhigen und vertraulichen Raum unterstützt sie ihre Klienten bei der Bewältigung von emotionalen Herausforderungen und persönlichen Themen. Die Sitzungen werden auf Deutsch und Russisch angeboten, wobei kurzfristige Termine ohne lange Wartezeiten möglich sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -63,7 +63,137 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Einzelsitzung, verlängert 90 Min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einzelsitzung, intensiv 120 Min",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 160,
+      "priceLabel": "160 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "statt 270 €",
+      "price": 243,
+      "priceLabel": "243 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "statt 450 €",
+      "price": 382.5,
+      "priceLabel": "382,50 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "statt 900 €",
+      "price": 720,
+      "priceLabel": "720 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "5,0 von 5 Sternen bei Google"
+    },
+    {
+      "id": "offer-7",
+      "name": "Zwei Wege – und ein gemeinsamer Anfang"
+    },
+    {
+      "id": "offer-8",
+      "name": "Warum Menschen den Weg hierher finden"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schnell statt Warteliste"
+    },
+    {
+      "id": "offer-10",
+      "name": "Diskret & vertraulich"
+    },
+    {
+      "id": "offer-11",
+      "name": "Zweisprachig"
+    },
+    {
+      "id": "offer-12",
+      "name": "Geerdet"
+    },
+    {
+      "id": "offer-13",
+      "name": "Flexibel"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kombinierbar"
+    },
+    {
+      "id": "offer-15",
+      "name": "Die nächsten Seminare"
+    },
+    {
+      "id": "offer-16",
+      "name": "Symptomaufstellung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Gesunde Grenzen, Wachstum und Entwicklung"
+    },
+    {
+      "id": "offer-18",
+      "name": "Weibliche und männliche Seiten in mir"
+    },
+    {
+      "id": "offer-19",
+      "name": "Drei Schritte bis zum ersten Termin"
+    },
+    {
+      "id": "offer-20",
+      "name": "Kontakt aufnehmen"
+    },
+    {
+      "id": "offer-21",
+      "name": "Kennenlerngespräch"
+    },
+    {
+      "id": "offer-22",
+      "name": "Kurz beantwortet"
+    }
+  ],
+  "images": [
+    "https://spurman-psychotherapie.de/assets/img/natalia.jpg",
+    "https://spurman-psychotherapie.de/assets/img/natalia-2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Natalia Spurman an?",
+      "answer": "Natalia Spurman bietet Einzeltherapie, Familienaufstellungen im Einzelsetting sowie Tagesseminare an. Die Einzeltherapie umfasst Begleitung bei Ängsten, Stimmungstiefs, Stress und Erschöpfung, Ess-Themen, Suchtbegleitung und Beziehungsthemen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Natalia Spurman buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/natalia-spurman buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist täglich von Montag bis Sonntag von 08:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "In welchen Sprachen bietet Natalia Spurman ihre Sitzungen an?",
+      "answer": "Natalia Spurman bietet ihre Sitzungen auf Deutsch und Russisch an."
+    },
+    {
+      "question": "Wie viel kostet eine Einzelsitzung bei Natalia Spurman?",
+      "answer": "Eine Einzelsitzung (55 Minuten) kostet 90 €, eine verlängerte Sitzung (90 Minuten) kostet 120 € und eine intensive Sitzung (120 Minuten) kostet 160 €."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9_dNBwBSqEcRegcpdRr3U0I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

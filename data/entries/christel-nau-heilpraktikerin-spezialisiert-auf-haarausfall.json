@@ -2,8 +2,8 @@
   "id": "christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall",
   "slug": "christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall",
   "name": "Christel Nau - Heilpraktikerin, spezialisiert auf Haarausfall",
-  "description": "Christel Nau - Heilpraktikerin, spezialisiert auf Haarausfall ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Christel Nau ist eine erfahrene Heilpraktikerin in Berlin-Nikolassee, spezialisiert auf die Behandlung von Haarausfall. Sie bietet umfassende Informationen und individuelle Beratung für Betroffene, unabhängig von Geschlecht oder Altersgruppe. In ihrer Praxis erhalten Patienten wertvolle Hinweise zu möglichen Lösungen und Behandlungsansätzen, um gesunde, volle Haare zurückzugewinnen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,42 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "DAS Buch über Haarausfall"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/ib77f127c91e1dd2f/version/1646986515/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-androgenen-haarausfall.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/ief47340849103a89/version/1646986553/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-diffusen-haarausfall.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/i209ae23ba975f46b/version/1646986588/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-kreisrunden-haarausfall.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s800550f26ce9e0f9/backgroundarea/if05be4635bccd2b9/version/1654007992/image.png",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=209x1024:format=jpg/path/s800550f26ce9e0f9/image/i75ab3581393c8b55/version/1709713802/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche speziellen Behandlungen bietet Christel Nau für Haarausfall an?",
+      "answer": "Christel Nau bietet verschiedene Behandlungen für Haarausfall an, darunter Informationen über die Ursachen und Lösungen für androgenen, diffusen und kreisrunden Haarausfall."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Christel Nau vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie Christel Nau telefonisch unter 0170 / 559 33 67 kontaktieren oder eine E-Mail an info@heilpraxis-nau.de senden."
+    },
+    {
+      "question": "Wann hat die Praxis von Christel Nau geöffnet?",
+      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 10:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Christel Nau?",
+      "answer": "Die Praxis befindet sich in der Prinz-Friedrich-Leopold-Straße 25, 14129 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Gibt es ein Buch über Haarausfall, das von Christel Nau veröffentlicht wurde?",
+      "answer": "Ja, Christel Nau hat ein Buch mit dem Titel \"HAARAUSFALL - Ursachen und Lösungen auf der Spur\" veröffentlicht, das seit August 2023 erhältlich ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfCPBLhYqEcRgClKvlvebVw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

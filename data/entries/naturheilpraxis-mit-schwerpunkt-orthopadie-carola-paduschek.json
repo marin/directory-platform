@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-mit-schwerpunkt-orthopadie-carola-paduschek",
   "slug": "naturheilpraxis-mit-schwerpunkt-orthopadie-carola-paduschek",
   "name": "Naturheilpraxis mit Schwerpunkt Orthopädie - Carola Paduschek",
-  "description": "Naturheilpraxis mit Schwerpunkt Orthopädie - Carola Paduschek ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis von Carola Paduschek in Berlin-Pankow spezialisiert sich auf die Behandlung von orthopädischen Beschwerden, insbesondere Rückenschmerzen und deren funktionellen Ursachen. Durch eine Kombination aus chiropraktischen Techniken und modifizierter Neuraltherapie werden Verspannungen gelöst und die Beweglichkeit der Gelenke verbessert. Die Praxis nutzt sowohl schulmedizinische als auch fernöstliche Behandlungsmethoden, um eine nachhaltige Schmerzlinderung zu erreichen. Aktuell bleibt die Praxis aus gesundheitlichen Gründen geschlossen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -45,5 +45,29 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Carola Paduschek in ihrer Naturheilpraxis an?",
+      "answer": "Carola Paduschek bietet eine Kombination aus muskel- und bänderschonender Chiropraktik, modifizierter Neuraltherapie sowie Akupunktur an. Sie verwendet auch japanische Schädel-Akupunktur nach Dr. Toshikatsu Yamamoto, die besonders effizient bei Beschwerden des Bewegungsapparates ist."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis von Carola Paduschek geöffnet?",
+      "answer": "Die Praxis ist montags, mittwochs und freitags von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Carola Paduschek?",
+      "answer": "Die Praxis befindet sich in der Hufelandstraße 32, 10407 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich Carola Paduschek kontaktieren?",
+      "answer": "Sie können Carola Paduschek telefonisch unter 03040577360 oder per E-Mail an info@carola-paduschek.de kontaktieren."
+    },
+    {
+      "question": "Ist die Praxis derzeit geöffnet?",
+      "answer": "Die Praxis bleibt aus gesundheitlichen Gründen vorerst geschlossen. Interessierte können sich per E-Mail über den aktuellen Status zur Wiedereröffnung informieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc1F8cA5OqEcREXNUq-IGPfk",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 8
 }

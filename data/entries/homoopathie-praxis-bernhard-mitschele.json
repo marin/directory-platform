@@ -2,8 +2,8 @@
   "id": "homoopathie-praxis-bernhard-mitschele",
   "slug": "homoopathie-praxis-bernhard-mitschele",
   "name": "Homöopathie-Praxis Bernhard Mitschele",
-  "description": "Homöopathie-Praxis Bernhard Mitschele ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Homöopathie-Praxis Bernhard Mitschele befindet sich in Berlin-Mitte und bietet klassische Homöopathie sowie Ernährungsberatung an. In der Praxis stehen ein Besprechungsraum und die Möglichkeit für Direktkontakte zur Verfügung. Termine können nach telefonischer Vereinbarung vereinbart werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -63,7 +63,46 @@
       "close": "22:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Direktkontakt"
+    },
+    {
+      "id": "offer-2",
+      "name": "Besprechungsraum"
+    },
+    {
+      "id": "offer-3",
+      "name": "Beratungsgespräch"
+    }
+  ],
+  "images": [
+    "http://xn--homopathie-naturheilkunde-0rc.com/system/html/praxis_mitschele-003e0093.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Homöopathie-Praxis Bernhard Mitschele an?",
+      "answer": "Die Praxis bietet klassische Homöopathie, LM Potenzen und Ernährungsberatung an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Termine können nach telefonischer Vereinbarung unter der Telefonnummer 03091535510 vereinbart werden."
+    },
+    {
+      "question": "Wann hat die Homöopathie-Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Sonntag täglich von 08:00 bis 22:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Homöopathie-Praxis Bernhard Mitschele?",
+      "answer": "Die Praxis befindet sich in der Genter Str. 63, 13353 Berlin."
+    },
+    {
+      "question": "Gibt es eine Möglichkeit, online einen Termin zu buchen?",
+      "answer": "Ja, Termine können online über den folgenden Link gebucht werden: https://www.doctolib.de/heilpraktiker/berlin/bernhard-mitschele?utm_source=google-maps&utm_campaign=google-maps."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA0crCX5RqEcRx3kYNLY0BHI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

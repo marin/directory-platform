@@ -2,8 +2,8 @@
   "id": "klaus-gmach-heilpraktiker",
   "slug": "klaus-gmach-heilpraktiker",
   "name": "Klaus Gmach Heilpraktiker",
-  "description": "Klaus Gmach Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Klaus Gmach ist Heilpraktiker in Berlin und bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Massagen, chinesische Heilmassage (Tuina), Akupressur, Fußreflexzonen-Massagen, Akupunktur sowie Heilpflanzentherapie und Hypnose. In seiner Praxis in der Fichtestraße 31 können Klienten sowohl individuelle Gesundheitsmassagen als auch Firmenmassagen in Anspruch nehmen. Ein kostenfreies Erstgespräch ermöglicht es Interessierten, sich über die angebotenen Therapien zu informieren und den passenden Behandlungsansatz zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,37 @@
   "website": "http://www.moma-berlin.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/klaus-gmach",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstgespräch ist kostenfrei"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/daad3a5881134562b4c79f46027e6a03.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/daad3a5881134562b4c79f46027e6a03.jpg",
+    "https://static.wixstatic.com/media/dd713b_95283be87c714c649904e2391e1e0102~mv2_d_1440_2560_s_2.jpg/v1/fill/w_2500,h_4444,al_c/dd713b_95283be87c714c649904e2391e1e0102~mv2_d_1440_2560_s_2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Klaus Gmach Heilpraktiker?",
+      "answer": "Die Praxis von Klaus Gmach Heilpraktiker befindet sich in der Fichtestraße 31, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Klaus Gmach an?",
+      "answer": "Klaus Gmach bietet verschiedene Dienstleistungen an, darunter klassische Massagen, chinesische Heilmassagen (Tuina), Akupressur, Fußreflexzonen-Massagen, Akupunktur, Heilpflanzentherapie, Hypnose und Einzelcoaching."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Klaus Gmach buchen?",
+      "answer": "Sie können einen Termin bei Klaus Gmach buchen, indem Sie die Website besuchen und den Buchungslink auf Doctolib nutzen."
+    },
+    {
+      "question": "Ist das Erstgespräch kostenfrei?",
+      "answer": "Ja, das Erstgespräch bei Klaus Gmach ist kostenfrei."
+    },
+    {
+      "question": "Wie kann ich Klaus Gmach erreichen?",
+      "answer": "Sie können Klaus Gmach telefonisch unter 01757439083 oder per E-Mail unter klaus.gmach@gmx.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsd4z3M5PqEcRec-8T4_7vzQ"
 }

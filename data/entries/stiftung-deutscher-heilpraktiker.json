@@ -2,8 +2,8 @@
   "id": "stiftung-deutscher-heilpraktiker",
   "slug": "stiftung-deutscher-heilpraktiker",
   "name": "Stiftung Deutscher Heilpraktiker",
-  "description": "Stiftung Deutscher Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Stiftung Deutscher Heilpraktiker befindet sich in der Mohriner Allee 88 in Berlin, im Stadtteil Steglitz-Zehlendorf. Sie bietet umfassende Informationen und Unterstützung im Bereich der Naturheilkunde. Interessierte können sich bei allgemeinen Anfragen an den 1. Vorsitzenden Arne Krüger wenden. Weitere Details sind auf der Website der Stiftung zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,31 @@
   "phone": "0307036960",
   "email": "homoeovet@t-online.de",
   "website": "https://www.dieheilpraktiker.com/kontakt.html",
+  "bookingUrl": "https://www.dieheilpraktiker.com/kontakt.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.dieheilpraktiker.com/udh-logo-ov.png",
+    "https://www.dieheilpraktiker.com/fdh-logo.png",
+    "https://www.dieheilpraktiker.com/vdh-logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Stiftung Deutscher Heilpraktiker?",
+      "answer": "Die Stiftung Deutscher Heilpraktiker befindet sich in der Mohriner Allee 88, 12347 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Stiftung Deutscher Heilpraktiker kontaktieren?",
+      "answer": "Sie können die Stiftung Deutscher Heilpraktiker telefonisch unter 030 / 703 69 60 oder per E-Mail an homoeovet@t-online.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Stiftung Deutscher Heilpraktiker an?",
+      "answer": "Die Stiftung Deutscher Heilpraktiker bietet Informationen und Kontaktmöglichkeiten an, insbesondere für allgemeine Anfragen."
+    },
+    {
+      "question": "Wer ist der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker?",
+      "answer": "Der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker ist Arne Krüger."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVVh0XBFqEcRHkzZIe2SfH4"
 }

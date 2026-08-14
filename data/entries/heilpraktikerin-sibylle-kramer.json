@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-sibylle-kramer",
   "slug": "heilpraktikerin-sibylle-kramer",
   "name": "Heilpraktikerin Sibylle Kramer",
-  "description": "Heilpraktikerin Sibylle Kramer ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Sibylle Kramer bietet in ihrer Praxis in Berlin-Neukölln umfassende Behandlungen in den Bereichen Osteopathie, Akupunktur (TCM) und Naturheilkunde an. Mit einem ganzheitlichen Ansatz unterstützt sie ihre Patienten dabei, ihre Gesundheit zu fördern und Beschwerden zu lindern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -56,5 +56,25 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Sibylle Kramer an?",
+      "answer": "Heilpraktikerin Sibylle Kramer bietet Behandlungen in den Bereichen Osteopathie, Akupunktur (TCM) und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sibylle Kramer?",
+      "answer": "Die Praxis von Heilpraktikerin Sibylle Kramer befindet sich in der Friedrich-Wilhelm-Straße 85, 12099 Berlin, Neukölln."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Sibylle Kramer kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Sibylle Kramer telefonisch unter 03072012222 oder per E-Mail unter sibylle.kramer@berlin.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbS9vGFZFqEcRbSS1VPgaU5E",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 3
 }

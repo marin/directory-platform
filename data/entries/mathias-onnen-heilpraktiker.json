@@ -2,8 +2,8 @@
   "id": "mathias-onnen-heilpraktiker",
   "slug": "mathias-onnen-heilpraktiker",
   "name": "Mathias Onnen – Heilpraktiker",
-  "description": "Mathias Onnen – Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Mathias Onnen ist ein erfahrener Heilpraktiker in Berlin-Friedenau, der sich auf die Bereiche Ernährungsberatung und Naturheilkunde spezialisiert hat. In seiner Praxis bietet er individuelle Coaching- und Beratungsgespräche an, um das psychische und körperliche Wohlbefinden seiner Klienten zu fördern. Mit einem ganzheitlichen Ansatz betrachtet er die Gesundheit seiner Patienten und unterstützt sie dabei, eigene Ressourcen zu aktivieren und Lösungen für ihre Beschwerden zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -26,6 +26,7 @@
   "phone": "01786967921",
   "email": "info@praxis-onnen.de",
   "website": "http://www.herr-onnen.de/",
+  "bookingUrl": "https://herr-onnen.de/#kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,38 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "0178 – 696 79 21 info@praxis-onnen.de"
+    }
+  ],
+  "images": [
+    "https://herr-onnen.de/wp-content/uploads/2023/01/logo-mathias-onnen-hp.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Mathias Onnen an?",
+      "answer": "Mathias Onnen bietet psychologische Beratung, Coaching für Persönlichkeitsentwicklung und Selbstverwirklichung sowie ganzheitliche medizinische Beratung und Behandlung an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Mathias Onnen?",
+      "answer": "Die Praxis von Mathias Onnen befindet sich in der Niedstraße 16, 12159 Berlin-Friedenau."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Mathias Onnen buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website herr-onnen.de vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag bis Freitag von 10:00 bis 17:00 Uhr und Samstag von 15:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Mathias Onnen kontaktieren?",
+      "answer": "Sie können Mathias Onnen telefonisch unter 0178 – 696 79 21 oder per E-Mail an info@praxis-onnen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJacKPCntQqEcROu987IKCLoY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12
 }

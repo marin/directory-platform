@@ -2,8 +2,8 @@
   "id": "praxis-fur-gesundes-leben",
   "slug": "praxis-fur-gesundes-leben",
   "name": "Praxis für gesundes Leben",
-  "description": "Praxis für gesundes Leben ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für gesundes Leben in der Kastanienallee 4 in Berlin-Prenzlauer Berg bietet Heilpraktiker Philipp Nedelmann eine Vielzahl von naturheilkundlichen Behandlungen an. Die Praxis ist auf die Diagnostik und Therapie von Beschwerden wie Reizdarm, Burnout und Immunschwäche spezialisiert. Neben persönlichen Beratungen vor Ort sind auch Erstgespräche und Therapiefortsetzungen per Videokonferenz oder Telefon möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -68,7 +68,68 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Reizdarm"
+    },
+    {
+      "id": "offer-2",
+      "name": "Therapieplan bei Reizdarm"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährung bei Reizdarm"
+    },
+    {
+      "id": "offer-4",
+      "name": "Heilpraktiker in Prenzlauer Berg, Berlin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Zur Behandlung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Immunstärkung / Abwehr"
+    },
+    {
+      "id": "offer-7",
+      "name": "Burnout / Erschöpfung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Reizdarm / Sibo"
+    }
+  ],
+  "images": [
+    "https://www.philippnedelmann.de/wp-content/uploads/2016/02/Heilpraktiker-Nedelmann-Anmeldung-1270x800.jpg",
+    "https://images.provenexpert.com/55/f1/27751d0ea1605ce42499083599cf/widget_portrait_150_0.png",
+    "https://www.philippnedelmann.de/wp-content/uploads/2024/08/Nemwell-Logo-1.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für gesundes Leben?",
+      "answer": "Die Praxis für gesundes Leben befindet sich in der Kastanienallee 4, 10435 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite Doctolib vereinbaren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Dienstag von 09:00 bis 13:00 und von 14:00 bis 18:00, Mittwoch und Donnerstag von 09:00 bis 13:00 sowie Donnerstag von 14:00 bis 18:00, und Freitag von 09:00 bis 13:00."
+    },
+    {
+      "question": "Welche Therapien bietet die Praxis an?",
+      "answer": "In der Praxis für gesundes Leben werden verschiedene Therapien angeboten, darunter Hypoxietraining, Ozontherapie, Infusionen (z.B. Vitamin C Hochdosis, Baseninfusion) und individuelle Therapiepläne für Themen wie Burnout und Reizdarm."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 030 31985291 oder per E-Mail an praxis@philippnedelmann.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-ZwpwVOqEcRrz8ZbIiGKVY",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 58
 }

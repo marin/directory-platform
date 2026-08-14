@@ -1,0 +1,43 @@
+{
+  "hostOverrides": {
+    "agape.supernova.institute": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
+    "heilpraktikerinhofmann.de": "akupunktur-praxis-berlin-margret-hofmann",
+    "hp-heike-schmidt.de": "naturheilpraxis-heike-schmidt",
+    "naturheilpraxis-heike-schmidt.de": "praxis-fur-traditionelle-chinesische-medizin-heike-schmidt"
+  },
+  "urls": [
+    "https://agape.supernova.institute/formats-offerings/one-on-one-sessions",
+    "https://akupunkturpunkt.com/about",
+    "https://heilpraktikerinhofmann.de/schamanische-seminare-ausbildung-berlin",
+    "https://www.angelalindemann-naturheilpraxis.de/about",
+    "https://www.praxis-moritz.com/ueber-mich",
+    "https://www.asharakuckuck.de/heilpraktikerin/birim_dagli-feldmann_reiki.php",
+    "http://carolinehupe.de/about-me",
+    "https://www.maximtherapy.com/english---home/about-me",
+    "https://www.mentabolics.de/kopie-von-team",
+    "https://www.gamlahealing.com/pages/about-me",
+    "https://www.eft-berlin.de/ueber-uns/das-team-vom-eft-institut-berlin",
+    "https://www.medqigong.de/ausbildung",
+    "https://ifs-therapie.berlin/about",
+    "https://www.charme-d-orient.de/uber-uns.html",
+    "https://www.heilpraxis-freiraum.de/about",
+    "http://www.heilpraxis-osteopathie.de/zur-person.html",
+    "https://www.heilpraxis-walter.de/en/vita-2",
+    "https://impuls-in-berlin.de/team",
+    "http://www.heilpraktiker-beiersdorfer.de/Kerstin%20Beiersdorfer.htm",
+    "https://kerstin-loss.de/nordic-walking",
+    "https://www.praxis-larissaschmidt.de/uber-mich",
+    "https://www.gesundheitspraxis-mitte.de/vita",
+    "https://agneshovehne.de/uber-mich",
+    "https://www.hp-heike-schmidt.de/vita",
+    "https://www.loom-health.de/about",
+    "https://www.osteopathie.de/ausbildung",
+    "https://www.osteopathieprince.de/about",
+    "https://physiotherapie-halensee.de/about",
+    "https://piagoetz.com/impressum-datenschutz",
+    "https://www.naturheilpraxis-heike-schmidt.de/zur-person.htm",
+    "https://praxisnolte.de/zur-person",
+    "https://praxisruehle.de/praxis-ruehle-ausbildung",
+    "https://rc-naturheilpraxis.de/ueber/reinhard-clemens"
+  ]
+}

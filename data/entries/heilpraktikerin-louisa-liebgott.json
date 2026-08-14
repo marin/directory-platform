@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-louisa-liebgott",
   "name": "Heilpraktikerin - Louisa Liebgott",
   "description": "Heilpraktikerin - Louisa Liebgott ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,6 +53,9 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://images.squarespace-cdn.com/content/v1/682dc0f7fc37e74af42e4147/b48667c8-80cc-4e72-bc7b-a9227fc2afe6/Osmos+Logo+ready+no+name.png?format=1500w"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwU4Aot5PqEcRB2nYFeHa3mc"
 }

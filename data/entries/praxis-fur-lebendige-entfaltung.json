@@ -2,8 +2,8 @@
   "id": "praxis-fur-lebendige-entfaltung",
   "slug": "praxis-fur-lebendige-entfaltung",
   "name": "Praxis für Lebendige Entfaltung",
-  "description": "Praxis für Lebendige Entfaltung ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Lebendige Entfaltung in Berlin-Lichtenberg bietet umfassende naturheilkundliche und osteopathische Behandlungen an. Unter der Leitung von Heilpraktikerin Corina Kolwig kommen verschiedene Methoden wie das Neurologische Integrationssystem (NIS) sowie Energiearbeit zur Anwendung. Die Praxis richtet sich an Säuglinge, Kinder und Erwachsene und legt besonderen Wert auf die individuelle Persönlichkeitsentwicklung und ganzheitliche Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,6 +54,36 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://lebendige-entfaltung.de/pictures/farbverlauf.jpg",
+    "https://lebendige-entfaltung.de/pictures/startseite_.jpg",
+    "https://lebendige-entfaltung.de/pictures/nis.jpg",
+    "https://lebendige-entfaltung.de/pictures/Persoenlichkeitsentwicklung.jpg",
+    "https://lebendige-entfaltung.de/pictures/osteopathie.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Lebendige Entfaltung?",
+      "answer": "Die Praxis für Lebendige Entfaltung befindet sich in der Frankfurter Allee 191, 10365 Berlin."
+    },
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden Osteopathie, Naturheilkunde sowie das Neurologische Integrationssystem (NIS) angeboten."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite unter folgendem Link buchen: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03057799277 oder per E-Mail an praxis@lebendige-entfaltung.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ74MYpZROqEcRnnXEbUc8AOQ",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 11
 }

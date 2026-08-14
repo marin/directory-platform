@@ -2,8 +2,8 @@
   "id": "heilpraktiker-praxis-berlin-daniela-kniese",
   "slug": "heilpraktiker-praxis-berlin-daniela-kniese",
   "name": "Heilpraktiker Praxis Berlin Daniela Kniese",
-  "description": "Heilpraktiker Praxis Berlin Daniela Kniese ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktiker Praxis Berlin Daniela Kniese bietet ganzheitliche Gesundheitsbegleitung für die gesamte Familie in ruhiger Lage am S-Bahnhof Berlin-Wannsee. Die Praxis legt Wert auf individuelle Therapiekonzepte, die Körper, Geist und Seele in Einklang bringen. Zu den Behandlungsschwerpunkten gehören unter anderem chronische Erkrankungen, Allergien, Hauterkrankungen sowie psychosomatische Beschwerden. Die Praxis ist barrierefrei zugänglich und bietet eine Vielzahl von naturheilkundlichen Therapieformen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,164 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ganzheitliche Begleitung für die Gesundheit Ihrer ganzen Familie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kinder"
+    },
+    {
+      "id": "offer-3",
+      "name": "Jung & Alt"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlungsschwerpunkte"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ausleitung von Belastungen",
+      "description": "z. B. nach Medikamenteneinnahme (Cortison, Antibiotika), Impfungen oder Umweltgiften.​"
+    },
+    {
+      "id": "offer-6",
+      "name": "Stärkung des Immunsystems",
+      "description": "bei Allergien, Autoimmunerkrankungen, chronischen Entzündungen und Infektanfälligkeit.​"
+    },
+    {
+      "id": "offer-7",
+      "name": "Erschöpfungssyndrome",
+      "description": "wie Burnout, Schlafstörungen, Nährstoffmangel, Post-Covid oder Epstein-Barr-Virus.​"
+    },
+    {
+      "id": "offer-8",
+      "name": "Darmgesundheit",
+      "description": "Behandlung von Reizdarm, Unverträglichkeiten, Hefepilzbefall und Durchführung von Darmsanierungen.​"
+    },
+    {
+      "id": "offer-9",
+      "name": "Hauterkrankungen",
+      "description": "wie Neurodermitis, Akne, Ekzeme oder Schuppenflechte.​"
+    },
+    {
+      "id": "offer-10",
+      "name": "Frauenheilkunde",
+      "description": "z. B. bei Endometriose oder Menstruationsbeschwerden."
+    },
+    {
+      "id": "offer-11",
+      "name": "Konzentrationsstörungen und ADHS",
+      "description": "bei Kindern und Erwachsenen."
+    },
+    {
+      "id": "offer-12",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-13",
+      "name": "Repertorisation mit Radar Opus",
+      "description": "ein computergestütztes Verfahren zur Auswahl passender homöopathischer Mittel.​"
+    },
+    {
+      "id": "offer-14",
+      "name": "Vega-Test",
+      "description": "ein bioenergetisches Testverfahren zur Ermittlung von Belastungen und zur Mitteltestung."
+    },
+    {
+      "id": "offer-15",
+      "name": "Therapieformen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Homöopathie",
+      "description": "Stimulation der Selbstheilungskräfte durch individuell ausgewählte Mittel.​"
+    },
+    {
+      "id": "offer-17",
+      "name": "Phytotherapie",
+      "description": "Einsatz von Heilpflanzen und deren Zubereitungen.​"
+    },
+    {
+      "id": "offer-18",
+      "name": "Anthroposophische Medizin",
+      "description": "ganzheitlicher Ansatz, der körperliche, seelische und geistige Aspekte einbezieht.​"
+    },
+    {
+      "id": "offer-19",
+      "name": "Schüßler-Salze",
+      "description": "Einsatz von Mineralsalzen zur Regulierung des Zellstoffwechsels.​"
+    },
+    {
+      "id": "offer-20",
+      "name": "Ernährungsberatung",
+      "description": "individuelle Empfehlungen zur Unterstützung der Behandlung und Förderung des Wohlbefindens."
+    },
+    {
+      "id": "offer-21",
+      "name": "Kosten Heilpraktiker Praxis Berlin-Wannsee"
+    },
+    {
+      "id": "offer-22",
+      "name": "Ihre Gesundheit im Mittelpunkt"
+    },
+    {
+      "id": "offer-23",
+      "name": "Meine Leistungen als Heilpraktikerin"
+    },
+    {
+      "id": "offer-24",
+      "name": "Bioresonanztherapie"
+    },
+    {
+      "id": "offer-25",
+      "name": "Elektroakupunktur"
+    },
+    {
+      "id": "offer-26",
+      "name": "Nahrungsergänzungsmittel"
+    },
+    {
+      "id": "offer-27",
+      "name": "Häufig gestellte Fragen zur Heilpraktiker Praxis Berlin"
+    },
+    {
+      "id": "offer-28",
+      "name": "Das sagen Kunden zur Heilpraktikerin Praxis Berlin"
+    }
+  ],
+  "images": [
+    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/bewertung_heilpraktiker_berlin_web-high.jpg?enable-io=true&enable=upscale&crop=1%3A1&width=800",
+    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/heilpraktikerin_daniela_kniese_garten_1-standard.jpg",
+    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/gro-8-ohne-hintergrund-standard-3n9mhi-standard-xghfvi.webp",
+    "https://primary.jwwb.nl/pexels/69/6985191.jpeg",
+    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/heilpraktikerin_daniela_kniese_garten_1-high.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Beschwerden kann ich in der Heilpraktiker Praxis Berlin behandeln lassen?",
+      "answer": "In meiner Praxis behandle ich eine Vielzahl von akuten und chronischen Beschwerden, darunter Verdauungsprobleme, Hauterkrankungen, Allergien, hormonelle Beschwerden, Stress, Erschöpfung, Schlafstörungen, Schmerzen sowie psychosomatische und emotionale Belastungen."
+    },
+    {
+      "question": "Wie lange dauert eine Behandlung?",
+      "answer": "Die Dauer einer Sitzung variiert je nach individuellem Bedarf. Erstanamnesen sind in der Regel ausführlicher und dauern 2-3 Stunden, während Folgetermine meist kürzer ausfallen und 1-2 Stunden dauern."
+    },
+    {
+      "question": "Muss ich einen Termin vereinbaren?",
+      "answer": "Ja, Sie können mich gerne anrufen oder das Kontaktformular nutzen, um einen unverbindlichen Kennenlerntermin zu vereinbaren. Dieser Termin dauert in der Regel 20-30 Minuten und ist kostenlos."
+    },
+    {
+      "question": "Was muss ich zur ersten Behandlung mitbringen?",
+      "answer": "Es wäre wünschenswert, wenn Sie einen Laborbericht (wenn vorhanden) sowie die ausgefüllten und unterschriebenen Dokumente zur Erstanamnese und zur datenschutzrechtlichen Einwilligung mitbringen."
+    },
+    {
+      "question": "Werden die Kosten für die Heilbehandlung von der Krankenkasse übernommen?",
+      "answer": "Private Krankenkassen und einige Zusatzversicherungen übernehmen unter bestimmten Voraussetzungen einen Teil der Kosten für die Heilbehandlung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLb-jyPlZqEcR_hTW75Q-O3c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

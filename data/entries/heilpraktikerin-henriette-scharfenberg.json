@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-henriette-scharfenberg",
   "slug": "heilpraktikerin-henriette-scharfenberg",
   "name": "Heilpraktikerin Henriette Scharfenberg",
-  "description": "Heilpraktikerin Henriette Scharfenberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Henriette Scharfenberg bietet in ihrer Naturheilpraxis in Berlin-Steglitz-Zehlendorf eine Vielzahl von Therapien an, die auf sanfte und nachhaltige Heilung abzielen. Zu den Behandlungsmethoden gehören klassische Homöopathie, Gelenkmobilisation sowie verschiedene Massagetechniken, darunter die Breußmassage. Ihr Ansatz fokussiert sich darauf, die zugrunde liegenden Ursachen von Beschwerden zu erkennen und zu behandeln, um die Lebenskraft und Vitalität ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,76 @@
   "phone": "03031560861",
   "email": "kontakt@heilpraktiker-scharfenberg.de",
   "website": "http://heilpraktiker-scharfenberg.de/",
+  "bookingUrl": "mailto:kontakt@heilpraktiker-scharfenberg.de",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Facebook"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitliche Massage"
+    },
+    {
+      "id": "offer-3",
+      "name": "Breußmassage"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bei X teilen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bei Facebook teilen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bei XING teilen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Bei LinkedIn teilen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Bei Whatsapp teilen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Lebendigkeit und Lebenskraft –"
+    },
+    {
+      "id": "offer-10",
+      "name": "Mitglied im"
+    }
+  ],
+  "images": [
+    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2016/12/banner_heilpraktiker-scharfenberg.jpeg",
+    "http://heilpraktiker-scharfenberg.de/wp-content/uploads/2017/07/Portrait_2_komp-1-274x300.jpg",
+    "https://berlin.place/wp-content/uploads/sellos/heilpraktikerin-henriette-scharfenberg-P4A0F8fcfJhj.png",
+    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2018/08/birch-trees-260838_1280-150x150.jpg",
+    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2026/04/gosiak1980-birch-7241239-150x150.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Henriette Scharfenberg?",
+      "answer": "Die Naturheilpraxis von Henriette Scharfenberg befindet sich in der Am Fichtenberg 17, 14195 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Henriette Scharfenberg vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 – 31 56 08 61 oder per E-Mail an kontakt@heilpraktiker-scharfenberg.de vereinbaren."
+    },
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Henriette Scharfenberg an?",
+      "answer": "Heilpraktikerin Henriette Scharfenberg bietet unter anderem klassische Homöopathie, Gelenkmobilisation, ganzheitliche Massagen sowie Breußmassagen an."
+    },
+    {
+      "question": "Kann ich auch mein Tier in der Praxis behandeln lassen?",
+      "answer": "Ja, für die naturheilkundliche Behandlung von Tieren gibt es eine separate Tierheilpraxis, die unter www.thp-scharfenberg.de erreichbar ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV3hcZp5aqEcRn-mVKueM_Tc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-traditionelle-chinesische-medizin-heike-schmidt",
   "slug": "praxis-fur-traditionelle-chinesische-medizin-heike-schmidt",
   "name": "Praxis für Traditionelle Chinesische Medizin - Heike Schmidt",
-  "description": "Praxis für Traditionelle Chinesische Medizin - Heike Schmidt ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Akupunkturausbildung mit Ambulatorium an der Allgemeinen Berufsakademie für Heilpraktiker in Berlin Ausbildung in Chinesischer Pharmakologie (mit Diplom der AGTCM) am Ausbildungszentrum Ost Shou Zhong, Berlin",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,6 +54,13 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/f/5/csm_Depositphotos_151522382_original_af05960b93.webp",
+    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/4/c/csm_aZYumgO5EGU_de18ef7459.webp",
+    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/4/b/csm_Depositphotos_66881297_original_f20f5c46ba.webp"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCcoE5HdJqEcR8sOGZl9wBm0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

@@ -2,8 +2,8 @@
   "id": "johannes-bauerle",
   "slug": "johannes-bauerle",
   "name": "Johannes Bäuerle",
-  "description": "Johannes Bäuerle ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Johannes Bäuerle ist Heilpraktiker in Berlin-Wilhelmshagen und spezialisiert auf Osteopathie. In seiner Praxis bietet er eine ganzheitliche Schmerztherapie an, die Osteopathie, Physiotherapie und modernes Funktionstraining kombiniert. Er behandelt häufig Beschwerden wie Rückenschmerzen, Kopfschmerzen und Sportverletzungen und legt großen Wert auf die Balance von Körper, Geist und Seele.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -26,7 +26,69 @@
   "website": "http://osteopathie-wilhelmshagen.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/johannes-baeuerle?utm_campaign=website-button&amp;utm_source=-website-button&amp;utm_medium=referral&amp;utm_content=option-8&amp;utm_term=",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Natürliche Schmerzlösung für mehr Lebensqualität"
+    },
+    {
+      "id": "offer-2",
+      "name": "Osteopathie – Ganzheitliche Schmerztherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Mein Ansatz für ganzheitliche Gesundheit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Individuelle Behandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Erfahrung & Expertise"
+    },
+    {
+      "id": "offer-6",
+      "name": "Häufig behandelte Beschwerden"
+    },
+    {
+      "id": "offer-7",
+      "name": "Kopflotse - Balance zwischen den Ohren"
+    },
+    {
+      "id": "offer-8",
+      "name": "Hebammenpraxis"
+    }
+  ],
+  "images": [
+    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2022/08/DSC03821-1024x683.jpg",
+    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/Osteopathie_Treptow-Koepenick-1024x676.jpg",
+    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/mkk-praxis.png",
+    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/Hebamenpraxis_Rahnsdorf.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Johannes Bäuerle in seiner Praxis an?",
+      "answer": "Johannes Bäuerle bietet verschiedene Behandlungen an, darunter Osteopathie für Erwachsene, Kinder und Schwangere, sowie die Behandlung von Sportverletzungen, Tinnitus und Schwindel. Zudem umfasst sein Ansatz Gesundheitsberatung und ganzheitliche Prävention."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Johannes Bäuerle?",
+      "answer": "Die Praxis von Johannes Bäuerle befindet sich in der Fürstenwalder Allee 254, Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Johannes Bäuerle buchen?",
+      "answer": "Einen Termin bei Johannes Bäuerle können Sie über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche häufig behandelten Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden häufig Beschwerden wie Rückenschmerzen, Nackenverspannungen, Gelenkschmerzen, Migräne, Tinnitus, Schwindel sowie Sportverletzungen behandelt."
+    },
+    {
+      "question": "Wie kann ich Johannes Bäuerle kontaktieren?",
+      "answer": "Sie können Johannes Bäuerle per E-Mail unter info@osteopathie-wilhelmshagen.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cm40_s3qEcRWPvAKMNmh8Q",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 9
 }

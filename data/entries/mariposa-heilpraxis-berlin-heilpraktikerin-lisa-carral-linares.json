@@ -2,8 +2,8 @@
   "id": "mariposa-heilpraxis-berlin-heilpraktikerin-lisa-carral-linares",
   "slug": "mariposa-heilpraxis-berlin-heilpraktikerin-lisa-carral-linares",
   "name": "Mariposa Heilpraxis Berlin Heilpraktikerin Lisa Carral Linares",
-  "description": "Mariposa Heilpraxis Berlin Heilpraktikerin Lisa Carral Linares ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Mariposa Heilpraxis in Berlin Pankow wird von der Heilpraktikerin Lisa Carral Linares geleitet und bietet individuelle naturheilkundliche Behandlungen an. In einer einfühlsamen Atmosphäre werden die Anliegen der Patienten ganzheitlich betrachtet, um gemeinsam sinnvolle Schritte zur Verbesserung des Wohlbefindens zu finden. Die Praxis legt besonderen Wert auf persönliche Erfahrungen und eine individuelle Herangehensweise an die Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017621695980",
   "email": "praxismariposa@gmail.com",
   "website": "https://www.praxis-mariposa.com/",
+  "bookingUrl": "https://www.praxis-mariposa.com/termin-buchen",
   "openingHours": [
     {
       "day": "Monday",
@@ -42,7 +43,90 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Linares"
+    },
+    {
+      "id": "offer-2",
+      "name": "LISA CARRAL"
+    },
+    {
+      "id": "offer-3",
+      "name": "CHRISTIN"
+    },
+    {
+      "id": "offer-4",
+      "name": "viktoria"
+    },
+    {
+      "id": "offer-5",
+      "name": "Sophie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Praxisangebot"
+    },
+    {
+      "id": "offer-7",
+      "name": "Warum ich so arbeite"
+    },
+    {
+      "id": "offer-8",
+      "name": "Vielleicht erkennen Sie sich hier wieder"
+    },
+    {
+      "id": "offer-9",
+      "name": "Erfahrungen aus"
+    },
+    {
+      "id": "offer-10",
+      "name": "der Praxis"
+    },
+    {
+      "id": "offer-11",
+      "name": "oase des wohlbefindens"
+    },
+    {
+      "id": "offer-12",
+      "name": "Individuell statt nach Schema"
+    },
+    {
+      "id": "offer-13",
+      "name": "Standort"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/11062b_8529d51c2dd049c2be39e98951dd86bcf000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/11062b_8529d51c2dd049c2be39e98951dd86bcf000.jpg",
+    "https://static.wixstatic.com/media/bb51e9_2e7c8067344e470f8412632e6c9e5756~mv2.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/bb51e9_2e7c8067344e470f8412632e6c9e5756~mv2.jpg",
+    "https://static.wixstatic.com/media/bb51e9_31e2442f9e5d452594cad04ef024220c~mv2.png/v1/crop/x_1318,y_0,w_3285,h_3375/fill/w_27,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Praxis%20Mariposa_Images.png",
+    "https://static.wixstatic.com/media/bb51e9_2e7c8067344e470f8412632e6c9e5756~mv2.jpg/v1/fill/w_1600,h_755,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7.jpg",
+    "https://static.wixstatic.com/media/bb51e9_31e2442f9e5d452594cad04ef024220c~mv2.png/v1/crop/x_1318,y_0,w_3285,h_3375/fill/w_511,h_658,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Praxis%20Mariposa_Images.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Mariposa Heilpraxis an?",
+      "answer": "Die Mariposa Heilpraxis bietet unter anderem Craniosacral Therapie an, die darauf abzielt, das Gleichgewicht im Körper wiederherzustellen und individuelle Beschwerden zu behandeln."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Mariposa buchen?",
+      "answer": "Sie können einen Termin direkt über die Website der Praxis Mariposa buchen, indem Sie den folgenden Link nutzen: Termin Buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Mariposa Heilpraxis?",
+      "answer": "Die Öffnungszeiten der Mariposa Heilpraxis sind Montag, Dienstag und Freitag von 10:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie erreiche ich die Mariposa Heilpraxis?",
+      "answer": "Die Mariposa Heilpraxis befindet sich in der Kastanienallee 83, 10435 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich die Heilpraktikerin Lisa Carral Linares kontaktieren?",
+      "answer": "Sie können Lisa Carral Linares telefonisch unter 017621695980 oder per E-Mail an praxismariposa@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0UKHJ-hTqEcR6eiFy4zVCN0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-thomas-kalisch",
   "slug": "naturheilpraxis-thomas-kalisch",
   "name": "Naturheilpraxis Thomas Kalisch",
-  "description": "Naturheilpraxis Thomas Kalisch ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Thomas Kalisch in Berlin bietet umfassende therapeutische Leistungen in den Bereichen Osteopathie, Chiropraktik und Ohrakupunktur an. Unter dem Leitgedanken „Wie ein Sprössling im Wind sich bewegt, bewegt sich später der Baum“ nach William G. Sutherland, einem Pionier der Osteopathie, verfolgt die Praxis einen ganzheitlichen Ansatz zur Förderung der Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -59,7 +59,57 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "_frei nach William G. Sutherland, Pionier der Osteopathie_"
+    },
+    {
+      "id": "offer-2",
+      "name": "Meine therapeutischen Leistungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "FOLGEN SIE MIR!"
+    },
+    {
+      "id": "offer-4",
+      "name": "Partnerschaften"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mitgliedschaften"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-kalisch.de/assets/images/head-massage-3530560-676x451.jpg",
+    "https://www.naturheilpraxis-kalisch.de/assets/images/bag-1868758-676x451.jpg",
+    "https://www.naturheilpraxis-kalisch.de/assets/images/horizon-2602227-2000x1333.jpg",
+    "https://www.naturheilpraxis-kalisch.de/assets/images/logo-heilpraktiker-thomas-kalisch-negativ-72dpi-rgb-th-100x101.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Thomas Kalisch an?",
+      "answer": "Die Naturheilpraxis Thomas Kalisch bietet Therapien in den Bereichen Osteopathie, Akupunktur (TCM) und Naturheilkunde an."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Sitzung?",
+      "answer": "Die Kosten für eine Sitzung belaufen sich in der Regel auf 70,- bis 90,- € und sind am Tag der Behandlung zu zahlen."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Thomas Kalisch sind: Montag von 15:00 bis 20:00, Dienstag von 08:00 bis 10:00, Mittwoch von 08:00 bis 13:00 und 15:00 bis 20:00, Donnerstag von 08:00 bis 13:00 sowie Freitag von 08:00 bis 12:00."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Thomas Kalisch?",
+      "answer": "Die Naturheilpraxis Thomas Kalisch befindet sich in der Kaiserin-Augusta-Allee 46, 10589 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin für die Naturheilpraxis Thomas Kalisch über die Buchungsseite auf Doctolib unter https://www.doctolib.de/osteopath/berlin/thomas-kalisch-berlin buchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGWJi8jtRqEcRPmnRTdLX4fY",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 20
 }

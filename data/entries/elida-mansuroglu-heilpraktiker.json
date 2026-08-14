@@ -2,8 +2,8 @@
   "id": "elida-mansuroglu-heilpraktiker",
   "slug": "elida-mansuroglu-heilpraktiker",
   "name": "Elida Mansuroglu, Heilpraktiker",
-  "description": "Elida Mansuroglu, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Elida Mansuroglu ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin-Lichtenberg, die sich auf Naturheilkunde spezialisiert hat. Sie bietet eine Vielzahl von therapeutischen Leistungen an, darunter Elektroakupunktur nach Dr. Voll, elektromagnetische Bluttests sowie verschiedene Laboruntersuchungen. In ihrer Praxis legt sie großen Wert auf individuelle Beratung und ganzheitliche Behandlungsmethoden, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "017663099211",
   "website": "https://www.heilpraxis-mansuroglu.de/",
+  "bookingUrl": "https://www.heilpraxis-mansuroglu.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -46,7 +47,87 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "EAV- Elektroakupunktur nach Dr. Voll"
+    },
+    {
+      "id": "offer-2",
+      "name": "EMBT elektromagnetischer Bluttest"
+    },
+    {
+      "id": "offer-3",
+      "name": "Labor",
+      "description": "Blut und Stuhluntersuchung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Fußreflex"
+    },
+    {
+      "id": "offer-5",
+      "name": "Funktionelle Stressmedizin"
+    },
+    {
+      "id": "offer-6",
+      "name": "EAV –Elektroakkupunktur im speziellen Resonancetest"
+    },
+    {
+      "id": "offer-7",
+      "name": "Integrale Fußreflexzonenmassage"
+    },
+    {
+      "id": "offer-8",
+      "name": "Entgiftung/Ausleitung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Nosodentherapie, Darm-Kur und -Aufbau"
+    },
+    {
+      "id": "offer-10",
+      "name": "Elektroakupunktur nach Dr. Voll"
+    },
+    {
+      "id": "offer-11",
+      "name": "Fußreflexzonen-massage"
+    },
+    {
+      "id": "offer-12",
+      "name": "Labor: Blut- & Stuhluntersuchung"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/Heilpraxis_Mansuroglu-Slide3-1.jpg",
+    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2021/01/Heilpraxis_Mansuroglu-Slideb.jpg",
+    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_leistungen.png",
+    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_praxis.png",
+    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_kontakt.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Elida Mansuroglu in ihrer Heilpraxis an?",
+      "answer": "Elida Mansuroglu bietet verschiedene Behandlungen an, darunter EAV - Elektroakupunktur nach Dr. Voll, EMBT elektromagnetischer Bluttest, Laboruntersuchungen (Blut und Stuhl), Bio Scan, Fußreflexzonenmassage, funktionelle Stressmedizin, Entgiftung/Ausleitung und Nosodentherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Mansuroglu buchen?",
+      "answer": "Sie können einen Termin über die Website der Heilpraxis buchen, indem Sie den Kontakt-Link nutzen: Termin buchen."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten der Heilpraxis Mansuroglu?",
+      "answer": "Die Öffnungszeiten sind Montag, Dienstag und Freitag von 10:00 bis 17:00 Uhr sowie Donnerstag von 10:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis von Elida Mansuroglu?",
+      "answer": "Die Heilpraxis befindet sich in der Köpenicker Ch 3-4, 10317 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich Elida Mansuroglu telefonisch erreichen?",
+      "answer": "Sie können Elida Mansuroglu unter der Telefonnummer 017663099211 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUsv9DBPqEcRB9VRT4CuLDA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

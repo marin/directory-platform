@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-heruth",
   "slug": "naturheilpraxis-heruth",
   "name": "Naturheilpraxis Heruth",
-  "description": "Naturheilpraxis Heruth ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Heruth in Berlin Steglitz werden verschiedene alternative Heilmethoden angeboten, darunter klassische Homöopathie, Shiatsu, Energiearbeit und Musiktherapie. Die Praxis legt Wert auf ganzheitliche Ansätze zur Förderung des Wohlbefindens und bietet zudem Workshops zu Themen wie Schwingung, Stimme und Bewusstseinsarbeit an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -25,8 +25,84 @@
   },
   "phone": "03077393442",
   "website": "http://www.naturheilpraxis-heruth.de/",
+  "bookingUrl": "https://www.naturheilpraxis-heruth.de/kontakt-1",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Shiatsu, Energiearbeit, Körperarbeit, Gesundheitsübungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Fotos zum Lernen der Masunaga Meridiane am Nacken."
+    },
+    {
+      "id": "offer-3",
+      "name": "Musiktherapie, Klangtherapie, Stimmtherapie, Besingen, Healing Sound"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kinesiologie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bewußtseinsarbeit"
+    },
+    {
+      "id": "offer-6",
+      "name": "Mein Herz zum Singen bringen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Stimmimprovisation, Vokal-Improvisation"
+    },
+    {
+      "id": "offer-8",
+      "name": "Stimme und Berührung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Körperarbeit, Energiearbeit"
+    },
+    {
+      "id": "offer-10",
+      "name": "2 Punkt Technik"
+    },
+    {
+      "id": "offer-11",
+      "name": "Klangabenteuer"
+    },
+    {
+      "id": "offer-12",
+      "name": "Heilkonzerte"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-heruth.de/images/0cols/logo.png?t=2026-08-13"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen werden in der Naturheilpraxis Heruth angeboten?",
+      "answer": "In der Naturheilpraxis Heruth werden verschiedene Therapieformen angeboten, darunter klassische Homöopathie, Shiatsu, Energiearbeit, Körperarbeit, Gesundheitsübungen, Musiktherapie, Klangtherapie, Stimmtherapie, Kinesiologie und Bewußtseinsarbeit."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Heruth?",
+      "answer": "Die Naturheilpraxis Heruth befindet sich in der Giesensdorfer Str. 12a, 12207 Berlin, im Stadtteil Steglitz-Lichterfelde."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Heruth buchen?",
+      "answer": "Einen Termin in der Naturheilpraxis Heruth können Sie über die Webseite buchen, indem Sie den Kontakt-Link nutzen: https://www.naturheilpraxis-heruth.de/kontakt-1."
+    },
+    {
+      "question": "Bietet die Naturheilpraxis Heruth auch Workshops an?",
+      "answer": "Ja, die Naturheilpraxis Heruth bietet verschiedene Workshops an, darunter Themen wie Schwingung, Ton, Stimmimprovisation und Healing Sound."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Heruth kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Heruth telefonisch unter 03077393442 oder über die Webseite kontaktieren: http://www.naturheilpraxis-heruth.de/."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz81_uPxaqEcR-EqJTulwT0k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

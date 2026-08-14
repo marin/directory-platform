@@ -2,8 +2,8 @@
   "id": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg",
   "slug": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg",
   "name": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg",
-  "description": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michael Gräwe ist Heilpraktiker für Psychotherapie in Berlin-Schöneberg und bietet umfassende Unterstützung bei psychischen Herausforderungen. In seiner Praxis werden Einzel- und Paartherapien, Hypnose, Telefoncoaching sowie Coaching angeboten. Ziel seiner Arbeit ist es, gemeinsam mit den Klienten Lösungen zu erarbeiten und ein Gefühl von Sicherheit und Wohlbefinden zu schaffen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,50 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychotherapie (Einzeltherapie, Paartherapie)"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-3",
+      "name": "Telefoncoaching"
+    },
+    {
+      "id": "offer-4",
+      "name": "Coaching"
+    }
+  ],
+  "images": [
+    "https://www.psychotherapie-hypnose.net/images/michael-graewe.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Michael Gräwe an?",
+      "answer": "Michael Gräwe bietet Psychotherapie (Einzeltherapie und Paartherapie), Hypnose, Telefoncoaching und Coaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Michael Gräwe?",
+      "answer": "Die Praxis von Michael Gräwe befindet sich in der Regensburger Straße 6, 10777 Berlin-Schöneberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Michael Gräwe kontaktieren?",
+      "answer": "Sie können Michael Gräwe telefonisch unter 0303967024 oder per E-Mail an chassmann@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Probleme können in der Psychotherapie behandelt werden?",
+      "answer": "In der Psychotherapie können persönliche Krisen, Beziehungsprobleme, Ängste, Depressionen, seelisch bedingte körperliche Beschwerden und Trauerprozesse behandelt werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVFE2VlQqEcRV-zr3vXWesA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

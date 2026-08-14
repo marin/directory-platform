@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-lorber",
   "slug": "naturheilpraxis-lorber",
   "name": "Naturheilpraxis Lorber",
-  "description": "Naturheilpraxis Lorber ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Lorber in Berlin-Friedrichshain bietet individuelle Begleitung und Unterstützung auf dem Weg zu mehr Gesundheit und Wohlbefinden. Der Heilpraktiker legt Wert darauf, die Hintergründe von Erkrankungen zu erkennen und gemeinsam mit den Patienten an deren Veränderung zu arbeiten. Die Praxis ist auf die Prinzipien der Naturheilkunde ausgerichtet und verfolgt einen ganzheitlichen Ansatz zur Förderung der Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -38,6 +38,28 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://naturheilpraxis-lorber.de/wp-content/uploads/2018/11/Heckenrose2-300x300.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wann hat die Naturheilpraxis Lorber geöffnet?",
+      "answer": "Die Naturheilpraxis Lorber hat am Mittwoch und Freitag von 14:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Lorber?",
+      "answer": "Die Naturheilpraxis Lorber befindet sich in der Mainzer Str. 7, 10247 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Lorber kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Lorber telefonisch unter 03029364733 oder per E-Mail an praxislorber@web.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Lorber an?",
+      "answer": "Die Naturheilpraxis Lorber bietet verschiedene Dienstleistungen im Bereich der Naturheilkunde an, um Patienten auf ihrem Weg zur Gesundheit zu unterstützen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH6xJxl9OqEcRY1Y8uv_pKRM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

@@ -2,8 +2,8 @@
   "id": "andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap",
   "slug": "andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap",
   "name": "Andrea Hofmann, Heilpraktikerin Psychotherapie – Beratung I Coaching I Psychotherapie",
-  "description": "Andrea Hofmann, Heilpraktikerin Psychotherapie – Beratung I Coaching I Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Andrea Hofmann ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Neukölln. Sie bietet individuelle Beratung, Coaching und Psychotherapie an, wobei sie verschiedene Methoden wie Traumatherapie, EMDR und systemische Aufstellungen einsetzt. Ihr Ansatz zielt darauf ab, nachhaltige Lösungen für die Anliegen ihrer Klienten zu finden und eine vertrauensvolle Atmosphäre zu schaffen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -49,7 +49,126 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "40min: ab inkl. 5% Rabatt, regulär: 77€",
+      "durationMinutes": 40,
+      "durationLabel": "40 min",
+      "price": 73.15,
+      "priceLabel": "73,15€"
+    },
+    {
+      "id": "offer-2",
+      "name": "60min: ab inkl. 5% Rabatt, regulär: 108€",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 102.6,
+      "priceLabel": "102,60€"
+    },
+    {
+      "id": "offer-3",
+      "name": "75min: ab inkl. 5% Rabatt, regulär: 124€",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 117.8,
+      "priceLabel": "117,80€"
+    },
+    {
+      "id": "offer-4",
+      "name": "90min: ab inkl. 5% Rabatt, regulär: 145€",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 137.75,
+      "priceLabel": "137,75€"
+    },
+    {
+      "id": "offer-5",
+      "name": "120min: ab inkl. 5% Rabatt, regulär: 180€",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 171,
+      "priceLabel": "171,00€"
+    },
+    {
+      "id": "offer-6",
+      "name": "Coaching & Psychotherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Einzelsitzung​"
+    },
+    {
+      "id": "offer-8",
+      "name": "Workshops​"
+    },
+    {
+      "id": "offer-9",
+      "name": "Ausbildungen​"
+    },
+    {
+      "id": "offer-10",
+      "name": "Cortisol,Trauma & Kaffee\\ \\ Zum Artikel"
+    },
+    {
+      "id": "offer-11",
+      "name": "Komplextrauma\\ \\ Zum Artikel"
+    },
+    {
+      "id": "offer-12",
+      "name": "Rezensionen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Was Klient\\innen sagen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Häufige Themen in meiner Praxis"
+    },
+    {
+      "id": "offer-15",
+      "name": "Meine neuesten Blogartikel"
+    },
+    {
+      "id": "offer-16",
+      "name": "Neue Rabatte, neue Preise"
+    },
+    {
+      "id": "offer-17",
+      "name": "Familienaufstellung / Systemische Aufstellung Gruppe: noch Plätze frei"
+    }
+  ],
+  "images": [
+    "https://andrea-hofmann.de/wp-content/uploads/elementor/thumbs/Inneres-Kind-Berlin-r96jfrvmj5bx3nqublqwh1f394hvhoxrnvt2e8fwy8.jpg",
+    "https://andrea-hofmann.de/wp-content/uploads/2026/06/LJA6bFauSiewMqNSVnxSQ_thumb_8d69.jpg",
+    "https://andrea-hofmann.de/wp-content/uploads/2023/07/Inneres-Kind-Berlin-Gruppe.jpg",
+    "https://andrea-hofmann.de/wp-content/uploads/2023/08/UNADJUSTEDNONRAW_thumb_8db5.jpg",
+    "https://andrea-hofmann.de/wp-content/uploads/elementor/thumbs/Inneres-Kind-Berlin-q8vszk09f8vcynyznppulzig25ixptattg92n3m10m.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Andrea Hofmann an?",
+      "answer": "Andrea Hofmann bietet Beratung, Coaching und Psychotherapie an. Sie arbeitet mit verschiedenen Methoden wie Traumatherapie, EMDR, Inneres Kind und systemischer Aufstellung."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Andrea Hofmann buchen?",
+      "answer": "Sie können einen Termin direkt über die Webseite von Andrea Hofmann buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten von Andrea Hofmanns Praxis?",
+      "answer": "Die Öffnungszeiten sind Dienstag von 10:00 bis 21:00 Uhr, Mittwoch von 15:00 bis 21:00 Uhr, Donnerstag von 10:00 bis 21:00 Uhr und Freitag von 10:00 bis 21:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Andrea Hofmann?",
+      "answer": "Die Praxis von Andrea Hofmann befindet sich in der Heidelberger Str. 37a, 12059 Berlin, im Stadtteil Neukölln."
+    },
+    {
+      "question": "Welche Preise gelten für die Sitzungen bei Andrea Hofmann?",
+      "answer": "Die Preise für die Sitzungen beginnen bei 73,15€ für 40 Minuten und reichen bis zu 171,00€ für 120 Minuten, jeweils inklusive 5% Rabatt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJP2NtoQdPqEcRcuczf3TEkao",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 41
 }

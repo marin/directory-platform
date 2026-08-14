@@ -2,8 +2,8 @@
   "id": "alexander-gluch-praxis-fur-osteopathie-naturheilkunde",
   "slug": "alexander-gluch-praxis-fur-osteopathie-naturheilkunde",
   "name": "Alexander Gluch - Praxis für Osteopathie & Naturheilkunde",
-  "description": "Alexander Gluch - Praxis für Osteopathie & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Alexander Gluch führt eine Praxis für Osteopathie und Naturheilkunde in Berlin-Tegel. Die Behandlungsmethoden basieren auf einem ganzheitlichen Ansatz, der den Menschen in seiner Gesamtheit betrachtet und wissenschaftliche Erkenntnisse der Naturwissenschaften sowie naturheilkundliche Prinzipien integriert. Zu den angebotenen Therapien gehören unter anderem Akupunktur und Hydrocolontherapie, die von qualifizierten Mitarbeitern durchgeführt werden. Für weitere Informationen oder zur Terminvereinbarung steht die Praxis jederzeit zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -25,6 +25,7 @@
   },
   "phone": "03043749637",
   "website": "http://www.heilpraktiker-tegel.de/",
+  "bookingUrl": "http://www.heilpraktiker-tegel.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -62,7 +63,44 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hydrocolontherapie"
+    }
+  ],
+  "images": [
+    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-1-1500x630.jpg",
+    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-akkupunktur-1500x630.jpg",
+    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-hydrocolontherapie-3-1500x630.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis von Alexander Gluch an?",
+      "answer": "Die Praxis bietet Behandlungen in Osteopathie, Naturheilkunde, Akupunktur und Hydrocolontherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Alexander Gluch?",
+      "answer": "Die Praxis befindet sich in der Schloßstraße 26, 13507 Berlin, im Stadtteil Tegel."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat montags und dienstags von 09:00 bis 13:00 Uhr und von 14:00 bis 18:00 Uhr sowie mittwochs von 09:00 bis 13:00 Uhr und von 14:00 bis 18:00 Uhr geöffnet. Am Donnerstag ist die Praxis von 09:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den Kontaktbereich besuchen: http://www.heilpraktiker-tegel.de/kontakt/."
+    },
+    {
+      "question": "Welche Philosophie verfolgt die Osteopathie in der Praxis von Alexander Gluch?",
+      "answer": "Die Philosophie der Osteopathie basiert auf der Behandlung des Menschen im Ganzen und nicht nur einzelner Krankheiten, unter Verwendung von Erkenntnissen der Naturwissenschaften und naturheilkundlichen Prinzipien."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeb6GGl1UqEcRBcB-oiNETpA",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 28
 }

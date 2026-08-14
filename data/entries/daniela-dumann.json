@@ -2,8 +2,8 @@
   "id": "daniela-dumann",
   "slug": "daniela-dumann",
   "name": "Daniela Dumann",
-  "description": "Daniela Dumann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Daniela Dumann ist Heilpraktikerin in Berlin und spezialisiert auf Naturheilkunde, insbesondere die Aderlasstherapie nach Hildegard von Bingen. In ihrer Praxis bietet sie verschiedene Therapien zur Entgiftung und Verbesserung des Stoffwechsels an, die bei einer Vielzahl von Beschwerden, wie Rheuma, Diabetes und Hauterkrankungen, unterstützend wirken können. Ihr Ansatz basiert auf der Überzeugung, dass die Natur die beste Heilung bietet und sie teilt ihr Wissen und ihre Erfahrungen aus der Heilkunde mit ihren Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,104 @@
   "phone": "03036430358",
   "email": "praxis@danieladumann.de",
   "website": "https://www.danieladumann.de/",
+  "bookingUrl": "http://my.lemniscus.de/pss/21c5c780-26ba-4f11-8885-9a1d09a0c241",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Aderlasstherapie - Aderlass nach Hildegard von Bingen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Aderlasstermine 2025/2026"
+    },
+    {
+      "id": "offer-3",
+      "name": "Man wendet den Aderlass immer an"
+    },
+    {
+      "id": "offer-4",
+      "name": "zur Entgiftung und Verbesserung des gesamten Stoffwechsels"
+    },
+    {
+      "id": "offer-5",
+      "name": "in und nach den Wechseljahren und bei allen Frauenbeschwerden"
+    },
+    {
+      "id": "offer-6",
+      "name": "bei Störungen des Fettstoffwechsels"
+    },
+    {
+      "id": "offer-7",
+      "name": "bei Rheuma, Gicht und Arthritis"
+    },
+    {
+      "id": "offer-8",
+      "name": "bei Diabetes und Bluthochdruck"
+    },
+    {
+      "id": "offer-9",
+      "name": "bei Krampfadern und Hämorriden"
+    },
+    {
+      "id": "offer-10",
+      "name": "bei Kopfschmerzen, Migräne und Tinnitus"
+    },
+    {
+      "id": "offer-11",
+      "name": "bei Hauterkrankungen wie Ekzem, Neurodermitis und Schuppenflechte"
+    },
+    {
+      "id": "offer-12",
+      "name": "zur ergänzenden Therapie bei Krebserkrankungen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Investition"
+    },
+    {
+      "id": "offer-14",
+      "name": "Blutschau und Aderlaßprognose"
+    },
+    {
+      "id": "offer-15",
+      "name": "Aderlaß nach Hildegard von Bingen in Berlin"
+    },
+    {
+      "id": "offer-16",
+      "name": "Heilweisen nach Hildegard von Bingen"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/31df7b_d1451340c4654933a99e3e221c1cfc10~mv2.jpg/v1/fill/w_1905,h_580,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_d1451340c4654933a99e3e221c1cfc10~mv2.jpg",
+    "https://static.wixstatic.com/media/31df7b_bff15e4a263b4c4c99423a8d56d6d47a~mv2.jpg/v1/crop/x_38,y_0,w_230,h_230/fill/w_309,h_309,al_c,lg_1,q_80,enc_avif,quality_auto/Hildegard_Medizin_Daniela-Dumann-Berlin.jpg",
+    "https://static.wixstatic.com/media/31df7b_bff15e4a263b4c4c99423a8d56d6d47a~mv2.jpg/v1/crop/x_0,y_0,w_230,h_230/fill/w_309,h_309,al_c,lg_1,q_80,enc_avif,quality_auto/Hildegard_Medizin_Daniela-Dumann-Berlin.jpg",
+    "https://static.wixstatic.com/media/31df7b_9b2c3c83467c454cbc132741b87f3863~mv2.jpg/v1/fill/w_478,h_441,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_9b2c3c83467c454cbc132741b87f3863~mv2.jpg",
+    "https://static.wixstatic.com/media/31df7b_97ac489d9f7b46008f229bd043884d86~mv2.jpg/v1/fill/w_474,h_441,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_97ac489d9f7b46008f229bd043884d86~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapie bietet Daniela Dumann an?",
+      "answer": "Daniela Dumann bietet unter anderem die Aderlasstherapie nach Hildegard von Bingen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Daniela Dumann?",
+      "answer": "Die Praxis von Daniela Dumann befindet sich in der Nithackstraße 24, 10585 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Daniela Dumann buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite http://my.lemniscus.de/pss/21c5c780-26ba-4f11-8885-9a1d09a0c241 buchen."
+    },
+    {
+      "question": "Wie kann ich Daniela Dumann kontaktieren?",
+      "answer": "Sie können Daniela Dumann telefonisch unter 03036430358 oder per E-Mail an praxis@danieladumann.de kontaktieren."
+    },
+    {
+      "question": "Für welche Beschwerden ist die Aderlasstherapie sinnvoll?",
+      "answer": "Die Aderlasstherapie ist sinnvoll bei Beschwerden wie Rheuma, Gicht, Arthritis, Diabetes, Bluthochdruck, Kopfschmerzen, Migräne, Tinnitus und Hauterkrankungen wie Ekzem und Neurodermitis."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwdcWYxZRqEcR8RDtWZzHMgI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

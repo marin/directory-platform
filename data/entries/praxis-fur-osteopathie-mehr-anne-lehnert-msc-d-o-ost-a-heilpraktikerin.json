@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin",
   "slug": "praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin",
   "name": "Praxis für Osteopathie & mehr- Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin",
-  "description": "Praxis für Osteopathie & mehr- Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie & mehr von Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin, befindet sich in Berlin-Friedrichshagen. Sie bietet eine ganzheitliche Behandlung von Bewegungsstörungen und Beschwerden wie Rücken- und Gelenkschmerzen, Kopfschmerzen sowie Verdauungsstörungen an. Als erfahrene Physiotherapeutin und Osteopathin legt Frau Lehnert besonderen Wert auf die individuelle Diagnostik und Therapie des Menschen in seiner Gesamtheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -25,8 +25,192 @@
   },
   "phone": "01796782436",
   "website": "http://osteopathie-lehnert.de/",
+  "bookingUrl": "https://www.osteopathie-lehnert.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Angebotene Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hinweis zu den Behandlungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Preisgestaltung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Osteopathie und Manuelle Therapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Rückenbeschwerden"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ischiasschmerzen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Gelenkbeschwerden"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kopfschmerzen/ Migräne"
+    },
+    {
+      "id": "offer-9",
+      "name": "Verdauungsstörungen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Atemwegserkrankungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Systemerkrankungen z.B. Rheuma, Fibromyalgie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Schwindel"
+    },
+    {
+      "id": "offer-13",
+      "name": "Tinnitus"
+    },
+    {
+      "id": "offer-14",
+      "name": "Tennisarm"
+    },
+    {
+      "id": "offer-15",
+      "name": "stressbedingte Verspannungen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Erschöpfungszustand"
+    },
+    {
+      "id": "offer-17",
+      "name": "Kiefergelenksbeschwerden"
+    },
+    {
+      "id": "offer-18",
+      "name": "Menstruationsbeschwerden"
+    },
+    {
+      "id": "offer-19",
+      "name": "Narbenbehandlung"
+    },
+    {
+      "id": "offer-20",
+      "name": "Krankengymnastik/ Bewegungstherapie"
+    },
+    {
+      "id": "offer-21",
+      "name": "Linderung von Schmerzen"
+    },
+    {
+      "id": "offer-22",
+      "name": "Vermeidung von Schmerzen und Versteifungen"
+    },
+    {
+      "id": "offer-23",
+      "name": "Förderung von Durchblutung und Stoffwechsel"
+    },
+    {
+      "id": "offer-24",
+      "name": "Erhaltung/ Verbesserung von Beweglichkeit, Kraft, Koordination, Haltung"
+    },
+    {
+      "id": "offer-25",
+      "name": "Verbesserung der Atmung"
+    },
+    {
+      "id": "offer-26",
+      "name": "Erhöhung von Selbstwahrnehmung und Entspannungsfähigkeit"
+    },
+    {
+      "id": "offer-27",
+      "name": "Förderung/ Erhalt von Selbständigkeit"
+    },
+    {
+      "id": "offer-28",
+      "name": "(ärztlich versorgten) Knochenbrüchen"
+    },
+    {
+      "id": "offer-29",
+      "name": "Verletzungen von Bändern, Sehnen und Muskeln"
+    },
+    {
+      "id": "offer-30",
+      "name": "Gelenkerkrankungen und Verschleiß (Arthrose),"
+    },
+    {
+      "id": "offer-31",
+      "name": "Beschwerden der Wirbelsäule"
+    },
+    {
+      "id": "offer-32",
+      "name": "bei Beschwerden aus dem rheumatischen Formenkreis"
+    },
+    {
+      "id": "offer-33",
+      "name": "nach Amputationen"
+    },
+    {
+      "id": "offer-34",
+      "name": "zur Muskelentspannung und zum Muskelaufbau"
+    },
+    {
+      "id": "offer-35",
+      "name": "neurologischer Erkrankung"
+    },
+    {
+      "id": "offer-36",
+      "name": "zur Verbesserung der Körperhaltung"
+    },
+    {
+      "id": "offer-37",
+      "name": "motorische Störungen"
+    },
+    {
+      "id": "offer-38",
+      "name": "Osteoporose"
+    },
+    {
+      "id": "offer-39",
+      "name": "Erkrankungen im Urogenitaltrakt (Beckenbodentraining)"
+    },
+    {
+      "id": "offer-40",
+      "name": "sportlicher Hochleistung"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1080,height=567/image/351890433/3f04bfa8-f42a-4655-907e-4904ebb4f0a2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien werden in der Praxis für Osteopathie & mehr angeboten?",
+      "answer": "In der Praxis werden verschiedene Therapien angeboten, darunter Osteopathie, manuelle Therapie, Krankengymnastik und Bewegungstherapie."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Anne Lehnert?",
+      "answer": "Die Praxis befindet sich in der Bölschestraße 101, 12587 Berlin, im Stadtteil Friedrichshagen."
+    },
+    {
+      "question": "Welche Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden unter anderem Rückenbeschwerden, Ischiasschmerzen, Gelenkbeschwerden, Kopfschmerzen, Verdauungsstörungen und stressbedingte Verspannungen behandelt."
+    },
+    {
+      "question": "Gibt es Öffnungszeiten für die Praxis?",
+      "answer": "Die Praxis führt eine reine Bestellpraxis ohne Rezeption, daher sind keine festen Öffnungszeiten angegeben. Terminabsprachen sind nur telefonisch oder per SMS möglich."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBz9qlac3qEcRfFW_WoZczXA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

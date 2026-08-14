@@ -2,8 +2,8 @@
   "id": "heilpraxis-wiebke-ude",
   "slug": "heilpraxis-wiebke-ude",
   "name": "Heilpraxis Wiebke Ude",
-  "description": "Heilpraxis Wiebke Ude ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Wiebke Ude befindet sich in Berlin-Steglitz/Zehlendorf und bietet ein breites Spektrum an naturheilkundlichen Therapieverfahren an. Zu den Schwerpunkten zählen klassische und prozessorientierte Homöopathie, astrologische Beratung, systemische Aufstellungen sowie verschiedene alternative Heilmethoden wie Bachblüten-Therapie und orthomolekulare Medizin. Die Praxis legt Wert auf eine individuelle und ganzheitliche Betreuung ihrer Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,56 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Klassische und Prozessorientierte Homöopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Astrologische Beratung und Astrohomöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Systemische (Einzel-) aufstellungen, Familienaufstellungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bachblüten-Therapie, Darmsanierung, Ernährungsberatung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Orthomolekulare Medizin, Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-6",
+      "name": "Säure-Basen-Therapie, Schüßler Salze und Antlitzdiagnose"
+    },
+    {
+      "id": "offer-7",
+      "name": "Telefon"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapieverfahren bietet die Heilpraxis Wiebke Ude an?",
+      "answer": "Die Heilpraxis Wiebke Ude bietet folgende Therapieverfahren an: Klassische und prozessorientierte Homöopathie, astrologische Beratung und Astrohomöopathie, systemische (Einzel-) Aufstellungen, Familienaufstellungen, Bachblüten-Therapie, Darmsanierung, Ernährungsberatung, orthomolekulare Medizin, Pflanzenheilkunde, Säure-Basen-Therapie, Schüßler Salze und Antlitzdiagnose."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis Wiebke Ude?",
+      "answer": "Die Heilpraxis Wiebke Ude hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Wiebke Ude?",
+      "answer": "Die Heilpraxis Wiebke Ude befindet sich in der Kurze Str. 9, 12167 Berlin, im Stadtteil Steglitz/Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Wiebke Ude kontaktieren?",
+      "answer": "Sie können die Heilpraxis Wiebke Ude telefonisch unter 030 / 772 06 744 oder per E-Mail an mail@heilpraxis-ude.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeaSktY9aqEcRkhWo-Y4p9hA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

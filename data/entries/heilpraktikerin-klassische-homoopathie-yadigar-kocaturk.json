@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-klassische-homoopathie-yadigar-kocaturk",
   "slug": "heilpraktikerin-klassische-homoopathie-yadigar-kocaturk",
   "name": "Heilpraktikerin & klassische Homöopathie - Yadigar Kocatürk",
-  "description": "Heilpraktikerin & klassische Homöopathie - Yadigar Kocatürk ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für klassische Homöopathie von Yadigar Kocatürk in Berlin-Spandau werden ganzheitliche Heilansätze angeboten, die sich auf die individuellen Bedürfnisse der Patienten konzentrieren. Die Heilpraktikerin hat eine umfassende Ausbildung in Homöopathie absolviert und bietet Behandlungen für verschiedene Beschwerden wie Allergien, Burnout, depressive Verstimmungen und Schlafstörungen an. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und die Kraft der Natur als Grundlage für die Heilung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -53,7 +53,82 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "VITA"
+    },
+    {
+      "id": "offer-2",
+      "name": "HOMÖOPATHIE"
+    },
+    {
+      "id": "offer-3",
+      "name": "BEREICHE"
+    },
+    {
+      "id": "offer-4",
+      "name": "Allergien"
+    },
+    {
+      "id": "offer-5",
+      "name": "Alterserkran- kungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Burnout"
+    },
+    {
+      "id": "offer-7",
+      "name": "depressive Verstimmungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Herz-Kreislauf-Erkrankungen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Konzentrations-schwierigkeiten"
+    },
+    {
+      "id": "offer-10",
+      "name": "Schlafstörungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Traumata"
+    },
+    {
+      "id": "offer-12",
+      "name": "Wechseljahres-beschwerden"
+    },
+    {
+      "id": "offer-13",
+      "name": "DER WEG"
+    },
+    {
+      "id": "offer-14",
+      "name": "Wir benötigen Ihre Zustimmung zum Laden dieser Karte"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraktikerin Yadigar Kocatürk an?",
+      "answer": "Yadigar Kocatürk bietet klassische Homöopathie und verschiedene naturheilkundliche Behandlungen an, darunter die Behandlung von Allergien, Alterskrankungen, Burnout, depressiven Verstimmungen, Herz-Kreislauf-Erkrankungen, Konzentrationsschwierigkeiten, Schlafstörungen, Traumata und Wechseljahresbeschwerden."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags und mittwochs von 15:00 bis 19:00 Uhr, dienstags und donnerstags von 08:00 bis 12:00 Uhr sowie freitags von 15:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Termine können nur nach vorheriger Vereinbarung vereinbart werden. Sie können die Praxis telefonisch unter 017684290944 oder per E-Mail an info@praxis-kocatuerk.com kontaktieren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Yadigar Kocatürk?",
+      "answer": "Die Praxis befindet sich in der Pichelsdorfer Str. 7, 13595 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWVDRVElXqEcR97lIr8HX-qk"
 }

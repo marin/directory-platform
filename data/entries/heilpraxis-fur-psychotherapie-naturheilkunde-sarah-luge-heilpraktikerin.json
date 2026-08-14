@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin",
   "slug": "heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin",
   "name": "Heilpraxis für Psychotherapie & Naturheilkunde Sarah Luge - Heilpraktikerin",
-  "description": "Heilpraxis für Psychotherapie & Naturheilkunde Sarah Luge - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis für Psychotherapie & Naturheilkunde von Sarah Luge befindet sich in Berlin-Spandau und bietet individuelle Begleitung für Frauen und Mütter, die unter innerer Anspannung, Erschöpfung oder Schlafproblemen leiden. Durch eine Kombination aus psychotherapeutischen Ansätzen, insbesondere integrativer Gestalt- und Körpertherapie, sowie naturheilkundlichen Methoden, werden die zugrunde liegenden Ursachen der Beschwerden erarbeitet. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Lebenssituation und bietet flexible Unterstützung ohne lange Wartezeiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,42 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die Heilpraxis in Zahlen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sarah Luge - Heilpraktikerin"
+    }
+  ],
+  "images": [
+    "https://cdn.shapo.io/assets/logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraxis für Psychotherapie & Naturheilkunde an?",
+      "answer": "Die Heilpraxis bietet psychotherapeutische Unterstützung mit einem Fokus auf integrative Gestalt- und Körpertherapie sowie verschiedene naturheilkundliche Methoden wie Bach-Blüten-Therapie, Mikronährstofftherapie und Fußreflexzonentherapie."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sarah Luge?",
+      "answer": "Die Praxis befindet sich in der Ruppiner Ch 141, 13503 Berlin, im Stadtteil Spandau."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen, indem Sie den folgenden Link nutzen: https://zeeg.me/sarahluge."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Heilpraxis?",
+      "answer": "Die Heilpraxis hat von Montag bis Donnerstag von 09:00 bis 15:00 Uhr und am Freitag von 09:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet die Praxis ein Erstgespräch an?",
+      "answer": "Ja, die Praxis bietet ein kostenloses Erstgespräch an, in dem Sie Ihre Situation schildern und eine erste Einschätzung erhalten können."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVXxjplUqEcRZHWDbv5y2b0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

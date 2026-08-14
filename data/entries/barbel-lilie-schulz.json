@@ -3,7 +3,7 @@
   "slug": "barbel-lilie-schulz",
   "name": "Bärbel Lilie-Schulz",
   "description": "Bärbel Lilie-Schulz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -46,7 +46,17 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Tel. (030) 49 87 88 89"
+    }
+  ],
+  "images": [
+    "http://homoeopathie-lilie.de/wp-content/uploads/2015/07/hp-lilie-211x300.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsdfF_6tTqEcRYkNCIAvcApw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

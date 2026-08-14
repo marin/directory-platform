@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-angelique-arndt",
   "slug": "heilpraktikerin-angelique-arndt",
   "name": "Heilpraktikerin Angélique Arndt",
-  "description": "Heilpraktikerin Angélique Arndt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Angélique Arndt bietet in ihrer Naturheilpraxis in Berlin-Neukölln ein breites Spektrum an Therapien an, darunter Ernährung- und Nährstofftherapie, Darmgesundheit sowie Phyto- und Mykotherapie. Mit über 20 Jahren Erfahrung unterstützt sie ihre Patienten dabei, ihre Selbstheilungskräfte zu aktivieren und ein erfülltes Leben zu führen. Die Praxis legt Wert auf individuelle Betreuung und bietet Behandlungen in Deutsch, Französisch und Englisch an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01782871264",
   "email": "kontakt@heilpraxisarndt.de",
   "website": "https://www.heilpraxisarndt.de/",
+  "bookingUrl": "https://www.heilpraxisarndt.de/contact",
   "openingHours": [
     {
       "day": "Monday",
@@ -57,7 +58,69 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis Angélique Arndt"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ernährung- und Nährstofftherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Darmgesundheit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Phyto- und Mykotherapie (Arbeit mit Vitalpilzen)"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-6",
+      "name": "Fußzonenreflexmassage"
+    },
+    {
+      "id": "offer-7",
+      "name": "Sympathikus Therapie nach Dr. Heesch"
+    },
+    {
+      "id": "offer-8",
+      "name": "Arbeit mit Bachblüten"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/674eafface16dd426481b992/cd21140b-3a6e-4356-bb0c-b393907f2c4c/Heilpraktikerin+Ang%C3%A9lique+Arndt+Sympathikus+Therapie+Naturheilkunde+Ern%C3%A4hrung+N%C3%A4hrstofftherapie+Berlin+Neuk%C3%B6lln-4.jpg",
+    "https://images.squarespace-cdn.com/content/v1/674eafface16dd426481b992/7fd616de-61c5-436a-887e-17c8e41740b0/Heilpraktikerin+Ang%C3%A9lique+Arndt+Sympathikus+Therapie+Naturheilkunde+Ern%C3%A4hrung+Berlin+Neuk%C3%B6lln-1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/674eafface16dd426481b992/9dc3add1-c223-4539-9c23-bcc07bb34190/Heilpraktikerin+Ang%C3%A9lique+Arndt+Sympathikus+Therapie+Naturheilkunde+Ern%C3%A4hrung+Berlin+Neuk%C3%B6lln.jpg",
+    "http://static1.squarespace.com/static/674eafface16dd426481b992/t/67cea76d7efc7d473560ee24/1741596525757/Heilpraktikerin+Ang%C3%A9lique+Arndt+Sympathikus+Therapie+Naturheilkunde+Ern%C3%A4hrung+Berlin+Neuk%C3%B6lln.png?format=1500w"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktikerin Angélique Arndt an?",
+      "answer": "Heilpraktikerin Angélique Arndt bietet unter anderem Ernährung- und Nährstofftherapie, Darmgesundheit, Phyto- und Mykotherapie, Ohrakupunktur, traditionelle Ausleitungsverfahren wie Schröpfen und Blutegeltherapie, Fußzonenreflexmassage, Sympathikus Therapie nach Dr. Heesch sowie die Arbeit mit Bachblüten an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Angélique Arndt buchen?",
+      "answer": "Sie können einen Termin über die Website von Heilpraktikerin Angélique Arndt buchen, indem Sie den folgenden Link nutzen: https://www.heilpraxisarndt.de/contact."
+    },
+    {
+      "question": "Wann hat die Praxis von Angélique Arndt geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Samstag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "In welchen Sprachen bietet Angélique Arndt ihre Dienstleistungen an?",
+      "answer": "Angélique Arndt bietet ihre Dienstleistungen auf Deutsch, Französisch und Englisch an."
+    },
+    {
+      "question": "Wie kann ich Angélique Arndt kontaktieren?",
+      "answer": "Sie können Angélique Arndt telefonisch unter 01782871264 oder per E-Mail an kontakt@heilpraxisarndt.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzTIEejRPqEcR_UuxlN7oYpM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

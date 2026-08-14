@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-fur-ernahrung-sportmedizin-personal-training",
   "slug": "naturheilpraxis-fur-ernahrung-sportmedizin-personal-training",
   "name": "Naturheilpraxis für Ernährung, Sportmedizin & Personal Training",
-  "description": "Naturheilpraxis für Ernährung, Sportmedizin & Personal Training ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis für Ernährung, Sportmedizin und Personal Training in Berlin bietet Martina Minnich eine ganzheitliche Betreuung zur Förderung von Gesundheit und Wohlbefinden. Die Praxis spezialisiert sich auf Ernährungsberatung, Bewegungstherapie sowie Gewichtsreduktion und richtet sich an Menschen, die ihre körperliche und geistige Balance wiederherstellen möchten. Durch individuelle Therapieansätze werden sowohl präventive Maßnahmen als auch spezifische Beschwerden behandelt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -27,7 +27,58 @@
   "email": "info@martina-minnich.com",
   "website": "https://www.martina-minnich.com/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bewegungstherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Gewichtsreduktion"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ernährungstherapie präventiv und bei Beschwerdebildern"
+    },
+    {
+      "id": "offer-4",
+      "name": "Longevity"
+    },
+    {
+      "id": "offer-5",
+      "name": "Gesellschaft, Routine und Alternativen"
+    }
+  ],
+  "images": [
+    "https://martina-minnich.com/wp-content/uploads/2022/10/hero-1-980.jpg",
+    "https://martina-minnich.com/wp-content/uploads/2022/10/hero-1.png",
+    "https://martina-minnich.com/wp-content/uploads/2022/10/image-1.jpg",
+    "https://martina-minnich.com/wp-content/uploads/2022/10/image-2.png",
+    "https://www.martina-minnich.com/wp-content/uploads/2022/10/image-4.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis an?",
+      "answer": "Die Naturheilpraxis bietet Dienstleistungen in den Bereichen Ernährungsberatung, Bewegungstherapie, Gewichtsreduktion, Anti Aging und Longevity an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis für Ernährung, Sportmedizin & Personal Training?",
+      "answer": "Die Praxis befindet sich in der Pritstabelstraße 11, 12557 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin für eine Erstberatung vereinbaren?",
+      "answer": "Sie können einen Termin für eine Erstberatung vereinbaren, indem Sie die Website besuchen oder direkt anrufen unter der Telefonnummer 015157678444."
+    },
+    {
+      "question": "Was sind die Schwerpunkte der Ernährungsberatung in dieser Praxis?",
+      "answer": "Die Ernährungsberatung umfasst präventive Maßnahmen sowie die Behandlung von Beschwerdebildern wie Magen-Darm-Störungen, Unverträglichkeiten, Immunstörungen und Schlafstörungen."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis per E-Mail unter info@martina-minnich.com oder telefonisch unter 015157678444 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJh-zjj1hHqEcRgQrcQJ49xm8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

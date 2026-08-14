@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-hp-amrita-choudhuri",
   "slug": "praxis-fur-naturheilkunde-hp-amrita-choudhuri",
   "name": "Praxis für Naturheilkunde HP Amrita Choudhuri",
-  "description": "Praxis für Naturheilkunde HP Amrita Choudhuri ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde HP Amrita Choudhuri befindet sich in Berlin-Steglitz-Zehlendorf und bietet ein ganzheitliches Behandlungskonzept zur Verbesserung des Wohlbefindens. Im Mittelpunkt der Therapie stehen individuelle Anamnesen, die durch Anlitz- und Augendiagnose ergänzt werden. Das Angebot umfasst verschiedene naturheilkundliche Verfahren wie Homöopathie, Bachblütentherapie und Ohrakupunktur.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03070767007",
   "website": "http://www.hp-amrita.com/",
+  "bookingUrl": "http://www.hp-amrita.com/index.php?inhalt=6",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,52 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapien \\"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlungsschwerpunkte \\"
+    },
+    {
+      "id": "offer-3",
+      "name": "Seminare & Vorträge \\"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kosten & Erstattung \\"
+    },
+    {
+      "id": "offer-5",
+      "name": "Vita \\"
+    }
+  ],
+  "images": [
+    "http://www.hp-amrita.com/roh/images/ac.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis für Naturheilkunde HP Amrita Choudhuri an?",
+      "answer": "Die Praxis bietet eine Vielzahl von Therapien an, darunter Homöopathie, Bachblütentherapie, Therapie nach Dr. Schüßler, Aufstellungsarbeit, Leibarbeit, Bewegungs- und Körperarbeit, Ohrakupunktur und Gesprächstherapie."
+    },
+    {
+      "question": "Wie lange dauert eine homöopathische Erstanamnese und was kostet sie?",
+      "answer": "Eine homöopathische Erstanamnese dauert 2-3 Stunden und kostet 150€."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Was passiert, wenn ich einen Termin nicht wahrnehmen kann?",
+      "answer": "Wenn Sie einen Termin nicht wahrnehmen können, geben Sie bitte mindestens 24 Stunden vorher Bescheid. Andernfalls wird eine Gebühr von 25€ fällig."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin telefonisch unter 03070767007 oder über die Buchungsseite auf der Website http://www.hp-amrita.com/index.php?inhalt=6 buchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX8-Jj2BEqEcRlfCzI-4sfyw"
 }

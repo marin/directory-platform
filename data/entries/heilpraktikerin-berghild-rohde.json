@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-berghild-rohde",
   "slug": "heilpraktikerin-berghild-rohde",
   "name": "Heilpraktikerin Berghild Rohde",
-  "description": "Heilpraktikerin Berghild Rohde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Berghild Rohde bietet in ihrer Praxis in Berlin-Reinickendorf eine ganzheitliche Betreuung an. Mit über 15 Jahren Erfahrung unterstützt sie ihre Klienten als systemische Therapeutin, Homöopathin und Craniotherapeutin auf ihrem Weg zu mehr Gesundheit und Lebensfreude. Ihr Ansatz verbindet naturheilkundliches Wissen mit lösungsorientierter Beratung, um individuelle Lösungen zu finden. Zudem bietet sie entspannende Fußreflexzonenmassagen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,35 @@
   "website": "http://www.berghildrohde.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.berghildrohde.de/wp-content/uploads/2020/11/yellow-715540_19201_Zuschnitt_Unterseiten.jpg",
+    "http://www.berghildrohde.de/wp-content/uploads/2020/11/blume.jpg",
+    "http://www.berghildrohde.de/wp-content/uploads/2020/11/video.jpg",
+    "http://www.berghildrohde.de/wp-content/uploads/2020/11/blatt.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Berghild Rohde an?",
+      "answer": "Heilpraktikerin Berghild Rohde bietet unter anderem Homöopathie, Craniosacrale Therapie und systemische Therapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Berghild Rohde?",
+      "answer": "Die Praxis von Berghild Rohde befindet sich in der Frohnauer Str. 45, 13467 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Berghild Rohde vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03040984404 oder per E-Mail an praxis@berghildrohde.de vereinbaren."
+    },
+    {
+      "question": "Was ist das Ziel der Therapie bei Berghild Rohde?",
+      "answer": "Das Ziel der Therapie bei Berghild Rohde ist es, Menschen auf ihrem Weg zu einem selbstbestimmten Leben zu unterstützen und persönliche Lösungen zu finden."
+    },
+    {
+      "question": "Bietet Berghild Rohde auch Entspannungsbehandlungen an?",
+      "answer": "Ja, Berghild Rohde bietet Fußreflexzonenmassagen an, die zur Entspannung und Entschleunigung beitragen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUcYYY-pUqEcR0faB6Mm7fp8",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 6
 }

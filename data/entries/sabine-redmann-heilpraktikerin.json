@@ -2,8 +2,8 @@
   "id": "sabine-redmann-heilpraktikerin",
   "slug": "sabine-redmann-heilpraktikerin",
   "name": "Sabine Redmann, Heilpraktikerin",
-  "description": "Sabine Redmann, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabine Redmann ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf integrativer und ästhetischer Medizin in Berlin. Sie bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Hautästhetik, Darmgesundheit und Ernährungstherapie. Mit über 25 Jahren Erfahrung in der Hautästhetik legt sie großen Wert auf individuelle Therapieansätze und ganzheitliche Gesundheitsförderung. In ihrer Praxis nimmt sie sich Zeit für eine ausführliche Anamnese, um die Ursachen von Gesundheitsstörungen zu identifizieren und gezielt zu behandeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,72 @@
   "phone": "01778680050",
   "email": "info@praxis-integrativ.de",
   "website": "https://www.praxis-integrativ.de/",
+  "bookingUrl": "https://www.praxis-integrativ.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diplomierte Fachberaterin für Darmgesundheit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Naturheilpraxis für ästhetische und integrative Medizin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kompetenzbereich Hautästhetik seit 25 Jahren"
+    },
+    {
+      "id": "offer-4",
+      "name": "Sabine Redmann - Klinik-Mitarbeit in der Plastischen Chirurgie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Gefühl für Ästhetik"
+    },
+    {
+      "id": "offer-6",
+      "name": "Zeit für Gesundheit"
+    },
+    {
+      "id": "offer-7",
+      "name": "Praxisleistungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Hautästhetische Behandlungen"
+    }
+  ],
+  "images": [
+    "https://www.praxis-integrativ.de/wp-content/uploads/Praxis_122322-1_1920x1040.jpg",
+    "https://www.praxis-integrativ.de/wp-content/uploads/home-slide-1.jpg",
+    "https://www.praxis-integrativ.de/wp-content/uploads/Praxis_122221_1920X1040.jpg",
+    "https://www.praxis-integrativ.de/wp-content/uploads/home-slide-2.jpg",
+    "https://www.praxis-integrativ.de/wp-content/uploads/blatt-40x40.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Sabine Redmann in ihrer Praxis an?",
+      "answer": "Sabine Redmann bietet eine Vielzahl von Dienstleistungen an, darunter die Beratung für Darmgesundheit, ästhetische und integrative Medizin sowie hautästhetische Behandlungen. Sie hat einen Kompetenzbereich in Hautästhetik seit 25 Jahren und bietet auch Anti-Aging Behandlungen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sabine Redmann?",
+      "answer": "Die Praxis von Sabine Redmann befindet sich in der Friedbergstraße 29, 14057 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Sabine Redmann vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis von Sabine Redmann telefonisch unter 0177 868 00 50 oder per E-Mail an info@praxis-integrativ.de vereinbaren. Alternativ können Sie auch die Buchungsseite auf ihrer Website besuchen."
+    },
+    {
+      "question": "Bietet Sabine Redmann auch Online-Konsultationen an?",
+      "answer": "Im Kontext der bereitgestellten Informationen wird keine spezifische Erwähnung von Online-Konsultationen gemacht. Für genauere Informationen sollten Interessierte direkt Kontakt mit der Praxis aufnehmen."
+    },
+    {
+      "question": "Hat Sabine Redmann Erfahrung in der plastischen Chirurgie?",
+      "answer": "Ja, Sabine Redmann hat Erfahrung aus ihrer Mitarbeit in der plastischen Chirurgie, was ihr Fachwissen im Bereich der ästhetischen Medizin erweitert."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUO-gYNaqEcRFv7TjtX9KPM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

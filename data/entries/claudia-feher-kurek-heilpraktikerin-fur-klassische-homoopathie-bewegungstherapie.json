@@ -2,8 +2,8 @@
   "id": "claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie",
   "slug": "claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie",
   "name": "Claudia Fehér-Kurek Heilpraktikerin für Klassische Homöopathie & Bewegungstherapie",
-  "description": "Claudia Fehér-Kurek Heilpraktikerin für Klassische Homöopathie & Bewegungstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Claudia Fehér-Kurek ist Heilpraktikerin für Klassische Homöopathie und Bewegungstherapie in Berlin-Pankow. In ihrer Praxis bietet sie individuelle homöopathische Behandlungen an, die auf die einzigartigen Erfahrungen und Bedürfnisse ihrer Patienten abgestimmt sind. Zudem unterstützt sie durch Bewegungstherapie das Körperbewusstsein und die Gesundheit ihrer Klienten. Die Praxis befindet sich in der Greifenhagener Straße 50 und ist auf die ganzheitliche Heilung von körperlichen und psychischen Beschwerden spezialisiert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -59,6 +59,28 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://feher-kurek-homoeopathie.berlin/.cm4all/uproc.php/0/DSC00246%20(3)_1.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Claudia Fehér-Kurek an?",
+      "answer": "Claudia Fehér-Kurek bietet klassische Homöopathie und Bewegungstherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Claudia Fehér-Kurek?",
+      "answer": "Die Praxis befindet sich in der Greifenhagener Str. 50, 10437 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 15:00 bis 20:00, Dienstag von 09:00 bis 18:00, Mittwoch von 10:00 bis 20:00, Donnerstag von 10:00 bis 20:00, Freitag von 09:00 bis 18:00 und Samstag von 09:00 bis 17:00."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite unter https://feherkurekhomoeopathieberlin.simplybook.it/ buchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ43vr3AZSqEcRfqDRIoh17Pc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

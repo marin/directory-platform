@@ -2,8 +2,8 @@
   "id": "gesundheitspraxis-berlin-renata-pelizaeus",
   "slug": "gesundheitspraxis-berlin-renata-pelizaeus",
   "name": "Gesundheitspraxis Berlin, Renata Pelizaeus",
-  "description": "Gesundheitspraxis Berlin, Renata Pelizaeus ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Gesundheitspraxis Berlin, geleitet von Heilpraktikerin Renata Pelizaeus, bietet einen ganzheitlichen Ansatz zur Gesundheitsförderung, der Körper, Seele und Geist in Einklang bringt. Durch die Kombination traditioneller Naturheilverfahren mit modernen Diagnosemethoden werden sowohl organische als auch funktionelle Störungen erfasst. Die Praxis legt besonderen Wert auf präventive Maßnahmen wie Entsäuerung, Entgiftung und Ernährungsberatung, um die Selbstheilungskräfte des Körpers zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie"
@@ -25,8 +25,39 @@
   "phone": "03032603676",
   "email": "renateholst@aol.com",
   "website": "http://www.gesundheitspraxis-berlin.de/",
+  "bookingUrl": "http://www.gesundheitspraxis-berlin.de/info.htm",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.gesundheitspraxis-berlin.de/renates_images/gp_berlin_visual.png",
+    "http://www.gesundheitspraxis-berlin.de/renates_images/gp_berlin.png",
+    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_12.jpg",
+    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_5.jpg",
+    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_160.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Gesundheitspraxis Berlin von Renata Pelizaeus?",
+      "answer": "Die Gesundheitspraxis Berlin befindet sich in der Riehlstraße 2, 14057 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Gesundheitspraxis Berlin vereinbaren?",
+      "answer": "Sie können einen Termin in der Gesundheitspraxis Berlin telefonisch unter 030-32603676 oder über die Website gesundheitspraxis-berlin.de vereinbaren."
+    },
+    {
+      "question": "Welche Therapieansätze werden in der Gesundheitspraxis Berlin angeboten?",
+      "answer": "In der Gesundheitspraxis Berlin werden homöopathische Behandlungen sowie ganzheitliche Ansätze zur Gesundheitsprophylaxe angeboten."
+    },
+    {
+      "question": "Wie kann ich die Gesundheitspraxis Berlin kontaktieren?",
+      "answer": "Sie können die Gesundheitspraxis Berlin per E-Mail unter renateholst@aol.com oder telefonisch unter 030-32603676 kontaktieren."
+    },
+    {
+      "question": "Gibt es Informationen zu den Öffnungszeiten der Gesundheitspraxis Berlin?",
+      "answer": "Im aktuellen Eintrag sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHfTVm9ZQqEcRfh2iuZZxu2s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

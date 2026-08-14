@@ -2,8 +2,8 @@
   "id": "naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke",
   "slug": "naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke",
   "name": "Naturheilkunde, TCM und Akupuntur in Berlin-Steglitz - Praxis Golombeck-Peschke",
-  "description": "Naturheilkunde, TCM und Akupuntur in Berlin-Steglitz - Praxis Golombeck-Peschke ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Golombeck-Peschke in Berlin-Steglitz bietet umfassende Behandlungen in den Bereichen Naturheilkunde, Traditionelle Chinesische Medizin (TCM) und Akupunktur an. Unter der Leitung von Beate Golombek-Peschke, Heilpraktikerin und staatlich anerkannter Physiotherapeutin, werden ganzheitliche Therapiekonzepte entwickelt, die Körper, Geist und Seele in Einklang bringen. Die Praxis befindet sich in der Lauenburger Str. 21 und ist auf die Anwendung von Akupunktur sowie weitere TCM-Methoden spezialisiert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,8 +25,32 @@
   },
   "phone": "03079744692",
   "website": "http://akupunktur-tcm-steglitz.de/",
+  "bookingUrl": "https://akupunktur-tcm-steglitz.de/termine.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://akupunktur-tcm-steglitz.de/seerose1.jpg",
+    "https://akupunktur-tcm-steglitz.de/titel-rechts.png",
+    "https://akupunktur-tcm-steglitz.de/nichtstun1.png",
+    "https://akupunktur-tcm-steglitz.de/seerose2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis Golombeck-Peschke?",
+      "answer": "Die Praxis befindet sich in der Lauenburger Str. 21, 12157 Berlin-Steglitz."
+    },
+    {
+      "question": "Welche Therapien werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde angeboten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen: Termine buchen."
+    },
+    {
+      "question": "Wie kann ich die Praxis telefonisch erreichen?",
+      "answer": "Die Praxis ist telefonisch unter der Nummer 03079744692 erreichbar."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgRVwxJ1aqEcRbBop3W-YFko"
 }

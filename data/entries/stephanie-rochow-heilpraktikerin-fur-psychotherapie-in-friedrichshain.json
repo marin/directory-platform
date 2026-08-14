@@ -2,8 +2,8 @@
   "id": "stephanie-rochow-heilpraktikerin-fur-psychotherapie-in-friedrichshain",
   "slug": "stephanie-rochow-heilpraktikerin-fur-psychotherapie-in-friedrichshain",
   "name": "Stephanie Rochow Heilpraktikerin für Psychotherapie in Friedrichshain",
-  "description": "Stephanie Rochow Heilpraktikerin für Psychotherapie in Friedrichshain ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Stephanie Rochow ist Heilpraktikerin für Psychotherapie in Berlin-Friedrichshain. In ihrer Praxis bietet sie Paar- und Einzeltherapie sowie Hypnotherapie und Neurofeedback-Training an. Ihr Ansatz kombiniert verschiedene therapeutische Methoden, um individuelle Ziele und Bedürfnisse der Klienten in den Mittelpunkt zu stellen. Die Praxis ist darauf ausgerichtet, Menschen in Krisensituationen zu unterstützen und ihnen zu helfen, wieder Freude am Leben zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,8 +26,80 @@
   "phone": "01772926634",
   "email": "info@stephanie-rochow.de",
   "website": "http://www.stephanie-rochow.de/",
+  "bookingUrl": "http://www.terminland.de/stephanie-rochow/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "90 min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 200,
+      "priceLabel": "200 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "50 min",
+      "durationMinutes": 50,
+      "durationLabel": "50 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "50 min",
+      "durationMinutes": 50,
+      "durationLabel": "50 min",
+      "price": 107,
+      "priceLabel": "107 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "50 min",
+      "durationMinutes": 50,
+      "durationLabel": "50 min",
+      "price": 70,
+      "priceLabel": "70€"
+    },
+    {
+      "id": "offer-5",
+      "name": "Heilpraktikerin für Psychotherapie in Berlin-Friedrichshain"
+    },
+    {
+      "id": "offer-6",
+      "name": "So finden Sie mich"
+    },
+    {
+      "id": "offer-7",
+      "name": "Online buchen"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s252c4764fa8d8338/backgroundarea/iaa9ca21699df37b5/version/1757446858/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Stephanie Rochow an?",
+      "answer": "Stephanie Rochow bietet Paar- und Einzeltherapie, Hypnotherapie und Neurofeedback-Training an."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin ganz bequem über die Online-Buchungsplattform buchen. Hier ist der Link: Termin buchen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Stephanie Rochow?",
+      "answer": "Die Praxis von Stephanie Rochow befindet sich in der Simplonstraße 11, 10245 Berlin, Friedrichshain."
+    },
+    {
+      "question": "Welche Preise gelten für die Therapiesitzungen?",
+      "answer": "Die Preise für die Therapiesitzungen variieren: 50 Minuten kosten zwischen 70 € und 135 €, während 90 Minuten 200 € kosten."
+    },
+    {
+      "question": "Welche Methoden verwendet Stephanie Rochow in der Psychotherapie?",
+      "answer": "Stephanie Rochow kombiniert verschiedene Methoden, darunter Verhaltens- und systemische Therapie sowie die klientenorientierte Gesprächsführung nach Carl Rogers."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo9ootRBPqEcRVf6ZhGjQAqk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 22
 }

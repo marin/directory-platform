@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-berlin-steglitz-cornelia-quarz",
   "slug": "heilpraktikerin-berlin-steglitz-cornelia-quarz",
   "name": "Heilpraktikerin Berlin Steglitz / Cornelia Quarz",
-  "description": "Heilpraktikerin Berlin Steglitz / Cornelia Quarz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Cornelia Quarz in Berlin Steglitz bietet seit 25 Jahren naturheilkundliche Behandlungen an. Ihre Schwerpunkte liegen auf Darm- und Verdauungsproblemen, Belastungen durch Stoffwechsel- und Entgiftungsprozesse sowie Schmerzen und Funktionsstörungen des Bewegungsapparates. In ihrer Praxis wird Wert darauf gelegt, die zugrundeliegenden Zusammenhänge der Beschwerden zu verstehen und individuelle, alltagstaugliche Lösungsansätze zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,38 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "25 Jahre Erfahrung"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-steglitz.de/images/24-jahre-naturheilkunde.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Schwerpunkte hat die Heilpraktikerin Cornelia Quarz?",
+      "answer": "Die drei zentralen Schwerpunkte von Heilpraktikerin Cornelia Quarz sind Darm- und Verdauungsprobleme, Belastungen durch Stoffwechsel- und Entgiftungsprozesse sowie Schmerzen und Funktionsstörungen des Bewegungsapparates."
+    },
+    {
+      "question": "Wie lange ist Cornelia Quarz bereits als Heilpraktikerin tätig?",
+      "answer": "Cornelia Quarz hat 25 Jahre Erfahrung in der Naturheilkunde."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Steglitz?",
+      "answer": "Die Naturheilpraxis Steglitz befindet sich in der Lacknerstraße 6, 12167 Berlin."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind von Montag bis Freitag, jeweils von 09:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können ein persönliches Telefon-Vorgespräch vereinbaren, indem Sie die Telefonnummer 030 – 79782727 anrufen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUWYoXb5aqEcRsPJNaZHEGVw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

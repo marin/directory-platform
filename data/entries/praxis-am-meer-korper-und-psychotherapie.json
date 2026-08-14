@@ -2,8 +2,8 @@
   "id": "praxis-am-meer-korper-und-psychotherapie",
   "slug": "praxis-am-meer-korper-und-psychotherapie",
   "name": "Praxis am Meer: Körper- und Psychotherapie",
-  "description": "Praxis am Meer: Körper- und Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis am Meer in Berlin-Friedrichshain bietet die Heilpraktikerin Susanne Heil Körper- und Psychotherapie an. Ihr Ansatz kombiniert verschiedene Methoden wie Hakomi und Shiatsu, um Klienten dabei zu unterstützen, in Kontakt mit ihren inneren Antworten zu kommen und ein erfülltes Leben zu führen. Die Praxis legt Wert auf Achtsamkeit und individuelle Begleitung, um emotionale Prozesse und Verhaltensweisen zu erforschen und zu transformieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,7 +26,51 @@
   "phone": "017657372678",
   "website": "http://www.sushigong.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Referenzen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einzel-Angebote"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kurse & Workshops"
+    },
+    {
+      "id": "offer-4",
+      "name": "Zu mir"
+    }
+  ],
+  "images": [
+    "http://www.sushigong.de/wordpress/wp-content/uploads/2015/01/Susanne-teaching.jpg",
+    "http://www.sushigong.de/wordpress/wp-content/uploads/2015/01/nursiegel-susanneheil.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis am Meer an?",
+      "answer": "Die Praxis am Meer bietet Körper- und Psychotherapie an, einschließlich Shiatsu-Behandlungen und Hakomi-Sitzungen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis am Meer?",
+      "answer": "Die Praxis befindet sich in der Skalitzer Str. 69, 10997 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin direkt telefonisch unter 017657372678 vereinbaren."
+    },
+    {
+      "question": "Gibt es Informationen zu Kursen und Workshops?",
+      "answer": "Ja, die Praxis bietet Kurse und Workshops an, die momentan online verfügbar sind."
+    },
+    {
+      "question": "Was sind die Schwerpunkte der Therapie in der Praxis?",
+      "answer": "Die Therapie in der Praxis fokussiert sich darauf, in Kontakt mit den eigenen Antworten zu kommen, emotionale Prozesse zu erkunden und Achtsamkeit für das innere Erleben zu fördern."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdy6qy01PqEcRN-sA9SnmQA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

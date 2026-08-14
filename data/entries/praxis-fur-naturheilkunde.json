@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde",
   "slug": "praxis-fur-naturheilkunde",
   "name": "Praxis für Naturheilkunde",
-  "description": "Praxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde von Michael Lindemann befindet sich in Berlin und bietet eine ganzheitliche Betrachtung von Körper und Seele. Durch regelmäßigen Austausch mit Ärzten und anderen Heilpraktikern sowie kontinuierliche Fortbildung wird ein breites therapeutisches Spektrum abgedeckt. Die Praxis legt Wert auf individuelle Behandlungsansätze und berücksichtigt die Wechselwirkungen der Organe und Organsysteme. Unterstützung erhält Michael Lindemann dabei von seiner Frau.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,40 @@
   "phone": "03060985488",
   "email": "info@lindemann-praxis-berlin.de",
   "website": "http://www.lindemann-praxis-berlin.de/",
+  "bookingUrl": "https://www.lindemann-praxis.de/info-links/kontakt/anfahrt%20%22Der%20Weg%20zu%20unseren%20Praxen",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihr Heilpraktiker in Preetz und Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sprechstunden"
+    }
+  ],
+  "images": [
+    "https://www.lindemann-praxis.de/fileadmin/_processed_/5/3/csm_michael_lindemann_1bb6f9d137.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde von Michael Lindemann?",
+      "answer": "Die Praxis befindet sich in der Hortensienstr. 29 Rechter, 12203 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Terminabsprachen sind nach Vereinbarung möglich. Sie können die Praxis telefonisch unter 03060985488 kontaktieren."
+    },
+    {
+      "question": "Wann finden die Sprechstunden in Berlin statt?",
+      "answer": "Die Sprechstunden in Berlin finden einmal im Monat von Donnerstag bis Samstag statt."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet die Praxis an?",
+      "answer": "Die Praxis bietet ganzheitlich orientierte Behandlungsmethoden an, die die Wechselwirkungen von Körper und Seele sowie der Organe und Organsysteme berücksichtigen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJccgwcaZbqEcRG2JLHySRb3A",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

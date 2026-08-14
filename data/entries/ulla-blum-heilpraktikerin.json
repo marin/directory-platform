@@ -2,8 +2,8 @@
   "id": "ulla-blum-heilpraktikerin",
   "slug": "ulla-blum-heilpraktikerin",
   "name": "Ulla Blum - Heilpraktikerin",
-  "description": "Ulla Blum - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Ulla Blum ist eine erfahrene Heilpraktikerin in Berlin-Charlottenburg, die sich auf Akupunktur und Traditionelle Chinesische Medizin (TCM) spezialisiert hat. Neben ihrer Praxistätigkeit bietet sie auch Qigong-Aus- und Weiterbildungen an, die sowohl theoretische als auch praktische Aspekte umfassen. Ulla Blum ist Mitglied in verschiedenen Berufsverbänden, darunter der DH Fachverband Deutscher Heilpraktiker und die AGTCM.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -28,6 +28,29 @@
   "website": "http://www.ulla-blum.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://ulla-blum.de/wp-content/uploads/2022/05/Wo%CC%88chentliche-Kurse-2-247x300.png",
+    "https://ulla-blum.de/wp-content/uploads/2022/05/Logo-3-1-289x300.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Ulla Blum?",
+      "answer": "Die Praxis von Ulla Blum befindet sich in der Leibnizstraße 33, 10625 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Ulla Blum an?",
+      "answer": "Ulla Blum bietet Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich Ulla Blum kontaktieren?",
+      "answer": "Sie können Ulla Blum telefonisch unter 03031807808 oder per E-Mail an tcm.qigong@ulla-blum.de kontaktieren."
+    },
+    {
+      "question": "Bietet Ulla Blum auch Qigong-Kurse an?",
+      "answer": "Ja, Ulla Blum bietet wöchentliche Qigong-Kurse in Charlottenburg und an der Berliner VHS an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5XTDeOFQqEcRYK182ZOpNnk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

@@ -2,8 +2,8 @@
   "id": "akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde",
   "slug": "akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde",
   "name": "Akupunktur- und Naturheilpraxis Bannert Berlin Lichterfelde",
-  "description": "Akupunktur- und Naturheilpraxis Bannert Berlin Lichterfelde ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Akupunktur- und Naturheilpraxis Bannert in Berlin-Lichterfelde bietet Heilpraktikerin Jacqueline Bannert seit 1993 individuelle und ganzheitliche Behandlungen an. Die Praxis spezialisiert sich auf die Anwendung bewährter Methoden der Naturheilkunde, darunter Akupunktur, Bioresonanz und Wirbel- und Gelenktherapie nach Dorn. Ziel ist es, die Selbstheilungskräfte des Körpers zu aktivieren und das allgemeine Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   "phone": "0307122994",
   "email": "post@praxis-bannert.de",
   "website": "http://www.praxis-bannert.de/",
+  "bookingUrl": "https://www.praxis-bannert.de/kontakt/",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -43,7 +44,42 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hier finden Sie uns"
+    }
+  ],
+  "images": [
+    "https://www.praxis-bannert.de/s/img/emotionheader4173152.png?1682188514.920px.292px",
+    "https://www.praxis-bannert.de/s/cc_images/cache_2855020.jpg?t=1481302556",
+    "https://www.praxis-bannert.de/s/cc_images/cache_2855021.jpg?t=1481302356",
+    "https://www.praxis-bannert.de/s/cc_images/cache_2855022.jpg?t=1481302406",
+    "https://www.praxis-bannert.de/s/cc_images/cache_2855023.jpg?t=1481307184"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden werden in der Akupunktur- und Naturheilpraxis Bannert angeboten?",
+      "answer": "In der Praxis werden verschiedene Behandlungsmethoden angeboten, darunter Akupunktur, Ohrakupunktur, Schönheitsakupunktur, Bioresonanz, Wirbel- und Gelenktherapie nach Dorn, sowie Hyaluronunterspritzung und Fußreflexzonenmassage."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Bannert buchen?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen, indem Sie den Kontaktbereich besuchen: https://www.praxis-bannert.de/kontakt/."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Öffnungszeiten der Praxis sind: Dienstag von 10:00 bis 16:00 Uhr, Donnerstag von 10:30 bis 18:00 Uhr und Freitag von 12:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Akupunktur- und Naturheilpraxis Bannert?",
+      "answer": "Die Praxis befindet sich in der Müllerstraße 22C, 12207 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 030/7122994 oder per E-Mail an post@praxis-bannert.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJd3ZSJQVbqEcRaM-n3PxXGeo",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 4
 }

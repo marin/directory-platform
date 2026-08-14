@@ -3,7 +3,7 @@
   "slug": "praxis-der-zuhorer-steffen-zohl-heilpraktiker-fur-psychotherapie",
   "name": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie",
   "description": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -55,7 +55,47 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bei Whatsapp teilen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Bei XING teilen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Bei Facebook teilen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bei X (Twitter) teilen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bei Pinterest pinnen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bei LinkedIn teilen"
+    },
+    {
+      "id": "offer-7",
+      "name": "RSS-feed"
+    },
+    {
+      "id": "offer-8",
+      "name": "Dieser Beitrag hat einen Kommentar"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schreibe einen Kommentar"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbQ-Y_CdRqEcRXbI3DSC-34o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

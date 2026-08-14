@@ -2,8 +2,8 @@
   "id": "heilpraxis",
   "slug": "heilpraxis",
   "name": "Heilpraxis",
-  "description": "Heilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis von Ella Pathak befindet sich in der Stahlheimer Str. 24 in Berlin-Pankow. Hier werden naturheilkundliche Behandlungen angeboten, die auf die individuellen Bedürfnisse der Patienten abgestimmt sind. Die Praxis ist gut erreichbar, nur wenige Schritte von der Haltestelle Humannplatz der Tramlinie 12 entfernt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,33 @@
   "phone": "03089564951",
   "website": "http://www.tcm-ella-pathak.de/kontakt-anfahrt.html",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kontakt/Anfahrt"
+    }
+  ],
+  "images": [
+    "http://www.tcm-ella-pathak.de/img/img-kontakt.jpg",
+    "http://www.tcm-ella-pathak.de/img/ella-pathak.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis von Ella Pathak?",
+      "answer": "Die Heilpraxis von Ella Pathak befindet sich in der Stahlheimer Str. 24, 10439 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis von Ella Pathak kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 030 - 89 56 49 51 oder per E-Mail an ep@tcm-ella-pathak.de kontaktieren."
+    },
+    {
+      "question": "Wie erreiche ich die Heilpraxis mit öffentlichen Verkehrsmitteln?",
+      "answer": "Die Praxis ist nur wenige Schritte von der Haltestelle Humannplatz, Tram 12, entfernt."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraxis an?",
+      "answer": "Die Heilpraxis bietet Dienstleistungen im Bereich Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCxhWcvhNqEcR7MldLiY0UU0"
 }

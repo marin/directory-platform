@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-eva-stieler-homoopathie",
   "slug": "heilpraktikerin-eva-stieler-homoopathie",
   "name": "Heilpraktikerin Eva Stieler – Homöopathie",
-  "description": "Heilpraktikerin Eva Stieler – Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Eva Stieler in Berlin bietet klassische Homöopathie als natürliche Heilmethode an, die auf dem Prinzip \"Ähnliches heilt Ähnliches\" basiert. Mit über 25 Jahren Erfahrung legt sie besonderen Wert auf eine individuelle Betreuung und die Förderung der Selbstheilungskräfte ihrer Patienten. In ihrer Praxis werden umfassende Anamnesen durchgeführt, um maßgeschneiderte homöopathische Mittel zu bestimmen, die den Heilungsprozess unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,8 +26,53 @@
   "phone": "0307423815",
   "email": "eva.stieler@t-online.de",
   "website": "https://www.heilpraktiker-eva-stieler.de/",
+  "bookingUrl": "tel:0307423815",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Homöopathische Behandlung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Melden Sie sich gerne jederzeit bei Rückfragen telefonisch"
+    },
+    {
+      "id": "offer-3",
+      "name": "Eva Stieler Homöopathie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ablauf der homöopathischen Behandlung"
+    }
+  ],
+  "images": [
+    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-Stieler.png",
+    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-8-200x300.jpg",
+    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-8-768x1152.jpg",
+    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Hahnemann-Christian-Friedrich-Samuel-Hahnemann-de.wikipedia.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Leistungen bietet Heilpraktikerin Eva Stieler an?",
+      "answer": "Heilpraktikerin Eva Stieler bietet klassische Homöopathie an, die auf dem Prinzip basiert, dass \"Ähnliches Ähnliches heilt\". Sie fördert die Selbstheilungskräfte und unterstützt den natürlichen Heilungsprozess."
+    },
+    {
+      "question": "Wie verläuft eine homöopathische Behandlung bei Eva Stieler?",
+      "answer": "Die homöopathische Behandlung beginnt mit einer 2-4 stündigen Erstanamnese, um alle Symptome zu erfassen. Danach wird das passende Mittel bestimmt, und eine erste Folgeanamnese erfolgt nach etwa 5 Wochen."
+    },
+    {
+      "question": "Wann ist Homöopathie sinnvoll?",
+      "answer": "Homöopathie kann bei funktionellen Erkrankungen, langjährigen Beschwerden und wenn eine schulmedizinische Diagnose nicht festgestellt werden konnte, hilfreich sein."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Eva Stieler vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 030/7423815 vereinbaren."
+    },
+    {
+      "question": "Wie lange dauert die Behandlung in der Regel?",
+      "answer": "Die Dauer der Behandlung hängt vom Zustand der Erkrankung ab und kann variieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGaC6LjZFqEcRUYmmzTw5M4o"
 }

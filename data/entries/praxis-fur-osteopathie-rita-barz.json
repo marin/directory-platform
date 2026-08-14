@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-rita-barz",
   "slug": "praxis-fur-osteopathie-rita-barz",
   "name": "Praxis für Osteopathie Rita Barz",
-  "description": "Praxis für Osteopathie Rita Barz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie Rita Barz befindet sich im Südwesten von Berlin, in Kladow/Spandau. Die neu renovierten Therapieräume bieten eine ruhige Atmosphäre mit Blick auf den Garten. Patienten können bequem auf dem Grundstück oder in der Nähe parken, und die Praxis ist auch mit dem Bus (Linie 135, Haltestellen: Kurpromenade oder Gutshof) gut erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -52,7 +52,42 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Parkmöglichkeiten"
+    },
+    {
+      "id": "offer-2",
+      "name": "Anfahrt mit dem Bus"
+    }
+  ],
+  "images": [
+    "http://osteopathie-barz.de/images/logo_center.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Osteopathie Rita Barz?",
+      "answer": "Die Praxis befindet sich am Ritterfelddamm 217, 14089 Berlin, im Stadtteil Kladow/Spandau."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich die Praxis erreichen?",
+      "answer": "Sie können die Praxis mit dem Bus erreichen, die Haltestellen sind Kurpromenade oder Gutshof (Buslinie 135). Es gibt auch Parkmöglichkeiten auf dem Grundstück oder in unmittelbarer Nähe der Praxis."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Termine können telefonisch unter 030 200 960 37 oder per E-Mail an info@osteopathie-barz.de vereinbart werden."
+    },
+    {
+      "question": "Gibt es besondere Angebote in der Praxis?",
+      "answer": "Ja, die Praxis bietet Parkmöglichkeiten und eine Anfahrt mit dem Bus an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKRGk-uX3qEcR1EpLfgFPhmY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

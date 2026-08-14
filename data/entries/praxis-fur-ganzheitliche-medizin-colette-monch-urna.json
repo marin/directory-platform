@@ -2,8 +2,8 @@
   "id": "praxis-fur-ganzheitliche-medizin-colette-monch-urna",
   "slug": "praxis-fur-ganzheitliche-medizin-colette-monch-urna",
   "name": "Praxis für Ganzheitliche Medizin Colette Mönch-Urna",
-  "description": "Praxis für Ganzheitliche Medizin Colette Mönch-Urna ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Ganzheitliche Medizin Colette Mönch-Urna in Berlin Charlottenburg bietet eine umfassende Betrachtung des Patienten, bei der nicht nur die Symptome, sondern auch die individuelle Lebensweise, das persönliche Befinden und zwischenmenschliche Beziehungen in den Fokus rücken. Durch ausführliche Anamnese und Diagnostik wird gezielt nach den Ursachen von Erkrankungen gesucht, um eine ganzheitliche Behandlung zu ermöglichen. Die Praxis legt Wert auf Prävention, gesunden Lebensstil sowie die Verbindung von Körper, Geist und Seele.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -47,6 +47,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/350179830/00f856fb-475d-4417-99df-0ce9d4e0b0db.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Ganzheitliche Medizin Colette Mönch-Urna?",
+      "answer": "Die Praxis befindet sich in der Grolmanstraße 36, 10623 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03081702831 erreichen oder die Website unter https://www.naturheilpraxis-colettemoench.de/ besuchen."
+    },
+    {
+      "question": "Was bietet die Praxis an?",
+      "answer": "Die Praxis bietet ganzheitliche Medizin, gesunden Lebensstil, Prävention, Epigenetik und Longevity an."
+    },
+    {
+      "question": "Wie wird in der Praxis mit Patienten umgegangen?",
+      "answer": "In der Praxis wird der Patient als Ganzes betrachtet, wobei individuelle Lebensweise, persönliches Befinden und zwischenmenschliche Beziehungen in die Behandlung einfließen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuxbtuRFRqEcRxvufai7BwzA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 75
 }

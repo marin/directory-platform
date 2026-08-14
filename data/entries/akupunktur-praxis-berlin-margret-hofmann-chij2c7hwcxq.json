@@ -2,8 +2,8 @@
   "id": "akupunktur-praxis-berlin-margret-hofmann-chij2c7hwcxq",
   "slug": "akupunktur-praxis-berlin-margret-hofmann-chij2c7hwcxq",
   "name": "Akupunktur Praxis Berlin Margret Hofmann",
-  "description": "Akupunktur Praxis Berlin Margret Hofmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Akupunktur Praxis Berlin Margret Hofmann in Kreuzberg werden verschiedene naturheilkundliche Therapien angeboten, mit einem Schwerpunkt auf konstitutioneller Akupunktur und Somatic Experiencing zur Traumaheilung. Die Praxis bietet eine einladende Atmosphäre mit einem großen und einem kleinen Therapieraum. Zusätzlich werden schamanische Seminare und Ausbildungen angeboten, um das persönliche Wachstum und die Heilung zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,44 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur bei Multipler Sklerose"
+    },
+    {
+      "id": "offer-2",
+      "name": "Somatic Experiencing bei Sozialphobie"
+    }
+  ],
+  "images": [
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/IMG_20161230.webp",
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Golden-Robin-test.webp",
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Neu-Logo.webp"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Akupunktur Praxis Berlin Margret Hofmann?",
+      "answer": "Die Praxis befindet sich in der Stresemannstraße 35, 10963 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Welche Therapien bietet Margret Hofmann an?",
+      "answer": "Margret Hofmann bietet unter anderem konstitutionelle Akupunktur, Somatic Experiencing und schamanische Seminare an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag bis Dienstag und Donnerstag bis Freitag von 10:00 bis 18:00 Uhr, sowie Mittwoch von 10:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Termine können über die Website der Praxis gebucht werden: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich Margret Hofmann kontaktieren?",
+      "answer": "Sie können Margret Hofmann telefonisch unter 01775519465 oder per E-Mail an praxis@heilpraktikerinhofmann.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2c7hwCxQqEcRiQvd_3fzv6g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

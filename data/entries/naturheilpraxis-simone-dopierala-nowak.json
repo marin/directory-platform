@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-simone-dopierala-nowak",
   "slug": "naturheilpraxis-simone-dopierala-nowak",
   "name": "Naturheilpraxis Simone Dopierala-Nowak",
-  "description": "Naturheilpraxis Simone Dopierala-Nowak ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Simone Dopierala-Nowak in Berlin bietet ganzheitliche und biologisch regulierende Therapien an, die auf den Prinzipien der Naturheilkunde basieren. Mit über 20 Jahren Erfahrung betreut die Heilpraktikerin Patienten jeden Alters und legt besonderen Wert auf eine individuelle Anamnese, um die Ursachen von Beschwerden zu identifizieren. Zu den angebotenen Leistungen zählen unter anderem Phytotherapie, Irisdiagnose und Mikrobiomanalysen des Darms. Die Praxis befindet sich in der Krokusstraße 3A in Berlin.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,37 @@
   "phone": "03092378064",
   "email": "info@naturheilpraxis-nowak.de",
   "website": "http://naturheilpraxis-nowak.de/",
+  "bookingUrl": "http://www.naturheilpraxis-nowak.de/Kontakt-7.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-nowak.de/grafiken/img/istformat/naturheilpraxis_simone_nowak_berlin_-_kr%C3%A4uterheilkunde-1500909863.jpg",
+    "https://www.naturheilpraxis-nowak.de/grafiken/farben6/4/RundungUnten.jpg",
+    "https://www.naturheilpraxis-nowak.de/scripts/images/close.png",
+    "https://www.naturheilpraxis-nowak.de/grafiken/leer.gif",
+    "https://www.naturheilpraxis-nowak.de/grafiken/login.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Simone Dopierala-Nowak?",
+      "answer": "Die Naturheilpraxis Simone Dopierala-Nowak befindet sich in der Krokusstraße 3A, 12357 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Simone Dopierala-Nowak über die Webseite buchen: http://www.naturheilpraxis-nowak.de/Kontakt-7.html."
+    },
+    {
+      "question": "Welche Therapien werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis werden naturheilkundliche Regulationstherapien angeboten, darunter Phytotherapie, Irisdiagnose, Mikrobiomanalysen des Darms und Speichelhormonuntersuchungen."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis telefonisch unter 03092378064 oder per E-Mail an info@naturheilpraxis-nowak.de kontaktieren."
+    },
+    {
+      "question": "Wann finden die Sprechstunden in Berlin Rudow statt?",
+      "answer": "Die Sprechstunden in Berlin Rudow finden jeden 1. Dienstag im Monat von 10 bis 18 Uhr statt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOdF1pQ5GqEcRfc_UcqztSPo"
 }

@@ -2,8 +2,8 @@
   "id": "annette-leidig-heilpraktiker-fur-psychotherapie",
   "slug": "annette-leidig-heilpraktiker-fur-psychotherapie",
   "name": "Annette Leidig, Heilpraktiker für Psychotherapie",
-  "description": "Annette Leidig, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Annette Leidig ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet individuelle psychotherapeutische Behandlungen an, die auf die Bedürfnisse ihrer Patienten abgestimmt sind. Neben klassischen Therapieformen berücksichtigt sie auch interkulturelle Aspekte und bietet Therapien in englischer Sprache an. Bei Bedarf sind auch Videosprechstunden und flexible Terminvereinbarungen möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -58,7 +58,50 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Podcast"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlungsschwerpunkte"
+    },
+    {
+      "id": "offer-4",
+      "name": "Einen Termin vereinbaren"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/412201175/604425b9-2191-455a-b516-6bb323ea419d.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Annette Leidig an?",
+      "answer": "Annette Leidig bietet Psychotherapie an und hat Behandlungsschwerpunkte in Lebenskrisen, Depressionen, Anpassungsstörungen, Panikstörungen und Angststörungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Annette Leidig vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie eine Nachricht senden oder direkt über den Buchungslink auf ihrer Website gehen: Termin buchen."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Therapie bei Annette Leidig?",
+      "answer": "Die Kosten für eine Einzeltherapie betragen 90 € für 50 Minuten. Eine Paarberatung kostet 110 € für 50 Minuten. Ermäßigte Preise sind nach Absprache möglich."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Annette Leidig?",
+      "answer": "Die Praxis ist von Montag bis Samstag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Bietet Annette Leidig auch Videosprechstunden an?",
+      "answer": "Ja, nach der 3. Therapiestunde bietet Annette Leidig Videosprechstunden an, falls ein Termin vor Ort nicht möglich ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZExn6pRqEcRFyYCO-nWPus",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-ganzheitliche-medizin-victoria-reinich-heilpraktikerin",
   "slug": "praxis-fur-ganzheitliche-medizin-victoria-reinich-heilpraktikerin",
   "name": "Praxis für Ganzheitliche Medizin - Victoria Reinich, Heilpraktikerin",
-  "description": "Praxis für Ganzheitliche Medizin - Victoria Reinich, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Ganzheitliche Medizin von Victoria Reinich in Berlin Friedenau bietet individuelle naturheilkundliche Behandlungen mit einem Fokus auf Frauenheilkunde und Darmgesundheit. Als Heilpraktikerin kombiniert sie funktionale Diagnostik mit evidenzbasierten Naturtherapien, um Patienten mit wiederkehrenden Beschwerden, wie Blasenentzündungen und Reizdarmsyndrom, ganzheitlich zu unterstützen. Die Praxis legt Wert auf eine persönliche und empathische Betreuung, die sowohl körperliche als auch emotionale Aspekte berücksichtigt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "017693103849",
   "email": "info@victoriareinich.de",
   "website": "https://www.victoriareinich.de/",
+  "bookingUrl": "https://www.victoriareinich.de/en#ed-307007875",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,106 @@
       "close": "17:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Not Found Error 404"
+    },
+    {
+      "id": "offer-2",
+      "name": "VICTORIA REINICH"
+    },
+    {
+      "id": "offer-3",
+      "name": "Practice for Holistic Medicine I Naturopath Berlin Friedenau"
+    },
+    {
+      "id": "offer-4",
+      "name": "to my practice in Berlin Friedenau"
+    },
+    {
+      "id": "offer-5",
+      "name": "Specializations"
+    },
+    {
+      "id": "offer-6",
+      "name": "Holistic therapy for your well-being"
+    },
+    {
+      "id": "offer-7",
+      "name": "Beschwerdebilder in der Praxis"
+    },
+    {
+      "id": "offer-8",
+      "name": "Methods"
+    },
+    {
+      "id": "offer-9",
+      "name": "Holistic treatments in various forms"
+    },
+    {
+      "id": "offer-10",
+      "name": "Acupuncture"
+    },
+    {
+      "id": "offer-11",
+      "name": "IV-treatments"
+    },
+    {
+      "id": "offer-12",
+      "name": "Herbal medicine"
+    },
+    {
+      "id": "offer-13",
+      "name": "Natural healing methods"
+    },
+    {
+      "id": "offer-14",
+      "name": "Your path to health and well-being"
+    },
+    {
+      "id": "offer-15",
+      "name": "Patient information"
+    },
+    {
+      "id": "offer-16",
+      "name": "Free short initial consultation"
+    },
+    {
+      "id": "offer-17",
+      "name": "Course of treatment"
+    }
+  ],
+  "images": [
+    "https://cdn1.site-media.eu/images/145%2C512x237%2B345%2B383/6546687/de2258b9-e7cc-4902-8ce4-20628e74b990.jpg",
+    "https://cdn1.site-media.eu/images/297%2C681x683%2B172%2B0/7181651/Start.jpg",
+    "https://cdn1.site-media.eu/images/800x800%2C683x683%2B170%2B0/7181752/Ansicht2.jpg",
+    "https://cdn1.site-media.eu/images/800x800%2C683x683%2B170%2B0/7181755/Ansicht1.jpg",
+    "https://cdn1.site-media.eu/images/576x576%2C683x683%2B0%2B170/7181750/Pulsdiagnose.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Praxis für Ganzheitliche Medizin an?",
+      "answer": "Die Praxis bietet verschiedene ganzheitliche Behandlungsmethoden an, darunter Akupunktur, IV-Behandlungen, Phytotherapie (Kräutermedizin) und natürliche Heilmethoden."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin direkt über die Webseite der Praxis buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag geöffnet, jeweils von 08:30 bis 17:30 Uhr."
+    },
+    {
+      "question": "Bietet die Praxis eine kostenlose Erstberatung an?",
+      "answer": "Ja, die Praxis bietet ein kostenloses Kennenlerngespräch an, das maximal 15 Minuten dauert und dazu dient, sich gegenseitig kennenzulernen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Ganzheitliche Medizin?",
+      "answer": "Die Praxis befindet sich in der Bennigsenstraße 13, 12159 Berlin, im Stadtteil Friedenau."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfejRQnlRqEcRAL5C5PBm9wU",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 23
 }

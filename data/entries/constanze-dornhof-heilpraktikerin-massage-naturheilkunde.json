@@ -2,8 +2,8 @@
   "id": "constanze-dornhof-heilpraktikerin-massage-naturheilkunde",
   "slug": "constanze-dornhof-heilpraktikerin-massage-naturheilkunde",
   "name": "Constanze Dornhof, Heilpraktikerin - Massage & Naturheilkunde",
-  "description": "Constanze Dornhof, Heilpraktikerin - Massage & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Constanze Dornhof ist eine erfahrene Heilpraktikerin in Berlin-Pankow, die sich auf ganzheitliche Naturheilkunde spezialisiert hat. In ihrer Praxis legt sie großen Wert auf die individuellen Bedürfnisse und die Aktivierung der Selbstheilungskräfte ihrer Patienten. Zu ihren Behandlungsschwerpunkten zählen Massagen, Pflanzenheilkunde, Augendiagnose sowie Kräuterspaziergänge. Durch eine umfassende Anamnese und persönliche Beratung entwickelt sie maßgeschneiderte Therapieansätze, die Körper, Geist und Seele in Einklang bringen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,190 @@
   "phone": "03047553495",
   "email": "natur-dornhof@posteo.de",
   "website": "https://www.naturgesundheit-dornhof.de/",
+  "bookingUrl": "https://www.naturgesundheit-dornhof.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erwachsene: 30 bis o",
+      "price": 90,
+      "priceLabel": "90 Eur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kinder: 30 bis o",
+      "price": 60,
+      "priceLabel": "60 Eur"
+    },
+    {
+      "id": "offer-3",
+      "name": "40 Minuten Massage: o",
+      "durationMinutes": 40,
+      "durationLabel": "40 min",
+      "price": 55,
+      "priceLabel": "55 Eur"
+    },
+    {
+      "id": "offer-4",
+      "name": "60 Minuten Massage: o",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 75,
+      "priceLabel": "75 Eur"
+    },
+    {
+      "id": "offer-5",
+      "name": "70 Minuten Massage: o",
+      "durationMinutes": 70,
+      "durationLabel": "70 min",
+      "price": 80,
+      "priceLabel": "80 Eur"
+    },
+    {
+      "id": "offer-6",
+      "name": "30 Minuten: o",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30 Eur"
+    },
+    {
+      "id": "offer-7",
+      "name": "40 Minuten: o",
+      "durationMinutes": 40,
+      "durationLabel": "40 min",
+      "price": 40,
+      "priceLabel": "40 Eur"
+    },
+    {
+      "id": "offer-8",
+      "name": "60 Minuten: o",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 60,
+      "priceLabel": "60 Eur"
+    },
+    {
+      "id": "offer-9",
+      "name": "45 Minuten Massage: o",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 65,
+      "priceLabel": "65 Eur"
+    },
+    {
+      "id": "offer-10",
+      "name": "60 Minuten Massage: o",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 70,
+      "priceLabel": "70 Eur"
+    },
+    {
+      "id": "offer-11",
+      "name": "90 Minuten Massage: o",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 95,
+      "priceLabel": "95 Eur"
+    },
+    {
+      "id": "offer-12",
+      "name": "30 Minuten Massage: o",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 40,
+      "priceLabel": "40 Eur"
+    },
+    {
+      "id": "offer-13",
+      "name": "Heilpraktikerin Constanze Dornhof Ganzheitliche Naturheilpraxis in Pankow"
+    },
+    {
+      "id": "offer-14",
+      "name": "Schwerpunkte meiner Arbeit"
+    },
+    {
+      "id": "offer-15",
+      "name": "Massage für Frauen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Pflanzen­heil­kunde"
+    },
+    {
+      "id": "offer-17",
+      "name": "Augen­diagnose"
+    },
+    {
+      "id": "offer-18",
+      "name": "Kräuter­spaziergänge"
+    },
+    {
+      "id": "offer-19",
+      "name": "Erfahrungswerte"
+    },
+    {
+      "id": "offer-20",
+      "name": "Raum und Zeit zum Wohlfühlen"
+    },
+    {
+      "id": "offer-21",
+      "name": "Hohe Zuwendung auf meine individuelle Situation"
+    },
+    {
+      "id": "offer-22",
+      "name": "Vertrauensvolle Gespräche und professionelle Massagen"
+    },
+    {
+      "id": "offer-23",
+      "name": "Ganzheitliche Naturheilpraxis"
+    },
+    {
+      "id": "offer-24",
+      "name": "Behandlungsfelder"
+    },
+    {
+      "id": "offer-25",
+      "name": "Gesundheitsbegleitung"
+    },
+    {
+      "id": "offer-26",
+      "name": "FAQ \\| Fragen rund um den Heilpraktiker-Besuch"
+    },
+    {
+      "id": "offer-27",
+      "name": "Ich freue mich auf Ihre Anfrage"
+    }
+  ],
+  "images": [
+    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/heilpraktiker-pankow-naturheilkunde.jpg",
+    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/massage-berlin-pankow.jpg",
+    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/pflanzenheilkunde-berlin-pankow.jpg",
+    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/augendiagnose-2.jpg",
+    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/kraeuterspaziergang-pankow.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Constanze Dornhof an?",
+      "answer": "Constanze Dornhof bietet eine Vielzahl von Behandlungen an, darunter Massagen für Erwachsene und Kinder, Pflanzenheilkunde, Augen­diagnose und Kräuterspaziergänge."
+    },
+    {
+      "question": "Wie viel kostet eine Massage bei Constanze Dornhof?",
+      "answer": "Die Preise für Massagen variieren je nach Dauer: 30 Minuten kosten 40 Eur, 40 Minuten 55 Eur, 60 Minuten 75 Eur und 90 Minuten 95 Eur."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Constanze Dornhof buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Constanze Dornhof buchen, indem Sie den Kontaktbereich aufrufen: https://www.naturgesundheit-dornhof.de/kontakt/."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Constanze Dornhof?",
+      "answer": "Die Praxis von Constanze Dornhof befindet sich in der Florastraße 43, 13187 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich Constanze Dornhof kontaktieren?",
+      "answer": "Sie können Constanze Dornhof telefonisch unter 03047553495 oder per E-Mail an natur-dornhof@posteo.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8X3GrWhSqEcRhk6QJxwW4gk"
 }

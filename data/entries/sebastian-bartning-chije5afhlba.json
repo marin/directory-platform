@@ -2,8 +2,8 @@
   "id": "sebastian-bartning-chije5afhlba",
   "slug": "sebastian-bartning-chije5afhlba",
   "name": "Sebastian Bartning",
-  "description": "Sebastian Bartning ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktiker Sebastian Bartning in Berlin bietet umfassende naturheilkundliche Therapien an, darunter Fastenkuren, Hypnose-Therapie und Faszien-Yoga. Seine Praxis befindet sich im Stadtteil Steglitz-Zehlendorf und legt besonderen Wert auf individuelle Gesundheitsförderung. Neben ambulanten Fastenkuren vor Ort werden auch Online-Fastenprogramme angeboten, die eine persönliche Begleitung ermöglichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,54 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hier finden die Fasten-Kuren statt"
+    },
+    {
+      "id": "offer-2",
+      "name": "Faszien-Yoga für Dummies"
+    },
+    {
+      "id": "offer-3",
+      "name": "Heilfasten für Dummies"
+    },
+    {
+      "id": "offer-4",
+      "name": "Zucker, Baby"
+    }
+  ],
+  "images": [
+    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides1.jpg",
+    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides2.jpg",
+    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides3.jpg",
+    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides4.jpg",
+    "https://bartning.de/media/flyer/Berlin_Heilfasten_pic.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Sebastian Bartning?",
+      "answer": "Die Praxis von Sebastian Bartning befindet sich im Freiwaldauer Weg 34, 12205 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Sebastian Bartning buchen?",
+      "answer": "Sie können einen Termin bei Sebastian Bartning über die Buchungsseite auf seiner Website unter folgendem Link buchen: https://bartning.de/pages/kalender/fastenkuren-berlin.php."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Donnerstag von 08:30 bis 17:00 Uhr und Freitag von 09:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Welche Angebote bietet Sebastian Bartning an?",
+      "answer": "Sebastian Bartning bietet unter anderem Fastenkuren, Hypnose-Therapie, fasziales Yoga und heilendes Singen an."
+    },
+    {
+      "question": "Wie kann ich Sebastian Bartning kontaktieren?",
+      "answer": "Sie können Sebastian Bartning telefonisch unter 03081299955 oder per E-Mail an info@bartning.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE5afHlBaqEcRaXZytXUT_wE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

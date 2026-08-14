@@ -2,8 +2,8 @@
   "id": "akupunkturpraxis-sandra-wilfert",
   "slug": "akupunkturpraxis-sandra-wilfert",
   "name": "Akupunkturpraxis Sandra Wilfert",
-  "description": "Akupunkturpraxis Sandra Wilfert ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Akupunkturpraxis Sandra Wilfert in Berlin Prenzlauer Berg steht die ganzheitliche Behandlung im Fokus. Die Praxis bietet eine individuelle Akupunktur nach der Balance-Methode von Dr. Tan, die darauf abzielt, den Energiefluss im Körper wieder ins Gleichgewicht zu bringen. Sandra Wilfert, Heilpraktikerin mit Schwerpunkt auf traditioneller chinesischer Medizin (TCM), unterstützt ihre Patienten bei verschiedenen Beschwerden wie chronischen Schmerzen, hormonellen Störungen und Stress.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -44,7 +44,106 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Einzelbehandlung 60 Min. –",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 50,
+      "priceLabel": "50 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kennenlernangebot 30 Min. Erstgespräch + 60 Min. Behandlung –",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 70,
+      "priceLabel": "70 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "3er-Paket 3 Sitzungen à 60 Min. 4 Wochen",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 140,
+      "priceLabel": "140 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "5er-Paket 5 Sitzungen à 60 Min. 6 Wochen",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 240,
+      "priceLabel": "240 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "10er-Paket 10 Sitzungen à 60 Min. 11 Wochen",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 470,
+      "priceLabel": "470 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ich kann Ihnen helfen bei"
+    },
+    {
+      "id": "offer-7",
+      "name": "Vertrauen Sie der traditionellen chinesischen Medizin!"
+    },
+    {
+      "id": "offer-8",
+      "name": "Ganzheitliche Akupunktur & TCM – individuell abgestimmt"
+    },
+    {
+      "id": "offer-9",
+      "name": "Nahrungsmitteltherapie hat in China eine lange Tradition"
+    },
+    {
+      "id": "offer-10",
+      "name": "Lehre & Weiterbildung in Akupunktur und TCM"
+    },
+    {
+      "id": "offer-11",
+      "name": "Folgen Sie auf INSTAGRAM"
+    },
+    {
+      "id": "offer-12",
+      "name": "Geschenkgutscheine"
+    }
+  ],
+  "images": [
+    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2020/06/flag_en.png",
+    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2020/06/sandra_wilfert_akupunktur_berlin.png",
+    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/10/diaetetik_sandra_wilfert_berlin.jpg",
+    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/07/fotolia_83995203.jpg",
+    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/07/chinesische_medizin_sandra_wilfert_berlin-795x544.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Akupunkturpraxis Sandra Wilfert an?",
+      "answer": "Die Praxis bietet verschiedene Behandlungen an, darunter Einzelbehandlungen, Kennenlernangebote, sowie 3er-, 5er- und 10er-Pakete für Akupunktursitzungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen: Terminvereinbarung oder telefonisch unter 01633817756."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag und Donnerstag von 09:00 bis 19:00 Uhr sowie Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Akupunkturpraxis?",
+      "answer": "Die Praxis befindet sich im Ärztehaus in Berlin, Prenzlauer Berg, mit der Adresse: Ärztehaus, 10437 Berlin, Deutschland."
+    },
+    {
+      "question": "Welche Beschwerden können mit Akupunktur behandelt werden?",
+      "answer": "Akupunktur kann bei verschiedenen Beschwerden helfen, darunter chronische Schmerzen, hormonelle Störungen, unerfüllter Kinderwunsch, Stress, Schlafstörungen und Verdauungsprobleme."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKb7lngZSqEcRby4xd7sOF2A",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

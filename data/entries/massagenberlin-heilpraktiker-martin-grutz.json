@@ -2,8 +2,8 @@
   "id": "massagenberlin-heilpraktiker-martin-grutz",
   "slug": "massagenberlin-heilpraktiker-martin-grutz",
   "name": "Massagenberlin - Heilpraktiker Martin Grütz",
-  "description": "Massagenberlin - Heilpraktiker Martin Grütz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis von Martin Grütz in Berlin-Pankow stehen die Ursachen von Schmerzen im Mittelpunkt. Durch einen integrativen Ansatz, der Massage, Sportmassage und Faszientherapie kombiniert, werden unbewusste Haltungsmuster und Verspannungen analysiert und behandelt. Ziel ist es, den Körper in ein harmonisches Gleichgewicht zu bringen und die Lebensqualität der Patienten zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -63,7 +63,98 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gemeinsam an den Ursachen von Schmerzen arbeiten"
+    },
+    {
+      "id": "offer-2",
+      "name": "Termin finden"
+    },
+    {
+      "id": "offer-3",
+      "name": "Therapiemethoden"
+    },
+    {
+      "id": "offer-4",
+      "name": "Rückmeldungen nach der Behandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Unverstanden"
+    },
+    {
+      "id": "offer-6",
+      "name": "Therapiefrust"
+    },
+    {
+      "id": "offer-7",
+      "name": "Energielos"
+    },
+    {
+      "id": "offer-8",
+      "name": "Rückenschmerzen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schreibtischfrust"
+    },
+    {
+      "id": "offer-10",
+      "name": "Sport & Schmerz"
+    },
+    {
+      "id": "offer-11",
+      "name": "Der blinde Fleck"
+    },
+    {
+      "id": "offer-12",
+      "name": "Werde Experte für deinen Körper"
+    },
+    {
+      "id": "offer-13",
+      "name": "Das sind häufige Schmerzsymptome meiner Patienten"
+    },
+    {
+      "id": "offer-14",
+      "name": "Rücken"
+    },
+    {
+      "id": "offer-15",
+      "name": "Gelenkschmerzen"
+    }
+  ],
+  "images": [
+    "https://massagenberlin.com/wp-content/uploads/2025/07/2.webp",
+    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-00_59_12.png",
+    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-01_01_29.png",
+    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-01_07_00.png",
+    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-00_45_41.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapiemethoden bietet Martin Grütz an?",
+      "answer": "Martin Grütz bietet verschiedene Therapiemethoden an, darunter Massage, Sportmassage, Chiropraktik und Faszientherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Massagenberlin buchen?",
+      "answer": "Sie können einen Termin bei Massagenberlin über die Buchungsseite auf der Website unter https://massagenberlin.com/kalender/ buchen."
+    },
+    {
+      "question": "Wann hat die Praxis von Martin Grütz geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Sonntag täglich von 09:00 bis 21:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Massagenberlin?",
+      "answer": "Die Praxis befindet sich in der Driesener Str. 5, 10439 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich Martin Grütz kontaktieren?",
+      "answer": "Sie können Martin Grütz telefonisch unter 01785555838 oder per E-Mail an massgenberlin@gmx.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYPgxaMhZUERbTgCHJE3DNc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 111
 }

@@ -2,8 +2,8 @@
   "id": "frau-anne-dorthe-hess-chijydamc8hy",
   "slug": "frau-anne-dorthe-hess-chijydamc8hy",
   "name": "Frau Anne-Dörthe Heß",
-  "description": "Frau Anne-Dörthe Heß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Anne-Dörthe Heß ist Heilpraktikerin mit einer Praxis für Naturheilkunde in Berlin, im Stadtteil Steglitz-Zehlendorf. Sie bietet verschiedene naturheilkundliche Behandlungen an, darunter Homöopathie, Heilfasten und Hatha Yoga. Ihre Praxis befindet sich im Stölpchenweg 7 und ist über die Webseite www.praxis-am-see.de erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,33 @@
   "phone": "03080604723",
   "email": "ch.yoga@gmx.de",
   "website": "http://www.praxis-am-see.de/",
+  "bookingUrl": "http://www.praxis-am-see.de/termin.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.praxis-am-see.de/image/bild05.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Frau Anne-Dörthe Heß?",
+      "answer": "Die Praxis befindet sich im Stölpchenweg 7, 14109 Berlin."
+    },
+    {
+      "question": "Wie kann ich Frau Anne-Dörthe Heß kontaktieren?",
+      "answer": "Sie können Frau Anne-Dörthe Heß telefonisch unter 03080604723 oder per E-Mail an ch.yoga@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis an?",
+      "answer": "Die Praxis bietet Dienstleistungen im Bereich Naturheilkunde an, darunter Heilfasten, Homöopathie, Hatha Yoga und Ayurveda."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen: http://www.praxis-am-see.de/termin.html."
+    },
+    {
+      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
+      "answer": "Im Moment sind keine Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYdamc8hYqEcRdk5xvsNe7kQ"
 }

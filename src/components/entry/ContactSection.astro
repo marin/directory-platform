@@ -1,11 +1,20 @@
 ---
 import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+import {
+  formatGoogleMapsRating,
+  formatGoogleMapsRatingsCount,
+  hasGoogleMapsRating,
+} from "../../lib/geo/google-maps-rating.ts";
+import siteConfig from "../../../config/site.config.ts";
 
 interface Props {
   entry: NormalizedEntry;
 }
 const { entry } = Astro.props;
 const nap = entry.nap;
+const mapsUrl = entry.googleMapsUrl;
+const showGoogleRating = hasGoogleMapsRating(entry);
+const locale = siteConfig.site.defaultLocale;
 ---
 
 <section aria-labelledby="contact-heading">
@@ -13,6 +22,25 @@ const nap = entry.nap;
   <dl class="contact" data-testid="nap-block">
     <dt>Name</dt>
     <dd data-testid="nap-name">{nap.name}</dd>
+    {
+      showGoogleRating && (
+        <>
+          <dt>Google Bewertung</dt>
+          <dd data-testid="nap-google-rating">
+            ★ {formatGoogleMapsRating(entry.googleMapsRating!, locale)} ·{" "}
+            {formatGoogleMapsRatingsCount(entry.googleMapsRatingsCount!, locale)} Bewertungen
+            {mapsUrl && (
+              <>
+                {" "}
+                (<a href={mapsUrl} target="_blank" rel="noopener noreferrer" translate="no">
+                  Google Maps
+                </a>)
+              </>
+            )}
+          </dd>
+        </>
+      )
+    }
     {nap.formattedPhone && (
       <>
         <dt>Telefon</dt>
@@ -22,7 +50,15 @@ const nap = entry.nap;
     {nap.formattedAddress && (
       <>
         <dt>Adresse</dt>
-        <dd data-testid="nap-address">{nap.formattedAddress}</dd>
+        <dd data-testid="nap-address">
+          {nap.formattedAddress}
+          {mapsUrl && (
+            <>
+              {" "}
+              (<a href={mapsUrl} target="_blank" rel="noopener noreferrer">in Google Maps öffnen</a>)
+            </>
+          )}
+        </dd>
       </>
     )}
     {entry.email && (

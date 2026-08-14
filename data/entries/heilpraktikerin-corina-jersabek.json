@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-corina-jersabek",
   "slug": "heilpraktikerin-corina-jersabek",
   "name": "Heilpraktikerin Corina Jersabek",
-  "description": "Heilpraktikerin Corina Jersabek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Corina Jersabek bietet in ihrer Praxis in Berlin-Charlottenburg umfassende naturheilkundliche Behandlungen an. Nach ihrer Ausbildung im Jahr 2010 und wertvollen Erfahrungen in Spanien und Italien, hat sie sich auf verschiedene Heilmethoden spezialisiert, darunter Schmerztherapie nach Liebscher & Bracht, Blutegeltherapie und strukturelle Osteopathie. Ihr ganzheitlicher Ansatz zielt darauf ab, Patienten auf dem Weg zur Selbstheilung und Schmerzfreiheit zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,81 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "129,-",
+      "price": 129,
+      "priceLabel": "129,-€"
+    },
+    {
+      "id": "offer-2",
+      "name": "zuzüglich Blutegel",
+      "price": 129,
+      "priceLabel": "129,-€"
+    },
+    {
+      "id": "offer-3",
+      "name": "pro 1ml",
+      "price": 350,
+      "priceLabel": "350,-€"
+    },
+    {
+      "id": "offer-4",
+      "name": "Heilmethoden"
+    },
+    {
+      "id": "offer-5",
+      "name": "Schmerztherapie nach Liebscher & Bracht"
+    },
+    {
+      "id": "offer-6",
+      "name": "Medizinische Kräftigungstherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Blutegeltherapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Strukturelle Osteopathie und sanfte Chiropraktik nach Dr. Ackermann"
+    },
+    {
+      "id": "offer-9",
+      "name": "Freeing",
+      "description": "Craniale Osteopathie"
+    },
+    {
+      "id": "offer-10",
+      "name": "Faltenunterspritzung mit Hyaloron"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=jpg/path/s9a9fb8f41cb282a0/image/ic280295d8aca782e/version/1456940860/corina-jersabek-heilpraktikerin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Heilmethoden bietet Heilpraktikerin Corina Jersabek an?",
+      "answer": "Corina Jersabek bietet verschiedene Heilmethoden an, darunter Schmerztherapie nach Liebscher & Bracht, medizinische Kräftigungstherapie, Blutegeltherapie, strukturelle Osteopathie und sanfte Chiropraktik nach Dr. Ackermann sowie craniale Osteopathie (Freeing) und Faltenunterspritzung mit Hyaloron."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis von Corina Jersabek ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Corina Jersabek?",
+      "answer": "Die Praxis befindet sich in der Bundesallee 28, 10717 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Kosten entstehen für die Behandlungen?",
+      "answer": "Die Preise für die Behandlungen beginnen bei 129,- € und es können zusätzliche Kosten für Blutegel oder andere spezifische Behandlungen anfallen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSYLbPutRqEcReEogzOu66Po",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 15
 }

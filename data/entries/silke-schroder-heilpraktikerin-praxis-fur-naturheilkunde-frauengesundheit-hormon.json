@@ -2,8 +2,8 @@
   "id": "silke-schroder-heilpraktikerin-praxis-fur-naturheilkunde-frauengesundheit-hormon",
   "slug": "silke-schroder-heilpraktikerin-praxis-fur-naturheilkunde-frauengesundheit-hormon",
   "name": "Silke Schröder Heilpraktikerin Praxis für Naturheilkunde, Frauengesundheit & Hormonbalance",
-  "description": "Silke Schröder Heilpraktikerin Praxis für Naturheilkunde, Frauengesundheit & Hormonbalance ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Silke Schröder ist Heilpraktikerin in Berlin und bietet in ihrer Praxis für Naturheilkunde, Frauengesundheit und Hormonbalance individuelle Behandlungen an. Sie hat sich auf die Begleitung von Frauen mit speziellen gesundheitlichen Herausforderungen wie Endometriose und hormonellen Ungleichgewichten spezialisiert. Durch eine Kombination aus naturheilkundlichen Ansätzen und moderner Diagnostik unterstützt sie ihre Patientinnen dabei, die Ursachen ihrer Beschwerden zu identifizieren und nachhaltige Lösungen zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -42,7 +42,40 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Hormonbalance"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/112208d7672f4770beaf08675a1c6f3c/dms3rep/multi/opt/PHOTO-2024-11-02-20-46-14-1920w.jpg?Expires=1789061695&Signature=DS~lgdX6C7VMl2g25C1xOdP-~dJbVHafF~wEwF0BZU~UG8wvSzxHlvlyjPTIEMAGuPaGXiOVZEVCn109kVYxt7b6srh0glYgpsK7mH20yNR0Lfkr0Q~~dK11CA3OqRoWf5B4ig8mSDfWiwHjlVmxf6rpqKyCU9iL6O5-rZ0Cw2XQKSOW9As-~vE-Qz5R7jsZrAJU08jvUdR0tlpSMa6~h81qw-5HJEd9o-OWDaYaDcNzWQEoEc055aKPkGORrc7TsMZCvAcOObRB1sWBnhRHJ3rq2pXZLjUnsu1qrRK8z6i9pumTQbAS0nBAKdSwBKm8JfCTNLDAHd1MqM1Oldmmhg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/112208d7672f4770beaf08675a1c6f3c/dms3rep/multi/opt/Willkommen+2+IMG_1376-1920w.JPG?Expires=1789061695&Signature=AA9-BaEF~MzTHiwGEvMhauG9050E6tgoaJycLPMo~9kHXIvsQNuRR5I-8ASB2ZDqRcaw9VH~A2at0~pt2SGeokWYT7jWKbrtsSBu-ACR0zoy9C5ohxgM7V83gzyy4tpAqybQ0LiJWzqnqOgO1liltuWRbalvW6oQch-dgO1QW6dWN6khyBlP-~ziQxKO2L7ofANagiqVAXk4Uct0FqjaxZHkgbEd4-VINBAJqxomRruF25rhv6ankKyHzZj9ouvpKJuhj3NJW1Ylkkko~kWMI~3BLj0YT02myRhSQ8mZHj7rnZ5qjmYIwqEHDjd0FqonVubw9tUQ0wlWT1ZxWgVp7w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/112208d7672f4770beaf08675a1c6f3c/dms3rep/multi/opt/IMG_0005-1920w.jpg?Expires=1789061695&Signature=oIaoIHEYkT34cn28kVx3WZpmIOYSXaO1eS~KxsxcvxspejXtJZydGN~m5lavjytqBN4pSdeeusn4Mdzw3Kid3mEStdltKAqJiAAlHIeC00thOy9GgmxL2LqCYC2UektkK2OtBfcr~lXvgndVgUnp9LfjBt8nPCYqvze3dHDOVrKSVnZvuv-ZXgM5s4ehKOnl925aSfWFY1GCOWALGv5w-0Q0JePHppS3~B~deNd9RZUl0AcKyuSYeJHThBTYMO9RYXe5jtiayos9jtAzlgodRXlLh3Gd99dMxZC-VxNKPySh-x3Okam92O3XPA1AKseVgAQIoGriRjA7F7v4uFrbvQ__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Silke Schröder in ihrer Praxis an?",
+      "answer": "Silke Schröder bietet Dienstleistungen in den Bereichen Naturheilkunde, Frauengesundheit und Hormonbalance an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Silke Schröder vereinbaren?",
+      "answer": "Ein Termin kann online, per E-Mail oder telefonisch unter der Nummer 015774942927 vereinbart werden."
+    },
+    {
+      "question": "Wann hat die Praxis von Silke Schröder geöffnet?",
+      "answer": "Die Praxis hat montags, dienstags und freitags von 13:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Silke Schröder?",
+      "answer": "Die Praxis befindet sich in der Wichertstraße 46, 10439 Berlin."
+    },
+    {
+      "question": "Was sind die Schwerpunkte von Silke Schröder als Heilpraktikerin?",
+      "answer": "Silke Schröder hat sich auf Endometriose, Hormonbalance und die Begleitung von Frauen in verschiedenen Gesundheitsfragen spezialisiert."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1_UEjflNqEcRoDttSRsjznw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

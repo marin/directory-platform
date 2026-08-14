@@ -2,8 +2,8 @@
   "id": "berlin-prenzlauer-berg-praxis-ariane-boesenberg",
   "slug": "berlin-prenzlauer-berg-praxis-ariane-boesenberg",
   "name": "Berlin-Prenzlauer Berg Praxis Ariane Boesenberg",
-  "description": "Berlin-Prenzlauer Berg Praxis Ariane Boesenberg ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Berlin-Prenzlauer Berg Praxis Ariane Boesenberg bietet eine Vielzahl von naturheilkundlichen Therapien an, um die individuelle Lebensqualität ihrer Klienten zu verbessern. Mit über 10 Jahren Erfahrung in der Heilpraktik und einem breiten Spektrum an Methoden, darunter Kinesiologie, Stressbewältigung und Theta-Healing, verfolgt die Praxis einen ganzheitlichen Ansatz zur Förderung des Wohlbefindens. Die Therapieangebote sind sowohl vor Ort als auch online verfügbar, um den Bedürfnissen der Klienten gerecht zu werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,94 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kinesiologie/Psychokinesiologie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Stressbewältigung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Burnout-Behandlung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beziehungstherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Theta-Healing"
+    },
+    {
+      "id": "offer-6",
+      "name": "Führungskräfte-Coaching"
+    },
+    {
+      "id": "offer-7",
+      "name": "Mein Therapieprozess"
+    },
+    {
+      "id": "offer-8",
+      "name": "Erstgespräch"
+    },
+    {
+      "id": "offer-9",
+      "name": "Zielsetzung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Therapiedurchführung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Online-Therapie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Erfahrungsberichte"
+    },
+    {
+      "id": "offer-13",
+      "name": "Ilona F."
+    },
+    {
+      "id": "offer-14",
+      "name": "Jens T."
+    },
+    {
+      "id": "offer-15",
+      "name": "Sabine L."
+    }
+  ],
+  "images": [
+    "https://arianeboesenberg.com/assets/images/JENS230529_1797-2.jpg.webp"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Ariane Boesenberg?",
+      "answer": "Die Praxis befindet sich in der Choriner Str. 20, 10435 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet Ariane Boesenberg Online-Therapie an?",
+      "answer": "Ja, alle Therapie- und Beratungsangebote sind auch online über sichere Videokonferenz möglich."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Ariane Boesenberg buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link vereinbaren: https://www.doctolib.de/heilpraktiker/berlin/ariane-boesenberg?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Welche Therapieansätze bietet Ariane Boesenberg an?",
+      "answer": "Ariane Boesenberg bietet verschiedene Therapieansätze an, darunter Kinesiologie/Psychokinesiologie, Stressbewältigung, Burnout-Behandlung, Beziehungstherapie und Theta-Healing."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZSmHkJRqEcRM8JycnkQ6es",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

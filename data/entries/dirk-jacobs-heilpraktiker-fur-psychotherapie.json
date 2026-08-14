@@ -2,8 +2,8 @@
   "id": "dirk-jacobs-heilpraktiker-fur-psychotherapie",
   "slug": "dirk-jacobs-heilpraktiker-fur-psychotherapie",
   "name": "Dirk Jacobs - Heilpraktiker für Psychotherapie",
-  "description": "Dirk Jacobs - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dirk Jacobs ist Heilpraktiker für Psychotherapie in Berlin-Pankow und bietet eine Vielzahl von therapeutischen Dienstleistungen an, darunter Hypnotherapie, systemisches Coaching und ressourcenorientierte Psychotherapie. Sein Fokus liegt auf der Behandlung von Stress, Burnout, Depressionen und Ängsten sowie der speziellen Tinnitus-Therapie. Durch individuelle und wertschätzende Begleitung unterstützt er seine Klienten dabei, neue Perspektiven zu entwickeln und ihre inneren Ressourcen zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -29,7 +29,60 @@
   "website": "https://aufdichhoeren.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dirk-jacobs?utm_source=google-maps&utm_campaign=google-maps",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wege zu neuen Lösungen bei Stress, Burnout, Depression, Angst"
+    },
+    {
+      "id": "offer-2",
+      "name": "Tinnitus-Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ressourcenorientierte Psychotherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Hypnotherapie Hypnose"
+    },
+    {
+      "id": "offer-5",
+      "name": "Systemisches Coaching"
+    },
+    {
+      "id": "offer-6",
+      "name": "Klientenzentrierte Gesprächstherapie"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://aufdichhoeren.de/static/slogan-2-2b69c36d6cecb753f307a607b55dd0f7.png",
+    "https://aufdichhoeren.de/static/white-logo-6c8ffa5ca717c682f94819001ec9db66.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Dirk Jacobs an?",
+      "answer": "Dirk Jacobs bietet verschiedene Therapieangebote an, darunter Wege zu neuen Lösungen bei Stress, Burnout, Depression und Angst, Tinnitus-Therapie, ressourcenorientierte Psychotherapie, Hypnotherapie, systemisches Coaching und klientenzentrierte Gesprächstherapie."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Dirk Jacobs?",
+      "answer": "Die Praxis von Dirk Jacobs befindet sich in der Sredzkistraße 64, 10405 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dirk Jacobs buchen?",
+      "answer": "Sie können einen Termin bei Dirk Jacobs online über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dirk-jacobs?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Wie kann ich Dirk Jacobs kontaktieren?",
+      "answer": "Sie können Dirk Jacobs telefonisch unter 01783143168 oder per E-Mail unter praxis@aufdichhoeren.de kontaktieren."
+    },
+    {
+      "question": "Welche Methoden verwendet Dirk Jacobs in seiner Therapie?",
+      "answer": "Dirk Jacobs verwendet verschiedene Methoden, darunter Hypnotherapie nach M. Erickson, klientenzentrierte Gesprächstherapie nach C. Rogers, ressourcenorientierte Psychotherapie sowie systemisches Coaching."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK0eOD1haZSYR2hLmOxF8Xjc",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 7
 }

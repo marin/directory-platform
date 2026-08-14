@@ -1,10 +1,11 @@
-Generate 3-5 FAQ question/answer pairs grounded in the provided data.
+Erstelle 3–5 FAQ-Fragen und Antworten auf Deutsch für diesen Heilpraktiker-Eintrag.
 
-## Context
+## Kontext
 {{contextJson}}
 
-## Rules
-- Questions must be answerable from the data provided.
-- Answers must cite concrete facts (counts, prices, hours) from the data.
-- Do not invent statistics or claims.
-- Return JSON array: [{"question":"...","answer":"..."}]
+## Regeln
+- Fragen müssen aus dem Kontext beantwortbar sein.
+- Antworten nur mit konkreten Fakten aus dem Kontext.
+- Keine erfundenen Statistiken, Zertifikate oder Preise.
+- Keine Website-URLs, Markdown-Links oder Fragen nur zur Website. Der Website-Link steht bereits auf der Eintragsseite.
+- Antwortformat als JSON-Objekt: {"faq":[{"question":"...","answer":"..."}]}

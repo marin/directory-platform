@@ -5,6 +5,10 @@ import type { Area } from "../../validation/area-schema.ts";
 import { absoluteUrl, categoryPath, areaPath, entryPath, homePath } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
+import {
+  hasGoogleMapsRating,
+  shouldEmitAggregateRating,
+} from "../../geo/google-maps-rating.ts";
 
 export function buildBreadcrumbList(
   items: Array<{ name: string; path: string }>,
@@ -65,6 +69,19 @@ export function buildListingJsonLd(
     };
   }
   if (entry.website) business.sameAs = [entry.website];
+
+  if (
+    hasGoogleMapsRating(entry) &&
+    shouldEmitAggregateRating(entry.googleMapsRatingsCount!)
+  ) {
+    business.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: entry.googleMapsRating,
+      reviewCount: entry.googleMapsRatingsCount,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
 
   if (entry.isOpen && (entry.offers ?? []).length > 0) {
     business.hasOfferCatalog = {

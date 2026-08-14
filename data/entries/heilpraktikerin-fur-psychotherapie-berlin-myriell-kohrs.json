@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapie-berlin-myriell-kohrs",
   "name": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs",
   "description": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,43 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "EMDR in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "EMDR"
+    },
+    {
+      "id": "offer-3",
+      "name": "Verarbeitung durch Augenbewegungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Vereinbaren Sie jetzt einen Termin"
+    },
+    {
+      "id": "offer-5",
+      "name": "030 265 461 25"
+    },
+    {
+      "id": "offer-6",
+      "name": "0176 619 396 45"
+    },
+    {
+      "id": "offer-7",
+      "name": "mail@kohrs-psychotherapie-berlin.de"
+    },
+    {
+      "id": "offer-8",
+      "name": "Mo-Fr von 9 bis 19 Uhr"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ582CJFdRqEcRCbhgY2I6AxQ",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 9
 }

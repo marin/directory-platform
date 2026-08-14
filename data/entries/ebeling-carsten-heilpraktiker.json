@@ -2,8 +2,8 @@
   "id": "ebeling-carsten-heilpraktiker",
   "slug": "ebeling-carsten-heilpraktiker",
   "name": "Ebeling Carsten Heilpraktiker",
-  "description": "Ebeling Carsten Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheil-Praxis Carsten Ebeling in Berlin bietet eine individuelle und persönliche Betreuung mit intensiver Beratung, Diagnostik und Therapieplanung. Das Leistungsspektrum umfasst verschiedene naturheilkundliche und schulmedizinische Verfahren, darunter Akupunktur, Homöopathie, Chiropraktik und biologische Schmerztherapie. Die Praxis arbeitet eng mit Haus- und Fachärzten sowie anderen Therapeuten zusammen, um eine umfassende Versorgung der Patienten sicherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,36 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Auswahl der Therapieangebote und -möglichkeiten"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet die Naturheil-Praxis Carsten Ebeling an?",
+      "answer": "Die Naturheil-Praxis Carsten Ebeling bietet eine Vielzahl von Therapieangeboten an, darunter Chiropraktik, Osteopathie, Akupunktur, Homöopathie, Phytotherapie, biologische Schmerztherapie und viele weitere naturheilkundliche Verfahren."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib vereinbaren: Termin online vereinbaren."
+    },
+    {
+      "question": "Wann hat die Naturheil-Praxis Carsten Ebeling geöffnet?",
+      "answer": "Die Praxis hat montags von 14:00 bis 20:00 Uhr und dienstags bis freitags von 11:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheil-Praxis Carsten Ebeling?",
+      "answer": "Die Praxis befindet sich in der Leonorenstraße 71, 12247 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03050599920 oder per E-Mail an info@praxis-ebeling.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUZsrJsdaqEcRG3nVtWwHfAI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

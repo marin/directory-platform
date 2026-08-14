@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-friedenau",
   "slug": "naturheilpraxis-friedenau",
   "name": "Naturheilpraxis Friedenau",
-  "description": "Naturheilpraxis Friedenau ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Friedenau in Berlin wird von der erfahrenen Heilpraktikerin Beate Tobies geleitet. Seit 2001 bietet sie eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, manuelle Therapie und Wirbelsäulentherapie. Die Praxis verfolgt einen ganzheitlichen Ansatz und legt großen Wert auf individuelle Therapiepläne, die häufig von privaten Krankenversicherungen übernommen werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,8 +25,35 @@
   },
   "phone": "03081828789",
   "website": "http://www.naturheilpraxis-friedenau.de/",
+  "bookingUrl": "https://www.naturheilpraxis-friedenau.de/termin.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-friedenau.de/media/logod.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Friedenau?",
+      "answer": "Die Naturheilpraxis Friedenau befindet sich in der Stubenrauchstraße 36, 12161 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Friedenau vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 030 / 81 82 87 89 vereinbaren oder direkt über die Website unter https://www.naturheilpraxis-friedenau.de/termin.html."
+    },
+    {
+      "question": "Welche Therapien werden in der Naturheilpraxis Friedenau angeboten?",
+      "answer": "In der Naturheilpraxis Friedenau werden unter anderem Akupunktur, manuelle Therapie, Massage, Naturheilkunde, sanfte Chiropraktik, Schmerztherapie und Wirbelsäulentherapie angeboten."
+    },
+    {
+      "question": "Wer ist die Heilpraktikerin in der Naturheilpraxis Friedenau?",
+      "answer": "Die Heilpraktikerin in der Naturheilpraxis Friedenau ist Beate Tobies, die seit 2001 in eigener Praxis tätig ist."
+    },
+    {
+      "question": "Werden die Behandlungskosten von Krankenkassen übernommen?",
+      "answer": "Die Behandlungen in der Naturheilpraxis Friedenau werden in der Regel von privaten Krankenversicherungen oder von einer privaten Zusatzversicherung ganz bzw. teilweise übernommen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw5CkTH1QqEcRX2cyDUdaIqM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

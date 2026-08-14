@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-und-massage-silvia-von-buttlar",
   "slug": "praxis-fur-naturheilkunde-und-massage-silvia-von-buttlar",
   "name": "Praxis für Naturheilkunde und Massage Silvia von Buttlar",
-  "description": "Praxis für Naturheilkunde und Massage Silvia von Buttlar ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde und Massage Silvia von Buttlar in Berlin bietet integrales Coaching und Heilen nach Georg Meier an. Diese ganzheitliche Methode zielt darauf ab, die Selbstheilungskräfte der Patienten zu aktivieren, indem sie auf emotionale und seelische Faktoren eingeht. In einem ersten Kennenlerngespräch können Interessierte mehr über die Vorgehensweise und die angebotenen Therapieformen erfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -47,7 +47,38 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Integrales Coaching und Heilen nach Georg Meier"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/1061c3_ad94b43cd67e4be3929df8f8fe3d9b3d~mv2.jpg/v1/fill/w_851,h_443,al_c,lg_1,q_85,enc_avif,quality_auto/1061c3_ad94b43cd67e4be3929df8f8fe3d9b3d~mv2.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis für Naturheilkunde und Massage Silvia von Buttlar an?",
+      "answer": "Die Praxis bietet Integrales Coaching und Heilen nach Georg Meier an, eine ganzheitliche Methode zur Freilegung der Selbstheilungskräfte."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde und Massage Silvia von Buttlar?",
+      "answer": "Die Praxis befindet sich in Berlin, Zur Holzoper 11, 12489 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag von 09:00 bis 20:00 Uhr, Dienstag, Mittwoch und Freitag von 16:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Kann ich ein Kennenlerngespräch vereinbaren?",
+      "answer": "Ja, Sie können ein unentgeltliches Kennenlerngespräch vereinbaren, entweder in der Praxis oder telefonisch."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03081829323 oder per E-Mail an praxis-buttlar@web.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD7zXAthPqEcRfg25wYRRVD8",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 3
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-matthias-bergmann-heilpraktiker",
   "slug": "naturheilpraxis-matthias-bergmann-heilpraktiker",
   "name": "Naturheilpraxis Matthias Bergmann, Heilpraktiker",
-  "description": "Naturheilpraxis Matthias Bergmann, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis von Matthias Bergmann in Berlin bietet eine Vielzahl von naturheilkundlichen Behandlungen an, mit einem Schwerpunkt auf klassischer Homöopathie. Die Praxis verfolgt einen ganzheitlichen Ansatz, der die Lebenskraft des Patienten stärkt und harmonisiert. Neben der Homöopathie werden auch Methoden wie Jin Shin Jyutsu und Ernährungsberatung angeboten. Für eine individuelle Behandlung ist ein ausführliches Erstgespräch erforderlich, in dem alle körperlichen, geistigen und emotionalen Symptome erfasst werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "0308326220",
   "website": "http://www.homoeopathie-in-berlin.de/",
+  "bookingUrl": "https://www.homoeopathie-in-berlin.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,66 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Für sie gelten andere Preise: für 60 Minuten",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 94.5,
+      "priceLabel": "94,50€"
+    },
+    {
+      "id": "offer-2",
+      "name": "Klassische Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ernährung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ausbildung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Sitemap"
+    }
+  ],
+  "images": [
+    "https://www.homoeopathie-in-berlin.de/images/inhalte/Stempel.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Matthias Bergmann an?",
+      "answer": "Die Naturheilpraxis Matthias Bergmann bietet unter anderem klassische Homöopathie, Jin Shin Jyutsu, Ernährungsberatung und allgemeine Behandlungen an."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung betragen 94,50€ für 60 Minuten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den folgenden Link nutzen: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis geöffnet?",
+      "answer": "Die Naturheilpraxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Matthias Bergmann?",
+      "answer": "Die Praxis befindet sich in der Wiesbadener Str. 5, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz2_MOXxQqEcRN4RkBZoaM24",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

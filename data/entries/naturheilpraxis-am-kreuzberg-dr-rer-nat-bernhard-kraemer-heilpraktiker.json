@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-am-kreuzberg-dr-rer-nat-bernhard-kraemer-heilpraktiker",
   "slug": "naturheilpraxis-am-kreuzberg-dr-rer-nat-bernhard-kraemer-heilpraktiker",
   "name": "Naturheilpraxis am Kreuzberg Dr. rer. nat. Bernhard Kraemer Heilpraktiker",
-  "description": "Naturheilpraxis am Kreuzberg Dr. rer. nat. Bernhard Kraemer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis am Kreuzberg, geleitet von Dr. rer. nat. Bernhard Kraemer und Claudia Krämer-Emke, bietet in Berlin-Kreuzberg ein breites Spektrum an naturheilkundlichen Therapien an. In einer angenehmen Umgebung werden verschiedene Behandlungsmethoden wie Fußreflexzonentherapie, Homöopathie, Shiatsu und mehr angeboten, um individuelle gesundheitliche Beschwerden zu behandeln. Die Praxis verfolgt einen ganzheitlichen Ansatz, der körperliche und gesprächsorientierte Elemente kombiniert und bei Bedarf durch moderne Labordiagnostik und naturheilkundliche Medikation ergänzt wird.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,66 @@
   "phone": "03084115135",
   "website": "https://www.naturheilpraxis-am-kreuzberg.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstbehandlung 60 min .",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Folgebehandlungen 45 min .",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Wußten Sie schon..."
+    },
+    {
+      "id": "offer-4",
+      "name": "Hier finden Sie uns"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die Welt von Cellagon"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-am-kreuzberg.de/nhp/wp-content/uploads/2024/05/Bernhard_Kraemer_website-225x300.jpg",
+    "https://www.naturheilpraxis-am-kreuzberg.de/nhp/wp-content/uploads/2024/05/Claudia-Kraemer-Emke_neu-225x300.jpg",
+    "https://www.naturheilpraxis-am-kreuzberg.de/nhp/wp-content/uploads/2024/06/blatt_gruen_rgb.gif",
+    "https://www.naturheilpraxis-am-kreuzberg.de/nhp/wp-content/uploads/2024/05/feature_1_30_05_24-320x107.gif",
+    "https://www.naturheilpraxis-am-kreuzberg.de/nhp/wp-content/uploads/2014/10/feature_2-320x107.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis am Kreuzberg an?",
+      "answer": "Die Naturheilpraxis am Kreuzberg bietet unter anderem Fußreflexzonentherapie, Homöopathie, Shiatsu, Heilende Berührung, Ki-Motion, Integrative Massage und Dynamische Wirbelsäulentherapie nach Popp® an."
+    },
+    {
+      "question": "Wie viel kostet eine Erstbehandlung in der Naturheilpraxis?",
+      "answer": "Eine Erstbehandlung dauert 60 Minuten und kostet 80 €."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis am Kreuzberg?",
+      "answer": "Die Praxis befindet sich in der Solmsstraße 36, 10961 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03084115135 oder über die Website der Praxis vereinbaren."
+    },
+    {
+      "question": "Gibt es spezielle Angebote für Folgebehandlungen?",
+      "answer": "Ja, Folgebehandlungen dauern 45 Minuten und kosten 60 €."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOQQmP1BPqEcRsfBsFqNy1zY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

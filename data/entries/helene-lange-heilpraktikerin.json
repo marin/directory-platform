@@ -2,8 +2,8 @@
   "id": "helene-lange-heilpraktikerin",
   "slug": "helene-lange-heilpraktikerin",
   "name": "Helene Lange | Heilpraktikerin",
-  "description": "Helene Lange | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Helene Lange ist eine erfahrene Heilpraktikerin in Berlin Kreuzberg, die sich auf Akupunktur und traditionelle chinesische Medizin spezialisiert hat. In ihrer Praxis bietet sie eine ganzheitliche Diagnostik sowie manualtherapeutische Verfahren wie Akupressur, Massagen, Schröpfen und Gua Sha an. Mit einem fundierten medizinischen Hintergrund und einer empathischen Herangehensweise unterstützt sie ihre Patienten auf ihrem individuellen Genesungsweg.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "015756379500",
   "email": "praxis@helene-lange.com",
   "website": "https://www.helene-lange.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/helene-magdalena-lange",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -37,7 +38,58 @@
       "close": "21:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Praxis für Akupunktur und chinesische Medizin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Helene Lange \\| Heilpraktikerin in Berlin Kreuzberg"
+    },
+    {
+      "id": "offer-3",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ganzheitliche Diagnostik"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ich freue mich, dich kennenzulernen!"
+    }
+  ],
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/f08a4530-7e10-4478-aa5c-49a0e43cfc49/pexels-peter-de-vink-288978-849403.jpg",
+    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/6e5c3907-a3d4-4886-a435-d377907cb109/d927dd41-53f1-427a-90cf-73b24ea36076.JPG",
+    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/e39083f3-e892-46f5-a059-276a17d9552d/pexels-juan-antonio-garcia-filoso-rodriguez-501825273-17108475.jpg",
+    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/9c03fa77-25f5-402e-8f05-5f6e99433452/pexels-pixabay-275768.jpg",
+    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/1cbbbd20-e985-4629-840a-ad907b1ed588/moxibustion-chinese-medicine.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Helene Lange an?",
+      "answer": "Helene Lange bietet Akupunktur, manualtherapeutische Verfahren wie Akupressur, Massagen, Schröpfen und Gua Sha sowie ganzheitliche Diagnostik an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Helene Lange?",
+      "answer": "Die Praxis von Helene Lange befindet sich im Weidenweg 62, 10247 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Helene Lange buchen?",
+      "answer": "Einen Termin bei Helene Lange können Sie über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker/berlin/helene-magdalena-lange."
+    },
+    {
+      "question": "Wann hat die Praxis von Helene Lange geöffnet?",
+      "answer": "Die Praxis hat am Dienstag von 09:00 bis 22:00 Uhr und am Mittwoch von 08:00 bis 21:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Helene Lange kontaktieren?",
+      "answer": "Sie können Helene Lange telefonisch unter 015756379500 oder per E-Mail an praxis@helene-lange.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsXZh4WFPqEcRh7Ud6A8yhoo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

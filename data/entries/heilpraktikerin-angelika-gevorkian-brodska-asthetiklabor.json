@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor",
   "slug": "heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor",
   "name": "Heilpraktikerin Angelika Gevorkian Brodska | Ästhetiklabor",
-  "description": "Heilpraktikerin Angelika Gevorkian Brodska | Ästhetiklabor ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Angelika Gevorkian Brodska bietet in ihrem Ästhetiklabor in Berlin integrative Medizin mit einem Schwerpunkt auf Hautgesundheit, Stoffwechsel und Diagnostik an. Die Praxis legt Wert auf individuelle, ganzheitliche und evidenzorientierte Behandlungsansätze, die durch präzise Laboranalysen und moderne Diagnosetechniken unterstützt werden. Zu den angebotenen Leistungen zählen unter anderem Anamnese, Mikronährstofftherapie, Infusionen sowie Begleitungen bei Kinderwunsch und Burnout-Prävention.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -58,7 +58,154 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-2",
+      "name": "Anamnese & Erstaufnahmegespräch"
+    },
+    {
+      "id": "offer-3",
+      "name": "Stuhldiagnostik"
+    },
+    {
+      "id": "offer-4",
+      "name": "Befundbesprechung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Allergien & Unverträglichkeiten"
+    },
+    {
+      "id": "offer-6",
+      "name": "Labordiagnostik"
+    },
+    {
+      "id": "offer-7",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Infusionen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Mikronährstofftherapie"
+    },
+    {
+      "id": "offer-10",
+      "name": "Hautbehandlungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Burnout‑Prävention"
+    },
+    {
+      "id": "offer-12",
+      "name": "Begleitung & Prävention"
+    },
+    {
+      "id": "offer-13",
+      "name": "Stoffwechselkur"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kinderwunsch‑Begleitung"
+    },
+    {
+      "id": "offer-15",
+      "name": "loadbalancer.visitor-analytics.io is blocked"
+    },
+    {
+      "id": "offer-16",
+      "name": "Try disabling your extensions."
+    },
+    {
+      "id": "offer-17",
+      "name": "Diagnostik & Analyse"
+    },
+    {
+      "id": "offer-18",
+      "name": "Labor & Stuhl"
+    },
+    {
+      "id": "offer-19",
+      "name": "Mikronährstoffe"
+    },
+    {
+      "id": "offer-20",
+      "name": "Hautgesundheit"
+    },
+    {
+      "id": "offer-21",
+      "name": "Therapie & Begleitung"
+    },
+    {
+      "id": "offer-22",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-23",
+      "name": "Burnout-Prävention"
+    },
+    {
+      "id": "offer-24",
+      "name": "Bewertungen"
+    },
+    {
+      "id": "offer-25",
+      "name": "Das sagen unsere Patientinnen und Patienten."
+    },
+    {
+      "id": "offer-26",
+      "name": "★★★★★"
+    },
+    {
+      "id": "offer-27",
+      "name": "Praxiskonzept"
+    },
+    {
+      "id": "offer-28",
+      "name": "Anamnese"
+    },
+    {
+      "id": "offer-29",
+      "name": "Begleitung"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/6b7104_20b43a85e1c34661b627515e9e1bbf66~mv2.jpg/v1/crop/x_35,y_0,w_2181,h_1645/fill/w_477,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20250807-WA0037_edited_edited.jpg",
+    "https://static.wixstatic.com/media/6b7104_f570390b9fef4ecf9546c9f79a8df184~mv2.jpg/v1/crop/x_121,y_0,w_2758,h_2000/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Blood%20Test_edited.jpg",
+    "https://static.wixstatic.com/media/6b7104_e9b5d934acd0402a83f2cb08a6f93bc3~mv2.jpg/v1/crop/x_0,y_96,w_7680,h_5569/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vitamin%20iv%20drip%20fruits%20natural%20therapy%20medical%20use%20iv%20vitamins%20intravenous%20fluid%20care%20pati.jpg",
+    "https://static.wixstatic.com/media/11062b_5d3bc312ab094a6ba4cdbf4e91fb031e~mv2.jpg/v1/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vergleich%20der%20geteilten%20Fl%C3%A4che.jpg",
+    "https://static.wixstatic.com/media/6b7104_9cae608acaea485793599fe1847b46b3~mv2.jpg/v1/crop/x_223,y_0,w_5009,h_3632/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/The%20plush%20rabbit%20sits%20on%20the%20belly%20of%20the%20pregnant%20mother%20as%20a%20gift%20for%20the%20baby%20to%20come%20s.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktikerin Angelika Gevorkian Brodska an?",
+      "answer": "Angelika Gevorkian Brodska bietet eine Vielzahl von Dienstleistungen an, darunter Diagnostik, Anamnese & Erstaufnahmegespräch, Stuhldiagnostik, Befundbesprechung, Labordiagnostik, Therapie, Infusionen, Mikronährstofftherapie, Hautbehandlungen sowie Burnout-Prävention und Kinderwunsch-Begleitung."
+    },
+    {
+      "question": "Wie lauten die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 15:00 Uhr geöffnet und am Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Angelika Gevorkian Brodska?",
+      "answer": "Die Praxis befindet sich in der Schlüterstraße 4, 10625 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Angelika Gevorkian Brodska kontaktieren?",
+      "answer": "Sie können Angelika Gevorkian Brodska telefonisch unter 015774885948 oder per E-Mail an info@aesthetiklabor.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK3dBcNpRqEcRN9ofXTtuPhM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

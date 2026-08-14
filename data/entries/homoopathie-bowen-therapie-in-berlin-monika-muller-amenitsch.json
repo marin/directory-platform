@@ -2,8 +2,8 @@
   "id": "homoopathie-bowen-therapie-in-berlin-monika-muller-amenitsch",
   "slug": "homoopathie-bowen-therapie-in-berlin-monika-muller-amenitsch",
   "name": "Homöopathie & Bowen-Therapie in Berlin, Monika Müller-Amenitsch",
-  "description": "Homöopathie & Bowen-Therapie in Berlin, Monika Müller-Amenitsch ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Monika Müller-Amenitsch bietet in ihrer Praxis für Klassische Homöopathie und Bowen-Therapie in Berlin-Tempelhof seit 1999 individuelle Gesundheitsbegleitung an. Neben der Homöopathie, die auf die Aktivierung der Selbstheilungskräfte abzielt, ergänzt sie ihre Behandlungen durch die Bowen-Therapie und Mykotherapie. Ihr ganzheitlicher Ansatz betrachtet den Menschen als Einheit von Körper, Geist und Seele und ermöglicht eine gezielte Behandlung verschiedenster Beschwerden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -53,7 +53,74 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bowen-Therapie oder Bowtech"
+    },
+    {
+      "id": "offer-2",
+      "name": "Meine Blog-Artikel"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hypericum in der Homöopathie und Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-4",
+      "name": "Vorteile des Kalt Duschens"
+    },
+    {
+      "id": "offer-5",
+      "name": "Homöopathie: Schwäche nach einem grippalen Infekt"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bowen-Therapie biete ich ausschließlich für Frauen an"
+    },
+    {
+      "id": "offer-7",
+      "name": "Meine Behandlungsschwerpunkte in der Homöopathie sind"
+    },
+    {
+      "id": "offer-8",
+      "name": "Homöopathie für Kinder"
+    },
+    {
+      "id": "offer-9",
+      "name": "Homöopathische Behandlung: Ablauf und Wissenswertes"
+    }
+  ],
+  "images": [
+    "https://homoeopathie-bowen-berlin.com/wp-content/uploads/elementor/thumbs/Calendula-Homoeopathie-Bowen-Berlin-e1622030290211-p7qg5d102kcjv2enz9hufykuqvrt9dyw6r29da6xo8.jpg",
+    "https://homoeopathie-bowen-berlin.com/wp-content/uploads/2021/07/Globuli_Homoeopathie-300x189.jpg",
+    "https://homoeopathie-bowen-berlin.com/wp-content/uploads/2020/03/Duschen_Homopathie_Berlin-300x203.jpg",
+    "https://homoeopathie-bowen-berlin.com/wp-content/uploads/2013/10/ChamomillaHomoeopathieBerlin-300x200.jpg",
+    "https://homoeopathie-bowen-berlin.com/wp-content/uploads/2014/04/homoeopathie.berlin.Hormone-300x169.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Monika Müller-Amenitsch an?",
+      "answer": "Monika Müller-Amenitsch bietet klassische Homöopathie, Bowen-Therapie (Bowtech) und Mykotherapie an."
+    },
+    {
+      "question": "Wer kann von der Homöopathie profitieren?",
+      "answer": "Die Homöopathie wird für Erwachsene, Kinder und Jugendliche (w/m/d) angeboten."
+    },
+    {
+      "question": "Für wen ist die Bowen-Therapie geeignet?",
+      "answer": "Die Bowen-Therapie wird ausschließlich für Frauen angeboten."
+    },
+    {
+      "question": "Wie lauten die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03070131057 oder per E-Mail an heilpraktikerin.berlin@gmail.com vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2w7hrjVFqEcRzI86tNI1MGE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

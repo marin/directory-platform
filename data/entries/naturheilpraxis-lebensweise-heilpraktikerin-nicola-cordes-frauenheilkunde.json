@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde",
   "slug": "naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde",
   "name": "Naturheilpraxis Lebensweise - Heilpraktikerin Nicola Cordes Frauenheilkunde",
-  "description": "Naturheilpraxis Lebensweise - Heilpraktikerin Nicola Cordes Frauenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Lebensweise in Berlin-Pankow bietet Heilpraktikerin Nicola Cordes eine umfassende Betreuung für Frauen in verschiedenen Lebensphasen. Mit einem Fokus auf Homöopathie, Pflanzenheilkunde und systemischer Therapie unterstützt sie ihre Klientinnen bei Themen wie Regelschmerzen, Kinderwunsch, Wechseljahre und psychischen Belastungen. Die Praxis schafft einen geschützten Raum, um individuelle Herausforderungen zu besprechen und gemeinsam neue Wege zu entdecken.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   },
   "phone": "03064092595",
   "website": "http://www.naturheilpraxis-lebensweise.de/",
+  "bookingUrl": "https://www.naturheilpraxis-lebensweise.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -48,7 +49,110 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Fachgebiete"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Theorie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Frauenheilkunde"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-6",
+      "name": "PCO - Syndrom"
+    },
+    {
+      "id": "offer-7",
+      "name": "Gebärmutterhals Vorsorge PAP Test"
+    },
+    {
+      "id": "offer-8",
+      "name": "Prämenstruelles Syndrom PMS"
+    },
+    {
+      "id": "offer-9",
+      "name": "Wechseljahre"
+    },
+    {
+      "id": "offer-10",
+      "name": "Blasenentzündung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Frauen Coaching"
+    },
+    {
+      "id": "offer-12",
+      "name": "Lebenskrisen"
+    },
+    {
+      "id": "offer-13",
+      "name": "Burnout"
+    },
+    {
+      "id": "offer-14",
+      "name": "Veranstaltungen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Heilpflanzen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Systemische Therapie"
+    },
+    {
+      "id": "offer-17",
+      "name": "Online Workshop: DIY Naturheilkunde - Deine weibliche Hausapotheke"
+    },
+    {
+      "id": "offer-18",
+      "name": "FrauenSeminar in Brandenburg - Frauenheilwissen und Weiblichkeit"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=133x10000:format=jpg/path/s3d2e0895f4135637/image/i72f981d7cc18e293/version/1704461305/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=128x10000:format=jpg/path/s3d2e0895f4135637/image/i82863ad877c96cc6/version/1704462629/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=128x10000:format=jpg/path/s3d2e0895f4135637/image/i2852d959adc68f20/version/1704461326/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=38x10000:format=png/path/s3d2e0895f4135637/image/ibf621a23a3d81932/version/1701895145/image.png",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s3d2e0895f4135637/backgroundarea/icc8fa39e76357f5d/version/1487437827/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Fachgebiete deckt die Naturheilpraxis Lebensweise ab?",
+      "answer": "Die Naturheilpraxis Lebensweise bietet Fachgebiete in Homöopathie, Psychotherapie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie lauten die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Donnerstag von 11:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Lebensweise?",
+      "answer": "Die Praxis befindet sich in der Marienburger Str. 5A, 10405 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Webseite der Praxis buchen: Termin buchen."
+    },
+    {
+      "question": "Welche speziellen Angebote gibt es für Frauen?",
+      "answer": "Die Praxis bietet spezielle Angebote in der Frauenheilkunde, darunter Themen wie Kinderwunsch, PCO-Syndrom, Wechseljahre und prämenstruelles Syndrom (PMS)."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_3XZgpVQqEcR8ZIKIAA43Xk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15
 }

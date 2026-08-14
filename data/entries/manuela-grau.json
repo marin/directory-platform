@@ -2,8 +2,8 @@
   "id": "manuela-grau",
   "slug": "manuela-grau",
   "name": "Manuela Grau",
-  "description": "Manuela Grau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis von Manuela Grau befindet sich in Berlin-Moabit und bietet umfassende naturheilkundliche Behandlungen an. Im Mittelpunkt ihrer Arbeit steht der Mensch als ganzheitliche Persönlichkeit, wobei individuelle gesundheitliche Bedürfnisse berücksichtigt werden. Mit einem breiten Spektrum an Therapiemöglichkeiten unterstützt sie ihre Patienten auf ihrem Weg zu Gesundheit und Wohlbefinden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,36 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Seien Sie willkommen!"
+    }
+  ],
+  "images": [
+    "https://manuelagrau.de/_astro/mgrau01_massage.Bz_JR3I5_1fCwfw.webp",
+    "https://manuelagrau.de/_astro/mgrau02_anamnese.SYRmXg-H_ZHt8Mm.webp",
+    "https://manuelagrau.de/_astro/mgrau03_bioresonanz.CbG1QpYC_Z2n8Yno.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraktikerin Manuela Grau an?",
+      "answer": "Manuela Grau bietet Unterstützung auf dem Weg zu Gesundheit und Wohlbefinden mit verschiedenen Therapiemöglichkeiten an, wobei der Mensch als ganzheitliche Persönlichkeit im Mittelpunkt steht."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Manuela Grau?",
+      "answer": "Die Naturheilpraxis von Manuela Grau befindet sich in der Wilhelmshavener Str. 56, 10551 Berlin – Moabit."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag, Dienstag, Donnerstag und Freitag von 10:00 bis 18:00 Uhr sowie Mittwoch von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Manuela Grau kontaktieren?",
+      "answer": "Sie können Manuela Grau telefonisch unter 03042021540 oder per E-Mail an praxis@manuelagrau.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxePYZXNRqEcRaJqbFMUKXSE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

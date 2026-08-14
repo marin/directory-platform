@@ -2,8 +2,8 @@
   "id": "praxis-homoopathie-fur-berlin-pia-monch",
   "slug": "praxis-homoopathie-fur-berlin-pia-monch",
   "name": "Praxis Homöopathie für Berlin Pia Mönch",
-  "description": "Praxis Homöopathie für Berlin Pia Mönch ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Homöopathie für Berlin, geleitet von Heilpraktikerin Pia Mönch, bietet seit 24 Jahren klassische Homöopathie sowie ergänzende Therapien wie Massagen und Fußreflexzonentherapie an. Ein besonderer Fokus liegt auf der Behandlung von Kindern, wobei sowohl akute als auch chronische Beschwerden behandelt werden. Die Praxis befindet sich in der Böckhstraße 45 in Berlin und bietet eine offene Sprechstunde sowie individuelle Beratungen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -25,6 +25,7 @@
   },
   "phone": "03069001727",
   "website": "http://www.homoeopathie-fuer-berlin.de/",
+  "bookingUrl": "https://www.homoeopathie-fuer-berlin.de/kontaktformular/%20%22Kontaktformular",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,71 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kinder sind keine kleinen Erwachsenen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Akute Beschwerden von Kindern"
+    },
+    {
+      "id": "offer-3",
+      "name": "Säuglinge"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kinder"
+    },
+    {
+      "id": "offer-5",
+      "name": "Chronische Beschwerden von Kindern"
+    },
+    {
+      "id": "offer-6",
+      "name": "Wenn die Seele leidet"
+    },
+    {
+      "id": "offer-7",
+      "name": "Die homöopathische Anamnese bei Kindern"
+    },
+    {
+      "id": "offer-8",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Heilpraktikerprüfung"
+    }
+  ],
+  "images": [
+    "https://www.homoeopathie-fuer-berlin.de/wp-content/uploads/birkenblaetter-300x78.jpg",
+    "https://www.homoeopathie-fuer-berlin.de/wp-content/uploads/Pia-M%C3%B6nch-Heilpraktikerin-Berlin-Hom%C3%B6opathie-873x1024.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Praxis Homöopathie für Berlin an?",
+      "answer": "Die Praxis bietet klassische Homöopathie, Massagen, Fußreflexzonentherapie und Pflanzenheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin vereinbaren, indem Sie das Kontaktformular auf der Webseite ausfüllen oder die Praxis telefonisch unter 03069001727 kontaktieren."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Öffnungszeiten sind: Montag von 09:00 bis 14:00, Dienstag von 14:00 bis 19:00, Mittwoch von 10:00 bis 14:00, Donnerstag von 15:00 bis 18:00 und Freitag von 09:00 bis 14:00."
+    },
+    {
+      "question": "Bietet die Praxis eine offene Sprechstunde an?",
+      "answer": "Ja, mittwochs von 10:00 bis 13:00 Uhr gibt es eine offene Sprechstunde, für die keine Terminvereinbarung nötig ist."
+    },
+    {
+      "question": "Was sind häufige Beschwerden, die in der Praxis behandelt werden?",
+      "answer": "Häufige Beschwerden sind Allergien, Hauterkrankungen, akute Infekte, Kopfschmerzen, Nahrungsmittelunverträglichkeiten, Menstruationsbeschwerden und seelische Probleme."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzf-akstPqEcRc9aIuTpPoTY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

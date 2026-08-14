@@ -2,8 +2,8 @@
   "id": "sabine-gowik-heilpraktikerin",
   "slug": "sabine-gowik-heilpraktikerin",
   "name": "Sabine Gowik Heilpraktikerin",
-  "description": "Sabine Gowik Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Schöneberg bietet Heilpraktikerin Sabine Gowik verschiedene naturheilkundliche Therapieverfahren an, darunter Akupunktur, Tuina und Fußreflexzonentherapie. Die Praxis befindet sich in der Gustav-Müller-Straße 39 in Berlin. Auf der Website können sich Interessierte umfassend über die angebotenen Methoden und die Heilpraktikerin selbst informieren. Bei Fragen steht Sabine Gowik gerne für persönliche Beratungen zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,28 @@
   "website": "http://www.naturheilpraxis-in-schoeneberg.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://naturheilpraxis-in-schoeneberg.de/wp-content/uploads/2020/02/logo-naturheilpraxis-schoeneberg.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieverfahren bietet Sabine Gowik an?",
+      "answer": "Sabine Gowik bietet Akupunktur, Tuina und Fußreflexzonentherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Sabine Gowik?",
+      "answer": "Die Naturheilpraxis befindet sich in der Gustav-Müller-Straße 39, Berlin, 10829."
+    },
+    {
+      "question": "Wie kann ich Sabine Gowik kontaktieren?",
+      "answer": "Sie können Sabine Gowik telefonisch unter 03021754815 oder per E-Mail an kontakt@naturheilpraxis-in-schoeneberg.de kontaktieren."
+    },
+    {
+      "question": "Kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Ja, Sie können einen Termin vereinbaren, indem Sie Sabine Gowik anrufen oder eine E-Mail senden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB8ge8xVQqEcRNoUETEo1nA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

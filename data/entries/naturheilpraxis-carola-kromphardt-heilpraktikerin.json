@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-carola-kromphardt-heilpraktikerin",
   "slug": "naturheilpraxis-carola-kromphardt-heilpraktikerin",
   "name": "Naturheilpraxis Carola Kromphardt - Heilpraktikerin",
-  "description": "Naturheilpraxis Carola Kromphardt - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Carola Kromphardt in Berlin-Wannsee erwartet Sie eine ganzheitliche und individuelle Betreuung. Die Heilpraktikerin, Diplom-Biologin, bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Akupunktur, Phytotherapie, Bachblütentherapie und Fußreflexzonentherapie. Die Praxis ist gut erreichbar und legt großen Wert auf eine stressfreie Atmosphäre, in der die Patienten ernst genommen und achtsam betreut werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,38 @@
   },
   "phone": "03028471449",
   "website": "http://www.praxis-kromphardt.de/",
+  "bookingUrl": "https://www.praxis-kromphardt.de/kontakt/%20%22Kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapiekonzept"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=348x10000:format=png/path/se68b241bc60e570b/image/idba218a1afea27b2/version/1434122142/image.png",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=216x10000:format=jpg/path/se68b241bc60e570b/image/i60a430eba4948439/version/1434386886/carola-kromphardt.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=70x10000:format=png/path/se68b241bc60e570b/image/if71bedc0bfc9004d/version/1436030062/logo-carola-kromphardt.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Carola Kromphardt?",
+      "answer": "Die Naturheilpraxis Carola Kromphardt befindet sich in Berlin-Wannsee, Johannes-Niemeyer-Weg 19C, 14109 Berlin."
+    },
+    {
+      "question": "Welche Therapien bietet Carola Kromphardt an?",
+      "answer": "Carola Kromphardt bietet verschiedene Therapien an, darunter Akupunktur, Phytotherapie, Bachblütentherapie, Fußreflexzonentherapie und Massagen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030-28 471 449 vereinbaren oder über das Kontaktformular auf der Webseite der Praxis."
+    },
+    {
+      "question": "Was ist das Therapiekonzept von Carola Kromphardt?",
+      "answer": "Das Therapiekonzept von Carola Kromphardt ist ganzheitlich-naturheilkundlich ausgerichtet und wird individuell auf die Bedürfnisse der Patienten abgestimmt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaa1p7DlfqEcRu2-LmhdtEA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

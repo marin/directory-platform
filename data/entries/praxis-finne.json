@@ -2,8 +2,8 @@
   "id": "praxis-finne",
   "slug": "praxis-finne",
   "name": "Praxis Finné",
-  "description": "Praxis Finné ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Finné in Berlin-Wilmersdorf bietet alternative, ganzheitliche Gesundheitsleistungen, die auf der Einheit von Körper, Geist und Seele basieren. Zu den angebotenen Therapien zählen Chiropraktik, medizinische Massagen, Photobiomodulation sowie individuelle Heilmethoden, die darauf abzielen, die Ursachen von Beschwerden zu behandeln und das Wohlbefinden der Patienten zu fördern. Die Praxis ist eine Oase der Ruhe und lädt dazu ein, sich von den Belastungen des Alltags zu erholen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,60 @@
   "phone": "03027019964",
   "email": "mail@praxis-finne.com",
   "website": "http://www.praxis-finne.com/",
+  "bookingUrl": "https://www.praxis-finne.com/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapie und Heilung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Chiropraktik"
+    },
+    {
+      "id": "offer-3",
+      "name": "Medizinische Massagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Photobiomodulation"
+    },
+    {
+      "id": "offer-5",
+      "name": "Buddha"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/d43c5b_9890f24a132448d6b5e6300aea6d73e9~mv2.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d43c5b_9890f24a132448d6b5e6300aea6d73e9~mv2.jpg",
+    "https://static.wixstatic.com/media/f6958d14939a4269901bd24be79563b0.jpg/v1/fill/w_940,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Osteopath%20bei%20der%20Arbeit.jpg",
+    "https://static.wixstatic.com/media/182a82578f8721e3db24d6b1c2adf6e9.jpg/v1/fill/w_940,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Massage.jpg",
+    "https://static.wixstatic.com/media/fadfde5cacdc4069ba663c2e487c0113.jpg/v1/fill/w_940,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sonnenaufgang.jpg",
+    "https://static.wixstatic.com/media/b88f2d5da73042e2b86399ab9f21367f.jpg/v1/fit/w_2500,h_1330,al_c/b88f2d5da73042e2b86399ab9f21367f.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis Finné an?",
+      "answer": "Die Praxis Finné bietet verschiedene Therapien an, darunter Therapie und Heilung, Chiropraktik, medizinische Massagen und Photobiomodulation."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Finné?",
+      "answer": "Die Praxis Finné befindet sich in der Mainzer Str. 23, 10715 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Finné vereinbaren?",
+      "answer": "Um einen Termin in der Praxis Finné zu vereinbaren, können Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 03027019964."
+    },
+    {
+      "question": "Was ist Photobiomodulation und wie funktioniert sie?",
+      "answer": "Photobiomodulation ist eine Therapie, die durch Stimulation von Akupunkturpunkten den Energiefluss im Körper beeinflusst. Dabei werden Biophotonenpflaster an den entsprechenden Akupunkturpunkten platziert, um die Selbstregulierung der Zellen zu fördern."
+    },
+    {
+      "question": "Bietet die Praxis Finné auch Unterstützung bei Stress und Angstgefühlen an?",
+      "answer": "Ja, die Chiropraktik in der Praxis Finné hilft unter anderem dabei, Stress und Angstgefühle zu reduzieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt96ixolQqEcRebhMJiyn-yg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-marion-warnke",
   "slug": "heilpraktikerin-marion-warnke",
   "name": "Heilpraktikerin Marion Warnke",
-  "description": "Heilpraktikerin Marion Warnke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Marion Warnke bietet in ihrer Naturheilpraxis in Berlin-Pankow individuelle Beratung und Behandlung im Bereich der Naturheilkunde an. Der Fokus liegt auf ganzheitlichen Therapiekonzepten, die auf die Bedürfnisse der Patienten abgestimmt sind. Aktuell sind keine Termine buchbar, jedoch können Interessierte über die Webseite Kontakt aufnehmen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,34 @@
   "phone": "015735255774",
   "email": "info@naturheilpraxis-warnke.de",
   "website": "http://www.naturheilpraxis-warnke.de/Ueber-mich/Kontakt/",
+  "bookingUrl": "https://www.naturheilpraxis-warnke.de/Ueber-mich/Kontakt/#",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kontaktanfrage"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-warnke.de/.cm4all/uproc.php/0/imported/Logo.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Marion Warnke?",
+      "answer": "Die Naturheilpraxis von Marion Warnke befindet sich in der Kuglerstraße 26, 10439 Berlin."
+    },
+    {
+      "question": "Wie kann ich Marion Warnke kontaktieren?",
+      "answer": "Sie können Marion Warnke telefonisch unter 015735255774 oder per E-Mail an info@naturheilpraxis-warnke.de kontaktieren."
+    },
+    {
+      "question": "Sind derzeit Termine in der Naturheilpraxis buchbar?",
+      "answer": "Momentan sind keine Termine buchbar. Bitte beachten Sie die aktuelle Mitteilung auf der Webseite."
+    },
+    {
+      "question": "Wie kann ich eine Kontaktanfrage stellen?",
+      "answer": "Sie können eine Kontaktanfrage über das Kontaktformular auf der Webseite stellen. Ich bemühe mich um eine schnellstmögliche Bearbeitung Ihrer Nachricht."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa_ryLAZSqEcR6Sa7JQGcc9o"
 }

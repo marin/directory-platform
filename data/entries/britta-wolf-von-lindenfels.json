@@ -2,8 +2,8 @@
   "id": "britta-wolf-von-lindenfels",
   "slug": "britta-wolf-von-lindenfels",
   "name": "Britta & Wolf von Lindenfels",
-  "description": "Britta & Wolf von Lindenfels ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Britta & Wolf von Lindenfels sind Heilpraktiker in Berlin-Charlottenburg, die sich auf klassische Homöopathie spezialisiert haben. Ihre Praxis bietet individuelle Behandlungen an, die darauf abzielen, die Balance zwischen Körper und Seele wiederherzustellen. Neben homöopathischen Therapien bieten sie auch Paargespräche und Feng-Shui-Beratung an, um Klienten in verschiedenen Lebensbereichen zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,39 @@
   },
   "phone": "03083106806",
   "website": "http://www.restlos-gluecklich.de/",
+  "bookingUrl": "https://www.xn--restlos-glcklich-szb.de/#Kontakt",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.xn--restlos-glcklich-szb.de/img/home.jpeg",
+    "https://www.xn--restlos-glcklich-szb.de/img/homoeopathie.jpeg",
+    "https://www.xn--restlos-glcklich-szb.de/img/britta-von-lindenfels.jpeg",
+    "https://www.xn--restlos-glcklich-szb.de/img/wolf-von-lindenfels.jpeg",
+    "https://www.xn--restlos-glcklich-szb.de/img/feng-shui.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Britta & Wolf von Lindenfels?",
+      "answer": "Die Praxis befindet sich in der Kantstraße 108, 10627 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bieten Britta & Wolf von Lindenfels an?",
+      "answer": "Britta & Wolf von Lindenfels bieten klassische Homöopathie an und unterstützen auch bei Feng-Shui-Anliegen."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Britta & Wolf von Lindenfels buchen?",
+      "answer": "Sie können einen Termin über die Website buchen, indem Sie den folgenden Link verwenden: https://www.xn--restlos-glcklich-szb.de/#Kontakt."
+    },
+    {
+      "question": "Wie kann ich Britta & Wolf von Lindenfels kontaktieren?",
+      "answer": "Sie können Britta & Wolf von Lindenfels telefonisch unter 030-83106806 oder per E-Mail unter britta@restlos-guecklich.de bzw. wolf@restlos-guecklich.de kontaktieren."
+    },
+    {
+      "question": "Gibt es spezielle Öffnungszeiten für die Praxis?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6YCQL9pQqEcRtn1f86hVD_E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

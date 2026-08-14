@@ -2,8 +2,8 @@
   "id": "moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-",
   "slug": "moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-",
   "name": "Moderne Traumatherapie & EMDR Therapie – ECHO/MIND Elke Riethmüller – Heilpraktikerin für Psychotherapie",
-  "description": "Moderne Traumatherapie & EMDR Therapie – ECHO/MIND Elke Riethmüller – Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "ECHO/MIND ist eine Privatpraxis für moderne Traumatherapie und EMDR Therapie, geleitet von Elke Riethmüller, einer Heilpraktikerin für Psychotherapie in Berlin-Pankow. Die Praxis bietet eine Vielzahl von therapeutischen Ansätzen, darunter integrative Traumatherapie, EMDR, Coaching und Workshops, um Klienten bei der Bewältigung von emotionalen und psychischen Herausforderungen zu unterstützen. Ziel ist es, individuelle Muster zu erkennen und nachhaltig zu verändern, um ein erfüllteres Leben zu führen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,126 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "TRAUMATHERAPIE"
+    },
+    {
+      "id": "offer-2",
+      "name": "EMDR"
+    },
+    {
+      "id": "offer-3",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-4",
+      "name": "Workshops"
+    },
+    {
+      "id": "offer-5",
+      "name": "Coaching Angebot"
+    },
+    {
+      "id": "offer-6",
+      "name": "EMDR Therapie Berlin Prenzlauer Berg & Online"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ängsten, Panikattacken und ständiger Unruhe"
+    },
+    {
+      "id": "offer-8",
+      "name": "Depressionen und anhaltender Erschöpfung"
+    },
+    {
+      "id": "offer-9",
+      "name": "Selbstzweifeln und negativen Gedankenmustern"
+    },
+    {
+      "id": "offer-10",
+      "name": "Stress und Überforderung im Alltag"
+    },
+    {
+      "id": "offer-11",
+      "name": "Belastenden Erinnerungen, die immer wieder hochkommen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Wie EMDR Therapie dir helfen kann"
+    },
+    {
+      "id": "offer-13",
+      "name": "Schnelle Behandlungen von unangenehmen Gefühlen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Mehr innere Ruhe"
+    },
+    {
+      "id": "offer-15",
+      "name": "So läuft eine EMDR Therapie-Sitzung ab"
+    },
+    {
+      "id": "offer-16",
+      "name": "Hey, ich bin Elke"
+    },
+    {
+      "id": "offer-17",
+      "name": "TRAUMATHERAPEUTIN–EMDR-THERAPEUTIN–HEILPRAKTIKERIN FÜR PSYCHOTHERAPIE"
+    },
+    {
+      "id": "offer-18",
+      "name": "Coaching für mentale Stärke"
+    },
+    {
+      "id": "offer-19",
+      "name": "Online Workshops für mentale Stärke"
+    },
+    {
+      "id": "offer-20",
+      "name": "Mein Angebot ist für dich, wenn du ..."
+    },
+    {
+      "id": "offer-21",
+      "name": "Stimmen meiner Coaching-Klient\\innen"
+    },
+    {
+      "id": "offer-22",
+      "name": "ECHO/MIND Privatpraxis für moderne Traumatherapie EMDR-Therapie"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://echo-mind.de/wp-content/uploads/2021/11/echomind_face_01.png",
+    "https://echo-mind.de/wp-content/uploads/2025/01/hello_echo-e1747933253226.png",
+    "https://echo-mind.de/wp-content/uploads/2025/04/erschoepfung.jpg",
+    "https://echo-mind.de/wp-content/uploads/2025/04/michaela-e1745336640589.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Elke Riethmüller an?",
+      "answer": "Elke Riethmüller bietet moderne Traumatherapie, EMDR Therapie sowie Coaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von ECHO/MIND?",
+      "answer": "Die Praxis befindet sich in der Stahlheimer Str. 26, 10439 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin online über die Website Doctolib buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 08:00 bis 19:00 Uhr, Donnerstag von 08:00 bis 18:00 Uhr und Freitag von 08:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Elke Riethmüller kontaktieren?",
+      "answer": "Sie können Elke Riethmüller telefonisch unter 015117896146 oder per E-Mail an elke@echo-mind.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9Yp3J8FTqEcRpJnewLJIGbI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

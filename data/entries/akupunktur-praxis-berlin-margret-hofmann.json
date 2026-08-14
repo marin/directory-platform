@@ -2,8 +2,8 @@
   "id": "akupunktur-praxis-berlin-margret-hofmann",
   "slug": "akupunktur-praxis-berlin-margret-hofmann",
   "name": "Akupunktur Praxis Berlin Margret Hofmann",
-  "description": "Akupunktur Praxis Berlin Margret Hofmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Steine, das Wasser, der Wind – sie erzählen von einer ursprünglichen Welt, in der alles und jede\\r mit der Quelle verbunden ist. Uraltes Wissen steht uns jeden Augenblick zur Verfügung, es ruft uns nach Hause – doch leise. Schnell überdeckt von einer lauten und überfordernden Welt, den Reaktionen unserer traumatisierten Nervensysteme, dem unermüdlichen Plappern des Verstands, industriell verarbeiteten Lebensmitteln, Chemikalien und elektromagnetischen Einflüssen. Was braucht es, um uns der Quelle, dem Einen Verstand, bewusst zu sein, und sie in uns wahrzunehmen? In ihrer dreijährigen schamanischen Ausbildung lässt Margret Eagle Wind Hofmann Rituale, Elemente aus der Traumatherapie und ihr Wissen über neuroaffektive Entwicklung zusammenfließen. Wir lernen Energiezentren auf dem universellen Meridian kennen, die unterschiedliche Lichtfrequenzen enthalten. Durch Wahrnehmung, Gewahrse…",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,23 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur bei Multipler Sklerose"
+    },
+    {
+      "id": "offer-2",
+      "name": "Somatic Experiencing bei Sozialphobie"
+    }
+  ],
+  "images": [
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/IMG_20161230.webp",
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Golden-Robin-test.webp",
+    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Neu-Logo.webp"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2c7hwCxQqEcRiQvd_3fzv6g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

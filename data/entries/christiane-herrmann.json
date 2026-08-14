@@ -2,8 +2,8 @@
   "id": "christiane-herrmann",
   "slug": "christiane-herrmann",
   "name": "Christiane Herrmann",
-  "description": "Christiane Herrmann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Christiane Herrmann ist Heilpraktikerin in Berlin-Treptow und bietet in ihrer Naturheilpraxis verschiedene naturheilkundliche Behandlungen an. Die Praxis befindet sich direkt an der Autobahnabfahrt Stubenrauchstraße, was eine gute Erreichbarkeit gewährleistet. Für weitere Informationen oder zur Terminvereinbarung steht sie gerne telefonisch zur Verfügung. Besuchen Sie auch die Website für detaillierte Informationen zu den angebotenen Therapien.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,6 +53,28 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://bioresonanz-berlin.net/wp-content/uploads/2021/11/logo_bioresonanz-400.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Christiane Herrmann?",
+      "answer": "Die Praxis von Christiane Herrmann befindet sich in der Springbornstraße 3, 12487 Berlin, im Stadtteil Treptow."
+    },
+    {
+      "question": "Wie kann ich Christiane Herrmann kontaktieren?",
+      "answer": "Sie können Christiane Herrmann telefonisch unter 0306369577 oder per E-Mail an info@bioresonanz-berlin.net kontaktieren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Christiane Herrmann an?",
+      "answer": "Christiane Herrmann bietet Dienstleistungen im Bereich der Naturheilkunde an, insbesondere Bioresonanz."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsU2NdQVGqEcRSJeOMR5xW-4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

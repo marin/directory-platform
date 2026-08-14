@@ -3,7 +3,7 @@
   "slug": "susanne-hoderlein-heilpraktikerin-fur-psychotherapie",
   "name": "Susanne Hoderlein | Heilpraktikerin für Psychotherapie",
   "description": "Susanne Hoderlein | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,43 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Systemische Therapie in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Themen für eine systemische Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Familienprobleme und Familienkonflikte"
+    },
+    {
+      "id": "offer-4",
+      "name": "Beziehungsprobleme"
+    },
+    {
+      "id": "offer-5",
+      "name": "Erziehungsprobleme"
+    },
+    {
+      "id": "offer-6",
+      "name": "Probleme am Arbeitsplatz"
+    },
+    {
+      "id": "offer-7",
+      "name": "psychosomatische Beschwerden"
+    },
+    {
+      "id": "offer-8",
+      "name": "Lebenskrisen"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbbpCrJVPqEcR-x18_sssNjk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

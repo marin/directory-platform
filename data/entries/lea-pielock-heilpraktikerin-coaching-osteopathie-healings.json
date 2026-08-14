@@ -3,7 +3,7 @@
   "slug": "lea-pielock-heilpraktikerin-coaching-osteopathie-healings",
   "name": "Lea Pielock, Heilpraktikerin | Coaching | Osteopathie | Healings |",
   "description": "Lea Pielock, Heilpraktikerin | Coaching | Osteopathie | Healings | ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -53,7 +53,133 @@
       "close": "18:30"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Deep Healing Trans­formation"
+    },
+    {
+      "id": "offer-2",
+      "name": "besser fühlst du dich und deine wahren Bedürfnisse,"
+    },
+    {
+      "id": "offer-3",
+      "name": "leichter verstehst du die Signale deines Körpers,"
+    },
+    {
+      "id": "offer-4",
+      "name": "besser erkennst du deine Zusammenhänge aus Körper und Seele,"
+    },
+    {
+      "id": "offer-5",
+      "name": "gezielter kannst du deine Selbstheilungskräfte aktivieren,"
+    },
+    {
+      "id": "offer-6",
+      "name": "leichter kannst du dich regenerieren,"
+    },
+    {
+      "id": "offer-7",
+      "name": "klarer zeigt sich dir dein eigener Weg,"
+    },
+    {
+      "id": "offer-8",
+      "name": "freier bist du, du selbst zu sein."
+    },
+    {
+      "id": "offer-9",
+      "name": "It's all about Energy!"
+    },
+    {
+      "id": "offer-10",
+      "name": "Eine Reise über 9 Monate"
+    },
+    {
+      "id": "offer-11",
+      "name": "Ein klares Konzept & ein roter Faden"
+    },
+    {
+      "id": "offer-12",
+      "name": "Eine kraftvolle Begleitung durch die Jahreszeiten"
+    },
+    {
+      "id": "offer-13",
+      "name": "Struktur",
+      "description": "ohne Enge"
+    },
+    {
+      "id": "offer-14",
+      "name": "Tiefe",
+      "description": "ohne Schwere"
+    },
+    {
+      "id": "offer-15",
+      "name": "Transformation auf unterschiedlichen Ebenen und Dimensionen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Aktivierung deiner dir innewohnenden Selbstheilungskräfte"
+    },
+    {
+      "id": "offer-17",
+      "name": "Förderung deiner Regeneration"
+    },
+    {
+      "id": "offer-18",
+      "name": "Mobilisation deiner Energie"
+    },
+    {
+      "id": "offer-19",
+      "name": "Klarheit über dich und deinen Weg"
+    },
+    {
+      "id": "offer-20",
+      "name": "Unterstützung bei der aktiven Umsetzung deiner Vision"
+    },
+    {
+      "id": "offer-21",
+      "name": "Freiheit du selbst zu sein"
+    },
+    {
+      "id": "offer-22",
+      "name": "Verkörperung deiner Essenz"
+    },
+    {
+      "id": "offer-23",
+      "name": "Einzelbegleitung"
+    },
+    {
+      "id": "offer-24",
+      "name": "Gemeinsam wachsen..."
+    },
+    {
+      "id": "offer-25",
+      "name": "Erfahrungsbericht Deep Healing Transformation & Beyond Healing"
+    },
+    {
+      "id": "offer-26",
+      "name": "Zeitrahmen, Investition & Start"
+    },
+    {
+      "id": "offer-27",
+      "name": "Begleitung über insgesamt 9 Monate"
+    },
+    {
+      "id": "offer-28",
+      "name": "Wir legen gemeinsam einen Jour fixe fest"
+    },
+    {
+      "id": "offer-29",
+      "name": "Preis auf Anfrage"
+    },
+    {
+      "id": "offer-30",
+      "name": "Gruppenbegleitung..."
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQWLDpzNZqEcRaeszM66Yslk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

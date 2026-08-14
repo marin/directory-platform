@@ -2,8 +2,8 @@
   "id": "craniosacrale-therapie-berlin-marion-welz-heilpraktikerin",
   "slug": "craniosacrale-therapie-berlin-marion-welz-heilpraktikerin",
   "name": "Craniosacrale Therapie Berlin Marion Welz (Heilpraktikerin)",
-  "description": "Craniosacrale Therapie Berlin Marion Welz (Heilpraktikerin) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis von Marion Welz in Berlin Pankow wird biodynamische Craniosacral Therapie angeboten, die sich an Erwachsene, Familien und Kinder richtet. Die Therapie unterstützt die Selbstregulation des Körpers und fördert die Heilung von Stress, Trauma und emotionalen Belastungen. Durch eine individuelle und achtsame Begleitung wird auf die einzigartigen Bedürfnisse jedes Klienten eingegangen, um Körper, Geist und Seele in Einklang zu bringen. Weitere therapeutische Ansätze wie Trauma- und Psychotherapie sowie Coaching können ebenfalls in den Prozess integriert werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -59,7 +59,132 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "für Kinder Dauer ca. 90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 120,
+      "priceLabel": "120 EUR"
+    },
+    {
+      "id": "offer-2",
+      "name": "150- für Familien / Erwachsene Dauer ca. 100-120 Minuten.",
+      "durationMinutes": 120,
+      "durationLabel": "120 min",
+      "price": 180,
+      "priceLabel": "180 EUR"
+    },
+    {
+      "id": "offer-3",
+      "name": "60 Minuten – Kinder bis 14 Jahre",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 60,
+      "priceLabel": "60,00 EUR"
+    },
+    {
+      "id": "offer-4",
+      "name": "60 Minuten – Familien / Erwachsene",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90,00 EUR"
+    },
+    {
+      "id": "offer-5",
+      "name": "o Naturheilverfahren / Kalenderjahr",
+      "price": 500,
+      "priceLabel": "500 Eur"
+    },
+    {
+      "id": "offer-6",
+      "name": "für Sehhilfen /2 Jahre",
+      "price": 130,
+      "priceLabel": "130,00 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "monatlich / 124,80 € p.a.",
+      "price": 10.4,
+      "priceLabel": "10,40 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "100% von für Naturheilverfahren pro Kalenderjahr",
+      "price": 1000,
+      "priceLabel": "1000,00 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "monatlich / 264,00 € p.a.",
+      "price": 22,
+      "priceLabel": "22,00 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "körperorientierte & biodynamische Begleitung für Erwachsene, Familien & Kinder"
+    },
+    {
+      "id": "offer-11",
+      "name": "Was meine Begleitung auszeichnet"
+    },
+    {
+      "id": "offer-12",
+      "name": "Meine Arbeitsweise – Körper, Geist & Seele als Einheit"
+    },
+    {
+      "id": "offer-13",
+      "name": "Jede Begleitung ist einzigartig"
+    },
+    {
+      "id": "offer-14",
+      "name": "Klientenstimmen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Preise & Finanzierung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Termin vereinbaren"
+    },
+    {
+      "id": "offer-17",
+      "name": "Raum für Heilung entsteht in Beziehung"
+    }
+  ],
+  "images": [
+    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2024/11/marions-heilkunst-bild-1-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
+    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2025/05/bild-2-800x800-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
+    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2024/11/marions-heilkunst-bild-3-gespiegelt-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
+    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2020/03/Pfeil-terrakotta-80px-pixabay-alicia_mb.png?fit=80%2C22&ssl=1",
+    "https://craniosacral-biodynamik-berlin.de/wp-content/uploads/2023/02/cranio-sacral-therapie-bild-2-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Marion Welz an?",
+      "answer": "Marion Welz bietet biodynamische Craniosacral Therapie für Erwachsene, Familien und Kinder an. Die Behandlungen dauern zwischen 60 und 120 Minuten und variieren in den Preisen von 60 EUR bis 180 EUR."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Marion Welz buchen?",
+      "answer": "Termine können telefonisch unter 01723233352, per E-Mail an marion@craniosacral-biodynamik-berlin.de oder bequem über die Online-Terminbuchung auf der Website http://cranio-pankow-reinickendorf.de/ vereinbart werden."
+    },
+    {
+      "question": "Wann hat die Praxis von Marion Welz geöffnet?",
+      "answer": "Die Praxis hat montags bis freitags von 10:00 bis 21:00 Uhr und samstags von 12:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Marion Welz?",
+      "answer": "Die Praxis befindet sich in der Goethestraße 54, 13158 Berlin, im Stadtteil Pankow."
+    },
+    {
+      "question": "Was ist biodynamische Craniosacral Therapie?",
+      "answer": "Die biodynamische Craniosacral Therapie ist eine körperorientierte Therapieform, die darauf abzielt, das Nervensystem zur Ruhe zu bringen und die natürlichen Selbstregulationskräfte des Körpers zu aktivieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJycc2sldTqEcRXkMkKIXpP0o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

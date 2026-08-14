@@ -2,8 +2,8 @@
   "id": "berit-julie-friz-supervision-aufstellungen-homoopathie",
   "slug": "berit-julie-friz-supervision-aufstellungen-homoopathie",
   "name": "Berit Julie Friz | Supervision | Aufstellungen | Homöopathie",
-  "description": "Berit Julie Friz | Supervision | Aufstellungen | Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Berit Julie Friz bietet in ihrer Praxis in Berlin-Schöneberg eine ganzheitliche Behandlung, die Homöopathie, Supervision und systemische Aufstellungen umfasst. Sie unterstützt ihre Klienten dabei, psychische und körperliche Beschwerden zu erkennen und zu bearbeiten, um zu mehr innerer Stabilität und Selbstverständnis zu gelangen. Ihr Ansatz fördert die Selbstreflexion und die Entwicklung neuer Perspektiven in persönlichen sowie beruflichen Kontexten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   "phone": "03035053190",
   "email": "info@beritjuliefriz.de",
   "website": "https://www.beritjuliefriz.de/",
+  "bookingUrl": "https://www.beritjuliefriz.de/#kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,82 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "BEHANDLUNG"
+    },
+    {
+      "id": "offer-2",
+      "name": "SPEAKING"
+    },
+    {
+      "id": "offer-3",
+      "name": "HAFTUNGSHINWEIS"
+    },
+    {
+      "id": "offer-4",
+      "name": "Browsertyp/-version"
+    },
+    {
+      "id": "offer-5",
+      "name": "verwendetes Betriebssystem"
+    },
+    {
+      "id": "offer-6",
+      "name": "Referrer URL (die zuvor besuchte Seite)"
+    },
+    {
+      "id": "offer-7",
+      "name": "IP-Adresse"
+    },
+    {
+      "id": "offer-8",
+      "name": "Datum und Uhrzeit der Serveranfrage"
+    },
+    {
+      "id": "offer-9",
+      "name": "HOMÖOPATHIE"
+    },
+    {
+      "id": "offer-10",
+      "name": "SUPERVISION"
+    },
+    {
+      "id": "offer-11",
+      "name": "AUFSTELLUNGEN"
+    }
+  ],
+  "images": [
+    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_unten.png",
+    "https://www.beritjuliefriz.de/application/themes/bjf/images/Mehr_Button.png",
+    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_rechts-gold.png",
+    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_unten-gold.png",
+    "https://www.beritjuliefriz.de/application/themes/bjf/images/Close_x.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Berit Julie Friz an?",
+      "answer": "Berit Julie Friz bietet eine Kombination aus Homöopathie, Supervision, systemischen Aufstellungen und Leibarbeit an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Berit Julie Friz buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website von Berit Julie Friz buchen: https://www.beritjuliefriz.de/#kontakt."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags, mittwochs, donnerstags und freitags von 09:00 bis 17:00 Uhr und dienstags von 09:00 bis 22:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Berit Julie Friz?",
+      "answer": "Die Praxis befindet sich in der Gotenstraße 12, 10829 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Berit Julie Friz kontaktieren?",
+      "answer": "Sie können Berit Julie Friz telefonisch unter 03035053190 oder per E-Mail an info@beritjuliefriz.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVWxehVQqEcR-i6ZAOvPsds",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

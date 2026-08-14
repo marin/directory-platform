@@ -2,8 +2,8 @@
   "id": "michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch",
   "slug": "michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch",
   "name": "Michael Grauer vormals Meliani, Praxis am Hansaplatz, Heilpraktiker, Chinesische Chiropraktik",
-  "description": "Michael Grauer vormals Meliani, Praxis am Hansaplatz, Heilpraktiker, Chinesische Chiropraktik ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michael Grauer, vormals Meliani, ist Heilpraktiker in Berlin und bietet eine Praxis für traditionelle chinesische Medizin, insbesondere Tieh Ta Tuina, Akupressur und Osteopathie an. Die Behandlungsmethoden zielen darauf ab, Verklebungen und Verhärtungen im Gewebe zu lösen, die Durchblutung zu fördern und die Selbstheilungskräfte des Körpers zu aktivieren. Mögliche Anwendungsgebiete sind unter anderem Rückenschmerzen, Nackenverspannungen sowie Sportverletzungen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -47,7 +47,66 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Praxis für"
+    },
+    {
+      "id": "offer-2",
+      "name": "Tieh - Ta - Tuina"
+    },
+    {
+      "id": "offer-3",
+      "name": "Wirkungsweise"
+    },
+    {
+      "id": "offer-4",
+      "name": "Muskulatur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bewegungsapparat"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schmerzbehandlung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Sportverletzungen"
+    }
+  ],
+  "images": [
+    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2020/10/praxis_mm_2.jpg",
+    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Praxis_hochkant_2-1-819x1024.jpg",
+    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Wirkung.jpg",
+    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Bambus3-819x1024.jpg",
+    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Steiss.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Michael Grauer in seiner Praxis an?",
+      "answer": "Michael Grauer bietet Behandlungen in den Bereichen Tieh - Ta - Tuina, Akupressur und Osteopathie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Michael Grauer?",
+      "answer": "Die Praxis von Michael Grauer befindet sich in der Flensburger Str. 27, 10557 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Dienstag bis Donnerstag von 09:30 bis 17:00 Uhr und Freitag von 09:30 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Für Terminvereinbarungen können Sie Michael Grauer telefonisch unter 030/255 864 29 kontaktieren. Eine Terminvergabe per E-Mail ist nicht möglich."
+    },
+    {
+      "question": "Welche Anwendungsgebiete deckt die Tieh - Ta - Tuina Methode ab?",
+      "answer": "Die Tieh - Ta - Tuina Methode kann bei Verklebungen und Verhärtungen der Muskulatur, Bewegungseinschränkungen sowie Schmerzen im Bewegungsapparat, wie Rückenschmerzen, Nackenschmerzen und Sportverletzungen, angewendet werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz1CuTghRqEcR438eB7Dl6kw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

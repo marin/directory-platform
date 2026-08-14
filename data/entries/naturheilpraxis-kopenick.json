@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kopenick",
   "slug": "naturheilpraxis-kopenick",
   "name": "Naturheilpraxis Köpenick",
-  "description": "Naturheilpraxis Köpenick ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Köpenick in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Akupunktur, Blutegeltherapie, Massagen und Fußreflexzonentherapie. Die Praxis legt großen Wert auf die individuelle Gesundheit und das Wohlbefinden ihrer Patienten. Hier kommen ausschließlich 100% naturreine ätherische Öle zum Einsatz, um die therapeutischen Effekte zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,108 @@
   },
   "phone": "017696311657",
   "website": "https://www.naturheilpraxis-koepenick.de/",
+  "bookingUrl": "https://www.naturheilpraxis-koepenick.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "ab 15€",
+      "price": 15,
+      "priceLabel": "ab 15 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung",
+      "price": 40,
+      "priceLabel": "40€"
+    },
+    {
+      "id": "offer-3",
+      "name": "ab 30€",
+      "price": 30,
+      "priceLabel": "ab 30 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlung",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-5",
+      "name": "ab 10€",
+      "price": 10,
+      "priceLabel": "ab 10 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "ab 35€",
+      "price": 35,
+      "priceLabel": "ab 35 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Blutegel"
+    },
+    {
+      "id": "offer-9",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Gutscheine"
+    },
+    {
+      "id": "offer-12",
+      "name": "100% naturreine ätherische Öle"
+    },
+    {
+      "id": "offer-13",
+      "name": "Fußreflexzonen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Faszien"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/md/and1/dms3rep/multi/opt/119347-1920w.jpeg",
+    "https://le-cdn.website-editor.net/s/4bda04a19430462894bf8414e8f053e0/dms3rep/multi/opt/cdcf2558-1d14-493e-9e05-fe9ca70439fa-1920w.jpeg?Expires=1788694651&Signature=n9SWpZFvSSp-jAW6WQA21ii5v8YC7I1oPcshRrHAPcrrxZPNrt43xYHXvGcW8gkKPrn01sHiS-gQiYr5BAmliQ09UJylKKKKxJmMk0FTu-R9w~I~agBdWgt3Bl7O2mQqVQdfPIzOKDgGSv5f1RVjH17AOCnS1oDJk594oQAm0AOelmtMNLJqJAP8B68hqY1gJjYCkOToL7x0Q0R73JvWPDkF9CVkVrwWtK~Y2Yk8y~peC-Gl4XE7FVGGGrhruyZXQPzK5pHNAXquEw0o42VtPylfqCVusTP11D~jxcse8YjjkzHJ7hhlSem6H5IZCcEmV4CRVbAuoZNSBYSTh0q7pg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/4bda04a19430462894bf8414e8f053e0/dms3rep/multi/opt/img137392581-1920w.jpg?Expires=1788694651&Signature=VB-npEZobhPANdJvGP-dWRH~asWZ2qzStf-39As9hvrBL2LOx-Lznfjl3Qv5uAgQvf3-UxsBLFQsx4UtSX~sY8eRK4mIjfi0kRnzD~soIb37XPlX5HXCCTsnlkw~6eNB~qUe5yQJ7Yj4tYjxQA-ZTZpAHPPYi4G8mSLX1wZj8f-2ny0zwtxxqV1oknR3NSQEoM6ZE2DCBqF7blGkShFQaVoZsB6s9UEHHBGFj52ZZm6XWvXAGfVDwD4lm3XVy2J1a~q0u0SDAt4bcQ6BRzQ2tkroyoI-7eqUwciOcFU5qVSuBmtxRSTb1bEw6L-tiOB3PCRUHn1~kE27-gUvX5VkNw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/md/and1/dms3rep/multi/opt/115316-1920w.jpeg",
+    "https://le-cdn.website-editor.net/s/4bda04a19430462894bf8414e8f053e0/dms3rep/multi/opt/ekaterinayatcenko151000017-1920w.jpg?Expires=1788694651&Signature=KfwAmLl08r3uUgJS5REiBx50KF9zw7oswlIrWQsCtpq30bLSlqh0tva2rrhmEJ4WL6NVVzyh30Si4tDcwJYkaLeurhqf7vVHojPa4sWIeqFgIrB0U4i8q-IICD4vKzUDH5xXt-nmAl4EQlEc~sRLPBJV-HBkaisBj5RMUVBPv7pi8jx-xd6V-sTW4ThMUSPlsV~1wKUz07UgZWapwWZsOUnLNtDMs9j4no78JShNtPXsXYJ5suEIlZ1oKi3LArmem3~KhHFwixs-kfAdCHZnqDmFCmwAFi0vrFx04TpSTt40PmVsf1n7OuyjPFiqCeyz0BbjjPyEWErzaTCjmV8GHg__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Köpenick?",
+      "answer": "Die Naturheilpraxis Köpenick befindet sich in der Bölschestraße 26, 12587 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Welche Behandlungen werden in der Naturheilpraxis Köpenick angeboten?",
+      "answer": "In der Naturheilpraxis Köpenick werden verschiedene Behandlungen angeboten, darunter Akupunktur, Blutegeltherapie, Massagen und Fußreflexzonentherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Köpenick buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Köpenick über die Webseite unter https://www.naturheilpraxis-koepenick.de/kontakt buchen."
+    },
+    {
+      "question": "Welche Preise gelten für die Behandlungen in der Naturheilpraxis Köpenick?",
+      "answer": "Die Preise für Behandlungen in der Naturheilpraxis Köpenick beginnen ab 10 € und können bis zu 40 € betragen, abhängig von der Art der Behandlung."
+    },
+    {
+      "question": "Verwendet die Naturheilpraxis Köpenick ätherische Öle?",
+      "answer": "Ja, in der Naturheilpraxis Köpenick werden für Massagen nur 100% naturreine ätherische Öle verwendet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxyOL5uA3qEcRMbXpkj962bQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

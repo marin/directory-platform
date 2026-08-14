@@ -2,8 +2,8 @@
   "id": "osteopathie-chiropraktik-florian-robeck-heilpraktiker-chijiyfnq5if",
   "slug": "osteopathie-chiropraktik-florian-robeck-heilpraktiker-chijiyfnq5if",
   "name": "Osteopathie & Chiropraktik - Florian Robeck (Heilpraktiker)",
-  "description": "Osteopathie & Chiropraktik - Florian Robeck (Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie und Chiropraktik von Florian Robeck befindet sich in der Clausewitzstraße 2 in Berlin-Charlottenburg. Als Heilpraktiker bietet er ganzheitliche Behandlungen in den Bereichen Osteopathie und Naturheilkunde an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,7 +54,48 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihre Domain verwalten"
+    },
+    {
+      "id": "offer-2",
+      "name": "Domains so individuell wie Ihre Ideen."
+    },
+    {
+      "id": "offer-3",
+      "name": "Richten Sie Ihre Domain mit IONOS ein."
+    }
+  ],
+  "images": [
+    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/mywebsite.jpeg",
+    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/webhosting.jpeg",
+    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/vps.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Florian Robeck an?",
+      "answer": "Florian Robeck bietet Behandlungen in den Bereichen Osteopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Florian Robeck?",
+      "answer": "Die Praxis befindet sich in der Clausewitzstraße 2, 10629 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 15:00 Uhr, Donnerstag von 16:00 bis 20:00 Uhr, Freitag von 08:00 bis 16:00 Uhr und Samstag von 10:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter https://www.doctolib.de/osteopath/berlin/florian-robeck buchen."
+    },
+    {
+      "question": "Wie kann ich Florian Robeck kontaktieren?",
+      "answer": "Sie können Florian Robeck telefonisch unter 015561097799 oder per E-Mail an info@praxis-robeck.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiYfnq5_ifCkRsnoLFUL_1g8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

@@ -1,0 +1,38 @@
+{
+  "slugs": [
+    "heilpraktiker-fur-psychotherapie-malorny",
+    "heilpraktiker-fur-psychotherapie-marco-kunze",
+    "heilpraktiker-zehlendorf-naturheilpraxis-und-naturheilkunde",
+    "heilpraktikerin-corinna-sylvester",
+    "heilpraktikerin-diana-landgraf",
+    "heilpraktikerin-fatma",
+    "heilpraktikerin-fur-psychotherapie-astrid-maier",
+    "heilpraxis-aufknoten",
+    "kathlin-kastilan-heilpraktikerin",
+    "khloud-zaher-iraqi",
+    "martina-strauss-heilpraktiker-fur-psychotherapie",
+    "naturheilpraxis-bettina-kruck",
+    "naturheilpraxis-martina-akretch-heilpraktikerin-hebamme",
+    "naturheilpraxis-taric",
+    "reka-cegledi-heilpraktikerin",
+    "stina-pfenningschmidt-heilpraktikerin-fur-psychotherapie-traumatherapie"
+  ],
+  "reasons": {
+    "heilpraktiker-fur-psychotherapie-malorny": "ssl_error",
+    "heilpraktiker-fur-psychotherapie-marco-kunze": "ssl_error",
+    "heilpraktiker-zehlendorf-naturheilpraxis-und-naturheilkunde": "ssl_error",
+    "heilpraktikerin-corinna-sylvester": "dns_failure",
+    "heilpraktikerin-diana-landgraf": "unsupported_site",
+    "heilpraktikerin-fatma": "dns_failure",
+    "heilpraktikerin-fur-psychotherapie-astrid-maier": "dns_failure",
+    "heilpraxis-aufknoten": "dns_failure",
+    "kathlin-kastilan-heilpraktikerin": "dns_failure",
+    "khloud-zaher-iraqi": "dns_failure",
+    "martina-strauss-heilpraktiker-fur-psychotherapie": "dns_failure",
+    "naturheilpraxis-bettina-kruck": "dns_failure",
+    "naturheilpraxis-martina-akretch-heilpraktikerin-hebamme": "dns_failure",
+    "naturheilpraxis-taric": "blocked_site",
+    "reka-cegledi-heilpraktikerin": "dns_failure",
+    "stina-pfenningschmidt-heilpraktikerin-fur-psychotherapie-traumatherapie": "dns_failure"
+  }
+}

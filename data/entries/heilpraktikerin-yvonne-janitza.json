@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-yvonne-janitza",
   "slug": "heilpraktikerin-yvonne-janitza",
   "name": "Heilpraktikerin Yvonne Janitza",
-  "description": "Heilpraktikerin Yvonne Janitza ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Yvonne Janitza bietet in ihrer Praxis in Berlin-Charlottenburg eine ganzheitliche therapeutische Herangehensweise an. Sie nutzt ein vielfältiges Spektrum an Methoden, um die körpereigenen Fähigkeiten und Selbstheilungskräfte ihrer Patienten zu aktivieren. Ihr Ziel ist es, in einer hektischen Welt Entschleunigung und Gesundheit zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,6 +26,32 @@
   "website": "http://www.yvonne-janitza.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_1.png",
+    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_2.png",
+    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_3.png",
+    "http://www.yvonne-janitza.de/Rollover/Button3.png",
+    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Scripts/Widgets/HTMLRegion/HTMLRegionWorldMap.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Yvonne Janitza?",
+      "answer": "Die Praxis von Heilpraktikerin Yvonne Janitza befindet sich in der Seelingstraße 33, 14059 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Yvonne Janitza kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Yvonne Janitza telefonisch unter 030 12094656 oder per E-Mail an praxis@yvonne-janitza.de kontaktieren."
+    },
+    {
+      "question": "Welche Methoden bietet Heilpraktikerin Yvonne Janitza an?",
+      "answer": "Heilpraktikerin Yvonne Janitza bietet ein vielfältiges Spektrum verschiedener Methoden an, um die körpereigenen Fähigkeiten und Selbstheilungskräfte zu aktivieren."
+    },
+    {
+      "question": "Hat die Praxis von Yvonne Janitza spezielle Öffnungszeiten?",
+      "answer": "Im Kontext sind keine speziellen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRACbI9aqEcR1EZVBjDJO4U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

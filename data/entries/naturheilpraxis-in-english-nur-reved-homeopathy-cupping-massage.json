@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage",
   "slug": "naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage",
   "name": "Naturheilpraxis in English Nur Reved - Homeopathy, Cupping & Massage",
-  "description": "Naturheilpraxis in English Nur Reved - Homeopathy, Cupping & Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis von English Nur Reved in Berlin-Neukölln werden individuelle Behandlungen in den Bereichen Homöopathie und Naturheilkunde angeboten. Die Praxis legt Wert auf einen ganzheitlichen Ansatz, bei dem der Mensch als Ganzes betrachtet wird, um sowohl körperliche als auch seelische Beschwerden zu behandeln. Zu den angebotenen Therapien zählen unter anderem Cupping und Massagen, um das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -32,6 +32,36 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/AzG7R12VgJUG17Wr/background--stronger04-m5KblaEpqbIK88eo.png",
+    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/AzG7R12VgJUG17Wr/water-drop-Aq2olZ4elRugp2L7.png",
+    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=115,fit=crop/AzG7R12VgJUG17Wr/new-ripple-14.7-Yyv753E9Orf41335.png",
+    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1706,fit=crop/AzG7R12VgJUG17Wr/blurred-form01-YNqrNZOQkZt8rq3G.png",
+    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=911,fit=crop/AzG7R12VgJUG17Wr/blurred-form01-YNqrNZOQkZt8rq3G.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis in English Nur Reved an?",
+      "answer": "Die Naturheilpraxis in English Nur Reved bietet Behandlungen in Homöopathie, Schröpfen und Massage an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Lenaustraße 8, 12047 Berlin, Neukölln."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat am Mittwoch von 15:00 bis 22:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Website der Praxis buchen oder eine E-Mail an info@nur-reved.com senden."
+    },
+    {
+      "question": "Was ist das Behandlungskonzept der Praxis?",
+      "answer": "Das Behandlungskonzept der Praxis basiert darauf, Menschen und nicht Krankheiten zu behandeln, wobei individuelle Ansätze zur Förderung des Wohlbefindens verwendet werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXyJd5pZPqEcRn5fYrVcgNXE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

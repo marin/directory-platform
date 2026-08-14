@@ -2,8 +2,8 @@
   "id": "dieter-sajok-heilpraktiker-faszien-und-schmerztherapie",
   "slug": "dieter-sajok-heilpraktiker-faszien-und-schmerztherapie",
   "name": "Dieter Sajok, Heilpraktiker, Faszien- und Schmerztherapie",
-  "description": "Dieter Sajok, Heilpraktiker, Faszien- und Schmerztherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dieter Sajok ist Heilpraktiker in Berlin und spezialisiert auf Faszien- und Schmerztherapie. In seiner Praxis für Faszienmobilisation bietet er Behandlungen nach der Senmotic-Methode an, die darauf abzielen, Bewegungsqualität, Körperwahrnehmung und Balance zu verbessern. Individuelle Wünsche, insbesondere von Musikern oder Tänzern, werden berücksichtigt, um die Körperstruktur und Funktion des Bewegungsapparates präventiv zu optimieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -25,8 +25,45 @@
   },
   "phone": "03032707674",
   "website": "http://www.senmotic-sajok.de/",
+  "bookingUrl": "https://www.senmotic-sajok.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Praxis für Faszienmobilisation"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ich verhelfe Ihnen zu mehr Beweglichkeit, Körperbewusstsein und Durchlässigkeit"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=368x10000:format=png/path/s4b6e985c159c314b/image/i0dd4b442d4c39ec2/version/1677139251/image.png",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s4b6e985c159c314b/backgroundarea/i1044ce3b5e1e04f6/version/1678959213/image.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet Dieter Sajok an?",
+      "answer": "Dieter Sajok bietet eine Praxis für Faszienmobilisation sowie Schmerztherapie an, mit dem Ziel, die Beweglichkeit, das Körperbewusstsein und die Durchlässigkeit zu verbessern."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dieter Sajok buchen?",
+      "answer": "Sie können einen Termin über die Webseite senmotic-sajok.de buchen oder direkt über die Kontaktseite hier."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Dieter Sajok?",
+      "answer": "Die Praxis von Dieter Sajok befindet sich in der Gustav-Adolf-Straße 159, 13086 Berlin."
+    },
+    {
+      "question": "Wie lange ist die Wartezeit für einen Behandlungstermin?",
+      "answer": "In der Regel beträgt die Wartezeit für einen Behandlungstermin 2-3 Wochen."
+    },
+    {
+      "question": "Bietet Dieter Sajok auch Beratungsgespräche an?",
+      "answer": "Ja, Dieter Sajok bietet ein kostenloses Beratungsgespräch von ca. 30 Minuten an, das normalerweise früher eingerichtet werden kann."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY6GzoapPqEcRxvgDeZoY8rg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

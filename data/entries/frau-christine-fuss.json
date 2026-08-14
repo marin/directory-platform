@@ -2,8 +2,8 @@
   "id": "frau-christine-fuss",
   "slug": "frau-christine-fuss",
   "name": "Frau Christine Fuss",
-  "description": "Frau Christine Fuss ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Christine Fuss ist eine erfahrene Heilpraktikerin in Berlin-Neukölln, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie ganzheitliche Behandlungsmethoden wie Osteopathie, Homöopathie, Akupunktur (TCM) und Ernährungsberatung an. Ihr Ziel ist es, die Selbstheilungskräfte der Patienten zu aktivieren und eine echte Heilung zu fördern, anstatt lediglich Symptome zu behandeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -57,6 +57,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://praxis-christinefuss.de/wp-content/uploads/2023/10/new_flower_right_from_scrib02_rghtflowerMerged.png",
+    "https://praxis-christinefuss.de/wp-content/uploads/2023/09/logo-auf-transparent180x180px.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Frau Christine Fuss an?",
+      "answer": "Frau Christine Fuss bietet Therapien in den Bereichen Osteopathie, Homöopathie, Akupunktur (TCM), Ernährungsberatung und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Frau Christine Fuss?",
+      "answer": "Die Praxis von Frau Christine Fuss befindet sich in der Weichselstraße 53, 12045 Berlin/Neukölln."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind: Montag von 09:00 bis 19:30, Dienstag von 09:00 bis 19:00, Mittwoch von 09:00 bis 20:00, Donnerstag von 09:00 bis 19:00 und Freitag von 09:00 bis 20:00."
+    },
+    {
+      "question": "Wie kann ich Frau Christine Fuss kontaktieren?",
+      "answer": "Sie können Frau Christine Fuss telefonisch unter 030/26548334 oder per E-Mail an info@praxis-christinefuss.de kontaktieren."
+    },
+    {
+      "question": "Bietet Frau Christine Fuss ein Vorgespräch an?",
+      "answer": "Ja, Frau Christine Fuss bietet ein kurzes persönliches unverbindliches Vorgespräch über Ihren individuellen Heilungsplan an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcR6MW0Ey809nI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

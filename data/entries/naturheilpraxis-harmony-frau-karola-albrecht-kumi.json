@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-harmony-frau-karola-albrecht-kumi",
   "slug": "naturheilpraxis-harmony-frau-karola-albrecht-kumi",
   "name": "Naturheilpraxis Harmony - Frau Karola Albrecht-Kumi",
-  "description": "Naturheilpraxis Harmony - Frau Karola Albrecht-Kumi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Harmony, geleitet von Frau Karola Albrecht-Kumi, befindet sich in Berlin-Zehlendorf. Seit 1991 bietet sie umfassende naturheilkundliche Behandlungen an, unterstützt durch ihre langjährige Erfahrung als Heilpraktikerin und Chiropraktikerin. Frau Albrecht-Kumi hat sich kontinuierlich in den Bereichen Naturheilkunde und Lebenshilfe fortgebildet und legt großen Wert auf individuelle Therapiekonzepte für ihre Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03077392515",
   "website": "http://www.natur-harmony.de/",
+  "bookingUrl": "http://www.natur-harmony.de/Kontakt.html%20%22Kontakt.html",
   "openingHours": [
     {
       "day": "Monday",
@@ -67,6 +68,36 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.natur-harmony.de/Naturheilpraxis_Harmony_files/shapeimage_1.png",
+    "http://www.natur-harmony.de/Naturheilpraxis_Harmony_files/shapeimage_2.jpg",
+    "http://www.natur-harmony.de/Naturheilpraxis_Harmony_files/shapeimage_3.jpg",
+    "http://www.natur-harmony.de/Naturheilpraxis_Harmony_files/shapeimage_4.jpg",
+    "http://www.natur-harmony.de/Naturheilpraxis_Harmony_files/Sonne1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Harmony?",
+      "answer": "Die Naturheilpraxis Harmony befindet sich in der Brauerstraße 7, 12209 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Harmony buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Naturheilpraxis Harmony buchen: http://www.natur-harmony.de/Kontakt.html."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Harmony?",
+      "answer": "Die Naturheilpraxis Harmony hat folgende Öffnungszeiten: Montag und Dienstag von 10:00 bis 12:00 und von 15:00 bis 17:00, sowie Mittwoch und Donnerstag von 10:00 bis 12:00 und von 15:00 bis 17:00."
+    },
+    {
+      "question": "Wer leitet die Naturheilpraxis Harmony?",
+      "answer": "Die Naturheilpraxis Harmony wird von Frau Karola Albrecht-Kumi geleitet."
+    },
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Harmony an?",
+      "answer": "Die Naturheilpraxis Harmony bietet verschiedene Therapien im Bereich der Naturheilkunde an, darunter Fußreflexzonen-Therapie und Chiropraktik."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-38sFOFaqEcRpU7Ol1Zc54U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

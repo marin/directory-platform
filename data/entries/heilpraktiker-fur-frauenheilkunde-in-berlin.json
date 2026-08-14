@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-frauenheilkunde-in-berlin",
   "slug": "heilpraktiker-fur-frauenheilkunde-in-berlin",
   "name": "Heilpraktiker für Frauenheilkunde in Berlin",
-  "description": "Heilpraktiker für Frauenheilkunde in Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Frauenheilkunde in Berlin bietet Heilpraktikerin Anja Scherret ganzheitliche Unterstützung bei hormonellen Beschwerden, Erschöpfung und Zyklusproblemen. Sie richtet sich an Frauen, die unter PMS/PMDS, PCOS, Endometriose oder Wechseljahresbeschwerden leiden. Durch individuelle Behandlungsansätze, die Ernährung, Darmgesundheit und Stressbewältigung einbeziehen, zielt die Praxis darauf ab, das Gleichgewicht von Körper, Geist und Seele wiederherzustellen. Termine sind sowohl persönlich als auch online möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -47,7 +47,104 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstanamnese 90 min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 160,
+      "priceLabel": "160€"
+    },
+    {
+      "id": "offer-2",
+      "name": "Folgetermin 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 80,
+      "priceLabel": "80€"
+    },
+    {
+      "id": "offer-3",
+      "name": "Paket Erstanamnese + 3 Folgetermine",
+      "price": 380,
+      "priceLabel": "380€"
+    },
+    {
+      "id": "offer-4",
+      "name": "So arbeite ich"
+    },
+    {
+      "id": "offer-5",
+      "name": "1\\. Hormonbalance"
+    },
+    {
+      "id": "offer-6",
+      "name": "2\\. Ernährung & Darm"
+    },
+    {
+      "id": "offer-7",
+      "name": "3\\. Stress & Nervensystem"
+    },
+    {
+      "id": "offer-8",
+      "name": "So läuft die Behandlung ab"
+    },
+    {
+      "id": "offer-9",
+      "name": "Warum ich Frauen begleite"
+    },
+    {
+      "id": "offer-10",
+      "name": "Erfahrungen meiner Patientinnen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Lass uns reden, von Frau zu Frau!"
+    },
+    {
+      "id": "offer-12",
+      "name": "Fragen & Antworten"
+    },
+    {
+      "id": "offer-13",
+      "name": "Erkenne die wichtigsten Symptome der Perimenopause"
+    },
+    {
+      "id": "offer-14",
+      "name": "Naturheilkunde in den Wechseljahren"
+    }
+  ],
+  "images": [
+    "https://www.heilpraktiker-berlin.net/files/zogin/content/IMG_4231.jpg",
+    "https://www.heilpraktiker-berlin.net/files/zogin/content/IMG_4753%20auge%20in%20auge%202.jpg",
+    "https://www.heilpraktiker-berlin.net/assets/images/b/kleiner-398e6b9d.jpg",
+    "https://www.heilpraktiker-berlin.net/assets/images/f/Perimenopausel-2bd49ce7.png",
+    "https://www.heilpraktiker-berlin.net/assets/images/7/Rotklee%20gegen%20Hitzewallungen-899180b2.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet der Heilpraktiker für Frauenheilkunde in Berlin an?",
+      "answer": "Der Heilpraktiker bietet eine Vielzahl von Dienstleistungen an, darunter die Erstanamnese (90 Minuten), Folgetermine (60 Minuten), ein Paket aus Erstanamnese und drei Folgeterminen sowie Hormontests für Cortisol, Progesteron, Östradiol, Testosteron und DHEA."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin über die Website des Heilpraktikers vereinbaren, indem Sie den folgenden Link nutzen: Termin vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Scharnweberstraße 25, 12587 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Bietet der Heilpraktiker auch Online-Termine an?",
+      "answer": "Ja, der Heilpraktiker bietet sowohl persönliche Termine als auch Online-Meetings an, oder eine hybride Form aus beidem."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbyE32Is3qEcR2KRrJzz34iw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

@@ -2,8 +2,8 @@
   "id": "angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno",
   "slug": "angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno",
   "name": "Angela M. Bernstein Praxis Raucherentwöhnung/Nichtraucherspritze/Akupunktur/Hypnose",
-  "description": "Angela M. Bernstein Praxis Raucherentwöhnung/Nichtraucherspritze/Akupunktur/Hypnose ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis von Angela M. Bernstein in Berlin-Pankow bietet spezialisierte Behandlungen zur Raucherentwöhnung, Akupunktur und Hypnose an. Mit einer biologisch-veganen Behandlungsmethode unterstützen wir Sie effektiv dabei, Nichtraucher zu werden. Zudem setzen wir die Bicom® Therapie ein, die bei allergischen Erkrankungen hohe Erfolgsraten aufweist. Vertrauen Sie auf unsere 30-jährige Erfahrung als Heilpraktikerin für eine gesunde Veränderung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,52 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Wir freuen uns auf Ihren Anruf oder Whats App"
+    },
+    {
+      "id": "offer-2",
+      "name": "Nichtraucher werden"
+    },
+    {
+      "id": "offer-3",
+      "name": "Bicom ® Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schluss mit dem Rauchen"
+    }
+  ],
+  "images": [
+    "https://cdn5.site-media.eu/images/70/4764884/map-marker.png",
+    "https://cdn5.site-media.eu/images/1024/15212274/1000085844-ns6wNAv67pN4rGaYvC1hCA.jpg",
+    "https://cdn5.site-media.eu/images/1200x630/18337863/1000147496-sbOIRxK_foCm9b04KSGizg.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Praxis von Angela M. Bernstein an?",
+      "answer": "Die Praxis bietet Behandlungen zur Raucherentwöhnung, Akupunktur, Hypnose und Bicom® Therapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Angela M. Bernstein?",
+      "answer": "Die Praxis befindet sich in der Storkower Str. 158, 10407 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich die Praxis erreichen?",
+      "answer": "Sie können die Praxis telefonisch unter 017670282950 oder per E-Mail an info@praxis-hahlweg.de erreichen."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag und Freitag von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie funktioniert die Raucherentwöhnung in der Praxis?",
+      "answer": "Die Raucherentwöhnung erfolgt in der Regel mit einer einmaligen Micro-Injektion eines biologisch-veganen Mittelkomplexes, Lubidum®, der effektiv unterstützen soll, Nichtraucher zu werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN1_RWENOqEcRxsM4ZoBm0Yc",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 39
 }

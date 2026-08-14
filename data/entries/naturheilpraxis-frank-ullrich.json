@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-frank-ullrich",
   "slug": "naturheilpraxis-frank-ullrich",
   "name": "Naturheilpraxis Frank Ullrich",
-  "description": "Naturheilpraxis Frank Ullrich ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Frank Ullrich in Berlin-Pankow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter die schonende Entfernung von Krampfadern und Besenreisern mit reiner Kochsalzlösung. Der Fokus liegt auf der Ursachenmedizin, holistischen Kinesiologie und psychosomatischen Energetik, um die individuellen Beschwerden der Patienten ganzheitlich zu behandeln. Die Praxis legt Wert auf natürliche Methoden und eine persönliche Beratung, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03047486096",
   "website": "http://www.naturheilpraxis-ullrich.de/",
+  "bookingUrl": "https://www.naturheilpraxis-ullrich.de/kontakt.html",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,107 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ersttermin mit Voruntersuchung o",
+      "price": 90,
+      "priceLabel": "90,00 Eur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Krampfaderentfernung ein Bein o",
+      "price": 390,
+      "priceLabel": "390,00 Eur"
+    },
+    {
+      "id": "offer-3",
+      "name": "Nachbehandlungen pro Bein o",
+      "price": 150,
+      "priceLabel": "150,00 Eur"
+    },
+    {
+      "id": "offer-4",
+      "name": "Besenreiserbehandlung 60 min o",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90,00 Eur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ersttestung 2-3 Stunden o",
+      "price": 130,
+      "priceLabel": "130,00 Eur"
+    },
+    {
+      "id": "offer-6",
+      "name": "Folgetestung 1-2 Stunden o",
+      "price": 120,
+      "priceLabel": "120,00 Eur"
+    },
+    {
+      "id": "offer-7",
+      "name": "Testung Kinder bis 14 Jahre o",
+      "price": 90,
+      "priceLabel": "90,00 Eur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Entgiftung und Ausleitung",
+      "description": "Bestimmung von Belastung durch toxische Substanzen im extrazellulären Raum, intrazellulären Raum, Zellkern (DNA Index)"
+    },
+    {
+      "id": "offer-9",
+      "name": "Ausleitung von Impfstoffbelasungen, Spike-Proteinen und Graphenoxid"
+    },
+    {
+      "id": "offer-10",
+      "name": "Energetische Austestung von Vitamin- und Mineralstoffmangelzuständen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Austestung von Bachblüten, Schüßlersalzen, Komplexhomöopathika"
+    },
+    {
+      "id": "offer-12",
+      "name": "Austestung auf Belastungen durch Elektrosmog, Geopathie und Radioaktivität"
+    },
+    {
+      "id": "offer-13",
+      "name": "Krampfadern schonend entfernen mit Kochsalzlösung"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-ullrich.de/files/boj7-20019uwrojjn-5mig3.png",
+    "https://www.naturheilpraxis-ullrich.de/files/boj7-78is9ejbheev-v5zy3.jpg",
+    "https://www.naturheilpraxis-ullrich.de/files/boj7-5vhd4t8i2s8z-xhujw.jpg",
+    "https://www.naturheilpraxis-ullrich.de/files/boj7-59wwnrk8esnt-k085f.jpg",
+    "https://www.naturheilpraxis-ullrich.de/files/boj7-76ytt0ea6mxn-zsjvz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Frank Ullrich?",
+      "answer": "Die Naturheilpraxis Frank Ullrich befindet sich in der Eichenstraße 40, 13156 Berlin-Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Frank Ullrich über die Webseite buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis?",
+      "answer": "Die Naturheilpraxis hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Welche Behandlungen werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis werden verschiedene Behandlungen angeboten, darunter Ersttermine mit Voruntersuchung, Krampfaderentfernung, Besenreiserbehandlungen und energetische Austestungen."
+    },
+    {
+      "question": "Wie viel kostet ein Ersttermin in der Naturheilpraxis?",
+      "answer": "Ein Ersttermin mit Voruntersuchung kostet 90,00 Euro."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFdVLeFdSqEcRz0Ph1TltlZE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14
 }

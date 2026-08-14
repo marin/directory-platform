@@ -2,8 +2,8 @@
   "id": "frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho",
   "slug": "frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho",
   "name": "Frauen-Naturheilpraxis für Klassische Homöopathie - Sabine Scheuch - Berlin Tempelhof-Schöneberg",
-  "description": "Frauen-Naturheilpraxis für Klassische Homöopathie - Sabine Scheuch - Berlin Tempelhof-Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Frauen-Naturheilpraxis für Klassische Homöopathie in Berlin Tempelhof-Schöneberg bietet Heilpraktikerin Sabine Scheuch seit über 25 Jahren umfassende naturheilkundliche Behandlungen an. Ihr Schwerpunkt liegt auf der Klassischen Homöopathie, die sich besonders für Frauen und Kinder eignet und eine Vielzahl von Beschwerden, darunter hormonelle Störungen wie Schilddrüsenunterfunktion, behandelt. Neben der homöopathischen Therapie werden auch Beratungen zur Hausapotheke und zur Kostenübernahme durch Krankenkassen angeboten. Ein kostenloses Vorgespräch ermöglicht eine erste persönliche Kontaktaufnahme.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -55,7 +55,47 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Klassische Homöopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schilddrüsen­unterfunktion und andere Hormonstörungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hausapotheke, Reiseapotheke und Kostenübernahme Krankenkassen"
+    }
+  ],
+  "images": [
+    "https://sabine-scheuch.de/wp-content/uploads/LTC-seal-white.png",
+    "https://sabine-scheuch.de/wp-content/uploads/siegel-bkhd.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet die Frauen-Naturheilpraxis für Klassische Homöopathie an?",
+      "answer": "Die Frauen-Naturheilpraxis für Klassische Homöopathie bietet unter anderem klassische Homöopathie, Heilmittel für viele Erkrankungen, Beratung zu Schilddrüsenunterfunktion und anderen Hormonstörungen sowie Unterstützung bei der Erstellung einer Haus- und Reiseapotheke an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Sabine Scheuch vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis von Sabine Scheuch telefonisch unter 03061281030 vereinbaren oder über die Webseite einen Kontaktanfrage stellen."
+    },
+    {
+      "question": "Bietet die Praxis ein kostenloses Vorgespräch an?",
+      "answer": "Ja, die Praxis bietet ein kostenloses persönliches Vorgespräch an, das Sie telefonisch vereinbaren können."
+    },
+    {
+      "question": "In welchen Sprachen werden die Behandlungen angeboten?",
+      "answer": "Die Behandlungen werden in deutscher, englischer und spanischer Sprache angeboten."
+    },
+    {
+      "question": "Wann hat die Frauen-Naturheilpraxis geöffnet?",
+      "answer": "Die Frauen-Naturheilpraxis hat von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPRBcK0JQqEcRHG90YxdPlWY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-claudia-drews-massagen-dorn-breuss-therapie-fussreflexzonenthera",
   "slug": "heilpraktikerin-claudia-drews-massagen-dorn-breuss-therapie-fussreflexzonenthera",
   "name": "Heilpraktikerin Claudia Drews-Massagen-Dorn Breuss Therapie-Fußreflexzonentherapie-Homöopathie-Phytotherapie",
-  "description": "Heilpraktikerin Claudia Drews-Massagen-Dorn Breuss Therapie-Fußreflexzonentherapie-Homöopathie-Phytotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Claudia Drews bietet in ihrer Praxis für Naturheilkunde in Berlin eine Vielzahl von Therapien an, darunter Massagen, Dorn Breuss Therapie, dynamische Wirbelsäulentherapie nach Popp, Fußreflexzonentherapie, Phytotherapie sowie prozessorientierte Homöopathie. Ihre ganzheitlichen Ansätze zielen darauf ab, das Wohlbefinden ihrer Patienten zu fördern und die Selbstheilungskräfte zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,7 +26,38 @@
   "phone": "01746641260",
   "website": "https://www.naturheilkunde-drews.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Folgebehandlung o",
+      "price": 75,
+      "priceLabel": "75 Eur"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/398952241/79cf7dbe-c32c-44d1-8416-ece069d2ca5c.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Claudia Drews an?",
+      "answer": "Heilpraktikerin Claudia Drews bietet folgende Therapien an: Massagen, Dorn Breuss Therapie, Dynamische Wirbelsäulentherapie nach Popp®, Fußreflexzonen Therapie, Phytotherapie, prozessorientierte Homöopathie und Bach-Blüten Therapie."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Erst-Anamnese?",
+      "answer": "Die Kosten für eine Erst-Anamnese liegen bei 110 Euro, abhängig von der Dauer."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Claudia Drews?",
+      "answer": "Die Praxis von Claudia Drews befindet sich in der Cranachstraße 59, 12157 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Claudia Drews erreichen?",
+      "answer": "Sie können Claudia Drews telefonisch unter 01746641260 oder per E-Mail an naturheilkunde-drews@gmx.de erreichen."
+    },
+    {
+      "question": "Ist die Praxis derzeit geöffnet?",
+      "answer": "Die Praxis von Claudia Drews ist vorübergehend geschlossen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOcOPBaZPqEcRUp4EPxBUW5c"
 }

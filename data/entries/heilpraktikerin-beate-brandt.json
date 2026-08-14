@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-beate-brandt",
   "slug": "heilpraktikerin-beate-brandt",
   "name": "Heilpraktikerin Beate Brandt",
-  "description": "Heilpraktikerin Beate Brandt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Beate Brandt in Berlin-Zehlendorf bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Homöopathie, Ohrakupunktur und Ernährungsberatung. Ihr Ziel ist es, die Lebenskraft ihrer Patienten zu stärken und sowohl akute als auch chronische Beschwerden zu behandeln. In ihrer Praxis legt sie Wert auf individuelle Betreuung und lädt Interessierte zu einem kostenlosen, unverbindlichen Informationsgespräch ein.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,43 @@
   "phone": "0308055112",
   "email": "praxis@beate-brandt.de",
   "website": "http://heilpraktikerin-beate-brandt.de/",
+  "bookingUrl": "https://www.heilpraktikerin-beate-brandt.de/?page_id=29",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Begleitetes Basenfasten mit Beate Brandt"
+    }
+  ],
+  "images": [
+    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxis-am-schlachtensee.jpg",
+    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxisraum-beate-brandt.jpg",
+    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxis-beate-brandt.jpg",
+    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2013/08/terminvereinbarung.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Beate Brandt?",
+      "answer": "Die Praxis von Heilpraktikerin Beate Brandt befindet sich in der Matterhornstraße 50A, 14129 Berlin, im Stadtteil Zehlendorf."
+    },
+    {
+      "question": "Welche Behandlungen bietet Heilpraktikerin Beate Brandt an?",
+      "answer": "Heilpraktikerin Beate Brandt bietet unter anderem klassische Homöopathie, Ohrakupunktur, Ausleitungsverfahren, Ernährungsberatung sowie Heilfasten und Basenfasten an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Beate Brandt vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis von Beate Brandt über die Website unter https://www.heilpraktikerin-beate-brandt.de/?page_id=29 buchen oder telefonisch unter 0308055112 Kontakt aufnehmen."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Beate Brandt kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Beate Brandt telefonisch unter 0308055112 oder per E-Mail an praxis@beate-brandt.de kontaktieren."
+    },
+    {
+      "question": "Bietet Beate Brandt ein kostenloses Informationsgespräch an?",
+      "answer": "Ja, Beate Brandt bietet ein kostenloses, unverbindliches Informationsgespräch an, um sich näher kennenzulernen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRNTd9ZbxyYiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

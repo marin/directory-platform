@@ -3,7 +3,7 @@
   "slug": "bettina-dulz-heilpraktikerin-traumatherapie-sehtraining-berlin-hermsdorf",
   "name": "Bettina Dülz | Heilpraktikerin | Traumatherapie & Sehtraining Berlin Hermsdorf",
   "description": "Bettina Dülz | Heilpraktikerin | Traumatherapie & Sehtraining Berlin Hermsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,23 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "100 €",
+      "price": 100,
+      "priceLabel": "100 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "140 €",
+      "price": 140,
+      "priceLabel": "140 €"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJs1E-qEpVqEcRdfcF6zNldOw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

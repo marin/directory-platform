@@ -2,8 +2,8 @@
   "id": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg-chijpvfe2vlq",
   "slug": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg-chijpvfe2vlq",
   "name": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg",
-  "description": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michael Gräwe ist Heilpraktiker für Psychotherapie in Berlin-Schöneberg. Er bietet professionelle Unterstützung in Form von Einzel- und Paartherapie sowie Hypnose, Telefoncoaching und Coaching an. Sein Ziel ist es, Klienten in Krisensituationen, bei Ängsten, Depressionen und Beziehungsproblemen zu helfen und gemeinsam Lösungen zu erarbeiten. In seiner Praxis legt er großen Wert darauf, dass sich die Patienten wohl und gut aufgehoben fühlen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -53,7 +53,50 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychotherapie (Einzeltherapie, Paartherapie)"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-3",
+      "name": "Telefoncoaching"
+    },
+    {
+      "id": "offer-4",
+      "name": "Coaching"
+    }
+  ],
+  "images": [
+    "https://www.psychotherapie-hypnose.net/images/michael-graewe.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Michael Gräwe an?",
+      "answer": "Michael Gräwe bietet Psychotherapie in Form von Einzeltherapie und Paartherapie an. Zudem gehören Hypnose, Telefoncoaching und Coaching zu seinen Tätigkeitsschwerpunkten."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Michael Gräwe?",
+      "answer": "Die Praxis von Michael Gräwe befindet sich in der Regensburger Straße 6, 10777 Berlin-Schöneberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Michael Gräwe kontaktieren?",
+      "answer": "Sie können Michael Gräwe telefonisch unter 0303967024 oder per E-Mail an rolfkepper@yahoo.de kontaktieren."
+    },
+    {
+      "question": "Welche Themen werden in der Psychotherapie behandelt?",
+      "answer": "In der Psychotherapie werden unter anderem persönliche Krisen, Beziehungsprobleme, Ängste, Depressionen, seelisch bedingte körperliche Beschwerden und Trauerprozesse behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVFE2VlQqEcRV-zr3vXWesA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

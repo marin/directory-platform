@@ -2,8 +2,8 @@
   "id": "bettina-goedecke-heilpraktikerin-osteopathie",
   "slug": "bettina-goedecke-heilpraktikerin-osteopathie",
   "name": "Bettina Goedecke, Heilpraktikerin | Osteopathie",
-  "description": "Bettina Goedecke, Heilpraktikerin | Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Bettina Goedecke ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf Osteopathie, Homöopathie, Akupunktur und Naturheilkunde. Ihre Praxis befindet sich in der Reichsstraße 93 in Berlin-Charlottenburg, wo sie eine individuelle und kompetente Betreuung bietet. Mit regelmäßigen Weiterbildungen und langjähriger Erfahrung in der Osteopathie und Physiotherapie gewährleistet sie eine umfassende Behandlung nach neuesten wissenschaftlichen Standards.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,8 +27,70 @@
   },
   "phone": "0303337788",
   "website": "https://www.osteopathie-goedecke.com/",
+  "bookingUrl": "https://www.osteopathie-goedecke.com/kontakt/%20%22Termine",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihr Kontakt zu mir"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sprechzeiten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Die Behandlungen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Homöopathie,"
+    },
+    {
+      "id": "offer-5",
+      "name": "Neuraltherapie,"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ohrakupunktur und"
+    },
+    {
+      "id": "offer-7",
+      "name": "Orthomolekularen Medizin."
+    },
+    {
+      "id": "offer-8",
+      "name": "Ihr Kontakt zu mir"
+    }
+  ],
+  "images": [
+    "https://www.osteopathie-goedecke.com/wp-content/uploads/2021/02/header-startseite.jpg",
+    "https://www.osteopathie-goedecke.com/wp-content/uploads/2021/02/mitglied_im_verband_der_osteopathen_deutschland.png",
+    "https://www.osteopathie-goedecke.com/wp-content/uploads/2023/08/schmetterling_blau.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsformen bietet Bettina Goedecke an?",
+      "answer": "Bettina Goedecke bietet Behandlungen in Osteopathie, Homöopathie, Pflanzenheilkunde, Ohrakupunktur und Orthomolekularer Medizin an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Bettina Goedecke vereinbaren?",
+      "answer": "Die Terminvergabe erfolgt ausschließlich nach telefonischer Vereinbarung. Sie können Bettina Goedecke unter der Telefonnummer 0303337788 kontaktieren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Bettina Goedecke?",
+      "answer": "Die Praxis von Bettina Goedecke befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Werden die Behandlungen von gesetzlichen Krankenkassen übernommen?",
+      "answer": "Die Behandlungen werden zum Teil von gesetzlichen Krankenkassen übernommen, jedoch hauptsächlich von privaten Krankenkassen."
+    },
+    {
+      "question": "Gibt es Sprechzeiten in der Praxis?",
+      "answer": "Die Sprechzeiten sind nicht festgelegt, da die Terminvergabe ausschließlich nach telefonischer Vereinbarung erfolgt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ22Y76klWqEcR4hLsNRcdQ5g",
+  "googleMapsRating": 4.1,
+  "googleMapsRatingsCount": 17
 }

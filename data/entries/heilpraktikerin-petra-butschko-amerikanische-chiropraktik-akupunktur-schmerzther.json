@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-petra-butschko-amerikanische-chiropraktik-akupunktur-schmerzther",
   "slug": "heilpraktikerin-petra-butschko-amerikanische-chiropraktik-akupunktur-schmerzther",
   "name": "Heilpraktikerin Petra Butschko - Amerikanische Chiropraktik - Akupunktur - Schmerztherapie - Umweltmedizin | Berlin",
-  "description": "Heilpraktikerin Petra Butschko - Amerikanische Chiropraktik - Akupunktur - Schmerztherapie - Umweltmedizin | Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktikerin Petra Butschko in Berlin-Charlottenburg bietet eine ganzheitliche Praxis für Gesundheit, die sich auf amerikanische Chiropraktik, Akupunktur, Schmerztherapie und Umweltmedizin spezialisiert hat. Ihr Ansatz verbindet moderne naturheilkundliche Methoden mit einem individuellen Blick auf die Patienten, um deren Lebensqualität nachhaltig zu verbessern. In einer ruhigen und freundlichen Atmosphäre werden persönliche Geschichten und Symptome ernst genommen, um maßgeschneiderte Behandlungskonzepte zu entwickeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,191 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "030 / 67928160"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schriftgröße"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kontrast"
+    },
+    {
+      "id": "offer-4",
+      "name": "Umweltmedizin in Berlin-Charlottenburg – Heilpraktikerin Petra Butschko"
+    },
+    {
+      "id": "offer-5",
+      "name": "elektromagnetische Felder, etwa durch WLAN, Mobilfunk oder elektrische Geräte"
+    },
+    {
+      "id": "offer-6",
+      "name": "Lärm, Dauerstress und Reizüberflutung"
+    },
+    {
+      "id": "offer-7",
+      "name": "UV-Strahlung, Infraschall oder künstliche Lichtquellen"
+    },
+    {
+      "id": "offer-8",
+      "name": "chemische Belastungen in Wohn- oder Arbeitsräumen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Umweltmedizin – Schlafprobleme, Kopfschmerzen und weitere Beschwerden behandeln"
+    },
+    {
+      "id": "offer-10",
+      "name": "anhaltende Erschöpfung, Schlafstörungen oder innere Unruhe"
+    },
+    {
+      "id": "offer-11",
+      "name": "Kopfschmerzen, Konzentrationsprobleme oder mentale Überforderung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Herz-Kreislauf-Beschwerden"
+    },
+    {
+      "id": "offer-13",
+      "name": "Muskel- und Gelenkschmerzen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Stoffwechsel- oder Regulationsstörungen"
+    },
+    {
+      "id": "offer-15",
+      "name": "So gehen wir im Bereich der Umweltmedizin vor"
+    },
+    {
+      "id": "offer-16",
+      "name": "Die Umweltmedizin in unserer Praxis für Naturheilkunde"
+    },
+    {
+      "id": "offer-17",
+      "name": "Unterstützung der Umweltmedizin durch sorgfältig ausgesuchte Produkte"
+    },
+    {
+      "id": "offer-18",
+      "name": "Autismus"
+    },
+    {
+      "id": "offer-19",
+      "name": "Ängstlichkeit"
+    },
+    {
+      "id": "offer-20",
+      "name": "Alzheimer"
+    },
+    {
+      "id": "offer-21",
+      "name": "Parkinson"
+    },
+    {
+      "id": "offer-22",
+      "name": "Herz-, Kreislauferkrankungen"
+    },
+    {
+      "id": "offer-23",
+      "name": "Kopfschmerzen"
+    },
+    {
+      "id": "offer-24",
+      "name": "Beeinflussung von Gehirnwellen"
+    },
+    {
+      "id": "offer-25",
+      "name": "Stoffwechselprobleme"
+    },
+    {
+      "id": "offer-26",
+      "name": "Tinnitus"
+    },
+    {
+      "id": "offer-27",
+      "name": "Gelenkschmerzen"
+    },
+    {
+      "id": "offer-28",
+      "name": "Arthritis"
+    },
+    {
+      "id": "offer-29",
+      "name": "Diabetes"
+    },
+    {
+      "id": "offer-30",
+      "name": "Depressionen"
+    },
+    {
+      "id": "offer-31",
+      "name": "Fibromyalgie"
+    },
+    {
+      "id": "offer-32",
+      "name": "evtl. auch Krebs"
+    },
+    {
+      "id": "offer-33",
+      "name": "Es gibtkeineMöglichkeit, sich dem E-Smog zu entziehen."
+    },
+    {
+      "id": "offer-34",
+      "name": "Jeder muss selbst Maßnahmen ergreifen, um sich zu schützen!"
+    },
+    {
+      "id": "offer-35",
+      "name": "Häufig gestellte Fragen (FAQ) zum Thema Umweltmedizin"
+    },
+    {
+      "id": "offer-36",
+      "name": "Die Behandlungsschwerpunkte unserer Heilpraktikerpraxis"
+    },
+    {
+      "id": "offer-37",
+      "name": "Naturheilkunde mit Zeit und Aufmerksamkeit"
+    },
+    {
+      "id": "offer-38",
+      "name": "Für wen wir da sind"
+    },
+    {
+      "id": "offer-39",
+      "name": "Häufig gestellte Fragen (FAQ) an unsere Heilpraktikerpraxis"
+    }
+  ],
+  "images": [
+    "https://www.petra-butschko.de/upload/large/large_6374d47c219c9477f4a78d4b_c2a95298a181106f10ea07ea16fbe1987012453f61c7e6aee4e81ae82865a620_646760de.jpg",
+    "https://www.petra-butschko.de/images/social_branding.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Heilpraktikerin Petra Butschko an?",
+      "answer": "Heilpraktikerin Petra Butschko bietet Amerikanische Chiropraktik, Akupunktur, Schmerztherapie und Umweltmedizin an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Petra Butschko?",
+      "answer": "Die Praxis von Petra Butschko befindet sich in der Philippistraße 11, 14059 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags bis donnerstags von 09:00 bis 18:00 Uhr und freitags von 09:00 bis 14:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Petra Butschko buchen?",
+      "answer": "Sie können einen Termin online über den folgenden Link buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Ansätze verfolgt die Praxis in der Umweltmedizin?",
+      "answer": "In der Umweltmedizin wird auf die Identifikation belastender Umweltfaktoren geachtet und deren Auswirkungen werden reduziert, um Beschwerden wie Schlafprobleme, Kopfschmerzen und Erschöpfung zu behandeln."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnbVMaNZQqEcR4CcbW67fKiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14
 }

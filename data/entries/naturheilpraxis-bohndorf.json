@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-bohndorf",
   "slug": "naturheilpraxis-bohndorf",
   "name": "Naturheilpraxis Bohndorf",
-  "description": "Naturheilpraxis Bohndorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Bohndorf in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Die Schwerpunkte der Praxis liegen in der Homöopathie, Traumatherapie, Ohrakupunktur, Phytotherapie und Körpertherapie. Heilpraktikerin Cornelia Bohndorf verfolgt einen ganzheitlichen Ansatz, um ihre Patienten individuell zu unterstützen und zu begleiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "015786421292",
   "website": "https://conny-bohndorf.de/",
+  "bookingUrl": "https://conny-bohndorf.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -56,7 +57,57 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Praxisschwerpunkte"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Traumatherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Phytotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Körpertherapie"
+    }
+  ],
+  "images": [
+    "https://conny-bohndorf.de/wp-content/uploads/2021/02/Conny_Bohndorf_ueber_mich_portrait_02.jpg",
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Bohndorf an?",
+      "answer": "Die Naturheilpraxis Bohndorf bietet folgende Therapien an: Homöopathie, Traumatherapie, Ohrakupunktur, Phytotherapie und Körpertherapie."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Bohndorf?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Freitag von 10:00 bis 18:00 Uhr und am Samstag von 14:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Bohndorf buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Naturheilpraxis Bohndorf buchen, indem Sie den Kontaktlink nutzen: https://conny-bohndorf.de/kontakt/."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Bohndorf?",
+      "answer": "Die Naturheilpraxis Bohndorf befindet sich in der Marco-Polo-Straße 1, 14089 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Bohndorf telefonisch erreichen?",
+      "answer": "Sie können die Naturheilpraxis Bohndorf unter der Telefonnummer 015786421292 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJURmmHgRZqEcR1HjfrkBulZ8"
 }

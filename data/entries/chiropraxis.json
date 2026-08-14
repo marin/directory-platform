@@ -2,8 +2,8 @@
   "id": "chiropraxis",
   "slug": "chiropraxis",
   "name": "Chiropraxis",
-  "description": "Chiropraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Chiropraxis in Berlin Tempelhof-Schöneberg erwartet Sie eine ganzheitliche Therapie, die nicht nur Symptome behandelt, sondern auch nach den Ursachen von Beschwerden forscht. Die Praxis spezialisiert sich auf sanfte US-Chiropraktikmethoden, die kontrollierten und gezielten Druck auf verschiedene Bereiche des Bewegungsapparates anwenden, um die Gesundheit zu fördern und Schmerzen zu lindern. Zudem werden Chiropraktik, Massagetechniken und Osteopathie kombiniert, um das Wohlbefinden der Patienten zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -54,5 +54,29 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet die Chiropraxis an?",
+      "answer": "Bei uns erwartet Sie eine ganzheitliche Therapie, die nicht nur Symptome behandelt, sondern auch nach Ursachen forscht. Wir therapieren nach den sanften US-Chiropraktikmethoden und kombinieren Chiropraktik mit Massagetechniken und Osteopathie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Chiropraxis vereinbaren?",
+      "answer": "Sie können uns telefonisch unter 03079709360 oder per E-Mail an info@chiropraxis-juras.de kontaktieren, um einen Termin zu vereinbaren."
+    },
+    {
+      "question": "Wann hat die Chiropraxis geöffnet?",
+      "answer": "Die Chiropraxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Chiropraxis?",
+      "answer": "Die Chiropraxis befindet sich in der Klingsorstraße 9, 12167 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Was kann ich von einem Besuch in der Chiropraxis erwarten?",
+      "answer": "Sie können erwarten, dass bestehende Schmerzen reduziert werden, die Beweglichkeit des Körpers verbessert und die Leistungsfähigkeit gesteigert wird. Wir freuen uns darauf, Sie in unserer Praxis begrüßen zu dürfen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJP7Xo9JBaqEcRXT7Dncr63II",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 10
 }

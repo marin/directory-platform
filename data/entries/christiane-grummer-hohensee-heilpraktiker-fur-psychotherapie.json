@@ -2,8 +2,8 @@
   "id": "christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie",
   "slug": "christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie",
   "name": "Christiane Grümmer-Hohensee, Heilpraktiker für Psychotherapie",
-  "description": "Christiane Grümmer-Hohensee, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Christiane Grümmer-Hohensee ist Heilpraktikerin für Psychotherapie in Berlin, im Bezirk Charlottenburg-Wilmersdorf. In ihrer Praxis bietet sie psychologische Beratung und Auftrittscoaching an, wobei sie verschiedene Methoden der Psychotherapie und Naturheilkunde kombiniert. Ihre Schwerpunkte liegen unter anderem in der Behandlung von Prüfungs- und Auftrittsängsten sowie in der Unterstützung bei Lebenskrisen und Neuorientierung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,8 +25,57 @@
   },
   "email": "kundenservice@jameda.de",
   "website": "https://www.jameda.de/christiane-gruemmer-hohensee/heilpraktiker-fuer-psychotherapie/berlin?utm_source=google&utm_medium=gmb&utm_campaign=385111&utm_content=website",
+  "bookingUrl": "https://www.jameda.de/leistungen/psychotherapie-folgetermin/berlin",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraktikerin für Psychotherapie·Mehrüber Spezialisierungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hauptsächlich behandelte Krankheiten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Praxen (2)"
+    },
+    {
+      "id": "offer-4",
+      "name": "Videosprechstunde"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mommsenstr. 43,Bezirk Charlottenburg-Wilmersdorf, 10629 Berlin"
+    }
+  ],
+  "images": [
+    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b321cc/b321cc8b487298fd4c34e4b90436c2e5_220_square.jpg",
+    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b321cc/b321cc8b487298fd4c34e4b90436c2e5_80_square.jpg",
+    "https://platform.docplanner.com/img/general/online-consultations/profile-video-consultation-card.png?1853743398",
+    "https://www.jameda.de/img/de/avatar/user_default.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Christiane Grümmer-Hohensee?",
+      "answer": "Die Praxis befindet sich in der Mommsenstraße 43, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Leistungen bietet Christiane Grümmer-Hohensee an?",
+      "answer": "Christiane Grümmer-Hohensee bietet Heilpraktikerleistungen für Psychotherapie, psychologische Beratung bei Lebenskrisen und Neuorientierung sowie Unterstützung bei Auftritts- und Prüfungsängsten an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Christiane Grümmer-Hohensee buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf ihrer Website buchen: https://www.jameda.de/leistungen/psychotherapie-folgetermin/berlin."
+    },
+    {
+      "question": "Welche Qualifikationen hat Christiane Grümmer-Hohensee?",
+      "answer": "Christiane Grümmer-Hohensee hat eine Ausbildung in Krankenpflege, eine klassische Gesangsausbildung, ein Studium der Pflegewissenschaften sowie eine Ausbildung zur Heilpraktikerin für Psychotherapie."
+    },
+    {
+      "question": "Wie kann ich Christiane Grümmer-Hohensee kontaktieren?",
+      "answer": "Sie können Christiane Grümmer-Hohensee per E-Mail unter kundenservice@jameda.de oder telefonisch unter 030 32703855 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9TLLIb1RqEcRNFyBwn4bnHE"
 }

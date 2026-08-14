@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-akane-yoshikawa-berlin-seitai",
   "name": "Praxis für Naturheilkunde Akane Yoshikawa(Berlin-Seitai)",
   "description": "Praxis für Naturheilkunde Akane Yoshikawa(Berlin-Seitai) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,6 +26,9 @@
   "website": "https://www.berlinseitai.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.berlinseitai.de/wp-content/uploads/2020/04/DSC00095-scaled.jpeg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL4UXcQBRqEcRTZbH79BhxMY"
 }

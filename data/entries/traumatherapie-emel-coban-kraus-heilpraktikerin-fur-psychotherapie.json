@@ -2,8 +2,8 @@
   "id": "traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie",
   "slug": "traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie",
   "name": "Traumatherapie Emel Coban-Kraus, Heilpraktikerin für Psychotherapie",
-  "description": "Traumatherapie Emel Coban-Kraus, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Emel Coban-Kraus ist Heilpraktikerin für Psychotherapie in Berlin und spezialisiert auf Traumatherapie. Sie bietet Unterstützung für Menschen, die unter stressbedingten Symptomen und Traumafolgestörungen wie PTBS leiden. In ihrer Praxis werden verschiedene therapeutische Ansätze, einschließlich körperorientierter Gesprächstherapie und traumasensitivem Yoga, eingesetzt, um Klienten zu helfen, ihre innere Stärke und Resilienz zu entwickeln. Die Angebote sind sowohl online als auch vor Ort in Berlin Charlottenburg verfügbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,7 +27,56 @@
   "website": "https://www.emelcoban.de/",
   "bookingUrl": "https://emelcoban.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Selbstwirksamkeit erleben, Zuversicht und innere Stärke wieder entdecken"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ich unterstütze Sie, wenn Sie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Mein Angebot für eine gemeinsame Zusammenarbeit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Womit Sie sich noch an mich wenden können"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ressourcenorientiert in ihrem Tempo"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=png/path/s8810f2d8e1bced3c/image/i8cc8b81eb3f94219/version/1722181226/grafik-symptome-ptbs-komplex-ptbs.png",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=png/path/s8810f2d8e1bced3c/image/i4ff8c1dead75e498/version/1722181226/grafik-therapeutische-grundhaltung-methoden-und-ans%C3%A4tze.png",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s8810f2d8e1bced3c/image/i822c980b565b49f7/version/1722181226/m%C3%A4dchen-tutu.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=292x10000:format=jpg/path/s8810f2d8e1bced3c/image/iab7ee0a258476d2e/version/1722181226/frau-in-weisser-kleidung-meditiert.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=474x1024:format=jpg/path/s8810f2d8e1bced3c/image/i4ee982ff6a9a9daa/version/1782223864/frau-portr%C3%A4t-vor-klinkerwand.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet Emel Coban-Kraus an?",
+      "answer": "Emel Coban-Kraus bietet verschiedene Therapieansätze an, darunter körperorientierte Gesprächstherapie, traumasensitiven Yoga (TCTSY) und Embodiment-Übungen zur Förderung der Körperwahrnehmung."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Emel Coban-Kraus buchen?",
+      "answer": "Sie können einen Termin direkt über die Website von Emel Coban-Kraus buchen: Termin buchen."
+    },
+    {
+      "question": "In welcher Region ist die Praxis von Emel Coban-Kraus angesiedelt?",
+      "answer": "Die Praxis von Emel Coban-Kraus befindet sich in Berlin, genauer gesagt in der Haubachstraße 24, 10585 Berlin."
+    },
+    {
+      "question": "Für wen sind die Angebote von Emel Coban-Kraus geeignet?",
+      "answer": "Die Angebote richten sich insbesondere an Menschen, die unter den Folgen von traumatischen Ereignissen leiden, sowie an diejenigen, die ihre Selbstwirksamkeit, Zuversicht und innere Stärke wiederentdecken möchten."
+    },
+    {
+      "question": "Wie kann ich Emel Coban-Kraus kontaktieren?",
+      "answer": "Sie können Emel Coban-Kraus telefonisch unter 01702899819 erreichen oder ihre Website besuchen: emelcoban.de."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCwtiZRqEcRvVtrMMCeI8U"
 }

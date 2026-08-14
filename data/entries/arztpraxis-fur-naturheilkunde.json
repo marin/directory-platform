@@ -2,8 +2,8 @@
   "id": "arztpraxis-fur-naturheilkunde",
   "slug": "arztpraxis-fur-naturheilkunde",
   "name": "Arztpraxis für Naturheilkunde",
-  "description": "Arztpraxis für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Arztpraxis für Naturheilkunde in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen für Kinder, Jugendliche und Erwachsene an. Die Praxis spezialisiert sich auf klassische Homöopathie, Akupunktur, Pflanzenheilkunde sowie Ernährungsmedizin und weitere Naturheilverfahren. Jede Behandlung beginnt mit einer gründlichen Anamnese, um das passende Heilverfahren für die individuellen Bedürfnisse der Patienten zu wählen. Ergänzend zur schulmedizinischen Therapie werden auch alternative Ansätze angeboten, um die Gesundheit zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,8 +26,34 @@
   "phone": "03091147582",
   "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
   "website": "https://www.naturheilkunde-in-weissensee.de/",
+  "bookingUrl": "https://www.naturheilkunde-in-weissensee.de/kontakt/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilkunde-in-weissensee.de/s/cc_images/cache_2462197589.jpg?t=1510242958",
+    "https://www.naturheilkunde-in-weissensee.de/s/img/emotionheader.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Arztpraxis für Naturheilkunde an?",
+      "answer": "Die Praxis bietet klassische Homöopathie, Akupunktur, Pflanzenheilkunde, Ernährungsmedizin sowie andere Naturheilverfahren wie Neuraltherapie, Schröpfen, Bachblüten, Eigenbluttherapie, Blutegel und Vitamininfusionen an."
+    },
+    {
+      "question": "Wo befindet sich die Arztpraxis für Naturheilkunde?",
+      "answer": "Die Praxis befindet sich in der Börnestraße 28, 13088 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den Kontaktbereich besuchen: https://www.naturheilkunde-in-weissensee.de/kontakt/."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03091147582 oder per E-Mail an kerstin.wolf@naturheilkunde-in-weissensee.de kontaktieren."
+    },
+    {
+      "question": "Für welche Altersgruppen sind die Behandlungen geeignet?",
+      "answer": "Die Behandlungen in der Praxis sind für Kinder, Jugendliche und Erwachsene geeignet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3dWVZsNNqEcR_x2HbqjZuNo"
 }

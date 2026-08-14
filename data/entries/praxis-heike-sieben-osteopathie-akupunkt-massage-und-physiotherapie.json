@@ -2,8 +2,8 @@
   "id": "praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie",
   "slug": "praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie",
   "name": "Praxis Heike Sieben, Osteopathie, Akupunkt-Massage und Physiotherapie",
-  "description": "Praxis Heike Sieben, Osteopathie, Akupunkt-Massage und Physiotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis Heike Sieben in Berlin-Tegel werden umfassende Behandlungen in den Bereichen Osteopathie, Akupunkt-Massage nach Penzel und Physiotherapie angeboten. Die Heilpraktikerin Heike Sieben legt besonderen Wert auf die Aktivierung der Selbstheilungskräfte des Körpers und die ganzheitliche Behandlung von Beschwerden. Neben der klassischen Physiotherapie werden auch spezialisierte Therapien wie die Skoliosetherapie nach Schroth angeboten, die sowohl für Kinder als auch für Erwachsene geeignet ist.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,8 +26,136 @@
   },
   "phone": "03081884525",
   "website": "https://www.physio-sieben.de/",
+  "bookingUrl": "https://www.physio-sieben.de/kontakt.php",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Physiotherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Skoliose-Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Einrichtung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Notdienst"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schreiben Sie uns!"
+    },
+    {
+      "id": "offer-7",
+      "name": "Physiotherapeutin"
+    },
+    {
+      "id": "offer-8",
+      "name": "Akupunkt-Massage nach Penzel"
+    },
+    {
+      "id": "offer-9",
+      "name": "Aromatherapie"
+    },
+    {
+      "id": "offer-10",
+      "name": "Beckenbodengymnastik"
+    },
+    {
+      "id": "offer-11",
+      "name": "Brügger"
+    },
+    {
+      "id": "offer-12",
+      "name": "kraniosacrale Therapie"
+    },
+    {
+      "id": "offer-13",
+      "name": "klassische Massagetherapie (KMT)"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kopfschmerz- und Migränebehandlung"
+    },
+    {
+      "id": "offer-15",
+      "name": "McKenzie"
+    },
+    {
+      "id": "offer-16",
+      "name": "Schmerzphysiotherapie"
+    },
+    {
+      "id": "offer-17",
+      "name": "Skoliosetherapie nach Lehnert-Schroth"
+    },
+    {
+      "id": "offer-18",
+      "name": "Wirbelsäulentherapie"
+    },
+    {
+      "id": "offer-19",
+      "name": "Fango / Naturmoor"
+    },
+    {
+      "id": "offer-20",
+      "name": "Kältetherapie (Eis)"
+    },
+    {
+      "id": "offer-21",
+      "name": "Magnetfeldtherapie"
+    },
+    {
+      "id": "offer-22",
+      "name": "Haltungs- und Bewegungsschule"
+    },
+    {
+      "id": "offer-23",
+      "name": "Englisch"
+    },
+    {
+      "id": "offer-24",
+      "name": "Französisch"
+    },
+    {
+      "id": "offer-25",
+      "name": "Airflow-Geräte"
+    }
+  ],
+  "images": [
+    "https://www.physio-sieben.de/bilder/galerie/team/01_Heike_Sieben.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis Heike Sieben an?",
+      "answer": "Die Praxis Heike Sieben bietet Osteopathie, Akupunkt-Massage nach Penzel, Physiotherapie sowie Skoliose-Therapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Heike Sieben?",
+      "answer": "Die Praxis befindet sich in der Alt-Tegel 16, 13507 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis Heike Sieben vereinbaren?",
+      "answer": "Termine können über die Webseite der Praxis unter https://www.physio-sieben.de/kontakt.php vereinbart werden."
+    },
+    {
+      "question": "Bietet die Praxis auch Notdienste an?",
+      "answer": "Ja, die Praxis bietet einen Notdienst an."
+    },
+    {
+      "question": "Wer ist die Inhaberin der Praxis?",
+      "answer": "Die Inhaberin der Praxis ist Heike Sieben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYRtLMUNUqEcR_LVzhj968zE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

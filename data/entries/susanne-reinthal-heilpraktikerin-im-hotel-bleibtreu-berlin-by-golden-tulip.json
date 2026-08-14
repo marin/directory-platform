@@ -2,8 +2,8 @@
   "id": "susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip",
   "slug": "susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip",
   "name": "Susanne Reinthal, Heilpraktikerin im Hotel Bleibtreu Berlin by Golden Tulip",
-  "description": "Susanne Reinthal, Heilpraktikerin im Hotel Bleibtreu Berlin by Golden Tulip ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Susanne Reinthal ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Naturheilkunde spezialisiert hat. Ihre Praxis befindet sich im Hotel Bleibtreu Berlin und bietet eine Vielzahl von Behandlungen an, darunter Reflexzonentherapie, Gua Sha, Bach-Blüten-Therapie und Lymphdrainage. Mit einem ganzheitlichen Ansatz unterstützt sie ihre Patienten in gesundheitlichen Belangen und fördert das körperliche sowie seelische Gleichgewicht.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,68 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Zu meiner Person"
+    },
+    {
+      "id": "offer-2",
+      "name": "Lexikon der Naturheilverfahren"
+    },
+    {
+      "id": "offer-3",
+      "name": "Reflexzonentherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Bürstenmassage"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bach-Blüten-Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Lymphdrainage"
+    },
+    {
+      "id": "offer-7",
+      "name": "Dampfbad/Sauna"
+    },
+    {
+      "id": "offer-8",
+      "name": "Heilbehandlungen"
+    }
+  ],
+  "images": [
+    "http://susanne-reinthal-hp.de/wp-content/uploads/2025/09/IMG-20250822-WA0002.jpg",
+    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/ausschnitt4-1.jpg",
+    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten5-1.jpg",
+    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten3-1.jpg",
+    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten1-1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Susanne Reinthal?",
+      "answer": "Die Praxis von Susanne Reinthal befindet sich im Hotel Bleibtreu Berlin, Bleibtreustraße 31, 10707 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Susanne Reinthal vereinbaren?",
+      "answer": "Termine können nach Vereinbarung unter der Telefonnummer 0177 25 85 113 oder per E-Mail an heilpraktikerin@berlin.de vereinbart werden."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Susanne Reinthal an?",
+      "answer": "Susanne Reinthal bietet verschiedene Behandlungsmethoden an, darunter Reflexzonentherapie, Gua Sha, Bürstenmassage, Bach-Blüten-Therapie, Lymphdrainage und Dampfbad/Sauna."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 07:00 bis 15:00 Uhr und am Sonntag von 07:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Behandlung?",
+      "answer": "Die Kosten für eine Behandlung betragen 80 Euro für eine Dauer von 60 Minuten. Die Abrechnung erfolgt privat oder über private Krankenkassen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS6CTtv1QqEcRXHvxkPn1bt4"
 }

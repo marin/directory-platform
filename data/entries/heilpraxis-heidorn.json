@@ -2,8 +2,8 @@
   "id": "heilpraxis-heidorn",
   "slug": "heilpraxis-heidorn",
   "name": "Heilpraxis Heidorn",
-  "description": "Heilpraxis Heidorn ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Heidorn in Berlin-Zehlendorf bietet eine ganzheitliche Betrachtung von individuellen Beschwerden durch verschiedene naturheilkundliche Ansätze. Zu den angebotenen Leistungen zählen unter anderem Metavital- und Dunkelfeld-Diagnostik sowie Faszien-Behandlungen. Heilpraktikerin Marie-Carolin Heidorn legt großen Wert auf eine ausführliche Erstberatung, um gemeinsam mit den Patienten geeignete Therapiewege zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,64 @@
   "phone": "015234096778",
   "email": "info@heilpraxis-heidorn.de",
   "website": "http://heilpraxis-heidorn.de/",
+  "bookingUrl": "https://heilpraxis-heidorn.de/wp/index.php/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Metavital- Diagnostik"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dunkelfeld- Diagnostik"
+    },
+    {
+      "id": "offer-3",
+      "name": "Faszien- Behandlung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Weitere Behandlungen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Mein Werdegang als Heilpraktikerin"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ausbildungen und Fortbildungen"
+    }
+  ],
+  "images": [
+    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/ion-dunkelfeld-150x150.png",
+    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/02/portrait-carolin-heidorn-03-400x658.jpg",
+    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/02/karte-footer-04.jpg",
+    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/logo-heidorn-228x117-gruen-02.png",
+    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/logo-heidorn-456x234-weiss.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Heilpraxis Heidorn an?",
+      "answer": "Die Heilpraxis Heidorn bietet unter anderem Metavital-Diagnostik, Dunkelfeld-Diagnostik, Faszien-Behandlung und weitere Behandlungen an."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis Heidorn?",
+      "answer": "Die Heilpraxis Heidorn befindet sich im Herbergerweg 11, 14167 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Heidorn buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf der Website der Heilpraxis Heidorn buchen: https://heilpraxis-heidorn.de/wp/index.php/kontakt/."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Heidorn kontaktieren?",
+      "answer": "Sie können die Heilpraxis Heidorn telefonisch unter 015234096778 oder per E-Mail an info@heilpraxis-heidorn.de kontaktieren."
+    },
+    {
+      "question": "Hat die Heilpraxis Heidorn feste Öffnungszeiten?",
+      "answer": "Im Moment sind keine festen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJdnYUMpbqEcRdCj3RHWChZM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

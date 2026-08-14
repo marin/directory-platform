@@ -3,7 +3,7 @@
   "slug": "bettina-ballauff-heilpraktikerin-praxis-fur-osteopathie",
   "name": "Bettina Ballauff \"Heilpraktikerin\" Praxis für Osteopathie",
   "description": "Bettina Ballauff \"Heilpraktikerin\" Praxis für Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -28,6 +28,12 @@
   "website": "https://www.osteopathie-berlin-friedenau.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.osteopathie-berlin-friedenau.de/style/logo.png"
+  ],
+  "faq": [],
+  "bookingUrl": "https://www.osteopathie-berlin-friedenau.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAatfEX1QqEcRuJNr6LCxEaU",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 3
 }

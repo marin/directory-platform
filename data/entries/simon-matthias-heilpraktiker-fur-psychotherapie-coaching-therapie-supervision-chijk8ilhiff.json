@@ -2,8 +2,8 @@
   "id": "simon-matthias-heilpraktiker-fur-psychotherapie-coaching-therapie-supervision-chijk8ilhiff",
   "slug": "simon-matthias-heilpraktiker-fur-psychotherapie-coaching-therapie-supervision-chijk8ilhiff",
   "name": "Simon Matthias - Heilpraktiker für Psychotherapie - Coaching | Therapie | Supervision",
-  "description": "Simon Matthias - Heilpraktiker für Psychotherapie - Coaching | Therapie | Supervision ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Simon Matthias ist Heilpraktiker für Psychotherapie mit einer Praxis in Berlin-Neukölln (Britz). Er bietet individuelle Coaching- und Therapiesitzungen an, die sowohl vor Ort als auch online stattfinden können. Seit 2015 tätig, kombiniert er verschiedene therapeutische Ansätze, darunter NLP und Hypnotherapie, um Klienten bei der Entdeckung ihrer inneren Ressourcen und der Überwindung von Herausforderungen zu unterstützen. Seine Arbeit zeichnet sich durch eine prozessorientierte und nachhaltige Herangehensweise aus.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,60 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Simon Matthias Praxis für Psychotherapie \\ Coaching \\ Supervision"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxis in Berlin-Neukölln (Britz)"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kompetentes Coaching und Psychotherapie (nach dem Heilpraktikergesetz)"
+    },
+    {
+      "id": "offer-4",
+      "name": "Online und Vor-Ort Sitzungen möglich"
+    },
+    {
+      "id": "offer-5",
+      "name": "Tiefgehend, nachhaltig und transparent"
+    },
+    {
+      "id": "offer-6",
+      "name": "In eigener Praxis tätig seit 2015"
+    },
+    {
+      "id": "offer-7",
+      "name": "Dozent für NLP, Aufstellungsarbeit und verwandte Verfahren seit 2015"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Simon Matthias an?",
+      "answer": "Simon Matthias bietet Psychotherapie, Coaching und Supervision an. Er arbeitet nach dem Heilpraktikergesetz und nutzt verschiedene Methoden, um individuell auf die Anliegen seiner Klienten einzugehen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Simon Matthias?",
+      "answer": "Die Praxis von Simon Matthias befindet sich in der Mohriner Allee 98, 12347 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Simon Matthias buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Simon Matthias buchen, indem Sie den Kontaktbereich aufrufen: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Bietet Simon Matthias auch Online-Sitzungen an?",
+      "answer": "Ja, Simon Matthias bietet sowohl Online- als auch Vor-Ort-Sitzungen an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK8ILhIFFqEcRwgEpwWOMLY0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20
 }

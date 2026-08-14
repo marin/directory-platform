@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-kerstin-klein",
   "slug": "heilpraktikerin-fur-psychotherapie-kerstin-klein",
   "name": "Heilpraktikerin für Psychotherapie - Kerstin Klein",
-  "description": "Heilpraktikerin für Psychotherapie - Kerstin Klein ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin für Psychotherapie Kerstin Klein bietet in ihrer Praxis in Berlin umfassende psychotherapeutische Dienstleistungen an. Ihr Leistungsspektrum umfasst psychologische Beratung, Gesprächs­therapie sowie Hypnose und Hypnotherapie. Sie unterstützt Klienten bei verschiedenen psychischen Herausforderungen, darunter Angststörungen, Schlafstörungen und psychosomatische Symptome, und fördert die persönliche Entwicklung durch individuelle Lösungsansätze.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -54,7 +54,96 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Psychologische Beratung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Gesprächs­therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hypnose & Hypnotherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Belastungs­reaktionen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Angst­störungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Stimmungs­schwankungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Schlaf­störungen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Psycho­somatische Symptome"
+    },
+    {
+      "id": "offer-9",
+      "name": "Berufliche Weiter­entwicklung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Kommunikations­probleme"
+    },
+    {
+      "id": "offer-11",
+      "name": "Positive Beziehungs­gestaltung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Gesundheits­beschwerden"
+    },
+    {
+      "id": "offer-13",
+      "name": "Für Privat­versicherte"
+    },
+    {
+      "id": "offer-14",
+      "name": "Für gesetzlich Versicherte"
+    },
+    {
+      "id": "offer-15",
+      "name": "Kontaktanfrage"
+    }
+  ],
+  "images": [
+    "https://www.praxis-kerstin-klein.de/wp-content/uploads/2021/03/banner.jpg",
+    "https://www.praxis-kerstin-klein.de/wp-content/uploads/2021/03/kerstin-klein-1.jpg",
+    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/psychologische-beratung-icon-p54f1jo4timbzpcm2an5dx2iox52p4pt6jw61o191c.png",
+    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/gespraechstherapie-icon-p54f1klz0cni7zue1lba8znz7jblnnfazzg34cov7k.png",
+    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/hypnotherapie-icon-p54f1jo4timak54wuyxoe0rf2cndpiofeepipcz7cw.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Kerstin Klein an?",
+      "answer": "Kerstin Klein bietet Psychologische Beratung, Gesprächs­therapie, Hypnose & Hypnotherapie sowie Unterstützung bei Belastungs­reaktionen, Angst­störungen, Stimmungs­schwankungen, Schlaf­störungen, psycho­somatischen Symptomen und weiteren Themen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von Kerstin Klein buchen?",
+      "answer": "Sie können einen Termin direkt über die Webseite von Kerstin Klein buchen, indem Sie den Kontaktbereich auf dieser Seite besuchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Kerstin Klein?",
+      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Kerstin Klein?",
+      "answer": "Die Praxis befindet sich in der Peschkestraße 14, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Kerstin Klein kontaktieren?",
+      "answer": "Sie können Kerstin Klein telefonisch unter 03064310690 oder per E-Mail an kontakt@praxis-kerstin-klein.de erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGY1QUnxRqEcR69axnJa0PGs"
 }

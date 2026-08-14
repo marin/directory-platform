@@ -2,8 +2,8 @@
   "id": "manuela-jeske-heilpraktikerin",
   "slug": "manuela-jeske-heilpraktikerin",
   "name": "Manuela Jeske Heilpraktikerin",
-  "description": "Manuela Jeske Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Manuela Jeske ist eine erfahrene Heilpraktikerin in Berlin-Charlottenburg, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie verschiedene Therapien an, darunter Darmsanierung und Erfahrungsheilkunde, mit dem Ziel, die Selbstheilungskräfte ihrer Patienten zu aktivieren. Ihr Ansatz basiert auf der Erkenntnis, dass Symptome oft Hinweise auf tieferliegende Ungleichgewichte im Körper sind, die es zu erforschen gilt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,43 @@
   "website": "http://www.naturheilpraxisjeske.de/",
   "bookingUrl": "https://www.naturheilpraxisjeske.de/startseite/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Darmsanierung"
+    },
+    {
+      "id": "offer-2",
+      "name": "Erfahrungsheilkunde"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=233x1024:format=jpg/path/s1d87bc88762a66f8/image/i565ac77180b0461f/version/1699022477/manuela-jeske-blutegeltherapie.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x1024:format=jpg/path/s1d87bc88762a66f8/image/i565ac77180b0461f/version/1699022477/manuela-jeske-blutegeltherapie.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Manuela Jeske?",
+      "answer": "Die Praxis von Manuela Jeske befindet sich in der George-Caylay-Straße 13, 14089 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungen bietet Manuela Jeske an?",
+      "answer": "Manuela Jeske bietet verschiedene Behandlungen an, darunter Heilpraktikerleistungen, Darmsanierung, Erfahrungsheilkunde und Datenschutz in der Praxis."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Manuela Jeske buchen?",
+      "answer": "Sie können einen Termin bei Manuela Jeske über die Webseite buchen: Termin buchen."
+    },
+    {
+      "question": "Was ist das Ziel der Behandlung bei Manuela Jeske?",
+      "answer": "Das Ziel der Behandlung bei Manuela Jeske ist es, den Patienten zu helfen, ihre eigene Weisheit zu entdecken und die Ursachen ihrer Symptome zu ergründen, um Körper, Geist und Seele wieder ins Gleichgewicht zu bringen."
+    },
+    {
+      "question": "Wie schützt Manuela Jeske die Daten ihrer Patienten?",
+      "answer": "Die Daten der Patienten werden auf der Grundlage der Datenschutzverordnung vom 26.5.2018 (EU DS_GVO) sowie des aktuellen Bundesdatenschutzgesetzes geschützt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqbDfgeT3qEcR_AYUOAgQDZk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

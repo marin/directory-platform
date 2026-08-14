@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-sandra-seelig",
   "slug": "naturheilpraxis-sandra-seelig",
   "name": "Naturheilpraxis Sandra Seelig",
-  "description": "Naturheilpraxis Sandra Seelig ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Sandra Seelig in Berlin bietet eine ganzheitliche homöopathische Behandlung für unangepasste Kinder und Erwachsene an. Die Praxis legt besonderen Wert auf die individuelle Konstitutionsanalyse und prozessorientierte Homöopathie, um Patienten dabei zu unterstützen, ihr volles Potenzial zu entfalten. Sandra Seelig, eine erfahrene Homöopathin, begleitet ihre Klienten auf dem Weg zu mehr Selbstverwirklichung und emotionaler Gesundheit.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03027496052",
   "website": "http://www.naturheilpraxis-sandraseelig.de/",
+  "bookingUrl": "mailto:info@sandraseelig.de \"info@sandraseelig.de",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,58 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Expertin für unangepasste Kinder & Erwachsene"
+    },
+    {
+      "id": "offer-2",
+      "name": "1\\. Der Weg zurück zu Dir! Die homöopathische Konstitutionsanalyse"
+    },
+    {
+      "id": "offer-3",
+      "name": "Details"
+    },
+    {
+      "id": "offer-4",
+      "name": "Details"
+    },
+    {
+      "id": "offer-5",
+      "name": "Prozessorientierte Ausbildung! Homöopathie erlernen und anwenden."
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/i8e0035ae3bd9b06a/version/1732015713/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/id75a4c676c893f71/version/1732015767/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/id019dda618621602/version/1732015852/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/iedb6186c74a23974/version/1732883092/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/sffe46acf99d361bb/image/i8e0035ae3bd9b06a/version/1732015713/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Sandra Seelig an?",
+      "answer": "Die Naturheilpraxis Sandra Seelig bietet unter anderem eine homöopathische Konstitutionsanalyse und prozessorientierte Homöopathie an. Sie ist spezialisiert auf die Arbeit mit unangepassten Kindern und Erwachsenen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Sandra Seelig buchen?",
+      "answer": "Sie können einen Termin per E-Mail an info@sandraseelig.de buchen."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Sandra Seelig geöffnet?",
+      "answer": "Die Öffnungszeiten sind: Montag und Mittwoch von 10:00 bis 18:00 Uhr, Dienstag und Freitag von 10:00 bis 14:00 Uhr, sowie Donnerstag von 10:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Sandra Seelig?",
+      "answer": "Die Praxis befindet sich in Berlin, Am Goldmannpark 21, 12587 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Sandra Seelig kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03027496052 oder über die Website http://www.naturheilpraxis-sandraseelig.de/ kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaVzX1X1QqEcRSCO-pPwhCdc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13
 }

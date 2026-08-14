@@ -2,8 +2,8 @@
   "id": "korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection",
   "slug": "korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection",
   "name": "Körpertherapie, Akupunktur & Chiropraktik in Berlin - Praxis Dynamic Touch Connection",
-  "description": "Körpertherapie, Akupunktur & Chiropraktik in Berlin - Praxis Dynamic Touch Connection ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis Dynamic Touch Connection in Berlin Neukölln werden ganzheitliche Körpertherapie, Akupunktur und Chiropraktik angeboten. Die Behandlung zielt darauf ab, Schmerzen und Bewegungseinschränkungen zu lindern und das körperliche sowie geistige Wohlbefinden zu fördern. Durch individuelle Therapieansätze, die Elemente der Traditionellen Chinesischen Medizin (TCM), Osteopathie und Triggerpunkttherapie integrieren, wird auf die spezifischen Bedürfnisse der Patienten eingegangen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -54,7 +54,62 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ganzheitliche Körpertherapie und Akupunktur in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Unser Körper ist ständig in Bewegung."
+    },
+    {
+      "id": "offer-3",
+      "name": "Wie Körpertherapie bei Verspannungen und Schmerzen helfen kann"
+    },
+    {
+      "id": "offer-4",
+      "name": "Mein Ansatz: Ganzheitliche Körpertherapie in Berlin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Your health – Your Way"
+    },
+    {
+      "id": "offer-6",
+      "name": "Unterstützung bei Schmerzen und Bewegungseinschränkungen"
+    }
+  ],
+  "images": [
+    "https://dynamictouch.de/wp-content/uploads/pain-relief-recovery-mobility-dynamic-touch-connection-berlin-1.jpg",
+    "https://dynamictouch.de/wp-content/uploads/ganzheitliche-koerpertherapie-berlin-dynamictouchconnection.png",
+    "https://dynamictouch.de/wp-content/uploads/acupunctur-berlin-neukoelln-dynamictouchconnection.png",
+    "https://dynamictouch.de/wp-content/uploads/osteo-thai-massage-berlin-dynamictouchconnection.png",
+    "https://dynamictouch.de/wp-content/uploads/ganzheitliche-chiropraktik-dynamic-touch-connection_berlin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien werden in der Praxis Dynamic Touch Connection angeboten?",
+      "answer": "In der Praxis Dynamic Touch Connection werden ganzheitliche Körpertherapie, Akupunktur, Osteopathie, Chiropraktik, Triggerpunkttherapie und Oste Thai Massagen angeboten."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Einen Termin können Sie direkt über die Plattform Doctolib buchen. Hier ist der Link zur Buchung: Termin buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 12:00 bis 20:00 Uhr, Dienstag von 08:00 bis 14:00 Uhr, Mittwoch von 15:00 bis 21:00 Uhr, Donnerstag von 12:00 bis 20:00 Uhr und Freitag von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Dynamic Touch Connection?",
+      "answer": "Die Praxis befindet sich in Berlin Neukölln, im Ladengeschäft EG rechts, 12043 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 017680035462 oder per E-Mail an dynamictouch@posteo.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3gTAYiZQkoRgL1ZtHGgUHE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 46
 }

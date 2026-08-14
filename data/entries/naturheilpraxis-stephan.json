@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-stephan",
   "slug": "naturheilpraxis-stephan",
   "name": "Naturheilpraxis Stephan",
-  "description": "Naturheilpraxis Stephan ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Stephan in Berlin bietet umfassende Dienstleistungen im Bereich der Naturheilkunde an. Unter der Leitung von Gabriele Stephan stehen fundierte Diagnose- und Therapieansätze im Fokus, insbesondere die medizinisch/ganzheitliche Blut- und Labordiagnostik sowie Ernährung als Medizin. Ziel der Praxis ist es, die Gesundheit und das Wohlbefinden der Patienten zu fördern und individuelle Lösungen zur Gesundheitsvorsorge zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,58 @@
   "email": "info@naturheilpraxis-stephan.com",
   "website": "http://naturheilpraxis-stephan.com/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis Gabriele Stephan"
+    },
+    {
+      "id": "offer-2",
+      "name": "Es ist Zeit sich gut zu fühlen!"
+    },
+    {
+      "id": "offer-3",
+      "name": "Diagnose"
+    },
+    {
+      "id": "offer-4",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Spezialgebiete"
+    },
+    {
+      "id": "offer-6",
+      "name": "Vimeo"
+    }
+  ],
+  "images": [
+    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/03/Gabriele-Stephan-Naturheilpraxis.jpg",
+    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/07/Es-ist-Zeit-sich-gut-zu-fuehlen-200x200.png",
+    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/06/Gabriele-Stephan-Gesundheitsvorsorge-vitaler-Koerper-500x530.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Stephan?",
+      "answer": "Die Naturheilpraxis Stephan befindet sich in der Cranachstraße 59, 12157 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Welche Therapieansätze bietet die Naturheilpraxis an?",
+      "answer": "Die Naturheilpraxis bietet verschiedene Therapieansätze an, darunter Ernährung als Medizin, Pflanzenheilkunde, Homöopathie, Sanum-Therapie, bioidentische Hormontherapie und Mikro-Akupunktur (Ohrakupunktur)."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Stephan vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 03053168555 oder per E-Mail an info@naturheilpraxis-stephan.com vereinbaren."
+    },
+    {
+      "question": "Welche Spezialgebiete deckt die Naturheilpraxis ab?",
+      "answer": "Die Spezialgebiete der Naturheilpraxis umfassen Störungen im Stoffwechsel- und Hormonsystem, Allergien und Nahrungsmittelunverträglichkeiten, Stress und Erschöpfungszustände, Darmaufbau, Schwermetallbelastungen sowie Schilddrüsenstörungen."
+    },
+    {
+      "question": "Bietet die Naturheilpraxis auch eine Blut- und Labordiagnostik an?",
+      "answer": "Ja, die Naturheilpraxis bietet medizinisch/ganzheitliche Blut- und Labordiagnostik an, um die Ursachen möglicher Erkrankungen frühzeitig zu erkennen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn4X5AnRQqEcRrUpwQxyzYx0"
 }

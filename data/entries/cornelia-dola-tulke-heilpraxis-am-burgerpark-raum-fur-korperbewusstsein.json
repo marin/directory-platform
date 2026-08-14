@@ -3,7 +3,7 @@
   "slug": "cornelia-dola-tulke-heilpraxis-am-burgerpark-raum-fur-korperbewusstsein",
   "name": "Cornelia Dola Tulke-Heilpraxis am Bürgerpark - Raum für KörperBewußtsein",
   "description": "Cornelia Dola Tulke-Heilpraxis am Bürgerpark - Raum für KörperBewußtsein ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -63,7 +63,15 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Space for body awareness"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnQKxS0dSqEcRl4kxw1spAy4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

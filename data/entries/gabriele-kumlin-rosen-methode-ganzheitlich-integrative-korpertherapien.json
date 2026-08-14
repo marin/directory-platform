@@ -2,8 +2,8 @@
   "id": "gabriele-kumlin-rosen-methode-ganzheitlich-integrative-korpertherapien",
   "slug": "gabriele-kumlin-rosen-methode-ganzheitlich-integrative-korpertherapien",
   "name": "Gabriele Kumlin, Rosen-Methode, ganzheitlich-integrative Körpertherapien",
-  "description": "Gabriele Kumlin, Rosen-Methode, ganzheitlich-integrative Körpertherapien ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Gabriele Kumlin bietet in ihrer Praxis in Berlin seit 1998 verschiedene ganzheitlich-integrative Körpertherapien an, darunter die Rosen-Methode, CranioSacrale Therapie und Tibetisches Heilyoga (Kum Nye). Ihr Ansatz zielt darauf ab, die Harmonie von Körper, Seele und Geist wiederherzustellen und unterstützt Klienten bei physischen und seelischen Problemen sowie in Krisenzeiten. Die sanften, nicht manipulativen Methoden fördern die Entspannung des vegetativen Nervensystems und aktivieren die Selbstheilungskräfte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,68 @@
   "phone": "03039749515",
   "email": "touchmovarts@web.de",
   "website": "http://www.touchmovarts.de/",
+  "bookingUrl": "https://www.touchmovarts.de/Kontakt.php",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Rosen-Methode Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "CranioSacrale Therapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kurse / Retreats"
+    },
+    {
+      "id": "offer-4",
+      "name": "Veröffentlichungen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Rosen-Methode Körperarbeit nach Marion Rosen",
+      "description": "den Körper berühren, die Seele erreichen"
+    },
+    {
+      "id": "offer-6",
+      "name": "CranioSacrale und Biodynamische CranioSacrale Therapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Tibetisches Heilyoga (Kum Nye)",
+      "description": "ein meditatives Entspannungs- und Achtsamkeitstraining"
+    }
+  ],
+  "images": [
+    "https://www.touchmovarts.de/img/header.png",
+    "https://www.touchmovarts.de/img/start.jpg",
+    "https://www.touchmovarts.de/img/rosen-methode-koerperarbeit-logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Gabriele Kumlin an?",
+      "answer": "Gabriele Kumlin bietet verschiedene ganzheitlich-integrative Körpertherapien an, darunter die Rosen-Methode, CranioSacrale Therapie, Kum Nye (tibetisches Heilyoga) und Moving From Within."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Gabriele Kumlin?",
+      "answer": "Die Praxis von Gabriele Kumlin befindet sich in der Jagowstrasse 9, 10555 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Gabriele Kumlin buchen?",
+      "answer": "Sie können einen Termin über die Webseite von Gabriele Kumlin buchen, indem Sie den Kontaktlink auf http://www.touchmovarts.de/ nutzen."
+    },
+    {
+      "question": "Wie kann ich Gabriele Kumlin kontaktieren?",
+      "answer": "Sie können Gabriele Kumlin telefonisch unter 03039749515 oder per E-Mail an touchmovarts@web.de kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Therapien von Gabriele Kumlin?",
+      "answer": "Das Ziel der Therapien ist es, die Harmonie von Körper, Seele und Geist wiederherzustellen und die Selbstheilungskräfte zu aktivieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzX3ikd9QqEcR98xePiCWVRM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

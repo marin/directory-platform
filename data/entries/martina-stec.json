@@ -2,8 +2,8 @@
   "id": "martina-stec",
   "slug": "martina-stec",
   "name": "Martina Stec",
-  "description": "Martina Stec ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Martina Stec ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf energetischer Medizin und Aufstellungsarbeit in Berlin-Reinickendorf. In ihrer Praxis bietet sie Unterstützung bei Ängsten, anhaltendem Stress und emotionalen Krisen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,34 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Warenkorb"
+    }
+  ],
+  "images": [
+    "https://content.app-sources.com/s/845692100493844801/uploads/Heruntergeladen/Terminvereinbarung_Klein-0998208.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Martina Stec?",
+      "answer": "Die Praxis von Martina Stec befindet sich in der Horber Str. 15a, 13469 Berlin, Reinickendorf."
+    },
+    {
+      "question": "Wie kann ich Martina Stec kontaktieren?",
+      "answer": "Sie können Martina Stec telefonisch unter 03040398058 oder per E-Mail an info@martinastec.de kontaktieren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten der Praxis sind: Montag von 09:00 bis 18:30 Uhr, Dienstag bis Freitag von 09:30 bis 19:00 Uhr und Samstag von 10:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Martina Stec an?",
+      "answer": "Martina Stec bietet Dienstleistungen im Bereich der energetischen Medizin und Aufstellungsarbeit an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFwW7vZ1UqEcRyP9D8al-6uk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

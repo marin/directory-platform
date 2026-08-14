@@ -3,7 +3,7 @@
   "slug": "tino-klimpel-heilpraktiker-in-berlin-mahlsdorf",
   "name": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf",
   "description": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -67,7 +67,75 @@
       "close": "12:30"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schmerztherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hilfe bei Stress"
+    },
+    {
+      "id": "offer-3",
+      "name": "EMMETT Technique"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schmerztherapie mit der EMMETT Technique"
+    },
+    {
+      "id": "offer-5",
+      "name": "Schmerzen beim Golfen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Blutegel-Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Neuralherapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-10",
+      "name": "Thetafloating"
+    },
+    {
+      "id": "offer-11",
+      "name": "Energiearbeit"
+    },
+    {
+      "id": "offer-12",
+      "name": "Gesichtsbehandlung"
+    },
+    {
+      "id": "offer-13",
+      "name": "Hypnotherapie"
+    },
+    {
+      "id": "offer-14",
+      "name": "EMM-Tech Workshop Berlin"
+    },
+    {
+      "id": "offer-15",
+      "name": "Emmett-Workshop für Golfer"
+    },
+    {
+      "id": "offer-16",
+      "name": "Emmett-Workshop für Yoga, Pilates und Fitnesstrainer"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJewzyTr9JqEcRKVAUn8sb_2U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31
 }

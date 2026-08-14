@@ -2,8 +2,8 @@
   "id": "akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke",
   "slug": "akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke",
   "name": "Akupunktur & Reiki | Heilpraktiker Berlin Prenzlauer Berg - Bernd Monecke",
-  "description": "Akupunktur & Reiki | Heilpraktiker Berlin Prenzlauer Berg - Bernd Monecke ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis im Bambusgarten, geleitet von Heilpraktiker Bernd Monecke, bietet seit 2003 eine Vielzahl von naturheilkundlichen Behandlungen in Berlin Prenzlauer Berg an. Schwerpunkte sind die Traditionelle Chinesische Medizin (TCM), Akupunktur, Reiki sowie ganzheitliche Physiotherapie. In einer individuellen und ganzheitlichen Herangehensweise werden Behandlungskonzepte für Menschen aller Altersgruppen entwickelt, die auf die persönlichen Lebenssituationen abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,7 +27,46 @@
   "website": "https://www.bambuspraxis.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernd-monecke?utm_source=google-maps&utm_campaign=google-maps",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die Praxis Im Bambusgarten"
+    },
+    {
+      "id": "offer-2",
+      "name": "Aktuelle Qigong-Kurse mit Chris Saleski"
+    }
+  ],
+  "images": [
+    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_16.jpg",
+    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_33.jpg",
+    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/06604_10.jpg",
+    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_35.jpg",
+    "https://www.bambuspraxis.de/fileadmin/_processed_/2/0/csm_Bernd-Monecke_295ed126b8.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Bernd Monecke in seiner Praxis an?",
+      "answer": "Bernd Monecke bietet in seiner Praxis Akupunktur, Traditionelle Chinesische Medizin (TCM), Reiki, Shiatsu, Qi Gong, Phytotherapie, Ernährungsberatung und Gesundheitscoaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Bernd Monecke?",
+      "answer": "Die Praxis von Bernd Monecke befindet sich in der Diedenhofer Str. 4, 10405 Berlin, im Stadtteil Prenzlauer Berg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Praxis über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche besonderen Angebote gibt es in der Praxis?",
+      "answer": "In der Praxis gibt es aktuelle Qi Gong-Kurse mit Chris Saleski sowie Gruppenangebote in Berlin und außerhalb in der Natur bei Kursen, Seminaren und Ausbildungen."
+    },
+    {
+      "question": "Wie lange ist Bernd Monecke bereits als Heilpraktiker tätig?",
+      "answer": "Bernd Monecke ist seit 2000 als Heilpraktiker tätig."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYKbswNOqEcRIsjFqDjn6LY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

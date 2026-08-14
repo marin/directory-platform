@@ -193,6 +193,7 @@ export function validateDataset(): ValidationIssue[] {
         }
       }
       for (const [i, img] of (entry.images ?? []).entries()) {
+        if (/^https?:\/\//i.test(img)) continue;
         if (!existsSync(join(ROOT, "public", img))) {
           issues.push({
             file: filePath,

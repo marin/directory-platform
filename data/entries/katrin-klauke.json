@@ -2,8 +2,8 @@
   "id": "katrin-klauke",
   "slug": "katrin-klauke",
   "name": "Katrin Klauke",
-  "description": "Katrin Klauke ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Katrin Klauke ist Heilpraktikerin mit einer Naturheilpraxis in Berlin-Friedrichshagen. Sie bietet ein breites Spektrum an naturheilkundlichen Behandlungen und Therapien an, darunter Einzeltherapien, Gruppenkurse sowie spezielle Anwendungen wie Ohrakupunktur und Bachblütenberatung. Die Praxis befindet sich in der Bölschestraße 80 und ist auf individuelle Gesundheitsbedürfnisse ausgerichtet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,82 @@
   "phone": "03092251978",
   "email": "info@katrin-klauke.de",
   "website": "http://www.katrin-klauke.de/dw/doku.php?id=kontakt",
+  "bookingUrl": "http://www.katrin-klauke.de/dw/doku.php?id=kontakt%20%22Adresse,%20Telefon%20&%20Email",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erster Termin mit Anamnese und <brkörperlicher Untersuchung 60 Min.",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 40,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einzeltherapie 45 Min.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 30,
+      "priceLabel": "30 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Gruppenkurs 10 Termine à 45 Min insg.",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Einzeltherapie 30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 20,
+      "priceLabel": "20 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "90 Min.",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "30 Min.",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30 €"
+    }
+  ],
+  "images": [
+    "http://www.katrin-klauke.de/dw/lib/exe/fetch.php?w=200&tok=c836c9&media=eingangb80imgp4314.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Katrin Klauke?",
+      "answer": "Die Praxis von Katrin Klauke befindet sich in der Bölschestraße 80, 12587 Berlin - Friedrichshagen (Köpenick)."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Katrin Klauke buchen?",
+      "answer": "Sie können einen Termin bei Katrin Klauke buchen, indem Sie die Website besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 030 92251978."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Katrin Klauke an?",
+      "answer": "Katrin Klauke bietet verschiedene Behandlungsmethoden an, darunter Einzeltherapien, Gruppenkurse, Bachblütenberatung, Dorn-Breuss-Behandlungen und Ohrakupunktur."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Erstberatung bei Katrin Klauke?",
+      "answer": "Die Kosten für einen ersten Termin mit Anamnese und körperlicher Untersuchung betragen 40 € und dauern 60 Minuten."
+    },
+    {
+      "question": "Gibt es spezielle Kurse, die Katrin Klauke anbietet?",
+      "answer": "Ja, Katrin Klauke bietet Gruppenkurse in Berlin Friedrichshagen und Karlshorst an, die jeweils 10 Termine à 1,5 Stunden umfassen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9PD983qEcR2fI4A-kZAlU"
 }

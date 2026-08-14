@@ -2,8 +2,8 @@
   "id": "heilpraktiker-dr-med-yunes-mohammed-mones",
   "slug": "heilpraktiker-dr-med-yunes-mohammed-mones",
   "name": "Heilpraktiker - Dr. med. Yunes Mohammed Mones",
-  "description": "Heilpraktiker - Dr. med. Yunes Mohammed Mones ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dr. Yunes Mohammed Mones ist ein erfahrener Heilpraktiker in Berlin, spezialisiert auf die Akupunktur zur Behandlung von Rückenschmerzen und anderen Beschwerden. Mit über 15 Jahren Erfahrung in der alternativen Medizin verfolgt er einen ganzheitlichen Ansatz, der darauf abzielt, Beschwerden ohne den Einsatz von Medikamenten zu lindern. In seiner Praxis bietet er Behandlungen für verschiedene Beschwerden wie Schulter- und Nackenprobleme, Stress, Schlafstörungen sowie Kopfschmerzen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,44 @@
   "website": "https://akupunkturmones.wixsite.com/akupunkturmones",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/dr-yunes-mohammed-mones",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Über Dr. Yunes M. Mones"
+    },
+    {
+      "id": "offer-2",
+      "name": "Patientenerfahrungen"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/0446d4_e79627d0541743fb994095149fa405e7~mv2_d_5038_3072_s_4_2.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0446d4_e79627d0541743fb994095149fa405e7~mv2_d_5038_3072_s_4_2.jpg",
+    "https://static.wixstatic.com/media/1da79d_1180e30c873f407db2b3121e274854a8~mv2.jpeg/v1/crop/x_0,y_160,w_960,h_960/fill/w_420,h_420,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image1.jpeg",
+    "https://static.wixstatic.com/media/0446d4_f9c9bec6a1174d48a3f3b3ebb56c7b0f~mv2_d_5184_2916_s_4_2.jpg/v1/fit/w_960,h_722,q_90,enc_avif,quality_auto/0446d4_f9c9bec6a1174d48a3f3b3ebb56c7b0f~mv2_d_5184_2916_s_4_2.jpg",
+    "https://static.wixstatic.com/media/0446d4_ec67d318c2474ad6a867c2f6f3ad1adf~mv2_d_3436_4724_s_4_2.jpg/v1/fit/w_960,h_720,q_90,enc_avif,quality_auto/0446d4_ec67d318c2474ad6a867c2f6f3ad1adf~mv2_d_3436_4724_s_4_2.jpg",
+    "https://static.wixstatic.com/media/0446d4_a3a7934fae474c89a3c39f43492a2176~mv2.png/v1/fill/w_49,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0446d4_a3a7934fae474c89a3c39f43492a2176~mv2.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Dr. Yunes Mohammed Mones?",
+      "answer": "Die Praxis von Dr. Yunes Mohammed Mones befindet sich am Weißenseer Weg 111 in Berlin, im Stadtteil Lichtenberg."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Dr. Mones an?",
+      "answer": "Dr. Yunes Mohammed Mones bietet hauptsächlich Akupunktur an, um verschiedene Beschwerden wie Rückenschmerzen, Schulter- und Nackenbeschwerden, Haltungsprobleme, Stress, Schlafstörungen sowie Kopfschmerzen und Migräne zu behandeln."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dr. Mones vereinbaren?",
+      "answer": "Sie können einen Termin bei Dr. Yunes Mohammed Mones über die Website https://www.doctolib.de/heilpraktiker/berlin/dr-yunes-mohammed-mones vereinbaren."
+    },
+    {
+      "question": "Wie kann ich Dr. Mones kontaktieren?",
+      "answer": "Sie können Dr. Yunes Mohammed Mones telefonisch unter 017645736282 oder per E-Mail an yunesmones@yahoo.de kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel von Dr. Mones in seiner Praxis?",
+      "answer": "Dr. Yunes Mohammed Mones verfolgt das Ziel, Beschwerden ohne Medikamente zu behandeln, um Nebenwirkungen zu vermeiden und die natürliche Heilung des Körpers zu fördern."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIa9LGdpPqEcRsnM0bZCnQA4"
 }

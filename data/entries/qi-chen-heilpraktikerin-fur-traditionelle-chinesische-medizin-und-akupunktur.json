@@ -2,8 +2,8 @@
   "id": "qi-chen-heilpraktikerin-fur-traditionelle-chinesische-medizin-und-akupunktur",
   "slug": "qi-chen-heilpraktikerin-fur-traditionelle-chinesische-medizin-und-akupunktur",
   "name": "Qi Chen - Heilpraktikerin für Traditionelle Chinesische Medizin und Akupunktur",
-  "description": "Qi Chen - Heilpraktikerin für Traditionelle Chinesische Medizin und Akupunktur ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Qi Chen ist Heilpraktikerin für Traditionelle Chinesische Medizin (TCM) in Berlin. Ihre Praxis bietet einen ganzheitlichen Ansatz, der auf jahrtausendealtem Wissen basiert und die Ursachen von Erkrankungen anstelle von Symptomen behandelt. Zu den Behandlungsmethoden gehören Akupunktur, Moxibustion, Kräutertherapie, Qi Gong, Tui Na (medizinische Massage) und Ernährungslehre. Qi Chen legt großen Wert auf die Wechselwirkungen zwischen Körper und Geist sowie auf individuelle Lebensumstände.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -50,6 +50,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://tcm-berlin-friedenau.de/wp-content/uploads/2014/07/qi-chen-berlin-friedenau.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Qi Chen an?",
+      "answer": "Qi Chen bietet Behandlungsmethoden der Traditionellen Chinesischen Medizin (TCM) an, darunter Akupunktur, Moxibustion, Kräutertherapie, Qi Gong, Tui Na (medizinische Massage) und Ernährungslehre."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Qi Chen?",
+      "answer": "Die Praxis von Qi Chen befindet sich in der Ansbacher Str. 70, 10777 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist montags, dienstags, donnerstags und freitags von 08:30 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Qi Chen buchen?",
+      "answer": "Sie können einen Termin bei Qi Chen über die Website buchen: http://www.tcm-berlin-schoeneberg.de/."
+    },
+    {
+      "question": "Wie kann ich Qi Chen kontaktieren?",
+      "answer": "Sie können Qi Chen telefonisch unter 03080940539 oder per E-Mail an info@tcm-berlin-friedenau.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt0eJhn5QqEcRhzBBwDn0fpo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

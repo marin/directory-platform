@@ -2,8 +2,8 @@
   "id": "privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin",
   "slug": "privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin",
   "name": "Privatpraxis Alexandra Hübenthal Heilpraktikerin & Physiotherapeutin",
-  "description": "Privatpraxis Alexandra Hübenthal Heilpraktikerin & Physiotherapeutin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Privatpraxis von Alexandra Hübenthal in Berlin-Mahlsdorf bietet eine ganzheitliche Betreuung durch eine erfahrene Heilpraktikerin und Physiotherapeutin. Schwerpunkte der Behandlung sind die Craniosacral Therapie sowie ergänzende naturheilkundliche Verfahren wie Massagen, Aromatherapie und Homöopathie. In einer ruhigen und freundlichen Umgebung wird Wert auf die individuelle Betrachtung jedes Patienten gelegt, um die Selbstheilungskräfte zu aktivieren und ein Gleichgewicht im Organismus herzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03054712905",
   "email": "praxis@hp-huebenthal.de",
   "website": "http://www.hp-huebenthal.de/",
+  "bookingUrl": "https://widgets.yolawo.de/w/66127fed95ec3817d0d67a4c",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,44 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "030 54 71 29 05"
+    },
+    {
+      "id": "offer-2",
+      "name": "praxis@hp-huebenthal.de"
+    }
+  ],
+  "images": [
+    "http://www.hp-huebenthal.de//wp-content/uploads/2021/06/SPUTNIKeinsfotografie-23-scaled.jpg",
+    "http://www.hp-huebenthal.de//wp-content/uploads/2021/06/SPUTNIKeinsfotografie-25-1024x683.jpg",
+    "http://www.hp-huebenthal.de//wp-content/uploads/2021/03/Unterschrift-Alex-2-300x65.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Privatpraxis Alexandra Hübenthal an?",
+      "answer": "In der Privatpraxis werden schwerpunktmäßig Craniosacral Therapie angeboten, ergänzt durch Massagen, Aromatherapie, Homöopathie, Schröpfen und Wärme-Anwendungen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin direkt über die Buchungsseite hier buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 09:00 bis 15:00 Uhr, Dienstag von 11:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 21:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wie erreiche ich die Praxis telefonisch?",
+      "answer": "Sie können die Praxis unter der Telefonnummer 030 54 71 29 05 erreichen."
+    },
+    {
+      "question": "Wo befindet sich die Privatpraxis Alexandra Hübenthal?",
+      "answer": "Die Praxis befindet sich in der Lemkestr. 77, 12623 Berlin – Mahlsdorf."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw7dJyRtKqEcRemiHoLJpN3Y",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17
 }

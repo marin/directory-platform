@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-psychotherapie-steglitz",
   "slug": "heilpraktikerin-psychotherapie-steglitz",
   "name": "Heilpraktikerin Psychotherapie Steglitz",
-  "description": "Heilpraktikerin Psychotherapie Steglitz ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Nadja Schlichting bietet in ihrer Praxis in Berlin-Steglitz psychotherapeutische Unterstützung und naturheilkundliche Ansätze an. Ihr Ziel ist es, Klienten bei der Förderung ihrer seelischen Lebensqualität zu begleiten und individuelle Entwicklungsmöglichkeiten aufzuzeigen. Durch einfühlsame Gespräche und gezielte Einzelgespräche werden neue Perspektiven eröffnet, die zu mehr Achtsamkeit und Lebensfreude führen können.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,8 +26,54 @@
   "phone": "01744518892",
   "email": "info@hpp-schlichting.de",
   "website": "https://heilpraktiker-in-psychotherapie.de/",
+  "bookingUrl": "https://heilpraktiker-in-psychotherapie.de/termine",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Einzelgespräche",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "E-Mail"
+    },
+    {
+      "id": "offer-3",
+      "name": "Anfrage"
+    }
+  ],
+  "images": [
+    "https://heilpraktiker-in-psychotherapie.de/2fa7bdb2f8aac03c4b32fb44952a61ff.jpg",
+    "https://heilpraktiker-in-psychotherapie.de/0e40dc6c68681f96259ca18e523905b2.jpg",
+    "https://heilpraktiker-in-psychotherapie.de/c69da0bf07d91a1caa270b2cdefb1714.jpg",
+    "https://assets.cms-genial.de/images/Kontakt-360x420.png",
+    "https://attachments.cms-genial.de/client_uploads/Anfahrt.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerin Psychotherapie Steglitz?",
+      "answer": "Die Heilpraktikerin Psychotherapie Steglitz befindet sich in der Klingsorstraße 122, 12203 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Webseite unter folgendem Link buchen: https://heilpraktiker-in-psychotherapie.de/termine."
+    },
+    {
+      "question": "Was kostet ein Einzelgespräch?",
+      "answer": "Ein Einzelgespräch kostet 80 €."
+    },
+    {
+      "question": "Wie kann ich die Heilpraktikerin kontaktieren?",
+      "answer": "Sie können die Heilpraktikerin telefonisch unter 0174 45 188 92 oder per E-Mail an info@hpp-schlichting.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Heilpraktikerin an?",
+      "answer": "Die Heilpraktikerin bietet Einzelgespräche im Bereich Psychotherapie und Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsWHhXVZbqEcRM6FBTuQJ2QU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

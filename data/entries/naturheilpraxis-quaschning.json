@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-quaschning",
   "slug": "naturheilpraxis-quaschning",
   "name": "Naturheilpraxis Quaschning",
-  "description": "Naturheilpraxis Quaschning ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Quaschning in Berlin-Treptow-Köpenick bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Traditionelle Chinesische Medizin (TCM), Klopfakupressur und Hypnose. Heilpraktikerin Cornelia Quaschning legt besonderen Wert auf eine ganzheitliche Betrachtung der Patienten und unterstützt sie bei der Regulierung ihrer Mitte, um Beschwerden und seelisches Ungleichgewicht zu behandeln. Die Praxis bietet auch kostenlose Kennenlern- und Infogespräche an, um individuelle Anliegen zu besprechen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "015156681944",
   "email": "volker@quaschning.de",
   "website": "http://www.naturheilpraxis-quaschning.de/",
+  "bookingUrl": "https://www.naturheilpraxis-quaschning.de/kontakt/",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -52,7 +53,90 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erwachsene"
+    },
+    {
+      "id": "offer-2",
+      "name": "Indikationen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Vita"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kurse"
+    },
+    {
+      "id": "offer-5",
+      "name": "Hypnose"
+    },
+    {
+      "id": "offer-6",
+      "name": "Traditionelle Chinesische Medizin"
+    },
+    {
+      "id": "offer-7",
+      "name": "Klopfakupressur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Dorn-/Breuss-Therapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Therapieformen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Traditionelle Chinesische Medizin (TCM) und Dorn-Breuss-Therapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Schmerzen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Kostenloses Kennenlern- und Infogespräch"
+    },
+    {
+      "id": "offer-13",
+      "name": "Wichtiger Hinweis zu den angebotenen Leistungen"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-quaschning.de/s/img/emotionheader.png?1590777373.980px.1px",
+    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_14415332.jpg?t=1740643156",
+    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_12386134.JPG?t=1590766072",
+    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_12386135.jpg?t=1740642567",
+    "https://cdn.eu.mywebsite-editor.com/s/img/cc/printer.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Quaschning an?",
+      "answer": "Die Naturheilpraxis Quaschning bietet verschiedene Therapien an, darunter Traditionelle Chinesische Medizin (TCM), Klopfakupressur, Hypnose, Dorn-/Breuss-Therapie und viele weitere Methoden zur Behandlung von Schmerzen und zur Förderung des Wohlbefindens."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Quaschning buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Quaschning telefonisch unter 0151/56681944 vereinbaren oder über die Webseite im Kontaktbereich einen Termin anfragen."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Quaschning geöffnet?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Quaschning sind: Dienstag bis Donnerstag von 09:00 bis 21:00 Uhr, Freitag von 10:00 bis 19:00 Uhr und Samstag von 09:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Bietet die Naturheilpraxis Quaschning ein kostenloses Kennenlern- und Infogespräch an?",
+      "answer": "Ja, die Naturheilpraxis Quaschning bietet ein kostenloses Kennenlern- und Infogespräch an, in dem Sie über Ihr Anliegen sprechen können und erfahren, wie Ihnen geholfen werden kann."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Quaschning?",
+      "answer": "Die Naturheilpraxis Quaschning befindet sich in der Bahnhofstraße 41, 12555 Berlin, im Stadtteil Treptow-Köpenick."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDf71ZU9IqEcR_rQGoxYC7n8",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 5
 }

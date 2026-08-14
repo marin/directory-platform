@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilverfahren-und-psychosomatische-medizin",
   "slug": "praxis-fur-naturheilverfahren-und-psychosomatische-medizin",
   "name": "Praxis für Naturheilverfahren und psychosomatische Medizin",
-  "description": "Praxis für Naturheilverfahren und psychosomatische Medizin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilverfahren und psychosomatische Medizin in Berlin-Charlottenburg bietet individuelle Behandlungen für Patienten mit verschiedenen gesundheitlichen Beschwerden an. Heilpraktiker Frank Richter und Sabine Baeß legen großen Wert auf die Einzigartigkeit jedes Menschen und streben danach, die Ursachen von Krankheiten und Befindlichkeitsstörungen umfassend zu verstehen. Die Praxis ist DEKRA-zertifiziert und verfolgt einen ganzheitlichen Ansatz zur Förderung der Gesundheit. Besuche sind nur nach telefonischer Vereinbarung möglich.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -58,6 +58,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.richter-baess.de/img/header.jpeg",
+    "https://www.richter-baess.de/img/zertifikat_90224087.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilverfahren und psychosomatische Medizin?",
+      "answer": "Die Praxis befindet sich in der Bayernallee 48, 14052 Berlin."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 030 - 304 90 77 oder per E-Mail an praxis@richter-baess.de kontaktieren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag 11:00 - 18:00, Dienstag 09:00 - 18:00, Mittwoch 11:00 - 18:00, Donnerstag 09:00 - 18:00, Freitag 09:00 - 18:00 und Samstag 10:00 - 16:00. Bitte beachten Sie, dass Termine nur nach telefonischer Vereinbarung möglich sind."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Termine an?",
+      "answer": "Im bereitgestellten Kontext sind keine Informationen über Online-Termine enthalten."
+    },
+    {
+      "question": "Wer sind die Heilpraktiker in der Praxis?",
+      "answer": "Die Heilpraktiker in der Praxis sind Frank Richter und Sabine Baeß."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhRpuLClXqEcRlu9w1hCSyDc",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 11
 }

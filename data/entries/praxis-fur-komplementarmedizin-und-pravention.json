@@ -2,8 +2,8 @@
   "id": "praxis-fur-komplementarmedizin-und-pravention",
   "slug": "praxis-fur-komplementarmedizin-und-pravention",
   "name": "Praxis für Komplementärmedizin und Prävention",
-  "description": "Praxis für Komplementärmedizin und Prävention ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Komplementärmedizin und Prävention in Berlin-Wannsee wurde im Frühjahr 2011 eröffnet und wird von der Sportwissenschaftlerin und Heilpraktikerin Sandra Szulc geleitet. Sie bietet ein breites Spektrum an Leistungen, die auf den Grundlagen der Regulationsmedizin, Naturheilkunde und traditionellen chinesischen Medizin basieren. Die Praxisräume befinden sich in einem historischen Gebäude und sind gut erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,7 +26,44 @@
   "phone": "03032663747",
   "website": "http://www.praxis-wannsee.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Konzept"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxisräume"
+    },
+    {
+      "id": "offer-3",
+      "name": "Dem Menschen verpflichtet"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Komplementärmedizin und Prävention?",
+      "answer": "Die Praxis befindet sich in Berlin, Am Sandwerder 1, 14109 Berlin."
+    },
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden Behandlungsmethoden der Regulationsmedizin, Naturheilkunde und traditionellen chinesischen Medizin angeboten."
+    },
+    {
+      "question": "Wer ist die Inhaberin der Praxis?",
+      "answer": "Die Inhaberin der Praxis ist die Sportwissenschaftlerin und Heilpraktikerin Sandra Szulc."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03032663747 erreichen oder die Website unter http://www.praxis-wannsee.de/ besuchen."
+    },
+    {
+      "question": "Wann wurde die Praxis eröffnet?",
+      "answer": "Die Praxis wurde im Frühjahr 2011 eröffnet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCzgkmx5ZqEcRKym3wTmvQSE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

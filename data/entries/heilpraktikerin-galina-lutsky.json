@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-galina-lutsky",
   "slug": "heilpraktikerin-galina-lutsky",
   "name": "Heilpraktikerin Galina Lutsky",
-  "description": "Heilpraktikerin Galina Lutsky ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Galina Lutsky bietet in Berlin-Schmargendorf naturheilkundliche Behandlungen an. Ihre Praxis befindet sich in der Lentzeallee 82 und ist auf die Unterstützung beim Abnehmen spezialisiert.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,29 @@
   },
   "phone": "01723669989",
   "website": "http://www.sanguinum.com/ernaehrungsberatung/abnehmen-berlin-schmargendorf-heilpraktikerin-lutsky/",
+  "bookingUrl": "http://www.sanguinum.com/kontakt/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.sanguinum.com/fileadmin/assets/gfx/content/404_image_muelltonne%402x.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraktikerin Galina Lutsky?",
+      "answer": "Die Heilpraktikerin Galina Lutsky befindet sich in der Lentzeallee 82, 14195 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich Galina Lutsky kontaktieren?",
+      "answer": "Sie können Galina Lutsky telefonisch unter 01723669989 kontaktieren."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Um einen Termin zu buchen, können Sie die Buchungsseite unter http://www.sanguinum.com/kontakt/ besuchen."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Galina Lutsky an?",
+      "answer": "Galina Lutsky bietet Dienstleistungen im Bereich der Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ24k0e51QqEcRnoE8VKy4nlM"
 }

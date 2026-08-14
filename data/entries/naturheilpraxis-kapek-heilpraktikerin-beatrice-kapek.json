@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek",
   "slug": "naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek",
   "name": "Naturheilpraxis Kapek | Heilpraktikerin: Beatrice Kapek",
-  "description": "Naturheilpraxis Kapek | Heilpraktikerin: Beatrice Kapek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Kapek, geleitet von Heilpraktikerin Beatrice Kapek, befindet sich in Berlin-Treptow-Köpenick. Die Praxis bietet eine Vielzahl von naturheilkundlichen Behandlungen an, die darauf abzielen, das Wohlbefinden der Patienten zu fördern und die Selbstheilungskräfte zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -59,6 +59,30 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://nabeka.de/style/page-to-top.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Kapek?",
+      "answer": "Die Naturheilpraxis Kapek hat folgende Öffnungszeiten: Montag bis Freitag von 10:00 bis 18:00 Uhr und Samstag von 11:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Kapek buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Kapek über die Buchungsseite auf der Website unter https://naturheilpraxis-beatrice-kapek.de/kontakt/ buchen."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Kapek?",
+      "answer": "Die Naturheilpraxis Kapek befindet sich in der Vereinsstraße 13, 12487 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Kapek kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Kapek telefonisch unter 01627943714 oder per E-Mail an info@nabeka.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Kapek an?",
+      "answer": "Die Naturheilpraxis Kapek bietet Dienstleistungen im Bereich der Naturheilkunde an, spezifische Angebote sind jedoch nicht im Kontext aufgeführt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB20P3gFbqEcRx5_12fPbOso"
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin",
   "slug": "naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin",
   "name": "Naturheilpraxis Jung Berlin Mitte Heilpraktikerin Chiropraktikerin",
-  "description": "Naturheilpraxis Jung Berlin Mitte Heilpraktikerin Chiropraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Jung in Berlin Mitte bietet Heilpraktikerin Claudia Jung eine ganzheitliche Betrachtung gesundheitlicher Beschwerden. Die Praxis kombiniert naturwissenschaftlich fundierte Diagnostik mit naturheilkundlichen Behandlungen, darunter Akupunktur, Homöopathie und Chiropraktik. Ziel ist es, individuelle Therapieansätze zu entwickeln, die auf die Bedürfnisse der Patienten abgestimmt sind. Weitere Angebote umfassen Mikroimmuntherapie, Infusionstherapie und Schmerztherapien.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03039203682",
   "email": "info@heilpraxis-jung.de",
   "website": "https://www.heilpraxis-jung.de/",
+  "bookingUrl": "https://www.heilpraxis-jung.de/Downloads/Fragebogen_Ersttermin-Naturheilpraxis-Claudia-Jung-Berlin.pdf%20%22Download%20Fragebogen%20Ersttermin",
   "openingHours": [
     {
       "day": "Monday",
@@ -57,7 +58,114 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diagnostik"
+    },
+    {
+      "id": "offer-2",
+      "name": "Naturheilkundliche Behandlungen"
+    },
+    {
+      "id": "offer-3",
+      "name": "» Bioidentische Hormontherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "» Mikroimmuntherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "» Infusionstherapie/Injektionen"
+    },
+    {
+      "id": "offer-6",
+      "name": "» Homöopathie"
+    },
+    {
+      "id": "offer-7",
+      "name": "» Lymphdrainage"
+    },
+    {
+      "id": "offer-8",
+      "name": "» Schröpfen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schmerztherapien"
+    },
+    {
+      "id": "offer-10",
+      "name": "Strukturelle Osteopathie und sanfte Chiropraktik nach Dr. Ackermann"
+    },
+    {
+      "id": "offer-11",
+      "name": "» Allergie / Nahrungsmittelunverträglichkeit"
+    },
+    {
+      "id": "offer-12",
+      "name": "» Akupunktur"
+    },
+    {
+      "id": "offer-13",
+      "name": "» Bioidentische Hormone"
+    },
+    {
+      "id": "offer-14",
+      "name": "» Chiropraktik"
+    },
+    {
+      "id": "offer-15",
+      "name": "» Darmflora (Stuhluntersuchungen)"
+    },
+    {
+      "id": "offer-16",
+      "name": "» Infusionstherapie / Injektionen"
+    },
+    {
+      "id": "offer-17",
+      "name": "» Taping"
+    },
+    {
+      "id": "offer-18",
+      "name": "» Schmerztherapie"
+    },
+    {
+      "id": "offer-19",
+      "name": "» Stoßwellentherapie (ESWT)"
+    },
+    {
+      "id": "offer-20",
+      "name": "» Triggerpunktbehandlungen"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-jung.de/Bilder/NaturheilpraxisJung1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Jung an?",
+      "answer": "Die Naturheilpraxis Jung bietet eine Vielzahl von Behandlungen an, darunter Diagnostik, naturheilkundliche Behandlungen, Bioidentische Hormontherapie, Mikroimmuntherapie, Infusionstherapie/Injektionen, Homöopathie, Lymphdrainage, Schröpfen, Schmerztherapien, strukturelle Osteopathie und sanfte Chiropraktik."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Jung buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Jung buchen, indem Sie den Fragebogen für den Ersttermin ausfüllen und ihn per E-Mail an die Praxis senden."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Jung geöffnet?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Jung sind wie folgt: Montag von 12:00 bis 19:00 Uhr, Dienstag von 10:00 bis 12:30 Uhr und von 14:00 bis 16:00 Uhr, Mittwoch von 09:00 bis 14:00 Uhr, Donnerstag von 12:00 bis 19:00 Uhr und Freitag von 09:00 bis 12:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Jung?",
+      "answer": "Die Naturheilpraxis Jung befindet sich in der Gormannstraße 18 A, 10119 Berlin, im Stadtteil Mitte."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Jung kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Jung telefonisch unter 030-39 20 36 82 oder per E-Mail an info@heilpraxis-jung.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrermbONRqEcR9kLEKqZAdbk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12
 }

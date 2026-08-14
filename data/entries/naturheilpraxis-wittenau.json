@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-wittenau",
   "slug": "naturheilpraxis-wittenau",
   "name": "Naturheilpraxis Wittenau",
-  "description": "Naturheilpraxis Wittenau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Wittenau in Berlin-Reinickendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Homöopathie, Wirbelsäulentherapie nach Dorn und Pflanzenheilkunde. Zudem werden individuelles Fitnesstraining sowie Meditation und Achtsamkeitstraining angeboten. Die Praxis legt großen Wert auf die Stärkung des Immunsystems und ermöglicht Behandlungen auch online.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,36 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "in der Natur- und Sportheilpraxis Wittenau"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/170281229/50e80ec6-ca1f-4e5b-b0b4-be7a37318b32.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Wittenau an?",
+      "answer": "Die Naturheilpraxis Wittenau bietet unter anderem Homöopathie, individuelles Fitnesstraining, Wirbelsäulentherapie nach Dorn, Bachblütentherapie, Meditation und Achtsamkeitstraining sowie Pflanzenheilkunde an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Wittenau?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Wittenau sind von Montag bis Freitag, jeweils von 10:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Wittenau?",
+      "answer": "Die Naturheilpraxis Wittenau befindet sich am Engelroder Weg 3, 13435 Berlin, im Stadtteil Reinickendorf."
+    },
+    {
+      "question": "Kann ich auch online Behandlungen in der Naturheilpraxis Wittenau erhalten?",
+      "answer": "Ja, Behandlungen und Sport sind zur Zeit auch online möglich in der Naturheilpraxis Wittenau."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Wittenau kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Wittenau telefonisch unter 03025584494 erreichen oder die Website unter http://www.naturheilpraxis-wittenau.de/ besuchen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrbiiyU1TqEcRySp2GyP3knA"
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-christine-pinnow",
   "slug": "heilpraktikerin-christine-pinnow",
   "name": "Heilpraktikerin Christine Pinnow",
-  "description": "Heilpraktikerin Christine Pinnow ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Christine Pinnow bietet in ihrer Praxis in Berlin-Köpenick ganzheitliche Therapieansätze, die Körper, Geist und Seele in den Mittelpunkt stellen. Mit einem fundierten Wissen aus traditioneller europäischer Medizin und modernen naturheilkundlichen Methoden begleitet sie ihre Patienten individuell auf dem Weg zu mehr Gesundheit und innerem Gleichgewicht. Durch ausführliche Anamnesegespräche und ganzheitliche Untersuchungen schafft sie eine vertrauensvolle Basis, um die Selbstheilungskräfte zu aktivieren und die Lebensqualität zu steigern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,54 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "So möchte ich Ihnen helfen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Der Mensch im Mittelpunkt"
+    },
+    {
+      "id": "offer-3",
+      "name": "Zeit für Sie und Ihre Gesundheit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Therapie mit Kopf, Herz und Hand"
+    }
+  ],
+  "images": [
+    "https://praxispinnow.de/wp-content/uploads/2025/10/threema-20251020-144800830-1024x576.jpg",
+    "https://praxispinnow.de/wp-content/uploads/2025/10/patient_mittelpunkt_black-150x150.png",
+    "https://praxispinnow.de/wp-content/uploads/2025/10/ruhe_black-150x150.png",
+    "https://praxispinnow.de/wp-content/uploads/2025/10/kopfherzhand_thin-150x150.png",
+    "https://praxispinnow.de/wp-content/uploads/2025/10/DSC06516-200x300.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktikerin Christine Pinnow?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Christine Pinnow?",
+      "answer": "Die Praxis befindet sich in der Hackenbergstraße 7, 12489 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich Christine Pinnow kontaktieren?",
+      "answer": "Sie können Christine Pinnow telefonisch unter 015678195455 oder per E-Mail an kontakt@praxispinnow.de erreichen."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Christine Pinnow an?",
+      "answer": "Christine Pinnow bietet eine ganzheitliche Therapie an, die manuelle Therapie, osteopathische Techniken, therapeutische Gespräche sowie Atemarbeit und Haltungsanpassungen umfasst."
+    },
+    {
+      "question": "Was ist das Ziel der Behandlungen bei Christine Pinnow?",
+      "answer": "Das Ziel der Behandlungen ist es, die Selbstheilungskräfte des Körpers zu aktivieren und den Patienten auf dem Weg zu mehr Stabilität, Beweglichkeit und Wohlbefinden zu begleiten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ39ajmoxHqEcRVIhonzgjDZM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

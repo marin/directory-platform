@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-burghammer-heilpraktikerin",
   "slug": "naturheilpraxis-burghammer-heilpraktikerin",
   "name": "Naturheilpraxis Burghammer - Heilpraktikerin",
-  "description": "Naturheilpraxis Burghammer - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Burghammer in Berlin bietet eine Vielzahl von Therapie- und Beratungsmöglichkeiten im Bereich der Naturheilkunde an. Die Praxis legt Wert auf individuelle Betreuung und informiert ihre Patienten über verschiedene Themen und Fortbildungsmöglichkeiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,6 +27,25 @@
   "website": "http://www.naturheilpraxis-burghammer.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.naturheilpraxis-burghammer.de/.cm4all/iproc.php/Denise-Lange.png/downsize_1280_0/Denise-Lange.png",
+    "http://57123244.swh.strato-hosting.eu/.cm4all/iproc.php/Praxis%20Schild.jpeg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Burghammer?",
+      "answer": "Die Naturheilpraxis Burghammer befindet sich in der Parkstraße 14, 13086 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Burghammer kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Burghammer telefonisch unter 03065835113 oder per E-Mail an info@denise-burghammer.de kontaktieren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Burghammer an?",
+      "answer": "Die Naturheilpraxis Burghammer bietet Therapie- und Beratungsmöglichkeiten im Bereich der Naturheilkunde an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf9t1XMJNqEcR8xaZ3SF-zaA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

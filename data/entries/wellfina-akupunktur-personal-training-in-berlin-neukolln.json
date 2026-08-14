@@ -2,8 +2,8 @@
   "id": "wellfina-akupunktur-personal-training-in-berlin-neukolln",
   "slug": "wellfina-akupunktur-personal-training-in-berlin-neukolln",
   "name": "Wellfina - Akupunktur & Personal Training in Berlin Neukölln",
-  "description": "Wellfina - Akupunktur & Personal Training in Berlin Neukölln ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Wellfina in Berlin Neukölln bietet eine Kombination aus Akupunktur, Personal Training und Ernährungsberatung an. Die Praxis legt Wert auf individuelle Betreuung und unterstützt ihre Klienten dabei, ihre Lebensqualität zu verbessern und gesundheitliche Herausforderungen zu bewältigen. Neben klassischen Therapien werden auch spezielle Büro-Mini-Workouts angeboten, um Verspannungen zu lösen und die Haltung zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -29,7 +29,50 @@
   "website": "http://www.wellfina.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/stefanie-kerbusch?utm_source=google-maps&utm_campaign=google-maps",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Büro-Mini-Workouts"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ratgeber"
+    },
+    {
+      "id": "offer-3",
+      "name": "Akupunktur"
+    }
+  ],
+  "images": [
+    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2020/01/Wellfina-Naturheilkunde-Foto-scaled.jpg?resize=930%2C620&ssl=1",
+    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2019/12/cropped-27CC42F3-FB0B-4FC4-9250-0559B6DC68C3.jpeg?resize=930%2C251&ssl=1",
+    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2019/12/6BE24031-461E-4B0D-9773-738786295609.jpeg?resize=930%2C620&ssl=1",
+    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2023/01/pic_ohr-edited.jpg?resize=447%2C298&ssl=1",
+    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2020/01/D09BBF1B-686E-4428-AF71-E9502E1AAACE-e1578933247544.jpeg?resize=930%2C620&ssl=1"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich Wellfina in Berlin Neukölln?",
+      "answer": "Wellfina befindet sich in der Emser Str. 128, 12051 Berlin."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Wellfina an?",
+      "answer": "Wellfina bietet Akupunktur, Personal Training, Ernährungsberatung und Büro-Mini-Workouts an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Wellfina buchen?",
+      "answer": "Sie können einen Termin bei Wellfina über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker/berlin/stefanie-kerbusch?utm_source=google-maps&utm_campaign=google-maps."
+    },
+    {
+      "question": "Wie kann ich Wellfina kontaktieren?",
+      "answer": "Sie können Wellfina telefonisch unter 01723292622 oder per E-Mail an info@wellfina.de kontaktieren."
+    },
+    {
+      "question": "Gibt es Informationen zu den Öffnungszeiten von Wellfina?",
+      "answer": "Aktuell sind keine Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEdBcOeJFqEcRQut-XJ-bnII",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 13
 }

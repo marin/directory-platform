@@ -2,8 +2,8 @@
   "id": "heilpraktiker-biologische-krebstherapie",
   "slug": "heilpraktiker-biologische-krebstherapie",
   "name": "Heilpraktiker - Biologische Krebstherapie",
-  "description": "Heilpraktiker - Biologische Krebstherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für biologische Krebstherapie von Heilpraktiker George Brasch in Berlin-Friedrichshain stehen Ihnen umfassende naturheilkundliche Behandlungen bei akuten und chronischen Erkrankungen zur Verfügung. Die Schwerpunkte liegen auf Pflanzenheilkunde, Augendiagnose sowie verschiedenen Therapieformen wie Heilpilzen, Biochemie nach Schüssler und Ausleitungsverfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,46 @@
   "phone": "0302155068",
   "email": "hpbrasch@web.de",
   "website": "http://www.hpbrasch.de/",
+  "bookingUrl": "http://www.hpbrasch.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Pflanzen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Diagnose"
+    },
+    {
+      "id": "offer-3",
+      "name": "Rezepte"
+    }
+  ],
+  "images": [
+    "http://www.hpbrasch.de/wp-content/uploads/2026/05/Bildschirmfoto-2026-05-15-um-10.31.32-Kopie-1-1024x415.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet der Heilpraktiker George Brasch an?",
+      "answer": "George Brasch bietet unter anderem Pflanzenheilkunde, Augendiagnose, Heilpilze, Biochemie nach Schüssler, Infusionen, orthomolekulare Medizin und Ausleitungsverfahren wie Baunscheidtieren, Schröpfen, Heilfasten und Blutegeltherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis von George Brasch vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis von George Brasch über die Kontaktseite auf seiner Website buchen: Terminvereinbarung."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von George Brasch?",
+      "answer": "Die Praxis von George Brasch befindet sich in der Waldeyerstraße 2, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich George Brasch kontaktieren?",
+      "answer": "Sie können George Brasch telefonisch unter 0302155068 oder per E-Mail an hpbrasch@web.de kontaktieren."
+    },
+    {
+      "question": "Bietet George Brasch auch Seminare oder Vorträge an?",
+      "answer": "Ja, George Brasch bietet Seminare und Vorträge an, die auf seiner Website unter dem Bereich 'Termine' aufgeführt sind."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8_M_WItOqEcRAQiHxxJhROI"
 }

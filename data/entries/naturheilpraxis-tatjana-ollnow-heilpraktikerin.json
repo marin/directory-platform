@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-tatjana-ollnow-heilpraktikerin",
   "slug": "naturheilpraxis-tatjana-ollnow-heilpraktikerin",
   "name": "Naturheilpraxis Tatjana Ollnow - Heilpraktikerin",
-  "description": "Naturheilpraxis Tatjana Ollnow - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Tatjana Ollnow in Berlin-Friedrichshain werden alternative Behandlungsmethoden der Naturmedizin angeboten, darunter Akupunktur, Pflanzenheilkunde und Wirbelsäulentherapie nach Dorn. Die Praxis legt großen Wert auf eine ganzheitliche Betrachtung der Patienten, um körperliche, emotionale und soziale Faktoren in Einklang zu bringen. Ziel ist es, die gesundheitliche Situation durch individuelle Therapiekonzepte zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -52,7 +52,80 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "THERAPIEN - BEHANDLUNGEN"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wirbelsäulentherapie nach Dorn"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schröpfmassage, schröpfen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Klassische Massage"
+    },
+    {
+      "id": "offer-5",
+      "name": "Gua Sha (fernöstliche Schabetechnik)"
+    },
+    {
+      "id": "offer-6",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-7",
+      "name": "Plasma",
+      "description": "Pen - Behandlung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schüsslersalze, naturheilkundliche Präparate, Nahrungsergänzung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Reinigungskuren,Ernährungsberatung"
+    },
+    {
+      "id": "offer-11",
+      "name": "Meridianklopfen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Bachblüten"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=156x10000:format=jpg/path/sd9ba35c073cf899e/image/if0e2058c0774ba66/version/1540141710/image.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sd9ba35c073cf899e/backgroundarea/ic8fc0882f3649cd9/version/1483388745/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Tatjana Ollnow an?",
+      "answer": "Die Naturheilpraxis Tatjana Ollnow bietet verschiedene Therapien an, darunter Akupunktur, Wirbelsäulentherapie nach Dorn, Schröpfmassage, klassische Massage, Gua Sha, Pflanzenheilkunde, Augendiagnose, Schüsslersalze, Ernährungsberatung und mehr."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Tatjana Ollnow sind von Montag bis Donnerstag von 15:00 bis 20:00 Uhr und am Freitag von 15:00 bis 19:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Tatjana Ollnow?",
+      "answer": "Die Naturheilpraxis Tatjana Ollnow befindet sich in der Waldeyerstraße 2, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Tatjana Ollnow telefonisch unter der Nummer 030 420 250 91 vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBx3KQItOqEcRhxsVpmPZsAk",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 13
 }

@@ -2,8 +2,8 @@
   "id": "philipp-phildius-heilpraktiker",
   "slug": "philipp-phildius-heilpraktiker",
   "name": "Philipp Phildius Heilpraktiker",
-  "description": "Philipp Phildius Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Philipp Phildius ist Heilpraktiker in Berlin-Charlottenburg und bietet eine ganzheitliche Therapie, die Homöopathie, moderne Phytotherapie und systemische Aufstellungen kombiniert. In seiner Praxis verfolgt er einen prozessorientierten Ansatz, der die individuellen Geschichten und Bedürfnisse seiner Patienten in den Mittelpunkt stellt. Ziel ist es, nicht nur Symptome zu behandeln, sondern die zugrunde liegenden Ursachen zu erkennen und zu bearbeiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -40,7 +40,54 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Mommsenstraße 55, bei E. Dehmel, 10629 Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Werde wie du gemeint bist"
+    },
+    {
+      "id": "offer-3",
+      "name": "Heilpraktiker Philipp Phildius in Berlin-Charlottenburg"
+    },
+    {
+      "id": "offer-4",
+      "name": "Meine Arbeit Du bist die Lösung!"
+    }
+  ],
+  "images": [
+    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/c61f2e3f-c989-4bfc-974f-675a36ecd468/l0,t0,w538,h538/image-455x455.jpg",
+    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/eb79220c-bde0-429a-8527-7271d06fdd0e/l0,t128,w767,h511/image.jpg",
+    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/b710e259-e6fd-4645-8300-b9736995ae03/l0,t54,w1280,h853/image.jpg",
+    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/fdd14841-790a-4755-b4b9-800d9feb94a6/l0,t422,w1500,h1005/image.jpg",
+    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/cec87e27-afee-4518-b67f-7e675c74154a/l0,t294,w1413,h1413/image-768x768.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Philipp Phildius an?",
+      "answer": "Philipp Phildius bietet prozessorientierte Homöopathie, moderne Phytotherapie und systemische Aufstellungen an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Philipp Phildius?",
+      "answer": "Die Praxis befindet sich in der Mommsenstraße 55, bei E. Dehmel, 10629 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist dienstags und mittwochs von 10:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Buchungsseite auf Jameda unter https://www.jameda.de/philipp-phildius/heilpraktiker/berlin buchen."
+    },
+    {
+      "question": "Wie kann ich Philipp Phildius kontaktieren?",
+      "answer": "Sie können Philipp Phildius telefonisch unter 017693188074 oder per E-Mail unter kontakt@hp-phildius.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRyOV-41RqEcRIYyLkQQXPKQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

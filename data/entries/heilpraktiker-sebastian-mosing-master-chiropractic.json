@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-sebastian-mosing-master-chiropractic",
   "name": "Heilpraktiker Sebastian Mösing Master Chiropractic",
   "description": "Heilpraktiker Sebastian Mösing Master Chiropractic ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "03029774414",
   "email": "s.moesing@naturheilpraxis-fhain.de",
   "website": "http://www.naturheilpraxis-fhain.de/",
+  "bookingUrl": "https://naturheilpraxis-fhain.de/?page_id=8",
   "openingHours": [
     {
       "day": "Monday",
@@ -69,5 +70,8 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm8Qvxl9OqEcRf3y65Igdt28",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 39
 }

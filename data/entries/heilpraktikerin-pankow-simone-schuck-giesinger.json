@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-pankow-simone-schuck-giesinger",
   "slug": "heilpraktikerin-pankow-simone-schuck-giesinger",
   "name": "Heilpraktikerin Pankow - Simone Schuck-Giesinger",
-  "description": "Heilpraktikerin Pankow - Simone Schuck-Giesinger ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Simone Schuck-Giesinger bietet in ihrer Praxis \"Heilimpuls\" in Berlin-Pankow eine breite Palette an naturheilkundlichen Behandlungen an. Mit über 20 Jahren Erfahrung in der Therapie und 15 Jahren im Coaching unterstützt sie ihre Klienten sowohl vor Ort als auch online. Zu den Angeboten gehören homöopathische Behandlungen, numerologische Readings, Kurse sowie Seelen-Coaching, um individuelle Potenziale zu entfalten und persönliche Ziele zu erreichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,36 @@
   },
   "phone": "01781889905",
   "website": "https://praxis-heilimpuls.de/",
+  "bookingUrl": "https://praxis-heilimpuls.de/kontakt",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_1.HilfeHomoeopathie_yoann-boyer-185507-e1710962812354-1140x572.jpg",
+    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_Lotusbluete_shutterstock_35751712_3-300x228.jpg",
+    "https://praxis-heilimpuls.de/wp-content/uploads/IMG_8222-Portr%C3%A4t-263x300.jpeg",
+    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_1.HilfeHomoeopathie_yoann-boyer-185507-e1710962812354.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Simone Schuck-Giesinger?",
+      "answer": "Die Praxis befindet sich in der Pestalozzistraße 12, 13187 Berlin, Pankow."
+    },
+    {
+      "question": "Welche Behandlungsangebote bietet Heilpraktikerin Simone Schuck-Giesinger an?",
+      "answer": "Sie bietet unter anderem homöopathische Behandlungen, numerologische Readings, Kurse und Seelen Coaching an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Simone Schuck-Giesinger buchen?",
+      "answer": "Sie können einen Termin über die Website praxis-heilimpuls.de buchen oder telefonisch unter 0178/1889905 Kontakt aufnehmen."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Coaching an?",
+      "answer": "Ja, die Praxis bietet professionelle Begleitung sowohl in der Praxis in Berlin als auch online an."
+    },
+    {
+      "question": "Wie viele Jahre Erfahrung hat Heilpraktikerin Simone Schuck-Giesinger in der Therapie?",
+      "answer": "Sie hat 20 Jahre Erfahrung in der Therapie und 15 Jahre Erfahrung im Coaching."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYDHN11SqEcRcgTGaDMyngs"
 }

@@ -2,8 +2,8 @@
   "id": "praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios",
   "slug": "praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios",
   "name": "Praxis Rühle - Dipl.-Psych. Heilpraktikerin für Psychotherapie, Heilpraktiker Craniosacraltherapie",
-  "description": "Praxis Rühle - Dipl.-Psych. Heilpraktikerin für Psychotherapie, Heilpraktiker Craniosacraltherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Gemeinschaftspraxis Hedda und Wolfgang Rühle Aufgrund jahrelanger Erfahrung mit dem Familienstellen in meiner Praxis habe ich ein leicht erlernbares Verfahren des Familienstellens mit Einzelklienten entwickelt. Es ist für Klienten geeignet, die ihre Problematik mit Hilfe einer Familienaufstellung bearbeiten möchten, sich aber keinem Gruppenprozess aussetzen wollen oder können. Dieses Verfahren lässt sich sehr gut in die Beratung oder Psychotherapie integrieren, kann aber auch als einmalige Sitzung durchgeführt werden. In einer Einzelsitzung, in der die Familienmitglieder durch Symbole dargestellt werden, können familiäre Verstrickungen aufgedeckt, aktiv wirkungsvolle Lösungsansätze erarbeitet und Heilungsprozesse eingeleitet werden. Im Jahrestraining wird dieses Verfahren theoretisch und mit vielen Übungen praktisch vermittelt, so dass die Teilnehmer nach Abschluss des Trainings siche…",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,6 +25,7 @@
   },
   "phone": "03088681188",
   "website": "https://praxisruehle.de/",
+  "bookingUrl": "https://praxisruehle.de/praxis-ruehle-seminar-anmeldung/",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,77 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Dipl. Psych. Hedda Rühle (Heilpraktikerin ausschließlich für Psychotherapie)"
+    },
+    {
+      "id": "offer-2",
+      "name": "Einzel- und Paarberatung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Integrative Psychotherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Familienaufstellung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Heilpraktiker Wolfgang Rühle"
+    },
+    {
+      "id": "offer-6",
+      "name": "Craniosacrale Therapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ausbildung Craniosacrale Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Integrative Psychotherapie in Berlin mit Hedda Rühle"
+    },
+    {
+      "id": "offer-9",
+      "name": "Psychologische Einzel- und Paarberatung in Berlin mit Hedda Rühle"
+    },
+    {
+      "id": "offer-10",
+      "name": "Einzelsitzungen Craniosacraltherapie in Berlin mit Wolfgang Rühle"
+    },
+    {
+      "id": "offer-11",
+      "name": "Familienstellen in Berlin mit Hedda Rühle"
+    },
+    {
+      "id": "offer-12",
+      "name": "Paaraufstellung"
+    },
+    {
+      "id": "offer-13",
+      "name": "Paaraufstellung in Berlin mit Hedda und Wolfgang Rühle"
+    },
+    {
+      "id": "offer-14",
+      "name": "Praxisvideo"
+    },
+    {
+      "id": "offer-15",
+      "name": "Praxisangebote"
+    }
+  ],
+  "images": [
+    "https://praxisruehle.de/wp-content/uploads/2017/12/Hedda-und-Wolfgang-R%C3%BChle.png",
+    "https://praxisruehle.de/wp-content/uploads/2017/12/praxisruehle.png",
+    "https://praxisruehle.de/wp-content/uploads/2017/03/spirale.jpg",
+    "https://praxisruehle.de/wp-content/uploads/2017/03/hedda_u_wolfgang_ruehle_3.jpg",
+    "https://praxisruehle.de/wp-content/uploads/2017/12/Hand.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF-JMmedQqEcRW8flojfB7N8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19
 }

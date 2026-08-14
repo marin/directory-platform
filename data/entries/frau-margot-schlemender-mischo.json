@@ -2,8 +2,8 @@
   "id": "frau-margot-schlemender-mischo",
   "slug": "frau-margot-schlemender-mischo",
   "name": "Frau Margot Schlemender-Mischo",
-  "description": "Frau Margot Schlemender-Mischo ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Margot Schlemender-Mischo ist eine erfahrene Heilpraktikerin mit eigener Praxis in Berlin-Mitte, die seit 1991 tätig ist. Ihre Schwerpunkte liegen in der traditionellen chinesischen Medizin (TCM), Akupunktur sowie in der chinesischen und westlichen Kräuterheilkunde. Die Praxis befindet sich in der Tucholskystraße 22, 10117 Berlin, im Akupunkturzentrum.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,6 +26,33 @@
   "website": "http://www.akupunktur-mitte.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.akupunktur-mitte.de/img/heilpraktikerin_margot_schlemender_mischo.jpg",
+    "https://www.akupunktur-mitte.de/img/logo_akupunktur_mitte.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Frau Margot Schlemender-Mischo?",
+      "answer": "Die Praxis befindet sich in der Tucholskystraße 22, 10117 Berlin, im Akupunkturzentrum in Berlin Mitte."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Frau Schlemender-Mischo an?",
+      "answer": "Frau Schlemender-Mischo bietet Behandlungen in traditioneller chinesischer Medizin (TCM), Akupunktur sowie chinesischer und westlicher Kräuterheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030-28046234 oder per E-Mail an praxis@akupunktur-mitte.de vereinbaren."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat täglich geöffnet. Ausnahmen erfahren Sie auf dem Anrufbeantworter."
+    },
+    {
+      "question": "Wie lange praktiziert Frau Margot Schlemender-Mischo bereits als Heilpraktikerin?",
+      "answer": "Frau Margot Schlemender-Mischo praktiziert seit 1991 als Heilpraktikerin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWlUgOhRqEcRl8f9RdFo0hY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

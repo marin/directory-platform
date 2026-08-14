@@ -2,8 +2,8 @@
   "id": "psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker",
   "slug": "psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker",
   "name": "Psychologische Kinderwunschberatung, Praxis VALEO, Pascale Chartrain, Heilpraktikerin für Psychotherapie",
-  "description": "Psychologische Kinderwunschberatung, Praxis VALEO, Pascale Chartrain, Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis VALEO in Berlin bietet Pascale Chartrain, Heilpraktikerin für Psychotherapie, eine einfühlsame und traumasensible Begleitung für Menschen mit unerfülltem Kinderwunsch sowie nach Geburtstraumata an. Die Praxis konzentriert sich auf die emotionale Unterstützung während belastender Kinderwunschbehandlungen, bei Fehlgeburten und anderen Schwangerschaftsverlusten. Ziel ist es, den Klienten zu helfen, wieder Zuversicht, innere Stabilität und Hoffnung zu finden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "01736132850",
   "email": "kinderwunschzeit@gmx.net",
   "website": "http://www.kinderwunschzeit.de/",
+  "bookingUrl": "https://www.kinderwunschzeit.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,66 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Für wen meine Begleitung besonders geeignet ist"
+    },
+    {
+      "id": "offer-2",
+      "name": "Wobei begleite ich dich"
+    },
+    {
+      "id": "offer-3",
+      "name": "Traumasensible Begleitung bei Kinderwunsch, Verlust und Geburtstrauma"
+    },
+    {
+      "id": "offer-4",
+      "name": "Begleitung nach Fehlgeburt, Schwangerschaftsverlust oder Geburtstrauma"
+    },
+    {
+      "id": "offer-5",
+      "name": "Weitere begleitende Unterstützung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Dein nächster Schritt"
+    },
+    {
+      "id": "offer-7",
+      "name": "Aktuelle Fallbeispiele / Aus meinem Wissensblog"
+    }
+  ],
+  "images": [
+    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/04/kinderwunschzeit-brauchen-sie-trauerbegleitung-header-e1733530377533-1024x258.jpg",
+    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/04/kinderwunschzeit-brauchen-sie-trauerbegleitung-header-e1733530377533.jpg",
+    "https://www.kinderwunschzeit.de/wp-content/uploads/2019/08/girl-1822702_1920-1-e1781194438342.jpg",
+    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/05/kinderwunschzeit-ungewollte-kinderlosigkeit-header.jpg",
+    "https://www.kinderwunschzeit.de/wp-content/uploads/2026/03/IMG_20260309_010022-1024x858.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Angebote bietet die Praxis VALEO für Kinderwunschberatung an?",
+      "answer": "Die Praxis VALEO bietet verschiedene Angebote an, darunter Kennenlerngespräche, Kinderwunschbegleitung, Trauerbewältigung, psychosoziale Beratung für Kinderwunschbehandlungen mit Spendersamen, Fruchtbarkeitsmassagen und vorgeburtliche Bindungsförderung."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis VALEO buchen?",
+      "answer": "Termine können über die Website der Praxis VALEO gebucht werden. Besuchen Sie dazu den Kontaktbereich unter https://www.kinderwunschzeit.de/kontakt/."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten der Praxis VALEO?",
+      "answer": "Die Öffnungszeiten der Praxis VALEO sind wie folgt: Montag von 14:30 bis 22:30 Uhr, Dienstag bis Freitag von 10:00 bis 22:30 Uhr und Samstag von 11:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für die Angebote in der Praxis VALEO?",
+      "answer": "Die Kosten für die Angebote in der Praxis VALEO variieren. Ein Kennenlerngespräch ist kostenlos, während die Kinderwunschbegleitung und Trauerbewältigung 90 Euro kosten. Die psychosoziale Beratung für Kinderwunschbehandlungen mit Spendersamen kostet 89 Euro, und die Fruchtbarkeitsmassage beträgt 70 Euro."
+    },
+    {
+      "question": "Bietet die Praxis VALEO auch Online-Beratung an?",
+      "answer": "Ja, die Praxis VALEO bietet die Möglichkeit für Online-Beratung an, zusätzlich zu den persönlichen Gesprächen in der Praxis."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-2G8PH5RqEcR7X9TG4U0du8",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 24
 }

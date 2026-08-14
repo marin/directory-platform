@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kubillus",
   "slug": "naturheilpraxis-kubillus",
   "name": "Naturheilpraxis Kubillus",
-  "description": "Naturheilpraxis Kubillus ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Kubillus in Berlin Steglitz-Zehlendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen, einschließlich Homöopathie und manueller Lymphdrainage. Die Praxis legt besonderen Wert auf individuelle Therapieansätze für Menschen und Tiere. Auf der Website finden Patienten umfassende Informationen zu verschiedenen Erkrankungen sowie hilfreiche Tipps für den Umgang mit gesundheitlichen Beschwerden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   "phone": "03079745024",
   "email": "hosting@jweiland.net",
   "website": "https://www.heilpraxis-kubillus.de/",
+  "bookingUrl": "https://www.heilpraxis-kubillus.de/terminvereinbarung.html%20%22Terminvereinbarung",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,38 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "mail(at)heilpraxis-kubillus.de www.heilpraxis-kubillus.de"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-kubillus.de/fileadmin/Fotos_von_mir/Heilpraktiker-Berlin-Homoeopathie.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Kubillus?",
+      "answer": "Die Naturheilpraxis Kubillus befindet sich in der Albrechtstr. 10, 12165 Berlin, im Bezirk Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Kubillus an?",
+      "answer": "Die Naturheilpraxis Kubillus bietet unter anderem Homöopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Kubillus vereinbaren?",
+      "answer": "Sie können einen Termin über die Webseite der Naturheilpraxis Kubillus unter https://www.heilpraxis-kubillus.de/terminvereinbarung.html vereinbaren."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Kubillus?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Kubillus sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Kubillus kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Kubillus telefonisch unter 030-79745024 oder per E-Mail an hosting@jweiland.net kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN20LdoVaqEcRgTGKSQ2WQdE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

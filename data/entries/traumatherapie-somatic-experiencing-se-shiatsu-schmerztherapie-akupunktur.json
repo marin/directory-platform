@@ -2,8 +2,8 @@
   "id": "traumatherapie-somatic-experiencing-se-shiatsu-schmerztherapie-akupunktur",
   "slug": "traumatherapie-somatic-experiencing-se-shiatsu-schmerztherapie-akupunktur",
   "name": "Traumatherapie-somatic experiencing SE-Shiatsu-Schmerztherapie-Akupunktur-",
-  "description": "Traumatherapie-somatic experiencing SE-Shiatsu-Schmerztherapie-Akupunktur- ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis in Berlin-Treptow-Köpenick werden verschiedene ganzheitliche Therapieansätze angeboten, darunter Traumatherapie (Somatic Experiencing), Akupunktur und Shiatsu. Die Praxis legt Wert auf die ganzheitliche Behandlung von Körper, Geist und Seele und bietet einen Raum, in dem sich Patienten wohlfühlen und angenommen werden. Ziel der therapeutischen Angebote ist es, die Gesundheit der Patienten wiederherzustellen und zu erhalten, um die Selbstheilungskräfte des Körpers zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   },
   "phone": "01637356891",
   "website": "http://www.heilpraxis-limberg.de/",
+  "bookingUrl": "https://www.heilpraxis-limberg.de/kontakt-angela-limberg-freinsheim/",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -49,6 +50,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s026623dc186bca0c/backgroundarea/i95770b377fc8ef97/version/1524591271/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien werden in der Heilpraxis angeboten?",
+      "answer": "In der Heilpraxis werden Traumatherapie (somatic experiencing), Shiatsu, Schmerztherapie, und Akupunktur angeboten."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis?",
+      "answer": "Die Heilpraxis befindet sich in der Streustraße 121, 13086 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie lauten die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Dienstag von 09:30 bis 19:00, Mittwoch von 09:00 bis 18:00, Donnerstag von 10:00 bis 17:30 und Freitag von 09:00 bis 14:00."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie über die Webseite der Heilpraxis buchen: Termin anfragen."
+    },
+    {
+      "question": "Welche Zielsetzung verfolgt die Therapie in der Heilpraxis?",
+      "answer": "Die therapeutischen Angebote zielen darauf ab, die Gesundheit wiederherzustellen und zu erhalten, indem die Heilkräfte des Körpers durch Entspannung von Körper, Geist und Seele gefördert werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkbd60udNqEcR-Mogrm8i42s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

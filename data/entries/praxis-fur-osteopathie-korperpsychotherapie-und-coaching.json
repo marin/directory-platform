@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-korperpsychotherapie-und-coaching",
   "slug": "praxis-fur-osteopathie-korperpsychotherapie-und-coaching",
   "name": "Praxis für Osteopathie, Körperpsychotherapie und Coaching",
-  "description": "Praxis für Osteopathie, Körperpsychotherapie und Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie, Körperpsychotherapie und Coaching in Berlin-Lichterfelde wird von Susanne Hake geleitet. Sie bietet umfassende Behandlungen für körperliche, seelische und psychosomatische Beschwerden an. Neben Osteopathie und craniosacraler Therapie umfasst das Angebot auch integrative Körperpsychotherapie und Coaching, um Klient:innen auf ihrem Weg zu mehr Wohlbefinden zu unterstützen. Die Praxis ist Mitglied im Verband der Osteopathen Deutschland und bietet eine individuelle, einfühlsame Begleitung in einem vertrauensvollen Umfeld.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -49,7 +49,70 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Was Patient:innen schreiben"
+    },
+    {
+      "id": "offer-3",
+      "name": "Craniosacrale Osteopathie für Kopf und Nervensystem"
+    },
+    {
+      "id": "offer-4",
+      "name": "Körperpsychotherapie in Berlin"
+    },
+    {
+      "id": "offer-5",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-6",
+      "name": "Was Klient:innen schreiben"
+    },
+    {
+      "id": "offer-7",
+      "name": "Der Weg zur Praxis"
+    },
+    {
+      "id": "offer-8",
+      "name": "Was ich sonst noch einbringe"
+    }
+  ],
+  "images": [
+    "https://susannehake.de/wp-content/uploads/2024/04/Susanne-Hake-Portrait800-%C3%97-800-px-1.png",
+    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b2b673/b2b673cbca279dd2e01042044ade55a9_140_square.jpg",
+    "https://susannehake.de/wp-content/uploads/2024/04/Osteopathie.jpg",
+    "https://susannehake.de/wp-content/uploads/2024/03/Osteopathie-Berlin-Steglitz-Zehlendorf-1920x1080-2.jpg",
+    "https://susannehake.de/wp-content/uploads/2024/03/Osteopathie-Ruecken-und-Nacken-1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis für Osteopathie, Körperpsychotherapie und Coaching an?",
+      "answer": "Die Praxis bietet Osteopathie, craniosacrale Osteopathie, Körperpsychotherapie und Coaching an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Susanne Hake?",
+      "answer": "Die Praxis befindet sich in der Heinersdorfer Str. 3, Berlin, 12209."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat dienstags, mittwochs und donnerstags von 12:00 bis 19:00 Uhr sowie freitags von 12:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Susanne Hake kontaktieren?",
+      "answer": "Sie können Susanne Hake telefonisch unter 01726144020 oder per E-Mail an susanne@susannehake.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN3rWBeBaqEcR3Ll3-mwoMZ8",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 29
 }

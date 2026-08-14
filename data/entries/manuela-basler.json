@@ -2,8 +2,8 @@
   "id": "manuela-basler",
   "slug": "manuela-basler",
   "name": "Manuela Bäsler",
-  "description": "Manuela Bäsler ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis von Manuela Bäsler in Berlin bietet ganzheitliche Behandlungsansätze, die sowohl naturheilkundliche als auch schulmedizinische Methoden berücksichtigen. Im Mittelpunkt der Therapie steht der Mensch als individuelle Persönlichkeit mit seinen spezifischen gesundheitlichen Bedürfnissen. Mit umfangreichen Kenntnissen und Erfahrungen unterstützt die Heilpraktikerin ihre Patienten auf dem Weg zu Gesundheit und Wohlbefinden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,39 @@
   },
   "phone": "03067826871",
   "website": "http://www.naturheilpraxis-baesler.de/",
+  "bookingUrl": "https://naturheilpraxis-baesler.de/kontakt.htm",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://naturheilpraxis-baesler.de/images/manuelabaesler01.jpg",
+    "https://naturheilpraxis-baesler.de/images/baesler-head1.gif",
+    "https://naturheilpraxis-baesler.de/images/baesler-headman.gif",
+    "https://naturheilpraxis-baesler.de/images/baesler-head2.gif",
+    "https://naturheilpraxis-baesler.de/images/trans.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Manuela Bäsler?",
+      "answer": "Die Praxis von Manuela Bäsler befindet sich in der Ortolfstraße 183, 12524 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Manuela Bäsler buchen?",
+      "answer": "Sie können einen Termin bei Manuela Bäsler über die Buchungsseite auf ihrer Website buchen: https://naturheilpraxis-baesler.de/kontakt.htm."
+    },
+    {
+      "question": "Welche Therapiemöglichkeiten bietet Manuela Bäsler an?",
+      "answer": "Manuela Bäsler bietet eine Vielzahl von Therapiemöglichkeiten an, die auf ganzheitliche Gesundheit und die individuellen Bedürfnisse ihrer Patienten ausgerichtet sind."
+    },
+    {
+      "question": "Wie kann ich Manuela Bäsler telefonisch erreichen?",
+      "answer": "Sie können Manuela Bäsler unter der Telefonnummer 03067826871 erreichen."
+    },
+    {
+      "question": "Gibt es Öffnungszeiten für die Praxis von Manuela Bäsler?",
+      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFQMLgFNGqEcRrwf49IXKwok",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

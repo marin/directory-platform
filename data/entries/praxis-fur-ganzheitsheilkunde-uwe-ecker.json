@@ -3,7 +3,7 @@
   "slug": "praxis-fur-ganzheitsheilkunde-uwe-ecker",
   "name": "Praxis für Ganzheitsheilkunde Uwe Ecker",
   "description": "Praxis für Ganzheitsheilkunde Uwe Ecker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -37,7 +37,15 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "404 Not Found"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEzDHwg5OqEcRuObyyZWw6eM",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 11
 }

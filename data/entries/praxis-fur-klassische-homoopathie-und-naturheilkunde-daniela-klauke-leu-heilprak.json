@@ -2,8 +2,8 @@
   "id": "praxis-fur-klassische-homoopathie-und-naturheilkunde-daniela-klauke-leu-heilprak",
   "slug": "praxis-fur-klassische-homoopathie-und-naturheilkunde-daniela-klauke-leu-heilprak",
   "name": "Praxis für klassische Homöopathie und Naturheilkunde • Daniela Klauke-Leu, Heilpraktikerin",
-  "description": "Praxis für klassische Homöopathie und Naturheilkunde • Daniela Klauke-Leu, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für klassische Homöopathie und Naturheilkunde von Daniela Klauke-Leu in Berlin-Spandau stehen individuelle Beratung und ganzheitliche Behandlung im Vordergrund. Die Praxis bietet eine einladende Atmosphäre, in der Patienten sich wohlfühlen können. Interessierte haben die Möglichkeit, ein erstes kostenloses Beratungsgespräch zu vereinbaren, um mehr über die angebotenen Therapien zu erfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -28,6 +28,28 @@
   "website": "http://www.heilpraktikerin-klauke-leu.de/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://strato-editor.com/.cm4all/e/static/img/loading_128.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Daniela Klauke-Leu?",
+      "answer": "Die Praxis für klassische Homöopathie und Naturheilkunde von Daniela Klauke-Leu befindet sich in Berlin, Magistratsweg 29A, 13593."
+    },
+    {
+      "question": "Wie kann ich Daniela Klauke-Leu kontaktieren?",
+      "answer": "Sie können Daniela Klauke-Leu telefonisch unter 015126100682 oder per E-Mail an homoeopathieberlin@gmx.de kontaktieren."
+    },
+    {
+      "question": "Bietet die Praxis ein kostenloses Beratungsgespräch an?",
+      "answer": "Ja, in der Praxis von Daniela Klauke-Leu können Sie ein erstes kostenloses Beratungsgespräch vereinbaren."
+    },
+    {
+      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden klassische Homöopathie und Naturheilkunde angeboten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNdsU89VXqEcRX-N443XZtqc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

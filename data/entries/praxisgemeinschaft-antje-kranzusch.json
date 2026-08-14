@@ -2,8 +2,8 @@
   "id": "praxisgemeinschaft-antje-kranzusch",
   "slug": "praxisgemeinschaft-antje-kranzusch",
   "name": "Praxisgemeinschaft Antje Kranzusch",
-  "description": "Praxisgemeinschaft Antje Kranzusch ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxisgemeinschaft Antje Kranzusch in Berlin bietet spezialisierte Dienstleistungen in der EMDR- und Gesprächstherapie an. Hier werden Klienten unterstützt, die sich nach Veränderung sehnen und mit inneren Ängsten oder Blockaden konfrontiert sind. Die Praxis legt großen Wert auf ein vertrauensvolles Umfeld, in dem individuelle Bedürfnisse und Ressourcen der Klienten im Mittelpunkt stehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,68 @@
   "website": "https://www.emdrpraxis-berlin.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/antje-kranzusch?pid=practice-281228",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "»Bitte erledigen Sie kurzfristig zusätzlich …«"
+    },
+    {
+      "id": "offer-2",
+      "name": "EMDR & GESPRÄCHSTHERAPIE"
+    },
+    {
+      "id": "offer-3",
+      "name": "EMDR- und Gesprächstherapiepraxis Antje Kranzusch"
+    },
+    {
+      "id": "offer-4",
+      "name": "Gesprächstherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "EMDR Therapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "LABORDIAGNOSTIK"
+    },
+    {
+      "id": "offer-7",
+      "name": "MEINE ARBEIT"
+    },
+    {
+      "id": "offer-8",
+      "name": "Angst erkennen und besiegen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Zeitlos – ein bedeutendes Wort für unser Wohlbefinden"
+    }
+  ],
+  "images": [
+    "https://www.emdrpraxis-berlin.de/wp-content/uploads/2020/05/antje-kranzusch-emdrpraxis-berlin@2.jpg",
+    "https://www.emdrpraxis-berlin.de/wp-content/uploads/revslider/Vector-Smart-Object-61.png",
+    "https://www.emdrpraxis-berlin.de/wp-content/uploads/2020/08/gespraechstherapie-emdrpraxis-kranzusch-358x393.jpg",
+    "https://www.emdrpraxis-berlin.de/wp-content/uploads/2016/03/emdr-emdrpraxis-kranzusch-358x393.jpg",
+    "https://www.emdrpraxis-berlin.de/wp-content/uploads/2020/08/labordiagnostik-emdrpraxis-kranzusch-358x393.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxisgemeinschaft Antje Kranzusch?",
+      "answer": "Die Praxisgemeinschaft Antje Kranzusch befindet sich in Berlin, am Gosener Damm 10, 12559 Berlin."
+    },
+    {
+      "question": "Welche Therapien bietet Antje Kranzusch an?",
+      "answer": "Antje Kranzusch bietet EMDR-Therapie, Gesprächstherapie sowie Labordiagnostik an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib vereinbaren: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich Antje Kranzusch kontaktieren?",
+      "answer": "Sie können Antje Kranzusch telefonisch unter 015150490004 oder per E-Mail an info@emdrpraxis-berlin.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxQCWYOc5qEcR5BmiTUisPq4"
 }

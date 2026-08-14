@@ -2,8 +2,8 @@
   "id": "aga-heilpraxis",
   "slug": "aga-heilpraxis",
   "name": "AGA Heilpraxis",
-  "description": "AGA Heilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die AGA Heilpraxis in Berlin-Treptow-Köpenick bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen, darunter Osteopathie für Erwachsene, Kinder und Babys, Homöopathie, Pflanzenheilkunde sowie verschiedene Therapieformen wie Ohrakupunktur und Neuraltherapie. Die Praxis verfolgt einen ganzheitlichen Ansatz, bei dem der menschliche Körper als Einheit betrachtet wird, um nicht nur Symptome zu lindern, sondern auch die zugrunde liegenden Ursachen zu behandeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -25,8 +25,83 @@
   },
   "phone": "01608866700",
   "website": "http://www.aga-heilpraxis.de/",
+  "bookingUrl": "https://www.aga-heilpraxis.de/index.php/kontakt",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie für Erwachsene, Kinder und Babies"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-5",
+      "name": "Neuraltherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Physiotherapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Manuelle Therapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Krankengymnastik"
+    },
+    {
+      "id": "offer-9",
+      "name": "Lymphdrainage"
+    },
+    {
+      "id": "offer-10",
+      "name": "Behandlungen Weitere Informationen",
+      "description": "Behandlungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Osteopathie & Heilpraxis für Erwachsene, Kinder und Babies"
+    },
+    {
+      "id": "offer-13",
+      "name": "Ernährungscoach"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die AGA Heilpraxis an?",
+      "answer": "Die AGA Heilpraxis bietet unter anderem Osteopathie für Erwachsene, Kinder und Babys, Homöopathie, Pflanzenheilkunde, Ohrakupunktur, Neuraltherapie, Physiotherapie, manuelle Therapie, Krankengymnastik und Lymphdrainage an."
+    },
+    {
+      "question": "Wo befindet sich die AGA Heilpraxis?",
+      "answer": "Die AGA Heilpraxis befindet sich in Berlin, Jötunsteig 49, 13088 Berlin."
+    },
+    {
+      "question": "Wer leitet die AGA Heilpraxis?",
+      "answer": "Die AGA Heilpraxis wird von Marion Börmcke geleitet, die als Osteopathin, Heilpraktikerin und Physiotherapeutin tätig ist."
+    },
+    {
+      "question": "Rechnet die AGA Heilpraxis mit den Krankenkassen ab?",
+      "answer": "Die AGA Heilpraxis rechnet ausschließlich auf Privatrechnung ab."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj_v4EZ9QqEcRAxHBKg8DNvc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17
 }

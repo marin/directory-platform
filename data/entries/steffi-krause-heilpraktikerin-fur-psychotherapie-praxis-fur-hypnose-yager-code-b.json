@@ -2,8 +2,8 @@
   "id": "steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b",
   "slug": "steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b",
   "name": "Steffi Krause, Heilpraktikerin für Psychotherapie, Praxis für Hypnose & Yager-Code Berlin",
-  "description": "Steffi Krause, Heilpraktikerin für Psychotherapie, Praxis für Hypnose & Yager-Code Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Steffi Krause ist Heilpraktikerin für Psychotherapie und bietet in ihrer Praxis in Berlin Hypnosetherapie sowie die Yager-Code-Therapie an. Ihr Ansatz richtet sich an Menschen mit psychischen und psychosomatischen Problemen, wie Ängsten, Essstörungen und chronischen Schmerzen. Durch gezielte Methoden unterstützt sie ihre Klienten dabei, emotionale Blockaden zu lösen und ein selbstbestimmtes Leben zu führen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,6 +27,7 @@
   "phone": "017624635710",
   "email": "kontakt@steffikrausehypnose.de",
   "website": "https://www.steffikrausehypnose.de/",
+  "bookingUrl": "https://calendly.com/steffikrausehypnose/kennenlerngespraech",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,154 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Kraftvoll, sanft und schnell: Hypnose und der Yager-Code"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sanft, einfach und hoch wirksam: Hypnose und der Yager-Code"
+    },
+    {
+      "id": "offer-3",
+      "name": "1\\. Sitzung: Aufklärung, Anamnese und Zielfindung"
+    },
+    {
+      "id": "offer-4",
+      "name": "2\\. Sitzung: Regression − Reise in die Vergangenheit"
+    },
+    {
+      "id": "offer-5",
+      "name": "3\\. Sitzung: Vergebung − Lasse Wut und Enttäuschung los"
+    },
+    {
+      "id": "offer-6",
+      "name": "4.-5. Sitzung: Auflösen letzter belastender Konditionierungen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Hypnose ist perfekt für Dich, wenn"
+    },
+    {
+      "id": "offer-8",
+      "name": "Mögliche Anwendungsbereiche der Hypnose"
+    },
+    {
+      "id": "offer-9",
+      "name": "1\\. Sitzung: Aufklärung, Anamnese und Ziel"
+    },
+    {
+      "id": "offer-10",
+      "name": "2.-5. Sitzung: Auflösen der belastenden Konditionierungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Selbstanwendung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Der Yager-Code ist perfekt für Dich, wenn"
+    },
+    {
+      "id": "offer-13",
+      "name": "Mögliche Anwendungsgebiete des Yager-Codes"
+    },
+    {
+      "id": "offer-14",
+      "name": "Zertifiziert"
+    },
+    {
+      "id": "offer-15",
+      "name": "Dieses Gefühl der Leere ist wie weggeblasen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Dieses Gefühl der Leere"
+    },
+    {
+      "id": "offer-17",
+      "name": "ist wie weggeblasen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Wenn die Seele körperlich krank macht"
+    },
+    {
+      "id": "offer-19",
+      "name": "Psychoanalyse"
+    },
+    {
+      "id": "offer-20",
+      "name": "38% Genesungen nach 600 Sitzungen"
+    },
+    {
+      "id": "offer-21",
+      "name": "Verhaltenstherapie"
+    },
+    {
+      "id": "offer-22",
+      "name": "72% Genesungen nach 22 Sitzungen"
+    },
+    {
+      "id": "offer-23",
+      "name": "Hypnosetherapie"
+    },
+    {
+      "id": "offer-24",
+      "name": "93% Genesungen nach ca. 6 Sitzungen"
+    },
+    {
+      "id": "offer-25",
+      "name": "Sanft, schnell und wirkungsvoll: Meine Methoden"
+    },
+    {
+      "id": "offer-26",
+      "name": "Du hast es verdient, gesund & glücklich zu sein."
+    },
+    {
+      "id": "offer-27",
+      "name": "Endlich Schmerzfrei: Ein Leben ohne Rückenschmerzen"
+    },
+    {
+      "id": "offer-28",
+      "name": "Endlich Schmerzfrei:Ein Leben ohneRückenschmerzen"
+    },
+    {
+      "id": "offer-29",
+      "name": "So läuft eine Hypnose-Therapie und Yager-Code-Therapie ab"
+    }
+  ],
+  "images": [
+    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-kl.png",
+    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-steffi.png",
+    "https://steffikrausehypnose.de/wp-content/uploads/2024/09/heilpraktikerin-fuer-psychotherapie-berlin_testimonial.png",
+    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-.png",
+    "https://steffikrausehypnose.de/wp-content/uploads/2024/10/heilpraktikerin-fuer-psychotherapie-berlin-angst.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Steffi Krause an?",
+      "answer": "Steffi Krause bietet Hypnosetherapie und die Yager-Code-Therapie an. Diese Methoden zielen darauf ab, emotionale Blockaden im Unterbewusstsein zu lösen."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin in der Praxis buchen, indem Sie das unverbindliche Erstgespräch über den folgenden Link vereinbaren: Termin buchen."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Steffi Krause?",
+      "answer": "Die Praxis befindet sich in der Haeckelstraße 11, 12487 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich Steffi Krause kontaktieren?",
+      "answer": "Sie können Steffi Krause telefonisch unter 017624635710 oder per E-Mail an kontakt@steffikrausehypnose.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtYM1c9lHqEcRdmHwxTrJ1TA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18
 }

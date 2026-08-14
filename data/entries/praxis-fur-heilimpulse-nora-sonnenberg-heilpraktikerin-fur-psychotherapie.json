@@ -2,8 +2,8 @@
   "id": "praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie",
   "slug": "praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie",
   "name": "Praxis für Heilimpulse Nora Sonnenberg - Heilpraktikerin für Psychotherapie",
-  "description": "Praxis für Heilimpulse Nora Sonnenberg - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Heilimpulse von Nora Sonnenberg in Berlin-Wedding bietet ganzheitliche Psychotherapie mit einem traumasensiblen und nervensystem-orientierten Ansatz. Seit 2014 begleitet die Heilpraktikerin überwiegend Frauen und Mädchen ab 16 Jahren in schwierigen Lebensphasen, bei Ängsten, depressiven Verstimmungen und belastenden Beziehungserfahrungen. Die Therapieformen umfassen unter anderem Integrative Gestalttherapie, polyvagal-informierte Therapie und Klopftherapie, ergänzt durch Rituale in besonderen Übergangsprozessen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   "phone": "03021025915",
   "email": "kontakt@heilimpulse-berlin.de",
   "website": "http://www.heilimpulse-berlin.de/",
+  "bookingUrl": "https://www.heilimpulse-berlin.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,82 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "55 min",
+      "durationMinutes": 55,
+      "durationLabel": "55 min",
+      "price": 90,
+      "priceLabel": "90€"
+    },
+    {
+      "id": "offer-2",
+      "name": "60 min Vorgespräch plus 90 min Ritual: gesamt",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 250,
+      "priceLabel": "250€"
+    },
+    {
+      "id": "offer-3",
+      "name": "Im Rahmen einer laufenden Psychotherapie: 90 min Ritual",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 140,
+      "priceLabel": "140€"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kennenlerngespräch"
+    },
+    {
+      "id": "offer-5",
+      "name": "Integrative Gestalttherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Polyvagal-informierte Therapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Klopftherapie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Rituale"
+    }
+  ],
+  "images": [
+    "https://www.heilimpulse-berlin.de/images/banner-oben/home/nora-sonnenberg-mobil.jpg",
+    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/gestalt-a.png",
+    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/poly-a.png",
+    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/eft-a.png",
+    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/ritual-a.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche therapeutischen Ansätze bietet Nora Sonnenberg in ihrer Praxis an?",
+      "answer": "Nora Sonnenberg bietet in ihrer Praxis Integrative Gestalttherapie, polyvagal-informierte Therapie und Klopftherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis für Heilimpulse buchen?",
+      "answer": "Sie können einen Termin über die Webseite buchen, indem Sie diesem Link folgen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 09:00 bis 16:00 Uhr und am Freitag von 10:00 bis 13:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet die Praxis ein Kennenlerngespräch an?",
+      "answer": "Ja, es wird ein unverbindliches und kostenfreies halbstündiges Kennenlerngespräch angeboten."
+    },
+    {
+      "question": "Wo befindet sich die Praxis für Heilimpulse?",
+      "answer": "Die Praxis befindet sich in der Schwedenstraße 15a, 13357 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYxHgCv5NqEcRx_6OKmbyqWs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19
 }

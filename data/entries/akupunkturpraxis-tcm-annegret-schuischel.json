@@ -3,7 +3,7 @@
   "slug": "akupunkturpraxis-tcm-annegret-schuischel",
   "name": "Akupunkturpraxis-TCM Annegret Schuischel",
   "description": "Akupunkturpraxis-TCM Annegret Schuischel ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
@@ -52,7 +52,67 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapieverlauf"
+    },
+    {
+      "id": "offer-2",
+      "name": "Diagnose"
+    },
+    {
+      "id": "offer-3",
+      "name": "Anamnesegespräch"
+    },
+    {
+      "id": "offer-4",
+      "name": "Pulsdiagnose"
+    },
+    {
+      "id": "offer-5",
+      "name": "Zungendiagnose"
+    },
+    {
+      "id": "offer-6",
+      "name": "Behandlung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Moxa"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Ernährungsberatung auf Grundlage der TCM"
+    },
+    {
+      "id": "offer-11",
+      "name": "Gespräch (nur wenn der Patient das möchte)"
+    },
+    {
+      "id": "offer-12",
+      "name": "Befeldung mit dem MF 150 Befeldungsgerät"
+    },
+    {
+      "id": "offer-13",
+      "name": "Akupunktur und TCM für die Lunge"
+    },
+    {
+      "id": "offer-14",
+      "name": "Verlauf einer Therapie"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfDrD61FqEcRP1AXB0ABkT4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

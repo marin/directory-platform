@@ -2,8 +2,8 @@
   "id": "frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie",
   "slug": "frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie",
   "name": "Frauke Hopf, Heilpraxis für Klassische Homöopathie und Psychotherapie",
-  "description": "Frauke Hopf, Heilpraxis für Klassische Homöopathie und Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frauke Hopf ist Heilpraktikerin in Berlin und bietet in ihrer Praxis für Klassische Homöopathie und Psychotherapie eine ganzheitliche Betreuung an. Mit über 20 Jahren Erfahrung berücksichtigt sie sowohl körperliche als auch seelisch-emotionale Aspekte ihrer Patienten. Ihr Angebot umfasst unter anderem Frauenheilkunde, Unterstützung bei Kinderwunsch sowie systemisches Coaching und Psychotherapie. Die Praxis befindet sich im Graefekiez, nur wenige Minuten vom U-Bahnhof Schönleinstraße entfernt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -27,6 +27,7 @@
   "phone": "03061209921",
   "email": "info@heilpraxis-hopf.de",
   "website": "https://heilpraxis-kreuzberg.de/",
+  "bookingUrl": "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/03/Peg-Dolls-Quadrat-200x200.jpg",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,82 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Frauenheilkunde"
+    },
+    {
+      "id": "offer-2",
+      "name": "Die Blase als anfälliges Organ"
+    },
+    {
+      "id": "offer-3",
+      "name": "Kombination von Methoden"
+    },
+    {
+      "id": "offer-4",
+      "name": "Ihre Privatsphäre im Überblick"
+    },
+    {
+      "id": "offer-5",
+      "name": "Klassische Homöopathie Systemisches Coaching Psychotherapie"
+    },
+    {
+      "id": "offer-6",
+      "name": "Klassische Homöopathie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Praxis / Anfahrt"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-9",
+      "name": "Behandlung von Kindern"
+    },
+    {
+      "id": "offer-10",
+      "name": "Kontaktieren Sie mich"
+    },
+    {
+      "id": "offer-11",
+      "name": "Telefon und Mail"
+    }
+  ],
+  "images": [
+    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/02/iStock-2201549453-200x200.jpg",
+    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/03/Peg-Dolls-Quadrat-200x200.jpg",
+    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2021/02/03.webp",
+    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2019/12/Trauma.webp",
+    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2019/12/Frauenheilkunde.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Frauke Hopf an?",
+      "answer": "Frauke Hopf bietet klassische Homöopathie, systemisches Coaching und Psychotherapie an. Ihre Praxis umfasst auch spezielle Themen wie Frauenheilkunde, hormonelle Herausforderungen und die Behandlung von Kindern."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03061209921 oder per E-Mail an info@heilpraxis-hopf.de vereinbaren. Außerdem gibt es die Möglichkeit eines kostenfreien Kennenlerngesprächs."
+    },
+    {
+      "question": "Wo befindet sich die Heilpraxis von Frauke Hopf?",
+      "answer": "Die Heilpraxis von Frauke Hopf befindet sich in der Graefestraße 3, 10967 Berlin, im Stadtteil Kreuzberg."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Bietet die Praxis auch Unterstützung bei Kinderwunsch an?",
+      "answer": "Ja, Frauke Hopf bietet Unterstützung bei Kinderwunsch an und betrachtet alternative Behandlungsmöglichkeiten zu Hormonbehandlungen oder künstlicher Befruchtung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaxYRnstPqEcRFLaY97D2lks",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

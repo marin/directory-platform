@@ -2,8 +2,8 @@
   "id": "private-physiotherapie-sektorale-heilpraktikerin-heike-curseri",
   "slug": "private-physiotherapie-sektorale-heilpraktikerin-heike-curseri",
   "name": "Private Physiotherapie & sektorale Heilpraktikerin Heike Curseri",
-  "description": "Private Physiotherapie & sektorale Heilpraktikerin Heike Curseri ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heike Curseri ist eine erfahrene Heilpraktikerin und Physiotherapeutin mit einer Praxis in Wendenschloss, Berlin. Sie bietet umfassende physiotherapeutische Behandlungen sowie energetische Körperarbeit und Coaching an. Ihr Ziel ist es, Menschen in ihrem Gesundungsprozess zu unterstützen, indem sie individuelle Befunde erstellt und innovative Techniken anwendet, um eine ganzheitliche Heilung zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,53 @@
   "phone": "03023541105",
   "email": "h.curseri@gmx.de",
   "website": "http://www.physio-heikecurseri.de/",
+  "bookingUrl": "https://www.physio-heikecurseri.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "1.5K"
+    },
+    {
+      "id": "offer-2",
+      "name": "_Physio, energetische Körperarbeit & Coaching_"
+    },
+    {
+      "id": "offer-3",
+      "name": "Innovative Techniken als ständige Begleitung in der Physiotherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kontakt aufnehmen"
+    }
+  ],
+  "images": [
+    "https://www.physio-heikecurseri.de/wp-content/uploads/go-x/u/67bbbecf-bc80-494c-81f0-1a3d0dce8398/l214,t0,w853,h853/image.jpg",
+    "https://www.physio-heikecurseri.de/wp-content/uploads/go-x/u/b902d528-3d41-40c6-8503-f6f91150641c/l28,t0,w1047,h1544/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heike Curseri?",
+      "answer": "Die Praxis von Heike Curseri befindet sich in Berlin, genauer gesagt in Wendenschloss, hinter Netto, 12557 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heike Curseri vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 030 23541105 oder über die Website hier vereinbaren."
+    },
+    {
+      "question": "Welche Dienstleistungen bietet Heike Curseri an?",
+      "answer": "Heike Curseri bietet unter anderem Physiotherapie, energetische Körperarbeit, Coaching sowie innovative Techniken in der Physiotherapie an."
+    },
+    {
+      "question": "Wie lange ist Heike Curseri bereits in der Physiotherapie tätig?",
+      "answer": "Heike Curseri ist seit vielen Jahren in der Physiotherapie tätig und hat über 30 Jahre Erfahrung."
+    },
+    {
+      "question": "Was ist das Ziel von Heike Curseri in ihrer Praxis?",
+      "answer": "Das Ziel von Heike Curseri ist es, Menschen in ihrem Gesundungsprozess zu begleiten und zu unterstützen, um sie in ihre dauerhafte Genesung zu führen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtX-6A1hHqEcRU8KHTw4jRdY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

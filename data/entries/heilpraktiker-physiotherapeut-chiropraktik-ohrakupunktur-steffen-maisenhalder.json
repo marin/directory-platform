@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-physiotherapeut-chiropraktik-ohrakupunktur-steffen-maisenhalder",
   "name": "Heilpraktiker, Physiotherapeut, Chiropraktik, Ohrakupunktur Steffen Maisenhälder",
   "description": "Heilpraktiker, Physiotherapeut, Chiropraktik, Ohrakupunktur Steffen Maisenhälder ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,7 +27,15 @@
   "email": "info@physiotherapie-koritter.de",
   "website": "http://www.physiotherapie-koritter.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Physiotherapie-Praxis Koritter im Paul Gerhardt Stift Berlin Wedding"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrWvyXtdTqEcRzV0Ah0SDIP0",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 7
 }

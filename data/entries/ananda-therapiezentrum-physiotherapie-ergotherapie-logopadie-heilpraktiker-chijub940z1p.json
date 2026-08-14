@@ -2,8 +2,8 @@
   "id": "ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker-chijub940z1p",
   "slug": "ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker-chijub940z1p",
   "name": "ANANDA Therapiezentrum (Physiotherapie Ergotherapie Logopädie Heilpraktiker)",
-  "description": "ANANDA Therapiezentrum (Physiotherapie Ergotherapie Logopädie Heilpraktiker) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Das ANANDA Therapiezentrum in Berlin bietet ein ganzheitliches, interdisziplinäres Gesundheitsangebot, das Physiotherapie, Ergotherapie, Logopädie und heilpraktische Behandlungen umfasst. Ein erfahrenes Team von Therapeuten arbeitet hier zusammen, um individuelle Behandlungsansätze zu entwickeln und die Gesundheit der Patienten zu fördern. Das Zentrum legt großen Wert auf eine persönliche Betreuung und lädt Interessierte ein, einen Termin zur individuellen Behandlung zu vereinbaren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,40 @@
       "close": "12:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Physiotherapie - Ergotherapie Logopädie - Heilpraktiker"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ananda Therapiezentrum ATZ"
+    }
+  ],
+  "images": [
+    "https://www.ananda-atz.de/wp-content/uploads/go-x/u/f9432340-75fc-42f8-90ad-3fdab7f88fdb/l0,t318,w2000,h865/image-768x332.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet das ANANDA Therapiezentrum an?",
+      "answer": "Das ANANDA Therapiezentrum bietet Physiotherapie, Ergotherapie, Logopädie und Heilpraktiker-Dienstleistungen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin im ANANDA Therapiezentrum vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030-66625452 oder per E-Mail an atz.rez@gmail.com vereinbaren."
+    },
+    {
+      "question": "Wann hat das ANANDA Therapiezentrum geöffnet?",
+      "answer": "Das ANANDA Therapiezentrum hat von Montag bis Donnerstag von 08:00 bis 16:00 Uhr geöffnet und am Freitag von 11:00 bis 12:30 Uhr."
+    },
+    {
+      "question": "Wo befindet sich das ANANDA Therapiezentrum?",
+      "answer": "Das ANANDA Therapiezentrum befindet sich in der Teterower Str. 7, 12359 Berlin - Neukölln."
+    },
+    {
+      "question": "Wie erreiche ich das ANANDA Therapiezentrum mit öffentlichen Verkehrsmitteln?",
+      "answer": "Das ANANDA Therapiezentrum liegt 50 Meter von der U-Bahn-Station Blaschkoallee (U7) entfernt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJub940Z1PqEcRm1n_9IHf6rg"
 }

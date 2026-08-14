@@ -2,8 +2,8 @@
   "id": "gemeinsam-gesund-max-homuth-heilerlaubnis-fur-osteopathie-und-hypnose",
   "slug": "gemeinsam-gesund-max-homuth-heilerlaubnis-fur-osteopathie-und-hypnose",
   "name": "Gemeinsam Gesund - Max Homuth (Heilerlaubnis für Osteopathie und Hypnose)",
-  "description": "Gemeinsam Gesund - Max Homuth (Heilerlaubnis für Osteopathie und Hypnose) ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Max Homuth bietet in seiner Praxis \"Gemeinsam Gesund\" in Berlin-Moabit osteopathische Behandlungen und Hypnose an. Die Osteopathie betrachtet den Körper als ein zusammenhängendes System und zielt darauf ab, verlorene Beweglichkeit wiederherzustellen. Hypnose wird eingesetzt, um Veränderungen zu ermöglichen, wo Worte nicht ausreichen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,7 +54,40 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Hypnose"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Max Homuth an?",
+      "answer": "Max Homuth bietet Osteopathie und Hypnose an."
+    },
+    {
+      "question": "Wie hoch sind die Preise für die Behandlungen?",
+      "answer": "Die Preise sind 122 € für eine Osteopathie-Sitzung (60 Minuten) und 300 € für eine Hypnose-Sitzung (ca. 2 Stunden)."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten von Gemeinsam Gesund?",
+      "answer": "Die Öffnungszeiten sind Montag und Mittwoch bis Donnerstag von 09:00 bis 22:00 Uhr, Dienstag von 09:00 bis 16:00 Uhr und Freitag von 09:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Max Homuth?",
+      "answer": "Die Praxis befindet sich in der Sickingenstraße 8, 10553 Berlin, Deutschland."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ42qgz4ZRqEcRZyiywtwrd-I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30
 }

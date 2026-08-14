@@ -2,8 +2,8 @@
   "id": "frank-h-e-hahn-gestalttherapie-heilpraktiker-fur-psychotherapie-hpg",
   "slug": "frank-h-e-hahn-gestalttherapie-heilpraktiker-fur-psychotherapie-hpg",
   "name": "Frank H.E.Hahn Gestalttherapie / Heilpraktiker für Psychotherapie (HPG)",
-  "description": "Frank H.E.Hahn Gestalttherapie / Heilpraktiker für Psychotherapie (HPG) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frank H.E. Hahn ist als Heilpraktiker für Psychotherapie in Berlin tätig und bietet Gestalttherapie an. In seiner Praxis unterstützt er Klienten bei der Bewältigung von Ängsten, depressiven Verstimmungen sowie bei der Überwindung eingefahrener Muster in Beziehungen und im Alltag. Sein Ansatz basiert auf einem dialogischen Verhältnis, in dem Klienten die Themen und das Tempo der Therapie bestimmen, während er empathisch und unterstützend zur Seite steht. Weitere Schwerpunkte seiner Arbeit sind Konflikte in Familie und Beruf, Biografiearbeit und Trauerbegleitung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -52,7 +52,39 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Frank H.E. Hahn - Gestalttherapeut \\| Heilpraktiker für Psychotherapie"
+    }
+  ],
+  "images": [
+    "https://www.gestalttherapie-frank-hahn.de/images/pictures/66f9dd39/66f9dd3b/hahn-gestalt-1460-mit-text-2.jpg",
+    "https://www.gestalttherapie-frank-hahn.de/images/pictures/66f9dd39/66f9dd3b/frank-hahn-website-hintergrund.jpg?w=1920"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieform bietet Frank H.E. Hahn an?",
+      "answer": "Frank H.E. Hahn bietet Gestalttherapie an und ist Heilpraktiker für Psychotherapie."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Frank H.E. Hahn?",
+      "answer": "Die Praxis befindet sich in der Bautzener Pl. 2, 10829 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Frank H.E. Hahn vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 015222860227 oder über die Website http://www.gestalttherapie-frank-hahn.de/ vereinbaren."
+    },
+    {
+      "question": "Welche Themen werden in der Gestalttherapie behandelt?",
+      "answer": "In der Gestalttherapie werden Themen wie der Umgang mit Ängsten, depressiven Verstimmungen, Trauer, Konflikten in Beziehungen sowie biografische Arbeit behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN8S4VvJRqEcRkU9obM0SMto",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

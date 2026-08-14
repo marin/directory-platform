@@ -2,8 +2,8 @@
   "id": "praxis-fur-homoopathie-und-ayurveda-berlin",
   "slug": "praxis-fur-homoopathie-und-ayurveda-berlin",
   "name": "Praxis für Homöopathie und Ayurveda Berlin",
-  "description": "Praxis für Homöopathie und Ayurveda Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Homöopathie und Ayurveda in Berlin bietet eine ganzheitliche Betreuung durch die Heilpraktikerin Annemarie Rafiq. Sie spezialisiert sich auf die Behandlung von Beschwerden wie Allergien, Verdauungsproblemen und Schwangerschaftsleiden mit Methoden der Homöopathie und Ayurveda. Zusätzlich werden individuelle Ernährungs- und Lifestyle-Beratung angeboten, um das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -58,7 +58,86 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraxis für Frauen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Dein neues leben beginnt heute"
+    },
+    {
+      "id": "offer-3",
+      "name": "Lass uns gemeinsam starten!"
+    },
+    {
+      "id": "offer-4",
+      "name": "Mein Angebot für Dich"
+    },
+    {
+      "id": "offer-5",
+      "name": "Homöopathie & Ayurveda"
+    },
+    {
+      "id": "offer-6",
+      "name": "Ernährung & Lifestyle mit Ayurveda"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ayurveda Massagen in Berlin"
+    },
+    {
+      "id": "offer-8",
+      "name": "ayurveda-Immunsystem stärken"
+    },
+    {
+      "id": "offer-9",
+      "name": "durch den Tag - Mit ayurveda"
+    },
+    {
+      "id": "offer-10",
+      "name": "Hilfe bei Hitzewallungen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Alzheimer studie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Ayurveda Morgenroutine"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=367x10000:format=jpg/path/s97a9a6c9549da2fb/image/ic2eab76682585614/version/1763950649/heilpraktikerin-annemarie-rafiq-inhaberin-der-praxis-f%C3%BCr-hom%C3%B6opathie-ayurveda-berlin.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=260x10000:format=png/path/s97a9a6c9549da2fb/image/id25ca138b08219a9/version/1762889176/ayurveda-grippezeit-vogelgrippe.png",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=276x10000:format=jpg/path/s97a9a6c9549da2fb/image/i35168f8591c0b160/version/1764005758/ayurveda-massage.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=247x10000:format=jpg/path/s97a9a6c9549da2fb/image/iaa21b8bfd712772d/version/1764004776/hitzewallung-wechseljahre.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=217x10000:format=jpg/path/s97a9a6c9549da2fb/image/ia8d01dc90dc22a4c/version/1747294407/schwangerschafts-massage.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Homöopathie und Ayurveda in Berlin?",
+      "answer": "Die Praxis befindet sich in der Droysenstraße 6, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag sowie am Sonntag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin direkt über die Website der Praxis buchen: Termin Buchen."
+    },
+    {
+      "question": "Welche Behandlungen werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden Behandlungen in Homöopathie und Ayurveda angeboten, darunter Erstanamnesen, verschiedene Massagen und Ernährungsberatung."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Erstanamnese?",
+      "answer": "Die Kosten für eine Erstanamnese für Erwachsene betragen 200 € und für Kinder bis 14 Jahren 160 €, jeweils abhängig vom Zeitaufwand."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRyjxTZRqEcRbdJT04V4vUE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 46
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-dana-dobbermann",
   "name": "Heilpraktikerin Dana Dobbermann",
   "description": "Heilpraktikerin Dana Dobbermann ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,13 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schauen Sie doch mal wieder vorbei!"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF1zvZpROqEcRJkAckHN5syQ"
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz",
   "slug": "praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz",
   "name": "Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz",
-  "description": "Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz, geleitet von Dagmar Duve, bietet ein umfassendes Behandlungsspektrum, das Osteopathie, Homöopathie und energetische Arbeit umfasst. Mit über 20 Jahren Erfahrung unterstützt die Heilpraktikerin ihre Patienten in der Stärkung der Selbstheilungskräfte und der Behandlung von physischen sowie psychischen Beschwerden. Die Praxis befindet sich in der Muthesiusstraße 14 und ist gut erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -51,7 +51,51 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Energiearbeit"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schwerpunkte meiner Tätigkeit"
+    }
+  ],
+  "images": [
+    "https://www.datocms-assets.com/65923/1650271471-liege-4.png?auto=compress%2Cformat&blur=2000&fit=max&px=4&q=0&w=1200",
+    "https://www.datocms-assets.com/65923/1650271471-liege-4.png?auto=format&fit=max&w=1200"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Praxis für Osteopathie und Naturheilkunde an?",
+      "answer": "Die Praxis bietet Osteopathie, Homöopathie, Energiearbeit sowie psychotherapeutische Unterstützung an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin direkt online über diesen Link buchen oder die Praxis telefonisch unter 03041990247 kontaktieren."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat montags und dienstags von 10:00 bis 19:00 Uhr, donnerstags von 10:00 bis 18:00 Uhr und freitags von 10:00 bis 15:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Muthesiusstraße 14, 12163 Berlin, im Stadtteil Steglitz."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 03041990247 oder per E-Mail an info@praxis-duve.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbeWMWIZaqEcRekFW1mvWII8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

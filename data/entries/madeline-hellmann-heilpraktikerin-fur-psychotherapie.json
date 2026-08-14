@@ -2,8 +2,8 @@
   "id": "madeline-hellmann-heilpraktikerin-fur-psychotherapie",
   "slug": "madeline-hellmann-heilpraktikerin-fur-psychotherapie",
   "name": "Madeline Hellmann | Heilpraktikerin für Psychotherapie",
-  "description": "Madeline Hellmann | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Madeline Hellmann ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet Unterstützung in den Bereichen Narzissmus, ungesunde Beziehungen und traumasensible Begleitung an. Ihr therapeutischer Ansatz basiert auf Gesprächspsychotherapie nach Carl Rogers sowie tiefenpsychologisch fundierten Methoden, um Klienten bei der Aufarbeitung von Beziehungsdynamiken zu helfen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -28,7 +28,82 @@
   "website": "https://www.madeline-hellmann.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/hellmann-madeline?utm_source=google-maps&utm_campaign=google-maps",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Methoden im Überblick"
+    },
+    {
+      "id": "offer-2",
+      "name": "Gesprächspsychotherapie nach Carl Rogers"
+    },
+    {
+      "id": "offer-3",
+      "name": "Psychoedukation"
+    },
+    {
+      "id": "offer-4",
+      "name": "Methoden der tiefenpsychologisch fundierten Psychotherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Traumasensibles Begleiten"
+    },
+    {
+      "id": "offer-6",
+      "name": "Gemeinsam schaffen wir einen Ort der Sicherheit"
+    },
+    {
+      "id": "offer-7",
+      "name": "Narzissmus"
+    },
+    {
+      "id": "offer-8",
+      "name": "Narzissmus im Umfeld"
+    },
+    {
+      "id": "offer-9",
+      "name": "Mein Behandlungs­ansatz"
+    },
+    {
+      "id": "offer-10",
+      "name": "Vereinbarung eines Kennen­lern­gesprächs"
+    },
+    {
+      "id": "offer-11",
+      "name": "Klienten­stimmen (weitere Rezensionen findest du hier)"
+    }
+  ],
+  "images": [
+    "https://madeline-hellmann.de/wp-content/uploads/2023/08/bg-narzissmus.jpg",
+    "https://madeline-hellmann.de/wp-content/uploads/2023/08/trenner-3.png",
+    "https://madeline-hellmann.de/wp-content/uploads/2024/07/hellmann-2-fixed.png",
+    "https://madeline-hellmann.de/wp-content/uploads/2023/08/trenner-2.png",
+    "https://madeline-hellmann.de/wp-content/uploads/2023/08/002A7356-2-04.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet Madeline Hellmann an?",
+      "answer": "Madeline Hellmann bietet verschiedene Therapieansätze an, darunter Gesprächspsychotherapie nach Carl Rogers, Psychoedukation, Methoden der tiefenpsychologisch fundierten Psychotherapie und traumasensibles Begleiten."
+    },
+    {
+      "question": "In welchen Bereichen kann ich Unterstützung von Madeline Hellmann erwarten?",
+      "answer": "Madeline Hellmann bietet Unterstützung in den Bereichen Narzissmus, ungesunde Beziehungen, toxische Beziehungen, emotionale Abhängigkeit sowie Trennung und Scheidung an."
+    },
+    {
+      "question": "Wie kann ich ein Kennenlerngespräch vereinbaren?",
+      "answer": "Ein Kennenlerngespräch kann online per Videocall oder vor Ort in der Praxis stattfinden. Du kannst einen Termin über die Buchungsseite auf ihrer Website vereinbaren."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Madeline Hellmann?",
+      "answer": "Die Praxis von Madeline Hellmann befindet sich in Berlin, auf dem Klausenerplatz 19, 14059 Berlin."
+    },
+    {
+      "question": "Wie kann ich Madeline Hellmann kontaktieren?",
+      "answer": "Du kannst Madeline Hellmann telefonisch unter 017616284564 oder per E-Mail an kontakt@madeline-hellmann.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoQllFnhRqEcRCv-q_7dqSo8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 38
 }

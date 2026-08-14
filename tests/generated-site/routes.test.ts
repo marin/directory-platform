@@ -52,6 +52,20 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="last-updated"');
   });
 
+  it("renders Google rating on practitioner pages when data exists", () => {
+    const entryWithRating = dataset.entries.find(
+      (entry) => entry.googleMapsRating && entry.googleMapsRatingsCount,
+    );
+    if (!entryWithRating) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${entryWithRating.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="entry-google-rating-section"');
+    expect(html).toContain('data-testid="google-maps-rating"');
+    expect(html).toContain('data-testid="nap-google-rating"');
+  });
+
   it("renders all category tags for multi-category entries", () => {
     const multiCategoryEntry = dataset.entries.find((entry) => entry.categories.length >= 2);
     if (!multiCategoryEntry) return;

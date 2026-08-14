@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-besler",
   "slug": "naturheilpraxis-besler",
   "name": "Naturheilpraxis Besler",
-  "description": "Naturheilpraxis Besler ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Besler in Berlin-Kreuzberg bietet eine ganzheitliche Herangehensweise zur Förderung des Wohlbefindens und der Lebensqualität. Unter der Leitung von Heilpraktiker Ufuk Besler stehen alternative Heilmethoden im Fokus, die individuell auf die Bedürfnisse der Patienten abgestimmt sind. Zu den angebotenen Dienstleistungen zählen unter anderem Bicom-Bioresonanz, Schröpfen (Hacamat) und ästhetische Medizin. Die Praxis legt großen Wert auf persönliche Beratung und eine verantwortungsbewusste Behandlung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,50 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Das erwartet dich"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ästhetische Medizin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Das sagen meine Kunden über die Behandlung"
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://hacamatberlin.de/wp-content/uploads/2024/07/5-Sterne-Google.webp",
+    "https://berlin-hacamat.de/wp-content/uploads/2024/07/Paxis-Ufuk-Besler-Naturheilpraxis.webp",
+    "https://berlin-hacamat.de/wp-content/uploads/2024/07/The-Besler-Heilpraxis1.webp",
+    "https://berlin-hacamat.de/wp-content/uploads/2024/07/The-Besler-Heilpraxis9.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Besler an?",
+      "answer": "Die Naturheilpraxis Besler bietet verschiedene Dienstleistungen an, darunter Bicom-Bioresonanz, Frequenztherapie, Vitamininfusionen, Schröpfen (Hacamat), Blutegeltherapie, Rückenkonzepte und Podo-orthesiologie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Besler buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Besler online über den folgenden Link buchen: Termin buchen."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Besler?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis Besler sind wie folgt: Montag bis Mittwoch und Freitag von 09:00 bis 17:00 Uhr, Donnerstag von 11:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Besler?",
+      "answer": "Die Naturheilpraxis Besler befindet sich im Ärztehaus in Berlin, Kreuzberg, mit der Postleitzahl 10999."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Besler kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Besler telefonisch unter 017632256984 oder per E-Mail an heilpraxis.besler@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_Hn7eVPqEcRY8dwx6tjXkQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 53
 }

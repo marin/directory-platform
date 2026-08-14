@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-heike-schmidt",
   "slug": "naturheilpraxis-heike-schmidt",
   "name": "Naturheilpraxis Heike Schmidt",
-  "description": "Naturheilpraxis Heike Schmidt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Heike Schmidt befindet sich im Hotel Heilbrunnen im schönen Erzgebirge. Hier finden sie verschiedenste therapeutische Themen und ein vielfältiges Angebot an Veranstaltungen und Kursen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03055632598",
   "website": "https://www.hp-heike-schmidt.de/",
+  "bookingUrl": "https://www.hp-heike-schmidt.de/kontakt",
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +52,43 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ernährungstherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Blutegeltherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Aufstellerkreis"
+    },
+    {
+      "id": "offer-6",
+      "name": "Qigong"
+    },
+    {
+      "id": "offer-7",
+      "name": "Gesundheitssport"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/744cbb31ba8e4c5081836ac5f9109a40/dms3rep/multi/opt/Heilbrunnen1-1920w.png?Expires=1788356981&Signature=NacPxVBAXvugvDjJ9JhEg8hLe13iKB2A4dzJrWqf~mEJ5Y0W0srIun2Cw~dnSn7mjKdbwByxw8KEarTKvphn6kVlHLCgv3uRv9gfd0Y5rx8sdcT6qs1U56Wo8Xt9H~LU8Bv-PjPJacQpTkOzOFTytlMQ6yVUjJtreu5CCt9Rmnm0zJmJnQovTF7Z8Qpo83ZC2Zx7DPcSWd-fDYkQIuCXI~r~8GsG5T0oqNN6dp1eIGSJtN9gfGl~NyFXQT8pDcyCXvQ9H9A6qtcAtvKjj97OJMTVZ-IXJpklqVLADdQHUcmtU7I3WHwcGqaSDX6x-9PWlxh9pBCzbPaH1zdpBqtLeA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/744cbb31ba8e4c5081836ac5f9109a40/dms3rep/multi/opt/Heilbrunnen3-1920w.png?Expires=1788356981&Signature=cbfoDVDQTbHjmNZ4ZCWYSNEyxFvctWPqxL4cCj-oAtS6E66evgv587ne6Fy~yVqaVkr1nCa4VZyZWoO-gMrlq~5nOA0hOgaPeFXdutPg-R1WbmZE~9xZBJDAsP5AKYiRDlA66RMn0VNJjvCViaGGXw1HQ4xlkM20DNS2WpFMf07tRzuPnoaQaRX8VmiTqrgrEVCVPIb7cJSCrZqbDtUJUJDBIheEfpmLF4Yf2CJga1ac3HgjvK3FeDPZCd6eLo92arnR1BdZkVw12ZM5DR7UxIxbLHwWTPlr3k-B129ftho-H3CsfOZPDUI3Ye9FZ7emsia4eCb2tHINFx-n7n~irg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/744cbb31ba8e4c5081836ac5f9109a40/dms3rep/multi/opt/Heilbrunnen2-1920w.png?Expires=1788356981&Signature=jrWhc2c6mKsMsrS5ON5B~3Cqfhc6P0dryXUt6d~MfjeQfChn2XfVOHvDS8zYB8nWBqNT0tA~hM53kw75k3kSCFWpBfeEvaJPaJobtoShCPB-TVnbSr5knLac-fvE9JK~UedgDR7DlglPTcKMQiye4mA5S5wEbp9WHSRA7wfjp-2CMp-f39F8UxI2dmdxZ6o~~ruKYuFR7N6NzxxwT8MutOwYJGPz7c2zNCZRH78-vb5Ez1dOGpuzhWznx-QHZgIq318-Xje7MBFUpGrPozKWFMLfnfzaNxIiz4OsAB5l-l7Gzooaj4A85TVA5e2ppY3aKBt-K9~g-tu5DvT-Wxx7qQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/744cbb31ba8e4c5081836ac5f9109a40/dms3rep/multi/opt/Heilbrunnen4-1920w.png?Expires=1788356981&Signature=HHJGkUvUpaGqsvI~OIghxaGERNjqV53tyUEc~bYWvB0BCKxcY8Q~64EAWJi4l0-SYvGFmNUZq2RXW-Tdi1od52WAzkjg4Iy3XvBH8s9zZhLTFFMNZ0hmWdD06-LmrZwd0R98m8pWs-7wLi6cfppKPBj-rhalUXf4nAutCrO2ov2OvGWVadRL3Xhp-zCQ2UK6ld7HmFN9W36jae8dHo4MahpphqgUKa8TGFF9wOvoqMYWmh1o2uhWmidHlo4FwgzOJZRm~jV7nYjNfvonz7b-6m5eMslHfrzM9QM~GmmnWzuf2g-rOsRcMEF8BVseC2ZlD-cRXl0I3V6JwhmJL66eyg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/md/and1/dms3rep/multi/opt/117301-1920w.jpeg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0dqkIItHqEcRdAlCLW52fhI"
 }

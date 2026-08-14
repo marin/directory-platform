@@ -2,8 +2,8 @@
   "id": "hrk-heilpraktiker-rene-kohrt",
   "slug": "hrk-heilpraktiker-rene-kohrt",
   "name": "HRK Heilpraktiker René Kohrt",
-  "description": "HRK Heilpraktiker René Kohrt ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "HRK Heilpraktiker René Kohrt in Berlin-Neukölln ist spezialisiert auf die Diagnostik und Therapie von Allergien sowie Nahrungsmittelunverträglichkeiten. Mit über 25 Jahren Erfahrung bietet die Praxis individuelle Behandlungsansätze für Patienten mit Heuschnupfen, Hautreaktionen und Atembeschwerden. Ziel ist es, die Ursachen der Beschwerden präzise zu identifizieren und gezielt zu behandeln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,54 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Details anzeigenDetails ausblenden"
+    },
+    {
+      "id": "offer-2",
+      "name": "Notwendig"
+    },
+    {
+      "id": "offer-3",
+      "name": "Komfort"
+    },
+    {
+      "id": "offer-4",
+      "name": "Statistik"
+    }
+  ],
+  "images": [
+    "https://daten.verwaltungsportal.de/dateien//mypage/3/4/9/3/7/6/9/20230624_docsofberlin_Rene_6100_sw.webp?v=1762499434",
+    "https://daten.verwaltungsportal.de/dateien//mypage/3/4/9/3/7/7/0/Rathaus_Neukoelln.webp?v=1762499434",
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/favorite.gif",
+    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/sendlink.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktiker René Kohrt an?",
+      "answer": "Heilpraktiker René Kohrt ist spezialisiert auf die Diagnostik und Therapie von Allergien, Nahrungsmittelunverträglichkeiten und Erkrankungen des Immunsystems."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei René Kohrt buchen?",
+      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin Online buchen."
+    },
+    {
+      "question": "Wann hat die Praxis von René Kohrt geöffnet?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Mittwoch und Freitag von 09:00 bis 19:00 Uhr, sowie Donnerstag von 09:00 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von René Kohrt?",
+      "answer": "Die Praxis befindet sich in Berlin, Britzer Damm 65, 12347 Berlin."
+    },
+    {
+      "question": "Wie kann ich René Kohrt telefonisch erreichen?",
+      "answer": "Sie können René Kohrt unter der Telefonnummer 0174 3889141 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVoJEa9PqEcRYJvJy0KBb_c",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 7
 }

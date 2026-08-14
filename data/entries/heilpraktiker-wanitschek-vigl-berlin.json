@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-wanitschek-vigl-berlin",
   "name": "Heilpraktiker Wanitschek & Vigl Berlin",
   "description": "Heilpraktiker Wanitschek & Vigl Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -51,7 +51,27 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "60 Minuten",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 95,
+      "priceLabel": "95€"
+    },
+    {
+      "id": "offer-2",
+      "name": "30 Minuten",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 50,
+      "priceLabel": "50€"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxXWe8idQqEcRvZDwyKBw3dk",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 37
 }

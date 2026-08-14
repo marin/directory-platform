@@ -2,8 +2,8 @@
   "id": "alicia-gerike",
   "slug": "alicia-gerike",
   "name": "Alicia Gerike",
-  "description": "Alicia Gerike ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Alicia Gerike ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Homöopathie und Naturheilkunde spezialisiert hat. In ihrer Praxis in Neukölln bietet sie umfassende Unterstützung für Erwachsene, Babys, Kinder und Familien durch Familienaufstellungen und homöopathische Behandlungen an. Ihre Sitzungen können sowohl persönlich als auch online durchgeführt werden, wobei sie ihre Dienstleistungen in Deutsch, Spanisch und Englisch anbietet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   "phone": "017631314012",
   "email": "info@alicia-gerike.de",
   "website": "http://www.alicia-gerike.de/",
+  "bookingUrl": "https://alicia-gerike.de/kontakt-praxis/%20%22Termin%20vereinbaren",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,36 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ich unterstütze Sie auf folgende Weise ..."
+    }
+  ],
+  "images": [
+    "https://alicia-gerike.de/wp-content/uploads/2021/02/Alicia_Gerike_in_Berlin-1-600x513-1-450x450.jpg",
+    "https://alicia-gerike.de/wp-content/uploads/2021/01/alicia-gerike-praxis-impulse-berlin.jpg",
+    "https://alicia-gerike.de/wp-content/uploads/2021/01/alicia_gerike_therpeium-berlin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Alicia Gerike an?",
+      "answer": "Alicia Gerike bietet Behandlungen in den Bereichen Familienaufstellung und Homöopathie an. Sie unterstützt Erwachsene, Babys, Kinder und ganze Familien."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Alicia Gerike?",
+      "answer": "Die Praxis von Alicia Gerike befindet sich in der Weichselstraße 53, 12045 Berlin, Neukölln."
+    },
+    {
+      "question": "An welchen Tagen hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Bietet Alicia Gerike auch Online-Sitzungen an?",
+      "answer": "Ja, Alicia Gerike bietet ihre homöopathischen und familienaufstellerischen Sitzungen sowohl persönlich in der Praxis als auch online über Videosprechstunden an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJXGyGbBPqEcRsmvRXlDXPjc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23
 }

@@ -2,8 +2,8 @@
   "id": "kathleen-hilsing-heilpraktiker",
   "slug": "kathleen-hilsing-heilpraktiker",
   "name": "Kathleen Hilsing, Heilpraktiker",
-  "description": "Kathleen Hilsing, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kathleen Hilsing ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf Akupunktur und traditioneller chinesischer Medizin (TCM). Ihre Praxis befindet sich in der Mommsenstraße 3 in Berlin-Charlottenburg. Auf ihrer Website bietet sie Einblicke in ihre Arbeit und die verschiedenen Behandlungsmethoden an, die sie anwendet, um das Wohlbefinden ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,8 +25,32 @@
   },
   "phone": "01776433824",
   "website": "http://www.akupunkturpraxis-hilsing.de/",
+  "bookingUrl": "http://www.akupunkturpraxis-hilsing.de/kontakt-termine/",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.akupunkturpraxis-hilsing.de/files/6_khilsing.jpg",
+    "http://www.akupunkturpraxis-hilsing.de/files/121212_neulogo_web_hilsing.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Kathleen Hilsing?",
+      "answer": "Die Praxis von Kathleen Hilsing befindet sich in der Mommsenstraße 3, 10629 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Kathleen Hilsing an?",
+      "answer": "Kathleen Hilsing bietet Behandlungen in den Bereichen Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Kathleen Hilsing buchen?",
+      "answer": "Sie können einen Termin über die Website von Kathleen Hilsing buchen, indem Sie den folgenden Link nutzen: http://www.akupunkturpraxis-hilsing.de/kontakt-termine/."
+    },
+    {
+      "question": "Wie kann ich Kathleen Hilsing telefonisch erreichen?",
+      "answer": "Sie können Kathleen Hilsing unter der Telefonnummer 01776433824 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOZRsreRQqEcRNOS9LOj6Atc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

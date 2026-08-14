@@ -2,8 +2,8 @@
   "id": "marlies-zymara-heilpraktikerin",
   "slug": "marlies-zymara-heilpraktikerin",
   "name": "Marlies Zymara - Heilpraktikerin",
-  "description": "Marlies Zymara - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Marlies Zymara ist eine erfahrene Heilpraktikerin in Berlin-Schöneberg, die sich auf ganzheitliche Heilmethoden spezialisiert hat. In ihrer Praxis in der Hauptstraße 58 bietet sie eine Vielzahl von Therapien an, die Körper, Geist und Seele ansprechen. Mit über 20 Jahren Erfahrung unterstützt sie ihre Patienten durch individuelle Beratung und verschiedene Heilverfahren, darunter Familienaufstellungen und systemorientierte Psychotherapie.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,42 @@
   "email": "marlies@heilpraktikerin-zymara.de",
   "website": "http://www.heilpraktikerin-zymara.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Heilpraktikerin in Berlin Schöneberg"
+    },
+    {
+      "id": "offer-2",
+      "name": "Heilung unter einem Dach"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-zymara.de/wp-content/themes/NHP_final/kontakt_button.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Marlies Zymara?",
+      "answer": "Die Praxis von Marlies Zymara befindet sich in der Hauptstraße 58, Berlin-Schöneberg, 10827 Berlin."
+    },
+    {
+      "question": "Wie kann ich Marlies Zymara kontaktieren?",
+      "answer": "Sie können Marlies Zymara telefonisch unter 03070074800 oder per E-Mail an marlies@heilpraktikerin-zymara.de kontaktieren."
+    },
+    {
+      "question": "Welche Heilmethoden bietet Marlies Zymara an?",
+      "answer": "Marlies Zymara bietet ganzheitliche Heilung an, einschließlich Familienaufstellungen und systemorientierter Psychotherapie."
+    },
+    {
+      "question": "Bietet Marlies Zymara auch telefonische Beratungen an?",
+      "answer": "Ja, Marlies Zymara bietet flexible telefonische Beratungen an, zusätzlich zu den persönlichen Terminen in der Praxis."
+    },
+    {
+      "question": "Wie lange praktiziert Marlies Zymara bereits?",
+      "answer": "Marlies Zymara praktiziert seit mehr als 20 Jahren in der Naturheilkunde."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTapEhnVQqEcREO77K7fTBlw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

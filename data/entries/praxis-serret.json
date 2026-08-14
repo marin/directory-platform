@@ -2,8 +2,8 @@
   "id": "praxis-serret",
   "slug": "praxis-serret",
   "name": "PRAXIS SERRET",
-  "description": "PRAXIS SERRET ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die PRAXIS SERRET in Berlin-Lichtenberg wird von den Heilpraktikerinnen Melanie und Sina Serret geleitet. Das Angebot umfasst Osteopathie, Homöopathie und Naturheilkunde, wobei individuelle Therapiekonzepte für die Patienten im Vordergrund stehen. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Gesundheit und bietet verschiedene therapeutische Ansätze an, um die Selbstheilungskräfte zu aktivieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,6 +54,33 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=338x10000:format=jpg/path/s5092ca50e3aa9953/image/i4fbbc4f359234d9e/version/1763640640/melanie-serret-heilpraktikerin-hom%C3%B6opathie-gespr%C3%A4chstherapie-leibtherapie-aufstellungsarbeit.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=338x10000:format=jpg/path/s5092ca50e3aa9953/image/i4faf5a197ebdde23/version/1763640638/sina-serret-heilpraktikerin-osteopathin-kinderosteopathie.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die PRAXIS SERRET an?",
+      "answer": "Die PRAXIS SERRET bietet Osteopathie, Homöopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die PRAXIS SERRET?",
+      "answer": "Die PRAXIS SERRET befindet sich in der Pfarrstraße 104, 10317 Berlin, im Stadtteil Lichtenberg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der PRAXIS SERRET?",
+      "answer": "Die Öffnungszeiten der PRAXIS SERRET sind von Montag bis Freitag, jeweils von 08:00 bis 17:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich die PRAXIS SERRET kontaktieren?",
+      "answer": "Sie können die PRAXIS SERRET telefonisch unter 017661853140 erreichen oder die Website https://www.praxis-serret.de/ besuchen."
+    },
+    {
+      "question": "Wer sind die Heilpraktikerinnen in der PRAXIS SERRET?",
+      "answer": "Die Heilpraktikerinnen in der PRAXIS SERRET sind Melanie und Sina Serret."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJk-FzP2BOqEcRdpV3DXkA8eU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-health-witez",
   "slug": "naturheilpraxis-health-witez",
   "name": "Naturheilpraxis - health.witez",
-  "description": "Naturheilpraxis - health.witez ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis health.witez in Berlin bietet umfassende naturheilkundliche Behandlungen mit einem Schwerpunkt auf der Angewandten Neurobiologie nach Dr. Klinghardt. Durch kinesiologische Muskeltests werden Krankheitsursachen auf körperlicher, energetischer und mentaler Ebene identifiziert. Die Praxis legt großen Wert auf eine ausführliche Anamnese, Diagnostik und individuelle Therapieansätze, um die Regulationsfähigkeit von Körper und Geist wiederherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,102 @@
   "phone": "03028502911",
   "website": "https://health.witez.net/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Diagnose"
+    },
+    {
+      "id": "offer-2",
+      "name": "Anamnese"
+    },
+    {
+      "id": "offer-3",
+      "name": "Befunde"
+    },
+    {
+      "id": "offer-4",
+      "name": "körperliche Untersuchung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Das Fünf-Ebenen-Modell"
+    },
+    {
+      "id": "offer-6",
+      "name": "Therapie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Störfeldbehandlung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Ernährung"
+    },
+    {
+      "id": "offer-9",
+      "name": "MFT - Mentalfeldtechniken"
+    },
+    {
+      "id": "offer-10",
+      "name": "Mittel"
+    },
+    {
+      "id": "offer-11",
+      "name": "Mentalfeldtechniken"
+    },
+    {
+      "id": "offer-12",
+      "name": "Psychokinesiologie"
+    },
+    {
+      "id": "offer-13",
+      "name": "Ort der Praxis"
+    },
+    {
+      "id": "offer-14",
+      "name": "öffentliche Verkehrsmittel"
+    },
+    {
+      "id": "offer-15",
+      "name": "Funktional"
+    },
+    {
+      "id": "offer-16",
+      "name": "Präferenzen"
+    }
+  ],
+  "images": [
+    "https://health.witez.net/media/yootheme/cache/51/andreas-liege@2x-5164d0aa.jpg?src=images/andreas-liege@2x.jpg&thumbnail=312,400,,left,center&hash=5ef3b56e",
+    "https://health.witez.net/images/chlorella.jpeg",
+    "https://health.witez.net/images/Die%205%20Ebenen%20Pyramide.jpg",
+    "https://health.witez.net/images/MFT-Klopfpunkt.jpg",
+    "https://health.witez.net/images/brille@2x.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis health.witez?",
+      "answer": "Die Naturheilpraxis health.witez befindet sich in Berlin, Südwestkorso 60, 12161 Berlin."
+    },
+    {
+      "question": "Welche Therapieansätze werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden verschiedene Therapieansätze angeboten, darunter Störfeldbehandlung, Ernährung, Mentalfeldtechniken (MFT) und Psychokinesiologie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis health.witez telefonisch unter 03028502911 vereinbaren."
+    },
+    {
+      "question": "Welche diagnostischen Verfahren werden in der Praxis eingesetzt?",
+      "answer": "In der Praxis werden verschiedene diagnostische Verfahren eingesetzt, darunter Anamnese, Befunde, körperliche Untersuchung und der Autonome Response Test."
+    },
+    {
+      "question": "Gibt es Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln?",
+      "answer": "Ja, die Praxis bietet Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln, die auf der Webseite verfügbar sind."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRZtEnaCfIlOE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

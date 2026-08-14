@@ -2,8 +2,8 @@
   "id": "dipl-biol-sabine-kunkel-heilpraktikerin",
   "slug": "dipl-biol-sabine-kunkel-heilpraktikerin",
   "name": "Dipl.-Biol. Sabine Kunkel Heilpraktikerin",
-  "description": "Dipl.-Biol. Sabine Kunkel Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dipl.-Biol. Sabine Kunkel ist eine erfahrene Heilpraktikerin in Berlin-Karow, die sich der Naturheilkunde widmet. In ihrer Praxis bietet sie eine Vielzahl von Behandlungsmethoden an, darunter Fußreflexzonenbehandlungen, Ohrakupunktur, Phytotherapie und Aromatherapie. Ihr Ansatz zielt darauf ab, die Gesundheit ihrer Patienten zu fördern und zu erhalten, wobei sie individuelle Bedürfnisse in den Mittelpunkt stellt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -27,7 +27,166 @@
   "website": "https://sabine-kunkel.de/",
   "bookingUrl": "https://sabine-kunkel.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schwerpunkte meiner Arbeit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kommen Sie vorbei!"
+    },
+    {
+      "id": "offer-3",
+      "name": "Rufen Sie mich an!"
+    },
+    {
+      "id": "offer-4",
+      "name": "Senden Sie mir eine Mail!"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ein kurzer Ausflug in unsere Natur und unseren Körper"
+    },
+    {
+      "id": "offer-6",
+      "name": "Erfahren Sie mehr zum Thema Naturheilkunde"
+    },
+    {
+      "id": "offer-7",
+      "name": "HAUT"
+    },
+    {
+      "id": "offer-8",
+      "name": "ATEMWEGE"
+    },
+    {
+      "id": "offer-9",
+      "name": "ALLERGIEN"
+    },
+    {
+      "id": "offer-10",
+      "name": "SCHMERZ"
+    },
+    {
+      "id": "offer-11",
+      "name": "PMS"
+    },
+    {
+      "id": "offer-12",
+      "name": "Behandlungskosten Heilpraktiker"
+    },
+    {
+      "id": "offer-13",
+      "name": "Termin Erstberatung"
+    },
+    {
+      "id": "offer-14",
+      "name": "Behandlungsmethoden bzw. Therapieverfahren"
+    },
+    {
+      "id": "offer-15",
+      "name": "Fußreflexzonenbehandlung"
+    },
+    {
+      "id": "offer-16",
+      "name": "Ohrakupunktur"
+    },
+    {
+      "id": "offer-17",
+      "name": "Phytotherapie"
+    },
+    {
+      "id": "offer-18",
+      "name": "Aromatherapie"
+    },
+    {
+      "id": "offer-19",
+      "name": "Ausleitverfahren"
+    },
+    {
+      "id": "offer-20",
+      "name": "Irisanalyse"
+    },
+    {
+      "id": "offer-21",
+      "name": "So erreichen Sie mich!"
+    },
+    {
+      "id": "offer-22",
+      "name": "Naturheilpraxis in Berlin-Karow"
+    },
+    {
+      "id": "offer-23",
+      "name": "Heilpraktikerin Sabine Kunkel"
+    },
+    {
+      "id": "offer-24",
+      "name": "Haut"
+    },
+    {
+      "id": "offer-25",
+      "name": "Atemwege"
+    },
+    {
+      "id": "offer-26",
+      "name": "Allergien"
+    },
+    {
+      "id": "offer-27",
+      "name": "Schmerz"
+    },
+    {
+      "id": "offer-28",
+      "name": "PMS"
+    },
+    {
+      "id": "offer-29",
+      "name": "Neues aus meinem Blog"
+    },
+    {
+      "id": "offer-30",
+      "name": "Weihnachtsgrüße 2025"
+    },
+    {
+      "id": "offer-31",
+      "name": "Neuanfang 2025"
+    },
+    {
+      "id": "offer-32",
+      "name": "Weihnachtsgrüße 2024"
+    }
+  ],
+  "images": [
+    "https://sabine-kunkel.de/wp-content/uploads/2018/03/sabine-kunkel.jpg",
+    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_151707175_M.jpg",
+    "https://sabine-kunkel.de/wp-content/uploads/2018/03/more.png",
+    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_56473140_M.jpg",
+    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_118800338_XS-e1522071817880.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Sabine Kunkel?",
+      "answer": "Die Naturheilpraxis von Sabine Kunkel befindet sich in der Bahnhofstraße 61, Berlin-Karow, 13125 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Sabine Kunkel buchen?",
+      "answer": "Sie können einen Termin bei Sabine Kunkel über die Webseite sabine-kunkel.de/kontakt buchen oder sie direkt unter der Telefonnummer 030 28663938 kontaktieren."
+    },
+    {
+      "question": "Welche Behandlungsmethoden bietet Sabine Kunkel an?",
+      "answer": "Sabine Kunkel bietet verschiedene Behandlungsmethoden an, darunter Fußreflexzonenbehandlung, Ohrakupunktur, Phytotherapie, Aromatherapie und Ausleitverfahren."
+    },
+    {
+      "question": "Wie kann ich Sabine Kunkel kontaktieren?",
+      "answer": "Sie können Sabine Kunkel per E-Mail unter kontakt@sabine-kunkel.de oder telefonisch unter 030 28663938 kontaktieren."
+    },
+    {
+      "question": "Für welche Altersgruppen bietet Sabine Kunkel ihre heilkundliche Unterstützung an?",
+      "answer": "Sabine Kunkel bietet ihre heilkundliche Unterstützung für alle Altersgruppen an."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM_Wz24lNqEcR3lMPzE7nc5Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

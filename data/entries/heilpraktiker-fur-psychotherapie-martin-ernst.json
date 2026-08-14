@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-psychotherapie-martin-ernst",
   "name": "Heilpraktiker für Psychotherapie - Martin Ernst",
   "description": "Heilpraktiker für Psychotherapie - Martin Ernst ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -32,7 +32,13 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Der Wartungsmodus ist eingeschaltet"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVdL8g6xTqEcRfNVb22U_HMk"
 }

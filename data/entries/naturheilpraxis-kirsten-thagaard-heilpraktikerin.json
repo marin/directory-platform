@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kirsten-thagaard-heilpraktikerin",
   "slug": "naturheilpraxis-kirsten-thagaard-heilpraktikerin",
   "name": "Naturheilpraxis Kirsten Thagaard, Heilpraktikerin",
-  "description": "Naturheilpraxis Kirsten Thagaard, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Kirsten Thagaard befindet sich in Berlin Zehlendorf und bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Zu den Leistungen zählen unter anderem ganzheitliche Laboranalysen, Sauerstofftherapie, Vitamin-Infusionen, Colon-Hydro Therapie, Stoffwechseltherapie und Bioresonanz. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Gesundheitsförderung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,58 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Sauerstofftherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Vitamin-Infusionen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Colon-Hydro Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Stoffwechseltherapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Bioresonanz"
+    }
+  ],
+  "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=284x10000:format=jpg/path/s5c5b0a3acee4797a/image/i19b58422733fe7ed/version/1661842742/ganzheitliche-laboranalysen-berlin-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=284x10000:format=jpg/path/s5c5b0a3acee4797a/image/i97e9f9c0c25aa0f9/version/1661845858/sauerstofftherapie-oxyvenierung-berlin-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=284x10000:format=jpg/path/s5c5b0a3acee4797a/image/ide39cb2db9d51660/version/1661842760/vitamin-infusionen-berlin-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=284x10000:format=jpg/path/s5c5b0a3acee4797a/image/id4ab20a6517987d0/version/1661842780/colon-hydro-therapie-berlin-zehlendorf.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=284x10000:format=jpg/path/s5c5b0a3acee4797a/image/ie1d15bbc0c398961/version/1661842800/stoffwechseltherapie-berlin-zehlendorf.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet die Naturheilpraxis Kirsten Thagaard an?",
+      "answer": "Die Naturheilpraxis Kirsten Thagaard bietet unter anderem ganzheitliche Laboranalysen, Sauerstofftherapie, Vitamin-Infusionen, Colon-Hydro Therapie, Stoffwechseltherapie und Bioresonanz an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis sind wie folgt: Montag bis Dienstag von 09:00 bis 17:00 Uhr, Mittwoch von 09:00 bis 19:00 Uhr, Donnerstag von 09:00 bis 17:00 Uhr, Freitag und Samstag von 09:00 bis 14:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Kirsten Thagaard?",
+      "answer": "Die Naturheilpraxis Kirsten Thagaard befindet sich in der Fischerhüttenstraße 83, 14163 Berlin, im Stadtteil Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Einen Termin können Sie direkt über die Website der Naturheilpraxis buchen: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Kirsten Thagaard telefonisch unter 015104011620 oder per E-Mail an info@kirsten-thagaard.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrbZk8cpbqEcR1wMZLu0QS_4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

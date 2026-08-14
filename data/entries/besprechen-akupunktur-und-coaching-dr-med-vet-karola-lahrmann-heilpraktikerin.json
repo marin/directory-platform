@@ -2,8 +2,8 @@
   "id": "besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin",
   "slug": "besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin",
   "name": "Besprechen, Akupunktur und Coaching Dr. med. vet. Karola Lahrmann, Heilpraktikerin",
-  "description": "Besprechen, Akupunktur und Coaching Dr. med. vet. Karola Lahrmann, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dr. med. vet. Karola Lahrmann ist Heilpraktikerin in Berlin und bietet in ihrer Praxis Behandlungen auf Basis traditioneller chinesischer Medizin an, darunter Akupunktur, Moxibustion, Schröpfen und Gua Sha. Neben der Schmerztherapie liegt ein weiterer Schwerpunkt auf Coaching, um Klienten bei der Bewältigung von Stress, Lebensproblemen und der persönlichen Weiterentwicklung zu unterstützen. Ihre Praxis befindet sich in der Knesebeckstraße 27, und sie betreut Patienten aus Berlin und Brandenburg.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -27,7 +27,54 @@
   "website": "https://www.akupunktur-und-coaching.de/",
   "bookingUrl": "https://www.besprechen-berlin.de/#Terminformular",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Behandlungen für Patienten aus Berlin und Brandenburg"
+    },
+    {
+      "id": "offer-2",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-3",
+      "name": "Haupt-Anwendungsverfahren der Chinesischen Medizin in meiner Praxis"
+    },
+    {
+      "id": "offer-4",
+      "name": "Links zu meinen einzelnen Themen-Seiten"
+    }
+  ],
+  "images": [
+    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/gesund-karola-lahrmann.jpg&nocache=1",
+    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/akupunktur-berlin-lahrmann.jpg&nocache=1",
+    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/termin-machen-dr-lahrmann.png&nocache=1",
+    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/schroepfen-berlin-lahrmann.jpg&nocache=1",
+    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/paar-mediation-berlin.jpg&nocache=1"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Dr. med. vet. Karola Lahrmann an?",
+      "answer": "Dr. med. vet. Karola Lahrmann bietet Behandlungen in den Bereichen Akupunktur, Besprechen, Coaching sowie verschiedene Verfahren der Chinesischen Medizin an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Dr. med. vet. Karola Lahrmann?",
+      "answer": "Die Praxis befindet sich in der Knesebeckstraße 27, 10623 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dr. med. vet. Karola Lahrmann buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite unter https://www.besprechen-berlin.de/#Terminformular vereinbaren."
+    },
+    {
+      "question": "Welche Lebensbereiche werden im Coaching von Dr. med. vet. Karola Lahrmann behandelt?",
+      "answer": "Im Coaching werden Themen wie Stressbewältigung, persönliche Weiterentwicklung, neue Lebensstrategien und Paar-Mediation behandelt."
+    },
+    {
+      "question": "Welche Methoden der Chinesischen Medizin werden in der Praxis angewendet?",
+      "answer": "In der Praxis werden Methoden wie Akupunktur, Moxibustion, Schröpfen und Gua Sha angewendet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4v2rfxQqEcR_Tg0u-k3VCs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

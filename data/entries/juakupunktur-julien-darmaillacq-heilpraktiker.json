@@ -3,7 +3,7 @@
   "slug": "juakupunktur-julien-darmaillacq-heilpraktiker",
   "name": "JUAKUPUNKTUR - Julien Darmaillacq, Heilpraktiker",
   "description": "JUAKUPUNKTUR - Julien Darmaillacq, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -37,6 +37,14 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://freight.cargo.site/w/1250/i/Z2547479319256705673386277640366/Final-1.png",
+    "https://freight.cargo.site/w/1250/i/Y2547479319238258929312568088750/Final-2.png",
+    "https://freight.cargo.site/w/1000/i/V3070324117086677676389992667310/screenshot-0432837188.jpg"
+  ],
+  "faq": [],
+  "bookingUrl": "https://juakupunktur.setmore.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtyNRmetPqEcR0l6_7v5BIRk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

@@ -2,8 +2,8 @@
   "id": "corinna-plass",
   "slug": "corinna-plass",
   "name": "Corinna Plaß",
-  "description": "Corinna Plaß ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Corinna Plaß ist Heilpraktikerin in Berlin-Rudow und bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Bioresonanz-Therapie, Faltenunterspritzung, klassische Kosmetik und Ayurveda-Massagen. Ihre Praxis hat sich auf ganzheitliche und ursachenorientierte Ansätze spezialisiert, um die Gesundheit und Vitalität ihrer Patienten zu fördern. Frau Plaß unterstützt ihre Klienten bei gesundheitlichen Beschwerden und bietet individuelle Behandlungspläne zur Verbesserung des Wohlbefindens an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,52 @@
   "phone": "03023475781",
   "website": "http://xn--gesund-vitalundschn-76b.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Bioresonanz-Therapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Faltenunterspritzung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ayurveda-Massagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "So finden Sie zu uns"
+    },
+    {
+      "id": "offer-5",
+      "name": "Die Bioresonanz-Therapie"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Corinna Plaß an?",
+      "answer": "Corinna Plaß bietet verschiedene Therapien an, darunter Bioresonanz-Therapie, Faltenunterspritzung, klassische Kosmetik und Ayurveda-Massagen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Corinna Plaß?",
+      "answer": "Die Praxis von Corinna Plaß befindet sich in der Waltersdorfer Ch 87, 12355 Berlin, im Stadtteil Berlin-Rudow."
+    },
+    {
+      "question": "Übernimmt die gesetzliche Krankenkasse die Kosten für die Behandlungen?",
+      "answer": "In der Regel übernehmen gesetzliche Krankenkassen keine Leistungen gemäß Heilpraktiker Gebührenverzeichnis."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Corinna Plaß vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter der Nummer 03023475781 vereinbaren."
+    },
+    {
+      "question": "Was ist das Ziel der Bioresonanz-Therapie?",
+      "answer": "Das Ziel der Bioresonanz-Therapie ist es, krankmachende Einflüsse auszuschalten und die eigenen Regulationsmechanismen zu stärken."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL172kGdGqEcRcfeLrGmCBEE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

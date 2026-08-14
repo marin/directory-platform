@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann",
   "slug": "naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann",
   "name": "Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur Petra Kneilmann",
-  "description": "Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur Petra Kneilmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur von Petra Kneilmann in Berlin Friedrichshain stehen ganzheitliche Therapieansätze im Mittelpunkt. Die Praxis bietet eine Vielzahl bewährter Methoden der Naturheilkunde, darunter Akupunktur, Kräuterheilkunde und Moxibustion, um die Selbstheilungskräfte des Körpers zu aktivieren und das Wohlbefinden zu fördern. Individuelle Behandlungspläne werden in einer ruhigen und vertrauensvollen Atmosphäre entwickelt, um den einzigartigen Bedürfnissen jedes Patienten gerecht zu werden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,6 +25,7 @@
   },
   "phone": "017665791942",
   "website": "http://www.tcm-akupunktur-berlin.de/",
+  "bookingUrl": "https://www.tcm-akupunktur-berlin.de/kontakt-termin/",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,46 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Sanfte und wirkungsvolle Naturheilkunde."
+    },
+    {
+      "id": "offer-2",
+      "name": "Individuelle Behandlung in ruhiger Atmosphäre."
+    },
+    {
+      "id": "offer-3",
+      "name": "Ihr Weg zu mehr Gesundheit und Balance."
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/46473486/8461bd28-909f-49b7-9c77-7be3b1315d54.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieverfahren werden in der Naturheilpraxis Petra Kneilmann angeboten?",
+      "answer": "In der Naturheilpraxis Petra Kneilmann werden verschiedene Therapieverfahren angeboten, darunter Traditionelle Chinesische Medizin, Akupunktur, Ohrakupunktur, Kräuterheilkunde, Moxibustion, Gua Sha, Schröpfen und Ernährungsberatung."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Petra Kneilmann?",
+      "answer": "Die Praxis von Petra Kneilmann befindet sich in der Kadiner Str. 23, 10243 Berlin, im Stadtteil Friedrichshain."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Webseite buchen, indem Sie den folgenden Link nutzen: https://www.tcm-akupunktur-berlin.de/kontakt-termin/."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Naturheilpraxis?",
+      "answer": "Die Naturheilpraxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Petra Kneilmann kontaktieren?",
+      "answer": "Sie können Petra Kneilmann telefonisch unter 017665791942 oder per E-Mail an pk.akupunktur@gmail.com kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn-4X9VFPqEcR4ZWcJSC0aJU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

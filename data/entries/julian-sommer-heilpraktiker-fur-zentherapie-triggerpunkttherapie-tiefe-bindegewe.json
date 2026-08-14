@@ -3,7 +3,7 @@
   "slug": "julian-sommer-heilpraktiker-fur-zentherapie-triggerpunkttherapie-tiefe-bindegewe",
   "name": "Julian Sommer - Heilpraktiker für Zentherapie®, Triggerpunkttherapie, Tiefe Bindegewebsarbeit",
   "description": "Julian Sommer - Heilpraktiker für Zentherapie®, Triggerpunkttherapie, Tiefe Bindegewebsarbeit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,6 +53,11 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://heilpraxis-sommer.de/app/uploads/2022/05/Zentherapie-Berlin-Kontakt-Heilpraxis-Julian-Sommer-Willkommen-1200-628.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9eMPdclPqEcRgvUeNqh5oJs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10
 }

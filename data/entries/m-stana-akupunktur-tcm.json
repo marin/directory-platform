@@ -2,8 +2,8 @@
   "id": "m-stana-akupunktur-tcm",
   "slug": "m-stana-akupunktur-tcm",
   "name": "M.Stana - Akupunktur & TCM",
-  "description": "M.Stana - Akupunktur & TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "M.Stana - Akupunktur & TCM ist eine Naturheilpraxis in Berlin-Steglitz, die sich auf Akupunktur und Traditionelle Chinesische Medizin (TCM) spezialisiert hat. Die Praxis bietet zudem medizinisches Qigong und Taiji an, um das körperliche und geistige Wohlbefinden zu fördern. Unter der Leitung von Heilpraktikerin Marzena Stana werden individuelle Behandlungen angeboten, die darauf abzielen, die eigenen Heilungskräfte des Körpers zu aktivieren und den harmonischen Qi-Fluss wiederherzustellen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -25,8 +25,64 @@
   },
   "phone": "017656010027",
   "website": "http://www.mstana-tcm.de/",
+  "bookingUrl": "https://www.mstana-tcm.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Naturheilpraxis M.Stana"
+    },
+    {
+      "id": "offer-2",
+      "name": "Praxis für Akupunktur & TCM"
+    },
+    {
+      "id": "offer-3",
+      "name": "Traditionelle Chinesische Medizin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Medizinisches Qigong und Taiji"
+    },
+    {
+      "id": "offer-5",
+      "name": "Praxis-Adresse - Berlin Steglitz"
+    },
+    {
+      "id": "offer-6",
+      "name": "Bildtitel"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/3307ae2f1637403c94c39bb056e1b2bb/import/clib/mstana-tcm_de/dms3rep/multi/opt/cache_49450125-930x523-1920w.JPG?Expires=1788616615&Signature=ov40CN1ukQ7Dxsfwvpko4sVfbcQKzFUP-OMICLUD3E6~SWm4lqBcgTGe5bEQQiWLGNdgPw8wlQ0vKE5ykSqSKa6H2qVI~5fA5wXz73-AroJiIhbN-MbvV-fxyj9Jcz0JPt-akuu4H8Sgi8K4KuKnt3z3yztK-wXEpzo8nTWNbgetr6d6j-r83gA6Y37HFXi30hUyR~gNMDGkCt3krBaIw3d8wa~J1NrUK0SaPIuEKJKeV-KdQxNXN6BsQ~55HOO3jVFJ5MBTtR6d13B3kEp0ivTjnhqhEMKxEK2versRQQ3cqBGx5g5ZvpzEuy39b8z7dQC-~w8TCyGungnlKJvf2Q__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/3307ae2f1637403c94c39bb056e1b2bb/dms3rep/multi/opt/13TaijiForm-Pic7-1920w.JPG?Expires=1788616615&Signature=Edv8gPauig8HIGvHvFP0887QXKE4A9WcTqhM~ValFcnXUh7X3aJLYqoV9ANU-mJIEFgvnXA8HeFL~5zWzTupDU1MU5C1v6hkW0O5tJk6cNiQiavGM4jOgaKZorQiTFazx5bLD7ui6OYiWWXTFp34VWMKpnE1s3cl7czogEeTVif1zH-YsguTQbRmGhP2YcwcSCtByvqSxL8wX7J4LA-f69uaqjmVAwsGB5~6ZbZeWlU07ehmBB~yDMGq~xyo4jVIf2E~k4TGpta7rb3mRWZzorj0Fe6XmdLwsqtjpnGPaWYxF1TJbWR3T50Twu099mJuL9wFLw0QcrqtwghDLgvFsQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/3307ae2f1637403c94c39bb056e1b2bb/dms3rep/multi/opt/DasLeDaoTempel-1920w.JPG?Expires=1788616615&Signature=ldm5QBX9Ij5blcSLmxwL0We6bnEdQhQH-b-fM4Di3shQ80UJx7vBkGpwobLIwNt2jwyRwSwFdr-hnvOxqrNzx47zs4Gq9TqS-vw3g~zlc3QLoBOyXTdXkVGzGY3G5AuLtvsWcymQYuwV~ASvkuD5fCT4tEp9P7lSArwePErNzCwEn-C-Speo~HnshVLrc3JvHNIdZUihFFNqRIUSbom2Jypg4YTstrtbu9lbIqxGMWv0qA7Yw-4u2CceytkdQjD~nNS52bQmEfMoHLmwPtjUWMZP1lirHo27NFs2G8xxXs3VKE8R2Uqq9CJKmK3ZDQ3fifgXYfAwJlMirkPQ5yNfCw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/3307ae2f1637403c94c39bb056e1b2bb/dms3rep/multi/opt/IMG_9437-1920w.JPG?Expires=1788616615&Signature=HXjGdXNRLOVMTP1dJ3U-RsIxgQ5I~SioLW8kUJMHpFL8uy76KgU8rsCNSTXH7svk~awnIAUaRG8Xjh1pkl0AR2xoIuuzJQjR7SHOh~h2TlBgFRynxxpkxSz89w6SZeKY9ZWjmyG-4CXvaaHYMHq8bC5KMkX6NvembdYYgyHC7gs59uJYnTz0y-Dqu1yM~5j9AtnT5XmRzUaexIJJrXV0DLcwR7oEOQdd3vMoBBS86wbACxxX6yjwLFNnsP-us3ahMCfbvlYeA5M8YmXG3jhHztgLVQAdwUq0XiPIgEc7nZpU0jh-u4T9jeoKiOhKMAWtVTFtQOPjGN5zlGQCSH6bCA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/3307ae2f1637403c94c39bb056e1b2bb/dms3rep/multi/opt/MundMasterDong-1920w.JPG?Expires=1788616615&Signature=qk7MyX1enwjdBmUS0cD6vvyX0VoYqot5iz9du2OCPhbxmLcTn1trsST668Ja59rVVPP4Uvz7wBZeskANy5~RUlDKOv5s2oAk9gtzdN30uVlEENM22ihZgzRQLUvYYfjnzjPsednZX5VrssJ3~vyaPR0d6CUl2TKQt8mA-ucN8Bc8NL3TJhayy74EQn3XtHlsXL~kTx7YWsfPE-gcZ82VG~pnV4owe~vQPESAfqVczLGyZxLlbWY9~vUlw6GVKPRz7koeQ15WVMXKCuwwQvvft--QAU0~XACX8UypBPdDExAuxqasVgPk8GXC-OiwcX0TF2kgKEMcBbVVKuQiOLs3wA__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von M.Stana - Akupunktur & TCM?",
+      "answer": "Die Praxis befindet sich in der Muthesiusstraße 14, 12163 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Welche Behandlungen bietet M.Stana an?",
+      "answer": "M.Stana bietet Behandlungen in den Bereichen Akupunktur, Traditionelle Chinesische Medizin (TCM), medizinisches Qigong und Taiji an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Website unter https://www.mstana-tcm.de/kontakt buchen."
+    },
+    {
+      "question": "Welche Kontaktmöglichkeiten gibt es für die Praxis?",
+      "answer": "Sie können die Praxis telefonisch unter 017656010027 erreichen oder die Website http://www.mstana-tcm.de/ besuchen."
+    },
+    {
+      "question": "Was ist das Ziel der Akupunktur in der Praxis von M.Stana?",
+      "answer": "Das Ziel der Akupunktur in der Praxis von M.Stana ist es, das Gesundheitspotenzial des Körpers zu entfalten und den harmonischen Qi-Fluss wiederherzustellen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ66ljH0dQqEcRr_6mO71uRgg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

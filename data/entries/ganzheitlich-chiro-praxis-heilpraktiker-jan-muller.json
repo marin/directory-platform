@@ -3,7 +3,7 @@
   "slug": "ganzheitlich-chiro-praxis-heilpraktiker-jan-muller",
   "name": "Ganzheitlich-Chiro-Praxis & Heilpraktiker Jan Müller",
   "description": "Ganzheitlich-Chiro-Praxis & Heilpraktiker Jan Müller ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -53,7 +53,71 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Was wir behandeln"
+    },
+    {
+      "id": "offer-2",
+      "name": "Chiropraktik: Schmerzen nachhaltig behandeln"
+    },
+    {
+      "id": "offer-3",
+      "name": "Rückenschmerzen"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kopfschmerzen & Migräne"
+    },
+    {
+      "id": "offer-5",
+      "name": "Knieschmerzen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Nackenschmerzen"
+    },
+    {
+      "id": "offer-7",
+      "name": "Schmerzen in den Armen, Schultern, Ellenbogen oder Händen"
+    },
+    {
+      "id": "offer-8",
+      "name": "Schmerzen in den Beinen oder Füßen"
+    },
+    {
+      "id": "offer-9",
+      "name": "Schulterschmerzen durch Sehnenentzündung"
+    },
+    {
+      "id": "offer-10",
+      "name": "Tennisellenbogen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Schmerzen nach einem Bandscheibenvorfall"
+    },
+    {
+      "id": "offer-12",
+      "name": "Probleme der Lendenwirbelsäule"
+    },
+    {
+      "id": "offer-13",
+      "name": "Chiropraktik und die Nerven"
+    },
+    {
+      "id": "offer-14",
+      "name": "Beweglichkeit wieder herstellen: Durch Chiropraktik Spannung lösen"
+    },
+    {
+      "id": "offer-15",
+      "name": "Telefon: +49 (0)30 83228696"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQ8ELHV1aqEcR2P3cJJJDukA",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 222
 }

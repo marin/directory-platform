@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-silke-schulz",
   "slug": "heilpraktikerin-silke-schulz",
   "name": "Heilpraktikerin Silke Schulz",
-  "description": "Heilpraktikerin Silke Schulz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Silke Schulz bietet in ihrer Praxis für Naturheilkunde & Coaching in Berlin-Marienfelde eine Vielzahl von therapeutischen Ansätzen an. Zu ihren Schwerpunkten zählen unter anderem Akupunktur, Pflanzenheilkunde, Dorn Therapie sowie Ernährungsberatung und autogenes Training. Interessierte können einen kostenlosen Kennenlern-Termin vereinbaren, um mehr über die angebotenen Leistungen zu erfahren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,119 @@
   "phone": "03046067093",
   "email": "silke-schulz@arcor.de",
   "website": "http://www.naturheilpraxis-schulz.de/",
+  "bookingUrl": "https://www.naturheilpraxis-schulz.de/kontakt-anfahrt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 85,
+      "priceLabel": "85 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Minuten",
+      "price": 55,
+      "priceLabel": "55 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 95,
+      "priceLabel": "95 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Minuten",
+      "price": 135,
+      "priceLabel": "135 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "3 x 90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 280,
+      "priceLabel": "280 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "5 x 90 Minuten",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 465,
+      "priceLabel": "465 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Minuten",
+      "price": 325,
+      "priceLabel": "325 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kontakt / Anfahrt"
+    },
+    {
+      "id": "offer-9",
+      "name": "Coaching"
+    },
+    {
+      "id": "offer-10",
+      "name": "Kinderwunsch"
+    },
+    {
+      "id": "offer-11",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-12",
+      "name": "Pflanzenheilkunde"
+    },
+    {
+      "id": "offer-13",
+      "name": "Dorn Therapie"
+    },
+    {
+      "id": "offer-14",
+      "name": "Ernährungsberatung"
+    },
+    {
+      "id": "offer-15",
+      "name": "Praxis für Naturheilkunde & Coaching"
+    }
+  ],
+  "images": [
+    "https://cdn.website-start.de/s/img/cc/printer.gif",
+    "https://www.naturheilpraxis-schulz.de/s/misc/logo.jpg?t=1784609800",
+    "https://www.naturheilpraxis-schulz.de/s/misc/logo.jpg?t=1784609799",
+    "https://cdn.website-start.de/s/img/logo.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktikerin Silke Schulz?",
+      "answer": "Die Praxis befindet sich in der Kirchstraße 64, 12277 Berlin - Marienfelde."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Heilpraktikerin Silke Schulz vereinbaren?",
+      "answer": "Termine können nach telefonischer Vereinbarung unter der Telefonnummer 030 - 460 670 93 oder über die Webseite naturheilpraxis-schulz.de vereinbart werden."
+    },
+    {
+      "question": "Welche Leistungen bietet Heilpraktikerin Silke Schulz an?",
+      "answer": "Heilpraktikerin Silke Schulz bietet verschiedene Leistungen an, darunter Akupunktur, Pflanzenheilkunde, Dorn Therapie, Ernährungsberatung und Coaching."
+    },
+    {
+      "question": "Wie hoch sind die Preise für die Behandlungen?",
+      "answer": "Die Preise für die Behandlungen variieren. Beispielsweise kostet eine 90-minütige Sitzung 85 € oder 95 €, je nach Angebot."
+    },
+    {
+      "question": "Wie kann ich Heilpraktikerin Silke Schulz kontaktieren?",
+      "answer": "Sie können Heilpraktikerin Silke Schulz per E-Mail unter silke-schulz@arcor.de oder telefonisch unter 030 - 460 670 93 kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsz_3_4NRqEcRQTWx6uEieOc"
 }

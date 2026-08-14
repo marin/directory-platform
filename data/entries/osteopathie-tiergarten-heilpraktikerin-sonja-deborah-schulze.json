@@ -2,8 +2,8 @@
   "id": "osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
   "slug": "osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
   "name": "Osteopathie Tiergarten - Heilpraktikerin Sonja Deborah Schulze",
-  "description": "Osteopathie Tiergarten - Heilpraktikerin Sonja Deborah Schulze ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Osteopathie Tiergarten wird von der Heilpraktikerin Sonja Deborah Schulze geleitet und bietet spezialisierte Behandlungen in den Bereichen Osteopathie und Kinderosteopathie an. Mit über einem Jahrzehnt therapeutischer Erfahrung und einer fundierten Ausbildung legt die Praxis besonderen Wert auf individuelle Behandlungspläne, die auf die spezifischen Beschwerden der Patienten abgestimmt sind. Die Praxis befindet sich in der Krefelder Str. 1 in Berlin und ist gut erreichbar mit öffentlichen Verkehrsmitteln.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -26,6 +26,7 @@
   "phone": "03083209608",
   "email": "info@osteopathie-tiergarten.de",
   "website": "https://osteopathie-tiergarten.de/",
+  "bookingUrl": "https://www.appointmed.com/booking/2395542-osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,6 +55,36 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/Profilbild-Homepage-1024x1024.jpg",
+    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten4-768x1024.jpg",
+    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten6-768x1024.jpg",
+    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten2-768x1024.jpg",
+    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten-768x1024.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Heilpraktikerin Sonja Deborah Schulze an?",
+      "answer": "Sonja Deborah Schulze bietet Osteopathie und Kinderosteopathie an."
+    },
+    {
+      "question": "Wie lauten die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 13:00 bis 19:00 Uhr, Dienstag und Mittwoch von 08:30 bis 15:00 Uhr, Donnerstag von 13:00 bis 19:00 Uhr und Freitag von 08:30 bis 13:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Buchungsseite unter https://www.appointmed.com/booking/2395542-osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze buchen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in der Krefelder Str. 1, 10555 Berlin."
+    },
+    {
+      "question": "Wie hoch sind die Preise für die Behandlungen?",
+      "answer": "Die Preise für die Erstanamnese betragen 120€ für Erwachsene und 100€ für Kinder. Folgetermine kosten 100€ für Erwachsene und 80€ für Kinder."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfV4czupeTWoRtb07HvVeJMc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15
 }

@@ -2,8 +2,8 @@
   "id": "hans-hermann-baertz-heilpraktiker",
   "slug": "hans-hermann-baertz-heilpraktiker",
   "name": "Hans-Hermann Baertz, Heilpraktiker",
-  "description": "Hans-Hermann Baertz, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Startseite » Über uns: Das EFT-Institut Berlin » Das Team vom EFT-Institut Berlin Seit fast 40 Jahren begleitet Hans-Hermann Baertz Menschen als Heilpraktiker, Seminartrainer und Coach auf dem Weg zu mehr emotionaler Stabilität, innerer Ruhe und persönlicher Entwicklung – mit besonderem Schwerpunkt auf EFT-Klopfakupressur und moderner Trauma-Stabilisierung.",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -55,5 +55,6 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3WM_yYtOqEcRyxNQLmq4ciA"
 }

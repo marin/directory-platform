@@ -2,8 +2,8 @@
   "id": "praxis-im-botanischen-garten",
   "slug": "praxis-im-botanischen-garten",
   "name": "Praxis im Botanischen Garten",
-  "description": "Praxis im Botanischen Garten ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis im Botanischen Garten in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen und Therapien an. Unter der Leitung von Heilpraktikerin Doris Zimmermann stehen verschiedene Methoden wie Augendiagnose, Pflanzenheilkunde, Homöopathie und traditionelle europäische Naturheilmethoden zur Verfügung. Die Praxis befindet sich in der Am Fichtenberg 17 und ist gut mit öffentlichen Verkehrsmitteln erreichbar.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie"
@@ -37,7 +37,52 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "meiner Behandlungen sind"
+    },
+    {
+      "id": "offer-2",
+      "name": "Sie finden uns in der"
+    },
+    {
+      "id": "offer-3",
+      "name": "Anfahrt mit Öffentlichen Verkehrsmitteln"
+    },
+    {
+      "id": "offer-4",
+      "name": "Anfahrt mit dem Auto"
+    }
+  ],
+  "images": [
+    "http://www.naturheilpraxis-botanischergarten.de/images/praxis_1200px.jpg",
+    "http://www.naturheilpraxis-botanischergarten.de/images/Doris_Zimmermann.jpg",
+    "http://www.naturheilpraxis-botanischergarten.de/images/karte-praxis.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsverfahren werden in der Praxis im Botanischen Garten angeboten?",
+      "answer": "In der Praxis im Botanischen Garten werden verschiedene Behandlungsverfahren angeboten, darunter Augendiagnose, Antlitzdiagnose, Pflanzenheilkunde, Homöopathie, Blütenessenzen, orthomolekulare Medizin, Blutegeltherapie, Schröpfen, Reflexzonentherapie und mediale Lebensenergieberatung."
+    },
+    {
+      "question": "Wie kann ich die Praxis im Botanischen Garten erreichen?",
+      "answer": "Mit öffentlichen Verkehrsmitteln können Sie bis zur U- oder S-Bahn-Station Rathaus Steglitz fahren und dann einen Fußweg von ca. 15 Minuten zur Praxis einplanen. Alternativ können Sie den Bus M48 bis zur Haltestelle Braillestraße oder Botanischer Garten nehmen und dann einen Fußweg von 5 Minuten zur Praxis haben."
+    },
+    {
+      "question": "Wann hat die Praxis im Botanischen Garten geöffnet?",
+      "answer": "Die Praxis hat dienstags von 10:00 bis 20:00 Uhr und freitags von 09:00 bis 20:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis im Botanischen Garten?",
+      "answer": "Die Praxis befindet sich in der Am Fichtenberg 17, 12165 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis im Botanischen Garten vereinbaren?",
+      "answer": "Sie können einen Termin in der Praxis im Botanischen Garten telefonisch unter 01639893947 oder per E-Mail an alchemilla57@t-online.de vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy9kk2nZbqEcRZIS1CUAI_Tc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

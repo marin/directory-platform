@@ -2,8 +2,8 @@
   "id": "chinesische-naturheilpraxis-fur-gesundes-leben",
   "slug": "chinesische-naturheilpraxis-fur-gesundes-leben",
   "name": "Chinesische Naturheilpraxis für gesundes Leben",
-  "description": "Chinesische Naturheilpraxis für gesundes Leben ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Chinesische Naturheilpraxis für gesundes Leben in Berlin-Wilmersdorf bietet eine umfassende Behandlung auf Basis der Traditionellen Chinesischen Medizin (TCM). Unter der Leitung von Nan Zhu, einer erfahrenen Heilpraktikerin mit 20 Jahren Berufserfahrung und einem TCM-Studium in Chengdu, wird der menschliche Körper ganzheitlich betrachtet. Die Praxis legt Wert auf individuelle Diagnosen und Behandlungspläne, um das Gleichgewicht von Körper, Geist und Seele zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -53,7 +53,54 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Traditionelle Chinesische Medizin"
+    },
+    {
+      "id": "offer-2",
+      "name": "TCM-Studium in Chengdu und Heilpraktikerin in Berlin"
+    },
+    {
+      "id": "offer-3",
+      "name": "TCM - Traditionelle Chinesische Medizin in Berlin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Impressionen"
+    }
+  ],
+  "images": [
+    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/SelfieCity_20180210171808_org-1.jpg?media=1753212150",
+    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/massage-2722936_1280-800x700.jpg?media=1753212150",
+    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/stone-316225_1280.jpg?media=1753212150",
+    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/12/IMG_20171231_130754-600x600.jpg?media=1753212150",
+    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/12/IMG_20180903_1836114-600x600.jpg?media=1753212150"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Chinesische Naturheilpraxis an?",
+      "answer": "Die Chinesische Naturheilpraxis bietet Behandlungen im Bereich der Traditionellen Chinesischen Medizin (TCM) an, einschließlich Akupunktur und naturheilkundlicher Therapien."
+    },
+    {
+      "question": "Wie kann ich die Praxis kontaktieren?",
+      "answer": "Sie können die Praxis telefonisch unter 015229901919 oder per E-Mail an berlin@chi-nan-praxis.de kontaktieren."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat dienstags, mittwochs, freitags und samstags von 10:00 bis 18:00 Uhr sowie sonntags von 10:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Chinesische Naturheilpraxis?",
+      "answer": "Die Praxis befindet sich in der Berliner Straße 54, 10713 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Was zeichnet die Behandlungsmethoden in der Chinesischen Naturheilpraxis aus?",
+      "answer": "Die Behandlungsmethoden in der Chinesischen Naturheilpraxis basieren auf einem ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt, und nutzen traditionelle chinesische Diagnoseverfahren wie Puls-Kontrolle und Zungen-Diagnose."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8WKvPeNQqEcRmQwu7wc5HeQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 53
 }

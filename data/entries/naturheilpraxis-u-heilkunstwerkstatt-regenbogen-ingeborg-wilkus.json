@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-u-heilkunstwerkstatt-regenbogen-ingeborg-wilkus",
   "slug": "naturheilpraxis-u-heilkunstwerkstatt-regenbogen-ingeborg-wilkus",
   "name": "Naturheilpraxis u. Heilkunstwerkstatt Regenbogen Ingeborg Wilkus",
-  "description": "Naturheilpraxis u. Heilkunstwerkstatt Regenbogen Ingeborg Wilkus ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis und Heilkunstwerkstatt Regenbogen, geleitet von Ingeborg Wilkus, befindet sich in Berlin-Spandau. Hier werden verschiedene naturheilkundliche Behandlungen angeboten, darunter Lichtkörperaktivierungen, Schwangerschafts- und Geburtsbegleitungen sowie Tierheilbehandlungen. Die Praxis verbindet traditionelle Heilmethoden mit modernen Ansätzen und fördert ein ganzheitliches Bewusstsein für Mensch und Natur.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,74 @@
   },
   "phone": "03025097527",
   "website": "http://www.regenbogensonne.de/",
+  "bookingUrl": "https://regenbogensonne.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Lichtkörper"
+    },
+    {
+      "id": "offer-2",
+      "name": "Schwangerschafts- und Geburtsbegleitung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Naturheilkunde"
+    },
+    {
+      "id": "offer-4",
+      "name": "Psychologie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Heilgesänge"
+    },
+    {
+      "id": "offer-6",
+      "name": "Tierheilbehandlung"
+    },
+    {
+      "id": "offer-7",
+      "name": "Fernheilbehandlung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Seminare"
+    },
+    {
+      "id": "offer-9",
+      "name": "Referenzen"
+    }
+  ],
+  "images": [
+    "https://regenbogensonne.de/wp-content/uploads/ingeborg_wirkus.jpg",
+    "https://regenbogensonne.de/wp-content/uploads/standing-human-body-silhouette.png",
+    "https://regenbogensonne.de/wp-content/uploads/regenbogensonne-logo.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Regenbogen an?",
+      "answer": "Die Naturheilpraxis Regenbogen bietet eine Vielzahl von Dienstleistungen an, darunter Lichtkörperaktivierung, Schwangerschafts- und Geburtsbegleitung, Shirodhara Stirnguß, Naturheilkunde, Psychologie, Heilgesänge, Tierheilbehandlung und Fernheilbehandlung."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Regenbogen?",
+      "answer": "Die Naturheilpraxis Regenbogen befindet sich in der Schöllkrautstraße 24, 13503 Berlin, im Stadtteil Spandau."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Regenbogen buchen?",
+      "answer": "Sie können einen Termin in der Naturheilpraxis Regenbogen über die Webseite buchen, indem Sie den Kontaktbereich aufrufen: Termin buchen."
+    },
+    {
+      "question": "Bietet die Praxis auch Seminare an?",
+      "answer": "Ja, die Naturheilpraxis Regenbogen bietet auch Seminare an, die sich mit verschiedenen Themen der Heilkunst und Naturheilkunde beschäftigen."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis Regenbogen kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis Regenbogen telefonisch unter 03025097527 oder über die Webseite www.regenbogensonne.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM5I6F-LfZEERuzkwf4Xi3lk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

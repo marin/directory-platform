@@ -2,8 +2,8 @@
   "id": "heilpraxis-deckert",
   "slug": "heilpraxis-deckert",
   "name": "Heilpraxis Deckert",
-  "description": "Heilpraxis Deckert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Deckert in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Chinesische Medizin, Homöopathie, Phytotherapie und Blutegel-Therapie. Schwerpunkte der Praxis sind die Behandlung von unerfülltem Kinderwunsch, gynäkologischen Störungen sowie Beschwerden wie Migräne und Rückenprobleme. Tamara Deckert, die Heilpraktikerin, legt großen Wert auf eine ganzheitliche Betreuung ihrer Patienten und kombiniert westliche und asiatische Heilmethoden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,39 @@
   "phone": "03033008640",
   "email": "kontakt@heilverfahren-berlin.de",
   "website": "http://www.heilverfahren-berlin.de/",
+  "bookingUrl": "http://www.heilverfahren-berlin.de/heilpraxis/termine_und_vereinbarungen.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.heilverfahren-berlin.de/assets/StartSeiteBild1.jpg",
+    "http://www.heilverfahren-berlin.de/assets/StartSeiteBild2.jpg",
+    "http://www.heilverfahren-berlin.de/assets/StartSeiteBild3.jpg",
+    "http://www.heilverfahren-berlin.de/assets/StartSeiteBild4.jpg",
+    "http://www.heilverfahren-berlin.de/assets/kraftsuppe.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Deckert?",
+      "answer": "Die Heilpraxis Deckert befindet sich in der Witzlebenstraße 15, 14057 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Welche Therapien bietet die Heilpraxis Deckert an?",
+      "answer": "Die Heilpraxis Deckert bietet verschiedene Therapien an, darunter Chinesische Medizin, Homöopathie, Phytotherapie, Lymphdrainage, Blutegel-Therapie, Massage und Thailändische Physiotherapie."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Heilpraxis Deckert buchen?",
+      "answer": "Sie können einen Termin in der Heilpraxis Deckert über die Webseite unter folgendem Link buchen: http://www.heilverfahren-berlin.de/heilpraxis/termine_und_vereinbarungen.html."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Deckert kontaktieren?",
+      "answer": "Sie können die Heilpraxis Deckert telefonisch unter 03033008640 oder per E-Mail an kontakt@heilverfahren-berlin.de kontaktieren."
+    },
+    {
+      "question": "Gibt es Informationen über die Öffnungszeiten der Heilpraxis Deckert?",
+      "answer": "Im aktuellen Kontext sind keine spezifischen Öffnungszeiten für die Heilpraxis Deckert angegeben."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXdKJGtpQqEcRmYGG3aXFyFc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

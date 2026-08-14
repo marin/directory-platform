@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-coach-dipl-psych-michaela-susanne-faber",
   "slug": "heilpraktikerin-coach-dipl-psych-michaela-susanne-faber",
   "name": "Heilpraktikerin & Coach Dipl.-Psych. Michaela Susanne Faber",
-  "description": "Heilpraktikerin & Coach Dipl.-Psych. Michaela Susanne Faber ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin und Coach Dipl.-Psych. Michaela Susanne Faber bietet in ihrer Praxis in Berlin-Pankow eine Kombination aus Psychotherapie und naturheilkundlichen Ansätzen an. Ihr Schwerpunkt liegt auf medialer Psychologie und Channeling, wobei sie Klienten dabei unterstützt, ihre inneren Blockaden zu erkennen und zu überwinden. Durch individuelle Sitzungen, die auch online stattfinden, fördert sie die persönliche Entwicklung und hilft dabei, das eigene Potenzial zu entfalten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -25,6 +25,7 @@
   },
   "phone": "015771337518",
   "website": "http://www.fraufaber.de/",
+  "bookingUrl": "https://fraufaber.tentary.com/p/H6HkSd",
   "openingHours": [
     {
       "day": "Monday",
@@ -52,7 +53,68 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Dipl.-Psych. Michaela Susanne Faber"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mediale Psychologie & Channeling"
+    },
+    {
+      "id": "offer-3",
+      "name": "Was sich konkret verändert hat"
+    },
+    {
+      "id": "offer-4",
+      "name": "Lerne mich kennen und buche dir dein kostenloses Vorgespräch"
+    },
+    {
+      "id": "offer-5",
+      "name": "So funktioniert die Sitzung"
+    },
+    {
+      "id": "offer-6",
+      "name": "Weil ich selbst dort war, wo du jetzt bist."
+    },
+    {
+      "id": "offer-7",
+      "name": "Ich arbeite dort, wo alles zusammenkommt"
+    },
+    {
+      "id": "offer-8",
+      "name": "Testimonials"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/AQ2A3034-1920w.jpg?Expires=1788554994&Signature=ldEpsfAp9eaNdQHx-KsmoeCr8hh-R0Odsh14RyjjfUOrQNhHzJ1-CQdpOdmc94LWnb8GLuU~Na19tCTtsx6kIWdZNLYd19PcjEeoWL6Q23DR~8frDZ-lECSRTpe3~xH571Of3Eni~i2WTwYVqE~x3XLCUin0PqVJ~CGa99ENbO0j1XgA3pfUodAHtbahLIStl7n1wfLCSk6KXdcfBH8RriB5AISgcxC3nvkhYg33HEs8vpAr2-a3d699ZdKpeNAUaVon798jwLmSTpZjOrt2AJfhxL3DruMCKoU10wJ21cmaiBMSvv~EFxf9nIysux~0ywwfousCPoA8U1EK2hazRQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/Endlich+Worte+Logo-1920w.png?Expires=1788554994&Signature=YUZLD2XIjH8dn-Jw2k06tNgQelq3grQfUxIHmG2cnKcD1C8KcP3JNiq3pThPC7RbKdiBnxEjOP0jMOgUTmoZLPaW5xEX54QEjiqxk9VIeURufl5S4uGAksswXlDOYVIM6HiqAUSwMHkrVHATHi8CS~odGobnttTM8wQFdbo34y8w5QRwR2~1tsG2G3IK-FXFwkBvJ2MHHr3ifRQSQXEJtx3CT~7WRjjcrvzp8LGOQV4ZlDuIUEQkXp6nWW64zZU6s1AAN2EVfXf92DshPeACUlXoRm48I6-OrNCMUBL4RGQ46O19xNkBriNfjcHMC1hBkBpa~2saaW3xo7UOgp8WXA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/Psychologie+Logo-1920w.png?Expires=1788554994&Signature=HevKQ3roUzCs-sKM~XMbrg7n-Ej3N7mC5W7U0jp~DNB4qANUNFRvM4Sg8b96ib6BFD8DON-8ts9LMIo5FW2WuZdaR4nND-75-~PiSLhmEtVBO39djAhgCYYL7ajBTmFRLNBUfJ5~vOeBqhpO6-bUHzgN6mUyrKu9Ea2E4othRr-FWY0vaM5szEwjru3jg8OatqOHF4AdkZFUOKt5r2SWZPC9O4g4IfADzjhlLCYQHZuYThm0GeWMF5R5Kfn6DtEZkApC~n4~shRupH-rynuPydcKXuc0b1EnPsYlKaaaJOzR7LspOxkd~RSxS60mjo6rd52ypjozcs5CM2am3v5N6g__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet Heilpraktikerin Michaela Susanne Faber an?",
+      "answer": "Heilpraktikerin Michaela Susanne Faber bietet Mediale Psychologie & Channeling, psychologische Beratung, Hypnose, Familienaufstellungen und Trance-Meditationen an."
+    },
+    {
+      "question": "Wie kann ich ein kostenloses Vorgespräch buchen?",
+      "answer": "Sie können ein kostenloses Vorgespräch buchen, indem Sie auf den folgenden Link klicken: Kostenloses Vorgespräch Buchen."
+    },
+    {
+      "question": "Wann sind die Öffnungszeiten von Frau Faber?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 08:00 bis 20:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Michaela Susanne Faber?",
+      "answer": "Die Praxis befindet sich in der Hauptstraße 52, 13159 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich Frau Faber kontaktieren?",
+      "answer": "Sie können Frau Faber telefonisch unter 015771337518 oder über ihre Website www.fraufaber.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ23EC2dxTqEcRTm2cbuIxio8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }

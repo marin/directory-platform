@@ -3,7 +3,7 @@
   "slug": "heilpraxis-birgit-grobbecker-reiki-massagen-seminare-kurse-in-deiner-nahe",
   "name": "Heilpraxis Birgit Grobbecker - Reiki, Massagen, Seminare, Kurse in Deiner Nähe",
   "description": "Heilpraxis Birgit Grobbecker - Reiki, Massagen, Seminare, Kurse in Deiner Nähe ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,7 +52,163 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstanamnese ca. 90 min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 140,
+      "priceLabel": "140 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Folgetermine bis 30 min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 40,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Folgebehandlung/Termin bis 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 80,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Einmalige Behandlung/Beratung bis 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Reiki-Behandlung 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 75,
+      "priceLabel": "75 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Reiki-Behandlung 75 min",
+      "durationMinutes": 75,
+      "durationLabel": "75 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Reiki-Anwendung 30 min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 30,
+      "priceLabel": "30 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Reiki-Anwendung 45 min",
+      "durationMinutes": 45,
+      "durationLabel": "45 min",
+      "price": 45,
+      "priceLabel": "45 €"
+    },
+    {
+      "id": "offer-9",
+      "name": "3 Termine a 90 min",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 285,
+      "priceLabel": "285 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "5 Termine a 90 min beinhaltet 15% Rabatt",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 405,
+      "priceLabel": "405 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "3 Termine a 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 210,
+      "priceLabel": "210 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "6 Termine a 60 min beinhaltet 15% Rabatt",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 357,
+      "priceLabel": "357 €"
+    },
+    {
+      "id": "offer-13",
+      "name": "9 Termine a 60 min beinhaltet 20% Rabatt",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 504,
+      "priceLabel": "504 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "3 Termine a 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 360,
+      "priceLabel": "360 €"
+    },
+    {
+      "id": "offer-15",
+      "name": "6 Termine a 60 min beinhaltet 15% Rabatt",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 612,
+      "priceLabel": "612 €"
+    },
+    {
+      "id": "offer-16",
+      "name": "9 Termine a 60 min beinhaltet 20% Rabatt",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 864,
+      "priceLabel": "864 €"
+    },
+    {
+      "id": "offer-17",
+      "name": "Folgetermine bis 30 min",
+      "durationMinutes": 30,
+      "durationLabel": "30 min",
+      "price": 60,
+      "priceLabel": "60 €"
+    },
+    {
+      "id": "offer-18",
+      "name": "Folgebehandlung/Termin bis 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 90,
+      "priceLabel": "90 €"
+    },
+    {
+      "id": "offer-19",
+      "name": "Einmalige Behandlung/Beratung bis 60 min",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 95,
+      "priceLabel": "95 €"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpaHOkzRIqEcRb7_YeERN4sw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

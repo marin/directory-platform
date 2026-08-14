@@ -2,8 +2,8 @@
   "id": "janka-kothner-heilpraktikern-homoopathin-und-mentorin",
   "slug": "janka-kothner-heilpraktikern-homoopathin-und-mentorin",
   "name": "Janka Köthner Heilpraktikern, Homöopathin und Mentorin",
-  "description": "Janka Köthner Heilpraktikern, Homöopathin und Mentorin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Janka Köthner ist Heilpraktikerin, Homöopathin und Mentorin mit einer Praxis in Berlin-Schöneberg. Sie bietet ganzheitliche Behandlungen in den Bereichen Homöopathie, Hypnose und Naturheilkunde an. Ihr Ansatz verbindet geerdete Spiritualität mit psychologischen Methoden und zielt darauf ab, Körper, Geist und Seele in Einklang zu bringen. In ihrem einladenden Praxisraum unterstützt sie Frauen dabei, ihre innere Kraft und Verbundenheit mit sich selbst zu entdecken und zu stärken.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -60,6 +60,31 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://jkoethner.de/wp-content/uploads/2023/04/Design-ohne-Titel-1-1200x500.avif",
+    "https://jkoethner.de/wp-content/uploads/2023/04/Design-ohne-Titel-1-768x433.avif",
+    "https://jkoethner.de/wp-content/uploads/2023/04/20210512_105142-1024x1024.avif",
+    "https://jkoethner.de/wp-content/uploads/2024/04/Janka-hat-mich-anfaenglich-in-einer-akuten-Lebenskrise-begleitet.-Durch-unsere-Sessions-fuehsattelfest-Krisen-als-Chancen-nutzen-und.avif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Janka Köthner an?",
+      "answer": "Janka Köthner bietet Behandlungen in den Bereichen Homöopathie, Hypnose und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Janka Köthner vereinbaren?",
+      "answer": "Für Termine oder Anfragen wird gebeten, eine E-Mail an info@jkoethner.de zu senden."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Janka Köthner?",
+      "answer": "Die Praxis von Janka Köthner befindet sich in der Wartburgstr. 9, 10823 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag 09:00 - 15:30, Dienstag 09:00 - 18:00, Mittwoch 09:30 - 20:00, Donnerstag 09:00 - 19:00, Freitag 09:30 - 20:00 und Samstag 11:00 - 16:00."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQ5mYH9QqEcRW3M3DTbLg2k",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 12
 }

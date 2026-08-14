@@ -2,8 +2,8 @@
   "id": "liebscher-bracht-berlin-peter-giese-heilpraktiker-schmerztherapie-pravention",
   "slug": "liebscher-bracht-berlin-peter-giese-heilpraktiker-schmerztherapie-pravention",
   "name": "Liebscher & Bracht Berlin | Peter Giese | Heilpraktiker | Schmerztherapie & Prävention",
-  "description": "Liebscher & Bracht Berlin | Peter Giese | Heilpraktiker | Schmerztherapie & Prävention ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Peter Giese ist ein zertifizierter Liebscher & Bracht Therapeut in Berlin-Moabit und Prenzlauer Berg, der sich auf Schmerztherapie und Prävention spezialisiert hat. In seiner Praxis behandelt er die muskulär-faszialen Ursachen von Beschwerden und bietet individuelle Therapieansätze an, die auf Selbsthilfe und Unabhängigkeit abzielen. Mit über 30 Jahren Erfahrung und umfangreicher Ausbildung in Japan und Südostasien unterstützt er seine Patienten dabei, ihre Beweglichkeit und Lebensqualität zurückzugewinnen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -63,7 +63,46 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Raus aus der Schmerzspirale – dein Weg zur Selbsthilfe"
+    },
+    {
+      "id": "offer-2",
+      "name": "Was dich bei mir erwartet"
+    },
+    {
+      "id": "offer-3",
+      "name": "Schreib mir"
+    }
+  ],
+  "images": [
+    "http://static1.squarespace.com/static/66ae3ac97faba9099bfe3a0a/t/66ae77d0ab77b04087ed42c4/1722709968425/LiebscherBracht_grau+%281%29.png?format=1500w"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieansätze bietet Peter Giese in seiner Praxis an?",
+      "answer": "Peter Giese bietet die Liebscher & Bracht Schmerz- und Bewegungstherapie an, die sich auf die Behandlung muskulärer und faszialer Überspannungen konzentriert."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin direkt über die Website hier buchen oder telefonisch unter 015123480399 Kontakt aufnehmen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis von Peter Giese?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Dienstag von 08:00 bis 21:00 Uhr, Mittwoch von 11:00 bis 14:00 Uhr und 19:00 bis 21:00 Uhr, Donnerstag von 08:00 bis 15:00 Uhr, Freitag von 08:00 bis 21:00 Uhr und Samstag von 10:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Bietet Peter Giese eine Erstberatung an?",
+      "answer": "Ja, Peter Giese bietet eine kostenlose Erstberatung von 30 Minuten an, um herauszufinden, ob die Liebscher & Bracht Schmerztherapie bei Ihren Beschwerden hilfreich sein kann."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Peter Giese?",
+      "answer": "Die Praxis befindet sich in der Wiclefstraße 47, 10551 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKVumlBRRqEcR_3W0xFX0OKw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16
 }

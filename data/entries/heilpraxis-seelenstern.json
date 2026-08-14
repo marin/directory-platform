@@ -2,8 +2,8 @@
   "id": "heilpraxis-seelenstern",
   "slug": "heilpraxis-seelenstern",
   "name": "Heilpraxis Seelenstern",
-  "description": "Heilpraxis Seelenstern ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Seelenstern in Berlin-Spandau wird von Stephanie Krohn, einer erfahrenen Heilpraktikerin für Psychotherapie und Lehrerin der authentischen Reiki, geleitet. Die Praxis bietet verschiedene naturheilkundliche Therapien an, darunter Reiki, geistiges Heilen und schamanisches Heilen. Ziel der Behandlungen ist es, die seelische und körperliche Gesundheit der Klienten zu fördern und sie auf ihrem individuellen Weg zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,6 +52,32 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://seelenstern.de/wp-content/uploads/2024/03/seelenstern-heilpraxis-stephanie-krohn-portrait-gross.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Seelenstern?",
+      "answer": "Die Heilpraxis Seelenstern befindet sich in der Brunowstraße 60, 13507 Berlin, Spandau."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Heilpraxis Seelenstern?",
+      "answer": "Die Öffnungszeiten der Heilpraxis Seelenstern sind von Montag bis Dienstag und Donnerstag von 12:00 bis 17:00 Uhr, Mittwoch und Freitag von 12:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Welche Angebote bietet die Heilpraxis Seelenstern an?",
+      "answer": "Die Heilpraxis Seelenstern bietet unter anderem Reiki, geistiges Heilen, schamanisches Heilen und Beratungen an."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Seelenstern kontaktieren?",
+      "answer": "Sie können die Heilpraxis Seelenstern telefonisch unter 024357656 erreichen oder die Webseite http://www.seelenstern.de/ besuchen."
+    },
+    {
+      "question": "Wer ist die Heilpraktikerin der Heilpraxis Seelenstern?",
+      "answer": "Die Heilpraktikerin der Heilpraxis Seelenstern ist Stephanie Krohn, die auch Lehrerin der authentischen Reiki ist."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCEZ2hUqEcRc6zKI9fDHGU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

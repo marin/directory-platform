@@ -2,8 +2,8 @@
   "id": "universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde",
   "slug": "universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde",
   "name": "Universanus - Zentrum für alternative ganzheitliche Medizin & Heilkunde",
-  "description": "Universanus - Zentrum für alternative ganzheitliche Medizin & Heilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Im Universanus Gesundheitszentrum in Berlin Mitte vereinen sich alternative ganzheitliche Medizin und Heilkunde. Das Team aus erfahrenen Heilpraktikern, Ärzten und Therapeuten bietet individuelle Behandlungspläne in den Bereichen Osteopathie, Naturheilkunde und Physiotherapie an. Ziel ist es, die Selbstheilungskräfte des Körpers zu fördern und die Gesundheit auf allen Ebenen zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -54,7 +54,102 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Verwachsungen im Bauch- und Beckenbereich"
+    },
+    {
+      "id": "offer-2",
+      "name": "Körperhaltung und Beckenfunktion – ein sensibles Gleichgewicht"
+    },
+    {
+      "id": "offer-3",
+      "name": "Warum eine osteopathische Begleitung sinnvoll sein kann"
+    },
+    {
+      "id": "offer-4",
+      "name": "Fazit"
+    },
+    {
+      "id": "offer-5",
+      "name": "Über 15 ausgebildete Expertinnen und Experten"
+    },
+    {
+      "id": "offer-6",
+      "name": "Telefon"
+    },
+    {
+      "id": "offer-7",
+      "name": "E-Mail"
+    },
+    {
+      "id": "offer-8",
+      "name": "Kostenlose osteopathische Erstberatung für Erwachsene und Kinder"
+    },
+    {
+      "id": "offer-9",
+      "name": "Unser Therapieangebot"
+    },
+    {
+      "id": "offer-10",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Kinderosteopathie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Ärztliche Naturheilverfahren"
+    },
+    {
+      "id": "offer-13",
+      "name": "Physiotherapie"
+    },
+    {
+      "id": "offer-14",
+      "name": "Barrierefreiheit"
+    },
+    {
+      "id": "offer-15",
+      "name": "Dr. med. Ulrike Contzen"
+    },
+    {
+      "id": "offer-16",
+      "name": "Dr. med. Victoria Rosenbach"
+    }
+  ],
+  "images": [
+    "https://universanus.de/wp-content/uploads/2025/12/Praxisraum-mit-Behandlungsliege-und-Pflanzen-mobile.jpg",
+    "https://universanus.de/wp-content/uploads/2025/09/Universanus-Experten-Team-Gesundheitszentrum-Portraits.png",
+    "https://universanus.de/wp-content/uploads/2025/09/Osteopathie-Behandlung-Bauchbereich-Patientin-1.jpg",
+    "https://universanus.de/wp-content/uploads/2025/09/Kinderosteopathie-sanfte-Behandlung-Babykopf-1.jpg",
+    "https://universanus.de/wp-content/uploads/2025/09/Akupunktur-Behandlung-Naturheilverfahren-Arm-1.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet das Universanus Gesundheitszentrum an?",
+      "answer": "Das Universanus Gesundheitszentrum bietet Osteopathie, Kinderosteopathie, ärztliche Naturheilverfahren und Physiotherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin im Universanus Gesundheitszentrum vereinbaren?",
+      "answer": "Sie können einen Termin online über die Webseite unter https://universanus.de/termine-vereinbaren/ vereinbaren."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat das Universanus Gesundheitszentrum?",
+      "answer": "Das Universanus Gesundheitszentrum hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Gibt es eine Erstberatung für Osteopathie?",
+      "answer": "Ja, das Universanus Gesundheitszentrum bietet eine kostenlose osteopathische Erstberatung für Erwachsene und Kinder an."
+    },
+    {
+      "question": "Wo befindet sich das Universanus Gesundheitszentrum?",
+      "answer": "Das Universanus Gesundheitszentrum befindet sich in der Torstraße 177, 10115 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq7Y9W-9RqEcRHE5qLimr1QE",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 28
 }

@@ -2,8 +2,8 @@
   "id": "kerstin-loss-heilpraktikerin",
   "slug": "kerstin-loss-heilpraktikerin",
   "name": "Kerstin Loss, Heilpraktikerin",
-  "description": "Kerstin Loss, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Mit der Umstellung auf gesunde Ernährung allein ist es nicht getan. Unser Körper freut sich darüber schon sehr, aber es braucht schon noch ein wenig mehr, um sein Gewicht zu reduzieren und fit und vital den Alltag und das Alter zu erleben. Ganz massgeblich trägt regelmäßige Bewegung dazu bei, seinen Allgemeinzustand zu optimieren. Hier werden die gespeicherten Fette verbrannt, der Kreislauf in Schwung gebracht und obendrauf bekommt auch Ihre Laune einen Stups, da Bewegung auch in unserem Gehirn begrüßt wird.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,43 @@
   "phone": "03043745225",
   "email": "kerstinloss@aol.com",
   "website": "http://kerstin-loss.de/",
+  "bookingUrl": "https://kerstin-loss.de/kontakt/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Körper, Geist, Seele."
+    },
+    {
+      "id": "offer-2",
+      "name": "Aktuell"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hypnosetherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Professionelle Heilfasten-Begleitung"
+    },
+    {
+      "id": "offer-5",
+      "name": "Ausbildung Nordic Walking und Low-carb-Ernährungskurse"
+    },
+    {
+      "id": "offer-6",
+      "name": "Liebe Patienten,"
+    }
+  ],
+  "images": [
+    "https://kerstin-loss.de/wp-content/uploads/2023/06/cropped-WhatsApp-Image-2023-05-21-at-18.19.28.jpeg",
+    "https://kerstin-loss.de/wp-content/uploads/2023/06/cropped-cropped-cropped-cropped-engelhypnose.jpg",
+    "https://kerstin-loss.de/wp-content/uploads/2025/01/cropped-cropped-Teekanne-1-1.jpg",
+    "https://kerstin-loss.de/wp-content/uploads/2023/05/cropped-loss_allgemein_aktuell-1.jpg",
+    "https://kerstin-loss.de/wp-content/uploads/2023/07/cropped-praxis_innen.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ57YLLkBSqEcRInneuuyFjZ4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 25
 }

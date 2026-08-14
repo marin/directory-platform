@@ -26,5 +26,8 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ75x1AoFTqEcREQKGoQPMsKo",
+  "googleMapsRating": 2.3,
+  "googleMapsRatingsCount": 3
 }

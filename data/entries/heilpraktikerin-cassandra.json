@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-cassandra",
   "name": "Heilpraktikerin Cassandra",
   "description": "Heilpraktikerin Cassandra ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,13 @@
   "phone": "015759249730",
   "website": "http://heilpraktikerincassandra.de/",
   "openingHours": [],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "This domain isn't connected to a site"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2_0M9rZQqEcRJAiS2pqSIVU"
 }

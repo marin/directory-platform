@@ -2,8 +2,8 @@
   "id": "frau-krone-heilpraktikerin-fur-psychotherapie",
   "slug": "frau-krone-heilpraktikerin-fur-psychotherapie",
   "name": "Frau Krone Heilpraktikerin für Psychotherapie",
-  "description": "Frau Krone Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Krone ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Marzahn. Sie bietet traumasensible und ressourcenorientierte Einzeltherapie an, um Klienten in einem geschützten Raum bei der Bewältigung von emotionalen Herausforderungen zu unterstützen. Ihr Ansatz zielt darauf ab, alte Muster zu erkennen und persönliche Entwicklung zu fördern, damit Klienten ein zufriedenes Leben führen können.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -59,7 +59,136 @@
       "close": "17:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Schreib mir"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kontaktdaten"
+    },
+    {
+      "id": "offer-3",
+      "name": "Öffnungszeiten/ Sprechzeiten"
+    },
+    {
+      "id": "offer-4",
+      "name": "Mo – Di"
+    },
+    {
+      "id": "offer-5",
+      "name": "08:00 – 18:00"
+    },
+    {
+      "id": "offer-6",
+      "name": "Mittwoch"
+    },
+    {
+      "id": "offer-7",
+      "name": "08:00 – 19:00"
+    },
+    {
+      "id": "offer-8",
+      "name": "Do – Fr"
+    },
+    {
+      "id": "offer-9",
+      "name": "Samstag"
+    },
+    {
+      "id": "offer-10",
+      "name": "Geschlossen"
+    },
+    {
+      "id": "offer-11",
+      "name": "Sonntag"
+    },
+    {
+      "id": "offer-12",
+      "name": "15:00 – 17:00"
+    },
+    {
+      "id": "offer-13",
+      "name": "Raum & Zeit für Dich"
+    },
+    {
+      "id": "offer-14",
+      "name": "Raum für Dich"
+    },
+    {
+      "id": "offer-15",
+      "name": "Zeit für Dich"
+    },
+    {
+      "id": "offer-16",
+      "name": "Mein Angebot für Dich"
+    },
+    {
+      "id": "offer-17",
+      "name": "Themen in der Psychotherapie"
+    },
+    {
+      "id": "offer-18",
+      "name": "Beziehungen"
+    },
+    {
+      "id": "offer-19",
+      "name": "Gefühle"
+    },
+    {
+      "id": "offer-20",
+      "name": "Ereignisse im Leben"
+    },
+    {
+      "id": "offer-21",
+      "name": "Selbstwirksamkeit"
+    },
+    {
+      "id": "offer-22",
+      "name": "Stress"
+    },
+    {
+      "id": "offer-23",
+      "name": "Trauma"
+    },
+    {
+      "id": "offer-24",
+      "name": "Terminvergabe für Psychotherapie"
+    },
+    {
+      "id": "offer-25",
+      "name": "Schreib mir gerne."
+    }
+  ],
+  "images": [
+    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+    "https://www.frau-krone.de/wp-content/uploads/go-x/u/1c7bf740-552c-4df3-985d-083231d70289/l0,t0,w313,h313/image.jpg",
+    "https://frau-krone.de/wp-content/uploads/go-x/u/e51f0259-a7dc-4d4f-9535-4283b4aa9e1b/image.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Frau Krone an?",
+      "answer": "Frau Krone bietet Psychotherapie an, die traumasensibel und ressourcenorientiert ist. Es handelt sich um Einzeltherapie, die als Selbstzahlerleistung für gesetzliche und private Krankenkassenversicherte verfügbar ist."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Frau Krone vereinbaren?",
+      "answer": "Sie können einen Termin online über Doctolib buchen oder Frau Krone direkt eine E-Mail mit Ihren Wunschterminen senden."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 08:00 bis 18:00 Uhr, Mittwoch von 08:00 bis 19:00 Uhr, Donnerstag und Freitag von 08:00 bis 18:00 Uhr sowie Sonntag von 15:00 bis 17:00 Uhr. Die Praxis ist am Samstag geschlossen."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Frau Krone?",
+      "answer": "Die Praxis von Frau Krone befindet sich in der Heinrich-Grüber-Straße 8, 12621 Berlin."
+    },
+    {
+      "question": "Wie kann ich Frau Krone kontaktieren?",
+      "answer": "Sie können Frau Krone telefonisch unter 017685048318 oder per E-Mail an info@frau-krone.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfuXsOIgdW4RDvkGxHVf9SI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

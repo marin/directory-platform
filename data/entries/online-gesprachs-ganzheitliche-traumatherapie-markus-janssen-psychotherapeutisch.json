@@ -2,8 +2,8 @@
   "id": "online-gesprachs-ganzheitliche-traumatherapie-markus-janssen-psychotherapeutisch",
   "slug": "online-gesprachs-ganzheitliche-traumatherapie-markus-janssen-psychotherapeutisch",
   "name": "Online Gesprächs- & ganzheitliche Traumatherapie | MARKUS JANSSEN Psychotherapeutischer Heilpraktiker",
-  "description": "Online Gesprächs- & ganzheitliche Traumatherapie | MARKUS JANSSEN Psychotherapeutischer Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Markus Janssen ist ein psychotherapeutischer Heilpraktiker in Berlin, spezialisiert auf Online-Gesprächs- und ganzheitliche Traumatherapie. In seiner Praxis in der Genossenschaftsstraße 70 bietet er Unterstützung in den Bereichen Psychotherapie, Hypnose und Naturheilkunde an. Sein Ziel ist es, Klienten auf ihrem Weg zur emotionalen Heilung und persönlichen Entwicklung zu begleiten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -45,5 +45,25 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Markus Janssen an?",
+      "answer": "Markus Janssen bietet Online Gesprächs- und ganzheitliche Traumatherapie an, sowie Hypnose und Naturheilkunde."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Markus Janssen?",
+      "answer": "Die Praxis befindet sich in der Genossenschaftsstraße 70, 12489 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist am Mittwoch, Donnerstag und Freitag von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich Markus Janssen kontaktieren?",
+      "answer": "Sie können Markus Janssen telefonisch unter 03012085959 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0UFq1ls5qEcRZFym--yRIhY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

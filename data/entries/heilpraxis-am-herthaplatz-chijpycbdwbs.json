@@ -2,8 +2,8 @@
   "id": "heilpraxis-am-herthaplatz-chijpycbdwbs",
   "slug": "heilpraxis-am-herthaplatz-chijpycbdwbs",
   "name": "Heilpraxis am Herthaplatz",
-  "description": "Heilpraxis am Herthaplatz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis am Herthaplatz in Berlin-Pankow bietet ganzheitliche Körpertherapien an, darunter osteopathische und craniosacrale Techniken sowie Fußreflextherapie und Massagen. Die Praxis verfügt über drei ruhige und warme Räume, die jeweils einer Pflanze gewidmet sind: der Birke, der Thuja und dem Ahorn. Hier werden die Patienten herzlich empfangen und auf ihrem individuellen Weg begleitet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -26,7 +26,36 @@
   "email": "info@heilpraxis-am-herthaplatz.de",
   "website": "http://heilpraxis-am-herthaplatz.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Blitzlichter"
+    }
+  ],
+  "images": [
+    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/heilpraxis-herthaplatz-pankow.jpg",
+    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/heilpflanzen.jpg",
+    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/oseopathie-therapie.jpg",
+    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/osteopathie.jpg",
+    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/aktuelles.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis am Herthaplatz?",
+      "answer": "Die Heilpraxis am Herthaplatz befindet sich in Berlin, Pankow, an der Adresse Herthapl. 9, 13156 Berlin."
+    },
+    {
+      "question": "Welche Therapien werden in der Heilpraxis am Herthaplatz angeboten?",
+      "answer": "In der Heilpraxis am Herthaplatz werden ganzheitliche Körpertherapien angeboten, darunter osteopathische und craniosacrale Techniken, Fußreflextherapie und Massagen."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis am Herthaplatz kontaktieren?",
+      "answer": "Sie können die Heilpraxis am Herthaplatz telefonisch unter 03047488740 oder per E-Mail an info@heilpraxis-am-herthaplatz.de kontaktieren."
+    },
+    {
+      "question": "Welche besonderen Räume gibt es in der Heilpraxis?",
+      "answer": "Die Heilpraxis am Herthaplatz verfügt über drei ruhige und warme Räume, die jeweils einer Pflanze gewidmet sind: der Birke, der Thuja und dem Ahorn."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPyCBDWBSqEcRDVtZnWCq9s4"
 }

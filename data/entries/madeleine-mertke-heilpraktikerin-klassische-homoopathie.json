@@ -2,8 +2,8 @@
   "id": "madeleine-mertke-heilpraktikerin-klassische-homoopathie",
   "slug": "madeleine-mertke-heilpraktikerin-klassische-homoopathie",
   "name": "Madeleine Mertke ~ Heilpraktikerin ~ klassische Homöopathie",
-  "description": "Madeleine Mertke ~ Heilpraktikerin ~ klassische Homöopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Madeleine Mertke ist eine erfahrene Heilpraktikerin in Berlin, die sich auf klassische Homöopathie und Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie eine ganzheitliche Behandlungsmethode an, die darauf abzielt, die Selbstheilungskräfte ihrer Patienten zu aktivieren und eine innere Balance zu fördern. Neben der Homöopathie umfasst ihr Angebot auch Heilfasten, Ernährung und Bewegungstherapie, um individuelle Gesundheitsziele zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,7 +26,45 @@
   "phone": "03025469707",
   "website": "https://www.heilepraxis.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "_Eine ganzheitliche Behandlungsmethode_"
+    },
+    {
+      "id": "offer-2",
+      "name": "_Einblicke in die Homöopathie_"
+    },
+    {
+      "id": "offer-3",
+      "name": "Entdecke, was Homöopathie, Fasten & Faszien bei Dir bewegen."
+    }
+  ],
+  "images": [
+    "https://heilepraxis.de/wp-content/uploads/2023/01/heilepraxis-madeleine-mertke-schmetterling-veraenderung-300x278.jpg",
+    "https://heilepraxis.de/wp-content/uploads/2023/01/heilepraxis-madeleine-mertke-schmetterling-veraenderung.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Madeleine Mertke an?",
+      "answer": "Madeleine Mertke bietet eine ganzheitliche Behandlungsmethode mit Schwerpunkten auf klassischer Homöopathie, Heilfasten und Bewegungstherapie (Faszien) an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Madeleine Mertke?",
+      "answer": "Die Praxis von Madeleine Mertke befindet sich in der Zwinglistraße 39, 10555 Berlin."
+    },
+    {
+      "question": "Wie kann ich Madeleine Mertke kontaktieren?",
+      "answer": "Sie können Madeleine Mertke telefonisch unter 03025469707 erreichen oder ihre Website unter https://www.heilepraxis.de/ besuchen."
+    },
+    {
+      "question": "Was ist das Ziel der homöopathischen Behandlung bei Madeleine Mertke?",
+      "answer": "Das Ziel der homöopathischen Behandlung ist es, die Selbstheilungskräfte der Patienten zu aktivieren und eine größere innere Balance zu erreichen, sowohl bei akuten als auch chronischen Beschwerden."
+    },
+    {
+      "question": "Welche Beschwerden können mit Homöopathie behandelt werden?",
+      "answer": "Homöopathie kann bei verschiedenen Beschwerden helfen, darunter ADHS, Allergien, Angstzustände, Autoimmunkrankheiten, Burn-Out, Depression, Migräne und viele weitere."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJxnYR_tRqEcRKyIPak5_edk"
 }

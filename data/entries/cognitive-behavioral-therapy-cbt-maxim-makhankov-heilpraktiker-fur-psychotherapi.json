@@ -2,8 +2,8 @@
   "id": "cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi",
   "slug": "cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi",
   "name": "Cognitive Behavioral Therapy (CBT) - Maxim Makhankov, Heilpraktiker für Psychotherapie",
-  "description": "Cognitive Behavioral Therapy (CBT) - Maxim Makhankov, Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Therapy, for me, is a shared journey. I see my role as a witness and companion in your process of change. Drawing from cognitive-behavioral, humanistic, and psychodynamic traditions, I adapt my approach to fit your individual needs. My work is informed by self-compassion, radical acceptance, and mindfulness-based techniques. I believe therapy should be both structured and flexible. Some clients seek guidance and practical tools; others need a space to be heard and understood without pressure. I adjust my role based on your needs — whether that means taking an active, structured approach or creating a reflective space for exploration.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -42,7 +42,38 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Support for relationships, emotional overwhelm, and self-discovery"
+    },
+    {
+      "id": "offer-2",
+      "name": "Psychological Work for Leaders"
+    },
+    {
+      "id": "offer-3",
+      "name": "Practice address"
+    },
+    {
+      "id": "offer-4",
+      "name": "Pricing"
+    },
+    {
+      "id": "offer-5",
+      "name": "Book a free introductory meeting"
+    },
+    {
+      "id": "offer-6",
+      "name": "Contact"
+    }
+  ],
+  "images": [
+    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/508474907/e83b2d65-fa16-4660-ade4-f1035d023aef.jpg",
+    "https://static-assets.jimstatic.com/renderer/static/calendly_logo.eb5a11216dbbe4bd0d8f..png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa9y76WppnmgRlAHpVP63Fh4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5
 }

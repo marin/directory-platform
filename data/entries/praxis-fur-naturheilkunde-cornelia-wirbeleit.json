@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-cornelia-wirbeleit",
   "slug": "praxis-fur-naturheilkunde-cornelia-wirbeleit",
   "name": "Praxis für Naturheilkunde Cornelia Wirbeleit",
-  "description": "Praxis für Naturheilkunde Cornelia Wirbeleit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Naturheilkunde Cornelia Wirbeleit befindet sich im Sana-Gesundheitszentrum am Helene-Weigel-Platz 10 in Berlin-Marzahn. Hier werden verschiedene naturheilkundliche Therapien angeboten, die individuell auf die Bedürfnisse der Patienten abgestimmt sind. Die Heilpraktikerin Cornelia Wirbeleit-Bork legt großen Wert auf eine einfühlsame Betreuung und die Berücksichtigung der persönlichen Gesundheitsgeschichte ihrer Klienten. Für ein erstes kostenloses Infogespräch oder eine Naturheilkunde-Fragestunde können Interessierte einen Termin vereinbaren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,74 @@
   },
   "phone": "03054000970",
   "website": "http://www.hp-wirbeleit.de/",
+  "bookingUrl": "https://www.hp-wirbeleit.de/kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Therapien - von Aderlass bis Wirbeltherapie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Cornelia"
+    },
+    {
+      "id": "offer-3",
+      "name": "Wirbeleit-Bork"
+    },
+    {
+      "id": "offer-4",
+      "name": "12681 Berlin-Marzahn"
+    },
+    {
+      "id": "offer-5",
+      "name": "Helene-Weigel-Platz 10"
+    },
+    {
+      "id": "offer-6",
+      "name": "12349 Berlin-Lichtenrade"
+    },
+    {
+      "id": "offer-7",
+      "name": "Marienfelder Chauss. 160"
+    },
+    {
+      "id": "offer-8",
+      "name": "Indikationen"
+    },
+    {
+      "id": "offer-9",
+      "name": "So erreichen Sie die Praxis in Berlin-Marzahn"
+    }
+  ],
+  "images": [
+    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/Hom%C3%B6opathie_Ohrkerzen_k-1920w.JPG?Expires=1788499636&Signature=A0R9m4alsB6hoqMnZ4zSkYDkYjTeXJLE~ctVVYWTv0Xipv2psSJgNOT-7F2XZYX9Q-IXrY2hsk2EmQ4~YcPfSSs7etBxMK2WOd-knc~vkPXAOQnxMM1r4Nv~MCeHMQ6OIp3n7N0i8vCD1Vbwfd-6aqKb7xWNaoSnxNC1ayjIRFebx4JqM-yjEUUKPUmn-F41xf64SDFNKx5oYjdEKPHldXUtlp62jXPXR-3crvSyLOY6cDF0z0xdFoVt~eJG0FfXiFKtkO4EbWCFngobTE6XfHkKKnfy9JvoDHjISYnSozfGcX8-ymzmEO2sQxZ2~B3NThZvn9Mhy5mbx-lrP6cCnw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/Quaddel-4c689901-1920w.jpg?Expires=1788499636&Signature=YVtEpvxjkLcTddwCyYJmUVPuix1bZzWGrn-EZPHzhsqPXjoB6rWHG73LFJgpxXpxdE1BDkSOrWgnnpUGBmJ0CYQLQfOVEB0SoalNWhVpHK5zo9ZNfRMKUk~jSaxomNVsbQGGLvVXwDRHhJu1irPfWO64Rp6pQsq9eWszrn45JYXO2ikQBbjFElf1HtuEDgoMYk4AHLLnAK9HpiJEfZp~UYkpyovZpDc4z-pmhNqKmkmFTZCetOa8pQIXF30szx3xoHl~OGiYhzUMZthFFedTVNzSw0r5rFvwBtGmavY2QhG4vW-PPwRBAQJZQGqOEw9pCdihUVJUSlFZueNBhJbalw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/PIC_0808-1920w.JPG?Expires=1788499636&Signature=gAcN8kpQq6mc~dcI3LswnXM2JGHTNJqIwJuJ8gUE-oC3Ne10CPZprlw~OzAQnX3ZDOkJWLE~2vXpUVdNnqgnxN1CtTosl4bBNjMpW7Ruhj9Qoj2IiWSEMbucF1acsQy-Vf6vEQcLQTGBzPhRi6gc~EjYjeG~HuxEjs9OA0sSDzk59rZ8mvN~5RWAIAip~GpXgZ7F0YOMCnJiqP8n0eOQKdW28CBiY8PYBP~-qgrTEohkbr6duwr36M~6j7yLdnGv4KHqeZ1XRqFNsq1YR0ioDqo7jnnS4ZIhh6L0Cji06JnHQeXFfeGetZ5iGZ9-ejfTKnY7A3tBnmqPfHhXRQgxBQ__&Key-Pair-Id=K2NXBXLF010TJW"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis für Naturheilkunde Cornelia Wirbeleit?",
+      "answer": "Die Praxis befindet sich am Helene-Weigel-Platz 10 in Berlin, im Sana-Gesundheitszentrum."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 030 54000970 oder über die Webseite hp-wirbeleit.de vereinbaren."
+    },
+    {
+      "question": "Welche Therapien werden in der Praxis angeboten?",
+      "answer": "In der Praxis werden verschiedene Therapien angeboten, darunter Aderlass und Wirbeltherapie, sowie eine Vielzahl weiterer naturheilkundlicher Verfahren."
+    },
+    {
+      "question": "Gibt es eine Möglichkeit für ein kostenloses Infogespräch?",
+      "answer": "Ja, Sie können ein erstes kostenloses Infogespräch (ca. 20 Minuten) in der Praxis vereinbaren."
+    },
+    {
+      "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
+      "answer": "Sie erreichen die Praxis mit der S-Bahn (S 7 oder S 75 bis \"Springpfuhl\"), mit dem Bus (Linie 194 und 391 bis \"Helene-Weigel-Platz\") oder mit der Straßenbahn (Linien M8 und M18 bis \"Helene-Weigel-Platz\")."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5ZvY_f1LqEcRED2anF_bZPY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

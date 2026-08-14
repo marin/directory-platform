@@ -2,8 +2,8 @@
   "id": "heilpraxis-christine-martens",
   "slug": "heilpraxis-christine-martens",
   "name": "Heilpraxis Christine Märtens",
-  "description": "Heilpraxis Christine Märtens ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraxis Christine Märtens befindet sich in der Turmstraße 74 in Berlin und bietet naturheilkundliche Behandlungen an. Die Praxis legt Wert auf individuelle Beratung und ganzheitliche Therapiekonzepte.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -52,6 +52,31 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://chmaertens.de/bilder_09/oben_schmal.jpg",
+    "http://chmaertens.de/bilder_09/pix_vio.gif",
+    "http://chmaertens.de/bilder_09/transparent.gif",
+    "http://chmaertens.de/bilder_09/unten.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Heilpraxis Christine Märtens?",
+      "answer": "Die Heilpraxis Christine Märtens befindet sich in der Turmstr. 74, 10551 Berlin."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
+      "answer": "Die Heilpraxis ist von Montag bis Freitag von 09:00 bis 17:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wie kann ich die Heilpraxis Christine Märtens kontaktieren?",
+      "answer": "Sie können die Heilpraxis telefonisch unter 017629816604 erreichen."
+    },
+    {
+      "question": "Bietet die Heilpraxis Christine Märtens spezielle Angebote an?",
+      "answer": "Im aktuellen Eintrag sind keine speziellen Angebote aufgeführt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1WZLXUVQqEcRwY3rNiS2Qiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

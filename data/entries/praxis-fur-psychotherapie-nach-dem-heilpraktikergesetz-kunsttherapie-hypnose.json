@@ -2,8 +2,8 @@
   "id": "praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose",
   "slug": "praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose",
   "name": "Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\"",
-  "description": "Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\" ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\" in Berlin bietet individuelle therapeutische Unterstützung für Jugendliche und Erwachsene in einem vertrauensvollen Rahmen. Die Schwerpunkte liegen auf Kunsttherapie, Hypnosetherapie sowie der Behandlung von Lebenskrisen, Ängsten, Traumaverarbeitung und psychosomatischen Beschwerden. Zudem werden spezielle Angebote zur psychologischen Begleitung rund um Schwangerschaft und Geburt sowie zur Vorbereitung auf die Medizinisch-Psychologische Untersuchung (MPU) bereitgestellt.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,6 +27,7 @@
   "phone": "01736273301",
   "email": "m.grenzel-barth@kunsttherapie-und-hypnose.de",
   "website": "http://www.kunsttherapie-und-hypnose.de/",
+  "bookingUrl": "https://www.kunsttherapie-und-hypnose.de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,148 @@
       "close": "16:30"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erstgespräch, 60 Minuten,",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 85,
+      "priceLabel": "85,00 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Therapiestunde, 60 Minuten,",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 117,
+      "priceLabel": "117,00 €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Hausbesuch, 60 Minuten,",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 121,
+      "priceLabel": "121,00 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Hausbesuch ausserhalb der der Sprechzeiten, 60 Minuten,",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 135,
+      "priceLabel": "135,00 €"
+    },
+    {
+      "id": "offer-5",
+      "name": "Psychotherapeutische Gruppe, 14tägig, 100 Minuten à",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 54,
+      "priceLabel": "54,00 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kunsttherapie, 100 Minuten,",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 155,
+      "priceLabel": "155,00 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Ich komme zu Ihnen nach Hause, 100 Minuten,",
+      "durationMinutes": 100,
+      "durationLabel": "100 min",
+      "price": 165,
+      "priceLabel": "165,00 €"
+    },
+    {
+      "id": "offer-8",
+      "name": "Workshop - Selbsterfahrung, Gruppe Pers., 150 Minuten, 65,00 €",
+      "durationMinutes": 150,
+      "durationLabel": "150 min",
+      "price": 4,
+      "priceLabel": "ab 4"
+    },
+    {
+      "id": "offer-9",
+      "name": "Kinderwunsch Paartermine, 90 Minuten,",
+      "durationMinutes": 90,
+      "durationLabel": "90 min",
+      "price": 175,
+      "priceLabel": "175,00 €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Geburtsvorbereitungskurs, 5 Termine,",
+      "price": 600,
+      "priceLabel": "600,00 €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Mentale Betreuung nach der Geburt, Hausbesuche, 1 Termin,",
+      "price": 121,
+      "priceLabel": "121,00 €"
+    },
+    {
+      "id": "offer-12",
+      "name": "Gruppen Personen, p.P. 145,00 €",
+      "price": 6,
+      "priceLabel": "ab 6"
+    },
+    {
+      "id": "offer-13",
+      "name": "MPU - Vorbereitungskurs je Einheit, 60 Minuten,",
+      "durationMinutes": 60,
+      "durationLabel": "60 min",
+      "price": 121,
+      "priceLabel": "121,00 €"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kosten: o",
+      "price": 135,
+      "priceLabel": "135,00 Eur"
+    },
+    {
+      "id": "offer-15",
+      "name": "_Kontakt_"
+    },
+    {
+      "id": "offer-16",
+      "name": "Kooperationspartner und Therapeutensuche"
+    }
+  ],
+  "images": [
+    "https://www.kunsttherapie-und-hypnose.de/s/img/emotionheader.JPG?1739294619.916px.353px",
+    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_42332423.jpg?t=1437029584",
+    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_42934028.JPG?t=1438764490",
+    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_45016533.jpg?t=1445188093",
+    "https://www.kunsttherapie-und-hypnose.de/s/img/emotionheader.JPG"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieangebote bietet die Praxis für Psychotherapie nach dem Heilpraktikergesetz an?",
+      "answer": "Die Praxis bietet verschiedene Therapieangebote an, darunter Kunsttherapie, Hypnosetherapie, Ego-State-Therapie, EMDR, Brainspotting und therapeutisches Arbeiten mit Verhaltenstherapie-Strukturen."
+    },
+    {
+      "question": "Wie hoch sind die Kosten für eine Therapiestunde?",
+      "answer": "Die Kosten für eine Therapiestunde von 60 Minuten betragen 117,00 €."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie das Kontaktformular auf dieser Seite ausfüllen."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Freitag von 10:00 bis 16:30 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis?",
+      "answer": "Die Praxis befindet sich in Berlin, Minzeweg 50, 12357 Berlin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQzoI3fxFqEcREmbWj-UATrc"
 }

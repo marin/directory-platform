@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz",
   "slug": "naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz",
   "name": "Naturheilpraxis Akazienstr. 19 Berlin Heilpraktikerin Lissy Schonauer-Schütz",
-  "description": "Naturheilpraxis Akazienstr. 19 Berlin Heilpraktikerin Lissy Schonauer-Schütz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Akazienstraße 19 in Berlin Schöneberg bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, Pflanzenheilkunde, Osteopathie und Fußreflexzonentherapie. Seit ihrer Gründung im Jahr 1996 arbeiten hier erfahrene Heilpraktikerinnen, die individuell auf die Bedürfnisse ihrer Patienten eingehen. Die Praxis legt großen Wert auf eine ganzheitliche Betreuung und bietet auch spezielle Behandlungen für Kinder sowie Schwangerschaftsbegleitungen an.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,8 +25,36 @@
   "phone": "0307813373",
   "email": "info@naturheilpraxis-akazienstr.de",
   "website": "http://www.naturheilpraxis-akazienstr.de/",
+  "bookingUrl": "https://www.naturheilpraxis-akazienstr.de/naturheilpraxis-berlin-schoeneberg/kontakt-naturheilpraxis.html",
   "openingHours": [],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "https://www.naturheilpraxis-akazienstr.de/img-naturheilpraxis-schoeneberg-akazienstrasse/collage-naturheilpraxis-akazienstrasse-berlin-schoeneberg.jpg",
+    "https://www.naturheilpraxis-akazienstr.de/img-naturheilpraxis-schoeneberg-akazienstrasse/title-naturheilpraxis-akazienstrasse-berlin.gif"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Akazienstraße?",
+      "answer": "Die Naturheilpraxis Akazienstraße befindet sich in der Akazienstraße 19, 10823 Berlin, im Stadtteil Schöneberg."
+    },
+    {
+      "question": "Welche Behandlungsmethoden werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis werden verschiedene Behandlungsmethoden angeboten, darunter Akupunktur, Pflanzenheilkunde, Osteopathie, Fußreflexzonentherapie, Kinesiotape und die Behandlung von Kindern."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
+      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Buchungsseite auf der Webseite buchen: Termin buchen."
+    },
+    {
+      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
+      "answer": "Sie können die Naturheilpraxis telefonisch unter 0307813373 oder per E-Mail an info@naturheilpraxis-akazienstr.de kontaktieren."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis geöffnet?",
+      "answer": "Die Öffnungszeiten der Naturheilpraxis sind im Kontext nicht angegeben. Bitte kontaktieren Sie die Praxis direkt für Informationen zu den Öffnungszeiten."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgw4ARkFQqEcRiC2UH16yJ5U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

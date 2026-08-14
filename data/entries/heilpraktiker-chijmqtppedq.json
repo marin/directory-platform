@@ -2,8 +2,8 @@
   "id": "heilpraktiker-chijmqtppedq",
   "slug": "heilpraktiker-chijmqtppedq",
   "name": "Heilpraktiker",
-  "description": "Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Günter Böwing ist ein erfahrener Heilpraktiker mit einer Praxis in Berlin-Charlottenburg. Er bietet verschiedene naturheilkundliche Therapien an, darunter Homöopathie, Biochemie, Augendiagnose, Kinesiologie und Tierhomöopathie. Ziel seiner Arbeit ist es, die Einheit von Körper, Seele und Geist zu fördern und seine Patienten auf ihrem Weg zu einem gesunden und glücklichen Leben zu unterstützen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,8 +24,80 @@
   },
   "phone": "0307812661",
   "website": "http://www.guenter-boewing.de/",
+  "bookingUrl": "https://www.guenter-boewing.de/kontakt.html%20%22Kontakt",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Standorte"
+    },
+    {
+      "id": "offer-2",
+      "name": "Berlin"
+    },
+    {
+      "id": "offer-3",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Biochemie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Augendiagnose"
+    },
+    {
+      "id": "offer-6",
+      "name": "Kinesiologie"
+    },
+    {
+      "id": "offer-7",
+      "name": "Tierhomöopathie"
+    },
+    {
+      "id": "offer-8",
+      "name": "Gesprächstherapie"
+    },
+    {
+      "id": "offer-9",
+      "name": "Vita"
+    },
+    {
+      "id": "offer-10",
+      "name": "\\ Kontakt"
+    },
+    {
+      "id": "offer-11",
+      "name": "\\ Links"
+    },
+    {
+      "id": "offer-12",
+      "name": "\\ Sitemap"
+    }
+  ],
+  "images": [
+    "https://www.guenter-boewing.de/uploads/guenter-boewing.jpg",
+    "https://www.guenter-boewing.de/core/layout/frontend/default/images/blockquote-top.png",
+    "https://www.guenter-boewing.de/core/layout/frontend/default/images/guenter-boewing-logo.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Günter Böwing?",
+      "answer": "Die Praxis von Günter Böwing befindet sich in der Badensche Str. 15, 10715 Berlin."
+    },
+    {
+      "question": "Welche Therapien bietet Günter Böwing an?",
+      "answer": "Günter Böwing bietet unter anderem Homöopathie, Biochemie, Augendiagnose, Kinesiologie, Tierhomöopathie und Gesprächstherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Günter Böwing buchen?",
+      "answer": "Sie können einen Termin über die Kontaktseite auf der Website buchen: Kontakt."
+    },
+    {
+      "question": "Wie kann ich Günter Böwing telefonisch erreichen?",
+      "answer": "Sie können Günter Böwing unter der Telefonnummer 030 / 781 26 61 erreichen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMQtPpedQqEcR0wuWggvBvo0"
 }

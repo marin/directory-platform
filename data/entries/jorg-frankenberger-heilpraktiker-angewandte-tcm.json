@@ -2,8 +2,8 @@
   "id": "jorg-frankenberger-heilpraktiker-angewandte-tcm",
   "slug": "jorg-frankenberger-heilpraktiker-angewandte-tcm",
   "name": "JÖRG FRANKENBERGER - HEILPRAKTIKER - ANGEWANDTE TCM",
-  "description": "JÖRG FRANKENBERGER - HEILPRAKTIKER - ANGEWANDTE TCM ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Jörg Frankenberger ist Heilpraktiker mit Schwerpunkt auf angewandter Traditioneller Chinesischer Medizin (TCM) und Naturheilkunde in Berlin-Dahlem. In seiner Praxis bietet er individuelle Therapien an, die auf ganzheitliche Gesundheit und alternative Heilmethoden abzielen. Besonders spezialisiert ist er auf begleitende Krebstherapien sowie ursächliche Lösungsansätze für verschiedene gesundheitliche Probleme. Die Praxis ist gut erreichbar, sowohl mit öffentlichen Verkehrsmitteln als auch zu Fuß.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -26,6 +26,7 @@
   "phone": "03084107559",
   "email": "haus-rat@t-online.de",
   "website": "http://www.qi-net.de/",
+  "bookingUrl": "http://www.qi-net.de/kontakt.html",
   "openingHours": [
     {
       "day": "Monday",
@@ -59,6 +60,31 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://www.qi-net.de/images/aquarellhintergrund-des-bildes-des-grunen-grases.webp",
+    "http://www.qi-net.de/style/page-to-top.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Heilmethoden bietet Jörg Frankenberger an?",
+      "answer": "Jörg Frankenberger bietet Akupunktur nach TCM (Traditionelle Chinesische Medizin) und Naturheilkunde an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Jörg Frankenberger?",
+      "answer": "Die Praxis befindet sich in der Ihnestraße 41, 14195 Berlin, im Stadtteil Steglitz-Zehlendorf."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Sie können einen Termin über die Webseite buchen, indem Sie den Kontakt-Link nutzen: http://www.qi-net.de/kontakt.html."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag 10:00-17:00, Dienstag 10:00-15:00, Mittwoch 10:00-12:00 und 14:00-17:00, Donnerstag 10:00-17:00, Freitag 10:00-16:00."
+    },
+    {
+      "question": "Wie kann ich Jörg Frankenberger kontaktieren?",
+      "answer": "Sie können Jörg Frankenberger telefonisch unter 03084107559 oder per E-Mail an haus-rat@t-online.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE6xLpT9aqEcRlkJWLoqRVTM"
 }

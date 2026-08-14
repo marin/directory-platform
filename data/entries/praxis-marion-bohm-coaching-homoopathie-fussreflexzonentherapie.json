@@ -2,8 +2,8 @@
   "id": "praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie",
   "slug": "praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie",
   "name": "Praxis Marion Böhm - Coaching, Homöopathie & Fußreflexzonentherapie",
-  "description": "Praxis Marion Böhm - Coaching, Homöopathie & Fußreflexzonentherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis Marion Böhm in Berlin-Charlottenburg werden Coaching, klassische Homöopathie und Fußreflexzonentherapie angeboten. Die Heilpraktikerin Marion Böhm behandelt sowohl Kinder als auch Erwachsene bei akuten und chronischen Erkrankungen und legt besonderen Wert auf eine sanfte, nebenwirkungsfreie Therapie. Neben persönlichen Beratungen sind auch homöopathische Sitzungen via Zoom möglich, um eine flexible Betreuung zu gewährleisten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -53,7 +53,42 @@
       "close": "19:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Coaching, Homöopathie, Fußreflexzonentherapie"
+    }
+  ],
+  "images": [
+    "https://www.homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/image.png",
+    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2025/06/image-180x180-website-80x80.png",
+    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/desert.jpg",
+    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/quelle-300x300.png",
+    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/fuss-300x300.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Dienstleistungen bietet die Praxis Marion Böhm an?",
+      "answer": "Die Praxis Marion Böhm bietet Coaching, Homöopathie und Fußreflexzonentherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis Marion Böhm?",
+      "answer": "Die Praxis befindet sich in der Pestalozzistraße 99, 10625 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Bietet die Praxis auch Online-Sitzungen an?",
+      "answer": "Ja, die Praxis bietet homöopathische Beratungen sowohl in der Praxis als auch als Zoom-Sitzungen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Sie können einen Termin telefonisch unter 03023180255 oder per E-Mail an info@marion-boehm.de vereinbaren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGas2NuJQqEcRPZeN-SDN9ew",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

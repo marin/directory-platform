@@ -2,8 +2,8 @@
   "id": "heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof",
   "slug": "heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof",
   "name": "Heilpraktische Psychotherapie Scholz | EMDR Traumatherapie & Begleitung in Adlershof (Treptow Köpenick)",
-  "description": "Heilpraktische Psychotherapie Scholz | EMDR Traumatherapie & Begleitung in Adlershof (Treptow Köpenick) ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Heilpraktische Psychotherapie Scholz in Berlin-Adlershof bietet spezialisierte Unterstützung in der EMDR-Traumatherapie sowie traumasensibler Beratung an. Der Fokus liegt auf der Behandlung von posttraumatischen Belastungsstörungen (PTBS) und deren Folgestörungen, wie stressbedingte Depressionen und Angststörungen. In einer einfühlsamen und vertrauensvollen Umgebung werden Klienten bei der Bewältigung ihrer emotionalen Probleme begleitet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -26,6 +26,7 @@
   },
   "phone": "015110423530",
   "website": "https://kreativgeloest.com/traumatherapie-in-berlin/",
+  "bookingUrl": "https://kreativgeloest.com/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +54,62 @@
       "close": "15:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Integrale EMDR Traumatherapie ✔Berlin Adlershof"
+    },
+    {
+      "id": "offer-2",
+      "name": "Traumasensible Beratung"
+    },
+    {
+      "id": "offer-3",
+      "name": "EMDR Traumatherapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Suchergebnisse"
+    },
+    {
+      "id": "offer-5",
+      "name": "Keine Ergebnisse gefunden"
+    },
+    {
+      "id": "offer-6",
+      "name": "Filteroptionen"
+    }
+  ],
+  "images": [
+    "https://kreativgeloest.com/wp-content/uploads/2025/04/Traumatherapie-Berlin-1180x530.jpg",
+    "https://kreativgeloest.com/wp-content/uploads/2020/09/2890d-img_0687.jpg",
+    "https://kreativgeloest.com/wp-content/uploads/2024/02/Hypno-Methode.jpg",
+    "https://kreativgeloest.com/wp-content/uploads/2019/08/kreativgeloest.de_.png",
+    "https://kreativgeloest.com/wp-content/uploads/2025/04/Traumatherapie-Berlin.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapieformen bietet Heilpraktische Psychotherapie Scholz an?",
+      "answer": "Heilpraktische Psychotherapie Scholz bietet EMDR Traumatherapie, traumasensible Beratung und Hypnotherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Heilpraktische Psychotherapie Scholz?",
+      "answer": "Die Praxis befindet sich in der Genossenschaftsstraße 70, 12489 Berlin, im Stadtteil Adlershof (Treptow Köpenick)."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag von 10:00 bis 18:00 Uhr und am Freitag von 10:00 bis 15:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich einen Termin buchen?",
+      "answer": "Sie können einen Termin über die Website buchen, indem Sie den Kontaktlink nutzen: https://kreativgeloest.com/kontakt/."
+    },
+    {
+      "question": "Welche Probleme werden in der Therapie behandelt?",
+      "answer": "In der Therapie werden unter anderem PTBS, stressbedingte Depressionen, Angststörungen und Burnout behandelt."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4ihkS1HqEcRLdAVIqvLk5k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6
 }

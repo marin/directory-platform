@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-koberle",
   "slug": "naturheilpraxis-koberle",
   "name": "Naturheilpraxis Köberle",
-  "description": "Naturheilpraxis Köberle ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Naturheilpraxis Köberle in Berlin bietet umfassende Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Unter der Leitung von Annikki Köberle, einer erfahrenen Osteopathin und Heilpraktikerin, liegt der Fokus auf der Wiederherstellung der Bewegungsfreiheit und der Aktivierung der Selbstheilungskräfte des Körpers. Die Praxis ist darauf spezialisiert, individuelle Beschwerden zu analysieren und gezielt zu behandeln, wobei auch spezielle Angebote für Schwangere und Neugeborene bereitstehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -25,6 +25,7 @@
   },
   "phone": "017622019200",
   "website": "http://www.naturheilpraxis-koeberle.de/",
+  "bookingUrl": "https://my.lemniscus.de/pss/7ac3bc04-76c8-428f-8dcc-85a7d121519a",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,7 +48,74 @@
       "close": "16:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Osteopathie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Osteopathie rund um die Geburt"
+    },
+    {
+      "id": "offer-3",
+      "name": "Immunbiologische Therapie"
+    },
+    {
+      "id": "offer-4",
+      "name": "Schröpfen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Weiterbildungen"
+    },
+    {
+      "id": "offer-6",
+      "name": "Honorar"
+    },
+    {
+      "id": "offer-7",
+      "name": "Netzwerk"
+    },
+    {
+      "id": "offer-8",
+      "name": "Berlin - Weißensee"
+    },
+    {
+      "id": "offer-9",
+      "name": "Erkner"
+    }
+  ],
+  "images": [
+    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Blume_Header.png",
+    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Blume_Home2.png",
+    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_1.jpg",
+    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_2.jpg",
+    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_3.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet die Naturheilpraxis Köberle an?",
+      "answer": "Die Naturheilpraxis Köberle bietet unter anderem Osteopathie, immunbiologische Therapie, Schröpfen und weitere Heilmethoden an."
+    },
+    {
+      "question": "Wie verläuft eine osteopathische Behandlung in der Naturheilpraxis Köberle?",
+      "answer": "Beim ersten Besuch findet ein ausführliches Erstgespräch und eine osteopathische Untersuchung statt, die etwa 1,5 Stunden dauert. Die darauf folgenden Behandlungen dauern etwa eine Stunde und sind individuell auf den Patienten abgestimmt."
+    },
+    {
+      "question": "Wann hat die Naturheilpraxis Köberle geöffnet?",
+      "answer": "Die Öffnungszeiten sind Montag von 08:00 bis 16:00 Uhr, Dienstag und Donnerstag von 08:00 bis 20:00 Uhr sowie Freitag von 08:00 bis 16:00 Uhr."
+    },
+    {
+      "question": "Wo befindet sich die Naturheilpraxis Köberle?",
+      "answer": "Die Naturheilpraxis Köberle befindet sich in der Gounodstraße 20, 13088 Berlin, im Stadtteil Treptow-Köpenick."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Naturheilpraxis Köberle buchen?",
+      "answer": "Sie können einen Termin online buchen über die Webseite: https://my.lemniscus.de/pss/7ac3bc04-76c8-428f-8dcc-85a7d121519a oder telefonisch unter 017622019200."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY2To-9xNqEcR-nhTT5twJxg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

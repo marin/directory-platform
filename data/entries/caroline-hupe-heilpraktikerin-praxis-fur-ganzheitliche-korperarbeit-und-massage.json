@@ -2,8 +2,8 @@
   "id": "caroline-hupe-heilpraktikerin-praxis-fur-ganzheitliche-korperarbeit-und-massage",
   "slug": "caroline-hupe-heilpraktikerin-praxis-fur-ganzheitliche-korperarbeit-und-massage",
   "name": "Caroline Hupe Heilpraktikerin - Praxis für Ganzheitliche Körperarbeit und Massage",
-  "description": "Caroline Hupe Heilpraktikerin - Praxis für Ganzheitliche Körperarbeit und Massage ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "I have been accompanying people in individual sessions or groups on their path to greater well-being for almost 20 years and have given 1000s of sessions in Berlin and abroad. I am a state-certified alternative practitioner and qualified practitioner of the Grinberg Method. At the beginning of my career I taught yoga classes and gave wellness massages. Later I added bodywork and guided learning processes, which I have now been focusing on for 12 years. For several years, person-centered counseling according to C.Rogers has been one of my pillars. I have been working for many years in a group practice in Kreuzberg not far from the Bergmannkiez and the Tempelhofer Feld. In my early 20s, I was looking for a profession that seemed meaningful and fulfilling. After various internships and studies in the field of cultural and religious studies and intensive theatre playing, a dream led me to…",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,6 +25,7 @@
   "phone": "01638193034",
   "email": "contact@carolinehupe.de",
   "website": "http://carolinehupe.de/",
+  "bookingUrl": "https://carolinehupe.de/de/kontakt/",
   "openingHours": [
     {
       "day": "Monday",
@@ -53,6 +54,11 @@
     }
   ],
   "offers": [],
-  "images": [],
-  "faq": []
+  "images": [
+    "http://carolinehupe.de/wp-content/uploads/2017/08/22.png"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTwtR9hPqEcRb7Ny7JbaXNQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 12
 }

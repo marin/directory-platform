@@ -3,7 +3,7 @@
   "slug": "dirk-seiffert-heilpraktiker-naturheilpraxis-am-roseneck-chiropraktik-schmerzther",
   "name": "Dirk Seiffert, Heilpraktiker - Naturheilpraxis am Roseneck (Chiropraktik, Schmerztherapie, Homöopathie u.v.m)",
   "description": "Dirk Seiffert, Heilpraktiker - Naturheilpraxis am Roseneck (Chiropraktik, Schmerztherapie, Homöopathie u.v.m) ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -52,7 +52,152 @@
       "close": "20:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Skip to main content"
+    },
+    {
+      "id": "offer-2",
+      "name": "Additional menu"
+    },
+    {
+      "id": "offer-3",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-4",
+      "name": "in Ihrer Nähe – in Berlin Charlottenburg-Wilmersdorf"
+    },
+    {
+      "id": "offer-5",
+      "name": "Es gibt verschiedene Massagearten"
+    },
+    {
+      "id": "offer-6",
+      "name": "Die Geschichte der Fußreflexzonen – Massage"
+    },
+    {
+      "id": "offer-7",
+      "name": "Schwere Infektionen und Erkrankungen mit Fieber"
+    },
+    {
+      "id": "offer-8",
+      "name": "Entzündungen im Venen- und Lymphsystem"
+    },
+    {
+      "id": "offer-9",
+      "name": "Erkrankung, bei denen eine Operation notwendig ist"
+    },
+    {
+      "id": "offer-10",
+      "name": "Schwere Depressionen mit medikamentöser Therapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Risikoschwangerschaften, bei akuten Krebserkrankungen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Allgemeine Aktivierung der Haut",
+      "description": "Manchmal ist damit eine kurzfristig auftretende Schweißbildung oder ein leichter Ausschlag verbunden, der nur leicht nässt, nicht juckt und innerhalb von zwei bis drei Tagen wieder verschwindet."
+    },
+    {
+      "id": "offer-13",
+      "name": "Ausscheidung über den Darm",
+      "description": "Vorübergehende Abweichungen in Farbe und Geruchsintensität treten auf. Die Veränderungen sind auf eine erhöhte Reinigung und Entgiftung zurückzuführen."
+    },
+    {
+      "id": "offer-14",
+      "name": "Gesteigerte Sekretionstätigkeit der Schleimhäute",
+      "description": "Nasen- und Rachenschleimhäute, Magen- und Darmschleimhäute reagieren schnell auf die Massage, so dass sie manchmal das Gefühl haben, sie hätten einen leichten Schnupfen bekommen. Machen Sie sich bewusst, dass sich der Organismus jetzt selbst reinigt. Bei Frauen können auch die Va"
+    },
+    {
+      "id": "offer-15",
+      "name": "Besonders tiefer und erholsamer Schlaf",
+      "description": "Die beiden Kräfte im vegetativen Nervensystem, Sympathikus und Parasympathikus, gelangen in ein harmonisches Verhältnis. Auf der körperlichen wie auf der seelischen Ebene ist dies meist dadurch spürbar, dass sich Anspannungen lösen und sich ein tiefer Entspannungszustand einstell"
+    },
+    {
+      "id": "offer-16",
+      "name": "Steigerung der örtlichen Durchblutung"
+    },
+    {
+      "id": "offer-17",
+      "name": "Entstauung den Venen- und Lymphbereich"
+    },
+    {
+      "id": "offer-18",
+      "name": "Lösung von Narben-,Gewebe- und Faszienverklebungen"
+    },
+    {
+      "id": "offer-19",
+      "name": "Schmerzauflösung"
+    },
+    {
+      "id": "offer-20",
+      "name": "Massagen in Ihrer Nähe in Berlin Charlottenburg-Wilmersdorf"
+    },
+    {
+      "id": "offer-21",
+      "name": "Individuell, ganzheitlich, mit Zeit & Herz"
+    },
+    {
+      "id": "offer-22",
+      "name": "Der Weg in meine Naturheilpraxis"
+    },
+    {
+      "id": "offer-23",
+      "name": "So finden Sie zu mir"
+    },
+    {
+      "id": "offer-24",
+      "name": "U-Bahn",
+      "description": "Die U3 hält am U-Bahnhof Rüdesheimer Platz, von dort sind es etwa 7 Minuten mit dem Bus zur Praxis."
+    },
+    {
+      "id": "offer-25",
+      "name": "S-Bahn",
+      "description": "Der S-Bahnhof Hohenzollernplatz (Ring) ist etwa 20 Minuten mit dem Bus entfernt."
+    },
+    {
+      "id": "offer-26",
+      "name": "Buslinien:In der Nähe halten mehrere Buslinien"
+    },
+    {
+      "id": "offer-27",
+      "name": "186 und 249",
+      "description": "Haltestelle „Berlin, Berkaer Str./Breite Straße“"
+    },
+    {
+      "id": "offer-28",
+      "name": "110 und 249",
+      "description": "Haltestelle „Rathaus Schmargendorf“"
+    },
+    {
+      "id": "offer-29",
+      "name": "M29, 115 und X10 (7 Min. laufen)",
+      "description": "Haltestelle „Am Roseneck“"
+    },
+    {
+      "id": "offer-30",
+      "name": "Aus der Umgebung und anderen Städten"
+    },
+    {
+      "id": "offer-31",
+      "name": "Das sagen meine Patientinnen & Patienten"
+    },
+    {
+      "id": "offer-32",
+      "name": "In 3 Schritten zu mehr Wohlbefinden"
+    },
+    {
+      "id": "offer-33",
+      "name": "Erstgespräch vereinbaren"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPQjQw6NQqEcRyK6HlJcMQhs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11
 }

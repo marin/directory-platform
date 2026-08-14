@@ -2,8 +2,8 @@
   "id": "heilpraktiker-und-gesundheitscoach-berlin-susan-schubert",
   "slug": "heilpraktiker-und-gesundheitscoach-berlin-susan-schubert",
   "name": "Heilpraktiker und Gesundheitscoach Berlin Susan Schubert",
-  "description": "Heilpraktiker und Gesundheitscoach Berlin Susan Schubert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Susan Schubert bietet in ihrer Praxis in Berlin-Friedrichshain ganzheitliche Gesundheitsberatung und naturheilkundliche Therapien an. Ihr Ansatz zielt darauf ab, Körper, Geist und Seele in Einklang zu bringen und individuelle Wege zur Wiederherstellung der inneren Balance zu finden. Neben persönlichen Beratungsgesprächen werden auch energetische Heilmethoden und Heilspaziergänge in der Natur angeboten, um die Verbindung zur eigenen Natur zu stärken.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "phone": "03028866569",
   "website": "http://heilweg.de/",
+  "bookingUrl": "https://calendly.com/susanschubert/kurze-session-klon",
   "openingHours": [
     {
       "day": "Monday",
@@ -56,7 +57,96 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Manchmal gerät das Leben aus dem Takt."
+    },
+    {
+      "id": "offer-2",
+      "name": "Finde deine Mitte wieder."
+    },
+    {
+      "id": "offer-3",
+      "name": "Leben: Rhythmus & Balance"
+    },
+    {
+      "id": "offer-4",
+      "name": "Lass uns diesen Weg gemeinsam gehen"
+    },
+    {
+      "id": "offer-5",
+      "name": "Du in deiner Mitte"
+    },
+    {
+      "id": "offer-6",
+      "name": "Leicht"
+    },
+    {
+      "id": "offer-7",
+      "name": "Natürlich"
+    },
+    {
+      "id": "offer-8",
+      "name": "Stark"
+    },
+    {
+      "id": "offer-9",
+      "name": "Zurück zu deiner Natur"
+    },
+    {
+      "id": "offer-10",
+      "name": "Deshalb bist du hier"
+    },
+    {
+      "id": "offer-11",
+      "name": "Was andere sagen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Blogartikel"
+    },
+    {
+      "id": "offer-13",
+      "name": "8 Gründe, warum ich ätherische Öle liebe."
+    },
+    {
+      "id": "offer-14",
+      "name": "Wie dein Körper deine Stimmung beeinflusst"
+    },
+    {
+      "id": "offer-15",
+      "name": "Minikurs: Zurück in deine Leichtigkeit"
+    },
+    {
+      "id": "offer-16",
+      "name": "Zurück in deine Leichtigkeit"
+    }
+  ],
+  "images": [
+    "https://heilweg.de/wp-content/uploads/Kopie-von-Hintergrund-Titel-HP-6.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Susan Schubert?",
+      "answer": "Die Praxis von Susan Schubert befindet sich in der Grünberger Str. 20, 10243 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Susan Schubert buchen?",
+      "answer": "Sie können einen Termin bei Susan Schubert über die Buchungsseite calendly.com buchen."
+    },
+    {
+      "question": "Welche Öffnungszeiten hat die Praxis?",
+      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Freitag von 10:00 bis 20:00 Uhr und Samstag von 12:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Welche Angebote bietet Susan Schubert an?",
+      "answer": "Susan Schubert bietet verschiedene Angebote an, darunter heilsame Gespräche, Energiearbeit und Heilspaziergänge in der Natur."
+    },
+    {
+      "question": "Wie kann ich mehr über die Methoden von Susan Schubert erfahren?",
+      "answer": "Sie können mehr über die Methoden und Ansätze von Susan Schubert auf ihrer Website heilweg.de erfahren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKy2lxOqEcRpmXxMMzBALk"
 }

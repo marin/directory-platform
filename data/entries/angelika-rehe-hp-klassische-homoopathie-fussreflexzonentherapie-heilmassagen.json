@@ -2,8 +2,8 @@
   "id": "angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen",
   "slug": "angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen",
   "name": "Angelika Rehe - HP, klassische Homöopathie Fußreflexzonentherapie & Heilmassagen",
-  "description": "Angelika Rehe - HP, klassische Homöopathie Fußreflexzonentherapie & Heilmassagen ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Angelika Rehe ist eine erfahrene Heilpraktikerin in Berlin-Pankow, die sich auf klassische Homöopathie, Fußreflexzonentherapie und Heilmassagen spezialisiert hat. In ihrer Praxis bietet sie individuelle Behandlungen für Erwachsene, Kinder und Babys an und legt großen Wert auf eine ganzheitliche Herangehensweise zur Förderung der Gesundheit. Termine können telefonisch vereinbart werden, und die Praxis ist montags und donnerstags geöffnet.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,6 +26,7 @@
   "phone": "015253128109",
   "email": "praxis-rehe@web.de",
   "website": "https://www.praxis-rehe.de/",
+  "bookingUrl": "https://www.praxis-rehe.de/der-ort/termin-vereinbaren/",
   "openingHours": [
     {
       "day": "Monday",
@@ -48,7 +49,118 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Erwachsene",
+      "price": 190,
+      "priceLabel": "190,- €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Kinder/Jugendl.",
+      "price": 160,
+      "priceLabel": "160,- €"
+    },
+    {
+      "id": "offer-3",
+      "name": "Babies bis 12 Mon.",
+      "price": 90,
+      "priceLabel": "90,- €"
+    },
+    {
+      "id": "offer-4",
+      "name": "telefon. Beratung,<brAbrechnung n. Zeit / min",
+      "price": 1,
+      "priceLabel": "1€"
+    },
+    {
+      "id": "offer-5",
+      "name": "1/2 Std.",
+      "price": 50,
+      "priceLabel": "50,- €"
+    },
+    {
+      "id": "offer-6",
+      "name": "3/4 Std.",
+      "price": 65,
+      "priceLabel": "65,- €"
+    },
+    {
+      "id": "offer-7",
+      "name": "1 Std.",
+      "price": 80,
+      "priceLabel": "80,- €"
+    },
+    {
+      "id": "offer-8",
+      "name": "1,5 Std.",
+      "price": 120,
+      "priceLabel": "120,- €"
+    },
+    {
+      "id": "offer-9",
+      "name": "2 Std.",
+      "price": 150,
+      "priceLabel": "150,- €"
+    },
+    {
+      "id": "offer-10",
+      "name": "Minuten",
+      "price": 20,
+      "priceLabel": "20,- €"
+    },
+    {
+      "id": "offer-11",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-12",
+      "name": "Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-13",
+      "name": "Heilmassagen"
+    },
+    {
+      "id": "offer-14",
+      "name": "der Ort"
+    },
+    {
+      "id": "offer-15",
+      "name": "Tauchen Sie ein in die Kraft Ihrer Heilung"
+    }
+  ],
+  "images": [
+    "https://www.praxis-rehe.de/s/img/emotionheader5807148975.jpg?1775915234.920px.342px",
+    "https://www.praxis-rehe.de/s/cc_images/cache_2487785742.jpg?t=1775918565",
+    "https://www.praxis-rehe.de/s/cc_images/cache_2487785743.jpg?t=1775918494",
+    "https://www.praxis-rehe.de/s/cc_images/cache_2487785744.jpg?t=1775918215",
+    "https://cdn.website-start.de/s/img/cc/printer.gif"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Angelika Rehe an?",
+      "answer": "Angelika Rehe bietet klassische Homöopathie, Fußreflexzonentherapie und Heilmassagen an."
+    },
+    {
+      "question": "Wie kann ich einen Termin vereinbaren?",
+      "answer": "Termine können telefonisch unter der Nummer 015253128109 oder über die Website praxis-rehe.de vereinbart werden."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat montags, dienstags, donnerstags und freitags von 09:00 bis 18:00 Uhr geöffnet."
+    },
+    {
+      "question": "Was kosten die Behandlungen?",
+      "answer": "Die Preise für Behandlungen variieren: Erwachsene kosten 190,- €, Kinder/Jugendliche 160,- €, und Babies bis 12 Monate 90,- €. Folgetermine und Akutbehandlungen kosten 80,- € pro Stunde."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Angelika Rehe?",
+      "answer": "Die Praxis befindet sich in der Schönfließer Str. 16, 10439 Berlin, im Stadtteil Pankow."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUa4PJNTqEcRSzRB4O05nrU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1
 }

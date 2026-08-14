@@ -2,8 +2,8 @@
   "id": "akupunktur-berlin-kreuzberg-dagmar-amtmann",
   "slug": "akupunktur-berlin-kreuzberg-dagmar-amtmann",
   "name": "Akupunktur Berlin Kreuzberg Dagmar Amtmann",
-  "description": "Akupunktur Berlin Kreuzberg Dagmar Amtmann ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dagmar Amtmann ist eine erfahrene Heilpraktikerin in Berlin-Kreuzberg, spezialisiert auf Akupunktur und Traditionelle Chinesische Medizin (TCM). Ihre Praxis bietet individuelle Behandlungen in einem geschützten Rahmen, um eine vertrauensvolle Atmosphäre zu schaffen. Neben Akupunktur umfasst ihr Therapieangebot auch Schmerztherapie, Heilkräuteranwendungen und verschiedene naturheilkundliche Methoden zur Unterstützung bei einer Vielzahl von Beschwerden.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -55,7 +55,38 @@
       "close": "13:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Anwendungsgebiet"
+    }
+  ],
+  "images": [
+    "https://www.akupunkturpraxis-berlin.com/wp-content/uploads/Startseite-Akupunkturpraxis-Berlin-Kreuzberg-Heilpraktikerin-Dagmar-Amtmann-300x195.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungsmethoden bietet Dagmar Amtmann an?",
+      "answer": "Dagmar Amtmann bietet Akupunktur, traditionelle chinesische Medizin (TCM), Ohrakupunktur, Schmerztherapie nach Liebscher & Bracht, Heilkräuteranwendungen, Dorn Therapie und Fußreflexzonenmassage an."
+    },
+    {
+      "question": "Wie lange dauert die erste Akupunktursitzung?",
+      "answer": "Die erste Akupunktursitzung dauert etwa eine Stunde, da in dieser Zeit ein individueller Befund mithilfe von traditionellen Diagnosemethoden erstellt wird."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Dagmar Amtmann buchen?",
+      "answer": "Sie können einen Termin telefonisch unter 0306930721 oder per E-Mail an d.amtmann@akupunkturpraxis-berlin.com buchen. Alternativ können Sie auch das Reservierungsformular auf der Website nutzen."
+    },
+    {
+      "question": "Welche Beschwerden werden in der Praxis behandelt?",
+      "answer": "In der Praxis werden verschiedene Beschwerden behandelt, darunter Raucherentwöhnung, Allergien, Gelenk- und Rückenschmerzen, Verdauungsstörungen, Schlafstörungen, Angstzustände und viele weitere chronische Leiden."
+    },
+    {
+      "question": "Wann hat die Praxis geöffnet?",
+      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 13:00 Uhr geöffnet."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcYv2ayhQqEcRqdDDZQkSWQQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 48
 }

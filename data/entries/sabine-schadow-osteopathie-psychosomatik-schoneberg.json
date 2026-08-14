@@ -2,8 +2,8 @@
   "id": "sabine-schadow-osteopathie-psychosomatik-schoneberg",
   "slug": "sabine-schadow-osteopathie-psychosomatik-schoneberg",
   "name": "Sabine Schadow, Osteopathie & Psychosomatik Schöneberg",
-  "description": "Sabine Schadow, Osteopathie & Psychosomatik Schöneberg ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabine Schadow ist Heilpraktikerin mit Schwerpunkt auf Osteopathie und Psychosomatik in Berlin-Schöneberg. In ihrer Praxis bietet sie einen ganzheitlichen Ansatz zur Behandlung von Beschwerden, der das myofasziale System, die Organebene und das Nervensystem einbezieht. Sie begleitet Erwachsene in verschiedenen Lebenssituationen, darunter nach Unfällen oder bei chronischen Schmerzen, und legt Wert auf eine vertrauensvolle Beziehung zu ihren Patienten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,6 +27,7 @@
   "phone": "03020986355",
   "email": "info@sabine-schadow.de",
   "website": "https://osteopathie-in-berlin-schoeneberg.de/",
+  "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/praxis-fuer-osteopathie-und-psychosomatik",
   "openingHours": [
     {
       "day": "Monday",
@@ -44,7 +45,43 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ich freue mich auf Sie"
+    },
+    {
+      "id": "offer-2",
+      "name": "Mein osteophatischer Ansatz"
+    }
+  ],
+  "images": [
+    "https://osteopathie-in-berlin-schoeneberg.de/wp-content/uploads/2025/02/osteopathie-berlin-schoeneberg-sitzecke.jpg",
+    "https://osteopathie-in-berlin-schoeneberg.de/wp-content/uploads/2024/12/osteopathie-berlin-schoeneberg-macht-froh.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Leistungen bietet Sabine Schadow an?",
+      "answer": "Sabine Schadow bietet Osteopathie, Psychotherapie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Termin in der Praxis buchen?",
+      "answer": "Termine können über die Plattform Doctolib gebucht werden. Hier ist der Link zur Buchung: https://www.doctolib.de/einzelpraxis/berlin/praxis-fuer-osteopathie-und-psychosomatik."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Sabine Schadow?",
+      "answer": "Die Praxis befindet sich in der Akazienstraße 19, 10823 Berlin, im Stadtteil Schöneberg."
+    },
+    {
+      "question": "Was sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Öffnungszeiten sind: Montag von 08:00 bis 13:00 Uhr, Donnerstag von 13:00 bis 20:00 Uhr und Freitag von 09:00 bis 18:00 Uhr."
+    },
+    {
+      "question": "Wie kann ich Sabine Schadow kontaktieren?",
+      "answer": "Sie können Sabine Schadow telefonisch unter 03020986355 oder per E-Mail an info@sabine-schadow.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL7xpEUJQqEcRAzNM3K-5CPA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8
 }

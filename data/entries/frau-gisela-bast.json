@@ -2,8 +2,8 @@
   "id": "frau-gisela-bast",
   "slug": "frau-gisela-bast",
   "name": "Frau Gisela Bast",
-  "description": "Frau Gisela Bast ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Frau Gisela Bast ist eine erfahrene Heilpraktikerin mit einer Praxis für Körperpsychotherapie, Traumatherapie und spirituelle Wegbegleitung in Berlin. Seit 1985 begleitet sie Menschen in persönlichen Transformationsprozessen und bietet Unterstützung bei Themen wie Trauer, Lebenskrisen, psychosomatischen Beschwerden und innerem Wachstum. Ihre Ausbildung umfasst verschiedene Methoden der Körperpsychotherapie sowie integrative Traumatherapie, und sie ist zertifizierte Lehrerin im Diamond Approach®. In ihrer Arbeit schafft sie einen respektvollen und wertschätzenden Raum, der es Klienten ermöglicht, ihre individuelle Wahrheit zu entdecken und zu integrieren.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -27,7 +27,104 @@
   "email": "gisela-bast@gmx.de",
   "website": "https://gisela-bast.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Gisela Bast, Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "1982 Diplom Pädagogin TU Berlin"
+    },
+    {
+      "id": "offer-3",
+      "name": "1985 staatlich geprüfte Heilpraktikerin"
+    },
+    {
+      "id": "offer-4",
+      "name": "1985 Praxis für Körperpsychotherapie, Homöopathie und spirituelles Wachstum"
+    },
+    {
+      "id": "offer-5",
+      "name": "Integrative Körperpsychotherapie IBP (Markus Fischer)"
+    },
+    {
+      "id": "offer-6",
+      "name": "Gestalttherapie für Körperpsychotherapeuten bei R.T. Dalton"
+    },
+    {
+      "id": "offer-7",
+      "name": "Psychoanalytisch körperorientierte Fortbildung bei G. Worm"
+    },
+    {
+      "id": "offer-8",
+      "name": "Systemische Therapie und Hypnotherapie bei G. Schmidt"
+    },
+    {
+      "id": "offer-9",
+      "name": "Seit 1991 Familienaufstellung bei Bert Hellinger, ISA Institut u.a."
+    },
+    {
+      "id": "offer-10",
+      "name": "Paar- und Sexualtherapie u.a. David Schnarch"
+    },
+    {
+      "id": "offer-11",
+      "name": "Seit 2003 diverse Traumatherapie Fortbildungen"
+    },
+    {
+      "id": "offer-12",
+      "name": "Emotional Freedom Techniken/ Meridian Energie Techniken"
+    },
+    {
+      "id": "offer-13",
+      "name": "Energie Chakren Heilarbeit (Ursa Paul)"
+    },
+    {
+      "id": "offer-14",
+      "name": "Kundalini-Yoga-Lehrerin / Sat Nam Rasayan"
+    },
+    {
+      "id": "offer-15",
+      "name": "seit 1991 Schülerin im Diamond Approach® (Europa Gruppe 1)"
+    },
+    {
+      "id": "offer-16",
+      "name": "zertifizierte Diamond Approach® Lehrerin"
+    },
+    {
+      "id": "offer-17",
+      "name": "Europäisches Zertifikat für Psychotherapie (ECP)"
+    },
+    {
+      "id": "offer-18",
+      "name": "EABP Mitglied Europäische Association Body Psychotherapy"
+    }
+  ],
+  "images": [
+    "https://gisela-bast.de/wp-content/uploads/2019/07/koerpertherapie-traumatherapie-berlin.png"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Frau Gisela Bast an?",
+      "answer": "Frau Gisela Bast bietet Körperpsychotherapie, integrative Traumatherapie, Homöopathie und spirituelle Begleitung an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Frau Gisela Bast?",
+      "answer": "Die Praxis von Frau Gisela Bast befindet sich in der Ebersstraße 76, 10827 Berlin, im Bezirk Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich Frau Gisela Bast kontaktieren?",
+      "answer": "Sie können Frau Gisela Bast telefonisch unter 0307875587 oder per E-Mail an gisela-bast@gmx.de kontaktieren."
+    },
+    {
+      "question": "Welche Zielgruppen spricht Frau Gisela Bast an?",
+      "answer": "Frau Gisela Bast richtet ihr Angebot an Menschen mit Trauerprozessen, Lebenskrisen, psychosomatischen Beschwerden, Depressionen, Angststörungen, Suchtproblemen und solchen, die inneres Wachstum und Lebensfreude entfalten möchten."
+    },
+    {
+      "question": "Hat Frau Gisela Bast spezielle Qualifikationen?",
+      "answer": "Ja, Frau Gisela Bast ist Diplom Pädagogin und staatlich geprüfte Heilpraktikerin. Sie hat zahlreiche Fortbildungen in verschiedenen Therapierichtungen absolviert, darunter integrative Körperpsychotherapie und Traumatherapie."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrwBBBWtQqEcR2YpuOH-Grvw"
 }

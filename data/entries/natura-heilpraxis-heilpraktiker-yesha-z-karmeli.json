@@ -3,7 +3,7 @@
   "slug": "natura-heilpraxis-heilpraktiker-yesha-z-karmeli",
   "name": "Natura-Heilpraxis , Heilpraktiker Yesha Z. Karmeli",
   "description": "Natura-Heilpraxis , Heilpraktiker Yesha Z. Karmeli ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -57,7 +57,23 @@
       "close": "12:00"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Angebotene Therapien"
+    },
+    {
+      "id": "offer-2",
+      "name": "Ganzheitliche körperliche Therapien"
+    },
+    {
+      "id": "offer-3",
+      "name": "Ganzheitliche Coachingbegleitung"
+    }
+  ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn5ucMblQqEcReQ-qftWekWA",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 89
 }

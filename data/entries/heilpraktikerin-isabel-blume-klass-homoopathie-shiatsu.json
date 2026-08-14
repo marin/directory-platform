@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu",
   "slug": "heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu",
   "name": "Heilpraktikerin Isabel Blume, Klass. Homöopathie, Shiatsu",
-  "description": "Heilpraktikerin Isabel Blume, Klass. Homöopathie, Shiatsu ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Heilpraktikerin Isabel Blume bietet in Berlin klassische Homöopathie sowie verschiedene Körperarbeitstechniken wie Shiatsu und Craniosacral Therapie an. Mit über 33 Jahren Erfahrung unterstützt sie ihre Patienten dabei, die Selbstheilungskräfte des Körpers zu aktivieren. Zusätzlich bietet sie Kundalini Yoga an, das Atemtechniken, Meditation und Entspannung integriert. Nach einer langen Praxistätigkeit in Berlin wird sie ihre Tätigkeit in Dreieich-Sprendlingen nahe Frankfurt am Main fortsetzen, steht jedoch weiterhin für laufende homöopathische Behandlungen online oder telefonisch zur Verfügung.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -26,7 +26,57 @@
   "phone": "0302169006",
   "website": "http://www.isabel-blume.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Klassische Homöopathie und Körperarbeit"
+    },
+    {
+      "id": "offer-2",
+      "name": "Homöopathie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Shiatsu"
+    },
+    {
+      "id": "offer-4",
+      "name": "Craniosacral Therapie"
+    },
+    {
+      "id": "offer-5",
+      "name": "Kundalini Yoga"
+    }
+  ],
+  "images": [
+    "https://www.isabel-blume.de/assets/images/homoeopathie_1.JPG?1",
+    "https://www.isabel-blume.de/assets/images/Shiatsu%201.JPG?1",
+    "https://www.isabel-blume.de/assets/images/craniosacral.jpg?1",
+    "https://www.isabel-blume.de/assets/images/CIMG5266.JPG?1"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Heilpraktikerin Isabel Blume an?",
+      "answer": "Isabel Blume bietet klassische Homöopathie, Shiatsu, Craniosacral Therapie und Kundalini Yoga an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Isabel Blume?",
+      "answer": "Die Praxis von Isabel Blume befindet sich in der Gleditschstraße 44, 10781 Berlin, Deutschland."
+    },
+    {
+      "question": "Wie kann ich Isabel Blume kontaktieren?",
+      "answer": "Sie können Isabel Blume telefonisch unter 0302169006 oder über ihre Website http://www.isabel-blume.de/ kontaktieren."
+    },
+    {
+      "question": "Wann wird Isabel Blume ihre Praxistätigkeit wieder aufnehmen?",
+      "answer": "Isabel Blume wird ihre Praxistätigkeit im Laufe dieses Jahres in Dreieich-Sprendlingen nahe Frankfurt am Main wieder aufnehmen."
+    },
+    {
+      "question": "Kann ich laufende Behandlungen weiterhin in Anspruch nehmen?",
+      "answer": "Ja, für laufende homöopathische Behandlungen steht Isabel Blume weiterhin online oder telefonisch zur Verfügung."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ97h-BEZQqEcRDbhJbdrVNz0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3
 }

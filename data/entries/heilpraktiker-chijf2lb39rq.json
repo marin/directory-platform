@@ -2,8 +2,8 @@
   "id": "heilpraktiker-chijf2lb39rq",
   "slug": "heilpraktiker-chijf2lb39rq",
   "name": "Heilpraktiker",
-  "description": "Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis von Stanislaw Malec, einem erfahrenen Heilpraktiker, befindet sich in der Fredericiastraße 9a in Berlin, im Bezirk Charlottenburg-Wilmersdorf. Hier werden Methoden der Osteopathie und Naturheilkunde angeboten, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -27,7 +27,32 @@
   "email": "info@balance-work.com",
   "website": "http://www.balance-work.com/kontakt/kontakt.html",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Rufen Sie uns an"
+    }
+  ],
+  "images": [
+    "http://www.balance-work.com/files/cto_layout/img/balance-work.png"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis des Heilpraktikers?",
+      "answer": "Die Praxis befindet sich in der Fredericiastraße 9a, 14050 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+    },
+    {
+      "question": "Wie kann ich den Heilpraktiker kontaktieren?",
+      "answer": "Sie können den Heilpraktiker telefonisch unter 03034396670 oder per E-Mail an info@balance-work.com kontaktieren."
+    },
+    {
+      "question": "Welche Behandlungsangebote bietet der Heilpraktiker an?",
+      "answer": "Der Heilpraktiker bietet Behandlungen in den Bereichen Osteopathie und Naturheilkunde an."
+    },
+    {
+      "question": "Wie kann ich einen Rückruf anfordern?",
+      "answer": "Sie können einen Rückruf anfordern, indem Sie auf der Website ein entsprechendes Formular ausfüllen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF2LB39RQqEcRfC5pl5tYXlo"
 }

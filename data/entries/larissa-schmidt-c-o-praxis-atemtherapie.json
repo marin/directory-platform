@@ -2,8 +2,8 @@
   "id": "larissa-schmidt-c-o-praxis-atemtherapie",
   "slug": "larissa-schmidt-c-o-praxis-atemtherapie",
   "name": "Larissa Schmidt c/o Praxis Atemtherapie",
-  "description": "Larissa Schmidt c/o Praxis Atemtherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Vermutlich suchst du meine Website auf, weil deine Gesundheit außer Balance geraten ist und du mit den üblichen Wegen in unserem Gesundheitssystem nicht weiter kommst. Vielleicht gibt es (noch) keine klare Diagnose, oder eine \"mit der du dich einfach abfinden sollst\". So ging es zumindest mir, als ich mit Anfang zwanzig die Diagnosen Reizmagen und PCOS erhalten habe - ohne Aussicht auf Besserung. Rückblickend war dies einer der Schlüsselmomente in meinem Leben, denn er brauchte mich zur Naturheilkunde. Plötzlich gab es so viele neue Ansatzpunkte und ich begann meinen Körper und meine Psyche immer besser zu verstehen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -24,6 +24,7 @@
   },
   "email": "info@praxis-larissaschmidt.de",
   "website": "https://www.praxis-larissaschmidt.de/",
+  "bookingUrl": "https://calendly.com/schmidtlarissa-mail/15-minutiges-kennenlerngesprach",
   "openingHours": [
     {
       "day": "Friday",
@@ -36,7 +37,37 @@
       "close": "14:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Meine Aus- und Fortbildungen"
+    },
+    {
+      "id": "offer-2",
+      "name": "Das schätzen meine Patientinnen"
+    },
+    {
+      "id": "offer-3",
+      "name": "Behandlung am Ursprung"
+    },
+    {
+      "id": "offer-4",
+      "name": "Kommunikation auf Augenhöhe"
+    },
+    {
+      "id": "offer-5",
+      "name": "Transparenz der Kosten"
+    }
+  ],
+  "images": [
+    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/7340ba5f-3c83-435a-bcb5-20c5817e071a/l0,t135,w1080,h1080/image-768x768.png",
+    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/c5dff68f-6b8a-4cbd-a9af-893ed18147a2/l0,t131,w1080,h1080/image-768x768.jpg",
+    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/52e048da-613d-4e65-8600-9cb35a966162/l0,t2,w1080,h1080/image-768x768.png",
+    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/60e4702d-f3e3-46ec-aa94-fb7709c35085/l0,t64,w768,h768/image.png",
+    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/04569700-8fdf-4d14-b1c8-bd229e42f2fe/l0,t135,w1080,h1080/image-768x768.jpg"
+  ],
+  "faq": [],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3elwaX5IkMRVcOojRDE6RY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9
 }

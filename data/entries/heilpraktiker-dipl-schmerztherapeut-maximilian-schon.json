@@ -2,8 +2,8 @@
   "id": "heilpraktiker-dipl-schmerztherapeut-maximilian-schon",
   "slug": "heilpraktiker-dipl-schmerztherapeut-maximilian-schon",
   "name": "Heilpraktiker & Dipl. Schmerztherapeut Maximilian Schön",
-  "description": "Heilpraktiker & Dipl. Schmerztherapeut Maximilian Schön ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Maximilian Schön ist ein zertifizierter Heilpraktiker und Dipl. Schmerztherapeut in Berlin, spezialisiert auf die Schmerztherapie nach dem Liebscher & Bracht Konzept. In seiner Praxis in der Wilhelmshöher Str. 2 bietet er eine umfassende und natürliche Schmerzbehandlung an, die ohne Medikamente oder Operationen auskommt. Ziel seiner Therapie ist es, den Patienten zu helfen, ihre Schmerzen selbst zu lindern und ihre Lebensqualität zu verbessern.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -26,8 +26,56 @@
   "phone": "017630478143",
   "email": "info@hp-schoen.com",
   "website": "https://www.hp-schoen.com/",
+  "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/maximilian-schoen/booking/places?profile_skipped=true&telehealth=false",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Ihr Schmerztherapeut in Berlin"
+    },
+    {
+      "id": "offer-2",
+      "name": "Die optimale Schmerzbehandlung"
+    },
+    {
+      "id": "offer-3",
+      "name": "Der Liebscher & Bracht Goldstandard"
+    },
+    {
+      "id": "offer-4",
+      "name": "So funktioniert die Therapie nach Liebscher & Bracht"
+    }
+  ],
+  "images": [
+    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
+    "https://static.wixstatic.com/media/0c3b6a_d4abb722bde248bbbe3766378b4937e6~mv2.jpg/v1/crop/x_0,y_131,w_1050,h_1052/fill/w_292,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_1110-web1800.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Praxis von Maximilian Schön?",
+      "answer": "Die Praxis von Maximilian Schön befindet sich in der Wilhelmshöher Str. 2, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Maximilian Schön buchen?",
+      "answer": "Sie können einen Termin bei Maximilian Schön über die Buchungsseite auf Doctolib buchen: Termin buchen."
+    },
+    {
+      "question": "Welche Therapieformen bietet Maximilian Schön an?",
+      "answer": "Maximilian Schön ist spezialisiert auf Schmerztherapie und Naturheilkunde, insbesondere die Therapie nach Liebscher & Bracht."
+    },
+    {
+      "question": "Wie kann ich Maximilian Schön kontaktieren?",
+      "answer": "Sie können Maximilian Schön telefonisch unter 017630478143 oder per E-Mail an info@hp-schoen.com kontaktieren."
+    },
+    {
+      "question": "Was ist das Ziel der Therapie nach Liebscher & Bracht?",
+      "answer": "Das Ziel der Therapie nach Liebscher & Bracht ist es, Patienten zu helfen, sich bei Schmerzen selbst zu helfen — ohne Schmerzmittel, Spritzen oder Operationen."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi4Ovbl1RqEcR9JE953ec0I0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2
 }

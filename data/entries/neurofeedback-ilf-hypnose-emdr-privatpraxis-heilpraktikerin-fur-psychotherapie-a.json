@@ -2,8 +2,8 @@
   "id": "neurofeedback-ilf-hypnose-emdr-privatpraxis-heilpraktikerin-fur-psychotherapie-a",
   "slug": "neurofeedback-ilf-hypnose-emdr-privatpraxis-heilpraktikerin-fur-psychotherapie-a",
   "name": "Neurofeedback (ILF), Hypnose, EMDR, Privatpraxis: Heilpraktikerin für Psychotherapie | Annette Leeb in Berlin Pankow",
-  "description": "Neurofeedback (ILF), Hypnose, EMDR, Privatpraxis: Heilpraktikerin für Psychotherapie | Annette Leeb in Berlin Pankow ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Annette Leeb ist Heilpraktikerin für Psychotherapie in Berlin Pankow und bietet eine Vielzahl von therapeutischen Verfahren an, darunter Neurofeedback (ILF), Hypnose und EMDR. Ihre Praxis fokussiert sich auf die Stärkung der Selbstregulationsfähigkeit des Gehirns und die Behandlung von psychischen Beschwerden wie AD(H)S, Angststörungen, Depressionen und Traumafolgestörungen. In einem individuellen Behandlungsansatz kombiniert sie Gespräche, praktische Übungen und verschiedene Therapieformen, um ihren Klienten zu helfen, ein erfülltes Leben zu führen.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -29,7 +29,147 @@
   "website": "https://www.neurofeedback-leeb.de/",
   "bookingUrl": "https://neurofeedback-leeb.de/termin-buchen/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Neurofeedback-Therapie (ILF)"
+    },
+    {
+      "id": "offer-2",
+      "name": "Neurofeedback für natürlichen Flow"
+    },
+    {
+      "id": "offer-3",
+      "name": "Meine Neurofeedback-Praxis in Berlin"
+    },
+    {
+      "id": "offer-4",
+      "name": "Neurofeedback-Therapie (ILF, Othmer)"
+    },
+    {
+      "id": "offer-5",
+      "name": "ILF-Neurofeedback als Spiegel"
+    },
+    {
+      "id": "offer-6",
+      "name": "Selbstregulationsfähigkeit verbessern"
+    },
+    {
+      "id": "offer-7",
+      "name": "Symptomorientierung"
+    },
+    {
+      "id": "offer-8",
+      "name": "Neurofeedback (ILF) hilft bei"
+    },
+    {
+      "id": "offer-9",
+      "name": "AD(H)S, Konzentrations- und Lernprobleme (foggy brain)"
+    },
+    {
+      "id": "offer-10",
+      "name": "Autismus-Spektrum-Störung (ASS)"
+    },
+    {
+      "id": "offer-11",
+      "name": "Depression, Burnout, chronische Erschöpfung"
+    },
+    {
+      "id": "offer-12",
+      "name": "Borderline-Störung"
+    },
+    {
+      "id": "offer-13",
+      "name": "Angst- und Panikstörung, Zwänge"
+    },
+    {
+      "id": "offer-14",
+      "name": "Ess-Störung"
+    },
+    {
+      "id": "offer-15",
+      "name": "Störung der Affektregulation"
+    },
+    {
+      "id": "offer-16",
+      "name": "Derealisation, Depersonalisation, Dissoziation"
+    },
+    {
+      "id": "offer-17",
+      "name": "Migräne, Kopf- und Nervenschmerzen, chronische Muskelschmerzen"
+    },
+    {
+      "id": "offer-18",
+      "name": "Schlafstörungen"
+    },
+    {
+      "id": "offer-19",
+      "name": "Stressbelastung"
+    },
+    {
+      "id": "offer-20",
+      "name": "Tinnitus"
+    },
+    {
+      "id": "offer-21",
+      "name": "Mehr zu ILF-Neurofeedback im Blog"
+    },
+    {
+      "id": "offer-22",
+      "name": "Wie eine Neurofeedback-Therapie praktisch abläuft, kannst Du hier lesen"
+    },
+    {
+      "id": "offer-23",
+      "name": "Eine Übersicht über das Feedback-Prinzip hier"
+    },
+    {
+      "id": "offer-24",
+      "name": "Du bringst alles mit für ein gutes Leben"
+    },
+    {
+      "id": "offer-25",
+      "name": "Psychotherapie"
+    },
+    {
+      "id": "offer-26",
+      "name": "Traumatherapie"
+    },
+    {
+      "id": "offer-27",
+      "name": "EMDR-Therapie"
+    },
+    {
+      "id": "offer-28",
+      "name": "Hypnosetherapie"
+    }
+  ],
+  "images": [
+    "https://neurofeedback-leeb.de/wp-content/uploads/Annette_Leeb_Psychotherapie_Berlin.jpg",
+    "https://neurofeedback-leeb.de/wp-content/uploads/Beeren_Header_Kontakt.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Therapien bietet Annette Leeb in ihrer Praxis an?",
+      "answer": "Annette Leeb bietet Neurofeedback-Therapie (ILF), Hypnosetherapie, EMDR sowie Psychotherapie an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Annette Leeb?",
+      "answer": "Die Praxis befindet sich in der Schivelbeiner Str. 45, 10439 Berlin, Pankow."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Annette Leeb buchen?",
+      "answer": "Sie können einen Termin über die Website neurofeedback-leeb.de buchen."
+    },
+    {
+      "question": "Welche Beschwerden können mit Neurofeedback-Therapie behandelt werden?",
+      "answer": "Neurofeedback-Therapie kann bei AD(H)S, Konzentrations- und Lernproblemen, Angst- und Panikstörungen, Depressionen, Traumafolgestörungen und vielen weiteren Beschwerden helfen."
+    },
+    {
+      "question": "Wie kann ich Annette Leeb kontaktieren?",
+      "answer": "Sie können Annette Leeb telefonisch unter 015738257725 oder per E-Mail an annette@neurofeedback-leeb.de kontaktieren."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6XXyXBpSqEcRcAKWVGt01EM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7
 }

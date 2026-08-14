@@ -2,8 +2,8 @@
   "id": "barbara-luckert-heilpraktikerin",
   "slug": "barbara-luckert-heilpraktikerin",
   "name": "Barbara Luckert Heilpraktikerin",
-  "description": "Barbara Luckert Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Barbara Luckert ist eine erfahrene Heilpraktikerin in Berlin, die sich auf die Traditionelle Chinesische Medizin spezialisiert hat. In ihrer Praxis bietet sie verschiedene Therapien an, darunter Akupunktur, Arzneimitteltherapie und Qigong. Die Behandlungen zielen darauf ab, das Wohlbefinden der Patienten zu fördern und eine ganzheitliche Gesundheitsversorgung zu gewährleisten.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -25,7 +25,47 @@
   "phone": "03028042475",
   "website": "https://barbaraluckert.agtcm-therapeut.de/",
   "openingHours": [],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-2",
+      "name": "Arzneimitteltherapie"
+    },
+    {
+      "id": "offer-3",
+      "name": "Qigong"
+    }
+  ],
+  "images": [
+    "https://barbaraluckert.agtcm-therapeut.de/fileadmin/_processed_/3/a/csm_Depositphotos_141275812_original_3c33e820f9.webp",
+    "https://barbaraluckert.agtcm-therapeut.de/fileadmin/_processed_/1/2/csm_akpunktur_b0d11d7c06.webp",
+    "https://barbaraluckert.agtcm-therapeut.de/fileadmin/_processed_/7/7/csm_arzneimittel_295d938cd7.webp",
+    "https://barbaraluckert.agtcm-therapeut.de/fileadmin/_processed_/5/7/csm_qigong_0e4f7d398c.webp"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet Barbara Luckert an?",
+      "answer": "Barbara Luckert bietet Akupunktur, Arzneimitteltherapie und Qigong an."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von Barbara Luckert?",
+      "answer": "Die Praxis befindet sich in der Torstraße 227, 10115 Berlin."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Barbara Luckert vereinbaren?",
+      "answer": "Termine können nach Vereinbarung telefonisch unter der Nummer 030-28042475 vereinbart werden."
+    },
+    {
+      "question": "Was ist Chinesische Medizin?",
+      "answer": "Chinesische Medizin ist eine traditionelle Medizin, die verschiedene Behandlungsmethoden wie Akupunktur, Arzneimitteltherapie und Qigong umfasst."
+    },
+    {
+      "question": "Hat die Praxis von Barbara Luckert Öffnungszeiten?",
+      "answer": "Die Öffnungszeiten sind nicht angegeben, daher sollten Termine direkt vereinbart werden."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWxRgQulRqEcRF9ZnZu-EIYI"
 }

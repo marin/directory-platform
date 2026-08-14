@@ -2,8 +2,8 @@
   "id": "chisanatura-osteopathie-naturheilkunde-chijjzlonmrq",
   "slug": "chisanatura-osteopathie-naturheilkunde-chijjzlonmrq",
   "name": "ChiSaNatura - Osteopathie & Naturheilkunde",
-  "description": "ChiSaNatura - Osteopathie & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "ChiSaNatura - Osteopathie & Naturheilkunde in Berlin Charlottenburg bietet eine ganzheitliche Betrachtung von Gesundheit und Wohlbefinden. Unter der Leitung von Martina Merländer werden Osteopathie, Naturheilkunde und Musikermedizin praktiziert, wobei der Fokus auf der untrennbaren Einheit von Körper, Geist und Seele liegt. Die Praxis befindet sich in ruhigen und niveauvollen Räumlichkeiten in der Reichsstraße 93 und legt Wert auf individuelle Behandlungsansätze, die sich ergänzen und auf die spezifischen Bedürfnisse der Patienten abgestimmt sind.",
+  "lastUpdated": "2026-08-14",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -48,7 +48,42 @@
       "close": "18:00"
     }
   ],
-  "offers": [],
-  "images": [],
-  "faq": []
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "Die Praxis der Osteopathin Martina Merländer"
+    },
+    {
+      "id": "offer-2",
+      "name": "Osteopathie – Naturheilkunde – Musikermedizin"
+    }
+  ],
+  "images": [
+    "https://www.chisanatura.com/wp-content/uploads/2022/03/chisanatura-profilbilder-martina_merlaender.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Welche Behandlungen bietet ChiSaNatura an?",
+      "answer": "ChiSaNatura bietet Osteopathie, Naturheilkunde und Musikermedizin an."
+    },
+    {
+      "question": "Wie sind die Öffnungszeiten der Praxis?",
+      "answer": "Die Praxis hat montags, dienstags und freitags von 10:00 bis 18:00 Uhr sowie donnerstags von 10:00 bis 19:00 Uhr geöffnet."
+    },
+    {
+      "question": "Wo befindet sich die Praxis von ChiSaNatura?",
+      "answer": "Die Praxis befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
+    },
+    {
+      "question": "Wie kann ich ChiSaNatura kontaktieren?",
+      "answer": "Sie können ChiSaNatura telefonisch unter 0303015772 oder per E-Mail an info@chisanatura.de kontaktieren."
+    },
+    {
+      "question": "Wer ist die behandelnde Therapeutin bei ChiSaNatura?",
+      "answer": "Die behandelnde Therapeutin ist Martina Merländer, die Osteopathin und Heilpraktikerin."
+    }
+  ],
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjZloNMRQqEcRlVdrPqtw7eA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4
 }
