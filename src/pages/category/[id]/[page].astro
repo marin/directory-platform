@@ -7,6 +7,7 @@ import LastUpdated from "../../../components/entry/LastUpdated.astro";
 import JsonLd from "../../../components/seo/JsonLd.astro";
 import PaginationNav from "../../../components/navigation/PaginationNav.astro";
 import { loadDataset } from "../../../lib/data/load-dataset.ts";
+import { sortEntriesByRichness } from "../../../lib/data/entry-richness.ts";
 import {
   toEntryCardViewModel,
   shouldIndexCategory,
@@ -42,8 +43,8 @@ export function getStaticPaths() {
 const { categoryId, page, lastPage, noindex } = Astro.props;
 const dataset = loadDataset();
 const category = dataset.categories.find((c) => c.id === categoryId)!;
-const openEntries = dataset.entries.filter(
-  (e) => e.isOpen && e.categories.includes(categoryId),
+const openEntries = sortEntriesByRichness(
+  dataset.entries.filter((e) => e.isOpen && e.categories.includes(categoryId)),
 );
 const stats = computeCategoryStats(dataset.entries, categoryId);
 const intro = dataset.categoryIntros.get(categoryId);

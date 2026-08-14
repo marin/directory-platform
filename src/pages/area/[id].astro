@@ -6,6 +6,7 @@ import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { sortEntriesByRichness } from "../../lib/data/entry-richness.ts";
 import {
   toEntryCardViewModel,
   shouldIndexArea,
@@ -33,8 +34,8 @@ export function getStaticPaths() {
 const { areaId, noindex } = Astro.props;
 const dataset = loadDataset();
 const area = dataset.areas.find((a) => a.id === areaId)!;
-const openEntries = dataset.entries.filter(
-  (e) => e.isOpen && (e.areaIds ?? []).includes(areaId),
+const openEntries = sortEntriesByRichness(
+  dataset.entries.filter((e) => e.isOpen && (e.areaIds ?? []).includes(areaId)),
 );
 const stats = computeAreaStats(dataset.entries, areaId);
 const intro = dataset.areaIntros.get(areaId);

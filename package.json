@@ -42,6 +42,7 @@
     "data:check:grounding": "node scripts/generate/check-grounding.mjs",
     "data:check:uniqueness": "node scripts/generate/check-uniqueness.mjs",
     "data:images:prepare": "node scripts/images/prepare-entry-images.mjs",
+    "data:audit:enrichment": "node scripts/data/enrichment-audit.mjs",
     "data:review": "node scripts/data/review-report.mjs",
     "data:review:ui": "node scripts/data/review-ui.mjs",
     "entry:publish": "node scripts/publish-entry.mjs",

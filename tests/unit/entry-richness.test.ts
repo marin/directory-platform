@@ -1,0 +1,125 @@
+import { describe, it, expect } from "vitest";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+import {
+  computeEntryRichness,
+  isBrokenBookingUrl,
+  hasLocalHeroImage,
+  sortEntriesByRichness,
+} from "../../src/lib/data/entry-richness.ts";
+import { normalizeEntry } from "../../src/lib/data/normalize-entry.ts";
+import { entrySchema } from "../../src/lib/validation/entry-schema.ts";
+import { templateDescription } from "../../src/lib/data/extract-about.ts";
+
+const ROOT = join(import.meta.dirname, "../../");
+
+function loadEntry(slug: string) {
+  const raw = JSON.parse(readFileSync(join(ROOT, `data/entries/${slug}.json`), "utf-8"));
+  return normalizeEntry(entrySchema.parse(raw));
+}
+
+describe("isBrokenBookingUrl", () => {
+  it("flags empty and malformed URLs", () => {
+    expect(isBrokenBookingUrl(undefined)).toBe(true);
+    expect(isBrokenBookingUrl("")).toBe(true);
+    expect(isBrokenBookingUrl("https://example.com/kontakt.html%20%22Kontakt")).toBe(true);
+    expect(isBrokenBookingUrl("https://example.com/book ")).toBe(true);
+  });
+
+  it("accepts valid booking URLs", () => {
+    expect(isBrokenBookingUrl("https://www.doctolib.de/booking")).toBe(false);
+  });
+});
+
+describe("hasLocalHeroImage", () => {
+  it("detects local prepared images", () => {
+    expect(
+      hasLocalHeroImage("test-slug", ["/images/entries/test-slug/0.webp"]),
+    ).toBe(true);
+    expect(hasLocalHeroImage("test-slug", ["https://example.com/photo.jpg"])).toBe(false);
+  });
+});
+
+describe("computeEntryRichness", () => {
+  it("scores template entries as tier D", () => {
+    const entry = normalizeEntry(
+      entrySchema.parse({
+        id: "thin",
+        slug: "thin",
+        name: "Thin Entry",
+        description: templateDescription("Thin Entry", ["akupunktur-tcm"]),
+        lastUpdated: "2026-08-14",
+        categories: ["akupunktur-tcm"],
+        faq: [],
+        offers: [],
+        images: [],
+      }),
+    );
+
+    const richness = computeEntryRichness(entry);
+    expect(richness.description).toBe(0);
+    expect(richness.tier).toBe("D");
+    expect(richness.total).toBeLessThan(10);
+  });
+
+  it("scores enriched entries as tier A", () => {
+    const entry = loadEntry("heilpraktiker-boewing");
+    const richness = computeEntryRichness(entry);
+    expect(richness.tier).toBe("A");
+    expect(richness.total).toBeGreaterThanOrEqual(60);
+    expect(richness.description).toBe(30);
+    expect(richness.faq).toBe(20);
+  });
+
+  it("scores natology template entry as tier D", () => {
+    const entry = loadEntry(
+      "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
+    );
+    const richness = computeEntryRichness(entry);
+    expect(richness.tier).toBe("D");
+    expect(richness.description).toBe(0);
+    expect(richness.bookingUrl).toBe(5);
+  });
+});
+
+describe("sortEntriesByRichness", () => {
+  it("orders by score, then lastUpdated, then name", () => {
+    const rich = normalizeEntry(
+      entrySchema.parse({
+        id: "rich",
+        slug: "rich",
+        name: "Rich Entry",
+        description: "A long custom description about holistic practice and therapies offered in Berlin with enough detail to exceed two hundred characters for the richness bonus points in scoring.",
+        lastUpdated: "2026-08-10",
+        categories: ["naturheilkunde"],
+        faq: [{ question: "Q1?", answer: "Answer with enough length here." }],
+        offers: [{ name: "Therapy", price: 80, priceLabel: "80 €" }],
+        images: ["/images/entries/rich/0.webp"],
+        bookingUrl: "https://example.com/book",
+      }),
+    );
+    const medium = normalizeEntry(
+      entrySchema.parse({
+        id: "medium",
+        slug: "medium",
+        name: "Medium Entry",
+        description: "Custom but shorter description.",
+        lastUpdated: "2026-08-14",
+        categories: ["naturheilkunde"],
+      }),
+    );
+    const thin = normalizeEntry(
+      entrySchema.parse({
+        id: "thin",
+        slug: "thin",
+        name: "Thin Entry",
+        description: templateDescription("Thin Entry", ["naturheilkunde"]),
+        lastUpdated: "2026-08-14",
+        categories: ["naturheilkunde"],
+      }),
+    );
+
+    const sorted = sortEntriesByRichness([thin, medium, rich]);
+    expect(sorted.map((entry) => entry.slug)).toEqual(["rich", "medium", "thin"]);
+  });
+});
