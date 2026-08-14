@@ -25,10 +25,13 @@
   "phone": "03021754815",
   "email": "kontakt@naturheilpraxis-in-schoeneberg.de",
   "website": "http://www.naturheilpraxis-in-schoeneberg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB8ge8xVQqEcRNoUETEo1nA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://naturheilpraxis-in-schoeneberg.de/wp-content/uploads/2020/02/logo-naturheilpraxis-schoeneberg.png"
+    "/images/entries/sabine-gowik-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -47,8 +50,5 @@
       "question": "Kann ich einen Termin in der Naturheilpraxis vereinbaren?",
       "answer": "Ja, Sie können einen Termin vereinbaren, indem Sie Sabine Gowik anrufen oder eine E-Mail senden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB8ge8xVQqEcRNoUETEo1nA0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

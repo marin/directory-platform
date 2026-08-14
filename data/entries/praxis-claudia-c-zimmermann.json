@@ -25,6 +25,9 @@
   "phone": "01713262530",
   "email": "info@claudiazimmermann.de",
   "website": "https://claudiazimmermann.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv2Bul3xRqEcRw-MAkhmKiFE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -76,11 +79,11 @@
     }
   ],
   "images": [
-    "https://claudiazimmermann.de/wp-content/uploads/2026/01/Claudia-Zimmermann.jpg",
-    "https://claudiazimmermann.de/wp-content/uploads/2023/10/nlp-neurolinguistic-programming-practitioner-having-conversation-with-client.jpg",
-    "https://claudiazimmermann.de/wp-content/uploads/2022/12/Yagertherapie.png",
-    "https://claudiazimmermann.de/wp-content/uploads/2024/10/IMG_1682-300x300.jpg",
-    "https://claudiazimmermann.de/wp-content/uploads/2022/12/Buch-DE.jpg"
+    "/images/entries/praxis-claudia-c-zimmermann/0.webp",
+    "/images/entries/praxis-claudia-c-zimmermann/1.webp",
+    "/images/entries/praxis-claudia-c-zimmermann/2.webp",
+    "/images/entries/praxis-claudia-c-zimmermann/3.webp",
+    "/images/entries/praxis-claudia-c-zimmermann/4.webp"
   ],
   "faq": [
     {
@@ -103,8 +106,5 @@
       "question": "Bietet Claudia C. Zimmermann auch ein Buch an?",
       "answer": "Ja, Claudia C. Zimmermann hat ein Buch mit dem Titel \"Geliebte Seele – Gebete mit Gott\" veröffentlicht."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv2Bul3xRqEcRw-MAkhmKiFE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

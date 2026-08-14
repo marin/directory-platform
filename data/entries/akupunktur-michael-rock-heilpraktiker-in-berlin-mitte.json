@@ -26,12 +26,13 @@
   "phone": "015737733701",
   "website": "https://www.michael-rock.de/kontakt/",
   "bookingUrl": "https://www.michael-rock.de/kontakt/#%20%22Dieses%20Element%20zuklappen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG6LW5_pRqEcRsN4t6le5cJo",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s2d64e3d305dae3bf/backgroundarea/i9cfa9584505376bf/version/1487550854/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s2d64e3d305dae3bf/image/i474bed914325cc60/version/1488474516/image.png",
-    "https://assets.jimstatic.com/s/img/cc/icons/txt.png"
+    "/images/entries/akupunktur-michael-rock-heilpraktiker-in-berlin-mitte/0.webp",
+    "/images/entries/akupunktur-michael-rock-heilpraktiker-in-berlin-mitte/1.webp",
+    "/images/entries/akupunktur-michael-rock-heilpraktiker-in-berlin-mitte/2.webp"
   ],
   "faq": [
     {
@@ -50,6 +51,5 @@
       "question": "Wie kann ich Michael Rock per E-Mail kontaktieren?",
       "answer": "Sie können Michael Rock per E-Mail unter info@michael-rock.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG6LW5_pRqEcRsN4t6le5cJo"
+  ]
 }

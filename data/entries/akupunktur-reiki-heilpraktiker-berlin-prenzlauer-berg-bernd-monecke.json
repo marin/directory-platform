@@ -26,6 +26,9 @@
   "phone": "01772727627",
   "website": "https://www.bambuspraxis.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernd-monecke?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYKbswNOqEcRIsjFqDjn6LY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [],
   "offers": [
     {
@@ -38,11 +41,11 @@
     }
   ],
   "images": [
-    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_16.jpg",
-    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_33.jpg",
-    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/06604_10.jpg",
-    "https://www.bambuspraxis.de/Configuration/Resources/Public/Images/07304_35.jpg",
-    "https://www.bambuspraxis.de/fileadmin/_processed_/2/0/csm_Bernd-Monecke_295ed126b8.jpg"
+    "/images/entries/akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke/0.webp",
+    "/images/entries/akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke/1.webp",
+    "/images/entries/akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke/2.webp",
+    "/images/entries/akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke/3.webp",
+    "/images/entries/akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke/4.webp"
   ],
   "faq": [
     {
@@ -65,8 +68,5 @@
       "question": "Wie lange ist Bernd Monecke bereits als Heilpraktiker tätig?",
       "answer": "Bernd Monecke ist seit 2000 als Heilpraktiker tätig."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYKbswNOqEcRIsjFqDjn6LY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

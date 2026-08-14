@@ -26,6 +26,9 @@
   "email": "praxis@philippnedelmann.de",
   "website": "http://www.philippnedelmann.de/",
   "bookingUrl": "https://www.doctolib.de/praxis/berlin/praxis-fuer-gesundes-leben-philipp-nedelmann",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-ZwpwVOqEcRrz8ZbIiGKVY",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 58,
   "openingHours": [
     {
       "day": "Monday",
@@ -103,9 +106,9 @@
     }
   ],
   "images": [
-    "https://www.philippnedelmann.de/wp-content/uploads/2016/02/Heilpraktiker-Nedelmann-Anmeldung-1270x800.jpg",
-    "https://images.provenexpert.com/55/f1/27751d0ea1605ce42499083599cf/widget_portrait_150_0.png",
-    "https://www.philippnedelmann.de/wp-content/uploads/2024/08/Nemwell-Logo-1.png"
+    "/images/entries/praxis-fur-gesundes-leben/0.webp",
+    "/images/entries/praxis-fur-gesundes-leben/1.webp",
+    "/images/entries/praxis-fur-gesundes-leben/2.webp"
   ],
   "faq": [
     {
@@ -128,8 +131,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 030 31985291 oder per E-Mail an praxis@philippnedelmann.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-ZwpwVOqEcRrz8ZbIiGKVY",
-  "googleMapsRating": 4.4,
-  "googleMapsRatingsCount": 58
+  ]
 }

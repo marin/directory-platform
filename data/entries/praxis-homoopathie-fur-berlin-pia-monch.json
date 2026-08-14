@@ -26,6 +26,9 @@
   "phone": "03069001727",
   "website": "http://www.homoeopathie-fuer-berlin.de/",
   "bookingUrl": "https://www.homoeopathie-fuer-berlin.de/kontaktformular/%20%22Kontaktformular",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzf-akstPqEcRc9aIuTpPoTY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -92,8 +95,8 @@
     }
   ],
   "images": [
-    "https://www.homoeopathie-fuer-berlin.de/wp-content/uploads/birkenblaetter-300x78.jpg",
-    "https://www.homoeopathie-fuer-berlin.de/wp-content/uploads/Pia-M%C3%B6nch-Heilpraktikerin-Berlin-Hom%C3%B6opathie-873x1024.jpg"
+    "/images/entries/praxis-homoopathie-fur-berlin-pia-monch/0.webp",
+    "/images/entries/praxis-homoopathie-fur-berlin-pia-monch/1.webp"
   ],
   "faq": [
     {
@@ -116,8 +119,5 @@
       "question": "Was sind häufige Beschwerden, die in der Praxis behandelt werden?",
       "answer": "Häufige Beschwerden sind Allergien, Hauterkrankungen, akute Infekte, Kopfschmerzen, Nahrungsmittelunverträglichkeiten, Menstruationsbeschwerden und seelische Probleme."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzf-akstPqEcRc9aIuTpPoTY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

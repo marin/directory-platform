@@ -27,6 +27,9 @@
   "phone": "03064092595",
   "website": "http://www.naturheilpraxis-lebensweise.de/",
   "bookingUrl": "https://www.naturheilpraxis-lebensweise.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_3XZgpVQqEcR8ZIKIAA43Xk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15,
   "openingHours": [
     {
       "day": "Monday",
@@ -124,11 +127,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=133x10000:format=jpg/path/s3d2e0895f4135637/image/i72f981d7cc18e293/version/1704461305/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=128x10000:format=jpg/path/s3d2e0895f4135637/image/i82863ad877c96cc6/version/1704462629/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=128x10000:format=jpg/path/s3d2e0895f4135637/image/i2852d959adc68f20/version/1704461326/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=38x10000:format=png/path/s3d2e0895f4135637/image/ibf621a23a3d81932/version/1701895145/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s3d2e0895f4135637/backgroundarea/icc8fa39e76357f5d/version/1487437827/image.jpg"
+    "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/0.webp",
+    "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/1.webp",
+    "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/2.webp",
+    "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/3.webp",
+    "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/4.webp"
   ],
   "faq": [
     {
@@ -151,8 +154,5 @@
       "question": "Welche speziellen Angebote gibt es für Frauen?",
       "answer": "Die Praxis bietet spezielle Angebote in der Frauenheilkunde, darunter Themen wie Kinderwunsch, PCO-Syndrom, Wechseljahre und prämenstruelles Syndrom (PMS)."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_3XZgpVQqEcR8ZIKIAA43Xk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 15
+  ]
 }

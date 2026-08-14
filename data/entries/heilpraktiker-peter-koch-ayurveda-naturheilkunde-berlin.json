@@ -26,6 +26,9 @@
   "email": "info@heilkunde-ayurveda.de",
   "website": "https://heilkunde-ayurveda.de/therapie/ayurveda-therapie-berlin/",
   "bookingUrl": "https://heilkunde-ayurveda.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlcoh8ydQqEcRn4OMSqbqJo0",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -122,9 +125,9 @@
     }
   ],
   "images": [
-    "http://heilkunde-ayurveda.de/wp-content/uploads/2016/10/Ayurveda-02.jpg",
-    "http://heilkunde-ayurveda.de/wp-content/uploads/2016/10/netra_basti.jpg",
-    "https://www-static.heilkunde-ayurveda.de/wp-content/uploads/2016/10/Ayurveda-02.jpg?media=1778672442"
+    "/images/entries/heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin/0.webp",
+    "/images/entries/heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin/1.webp",
+    "/images/entries/heilpraktiker-peter-koch-ayurveda-naturheilkunde-berlin/2.webp"
   ],
   "faq": [
     {
@@ -147,8 +150,5 @@
       "question": "Wo befindet sich die Praxis von Heilpraktiker Peter Koch?",
       "answer": "Die Praxis befindet sich in der Nostitzstraße 33, 10965 Berlin, im Bezirk Friedrichshain-Kreuzberg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlcoh8ydQqEcRn4OMSqbqJo0",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 19
+  ]
 }

@@ -28,6 +28,9 @@
   "phone": "03056301455",
   "website": "http://www.christineloch.de/",
   "bookingUrl": "mailto:kontakt@christineloch.de",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvYkXJRRJqEcR4wi4s3JZ0qQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -57,9 +60,9 @@
   ],
   "offers": [],
   "images": [
-    "https://www.christineloch.de/wp-content/uploads/go-x/u/77770c90-21b7-4de2-b6da-6c1e18661d52/l2,t0,w904,h678/image-455x341.png",
-    "https://www.christineloch.de/wp-content/uploads/go-x/u/7bc70b8b-3884-40e0-81b5-29e2d120d079/l0,t95,w1810,h1810/image-768x768.png",
-    "https://www.christineloch.de/wp-content/uploads/go-x/u/10cc6666-1fcb-4e29-a868-db3106301fb6/l6,t0,w1669,h1536/image-768x707.jpg"
+    "/images/entries/hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde/0.webp",
+    "/images/entries/hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde/1.webp",
+    "/images/entries/hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde/2.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Wie kann ich Christine Loch telefonisch erreichen?",
       "answer": "Sie können Christine Loch unter der Telefonnummer 03056301455 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvYkXJRRJqEcR4wi4s3JZ0qQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

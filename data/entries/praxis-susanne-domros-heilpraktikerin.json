@@ -25,6 +25,9 @@
   "phone": "03020987122",
   "website": "http://www.heilpraxis-im-maerchenviertel.de/",
   "bookingUrl": "https://www.heilpraxis-im-maerchenviertel.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__xlI0ZIqEcRGR-iaUbn4YI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,8 +67,8 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/5e4bc5115012cc58f5a6420f/1582881872046-PZ32WQ294BF0T56L428W/fuerwen.jpg",
-    "http://static1.squarespace.com/static/5e4bc5115012cc58f5a6420f/t/5e550275fa46824a8e6ace3d/1582629499512/Logo+blau+Schriftzug.png?format=1500w"
+    "/images/entries/praxis-susanne-domros-heilpraktikerin/0.webp",
+    "/images/entries/praxis-susanne-domros-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Wie kann ich Susanne Domrös kontaktieren, wenn ich Fragen habe?",
       "answer": "Wenn Sie Fragen haben, können Sie Susanne Domrös gerne über die Kontaktseite auf der Webseite erreichen: Kontakt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__xlI0ZIqEcRGR-iaUbn4YI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

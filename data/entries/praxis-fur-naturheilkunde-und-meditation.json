@@ -24,11 +24,10 @@
   },
   "phone": "033627277802",
   "website": "https://hp-von-aswegen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5Zf2cZM3qEcRJCFQX55tltQ",
   "openingHours": [],
   "offers": [],
-  "images": [
-    "https://hp-von-aswegen.de/wp-content/uploads/2020/06/RKI-Fallzahlen.6.6.20.jpg"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Wann hat die Praxis für Naturheilkunde und Meditation geschlossen?",
@@ -46,6 +45,5 @@
       "question": "Wo befindet sich die alte Praxis?",
       "answer": "Die alte Praxis befand sich in der Aßmannstraße 48, 12587 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5Zf2cZM3qEcRJCFQX55tltQ"
+  ]
 }

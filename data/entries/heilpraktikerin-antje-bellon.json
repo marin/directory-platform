@@ -26,6 +26,9 @@
   "email": "praxis@antje-bellon.de",
   "website": "http://www.homoeopathie.antje-bellon.de/",
   "bookingUrl": "http://www.homoeopathie.antje-bellon.de/html/kontakt.html%20%22Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiXWuoEZPqEcRR2q-yfSz9as",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -80,7 +83,7 @@
     }
   ],
   "images": [
-    "http://www.homoeopathie.antje-bellon.de/images/Gaensebluemchen-04-DD-web.jpg"
+    "/images/entries/heilpraktikerin-antje-bellon/0.webp"
   ],
   "faq": [
     {
@@ -103,8 +106,5 @@
       "question": "Welche Beschwerden werden häufig behandelt?",
       "answer": "Häufig behandelte Beschwerden sind Allergien, Heuschnupfen, Asthma, Kopfschmerzen, Hauterkrankungen, Schlafstörungen, Ängste und Konzentrationsstörungen bei Kindern."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiXWuoEZPqEcRR2q-yfSz9as",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

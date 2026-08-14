@@ -24,6 +24,9 @@
   },
   "phone": "01723853623",
   "website": "http://www.kayseranja.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Wpt79tbqEcRxGBLpbL1cYk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,11 +73,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=307x10000:format=jpg/path/s347c9c0d9ce8743e/image/ie14b9e0b28e78727/version/1636567402/heilpraxis-anja-kayser.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i834239708e0d7e2f/version/1634978546/traumaarbeit-anja-kayser-zehlendorf.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i1a580c7ac9cf4a03/version/1634978562/familienaufstellung-anja-kayser-zehlendorf.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=323x10000:format=jpg/path/s347c9c0d9ce8743e/image/i3282a0fc0ed55270/version/1634978596/craniosacrale-koerperarbeit-anja-kayser-zehlendorf.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s347c9c0d9ce8743e/backgroundarea/idea8a24272e50255/version/1634988840/image.jpg"
+    "/images/entries/heilpraktikerin-anja-kayser/0.webp",
+    "/images/entries/heilpraktikerin-anja-kayser/1.webp",
+    "/images/entries/heilpraktikerin-anja-kayser/2.webp",
+    "/images/entries/heilpraktikerin-anja-kayser/3.webp",
+    "/images/entries/heilpraktikerin-anja-kayser/4.webp"
   ],
   "faq": [
     {
@@ -97,8 +100,5 @@
       "question": "Was ist das Ziel der Traumaarbeit bei Anja Kayser?",
       "answer": "Das Ziel der Traumaarbeit bei Anja Kayser ist es, überwältigende Erlebnisse zu erlösen und zu transformieren, sodass Gefühle von Geborgenheit und Sicherheit verankert werden und Lebensfreude zurückkehrt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Wpt79tbqEcRxGBLpbL1cYk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

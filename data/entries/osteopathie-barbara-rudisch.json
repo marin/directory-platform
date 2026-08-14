@@ -26,6 +26,9 @@
   "email": "info@osteo-friedrichshagen.de",
   "website": "https://osteo-friedrichshagen.de/",
   "bookingUrl": "https://osteo-friedrichshagen.de/#kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG6MMzwI3qEcRS0-kNAoXj2M",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [],
   "offers": [
     {
@@ -78,11 +81,11 @@
     }
   ],
   "images": [
-    "https://osteo-friedrichshagen.de/assets/img/osteopathie-barbara-rudisch.png?h=7782ea7dc9c37037f97c99b258abbc34",
-    "https://osteo-friedrichshagen.de/assets/img/portrait-barbara-rudisch.jpg?h=bc56b44ce4fdc0b5ee483dec445937c8",
-    "https://osteo-friedrichshagen.de/assets/img/portrait-barbara-rudisch-eingang.jpg?h=2c2b09966465b661d597815d640a7037",
-    "https://osteo-friedrichshagen.de/assets/img/praxis-01.jpg?h=8dc19e0b8a24cd167ee1fe825df62342",
-    "https://osteo-friedrichshagen.de/assets/img/praxis-02.jpg?h=d02f1b3ce0f910b12a0d3110d315fd55"
+    "/images/entries/osteopathie-barbara-rudisch/0.webp",
+    "/images/entries/osteopathie-barbara-rudisch/1.webp",
+    "/images/entries/osteopathie-barbara-rudisch/2.webp",
+    "/images/entries/osteopathie-barbara-rudisch/3.webp",
+    "/images/entries/osteopathie-barbara-rudisch/4.webp"
   ],
   "faq": [
     {
@@ -105,8 +108,5 @@
       "question": "Wie kann ich einen Termin vereinbaren?",
       "answer": "Sie können einen Termin telefonisch unter 030 - 23 48 07 97 vereinbaren oder über die Webseite hier eine Anfrage senden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG6MMzwI3qEcRS0-kNAoXj2M",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

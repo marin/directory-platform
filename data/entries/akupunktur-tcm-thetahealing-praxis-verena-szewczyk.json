@@ -26,6 +26,9 @@
   "phone": "03021295195",
   "website": "http://www.akupunktur-bln.de/",
   "bookingUrl": "https://www.akupunktur-bln.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA_eckstPqEcRyT4F2Abqi9E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 27,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://www.akupunktur-bln.de/uploads/7/9/0/0/7900286/img-0060_orig.jpg",
-    "https://www.akupunktur-bln.de/uploads/7/9/0/0/7900286/photo-2025-07-21-20-50-54_orig.jpeg",
-    "https://www.akupunktur-bln.de/uploads/7/9/0/0/7900286/editor/colton-sturgeon-6kkyyqtedwq-unsplash.jpg?1753119891",
-    "https://www.akupunktur-bln.de/uploads/7/9/0/0/7900286/editor/photo-2026-05-11-17-38-34.jpeg?1778525660",
-    "https://www.akupunktur-bln.de/uploads/7/9/0/0/7900286/editor/acupuncture-2308489-1280.jpg?1722531240"
+    "/images/entries/akupunktur-tcm-thetahealing-praxis-verena-szewczyk/0.webp",
+    "/images/entries/akupunktur-tcm-thetahealing-praxis-verena-szewczyk/1.webp",
+    "/images/entries/akupunktur-tcm-thetahealing-praxis-verena-szewczyk/2.webp",
+    "/images/entries/akupunktur-tcm-thetahealing-praxis-verena-szewczyk/3.webp",
+    "/images/entries/akupunktur-tcm-thetahealing-praxis-verena-szewczyk/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
       "answer": "Einen Termin können Sie über die Webseite der Praxis buchen oder telefonisch unter der Nummer 03021295195."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA_eckstPqEcRyT4F2Abqi9E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 27
+  ]
 }

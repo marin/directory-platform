@@ -28,6 +28,9 @@
   "email": "kontakt@steffikrausehypnose.de",
   "website": "https://www.steffikrausehypnose.de/",
   "bookingUrl": "https://calendly.com/steffikrausehypnose/kennenlerngespraech",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtYM1c9lHqEcRdmHwxTrJ1TA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -174,11 +177,11 @@
     }
   ],
   "images": [
-    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-kl.png",
-    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-steffi.png",
-    "https://steffikrausehypnose.de/wp-content/uploads/2024/09/heilpraktikerin-fuer-psychotherapie-berlin_testimonial.png",
-    "https://steffikrausehypnose.de/wp-content/uploads/2024/08/heilpraktikerin-fuer-psychotherapie-berlin-.png",
-    "https://steffikrausehypnose.de/wp-content/uploads/2024/10/heilpraktikerin-fuer-psychotherapie-berlin-angst.png"
+    "/images/entries/steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b/0.webp",
+    "/images/entries/steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b/1.webp",
+    "/images/entries/steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b/2.webp",
+    "/images/entries/steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b/3.webp",
+    "/images/entries/steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b/4.webp"
   ],
   "faq": [
     {
@@ -201,8 +204,5 @@
       "question": "Wie kann ich Steffi Krause kontaktieren?",
       "answer": "Sie können Steffi Krause telefonisch unter 017624635710 oder per E-Mail an kontakt@steffikrausehypnose.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtYM1c9lHqEcRdmHwxTrJ1TA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

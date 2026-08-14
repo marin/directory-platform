@@ -24,6 +24,9 @@
   },
   "phone": "03089563563",
   "website": "http://zsoma.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm766SUtOqEcRjNUuK5UDyHw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,8 +66,8 @@
   ],
   "offers": [],
   "images": [
-    "http://zsoma.de/wp-content/uploads/2019/02/DSCF6879.jpg",
-    "https://zsoma.de/wp-content/uploads/2019/02/DSCF6821-e1774273596891.jpg"
+    "/images/entries/elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit/0.webp",
+    "/images/entries/elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit/1.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Was ist das Ziel der Körperarbeit in der Praxis Zsoma?",
       "answer": "Das Ziel der Körperarbeit in der Praxis Zsoma ist es, ein gutes Bewusstsein für den eigenen Körper zu entwickeln, um Gefühle klar wahrzunehmen und die richtigen Entscheidungen zu treffen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm766SUtOqEcRjNUuK5UDyHw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

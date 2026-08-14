@@ -27,6 +27,9 @@
   "email": "kontakt@physiotherapie-halensee.de",
   "website": "https://physiotherapie-halensee.de/",
   "bookingUrl": "https://physiotherapie-halensee.de/contact/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaZGQb6JtmCkRQgduLD0S96k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -89,14 +92,11 @@
     }
   ],
   "images": [
-    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Krankengymnastik-Berlin-Halensee_11zon-699x1024.webp",
-    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Lymphdrainage-Berlin-Halensee_11zon-768x1024.webp",
-    "https://physiotherapie-halensee.de/wp-content/uploads/2024/12/Triggerpunktbehandlung-Faszienbehandlung-Berlin-Halensee_11zon-768x1024.webp",
-    "https://physiotherapie-halensee.de/wp-content/uploads/2024/11/Mella-Physiotherapeutin-Berlin-Halensee-768x1024.jpg",
-    "https://physiotherapie-halensee.de/wp-content/uploads/2024/11/Heilpraktikerin-fuer-Physiotherapie-Berlin-683x1024.jpg"
+    "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/0.webp",
+    "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/1.webp",
+    "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/2.webp",
+    "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/3.webp",
+    "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaZGQb6JtmCkRQgduLD0S96k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 19
+  "faq": []
 }

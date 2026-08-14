@@ -25,6 +25,9 @@
   "phone": "0302143458",
   "email": "reiki.nau@t-online.de",
   "website": "http://www.berlin-reiki.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQdbQUfRQqEcR-1iJ23SuqS0",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 14,
   "openingHours": [],
   "offers": [
     {
@@ -49,11 +52,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/bfb478f2-4117-4cf2-92b8-da3be7ca98a6/Gabriele_Nau_Heilpraktikerin_Berlin_Reiki__.png",
-    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551805544501-6Y0C5F5CVXU3UZC579S6/Reiki_Berlin.jpg",
-    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551806182203-FL5E2LV3E4FR39HCVKYX/Reiki_Berlin_Seminare.jpg",
-    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1551806200585-5IHQ57YLK7GA8F3E52O6/Reiki_Berlin_Akupunktur.jpg",
-    "https://images.squarespace-cdn.com/content/v1/599bf953c534a5c068e0f75f/1554476181308-S4GAJLGYSQC88VALHCCT/Ohrkerzen_Gabriele_Nau.jpg"
+    "/images/entries/naturheilpraxis-gabriele-nau/0.webp",
+    "/images/entries/naturheilpraxis-gabriele-nau/1.webp",
+    "/images/entries/naturheilpraxis-gabriele-nau/2.webp",
+    "/images/entries/naturheilpraxis-gabriele-nau/3.webp",
+    "/images/entries/naturheilpraxis-gabriele-nau/4.webp"
   ],
   "faq": [
     {
@@ -76,8 +79,5 @@
       "question": "Was ist Ohrakupunktur und welche Vorteile hat sie?",
       "answer": "Ohrakupunktur ist eine Reflexzonentherapie, die sehr wirksam ist und keine Nebenwirkungen erzeugt. Sie kann schnell und präzise in der Notfallmedizin, z.B. bei Schmerzbehandlung, eingesetzt werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQdbQUfRQqEcR-1iJ23SuqS0",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 14
+  ]
 }

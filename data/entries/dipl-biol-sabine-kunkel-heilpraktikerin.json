@@ -26,6 +26,9 @@
   "email": "kontakt@sabine-kunkel.de",
   "website": "https://sabine-kunkel.de/",
   "bookingUrl": "https://sabine-kunkel.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM_Wz24lNqEcR3lMPzE7nc5Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -158,11 +161,11 @@
     }
   ],
   "images": [
-    "https://sabine-kunkel.de/wp-content/uploads/2018/03/sabine-kunkel.jpg",
-    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_151707175_M.jpg",
-    "https://sabine-kunkel.de/wp-content/uploads/2018/03/more.png",
-    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_56473140_M.jpg",
-    "https://sabine-kunkel.de/wp-content/uploads/2018/03/Fotolia_118800338_XS-e1522071817880.jpg"
+    "/images/entries/dipl-biol-sabine-kunkel-heilpraktikerin/0.webp",
+    "/images/entries/dipl-biol-sabine-kunkel-heilpraktikerin/1.webp",
+    "/images/entries/dipl-biol-sabine-kunkel-heilpraktikerin/2.webp",
+    "/images/entries/dipl-biol-sabine-kunkel-heilpraktikerin/3.webp",
+    "/images/entries/dipl-biol-sabine-kunkel-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -185,8 +188,5 @@
       "question": "Für welche Altersgruppen bietet Sabine Kunkel ihre heilkundliche Unterstützung an?",
       "answer": "Sabine Kunkel bietet ihre heilkundliche Unterstützung für alle Altersgruppen an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM_Wz24lNqEcR3lMPzE7nc5Q",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

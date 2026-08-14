@@ -27,6 +27,9 @@
   "email": "kontakt@kerstinbolze.de",
   "website": "https://kerstinbolze.de/",
   "bookingUrl": "https://kerstinbolze.de/termin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTUoFkGIG2yURhzepkzfDWqU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,9 +63,9 @@
     }
   ],
   "images": [
-    "https://i0.wp.com/kerstinbolze.de/wp-content/uploads/2022/03/DSC_7460_25perc-1.jpg?fit=450%2C675&ssl=1",
-    "https://i0.wp.com/kerstinbolze.de/wp-content/uploads/2021/05/20210504_111444-scaled.jpg?resize=495%2C400&ssl=1",
-    "https://kerstinbolze.de/wp-content/uploads/2023/04/KB_Welle_1134px_MitText.png"
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-bolze/0.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-bolze/1.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-bolze/2.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Wie kann ich Kerstin Bolze kontaktieren?",
       "answer": "Sie können Kerstin Bolze telefonisch unter 01724274655 oder per E-Mail an kontakt@kerstinbolze.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTUoFkGIG2yURhzepkzfDWqU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

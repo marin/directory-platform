@@ -26,6 +26,9 @@
   "email": "kundenservice@jameda.de",
   "website": "https://www.jameda.de/berlin/heilpraktiker/klass-homoeopathie/roland-baron/uebersicht/80294705_1/",
   "bookingUrl": "https://www.jameda.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj6wIpw5OqEcRzU_OtiTJ5kw",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [
     {
@@ -38,9 +41,8 @@
     }
   ],
   "images": [
-    "https://www.jameda.de/img/de/avatar/user_default.png",
-    "https://platform.docplanner.com/img/general/doctor/doctor-default-80-80.png?1981952613",
-    "https://platform.docplanner.com/img/de/open-graph/og-v0.png"
+    "/images/entries/baron-roland-heilpraktiker/0.webp",
+    "/images/entries/baron-roland-heilpraktiker/1.webp"
   ],
   "faq": [
     {
@@ -63,8 +65,5 @@
       "question": "Wie kann ich Baron Roland kontaktieren?",
       "answer": "Sie können Baron Roland telefonisch unter 017661806270 oder per E-Mail an kundenservice@jameda.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj6wIpw5OqEcRzU_OtiTJ5kw",
-  "googleMapsRating": 3.7,
-  "googleMapsRatingsCount": 6
+  ]
 }

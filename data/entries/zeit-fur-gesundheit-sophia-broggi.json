@@ -26,6 +26,9 @@
   "email": "info@naturheilpraxis-zfg.de",
   "website": "http://www.naturheilpraxis-zfg.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/sophia-broggi?utm_campaign=website-button&utm_source=sophia-broggi-website-button&utm_medium=referral&utm_content=option-8&utm_term=sophia-broggi",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTadfqNPqEcRL-8vx7yBK1M",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -110,11 +113,11 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-zfg.de/wp-content/uploads/2026/06/Sophia_business-2-440x550.jpg",
-    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Sophia_broggi_frauen_heilpraxis-2_websize-534x800.jpg",
-    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Sophia_broggi_frauen_heilpraxis-11_websize-683x1024.jpg",
-    "http://naturheilpraxis-zfg.de/wp-content/uploads/2026/06/Sophia_business-2-440x550.jpg",
-    "https://naturheilpraxis-zfg.de/wp-content/uploads/2023/10/Logo-Webseite-gross-e1696367702922-300x184.png"
+    "/images/entries/zeit-fur-gesundheit-sophia-broggi/0.webp",
+    "/images/entries/zeit-fur-gesundheit-sophia-broggi/1.webp",
+    "/images/entries/zeit-fur-gesundheit-sophia-broggi/2.webp",
+    "/images/entries/zeit-fur-gesundheit-sophia-broggi/3.webp",
+    "/images/entries/zeit-fur-gesundheit-sophia-broggi/4.webp"
   ],
   "faq": [
     {
@@ -137,8 +140,5 @@
       "question": "Kann ich ein Kennenlerngespräch vereinbaren?",
       "answer": "Ja, Sie können ein 15-minütiges Kennenlerngespräch mit Sophia Broggi vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTadfqNPqEcRL-8vx7yBK1M",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

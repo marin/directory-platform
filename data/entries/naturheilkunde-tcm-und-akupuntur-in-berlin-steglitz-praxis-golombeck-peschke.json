@@ -26,13 +26,14 @@
   "phone": "03079744692",
   "website": "http://akupunktur-tcm-steglitz.de/",
   "bookingUrl": "https://akupunktur-tcm-steglitz.de/termine.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgRVwxJ1aqEcRbBop3W-YFko",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://akupunktur-tcm-steglitz.de/seerose1.jpg",
-    "https://akupunktur-tcm-steglitz.de/titel-rechts.png",
-    "https://akupunktur-tcm-steglitz.de/nichtstun1.png",
-    "https://akupunktur-tcm-steglitz.de/seerose2.jpg"
+    "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/0.webp",
+    "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/1.webp",
+    "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/2.webp",
+    "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/3.webp"
   ],
   "faq": [
     {
@@ -51,6 +52,5 @@
       "question": "Wie kann ich die Praxis telefonisch erreichen?",
       "answer": "Die Praxis ist telefonisch unter der Nummer 03079744692 erreichbar."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgRVwxJ1aqEcRbBop3W-YFko"
+  ]
 }

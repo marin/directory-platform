@@ -26,6 +26,9 @@
   "email": "silviaszelies@web.de",
   "website": "http://www.lebenskraft-berlin.de/",
   "bookingUrl": "https://www.lebenskraft-berlin.de/#",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUzH6RBEgZUERs_CJsfgfF70",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -38,11 +41,11 @@
     }
   ],
   "images": [
-    "https://www.lebenskraft-berlin.de/images/homoeopathie-berlin.png",
-    "https://www.lebenskraft-berlin.de/images/bild-1.png",
-    "https://www.lebenskraft-berlin.de/images/bild-2.png",
-    "https://www.lebenskraft-berlin.de/images/bild-3.png",
-    "https://www.lebenskraft-berlin.de/images/bild-4.png"
+    "/images/entries/silvia-szelies/0.webp",
+    "/images/entries/silvia-szelies/1.webp",
+    "/images/entries/silvia-szelies/2.webp",
+    "/images/entries/silvia-szelies/3.webp",
+    "/images/entries/silvia-szelies/4.webp"
   ],
   "faq": [
     {
@@ -65,8 +68,5 @@
       "question": "Wie kann ich Silvia Szelies kontaktieren?",
       "answer": "Sie können Silvia Szelies telefonisch unter 03043774849 oder per E-Mail an silviaszelies@web.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUzH6RBEgZUERs_CJsfgfF70",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

@@ -25,11 +25,14 @@
   "phone": "0308825678",
   "website": "http://www.naturheilpraxis-splawski.de/",
   "bookingUrl": "http://www.naturheilpraxis-splawski.de/sites/kontakt.htm",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD_fPaeNQqEcRiKfz3FTW1j8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.naturheilpraxis-splawski.de/images/linie-gruen23.gif",
-    "http://www.naturheilpraxis-splawski.de/images/alx-bild1.gif"
+    "/images/entries/alexander-splawski-heilpraktiker/0.webp",
+    "/images/entries/alexander-splawski-heilpraktiker/1.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Hat die Naturheilpraxis von Alexander Splawski Öffnungszeiten?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD_fPaeNQqEcRiKfz3FTW1j8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

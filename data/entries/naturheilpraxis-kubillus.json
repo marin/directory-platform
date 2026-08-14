@@ -27,6 +27,9 @@
   "email": "hosting@jweiland.net",
   "website": "https://www.heilpraxis-kubillus.de/",
   "bookingUrl": "https://www.heilpraxis-kubillus.de/terminvereinbarung.html%20%22Terminvereinbarung",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN20LdoVaqEcRgTGKSQ2WQdE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -61,7 +64,7 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-kubillus.de/fileadmin/Fotos_von_mir/Heilpraktiker-Berlin-Homoeopathie.jpg"
+    "/images/entries/naturheilpraxis-kubillus/0.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Wie kann ich die Naturheilpraxis Kubillus kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Kubillus telefonisch unter 030-79745024 oder per E-Mail an hosting@jweiland.net kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN20LdoVaqEcRgTGKSQ2WQdE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

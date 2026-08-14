@@ -27,6 +27,9 @@
   },
   "phone": "03024641829",
   "website": "https://www.gesundheitspraxis-mitte.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7y9ohvpRqEcRQjHTPbGlSY4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,14 +59,11 @@
   ],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=820x10000:format=jpg/path/s9c25f3cdc1a59a33/image/i24880ea11fe00751/version/1672312003/heilpraktiker-lina-freisen-osteopathie-berlin-mitte.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=730x10000:format=jpg/path/s9c25f3cdc1a59a33/image/ibfdd78cc44329ee0/version/1672312742/behandlungsraum-f%C3%BCr-osteopathie-und-chiropraktik-mit-spezieller-chiropraktiker-liege.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=730x10000:format=jpg/path/s9c25f3cdc1a59a33/image/i6d8639c2184fa404/version/1672312865/behandlungsraum-in-der-heilpraktiker-praxis-f%C3%BCr-vitamin-c-infusionen.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=730x10000:format=jpg/path/s9c25f3cdc1a59a33/image/ied332dca3feaebe2/version/1613488258/platz-f%C3%BCr-chiropraktische-vorgespr%C3%A4che.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/s9c25f3cdc1a59a33/image/i24880ea11fe00751/version/1672312003/heilpraktiker-lina-freisen-osteopathie-berlin-mitte.jpg"
+    "/images/entries/lina-freisen-heilpraktikerin-lina-freisen/0.webp",
+    "/images/entries/lina-freisen-heilpraktikerin-lina-freisen/1.webp",
+    "/images/entries/lina-freisen-heilpraktikerin-lina-freisen/2.webp",
+    "/images/entries/lina-freisen-heilpraktikerin-lina-freisen/3.webp",
+    "/images/entries/lina-freisen-heilpraktikerin-lina-freisen/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7y9ohvpRqEcRQjHTPbGlSY4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 17
+  "faq": []
 }

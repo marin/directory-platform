@@ -24,6 +24,7 @@
   },
   "phone": "03089564951",
   "website": "http://www.tcm-ella-pathak.de/kontakt-anfahrt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCxhWcvhNqEcR7MldLiY0UU0",
   "openingHours": [],
   "offers": [
     {
@@ -32,8 +33,8 @@
     }
   ],
   "images": [
-    "http://www.tcm-ella-pathak.de/img/img-kontakt.jpg",
-    "http://www.tcm-ella-pathak.de/img/ella-pathak.gif"
+    "/images/entries/heilpraxis/0.webp",
+    "/images/entries/heilpraxis/1.webp"
   ],
   "faq": [
     {
@@ -52,6 +53,5 @@
       "question": "Welche Dienstleistungen bietet die Heilpraxis an?",
       "answer": "Die Heilpraxis bietet Dienstleistungen im Bereich Naturheilkunde an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCxhWcvhNqEcR7MldLiY0UU0"
+  ]
 }

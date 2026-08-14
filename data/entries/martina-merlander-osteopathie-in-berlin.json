@@ -25,6 +25,9 @@
   "phone": "0303015772",
   "email": "info@chisanatura.com",
   "website": "http://www.martina-merlaender.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoXgeNcRQqEcRyzrCv9u1tsk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +61,7 @@
     }
   ],
   "images": [
-    "https://www.chisanatura.com/wp-content/uploads/2022/03/chisanatura-profilbilder-martina_merlaender.jpg"
+    "/images/entries/martina-merlander-osteopathie-in-berlin/0.webp"
   ],
   "faq": [
     {
@@ -77,8 +80,5 @@
       "question": "Wie kann ich Martina Merländer kontaktieren?",
       "answer": "Sie können Martina Merländer telefonisch unter 0303015772 oder per E-Mail an info@chisanatura.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoXgeNcRQqEcRyzrCv9u1tsk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

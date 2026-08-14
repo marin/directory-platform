@@ -27,6 +27,9 @@
   "email": "kontakt@franziskabude.de",
   "website": "https://www.franziskabude.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/franziska-bude?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXKYk5hPqEcRqv-c8Z5LqIg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -106,8 +109,8 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://franziskabude.de/wp-content/uploads/go-x/u/de95261a-97f8-49f3-ac71-3764941094f5/image.png"
+    "/images/entries/praxis-fur-verhaltenstherapeutisch-orientierte-sucht-psychotherapie-franziska-bu/0.webp",
+    "/images/entries/praxis-fur-verhaltenstherapeutisch-orientierte-sucht-psychotherapie-franziska-bu/1.webp"
   ],
   "faq": [
     {
@@ -130,8 +133,5 @@
       "question": "Wie kann ich Franziska Bude kontaktieren?",
       "answer": "Sie können Franziska Bude telefonisch unter 015561155408 oder per E-Mail an kontakt@franziskabude.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXKYk5hPqEcRqv-c8Z5LqIg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

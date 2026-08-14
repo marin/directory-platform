@@ -25,6 +25,7 @@
   "phone": "015227010228",
   "email": "k.funke@posteo.de",
   "website": "https://www.therapie.de/profil/funke.katrin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNc0FoD1RqEcRPsIn3sskl7g",
   "openingHours": [
     {
       "day": "Monday",
@@ -87,7 +88,7 @@
     }
   ],
   "images": [
-    "https://www.therapie.de/fileadmin/_processed_/0/b/csm_funke.katrin_9d7e55d9c3.jpg"
+    "/images/entries/heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke/0.webp"
   ],
   "faq": [
     {
@@ -110,6 +111,5 @@
       "question": "Gibt es freie Plätze oder Wartezeiten für Termine?",
       "answer": "Es sind freie Plätze vorhanden, und in dringenden Fällen sind auch kurzfristige Termine möglich."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNc0FoD1RqEcRPsIn3sskl7g"
+  ]
 }

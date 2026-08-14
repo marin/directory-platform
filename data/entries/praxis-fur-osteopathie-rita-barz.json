@@ -25,6 +25,9 @@
   "phone": "03020096037",
   "email": "info@osteopathie-barz.de",
   "website": "http://osteopathie-barz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKRGk-uX3qEcR1EpLfgFPhmY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,7 +66,7 @@
     }
   ],
   "images": [
-    "http://osteopathie-barz.de/images/logo_center.png"
+    "/images/entries/praxis-fur-osteopathie-rita-barz/0.webp"
   ],
   "faq": [
     {
@@ -86,8 +89,5 @@
       "question": "Gibt es besondere Angebote in der Praxis?",
       "answer": "Ja, die Praxis bietet Parkmöglichkeiten und eine Anfahrt mit dem Bus an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKRGk-uX3qEcR1EpLfgFPhmY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

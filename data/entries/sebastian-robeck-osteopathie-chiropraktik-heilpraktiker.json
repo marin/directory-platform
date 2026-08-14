@@ -26,6 +26,9 @@
   "email": "ocflorian.robeck@gmail.com",
   "website": "https://www.praxis-robeck.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/sebastian-robeck",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS1QMcFVXqEcRHk4ngZcs6ng",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 76,
   "openingHours": [
     {
       "day": "Monday",
@@ -67,11 +70,7 @@
       "name": "Richten Sie Ihre Domain mit IONOS ein."
     }
   ],
-  "images": [
-    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/mywebsite.jpeg",
-    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/webhosting.jpeg",
-    "https://www.praxis-robeck.de/spicons/templates/defaultsite/de-DE/images/vps.jpeg"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Welche Behandlungen bietet Sebastian Robeck an?",
@@ -93,8 +92,5 @@
       "question": "Wie kann ich Sebastian Robeck kontaktieren?",
       "answer": "Sie können Sebastian Robeck per E-Mail unter ocflorian.robeck@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS1QMcFVXqEcRHk4ngZcs6ng",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 76
+  ]
 }

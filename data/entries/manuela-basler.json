@@ -25,14 +25,17 @@
   "phone": "03067826871",
   "website": "http://www.naturheilpraxis-baesler.de/",
   "bookingUrl": "https://naturheilpraxis-baesler.de/kontakt.htm",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFQMLgFNGqEcRrwf49IXKwok",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://naturheilpraxis-baesler.de/images/manuelabaesler01.jpg",
-    "https://naturheilpraxis-baesler.de/images/baesler-head1.gif",
-    "https://naturheilpraxis-baesler.de/images/baesler-headman.gif",
-    "https://naturheilpraxis-baesler.de/images/baesler-head2.gif",
-    "https://naturheilpraxis-baesler.de/images/trans.gif"
+    "/images/entries/manuela-basler/0.webp",
+    "/images/entries/manuela-basler/1.webp",
+    "/images/entries/manuela-basler/2.webp",
+    "/images/entries/manuela-basler/3.webp",
+    "/images/entries/manuela-basler/4.webp"
   ],
   "faq": [
     {
@@ -55,8 +58,5 @@
       "question": "Gibt es Öffnungszeiten für die Praxis von Manuela Bäsler?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFQMLgFNGqEcRrwf49IXKwok",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

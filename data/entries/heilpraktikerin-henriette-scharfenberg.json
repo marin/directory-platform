@@ -26,6 +26,9 @@
   "email": "kontakt@heilpraktiker-scharfenberg.de",
   "website": "http://heilpraktiker-scharfenberg.de/",
   "bookingUrl": "mailto:kontakt@heilpraktiker-scharfenberg.de",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV3hcZp5aqEcRn-mVKueM_Tc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -70,11 +73,11 @@
     }
   ],
   "images": [
-    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2016/12/banner_heilpraktiker-scharfenberg.jpeg",
-    "http://heilpraktiker-scharfenberg.de/wp-content/uploads/2017/07/Portrait_2_komp-1-274x300.jpg",
-    "https://berlin.place/wp-content/uploads/sellos/heilpraktikerin-henriette-scharfenberg-P4A0F8fcfJhj.png",
-    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2018/08/birch-trees-260838_1280-150x150.jpg",
-    "https://heilpraktiker-scharfenberg.de/wp-content/uploads/2026/04/gosiak1980-birch-7241239-150x150.jpg"
+    "/images/entries/heilpraktikerin-henriette-scharfenberg/0.webp",
+    "/images/entries/heilpraktikerin-henriette-scharfenberg/1.webp",
+    "/images/entries/heilpraktikerin-henriette-scharfenberg/2.webp",
+    "/images/entries/heilpraktikerin-henriette-scharfenberg/3.webp",
+    "/images/entries/heilpraktikerin-henriette-scharfenberg/4.webp"
   ],
   "faq": [
     {
@@ -93,8 +96,5 @@
       "question": "Kann ich auch mein Tier in der Praxis behandeln lassen?",
       "answer": "Ja, für die naturheilkundliche Behandlung von Tieren gibt es eine separate Tierheilpraxis, die unter www.thp-scharfenberg.de erreichbar ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV3hcZp5aqEcRn-mVKueM_Tc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

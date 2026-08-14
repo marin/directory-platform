@@ -27,6 +27,9 @@
   "phone": "03096519161",
   "email": "kornmeier@praxislebenskraft.de",
   "website": "http://www.chinesische-medizin-in-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3-aY6HghZUERAseVQ5_wkHA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -47,11 +50,11 @@
     }
   ],
   "images": [
-    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_05.jpg",
-    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_03.jpg",
-    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_04.jpg",
-    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_01.jpg",
-    "https://www.praxislebenskraft.de/wp-content/uploads/2023/02/slideshow_neu_2023_02.jpg"
+    "/images/entries/zentrum-fur-chinesische-und-alternative-medizin/0.webp",
+    "/images/entries/zentrum-fur-chinesische-und-alternative-medizin/1.webp",
+    "/images/entries/zentrum-fur-chinesische-und-alternative-medizin/2.webp",
+    "/images/entries/zentrum-fur-chinesische-und-alternative-medizin/3.webp",
+    "/images/entries/zentrum-fur-chinesische-und-alternative-medizin/4.webp"
   ],
   "faq": [
     {
@@ -74,8 +77,5 @@
       "question": "Wie lauten die Sprechzeiten der Praxis?",
       "answer": "Die Sprechzeiten sind von Montag bis Donnerstag nach Vereinbarung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3-aY6HghZUERAseVQ5_wkHA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

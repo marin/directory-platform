@@ -26,6 +26,9 @@
   "email": "praxis@danieladumann.de",
   "website": "https://www.danieladumann.de/",
   "bookingUrl": "http://my.lemniscus.de/pss/21c5c780-26ba-4f11-8885-9a1d09a0c241",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwdcWYxZRqEcR8RDtWZzHMgI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -94,11 +97,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/31df7b_d1451340c4654933a99e3e221c1cfc10~mv2.jpg/v1/fill/w_1905,h_580,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_d1451340c4654933a99e3e221c1cfc10~mv2.jpg",
-    "https://static.wixstatic.com/media/31df7b_bff15e4a263b4c4c99423a8d56d6d47a~mv2.jpg/v1/crop/x_38,y_0,w_230,h_230/fill/w_309,h_309,al_c,lg_1,q_80,enc_avif,quality_auto/Hildegard_Medizin_Daniela-Dumann-Berlin.jpg",
-    "https://static.wixstatic.com/media/31df7b_bff15e4a263b4c4c99423a8d56d6d47a~mv2.jpg/v1/crop/x_0,y_0,w_230,h_230/fill/w_309,h_309,al_c,lg_1,q_80,enc_avif,quality_auto/Hildegard_Medizin_Daniela-Dumann-Berlin.jpg",
-    "https://static.wixstatic.com/media/31df7b_9b2c3c83467c454cbc132741b87f3863~mv2.jpg/v1/fill/w_478,h_441,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_9b2c3c83467c454cbc132741b87f3863~mv2.jpg",
-    "https://static.wixstatic.com/media/31df7b_97ac489d9f7b46008f229bd043884d86~mv2.jpg/v1/fill/w_474,h_441,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/31df7b_97ac489d9f7b46008f229bd043884d86~mv2.jpg"
+    "/images/entries/daniela-dumann/0.webp",
+    "/images/entries/daniela-dumann/1.webp",
+    "/images/entries/daniela-dumann/2.webp",
+    "/images/entries/daniela-dumann/3.webp",
+    "/images/entries/daniela-dumann/4.webp"
   ],
   "faq": [
     {
@@ -121,8 +124,5 @@
       "question": "Für welche Beschwerden ist die Aderlasstherapie sinnvoll?",
       "answer": "Die Aderlasstherapie ist sinnvoll bei Beschwerden wie Rheuma, Gicht, Arthritis, Diabetes, Bluthochdruck, Kopfschmerzen, Migräne, Tinnitus und Hauterkrankungen wie Ekzem und Neurodermitis."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwdcWYxZRqEcR8RDtWZzHMgI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

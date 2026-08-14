@@ -26,6 +26,9 @@
   "email": "info@katja-neumann.de",
   "website": "http://www.katja-neumann.de/",
   "bookingUrl": "https://www.katja-neumann.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz0HiMAdSqEcRLcYM-xSz0Vk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,9 +67,9 @@
     }
   ],
   "images": [
-    "https://www.katja-neumann.de/files/media/bildmaterial/_DSC1994.jpg",
-    "https://www.katja-neumann.de/files/media/bildmaterial/3342853--DSC1940.jpg",
-    "https://www.katja-neumann.de/files/templates/img/socialmedia.jpg"
+    "/images/entries/schamanische-naturheilpraxis-katja-neumann/0.webp",
+    "/images/entries/schamanische-naturheilpraxis-katja-neumann/1.webp",
+    "/images/entries/schamanische-naturheilpraxis-katja-neumann/2.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Was ist eine schamanische Reise?",
       "answer": "Eine schamanische Reise ist eine Form der schamanischen Heilarbeit, bei der Klienten in einen tranceähnlichen Zustand versetzt werden, um Kontakt zu ihrem Krafttier oder zu anderen spirituellen Ebenen aufzunehmen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz0HiMAdSqEcRLcYM-xSz0Vk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

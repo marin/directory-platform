@@ -24,6 +24,9 @@
     "lng": 13.4267864
   },
   "website": "https://www.heilpraktiker-naturopath-berlin.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXyJd5pZPqEcRn5fYrVcgNXE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -33,11 +36,11 @@
   ],
   "offers": [],
   "images": [
-    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/AzG7R12VgJUG17Wr/background--stronger04-m5KblaEpqbIK88eo.png",
-    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/AzG7R12VgJUG17Wr/water-drop-Aq2olZ4elRugp2L7.png",
-    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=115,fit=crop/AzG7R12VgJUG17Wr/new-ripple-14.7-Yyv753E9Orf41335.png",
-    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1706,fit=crop/AzG7R12VgJUG17Wr/blurred-form01-YNqrNZOQkZt8rq3G.png",
-    "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=911,fit=crop/AzG7R12VgJUG17Wr/blurred-form01-YNqrNZOQkZt8rq3G.png"
+    "/images/entries/naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage/0.webp",
+    "/images/entries/naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage/1.webp",
+    "/images/entries/naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage/2.webp",
+    "/images/entries/naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage/3.webp",
+    "/images/entries/naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage/4.webp"
   ],
   "faq": [
     {
@@ -60,8 +63,5 @@
       "question": "Was ist das Behandlungskonzept der Praxis?",
       "answer": "Das Behandlungskonzept der Praxis basiert darauf, Menschen und nicht Krankheiten zu behandeln, wobei individuelle Ansätze zur Förderung des Wohlbefindens verwendet werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXyJd5pZPqEcRn5fYrVcgNXE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

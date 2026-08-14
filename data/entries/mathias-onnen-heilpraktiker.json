@@ -27,6 +27,9 @@
   "email": "info@praxis-onnen.de",
   "website": "http://www.herr-onnen.de/",
   "bookingUrl": "https://herr-onnen.de/#kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJacKPCntQqEcROu987IKCLoY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -66,7 +69,7 @@
     }
   ],
   "images": [
-    "https://herr-onnen.de/wp-content/uploads/2023/01/logo-mathias-onnen-hp.png"
+    "/images/entries/mathias-onnen-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -89,8 +92,5 @@
       "question": "Wie kann ich Mathias Onnen kontaktieren?",
       "answer": "Sie können Mathias Onnen telefonisch unter 0178 – 696 79 21 oder per E-Mail an info@praxis-onnen.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJacKPCntQqEcROu987IKCLoY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 12
+  ]
 }

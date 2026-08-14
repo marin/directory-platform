@@ -25,6 +25,9 @@
   "phone": "03025097527",
   "website": "http://www.regenbogensonne.de/",
   "bookingUrl": "https://regenbogensonne.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM5I6F-LfZEERuzkwf4Xi3lk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -64,11 +67,7 @@
       "name": "Referenzen"
     }
   ],
-  "images": [
-    "https://regenbogensonne.de/wp-content/uploads/ingeborg_wirkus.jpg",
-    "https://regenbogensonne.de/wp-content/uploads/standing-human-body-silhouette.png",
-    "https://regenbogensonne.de/wp-content/uploads/regenbogensonne-logo.gif"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Welche Dienstleistungen bietet die Naturheilpraxis Regenbogen an?",
@@ -90,8 +89,5 @@
       "question": "Wie kann ich die Naturheilpraxis Regenbogen kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Regenbogen telefonisch unter 03025097527 oder über die Webseite www.regenbogensonne.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM5I6F-LfZEERuzkwf4Xi3lk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

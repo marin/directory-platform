@@ -25,6 +25,9 @@
   "phone": "01751537035",
   "email": "info@physio-in-karow.de",
   "website": "http://www.physio-in-karow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHTLdu0tNqEcRmHJ8zwYNMCc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -45,11 +48,11 @@
     }
   ],
   "images": [
-    "https://kernchen-media.de/media/whatsapp.png",
-    "http://www.physio-in-karow.de/images/fotolia_200436131_subscription_monthly_l_640.jpg",
-    "http://www.physio-in-karow.de/images/wartezimmer_640.jpg",
-    "http://www.physio-in-karow.de/images/paratouchpscrollp035887b0600ae12021.jpg",
-    "http://www.physio-in-karow.de/images/paratouchpscrollp035887b0600ae12022.jpg"
+    "/images/entries/heilpraktiker-praxis-paula-kernchen/0.webp",
+    "/images/entries/heilpraktiker-praxis-paula-kernchen/1.webp",
+    "/images/entries/heilpraktiker-praxis-paula-kernchen/2.webp",
+    "/images/entries/heilpraktiker-praxis-paula-kernchen/3.webp",
+    "/images/entries/heilpraktiker-praxis-paula-kernchen/4.webp"
   ],
   "faq": [
     {
@@ -72,8 +75,5 @@
       "question": "Suchen Sie Unterstützung in Ihrer Praxis?",
       "answer": "Ja, die Heilpraktiker Praxis Paula Kernchen sucht eine freundliche und ausgeglichene Verstärkung für ihr Team."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHTLdu0tNqEcRmHJ8zwYNMCc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "info@hp-schoen.com",
   "website": "https://www.hp-schoen.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/maximilian-schoen/booking/places?profile_skipped=true&telehealth=false",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQY9LaFtOqEcRyrye_cfluWw",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 47,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
-    "https://static.wixstatic.com/media/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_bbdf91066ff84336b8a66d4c5d3851ff~mv2.jpg",
-    "https://static.wixstatic.com/media/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0c3b6a_0af57a69ef1e44bd946af827d8e6083f~mv2.jpg",
-    "https://static.wixstatic.com/media/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0c3b6a_1fc91e199ccd4466a932e09e14771eff~mv2.jpg",
-    "https://static.wixstatic.com/media/0c3b6a_d4abb722bde248bbbe3766378b4937e6~mv2.jpg/v1/crop/x_0,y_131,w_1050,h_1052/fill/w_292,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_1110-web1800.jpg"
+    "/images/entries/heilpraktiker-maximilian-schon/0.webp",
+    "/images/entries/heilpraktiker-maximilian-schon/1.webp",
+    "/images/entries/heilpraktiker-maximilian-schon/2.webp",
+    "/images/entries/heilpraktiker-maximilian-schon/3.webp",
+    "/images/entries/heilpraktiker-maximilian-schon/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Was ist das Ziel der Therapie bei Maximilian Schön?",
       "answer": "Das Ziel der Therapie bei Maximilian Schön ist es, jedem Menschen ein schmerzfreies Leben zu ermöglichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQY9LaFtOqEcRyrye_cfluWw",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 47
+  ]
 }

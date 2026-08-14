@@ -26,6 +26,9 @@
   "email": "info@praxis-integrativ.de",
   "website": "https://www.praxis-integrativ.de/",
   "bookingUrl": "https://www.praxis-integrativ.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUO-gYNaqEcRFv7TjtX9KPM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -62,11 +65,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-integrativ.de/wp-content/uploads/Praxis_122322-1_1920x1040.jpg",
-    "https://www.praxis-integrativ.de/wp-content/uploads/home-slide-1.jpg",
-    "https://www.praxis-integrativ.de/wp-content/uploads/Praxis_122221_1920X1040.jpg",
-    "https://www.praxis-integrativ.de/wp-content/uploads/home-slide-2.jpg",
-    "https://www.praxis-integrativ.de/wp-content/uploads/blatt-40x40.png"
+    "/images/entries/sabine-redmann-heilpraktikerin/0.webp",
+    "/images/entries/sabine-redmann-heilpraktikerin/1.webp",
+    "/images/entries/sabine-redmann-heilpraktikerin/2.webp",
+    "/images/entries/sabine-redmann-heilpraktikerin/3.webp",
+    "/images/entries/sabine-redmann-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -89,8 +92,5 @@
       "question": "Hat Sabine Redmann Erfahrung in der plastischen Chirurgie?",
       "answer": "Ja, Sabine Redmann hat Erfahrung aus ihrer Mitarbeit in der plastischen Chirurgie, was ihr Fachwissen im Bereich der ästhetischen Medizin erweitert."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUO-gYNaqEcRFv7TjtX9KPM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

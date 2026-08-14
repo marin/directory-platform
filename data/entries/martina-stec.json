@@ -25,6 +25,9 @@
   "phone": "03040398058",
   "email": "info@martinastec.de",
   "website": "http://www.martinastec.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFwW7vZ1UqEcRyP9D8al-6uk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,7 +67,7 @@
     }
   ],
   "images": [
-    "https://content.app-sources.com/s/845692100493844801/uploads/Heruntergeladen/Terminvereinbarung_Klein-0998208.jpeg"
+    "/images/entries/martina-stec/0.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Welche Dienstleistungen bietet Martina Stec an?",
       "answer": "Martina Stec bietet Dienstleistungen im Bereich der energetischen Medizin und Aufstellungsarbeit an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFwW7vZ1UqEcRyP9D8al-6uk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

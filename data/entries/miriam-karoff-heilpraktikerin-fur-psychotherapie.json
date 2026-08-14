@@ -27,6 +27,9 @@
   "email": "miriam.karoff@hp-psychotherapie-karoff.de",
   "website": "https://hp-psychotherapie-karoff.de/",
   "bookingUrl": "https://hp-psychotherapie-karoff.de/praxis-kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0dFIKDRbqEcRvU6a92IXxS0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -109,7 +112,7 @@
     }
   ],
   "images": [
-    "https://hp-psychotherapie-karoff.de/wp-content/uploads/2023/06/Miriam_Karoff_home.jpg"
+    "/images/entries/miriam-karoff-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -132,8 +135,5 @@
       "question": "Wie kann ich Miriam Karoff kontaktieren?",
       "answer": "Sie können Miriam Karoff telefonisch unter 017645623874 oder per E-Mail an miriam.karoff@hp-psychotherapie-karoff.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0dFIKDRbqEcRvU6a92IXxS0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

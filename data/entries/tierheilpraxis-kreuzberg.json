@@ -24,6 +24,9 @@
   },
   "phone": "017634384738",
   "website": "https://www.tierheilpraxis-kreuzberg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsSxNn2lPqEcRJB_pSeTZdm8",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,10 +73,10 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/50e0f8_d6aef1f9b78b4246a4ba94ef91604818~mv2.png/v1/fill/w_1905,h_993,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/50e0f8_d6aef1f9b78b4246a4ba94ef91604818~mv2.png",
-    "https://static.wixstatic.com/media/c9043cd18a0744928ce22b6745b60a2e.jpg/v1/fill/w_585,h_773,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9043cd18a0744928ce22b6745b60a2e.jpg",
-    "https://static.wixstatic.com/media/97b9329227124a40b0d8a05ede8ccfc8.jpg/v1/fill/w_600,h_773,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/97b9329227124a40b0d8a05ede8ccfc8.jpg",
-    "https://static.wixstatic.com/media/50e0f8_60a41ac6ea4245f393e836a4ac54e3c5~mv2.png/v1/fill/w_843,h_305,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-big.png"
+    "/images/entries/tierheilpraxis-kreuzberg/0.webp",
+    "/images/entries/tierheilpraxis-kreuzberg/1.webp",
+    "/images/entries/tierheilpraxis-kreuzberg/2.webp",
+    "/images/entries/tierheilpraxis-kreuzberg/3.webp"
   ],
   "faq": [
     {
@@ -96,8 +99,5 @@
       "question": "Bietet die Tierheilpraxis auch Hausbesuche an?",
       "answer": "Ja, die Tierheilpraxis Kreuzberg bietet Haus- und Hofbesuche für Tiere an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsSxNn2lPqEcRJB_pSeTZdm8",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 21
+  ]
 }

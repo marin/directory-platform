@@ -25,6 +25,9 @@
   },
   "phone": "03042025091",
   "website": "http://www.naturheilpraxis-ollnow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBx3KQItOqEcRhxsVpmPZsAk",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -104,8 +107,8 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=156x10000:format=jpg/path/sd9ba35c073cf899e/image/if0e2058c0774ba66/version/1540141710/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sd9ba35c073cf899e/backgroundarea/ic8fc0882f3649cd9/version/1483388745/image.jpg"
+    "/images/entries/naturheilpraxis-tatjana-ollnow-heilpraktikerin/0.webp",
+    "/images/entries/naturheilpraxis-tatjana-ollnow-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -124,8 +127,5 @@
       "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
       "answer": "Sie können einen Termin in der Naturheilpraxis Tatjana Ollnow telefonisch unter der Nummer 030 420 250 91 vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBx3KQItOqEcRhxsVpmPZsAk",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 13
+  ]
 }

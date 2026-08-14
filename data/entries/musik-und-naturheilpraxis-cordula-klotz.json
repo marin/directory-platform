@@ -24,6 +24,9 @@
   },
   "phone": "015153756789",
   "website": "http://www.musik-heil-praxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJody1lL5PqEcRzhD9zZKhUYc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,7 +87,7 @@
     }
   ],
   "images": [
-    "http://www.musik-heil-praxis.de/images/willkommen.jpg"
+    "/images/entries/musik-und-naturheilpraxis-cordula-klotz/0.webp"
   ],
   "faq": [
     {
@@ -107,8 +110,5 @@
       "question": "Wo befindet sich die Musik- und Naturheilpraxis Cordula Klotz?",
       "answer": "Die Praxis befindet sich in der Weisestraße 4, 12049 Berlin, im Stadtteil Neukölln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJody1lL5PqEcRzhD9zZKhUYc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

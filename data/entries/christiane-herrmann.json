@@ -25,6 +25,9 @@
   "phone": "0306369577",
   "email": "info@bioresonanz-berlin.net",
   "website": "https://bioresonanz-berlin.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsU2NdQVGqEcRSJeOMR5xW-4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +57,7 @@
   ],
   "offers": [],
   "images": [
-    "https://bioresonanz-berlin.net/wp-content/uploads/2021/11/logo_bioresonanz-400.png"
+    "/images/entries/christiane-herrmann/0.webp"
   ],
   "faq": [
     {
@@ -73,8 +76,5 @@
       "question": "Welche Dienstleistungen bietet Christiane Herrmann an?",
       "answer": "Christiane Herrmann bietet Dienstleistungen im Bereich der Naturheilkunde an, insbesondere Bioresonanz."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsU2NdQVGqEcRSJeOMR5xW-4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

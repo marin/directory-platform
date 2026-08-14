@@ -26,6 +26,9 @@
   "phone": "01745732749",
   "email": "info@gestalt-praxis-berlin.de",
   "website": "http://www.gestalt-praxis-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl0rusYZVqEcRnQHO3VepN30",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -88,8 +91,8 @@
     }
   ],
   "images": [
-    "https://gestalt-praxis-berlin.de/wp-content/uploads/elementor/thumbs/K21165_5114-scaled-qk73g6vle8z6pwlgomht631qp1s09nwdyr8fxv8814.jpg",
-    "https://gestalt-praxis-berlin.de/wp-content/uploads/2021/10/K21165_5114-683x1024.jpg"
+    "/images/entries/praxis-fur-psychotherapie-arne-fahsig-heilpraktiker-fur-psychotherapie-paarthera/0.webp",
+    "/images/entries/praxis-fur-psychotherapie-arne-fahsig-heilpraktiker-fur-psychotherapie-paarthera/1.webp"
   ],
   "faq": [
     {
@@ -112,8 +115,5 @@
       "question": "Bietet die Praxis auch Unterstützung für Kinder und Jugendliche an?",
       "answer": "Ja, die Praxis bietet Begleitung für Kinder und Jugendliche ab 6 Jahren in krisenhaften Entwicklungsphasen sowie bei Schulstress, Mobbing oder Leistungsdruck an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl0rusYZVqEcRnQHO3VepN30",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

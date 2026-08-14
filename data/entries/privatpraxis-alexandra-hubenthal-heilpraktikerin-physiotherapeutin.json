@@ -26,6 +26,9 @@
   "email": "praxis@hp-huebenthal.de",
   "website": "http://www.hp-huebenthal.de/",
   "bookingUrl": "https://widgets.yolawo.de/w/66127fed95ec3817d0d67a4c",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw7dJyRtKqEcRemiHoLJpN3Y",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,9 +62,9 @@
     }
   ],
   "images": [
-    "http://www.hp-huebenthal.de//wp-content/uploads/2021/06/SPUTNIKeinsfotografie-23-scaled.jpg",
-    "http://www.hp-huebenthal.de//wp-content/uploads/2021/06/SPUTNIKeinsfotografie-25-1024x683.jpg",
-    "http://www.hp-huebenthal.de//wp-content/uploads/2021/03/Unterschrift-Alex-2-300x65.png"
+    "/images/entries/privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin/0.webp",
+    "/images/entries/privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin/1.webp",
+    "/images/entries/privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin/2.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Wo befindet sich die Privatpraxis Alexandra Hübenthal?",
       "answer": "Die Praxis befindet sich in der Lemkestr. 77, 12623 Berlin – Mahlsdorf."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw7dJyRtKqEcRemiHoLJpN3Y",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 17
+  ]
 }

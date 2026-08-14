@@ -25,6 +25,9 @@
   "phone": "03089009674",
   "website": "http://www.mesotherapie-berlin-schardin.de/",
   "bookingUrl": "https://www.mesotherapie-berlin-schardin.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm7HUOZ8jZUERWsWE1joGHck",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,11 +66,11 @@
     }
   ],
   "images": [
-    "https://www.mesotherapie-berlin-schardin.de/uploads/9/5/0/6/95060496/insa-schardin.jpg?364",
-    "https://www.mesotherapie-berlin-schardin.de/uploads/9/5/0/6/95060496/facial-image_1_orig.png",
-    "https://www.mesotherapie-berlin-schardin.de/uploads/9/5/0/6/95060496/spritze_1.jpg",
-    "https://www.mesotherapie-berlin-schardin.de/uploads/9/5/0/6/95060496/frau-mit-hut-teaser.jpg",
-    "https://www.mesotherapie-berlin-schardin.de/uploads/9/5/0/6/95060496/au-en-120_1.jpg"
+    "/images/entries/praxis-fur-asthetik-naturheilverfahren-insa-schardin/0.webp",
+    "/images/entries/praxis-fur-asthetik-naturheilverfahren-insa-schardin/1.webp",
+    "/images/entries/praxis-fur-asthetik-naturheilverfahren-insa-schardin/2.webp",
+    "/images/entries/praxis-fur-asthetik-naturheilverfahren-insa-schardin/3.webp",
+    "/images/entries/praxis-fur-asthetik-naturheilverfahren-insa-schardin/4.webp"
   ],
   "faq": [
     {
@@ -90,8 +93,5 @@
       "question": "Übernimmt die Versicherung die Kosten für die Behandlungen?",
       "answer": "Viele Privat- und Zusatzversicherungen übernehmen die Kosten für die angebotenen naturheilkundlichen Behandlungen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm7HUOZ8jZUERWsWE1joGHck",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 12
+  ]
 }

@@ -24,6 +24,7 @@
   },
   "phone": "03025584494",
   "website": "http://www.naturheilpraxis-wittenau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrbiiyU1TqEcRySp2GyP3knA",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +59,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/170281229/50e80ec6-ca1f-4e5b-b0b4-be7a37318b32.jpg"
+    "/images/entries/naturheilpraxis-wittenau/0.webp"
   ],
   "faq": [
     {
@@ -81,6 +82,5 @@
       "question": "Wie kann ich die Naturheilpraxis Wittenau kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Wittenau telefonisch unter 03025584494 erreichen oder die Website unter http://www.naturheilpraxis-wittenau.de/ besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrbiiyU1TqEcRySp2GyP3knA"
+  ]
 }

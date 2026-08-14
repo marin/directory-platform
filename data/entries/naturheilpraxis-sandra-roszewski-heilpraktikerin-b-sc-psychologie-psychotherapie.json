@@ -28,6 +28,9 @@
   "phone": "03053797045",
   "website": "https://naturheilpraxis-sr.de/",
   "bookingUrl": "http://naturheilpraxis-sr.de/kontakt-und-termine",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5s61H1QqEcRfmpVriNiP60",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [],
   "offers": [
     {
@@ -68,8 +71,8 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-sr.de/wp-content/uploads/2022/10/20220917_Sandra_Roszewski_PolasBerlin_IRP4077-2-scaled.jpg",
-    "https://naturheilpraxis-sr.de/wp-content/uploads/2022/10/Sandra-Roszewski-scaled.jpg"
+    "/images/entries/naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie/0.webp",
+    "/images/entries/naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie/1.webp"
   ],
   "faq": [
     {
@@ -92,8 +95,5 @@
       "question": "Bietet die Praxis auch Online-Kurse an?",
       "answer": "Ja, die Naturheilpraxis bietet auch Onlinekurse und E-Books an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5s61H1QqEcRfmpVriNiP60",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

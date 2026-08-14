@@ -26,13 +26,11 @@
   "phone": "03099256955",
   "website": "http://herzraum.de/",
   "bookingUrl": "https://herzraum.de/online-terminbuchung",
-  "openingHours": [],
-  "offers": [],
-  "images": [
-    "https://herzraum.de/wp-content/uploads/2018/08/ramos_kreis-750x350.jpg"
-  ],
-  "faq": [],
   "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc7afawFPqEcRIe5oy5clHrI",
   "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "googleMapsRatingsCount": 1,
+  "openingHours": [],
+  "offers": [],
+  "images": [],
+  "faq": []
 }

@@ -26,6 +26,9 @@
   "email": "info@heilpraktikerinhuelya.de",
   "website": "https://heilpraktikerinhuelya.de/",
   "bookingUrl": "https://beautinda.de/artist/xOXZjVbntwd3JkgWHoJ3pUUpWpH2",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsRV96DFRqEcRX0IhF12mgJ8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 98,
   "openingHours": [
     {
       "day": "Monday",
@@ -315,13 +318,7 @@
       "name": "Auch nach der Behandlung _für dich da._"
     }
   ],
-  "images": [
-    "https://heilpraktikerinhuelya.de/manus-storage/TRU_0221_9ff76f64.jpeg",
-    "https://heilpraktikerinhuelya.de/manus-storage/TRU_0297_26546f51.jpeg",
-    "https://heilpraktikerinhuelya.de/manus-storage/workshop_vortrag_d850efff.png",
-    "https://heilpraktikerinhuelya.de/manus-storage/huelya_22_7592e5af.jpg",
-    "https://heilpraktikerinhuelya.de/manus-storage/TRU_0681_1ab5c023.jpeg"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Welche Behandlungen bietet Heilpraktikerin Hülya Talas an?",
@@ -343,8 +340,5 @@
       "question": "Wie hoch sind die Preise für die Behandlungen?",
       "answer": "Die Preise für die Behandlungen variieren. Zum Beispiel kostet eine Lippenunterspritzung ab 250 €, während eine Vitamin C Infusion 89 € kostet. Eine ausführliche Anamnese und Aufklärung vor der Behandlung kostet 50 €."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsRV96DFRqEcRX0IhF12mgJ8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 98
+  ]
 }

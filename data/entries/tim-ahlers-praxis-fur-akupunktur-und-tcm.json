@@ -27,6 +27,9 @@
   "email": "info@akupunktur-praxis-friedrichshain.de",
   "website": "https://akupunktur-praxis-friedrichshain.de/",
   "bookingUrl": "https://www.akupunktur-praxis-friedrichshain.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZX8HhvVOqEcRWoXm0Q6flLw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 47,
   "openingHours": [
     {
       "day": "Monday",
@@ -119,10 +122,10 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=790x10000:format=jpg/path/sacbc9251156bbb4f/image/ic34e39956faf379a/version/1566475256/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=790x10000:format=jpg/path/sacbc9251156bbb4f/image/ib6b0153da3faae5e/version/1566475761/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/sacbc9251156bbb4f/image/i37531dc774cd5cf0/version/1562764925/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/sacbc9251156bbb4f/image/ib6b0153da3faae5e/version/1566475761/tim-ahlers-praxis-f%C3%BCr-chinesische-medizin.jpg"
+    "/images/entries/tim-ahlers-praxis-fur-akupunktur-und-tcm/0.webp",
+    "/images/entries/tim-ahlers-praxis-fur-akupunktur-und-tcm/1.webp",
+    "/images/entries/tim-ahlers-praxis-fur-akupunktur-und-tcm/2.webp",
+    "/images/entries/tim-ahlers-praxis-fur-akupunktur-und-tcm/3.webp"
   ],
   "faq": [
     {
@@ -145,8 +148,5 @@
       "question": "Wo befindet sich die Praxis von Tim Ahlers?",
       "answer": "Die Praxis befindet sich in der Samariterstraße 16, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZX8HhvVOqEcRWoXm0Q6flLw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 47
+  ]
 }

@@ -27,6 +27,9 @@
   "email": "neleschlueter@gmx.de",
   "website": "http://heilpraxis-schlueter.de/",
   "bookingUrl": "https://www.heilpraxis-schlueter.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_740TVBQqEcRRsDfc-3taBk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -163,11 +166,11 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16871083.jpg?t=1752701505",
-    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868672.png?t=1751467528",
-    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868673.jpg?t=1752780627",
-    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868674.jpg?t=1757405755",
-    "https://www.heilpraxis-schlueter.de/s/cc_images/cache_16868815.png?t=1757413394"
+    "/images/entries/heilpraxis-yoga-nele-schluter/0.webp",
+    "/images/entries/heilpraxis-yoga-nele-schluter/1.webp",
+    "/images/entries/heilpraxis-yoga-nele-schluter/2.webp",
+    "/images/entries/heilpraxis-yoga-nele-schluter/3.webp",
+    "/images/entries/heilpraxis-yoga-nele-schluter/4.webp"
   ],
   "faq": [
     {
@@ -190,8 +193,5 @@
       "question": "Welche Preise gelten für die Behandlungen in der Heilpraxis?",
       "answer": "Die Preise für Behandlungen in der Heilpraxis variieren je nach Dauer und Art der Behandlung. Beispielsweise kostet eine 60-minütige Sitzung 90 €, eine 90-minütige Sitzung 135 € und eine 120-minütige Sitzung 180 €."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_740TVBQqEcRRsDfc-3taBk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

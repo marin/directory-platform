@@ -27,6 +27,9 @@
   "email": "kontakt@francescapellanda.de",
   "website": "http://www.francescapellanda.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/francesca-pellanda?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPXnxlcpPqEcRqZf8DgVAXEI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 38,
   "openingHours": [
     {
       "day": "Monday",
@@ -89,11 +92,11 @@
     }
   ],
   "images": [
-    "https://francescapellanda.de/wp-content/uploads/2023/03/DSF4848.jpg",
-    "https://francescapellanda.de/wp-content/uploads/2023/03/IMG_8230.jpg",
-    "https://francescapellanda.de/wp-content/uploads/2023/03/francescapellanda.jpg",
-    "https://francescapellanda.de/wp-content/uploads/2023/02/reviews.svg",
-    "https://francescapellanda.de/wp-content/uploads/2023/03/Stars.svg"
+    "/images/entries/akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda/0.webp",
+    "/images/entries/akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda/1.webp",
+    "/images/entries/akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda/2.webp",
+    "/images/entries/akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda/3.webp",
+    "/images/entries/akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda/4.webp"
   ],
   "faq": [
     {
@@ -116,8 +119,5 @@
       "question": "Was sind die Öffnungszeiten der Praxis?",
       "answer": "Die Öffnungszeiten sind: Montag von 08:00 bis 14:00, Dienstag von 15:00 bis 21:00, Mittwoch von 08:00 bis 14:00, Donnerstag von 09:00 bis 19:00 und Freitag von 09:00 bis 21:00."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPXnxlcpPqEcRqZf8DgVAXEI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 38
+  ]
 }

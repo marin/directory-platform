@@ -26,6 +26,9 @@
   "phone": "03078713188",
   "website": "https://www.tcm-bruese.de/",
   "bookingUrl": "https://www.tcm-bruese.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9QLY04ZQqEcRhu60ZYcGOtg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -86,10 +89,10 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=194x10000:format=jpg/path/s15ce256cc4c781ac/image/ief96443abe0b5e53/version/1722464897/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/s15ce256cc4c781ac/image/ief96443abe0b5e53/version/1722464897/image.jpg",
-    "https://u.jimcdn.com/cms/o/s15ce256cc4c781ac/userlayout/img/telefon.png?t=1512736931",
-    "https://u.jimcdn.com/cms/o/s15ce256cc4c781ac/userlayout/img/mail.png?t=1512737027"
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heilpraktikerin-brigitte-bruse/0.webp",
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heilpraktikerin-brigitte-bruse/1.webp",
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heilpraktikerin-brigitte-bruse/2.webp",
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heilpraktikerin-brigitte-bruse/3.webp"
   ],
   "faq": [
     {
@@ -112,8 +115,5 @@
       "question": "Wie hoch sind die Behandlungskosten in der Praxis?",
       "answer": "Die Kosten für die Behandlungen variieren, zum Beispiel liegen sie bei 15€, 30€, 35€, 70€ und 120€."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9QLY04ZQqEcRhu60ZYcGOtg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -27,6 +27,7 @@
   "email": "gestaltpraxis-hermkes@posteo.de",
   "website": "https://gestalttherapie-hermkes.de/",
   "bookingUrl": "https://www.gestalttherapie-hermkes.de/contact",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF-_SVuZRqEcRtHTLedx3sVo",
   "openingHours": [
     {
       "day": "Monday",
@@ -106,11 +107,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/1754214505431-BOEF4FRGKIJTP3U9L5CX/unsplash-image-xMFCS3j7thU.jpg",
-    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/8ba85670-ab7e-4c73-8613-005719c1fbd2/marcel_therapy_square.jpg",
-    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/781b5008-b760-48f0-a4a0-e73a4476a240/annie-spratt-o2IzXk3oqUQ-unsplash.jpg",
-    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/b599af3f-3ccf-4a5b-afe5-31809b9803c9/annie-spratt-TIJyMHphhAo-unsplash.jpg",
-    "https://images.squarespace-cdn.com/content/v1/687ca2116b7a8c0a7be6aac4/1755981082630-CXSIQMI0Q3PX6V8LHXLW/unsplash-image-zA7I5BtFbvw.jpg"
+    "/images/entries/marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak/0.webp",
+    "/images/entries/marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak/1.webp",
+    "/images/entries/marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak/2.webp",
+    "/images/entries/marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak/3.webp",
+    "/images/entries/marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak/4.webp"
   ],
   "faq": [
     {
@@ -133,6 +134,5 @@
       "question": "Wie kann ich Marcel Hermkes kontaktieren?",
       "answer": "Sie können Marcel Hermkes telefonisch unter 017674584935 oder per E-Mail an gestaltpraxis-hermkes@posteo.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF-_SVuZRqEcRtHTLedx3sVo"
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "info@osteopathieprince.de",
   "website": "http://www.osteopathieprince.de/",
   "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/osteopathie-narayani-prince?utm_campaign=website-button&utm_source=osteopathie-narayani-prince-website-button&utm_medium=referral&utm_content=option-8&utm_term=osteopathie-narayani-prince",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8SbHd9c3qEcRGYRNkO8YL5Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,11 +62,8 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/67594870882e404d8fbb610e/b914b994-4c02-4e20-97d8-e8cb6bf6be80/IMG_0659_edited.png",
-    "https://images.squarespace-cdn.com/content/v1/67594870882e404d8fbb610e/5dfc6e41-f08c-4a1a-84fd-7396a220d0d4/VOD_Logo.png"
+    "/images/entries/osteopathie-narayani-prince/0.webp",
+    "/images/entries/osteopathie-narayani-prince/1.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8SbHd9c3qEcRGYRNkO8YL5Q",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

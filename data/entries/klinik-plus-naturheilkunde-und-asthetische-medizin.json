@@ -24,6 +24,9 @@
   },
   "phone": "03068810046",
   "website": "http://naturheil-med.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV6JuQ1ZQqEcRmjc5RNGfJ0k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -66,11 +69,11 @@
     }
   ],
   "images": [
-    "https://www.naturheil-med.de/wp-content/uploads/Klinik-plus.webp",
-    "https://www.naturheil-med.de/wp-content/uploads/Innovative_Pflege.webp",
-    "https://www.naturheil-med.de/wp-content/uploads/klinik-plus_aesthetik_small.webp",
-    "https://www.naturheil-med.de/wp-content/uploads/klinik-plus_heiltherapie_small.webp",
-    "https://www.naturheil-med.de/wp-content/uploads/Valentaina_Solopow.webp"
+    "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/0.webp",
+    "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/1.webp",
+    "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/2.webp",
+    "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/3.webp",
+    "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/4.webp"
   ],
   "faq": [
     {
@@ -89,8 +92,5 @@
       "question": "Wie kann ich die Klinik Plus kontaktieren?",
       "answer": "Sie können die Klinik Plus telefonisch unter 030 688 100 46 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV6JuQ1ZQqEcRmjc5RNGfJ0k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "gamlahealing@gmail.com",
   "website": "https://www.gamlahealing.com/",
   "bookingUrl": "https://www.gamlahealing.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI9o-V9xPqEcRlFAnfv41MSo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -92,14 +95,11 @@
     }
   ],
   "images": [
-    "https://www.gamlahealing.com/cdn/shop/files/mystic_purple_meadow_mountains_butterflies.png?v=1779875255&width=3840",
-    "https://www.gamlahealing.com/cdn/shop/files/man_holding_a_glass_ball.png?v=1779874483&width=3840",
-    "https://www.gamlahealing.com/cdn/shop/files/Screenshot2026-07-02at23.06.56.png?v=1783026436&width=3840",
-    "https://www.gamlahealing.com/cdn/shop/files/pluto_watercolor_purple.png?v=1779877366&width=3840",
-    "https://www.gamlahealing.com/cdn/shop/files/pluto_lotus-flower_watercolor_purple.png?v=1779880635&width=3840"
+    "/images/entries/gamla-healing-sylvain-vanhuysse-heilpraktiker/0.webp",
+    "/images/entries/gamla-healing-sylvain-vanhuysse-heilpraktiker/1.webp",
+    "/images/entries/gamla-healing-sylvain-vanhuysse-heilpraktiker/2.webp",
+    "/images/entries/gamla-healing-sylvain-vanhuysse-heilpraktiker/3.webp",
+    "/images/entries/gamla-healing-sylvain-vanhuysse-heilpraktiker/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI9o-V9xPqEcRlFAnfv41MSo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  "faq": []
 }

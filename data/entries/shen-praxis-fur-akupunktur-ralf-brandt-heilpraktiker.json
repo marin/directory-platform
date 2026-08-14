@@ -26,6 +26,9 @@
   "phone": "015560492522",
   "email": "ralf.brandt@shen-akupunktur-friedrichshain.de",
   "website": "https://shen-akupunktur-friedrichshain.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQzpfj0BPqEcRUWkne8Qpz9k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -57,7 +60,7 @@
     }
   ],
   "images": [
-    "https://shen-akupunktur-friedrichshain.de/wp-content/uploads/2024/08/cropped-cropped-logo_black.jpg"
+    "/images/entries/shen-praxis-fur-akupunktur-ralf-brandt-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wo befindet sich die Praxis von Ralf Brandt?",
       "answer": "Die Praxis befindet sich in der Kreutzigerstraße 12, 10247 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQzpfj0BPqEcRUWkne8Qpz9k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -25,10 +25,13 @@
   "phone": "03030830088",
   "website": "https://www.heilpraxis-fuer-die-seele.com/",
   "bookingUrl": "https://www.heilpraxis-fuer-die-seele.com/kontakt/index.php/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJe1DHstlRqEcRoujsur-k_x0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.heilpraxis-fuer-die-seele.com/.cm4all/uproc.php/0/logo-transparent-png.png"
+    "/images/entries/heilpraxis-fur-die-seele-petra-clausius/0.webp"
   ],
   "faq": [
     {
@@ -51,8 +54,5 @@
       "question": "Werden die Kosten für die Therapie von Krankenkassen übernommen?",
       "answer": "Die Gebühren für Therapie bei Heilpraktikern/Psychotherapie werden von gesetzlichen Krankenkassen nicht übernommen. Einige Kranken-Zusatzversicherungen übernehmen jedoch ganz oder teilweise die Gebühren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJe1DHstlRqEcRoujsur-k_x0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

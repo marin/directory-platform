@@ -26,6 +26,9 @@
   "phone": "01702817711",
   "website": "http://knutrauter.com/",
   "bookingUrl": "https://knutrauter.com/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhwSaa_BRqEcRBepNGaeJN-c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -55,9 +58,7 @@
     }
   ],
   "images": [
-    "https://knutrauter.com/wp-content/uploads/2025/10/Portrait_Knbut_Rauter_v2-260x300.png",
-    "https://assets.calendly.com/images/booking/ogimage.png?source=opengraph",
-    "https://assets.calendly.com/images/booking/ogimage-twitter.png?source=opengraph"
+    "/images/entries/gesprachstherapie-klangtherapie-knut-rauter-heilpraktiker-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -80,8 +81,5 @@
       "question": "Wie kann ich Knut Rauter telefonisch erreichen?",
       "answer": "Sie können Knut Rauter unter der Telefonnummer 01702817711 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhwSaa_BRqEcRBepNGaeJN-c",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

@@ -25,6 +25,9 @@
   },
   "phone": "0302169006",
   "website": "http://www.isabel-blume.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ97h-BEZQqEcRDbhJbdrVNz0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -49,10 +52,10 @@
     }
   ],
   "images": [
-    "https://www.isabel-blume.de/assets/images/homoeopathie_1.JPG?1",
-    "https://www.isabel-blume.de/assets/images/Shiatsu%201.JPG?1",
-    "https://www.isabel-blume.de/assets/images/craniosacral.jpg?1",
-    "https://www.isabel-blume.de/assets/images/CIMG5266.JPG?1"
+    "/images/entries/heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu/0.webp",
+    "/images/entries/heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu/1.webp",
+    "/images/entries/heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu/2.webp",
+    "/images/entries/heilpraktikerin-isabel-blume-klass-homoopathie-shiatsu/3.webp"
   ],
   "faq": [
     {
@@ -75,8 +78,5 @@
       "question": "Kann ich laufende Behandlungen weiterhin in Anspruch nehmen?",
       "answer": "Ja, für laufende homöopathische Behandlungen steht Isabel Blume weiterhin online oder telefonisch zur Verfügung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ97h-BEZQqEcRDbhJbdrVNz0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "contact@carolinehupe.de",
   "website": "http://carolinehupe.de/",
   "bookingUrl": "https://carolinehupe.de/de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTwtR9hPqEcRb7Ny7JbaXNQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,10 +58,7 @@
   ],
   "offers": [],
   "images": [
-    "http://carolinehupe.de/wp-content/uploads/2017/08/22.png"
+    "/images/entries/caroline-hupe-heilpraktikerin-praxis-fur-ganzheitliche-korperarbeit-und-massage/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnTwtR9hPqEcRb7Ny7JbaXNQ",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 12
+  "faq": []
 }

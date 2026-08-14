@@ -27,6 +27,7 @@
   "email": "eva.stieler@t-online.de",
   "website": "https://www.heilpraktiker-eva-stieler.de/",
   "bookingUrl": "tel:0307423815",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGaC6LjZFqEcRUYmmzTw5M4o",
   "openingHours": [],
   "offers": [
     {
@@ -47,10 +48,10 @@
     }
   ],
   "images": [
-    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-Stieler.png",
-    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-8-200x300.jpg",
-    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Eva-8-768x1152.jpg",
-    "https://www.heilpraktiker-eva-stieler.de/wp-content/uploads/2024/09/Hahnemann-Christian-Friedrich-Samuel-Hahnemann-de.wikipedia.jpg"
+    "/images/entries/heilpraktikerin-eva-stieler-homoopathie/0.webp",
+    "/images/entries/heilpraktikerin-eva-stieler-homoopathie/1.webp",
+    "/images/entries/heilpraktikerin-eva-stieler-homoopathie/2.webp",
+    "/images/entries/heilpraktikerin-eva-stieler-homoopathie/3.webp"
   ],
   "faq": [
     {
@@ -73,6 +74,5 @@
       "question": "Wie lange dauert die Behandlung in der Regel?",
       "answer": "Die Dauer der Behandlung hängt vom Zustand der Erkrankung ab und kann variieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGaC6LjZFqEcRUYmmzTw5M4o"
+  ]
 }

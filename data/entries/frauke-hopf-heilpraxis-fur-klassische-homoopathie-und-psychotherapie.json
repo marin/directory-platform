@@ -28,6 +28,9 @@
   "email": "info@heilpraxis-hopf.de",
   "website": "https://heilpraxis-kreuzberg.de/",
   "bookingUrl": "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/03/Peg-Dolls-Quadrat-200x200.jpg",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaxYRnstPqEcRFLaY97D2lks",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -102,11 +105,11 @@
     }
   ],
   "images": [
-    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/02/iStock-2201549453-200x200.jpg",
-    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2026/03/Peg-Dolls-Quadrat-200x200.jpg",
-    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2021/02/03.webp",
-    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2019/12/Trauma.webp",
-    "https://heilpraxis-kreuzberg.de/wp-content/uploads/2019/12/Frauenheilkunde.webp"
+    "/images/entries/frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie/0.webp",
+    "/images/entries/frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie/1.webp",
+    "/images/entries/frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie/2.webp",
+    "/images/entries/frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie/3.webp",
+    "/images/entries/frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -129,8 +132,5 @@
       "question": "Bietet die Praxis auch Unterstützung bei Kinderwunsch an?",
       "answer": "Ja, Frauke Hopf bietet Unterstützung bei Kinderwunsch an und betrachtet alternative Behandlungsmöglichkeiten zu Hormonbehandlungen oder künstlicher Befruchtung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaxYRnstPqEcRFLaY97D2lks",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -26,6 +26,9 @@
   "phone": "01772153112",
   "website": "https://chisalon.de/",
   "bookingUrl": "https://zeeg.me/chi-salon-heike",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-T8D1FZOqEcRDT5ltmTo38I",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 14,
   "openingHours": [],
   "offers": [
     {
@@ -106,11 +109,11 @@
     }
   ],
   "images": [
-    "https://chisalon.de/wp-content/uploads/2022/10/chisalon-fliessen-wohlfuehlen-balance.jpg",
-    "https://chisalon.de/wp-content/uploads/2022/10/therapieangebote-600x401.jpg",
-    "https://chisalon.de/wp-content/uploads/2022/09/reflexzonenmassage.jpg",
-    "https://chisalon.de/wp-content/uploads/2022/10/chisalon-kurse-600x400.jpg",
-    "https://chisalon.de/wp-content/uploads/2023/01/064-Edit-1200x800.jpg"
+    "/images/entries/chisalon-naturheilpraxis/0.webp",
+    "/images/entries/chisalon-naturheilpraxis/1.webp",
+    "/images/entries/chisalon-naturheilpraxis/2.webp",
+    "/images/entries/chisalon-naturheilpraxis/3.webp",
+    "/images/entries/chisalon-naturheilpraxis/4.webp"
   ],
   "faq": [
     {
@@ -133,8 +136,5 @@
       "question": "Wer sind die Therapeuten in der Chisalon Naturheilpraxis?",
       "answer": "Die Therapeuten in der Chisalon Naturheilpraxis sind Heike Brunner und Gregory Spoo, die verschiedene naturheilkundliche Behandlungen anbieten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-T8D1FZOqEcRDT5ltmTo38I",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 14
+  ]
 }

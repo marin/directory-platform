@@ -26,6 +26,9 @@
   "email": "info@steigerwald-beauty.de",
   "website": "https://steigerwald-beauty.de/",
   "bookingUrl": "https://steigerwald-beauty.de/?page_id=346",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw0bCLOZQqEcRkF9jfCJSa9s",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 15,
   "openingHours": [],
   "offers": [
     {
@@ -58,10 +61,10 @@
     }
   ],
   "images": [
-    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/pexels-photo-371126-scaled.jpeg",
-    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/pexels-photo-458766-scaled.jpeg",
-    "https://steigerwald-beauty.de/wp-content/uploads/2019/12/Faltenunterspritzung-Hyaluron-1422x630-1.jpg",
-    "https://steigerwald-beauty.de/wp-content/uploads/2020/01/LogoMakr_7Ul1NZ.png"
+    "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/0.webp",
+    "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/1.webp",
+    "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/2.webp",
+    "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/3.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Was sagen Kunden über die Behandlungen in der Praxis?",
       "answer": "Kunden berichten von einer sehr netten und kompetenten Beratung sowie von positiven Behandlungsergebnissen, die sie in der Praxis erfahren haben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw0bCLOZQqEcRkF9jfCJSa9s",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 15
+  ]
 }

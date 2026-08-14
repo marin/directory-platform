@@ -27,6 +27,9 @@
   "email": "info@andrea-hofmann.de",
   "website": "http://andrea-hofmann.de/",
   "bookingUrl": "https://andrea-hofmann.de/kosten/shop-menu/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJP2NtoQdPqEcRcuczf3TEkao",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 41,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -140,11 +143,11 @@
     }
   ],
   "images": [
-    "https://andrea-hofmann.de/wp-content/uploads/elementor/thumbs/Inneres-Kind-Berlin-r96jfrvmj5bx3nqublqwh1f394hvhoxrnvt2e8fwy8.jpg",
-    "https://andrea-hofmann.de/wp-content/uploads/2026/06/LJA6bFauSiewMqNSVnxSQ_thumb_8d69.jpg",
-    "https://andrea-hofmann.de/wp-content/uploads/2023/07/Inneres-Kind-Berlin-Gruppe.jpg",
-    "https://andrea-hofmann.de/wp-content/uploads/2023/08/UNADJUSTEDNONRAW_thumb_8db5.jpg",
-    "https://andrea-hofmann.de/wp-content/uploads/elementor/thumbs/Inneres-Kind-Berlin-q8vszk09f8vcynyznppulzig25ixptattg92n3m10m.jpg"
+    "/images/entries/andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap/0.webp",
+    "/images/entries/andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap/1.webp",
+    "/images/entries/andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap/2.webp",
+    "/images/entries/andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap/3.webp",
+    "/images/entries/andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap/4.webp"
   ],
   "faq": [
     {
@@ -167,8 +170,5 @@
       "question": "Welche Preise gelten für die Sitzungen bei Andrea Hofmann?",
       "answer": "Die Preise für die Sitzungen beginnen bei 73,15€ für 40 Minuten und reichen bis zu 171,00€ für 120 Minuten, jeweils inklusive 5% Rabatt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJP2NtoQdPqEcRcuczf3TEkao",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 41
+  ]
 }

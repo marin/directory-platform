@@ -26,6 +26,9 @@
   "email": "info@gnidtke.de",
   "website": "http://www.gnidtke.de/",
   "bookingUrl": "http://www.gnidtke.de/kontakt/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0NuOMBTqEcRf2xvqS9-0yU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -62,7 +65,7 @@
     }
   ],
   "images": [
-    "http://www.gnidtke.de/image/film_.JPG"
+    "/images/entries/naturheilpraxis-katharina-gnidtke/0.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Wie kann ich die Naturheilpraxis Katharina Gnidtke kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Katharina Gnidtke telefonisch unter 03047599257 oder per E-Mail an info@gnidtke.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0NuOMBTqEcRf2xvqS9-0yU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

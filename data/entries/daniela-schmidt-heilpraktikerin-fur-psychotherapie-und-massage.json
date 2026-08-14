@@ -25,6 +25,9 @@
   },
   "phone": "017641698528",
   "website": "http://www.danielaschmidt.berlin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMY_HfuZRqEcRaHL6Mgj0miU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 22,
   "openingHours": [],
   "offers": [
     {
@@ -33,10 +36,7 @@
     }
   ],
   "images": [
-    "http://www.danielaschmidt.berlin/img/wald.jpg"
+    "/images/entries/daniela-schmidt-heilpraktikerin-fur-psychotherapie-und-massage/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMY_HfuZRqEcRaHL6Mgj0miU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 22
+  "faq": []
 }

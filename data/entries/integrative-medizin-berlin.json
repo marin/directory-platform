@@ -25,6 +25,9 @@
   "phone": "017623252354",
   "email": "praxis@integrative-heilkunst-berlin.de",
   "website": "http://integrative-heilkunst-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9zNyxQqEcR6QNFSXjA2z0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,10 +66,10 @@
     }
   ],
   "images": [
-    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/chinesische-medizin3.png",
-    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/ohrakupunktur.png",
-    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/westliche-medizin.png",
-    "https://integrative-heilkunst-berlin.de/wp-content/uploads/2018/01/mitochonrientherapie.png"
+    "/images/entries/integrative-medizin-berlin/0.webp",
+    "/images/entries/integrative-medizin-berlin/1.webp",
+    "/images/entries/integrative-medizin-berlin/2.webp",
+    "/images/entries/integrative-medizin-berlin/3.webp"
   ],
   "faq": [
     {
@@ -89,8 +92,5 @@
       "question": "Welche Indikationen können mit Integrativer Medizin behandelt werden?",
       "answer": "Integrative Medizin kann bei verschiedenen Erkrankungen lindernd, unterstützend und verbessernd wirken, insbesondere wenn die Schulmedizin nicht ausreichend weiterhelfen konnte."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9zNyxQqEcR6QNFSXjA2z0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

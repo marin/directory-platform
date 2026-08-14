@@ -25,6 +25,9 @@
   "phone": "017663099211",
   "website": "https://www.heilpraxis-mansuroglu.de/",
   "bookingUrl": "https://www.heilpraxis-mansuroglu.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUsv9DBPqEcRB9VRT4CuLDA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -99,11 +102,11 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/Heilpraxis_Mansuroglu-Slide3-1.jpg",
-    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2021/01/Heilpraxis_Mansuroglu-Slideb.jpg",
-    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_leistungen.png",
-    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_praxis.png",
-    "https://www.heilpraxis-mansuroglu.de/wp-content/uploads/2020/03/heilpraxis-elida-mansuroglu_kontakt.png"
+    "/images/entries/elida-mansuroglu-heilpraktiker/0.webp",
+    "/images/entries/elida-mansuroglu-heilpraktiker/1.webp",
+    "/images/entries/elida-mansuroglu-heilpraktiker/2.webp",
+    "/images/entries/elida-mansuroglu-heilpraktiker/3.webp",
+    "/images/entries/elida-mansuroglu-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -126,8 +129,5 @@
       "question": "Wie kann ich Elida Mansuroglu telefonisch erreichen?",
       "answer": "Sie können Elida Mansuroglu unter der Telefonnummer 017663099211 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUsv9DBPqEcRB9VRT4CuLDA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

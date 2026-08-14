@@ -26,6 +26,9 @@
   "phone": "017655106088",
   "website": "http://www.hypnose-und-heilpraxis-hahn.de/",
   "bookingUrl": "https://calendly.com/hypnose-und-heilpraxis-hahn/15min",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS6oB1N5PqEcRVXLAZbyzLgc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -116,10 +119,10 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/93a657cc4a6f4f9e8167bd9e0d26a2fb/dms3rep/multi/opt/portrait-ilona-hahn2-1920w.jpg?Expires=1788907734&Signature=h2F6U2x3z-ZSYPkpE9nqMAYFVzC3B7mB0X5FzTBgZ7ha0Lqpc5SM8~8JKI-scJ0L~3vc5fv8ih1iluDcOH6w3BfmEvqj2aW5DWcOecSvI5wfnCV2MgYa4pcRXue6TDFhKN0Uoxa8YqCinV7oqkZN4f5tMua553Sqw-1dQNdFMZhwnVCwXI97FDSQAiC~Hqf9-WhcxRU4yITEKjF8IcBJ6kpP4upyAv1OItKqMzyp0~eOirR7uk7svuu9fmx225Grkawqfyb4WSO0XRMOijCF00dL3dbVE~OYF~7tRNyPX-7arYeJbgHrE~MOdx2k6WgV~KWnwxU~YvqZ06Yw6QUNuw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/93a657cc4a6f4f9e8167bd9e0d26a2fb/dms3rep/multi/opt/wuetende-frau-306842b2-1920w.jpg?Expires=1788907734&Signature=XStsLKBZO5i6OPkPK6pXtOp2ugQsgVz8laxlp4LYaFIaX2AU1To-rAGx1~-J9Tbyxu6BsMDbo0xEOjOzHxQWGN4HyWKrq2K-j~INhDHvMKXdjt0q3oO9wLlsDJPZmoifqwFmjBQSwXUWb1XssNfbtzOUTNE7I8Owx00uxW86X27J0rBp72BdH0897KV3F6vLxBjMLMble1MzjDmtdMDE50FozbfYSucqWsa92SYhYJ7oKmSe11twyzVdyGfQH~q-WaXjtfS1P9QWFplt5pogCvq7~zqs-yDhi8I7xICOKHJb-a2yui~H6YkcZxpKDVi23KmiIqBWdrLdgBKsIkR70g__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/93a657cc4a6f4f9e8167bd9e0d26a2fb/dms3rep/multi/opt/frau-liegend-bauchschmerzen-1920w.png?Expires=1788907734&Signature=V61AIGrsAEn~4xuW7ShlvBPVI6M9~mUG8l-JFCbCu5Dy8Od8wCudm7l-e-bFQkYDwbOaUpqfIZXqhtijxGLJqHVmm5VY-X~N31Lt0mjJFSnSTBxKz1t3-Bf9xQBkqOaEeQoDHKQJwB176DqXv-evmmZNg3OjUJfJRRd0RLk40XFZwNnqeuEaUGZzSZ4vAmvaAlAs~MUG8E-g97uGpsRDudE6RMhqKGaQ~JZ~2RYeW3ihFJ2LLe5iDgJEVZ4I2uuK7fnMp6rttW8NfR2Pv28D34FOSm7d5e6o15IozRAD3rAMO-Kide0iS10UaHqhOPMFuOs3721GY-oWFz0zZ1spCA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/93a657cc4a6f4f9e8167bd9e0d26a2fb/dms3rep/multi/opt/logo-hypnose-und-heilpraxis-hahn-7ba69b06-e289446d-1920w.png?Expires=1788907734&Signature=E1LC-PAvl~XzCc4rvucMYu1DFhfATMuFa~bSAymkHYlwqwTJ4AXMpl-n3uIyu4T1dLOBxhQUce3PI95tQKrvSynxH4k7NynPWolHx9Gy3EqvI-VodNfpUZkgGgBq-SphQDloQngsmy0jzM16GzSgk7mWgq3d~V8g9rLLbvGVpzB6LxUv-CM-n-0isoxDjsy~slbOsL1HJ9R4paOGyc8mOcGyH5AoE3vc2-LIm1oZjJt-l7~xC0w42cG~8mX9BfbvtUGEgibR04olp1kEz16V2dqu52P3BkA3~rjeFZhG3cHqO~dPXOuhJwMGt2gxH0zTsCpdT57EXs-58mtjFQ67tA__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn/0.webp",
+    "/images/entries/hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn/1.webp",
+    "/images/entries/hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn/2.webp",
+    "/images/entries/hypnose-heilpraxis-hahn-in-berlin-friedrichshain-heilpraktikerin-ilona-hahn/3.webp"
   ],
   "faq": [
     {
@@ -142,8 +145,5 @@
       "question": "Wie kann ich Ilona Hahn kontaktieren?",
       "answer": "Sie können Ilona Hahn telefonisch unter 017655106088 erreichen oder die Website http://www.hypnose-und-heilpraxis-hahn.de/ besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS6oB1N5PqEcRVXLAZbyzLgc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

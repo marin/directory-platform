@@ -27,6 +27,9 @@
   "email": "info@praxis-heilpraktikerin-mediatorin.de",
   "website": "https://praxis-heilpraktikerin-mediatorin.de/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness",
   "bookingUrl": "https://praxis-heilpraktikerin-mediatorin.de/kontakt/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS2-Gkd9QqEcRDMDyT_2u8C8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -97,10 +100,10 @@
     }
   ],
   "images": [
-    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/IMG-20260309-WA0002-768x576.jpg",
-    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/sabine-neuenburg-heilpraktikerin-charlottenburg-2b-1024x670.jpg",
-    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2023/08/heilpraktiker-praxis-remise-schillerstrasse-40.jpg",
-    "https://praxis-heilpraktikerin-mediatorin.de/wp-content/uploads/2026/03/IMG-20260309-WA0002.jpg"
+    "/images/entries/heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg/0.webp",
+    "/images/entries/heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg/1.webp",
+    "/images/entries/heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg/2.webp",
+    "/images/entries/heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg/3.webp"
   ],
   "faq": [
     {
@@ -123,8 +126,5 @@
       "question": "Wie kann ich Sabine Neuenburg kontaktieren?",
       "answer": "Sie können Sabine Neuenburg telefonisch unter 015158111547 oder per E-Mail an info@praxis-heilpraktikerin-mediatorin.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS2-Gkd9QqEcRDMDyT_2u8C8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

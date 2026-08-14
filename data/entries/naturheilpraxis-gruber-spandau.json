@@ -26,6 +26,9 @@
   "email": "praxis@wir-sind-gesund.de",
   "website": "https://wir-sind-gesund.de/",
   "bookingUrl": "https://wir-sind-gesund.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7ZshSJWqEcR2gPUPUMtFnI",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,8 +73,8 @@
     }
   ],
   "images": [
-    "https://wir-sind-gesund.de/wp-content/uploads/2025/03/heilpraktikerin-berlin.jpg",
-    "https://wir-sind-gesund.de/wp-content/uploads/2021/04/GabyGruber.jpg"
+    "/images/entries/naturheilpraxis-gruber-spandau/0.webp",
+    "/images/entries/naturheilpraxis-gruber-spandau/1.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wie kann ich die Naturheilpraxis Gruber kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Gruber telefonisch unter 03039793766 oder per E-Mail an praxis@wir-sind-gesund.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7ZshSJWqEcR2gPUPUMtFnI",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 6
+  ]
 }

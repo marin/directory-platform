@@ -25,6 +25,9 @@
   },
   "email": "sarah.bruessow@googlemail.com",
   "website": "http://www.trainerette.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm1466E1RqEcR6iS16I0C7c4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [
     {
@@ -41,11 +44,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/fae18a_564c57596547402d9480957e59285168~mv2.jpg/v1/fill/w_380,h_511,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/SarahBBuch-13.jpg",
-    "https://static.wixstatic.com/media/nsplsh_6261746264674d44566e6b~mv2_d_6000_4000_s_4_2.jpg/v1/fill/w_1905,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/nsplsh_6261746264674d44566e6b~mv2_d_6000_4000_s_4_2.jpg",
-    "https://static.wixstatic.com/media/fae18a_f0773a47ef42460b836d4a54b77b0a75~mv2.jpg/v1/fill/w_223,h_223,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Close%20up%20of%20%20chiropractor%20pressing%20back%20of%20head_%20Therapist%20doing%20healing%20massage%20with%20fing.jpg",
-    "https://static.wixstatic.com/media/fae18a_345383c6d0574a98a6f9bad267582517~mv2.jpg/v1/fill/w_242,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/msg245854286-8987.jpg",
-    "https://static.wixstatic.com/media/fae18a_d9672ff9d8e346069637a2daed6d5e79~mv2.jpg/v1/fill/w_359,h_342,al_c,q_80,enc_avif,quality_auto/IMG_1399_edited.jpg"
+    "/images/entries/heilpraktikerin-sarah-brussow-osteopathie/0.webp",
+    "/images/entries/heilpraktikerin-sarah-brussow-osteopathie/1.webp",
+    "/images/entries/heilpraktikerin-sarah-brussow-osteopathie/2.webp",
+    "/images/entries/heilpraktikerin-sarah-brussow-osteopathie/3.webp",
+    "/images/entries/heilpraktikerin-sarah-brussow-osteopathie/4.webp"
   ],
   "faq": [
     {
@@ -68,8 +71,5 @@
       "question": "Sind die Behandlungen von Sarah Brüssow privat abrechenbar?",
       "answer": "Ja, die Behandlungen sind komplementärmedizinische Angebote und können privat abgerechnet werden. Es ist ratsam, sich vorher bei der eigenen Versicherung zu erkundigen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm1466E1RqEcR6iS16I0C7c4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

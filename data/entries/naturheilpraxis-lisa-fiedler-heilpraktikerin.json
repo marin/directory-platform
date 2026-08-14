@@ -25,6 +25,7 @@
   "phone": "017648982332",
   "website": "http://www.praxisfiedler.com/",
   "bookingUrl": "https://www.etermin.net/praxisfiedler",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD2PNidhJqEcReJgX_PJmJ5Q",
   "openingHours": [
     {
       "day": "Monday",
@@ -148,8 +149,8 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=743,height=390.075/image/370273425/9e93dafb-bea1-40ad-b4dd-35efda810636.jpg",
-    "https://static-assets.jimstatic.com/renderer/static/instagram_logo.7e0360e5a22f5b6da20a..png"
+    "/images/entries/naturheilpraxis-lisa-fiedler-heilpraktikerin/0.webp",
+    "/images/entries/naturheilpraxis-lisa-fiedler-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -172,6 +173,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Lisa Fiedler telefonisch unter 017648982332 oder über die Kontaktmöglichkeiten auf der Website hier kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD2PNidhJqEcReJgX_PJmJ5Q"
+  ]
 }

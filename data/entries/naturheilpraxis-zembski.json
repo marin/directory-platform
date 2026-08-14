@@ -26,6 +26,7 @@
   "email": "kontakt@naturheilpraxis-zembski.de",
   "website": "https://naturheilpraxis-zembski.de/",
   "bookingUrl": "https://naturheilpraxis-zembski.de/kontakt-heilpraktiker-zehlendorf/heilpraktiker-zehlendorf-kontaktformular/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJozmy4UBbqEcRGzx4dtX1yGE",
   "openingHours": [],
   "offers": [
     {
@@ -46,7 +47,7 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-zembski.de/wp-content/uploads/2017/10/soziales-honorar-1.png"
+    "/images/entries/naturheilpraxis-zembski/0.webp"
   ],
   "faq": [
     {
@@ -65,6 +66,5 @@
       "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Zembski?",
       "answer": "Die Öffnungszeiten der Naturheilpraxis Zembski sind nach Vereinbarung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJozmy4UBbqEcRGzx4dtX1yGE"
+  ]
 }

@@ -27,6 +27,9 @@
   "email": "info@psyche-arbeitswelt.de",
   "website": "https://www.psyche-arbeitswelt.de/",
   "bookingUrl": "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU99B9IFPqEcR47TTILKTdqU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -94,11 +97,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/2e66b0_37bc198d82874b0d9a89278dd25a8de1~mv2.png/v1/fill/w_94,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e66b0_37bc198d82874b0d9a89278dd25a8de1~mv2.png",
-    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://static.wixstatic.com/media/2e66b0_fb01efacd6024417ad0411689d30eb34~mv2.jpg/v1/fill/w_353,h_355,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e66b0_fb01efacd6024417ad0411689d30eb34~mv2.jpg",
-    "https://static.wixstatic.com/media/2e66b0_2d5ee6e460cc4a6e8102203a0ca3d397~mv2.jpg/v1/crop/x_0,y_194,w_1024,h_1023/fill/w_369,h_369,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ChatGPT%20Image%2011_%20Feb_edited.jpg",
-    "https://static.wixstatic.com/media/2e66b0_766d3582f147464a891797f87a3bcf96~mv2.jpg/v1/fill/w_2500,h_2434,al_c/2e66b0_766d3582f147464a891797f87a3bcf96~mv2.jpg"
+    "/images/entries/praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys/0.webp",
+    "/images/entries/praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys/1.webp",
+    "/images/entries/praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys/2.webp",
+    "/images/entries/praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys/3.webp",
+    "/images/entries/praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys/4.webp"
   ],
   "faq": [
     {
@@ -121,8 +124,5 @@
       "question": "Wie wird die Vertraulichkeit in Ihrer Praxis gewährleistet?",
       "answer": "Ich unterliege der gesetzlichen Schweigepflicht und gebe keine Behandlungsdaten an Krankenkassen, Versicherungen oder Behörden weiter."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU99B9IFPqEcR47TTILKTdqU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

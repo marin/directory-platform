@@ -27,6 +27,9 @@
   "email": "kontakt@praxis-montag.de",
   "website": "http://www.praxis-montag.de/",
   "bookingUrl": "https://koalendar.com/u/HaraldMontag",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-duhQqJQqEcRCfbvfpgYyyc",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 64,
   "openingHours": [
     {
       "day": "Monday",
@@ -85,7 +88,7 @@
     }
   ],
   "images": [
-    "https://www.praxis-montag.de/wp-content/uploads/2024/01/harald_podcast_banner.png"
+    "/images/entries/harald-montag-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Wie kann ich Harald Montag kontaktieren?",
       "answer": "Sie können Harald Montag telefonisch unter 0308262753 oder per E-Mail an kontakt@praxis-montag.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-duhQqJQqEcRCfbvfpgYyyc",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 64
+  ]
 }

@@ -26,6 +26,7 @@
   "email": "info@naturheilpraxis-warnke.de",
   "website": "http://www.naturheilpraxis-warnke.de/Ueber-mich/Kontakt/",
   "bookingUrl": "https://www.naturheilpraxis-warnke.de/Ueber-mich/Kontakt/#",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa_ryLAZSqEcR6Sa7JQGcc9o",
   "openingHours": [],
   "offers": [
     {
@@ -34,7 +35,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-warnke.de/.cm4all/uproc.php/0/imported/Logo.JPG"
+    "/images/entries/heilpraktikerin-marion-warnke/0.webp"
   ],
   "faq": [
     {
@@ -53,6 +54,5 @@
       "question": "Wie kann ich eine Kontaktanfrage stellen?",
       "answer": "Sie können eine Kontaktanfrage über das Kontaktformular auf der Webseite stellen. Ich bemühe mich um eine schnellstmögliche Bearbeitung Ihrer Nachricht."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa_ryLAZSqEcR6Sa7JQGcc9o"
+  ]
 }

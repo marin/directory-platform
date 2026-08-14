@@ -26,6 +26,9 @@
   },
   "phone": "01631802260",
   "website": "https://www.naturheilpraxis-huxol.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjUEuoFtaqEcRQ40e5ZX7rpk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 76,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,11 +72,11 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/AdobeStock_55583075-1500x430.jpeg",
-    "https://naturheilpraxis-huxol.de/wp-content/uploads/2025/09/Rathen-2021-015-900x430.jpg",
-    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/VillaEmmaBadSchandau-159_Wohnung-1_Praxis-1024x430.jpg",
-    "https://naturheilpraxis-huxol.de/wp-content/uploads/2026/01/IMG_1663-180x180.jpeg",
-    "https://naturheilpraxis-huxol.de/wp-content/uploads/2024/08/AdobeStock_17477729-180x180.jpeg"
+    "/images/entries/naturheilpraxis-dirk-huxol/0.webp",
+    "/images/entries/naturheilpraxis-dirk-huxol/1.webp",
+    "/images/entries/naturheilpraxis-dirk-huxol/2.webp",
+    "/images/entries/naturheilpraxis-dirk-huxol/3.webp",
+    "/images/entries/naturheilpraxis-dirk-huxol/4.webp"
   ],
   "faq": [
     {
@@ -96,8 +99,5 @@
       "question": "Bietet die Praxis auch Seminare oder Veranstaltungen an?",
       "answer": "Ja, die Naturheilpraxis Dirk Huxol bietet kommende Veranstaltungen und Seminare an, die auf der Website einsehbar sind."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjUEuoFtaqEcRQ40e5ZX7rpk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 76
+  ]
 }

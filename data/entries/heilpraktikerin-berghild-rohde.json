@@ -25,13 +25,16 @@
   "phone": "03040984404",
   "email": "praxis@berghildrohde.de",
   "website": "http://www.berghildrohde.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUcYYY-pUqEcR0faB6Mm7fp8",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.berghildrohde.de/wp-content/uploads/2020/11/yellow-715540_19201_Zuschnitt_Unterseiten.jpg",
-    "http://www.berghildrohde.de/wp-content/uploads/2020/11/blume.jpg",
-    "http://www.berghildrohde.de/wp-content/uploads/2020/11/video.jpg",
-    "http://www.berghildrohde.de/wp-content/uploads/2020/11/blatt.jpg"
+    "/images/entries/heilpraktikerin-berghild-rohde/0.webp",
+    "/images/entries/heilpraktikerin-berghild-rohde/1.webp",
+    "/images/entries/heilpraktikerin-berghild-rohde/2.webp",
+    "/images/entries/heilpraktikerin-berghild-rohde/3.webp"
   ],
   "faq": [
     {
@@ -54,8 +57,5 @@
       "question": "Bietet Berghild Rohde auch Entspannungsbehandlungen an?",
       "answer": "Ja, Berghild Rohde bietet Fußreflexzonenmassagen an, die zur Entspannung und Entschleunigung beitragen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUcYYY-pUqEcR0faB6Mm7fp8",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 6
+  ]
 }

@@ -6,9 +6,14 @@ import { absoluteUrl, categoryPath, areaPath, entryPath, homePath } from "../../
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
 import {
+  extractPlaceIdFromGoogleMapsUrl,
+  resolveGoogleMapsUrl,
+} from "../../geo/google-maps.ts";
+import {
   hasGoogleMapsRating,
   shouldEmitAggregateRating,
 } from "../../geo/google-maps-rating.ts";
+import { getPrimaryImage } from "../../media/entry-images.ts";
 
 export function buildBreadcrumbList(
   items: Array<{ name: string; path: string }>,
@@ -68,7 +73,17 @@ export function buildListingJsonLd(
       longitude: entry.geo.lng,
     };
   }
+  const mapsListingUrl = resolveGoogleMapsUrl(
+    extractPlaceIdFromGoogleMapsUrl(entry.googleMapsUrl),
+    entry.googleMapsUrl,
+  );
+  if (mapsListingUrl) business.hasMap = mapsListingUrl;
   if (entry.website) business.sameAs = [entry.website];
+
+  const primaryImage = getPrimaryImage(entry.images ?? []);
+  if (primaryImage) {
+    business.image = absoluteUrl(primaryImage);
+  }
 
   if (
     hasGoogleMapsRating(entry) &&

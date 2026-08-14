@@ -25,6 +25,9 @@
   "phone": "03027496052",
   "website": "http://www.naturheilpraxis-sandraseelig.de/",
   "bookingUrl": "mailto:info@sandraseelig.de \"info@sandraseelig.de",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaVzX1X1QqEcRSCO-pPwhCdc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -75,11 +78,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/i8e0035ae3bd9b06a/version/1732015713/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/id75a4c676c893f71/version/1732015767/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/id019dda618621602/version/1732015852/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=734x10000:format=jpg/path/sffe46acf99d361bb/image/iedb6186c74a23974/version/1732883092/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/sffe46acf99d361bb/image/i8e0035ae3bd9b06a/version/1732015713/image.jpg"
+    "/images/entries/naturheilpraxis-sandra-seelig/0.webp",
+    "/images/entries/naturheilpraxis-sandra-seelig/1.webp",
+    "/images/entries/naturheilpraxis-sandra-seelig/2.webp",
+    "/images/entries/naturheilpraxis-sandra-seelig/3.webp",
+    "/images/entries/naturheilpraxis-sandra-seelig/4.webp"
   ],
   "faq": [
     {
@@ -102,8 +105,5 @@
       "question": "Wie kann ich die Naturheilpraxis Sandra Seelig kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03027496052 oder über die Website http://www.naturheilpraxis-sandraseelig.de/ kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaVzX1X1QqEcRSCO-pPwhCdc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

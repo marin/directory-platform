@@ -25,6 +25,9 @@
   "phone": "03036500516",
   "website": "http://www.naturheilpraxisjeske.de/",
   "bookingUrl": "https://www.naturheilpraxisjeske.de/startseite/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqbDfgeT3qEcR_AYUOAgQDZk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [
     {
@@ -37,8 +40,8 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=233x1024:format=jpg/path/s1d87bc88762a66f8/image/i565ac77180b0461f/version/1699022477/manuela-jeske-blutegeltherapie.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x1024:format=jpg/path/s1d87bc88762a66f8/image/i565ac77180b0461f/version/1699022477/manuela-jeske-blutegeltherapie.jpg"
+    "/images/entries/manuela-jeske-heilpraktikerin/0.webp",
+    "/images/entries/manuela-jeske-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -61,8 +64,5 @@
       "question": "Wie schützt Manuela Jeske die Daten ihrer Patienten?",
       "answer": "Die Daten der Patienten werden auf der Grundlage der Datenschutzverordnung vom 26.5.2018 (EU DS_GVO) sowie des aktuellen Bundesdatenschutzgesetzes geschützt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqbDfgeT3qEcR_AYUOAgQDZk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

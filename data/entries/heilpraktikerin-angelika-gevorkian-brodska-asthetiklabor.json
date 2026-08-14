@@ -26,6 +26,9 @@
   "email": "info@aesthetiklabor.de",
   "website": "https://www.aesthetiklabor.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/angelika-gevorkian?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK3dBcNpRqEcRN9ofXTtuPhM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -177,11 +180,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/6b7104_20b43a85e1c34661b627515e9e1bbf66~mv2.jpg/v1/crop/x_35,y_0,w_2181,h_1645/fill/w_477,h_350,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20250807-WA0037_edited_edited.jpg",
-    "https://static.wixstatic.com/media/6b7104_f570390b9fef4ecf9546c9f79a8df184~mv2.jpg/v1/crop/x_121,y_0,w_2758,h_2000/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Blood%20Test_edited.jpg",
-    "https://static.wixstatic.com/media/6b7104_e9b5d934acd0402a83f2cb08a6f93bc3~mv2.jpg/v1/crop/x_0,y_96,w_7680,h_5569/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vitamin%20iv%20drip%20fruits%20natural%20therapy%20medical%20use%20iv%20vitamins%20intravenous%20fluid%20care%20pati.jpg",
-    "https://static.wixstatic.com/media/11062b_5d3bc312ab094a6ba4cdbf4e91fb031e~mv2.jpg/v1/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vergleich%20der%20geteilten%20Fl%C3%A4che.jpg",
-    "https://static.wixstatic.com/media/6b7104_9cae608acaea485793599fe1847b46b3~mv2.jpg/v1/crop/x_223,y_0,w_5009,h_3632/fill/w_291,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/The%20plush%20rabbit%20sits%20on%20the%20belly%20of%20the%20pregnant%20mother%20as%20a%20gift%20for%20the%20baby%20to%20come%20s.jpg"
+    "/images/entries/heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor/0.webp",
+    "/images/entries/heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor/1.webp",
+    "/images/entries/heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor/2.webp",
+    "/images/entries/heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor/3.webp",
+    "/images/entries/heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor/4.webp"
   ],
   "faq": [
     {
@@ -204,8 +207,5 @@
       "question": "Wie kann ich Angelika Gevorkian Brodska kontaktieren?",
       "answer": "Sie können Angelika Gevorkian Brodska telefonisch unter 015774885948 oder per E-Mail an info@aesthetiklabor.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK3dBcNpRqEcRN9ofXTtuPhM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

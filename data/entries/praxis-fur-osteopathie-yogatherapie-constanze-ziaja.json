@@ -24,13 +24,13 @@
   },
   "phone": "015221719063",
   "website": "https://www.osteo-yoga.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1bcTFddFqEcRIAEmggOrQ24",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://osteo-yoga.com/wp-content/uploads/2019/02/Logo_Osteopathie.png"
+    "/images/entries/praxis-fur-osteopathie-yogatherapie-constanze-ziaja/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1bcTFddFqEcRIAEmggOrQ24",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

@@ -26,6 +26,9 @@
   "email": "praxis@seda-altinay.de",
   "website": "http://seda-altinay.de/",
   "bookingUrl": "tel:+4915906118358",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-lDVeZRqEcREtemOIRMFaw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [],
   "offers": [
     {
@@ -70,11 +73,11 @@
     }
   ],
   "images": [
-    "https://seda-altinay.de/wp-content/uploads/2026/03/DSC05216_bearbeitet3-1024x683.jpeg",
-    "https://seda-altinay.de/wp-content/uploads/2026/03/crop-0-0-1281-1280-0-giorgio-trovato-OU289M2wuH0-unsplash-edited.jpg",
-    "https://seda-altinay.de/wp-content/uploads/2026/03/bundo-kim-ur2zmbseUIA-unsplash-1920x1920-1-1024x1024.jpeg",
-    "https://seda-altinay.de/wp-content/uploads/2026/03/chelsea-shapouri-r40EYKVyutI-unsplash_1600x1600-1024x1024.jpeg",
-    "https://seda-altinay.de/wp-content/uploads/2026/03/DSC05216_bearbeitet3-scaled.jpeg"
+    "/images/entries/seda-altinay/0.webp",
+    "/images/entries/seda-altinay/1.webp",
+    "/images/entries/seda-altinay/2.webp",
+    "/images/entries/seda-altinay/3.webp",
+    "/images/entries/seda-altinay/4.webp"
   ],
   "faq": [
     {
@@ -97,8 +100,5 @@
       "question": "Welche Therapieansätze werden in der Praxis angeboten?",
       "answer": "In der Praxis werden verschiedene Therapieansätze angeboten, darunter Pflanzenheilkunde, Aromatherapie, Darmsanierung und hochdosierte Vitamin-C-Infusionen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt-lDVeZRqEcREtemOIRMFaw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 12
+  ]
 }

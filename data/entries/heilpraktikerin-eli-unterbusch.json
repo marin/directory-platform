@@ -25,6 +25,9 @@
   "phone": "01723283889",
   "email": "info@eliunterbusch.de",
   "website": "http://www.eliunterbusch.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVVVVY5OqEcRlnkeols0tCA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14,
   "openingHours": [],
   "offers": [
     {
@@ -33,8 +36,7 @@
     }
   ],
   "images": [
-    "https://cms.eliunterbusch.de/uploads/medium_eli_2x_23bff440c6.jpg",
-    "https://www.eliunterbusch.de/cptr.jpg"
+    "/images/entries/heilpraktikerin-eli-unterbusch/0.webp"
   ],
   "faq": [
     {
@@ -53,8 +55,5 @@
       "question": "Hat die Praxis von Heilpraktikerin Eli Unterbusch feste Öffnungszeiten?",
       "answer": "Im Kontext sind keine festen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVVVVY5OqEcRlnkeols0tCA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 14
+  ]
 }

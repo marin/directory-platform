@@ -26,6 +26,9 @@
   "email": "info@w-runge.de",
   "website": "https://www.w-runge.de/",
   "bookingUrl": "https://w-runge.de/termine-berlin.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA2nlg-laqEcR8K_zAWt6svw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -125,11 +128,11 @@
     }
   ],
   "images": [
-    "https://w-runge.de/resources/image-003.jpg",
-    "https://w-runge.de/resources/image-006.jpg",
-    "https://w-runge.de/resources/image-002.jpg",
-    "https://w-runge.de/resources/image-008.jpg",
-    "https://w-runge.de/resources/image-001.jpg"
+    "/images/entries/heilpraxis-wolfgang-runge/0.webp",
+    "/images/entries/heilpraxis-wolfgang-runge/1.webp",
+    "/images/entries/heilpraxis-wolfgang-runge/2.webp",
+    "/images/entries/heilpraxis-wolfgang-runge/3.webp",
+    "/images/entries/heilpraxis-wolfgang-runge/4.webp"
   ],
   "faq": [
     {
@@ -152,8 +155,5 @@
       "question": "Wie kann ich die Heilpraxis Wolfgang Runge kontaktieren?",
       "answer": "Sie können die Heilpraxis Wolfgang Runge per E-Mail unter info@w-runge.de oder telefonisch unter 0302923194 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA2nlg-laqEcR8K_zAWt6svw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 30
+  ]
 }

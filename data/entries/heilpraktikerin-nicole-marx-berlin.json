@@ -26,6 +26,7 @@
   "email": "kontakt@heilpraxis-marx.de",
   "website": "http://www.heilpraxis-marx.de/",
   "bookingUrl": "https://www.heilpraxis-marx.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRcZ70WdHqEcR8II7e8MqNj0",
   "openingHours": [
     {
       "day": "Monday",
@@ -55,11 +56,11 @@
   ],
   "offers": [],
   "images": [
-    "https://heilpraxis-marx.de/wp-content/uploads/20220409_152321_DSC04127a_2048-2-1024x683.jpg",
-    "https://heilpraxis-marx.de/wp-content/uploads/2022/03/20190522_144357_DSC00028a_2048-1024x683.jpg",
-    "https://heilpraxis-marx.de/wp-content/uploads/20220409_095509_DSC04108-RGBa_2048-1-1024x683.jpg",
-    "https://heilpraxis-marx.de/wp-content/uploads/IMG_0711-969x1024.jpg",
-    "https://heilpraxis-marx.de/wp-content/uploads/20220409_160109_DSC04247a_2048-1024x683.jpg"
+    "/images/entries/heilpraktikerin-nicole-marx-berlin/0.webp",
+    "/images/entries/heilpraktikerin-nicole-marx-berlin/1.webp",
+    "/images/entries/heilpraktikerin-nicole-marx-berlin/2.webp",
+    "/images/entries/heilpraktikerin-nicole-marx-berlin/3.webp",
+    "/images/entries/heilpraktikerin-nicole-marx-berlin/4.webp"
   ],
   "faq": [
     {
@@ -82,6 +83,5 @@
       "question": "Welche Therapieangebote gibt es bei Nicole Marx?",
       "answer": "Nicole Marx bietet eine Kombination aus Bewegung, Entspannung, Ernährung und Naturheilkunde an, einschließlich Beckenbodenbehandlungen und Yogatherapie."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRcZ70WdHqEcR8II7e8MqNj0"
+  ]
 }

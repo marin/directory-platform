@@ -27,6 +27,9 @@
   "email": "info@hannahsteiner.de",
   "website": "https://praxishannahsteiner.live-website.com/",
   "bookingUrl": "https://calendly.com/hannahsteiner/ganzheitlicher-ersttermin-1",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYYDjiwRSqEcRQK3qTTVDBQ4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,11 +84,11 @@
     }
   ],
   "images": [
-    "https://hannahsteiner.de/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-17_41_02.png",
-    "https://hannahsteiner.de/wp-content/uploads/2026/03/588404020_18088876753968190_4487430094834460419_n.jpg",
-    "https://hannahsteiner.de/wp-content/uploads/2026/03/20260320_130607-scaled.jpg",
-    "https://hannahsteiner.de/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-10.56.23-2.jpeg",
-    "https://hannahsteiner.de/wp-content/uploads/2025/04/IMG_20240120_215206_213-1024x1024.jpg"
+    "/images/entries/praxis-fur-ganzheitliche-frauengesundheit-hp-hannah-steiner-berlin/0.webp",
+    "/images/entries/praxis-fur-ganzheitliche-frauengesundheit-hp-hannah-steiner-berlin/1.webp",
+    "/images/entries/praxis-fur-ganzheitliche-frauengesundheit-hp-hannah-steiner-berlin/2.webp",
+    "/images/entries/praxis-fur-ganzheitliche-frauengesundheit-hp-hannah-steiner-berlin/3.webp",
+    "/images/entries/praxis-fur-ganzheitliche-frauengesundheit-hp-hannah-steiner-berlin/4.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 017642051816 oder per E-Mail an info@hannahsteiner.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYYDjiwRSqEcRQK3qTTVDBQ4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

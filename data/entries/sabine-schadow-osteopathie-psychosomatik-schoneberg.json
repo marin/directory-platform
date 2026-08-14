@@ -28,6 +28,9 @@
   "email": "info@sabine-schadow.de",
   "website": "https://osteopathie-in-berlin-schoeneberg.de/",
   "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/praxis-fuer-osteopathie-und-psychosomatik",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL7xpEUJQqEcRAzNM3K-5CPA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +59,8 @@
     }
   ],
   "images": [
-    "https://osteopathie-in-berlin-schoeneberg.de/wp-content/uploads/2025/02/osteopathie-berlin-schoeneberg-sitzecke.jpg",
-    "https://osteopathie-in-berlin-schoeneberg.de/wp-content/uploads/2024/12/osteopathie-berlin-schoeneberg-macht-froh.png"
+    "/images/entries/sabine-schadow-osteopathie-psychosomatik-schoneberg/0.webp",
+    "/images/entries/sabine-schadow-osteopathie-psychosomatik-schoneberg/1.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich Sabine Schadow kontaktieren?",
       "answer": "Sie können Sabine Schadow telefonisch unter 03020986355 oder per E-Mail an info@sabine-schadow.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL7xpEUJQqEcRAzNM3K-5CPA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

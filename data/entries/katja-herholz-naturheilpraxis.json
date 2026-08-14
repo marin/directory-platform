@@ -25,6 +25,7 @@
   "phone": "01745954915",
   "website": "http://naturheilpraxisherholz.de/",
   "bookingUrl": "https://www.naturheilpraxisherholz.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYzMwtOFQqEcRX0RTaX1PMIA",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -76,7 +77,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/265323455/6b0f2839-9ca4-4c48-a93e-e3c7aa2e5613.jpg"
+    "/images/entries/katja-herholz-naturheilpraxis/0.webp"
   ],
   "faq": [
     {
@@ -99,6 +100,5 @@
       "question": "Welche Therapien werden in der Naturheilpraxis Herholz angeboten?",
       "answer": "In der Naturheilpraxis Herholz werden verschiedene Therapien angeboten, darunter Akupunktur, Heilmassage, Homöopathie und Pflanzenheilkunde."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYzMwtOFQqEcRX0RTaX1PMIA"
+  ]
 }

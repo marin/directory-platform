@@ -25,6 +25,7 @@
   },
   "phone": "03025469707",
   "website": "https://www.heilepraxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJxnYR_tRqEcRKyIPak5_edk",
   "openingHours": [],
   "offers": [
     {
@@ -41,8 +42,8 @@
     }
   ],
   "images": [
-    "https://heilepraxis.de/wp-content/uploads/2023/01/heilepraxis-madeleine-mertke-schmetterling-veraenderung-300x278.jpg",
-    "https://heilepraxis.de/wp-content/uploads/2023/01/heilepraxis-madeleine-mertke-schmetterling-veraenderung.jpg"
+    "/images/entries/madeleine-mertke-heilpraktikerin-klassische-homoopathie/0.webp",
+    "/images/entries/madeleine-mertke-heilpraktikerin-klassische-homoopathie/1.webp"
   ],
   "faq": [
     {
@@ -65,6 +66,5 @@
       "question": "Welche Beschwerden können mit Homöopathie behandelt werden?",
       "answer": "Homöopathie kann bei verschiedenen Beschwerden helfen, darunter ADHS, Allergien, Angstzustände, Autoimmunkrankheiten, Burn-Out, Depression, Migräne und viele weitere."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJxnYR_tRqEcRKyIPak5_edk"
+  ]
 }

@@ -26,14 +26,14 @@
   "phone": "01784186814",
   "email": "osteopathie@ballauff.info",
   "website": "https://www.osteopathie-berlin-friedenau.de/",
-  "openingHours": [],
-  "offers": [],
-  "images": [
-    "https://www.osteopathie-berlin-friedenau.de/style/logo.png"
-  ],
-  "faq": [],
   "bookingUrl": "https://www.osteopathie-berlin-friedenau.de/kontakt",
   "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAatfEX1QqEcRuJNr6LCxEaU",
   "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 3
+  "googleMapsRatingsCount": 3,
+  "openingHours": [],
+  "offers": [],
+  "images": [
+    "/images/entries/bettina-ballauff-heilpraktikerin-praxis-fur-osteopathie/0.webp"
+  ],
+  "faq": []
 }

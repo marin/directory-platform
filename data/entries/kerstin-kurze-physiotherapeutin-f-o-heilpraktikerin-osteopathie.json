@@ -26,6 +26,7 @@
   "phone": "03060970117",
   "email": "an@physiokos.de",
   "website": "http://www.physiokos.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cHphvtFqEcR6Gw1403Y3qY",
   "openingHours": [],
   "offers": [
     {
@@ -74,7 +75,7 @@
     }
   ],
   "images": [
-    "https://www.physiokos.de/storage/app/uploads/public/ozc_responsive/fe55f8d5232e6c8f276ace3531ff29ea.webp"
+    "/images/entries/kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie/0.webp"
   ],
   "faq": [
     {
@@ -97,6 +98,5 @@
       "question": "Wo befindet sich die Praxis von Kerstin Kurze?",
       "answer": "Die Praxis befindet sich im Minzeweg 38, 12357 Berlin, im Bezirk Steglitz-Zehlendorf."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cHphvtFqEcR6Gw1403Y3qY"
+  ]
 }

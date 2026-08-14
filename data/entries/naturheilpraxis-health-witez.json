@@ -24,6 +24,9 @@
   },
   "phone": "03028502911",
   "website": "https://health.witez.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRZtEnaCfIlOE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -92,11 +95,11 @@
     }
   ],
   "images": [
-    "https://health.witez.net/media/yootheme/cache/51/andreas-liege@2x-5164d0aa.jpg?src=images/andreas-liege@2x.jpg&thumbnail=312,400,,left,center&hash=5ef3b56e",
-    "https://health.witez.net/images/chlorella.jpeg",
-    "https://health.witez.net/images/Die%205%20Ebenen%20Pyramide.jpg",
-    "https://health.witez.net/images/MFT-Klopfpunkt.jpg",
-    "https://health.witez.net/images/brille@2x.jpg"
+    "/images/entries/naturheilpraxis-health-witez/0.webp",
+    "/images/entries/naturheilpraxis-health-witez/1.webp",
+    "/images/entries/naturheilpraxis-health-witez/2.webp",
+    "/images/entries/naturheilpraxis-health-witez/3.webp",
+    "/images/entries/naturheilpraxis-health-witez/4.webp"
   ],
   "faq": [
     {
@@ -119,8 +122,5 @@
       "question": "Gibt es Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln?",
       "answer": "Ja, die Praxis bietet Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln, die auf der Webseite verfügbar sind."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRZtEnaCfIlOE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

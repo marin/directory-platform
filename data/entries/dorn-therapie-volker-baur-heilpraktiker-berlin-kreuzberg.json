@@ -27,6 +27,9 @@
   "email": "info@heilpraxis-baur.de",
   "website": "http://www.heilpraxis-baur.de/",
   "bookingUrl": "https://heilpraxis-baur.de/Kontakt-Impressum/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfXQwDNVRqEcRexHUTVMm_mE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [
     {
@@ -43,7 +46,7 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-baur.de/.cm4all/uproc.php/0/Volker%20neu.jpg?_=182c20ead30"
+    "/images/entries/dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg/0.webp"
   ],
   "faq": [
     {
@@ -66,8 +69,5 @@
       "question": "Wie kann ich Volker Baur kontaktieren?",
       "answer": "Sie können Volker Baur telefonisch unter 03022396582 oder per E-Mail an info@heilpraxis-baur.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfXQwDNVRqEcRexHUTVMm_mE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

@@ -28,6 +28,9 @@
   "email": "d.amtmann@akupunkturpraxis-berlin.com",
   "website": "http://www.akupunkturpraxis-berlin.com/",
   "bookingUrl": "http://www.akupunkturpraxis-berlin.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcYv2ayhQqEcRqdDDZQkSWQQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 48,
   "openingHours": [
     {
       "day": "Monday",
@@ -62,7 +65,7 @@
     }
   ],
   "images": [
-    "https://www.akupunkturpraxis-berlin.com/wp-content/uploads/Startseite-Akupunkturpraxis-Berlin-Kreuzberg-Heilpraktikerin-Dagmar-Amtmann-300x195.png"
+    "/images/entries/akupunktur-berlin-kreuzberg-dagmar-amtmann/0.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Wann hat die Praxis geöffnet?",
       "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 13:00 Uhr geöffnet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcYv2ayhQqEcRqdDDZQkSWQQ",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 48
+  ]
 }

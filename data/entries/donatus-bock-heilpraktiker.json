@@ -27,6 +27,9 @@
   "email": "donatus.bock@gmx.de",
   "website": "http://bioresonanz-berlin-bock.de/",
   "bookingUrl": "https://www.jameda.de/donatus-bock/heilpraktiker/berlin#profile-pricing",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYarICuNaqEcRNJP9VO0yPIc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,9 +58,9 @@
     }
   ],
   "images": [
-    "https://bioresonanz-berlin-bock.de/wp-content/uploads/15663525437787441393.jpg",
-    "https://bioresonanz-berlin-bock.de/wp-content/uploads/28077746_2025_BPA-WKDB-AWARD-Siegel-Ort-1024x851.png",
-    "https://bioresonanz-berlin-bock.de/wp-content/uploads/Screenshot-2025-09-03-150237.png"
+    "/images/entries/donatus-bock-heilpraktiker/0.webp",
+    "/images/entries/donatus-bock-heilpraktiker/1.webp",
+    "/images/entries/donatus-bock-heilpraktiker/2.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich Donatus Bock per E-Mail kontaktieren?",
       "answer": "Sie können Donatus Bock per E-Mail unter donatus.bock@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYarICuNaqEcRNJP9VO0yPIc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

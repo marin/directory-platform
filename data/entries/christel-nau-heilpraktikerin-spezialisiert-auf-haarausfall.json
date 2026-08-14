@@ -24,6 +24,9 @@
   },
   "phone": "01705593367",
   "website": "http://www.christel-nau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfCPBLhYqEcRgClKvlvebVw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,11 +61,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/ib77f127c91e1dd2f/version/1646986515/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-androgenen-haarausfall.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/ief47340849103a89/version/1646986553/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-diffusen-haarausfall.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s800550f26ce9e0f9/image/i209ae23ba975f46b/version/1646986588/christel-nau-heilpraktikerin-und-expertin-bei-haarausfall-informiert-%C3%BCber-kreisrunden-haarausfall.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s800550f26ce9e0f9/backgroundarea/if05be4635bccd2b9/version/1654007992/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=209x1024:format=jpg/path/s800550f26ce9e0f9/image/i75ab3581393c8b55/version/1709713802/image.jpg"
+    "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/0.webp",
+    "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/1.webp",
+    "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/2.webp",
+    "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/3.webp",
+    "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/4.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Gibt es ein Buch über Haarausfall, das von Christel Nau veröffentlicht wurde?",
       "answer": "Ja, Christel Nau hat ein Buch mit dem Titel \"HAARAUSFALL - Ursachen und Lösungen auf der Spur\" veröffentlicht, das seit August 2023 erhältlich ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfCPBLhYqEcRgClKvlvebVw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

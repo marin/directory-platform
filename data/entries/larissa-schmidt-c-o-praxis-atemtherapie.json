@@ -25,6 +25,9 @@
   "email": "info@praxis-larissaschmidt.de",
   "website": "https://www.praxis-larissaschmidt.de/",
   "bookingUrl": "https://calendly.com/schmidtlarissa-mail/15-minutiges-kennenlerngesprach",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3elwaX5IkMRVcOojRDE6RY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Friday",
@@ -60,14 +63,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/7340ba5f-3c83-435a-bcb5-20c5817e071a/l0,t135,w1080,h1080/image-768x768.png",
-    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/c5dff68f-6b8a-4cbd-a9af-893ed18147a2/l0,t131,w1080,h1080/image-768x768.jpg",
-    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/52e048da-613d-4e65-8600-9cb35a966162/l0,t2,w1080,h1080/image-768x768.png",
-    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/60e4702d-f3e3-46ec-aa94-fb7709c35085/l0,t64,w768,h768/image.png",
-    "https://www.praxis-larissaschmidt.de/wp-content/uploads/go-x/u/04569700-8fdf-4d14-b1c8-bd229e42f2fe/l0,t135,w1080,h1080/image-768x768.jpg"
+    "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/0.webp",
+    "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/1.webp",
+    "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/2.webp",
+    "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/3.webp",
+    "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3elwaX5IkMRVcOojRDE6RY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  "faq": []
 }

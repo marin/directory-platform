@@ -27,6 +27,9 @@
   "email": "info@purol.de",
   "website": "http://www.purol.de/",
   "bookingUrl": "https://purol.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl7Hz8wBbqEcRpf67h39DXvU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -234,11 +237,11 @@
     }
   ],
   "images": [
-    "https://purol.de/wp-content/uploads/2023/09/startbilder5.jpg",
-    "https://purol.de/wp-content/uploads/2023/11/dorn-neu.jpg",
-    "https://purol.de/wp-content/uploads/2023/09/therapie-akupunktur1.jpg",
-    "https://purol.de/wp-content/uploads/2023/11/meso-neu.jpg",
-    "https://purol.de/wp-content/uploads/2024/02/pferd-start.jpg"
+    "/images/entries/naturheilpraxis-christiana-purol/0.webp",
+    "/images/entries/naturheilpraxis-christiana-purol/1.webp",
+    "/images/entries/naturheilpraxis-christiana-purol/2.webp",
+    "/images/entries/naturheilpraxis-christiana-purol/3.webp",
+    "/images/entries/naturheilpraxis-christiana-purol/4.webp"
   ],
   "faq": [
     {
@@ -257,8 +260,5 @@
       "question": "Bietet die Praxis ein unverbindliches Vorgespräch an?",
       "answer": "Ja, die Praxis bietet ein unverbindliches Vorgespräch an, in dem Sie Fragen zu den Behandlungsmöglichkeiten stellen können."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl7Hz8wBbqEcRpf67h39DXvU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

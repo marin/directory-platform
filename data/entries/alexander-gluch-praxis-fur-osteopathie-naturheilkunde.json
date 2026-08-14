@@ -26,6 +26,9 @@
   "phone": "03043749637",
   "website": "http://www.heilpraktiker-tegel.de/",
   "bookingUrl": "http://www.heilpraktiker-tegel.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeb6GGl1UqEcRBcB-oiNETpA",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 28,
   "openingHours": [
     {
       "day": "Monday",
@@ -74,9 +77,9 @@
     }
   ],
   "images": [
-    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-1-1500x630.jpg",
-    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-akkupunktur-1500x630.jpg",
-    "http://www.heilpraktiker-tegel.de/wp-content/uploads/2016/05/gluch-osteopathie-naturheilkunde-hydrocolontherapie-3-1500x630.jpg"
+    "/images/entries/alexander-gluch-praxis-fur-osteopathie-naturheilkunde/0.webp",
+    "/images/entries/alexander-gluch-praxis-fur-osteopathie-naturheilkunde/1.webp",
+    "/images/entries/alexander-gluch-praxis-fur-osteopathie-naturheilkunde/2.webp"
   ],
   "faq": [
     {
@@ -99,8 +102,5 @@
       "question": "Welche Philosophie verfolgt die Osteopathie in der Praxis von Alexander Gluch?",
       "answer": "Die Philosophie der Osteopathie basiert auf der Behandlung des Menschen im Ganzen und nicht nur einzelner Krankheiten, unter Verwendung von Erkenntnissen der Naturwissenschaften und naturheilkundlichen Prinzipien."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeb6GGl1UqEcRBcB-oiNETpA",
-  "googleMapsRating": 4.4,
-  "googleMapsRatingsCount": 28
+  ]
 }

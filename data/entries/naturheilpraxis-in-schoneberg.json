@@ -25,10 +25,13 @@
   "phone": "03021754815",
   "email": "kontakt@naturheilpraxis-in-schoeneberg.de",
   "website": "http://www.naturheilpraxis-in-schoeneberg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB8ge8xVQqEcR9fE7C5C9aUo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://naturheilpraxis-in-schoeneberg.de/wp-content/uploads/2020/02/logo-naturheilpraxis-schoeneberg.png"
+    "/images/entries/naturheilpraxis-in-schoneberg/0.webp"
   ],
   "faq": [
     {
@@ -47,8 +50,5 @@
       "question": "Wer ist die Heilpraktikerin der Naturheilpraxis in Schöneberg?",
       "answer": "Die Heilpraktikerin der Naturheilpraxis in Schöneberg ist Sabine Gowik."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB8ge8xVQqEcR9fE7C5C9aUo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

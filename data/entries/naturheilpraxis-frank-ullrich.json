@@ -25,6 +25,9 @@
   "phone": "03047486096",
   "website": "http://www.naturheilpraxis-ullrich.de/",
   "bookingUrl": "https://www.naturheilpraxis-ullrich.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFdVLeFdSqEcRz0Ph1TltlZE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -124,11 +127,11 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-ullrich.de/files/boj7-20019uwrojjn-5mig3.png",
-    "https://www.naturheilpraxis-ullrich.de/files/boj7-78is9ejbheev-v5zy3.jpg",
-    "https://www.naturheilpraxis-ullrich.de/files/boj7-5vhd4t8i2s8z-xhujw.jpg",
-    "https://www.naturheilpraxis-ullrich.de/files/boj7-59wwnrk8esnt-k085f.jpg",
-    "https://www.naturheilpraxis-ullrich.de/files/boj7-76ytt0ea6mxn-zsjvz.jpg"
+    "/images/entries/naturheilpraxis-frank-ullrich/0.webp",
+    "/images/entries/naturheilpraxis-frank-ullrich/1.webp",
+    "/images/entries/naturheilpraxis-frank-ullrich/2.webp",
+    "/images/entries/naturheilpraxis-frank-ullrich/3.webp",
+    "/images/entries/naturheilpraxis-frank-ullrich/4.webp"
   ],
   "faq": [
     {
@@ -151,8 +154,5 @@
       "question": "Wie viel kostet ein Ersttermin in der Naturheilpraxis?",
       "answer": "Ein Ersttermin mit Voruntersuchung kostet 90,00 Euro."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFdVLeFdSqEcRz0Ph1TltlZE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 14
+  ]
 }

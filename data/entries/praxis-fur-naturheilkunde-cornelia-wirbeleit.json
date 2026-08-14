@@ -25,6 +25,9 @@
   "phone": "03054000970",
   "website": "http://www.hp-wirbeleit.de/",
   "bookingUrl": "https://www.hp-wirbeleit.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5ZvY_f1LqEcRED2anF_bZPY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -65,9 +68,9 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/Hom%C3%B6opathie_Ohrkerzen_k-1920w.JPG?Expires=1788499636&Signature=A0R9m4alsB6hoqMnZ4zSkYDkYjTeXJLE~ctVVYWTv0Xipv2psSJgNOT-7F2XZYX9Q-IXrY2hsk2EmQ4~YcPfSSs7etBxMK2WOd-knc~vkPXAOQnxMM1r4Nv~MCeHMQ6OIp3n7N0i8vCD1Vbwfd-6aqKb7xWNaoSnxNC1ayjIRFebx4JqM-yjEUUKPUmn-F41xf64SDFNKx5oYjdEKPHldXUtlp62jXPXR-3crvSyLOY6cDF0z0xdFoVt~eJG0FfXiFKtkO4EbWCFngobTE6XfHkKKnfy9JvoDHjISYnSozfGcX8-ymzmEO2sQxZ2~B3NThZvn9Mhy5mbx-lrP6cCnw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/Quaddel-4c689901-1920w.jpg?Expires=1788499636&Signature=YVtEpvxjkLcTddwCyYJmUVPuix1bZzWGrn-EZPHzhsqPXjoB6rWHG73LFJgpxXpxdE1BDkSOrWgnnpUGBmJ0CYQLQfOVEB0SoalNWhVpHK5zo9ZNfRMKUk~jSaxomNVsbQGGLvVXwDRHhJu1irPfWO64Rp6pQsq9eWszrn45JYXO2ikQBbjFElf1HtuEDgoMYk4AHLLnAK9HpiJEfZp~UYkpyovZpDc4z-pmhNqKmkmFTZCetOa8pQIXF30szx3xoHl~OGiYhzUMZthFFedTVNzSw0r5rFvwBtGmavY2QhG4vW-PPwRBAQJZQGqOEw9pCdihUVJUSlFZueNBhJbalw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/1a73d052bed049b081c85d17d8dfdfe8/dms3rep/multi/opt/PIC_0808-1920w.JPG?Expires=1788499636&Signature=gAcN8kpQq6mc~dcI3LswnXM2JGHTNJqIwJuJ8gUE-oC3Ne10CPZprlw~OzAQnX3ZDOkJWLE~2vXpUVdNnqgnxN1CtTosl4bBNjMpW7Ruhj9Qoj2IiWSEMbucF1acsQy-Vf6vEQcLQTGBzPhRi6gc~EjYjeG~HuxEjs9OA0sSDzk59rZ8mvN~5RWAIAip~GpXgZ7F0YOMCnJiqP8n0eOQKdW28CBiY8PYBP~-qgrTEohkbr6duwr36M~6j7yLdnGv4KHqeZ1XRqFNsq1YR0ioDqo7jnnS4ZIhh6L0Cji06JnHQeXFfeGetZ5iGZ9-ejfTKnY7A3tBnmqPfHhXRQgxBQ__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/praxis-fur-naturheilkunde-cornelia-wirbeleit/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-cornelia-wirbeleit/1.webp",
+    "/images/entries/praxis-fur-naturheilkunde-cornelia-wirbeleit/2.webp"
   ],
   "faq": [
     {
@@ -90,8 +93,5 @@
       "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
       "answer": "Sie erreichen die Praxis mit der S-Bahn (S 7 oder S 75 bis \"Springpfuhl\"), mit dem Bus (Linie 194 und 391 bis \"Helene-Weigel-Platz\") oder mit der Straßenbahn (Linien M8 und M18 bis \"Helene-Weigel-Platz\")."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5ZvY_f1LqEcRED2anF_bZPY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

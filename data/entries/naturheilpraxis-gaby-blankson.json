@@ -26,6 +26,9 @@
   "email": "gaby@naturheilpraxis-blankson.de",
   "website": "http://www.naturheilpraxis-blankson.de/",
   "bookingUrl": "https://www.naturheilpraxis-blankson.de/#kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB0sgzr5RqEcRpdHQL53r-OU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,7 +75,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-blankson.de/wp-content/uploads/Blankson-Logo-2020_bold.png"
+    "/images/entries/naturheilpraxis-gaby-blankson/0.webp"
   ],
   "faq": [
     {
@@ -95,8 +98,5 @@
       "question": "Wie kann ich die Naturheilpraxis Gaby Blankson kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Gaby Blankson telefonisch unter 0173 606 1919 oder per E-Mail an gaby@naturheilpraxis-blankson.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB0sgzr5RqEcRpdHQL53r-OU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

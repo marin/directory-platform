@@ -25,6 +25,9 @@
   "phone": "03025056041",
   "website": "http://www.christapoelking.de/",
   "bookingUrl": "https://www.christapoelking.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcRCEc_zTyj8bQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [],
   "offers": [
     {
@@ -119,7 +122,7 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/4127eb83b99046e0923f3112aa9591fd/dms3rep/multi/opt/Fotolia_102924714_L+-+Kopie-1920w.jpg?Expires=1788315803&Signature=VEi9IRLL0foI~72t-vs5pq5i5AuS9u~qVPzHwY3pwCqwN3NzvRiERWXBAertsJ~1jXH2OtOLGXeu2UZHNrqbleBIJYfozZhF4CsuArv61iNudlHgmaUuMAoq4Jom3f3krrtMlqqjm4hJ8a9IZWbK6blU-Cix4KFjQ3So9VN2ubsFfqySVhb0h34abfmAn-4IDWyWWUjmRWPtYCGBE2GAZPXLoCc6KBLwOdVIY5ydHsdz9Hzsgf~6J6PSlg~eTDa165jEFD4pfyGEXOjZsHOhFzUys6JVtG35mcFOpUmxpBoBGE9mrK2lvsDSLcuxhpjCnTuOjksuR7NZTKiD4MsZnw__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/heilpraxis-christa-polking/0.webp"
   ],
   "faq": [
     {
@@ -142,8 +145,5 @@
       "question": "Bietet die Heilpraxis auch Kurse an?",
       "answer": "Ja, die Heilpraxis bietet Kurse wie Autogenes Training (8 x 90 min. für 139,- €) und Progressive Muskelrelaxation (8 x 60 min. für 129,- €) an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcRCEc_zTyj8bQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

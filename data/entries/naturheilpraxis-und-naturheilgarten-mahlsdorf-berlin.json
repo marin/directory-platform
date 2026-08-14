@@ -26,6 +26,9 @@
   },
   "phone": "0307717309",
   "website": "http://www.artnat.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdzJvSNtJqEcR5m4WgVQlyN0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -74,7 +77,7 @@
     }
   ],
   "images": [
-    "https://www.artnat.de/webyep-system/data/3-im-Bild-1569.jpg"
+    "/images/entries/naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin/0.webp"
   ],
   "faq": [
     {
@@ -97,8 +100,5 @@
       "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
       "answer": "Sie können einen Termin telefonisch unter der Nummer 0307717309 oder über die Website http://www.artnat.de/ vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdzJvSNtJqEcR5m4WgVQlyN0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

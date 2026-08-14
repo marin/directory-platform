@@ -125,4 +125,71 @@ describe("buildListingJsonLd", () => {
       worstRating: 1,
     });
   });
+
+  it("includes hasMap when a Google Maps URL exists", () => {
+    const jsonLd = buildListingJsonLd(
+      {
+        id: "test",
+        slug: "test",
+        name: "Test Praxis",
+        description: "Test description.",
+        lastUpdated: "2026-08-14",
+        status: "open",
+        categories: ["naturheilkunde"],
+        areaIds: [],
+        openingHours: [],
+        offers: [],
+        images: [],
+        faq: [],
+        googleMapsUrl:
+          "https://www.google.de/maps/place/?q=place_id:ChIJQYAMi05FqEcRwhm-z74hols",
+        geo: { lat: 52.52, lng: 13.405 },
+        isOpen: true,
+        nap: {
+          name: "Test Praxis",
+          phone: undefined,
+          formattedPhone: undefined,
+          formattedAddress: "Torstr. 1, 10119 Berlin",
+        },
+      },
+      { id: "naturheilkunde", slug: "naturheilkunde", name: "Naturheilkunde" },
+    );
+
+    const graph = (jsonLd as { "@graph": Record<string, unknown>[] })["@graph"];
+    const business = graph.find((node) => node["@type"] === "MedicalBusiness");
+    expect(business?.hasMap).toBe(
+      "https://www.google.de/maps/place/?q=place_id:ChIJQYAMi05FqEcRwhm-z74hols",
+    );
+  });
+
+  it("includes image when entry images exist", () => {
+    const jsonLd = buildListingJsonLd(
+      {
+        id: "test",
+        slug: "test",
+        name: "Test Praxis",
+        description: "Test description.",
+        lastUpdated: "2026-08-14",
+        status: "open",
+        categories: ["naturheilkunde"],
+        areaIds: [],
+        openingHours: [],
+        offers: [],
+        images: ["/images/entries/test/0.webp"],
+        faq: [],
+        isOpen: true,
+        nap: {
+          name: "Test Praxis",
+          phone: undefined,
+          formattedPhone: undefined,
+          formattedAddress: undefined,
+        },
+      },
+      { id: "naturheilkunde", slug: "naturheilkunde", name: "Naturheilkunde" },
+    );
+
+    const graph = (jsonLd as { "@graph": Record<string, unknown>[] })["@graph"];
+    const business = graph.find((node) => node["@type"] === "MedicalBusiness");
+    expect(business?.image).toBe("https://naturav.com/images/entries/test/0.webp");
+  });
 });

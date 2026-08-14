@@ -26,6 +26,9 @@
   "email": "e-rechnung@bartning.de",
   "website": "http://bartning.de/",
   "bookingUrl": "https://bartning.de/pages/kalender/fastenkuren-berlin.php",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE5afHlBaqEcRaXZytXUT_wE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides1.jpg",
-    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides2.jpg",
-    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides3.jpg",
-    "https://bartning.de/templates/wbce_hortal/head-slides/head-slides4.jpg",
-    "https://bartning.de/media/flyer/Berlin_Heilfasten_pic.jpg"
+    "/images/entries/sebastian-bartning/0.webp",
+    "/images/entries/sebastian-bartning/1.webp",
+    "/images/entries/sebastian-bartning/2.webp",
+    "/images/entries/sebastian-bartning/3.webp",
+    "/images/entries/sebastian-bartning/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Wie kann ich Sebastian Bartning kontaktieren?",
       "answer": "Sie können Sebastian Bartning telefonisch unter 03081299955 oder per E-Mail an e-rechnung@bartning.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE5afHlBaqEcRaXZytXUT_wE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

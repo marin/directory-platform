@@ -26,6 +26,7 @@
   "email": "hpbrasch@web.de",
   "website": "http://www.hpbrasch.de/",
   "bookingUrl": "http://www.hpbrasch.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8_M_WItOqEcRAQiHxxJhROI",
   "openingHours": [],
   "offers": [
     {
@@ -42,7 +43,7 @@
     }
   ],
   "images": [
-    "http://www.hpbrasch.de/wp-content/uploads/2026/05/Bildschirmfoto-2026-05-15-um-10.31.32-Kopie-1-1024x415.png"
+    "/images/entries/heilpraktiker-biologische-krebstherapie/0.webp"
   ],
   "faq": [
     {
@@ -65,6 +66,5 @@
       "question": "Bietet George Brasch auch Seminare oder Vorträge an?",
       "answer": "Ja, George Brasch bietet Seminare und Vorträge an, die auf seiner Website unter dem Bereich 'Termine' aufgeführt sind."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8_M_WItOqEcRAQiHxxJhROI"
+  ]
 }

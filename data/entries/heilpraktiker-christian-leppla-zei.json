@@ -26,6 +26,9 @@
   "email": "clz.heilpflanzen@gmail.com",
   "website": "http://www.heilpraktiker-blutegel.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-leppla-zei?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjaXyOgVSqEcRqbIUX2WYWpw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 42,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,9 +57,9 @@
     }
   ],
   "images": [
-    "http://www.heilpraktiker-blutegel.de/images/egel_640_640.jpg",
-    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
-    "http://www.heilpraktiker-blutegel.de/media/Zertifikat2.jpg"
+    "/images/entries/heilpraktiker-christian-leppla-zei/0.webp",
+    "/images/entries/heilpraktiker-christian-leppla-zei/1.webp",
+    "/images/entries/heilpraktiker-christian-leppla-zei/2.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Wie kann ich Christian Leppla-Zei kontaktieren?",
       "answer": "Sie können Christian Leppla-Zei telefonisch unter 015159211162 oder per E-Mail an clz.heilpflanzen@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjaXyOgVSqEcRqbIUX2WYWpw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 42
+  ]
 }

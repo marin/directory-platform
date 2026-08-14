@@ -26,6 +26,9 @@
   "email": "praxis@ellennagel.de",
   "website": "http://www.ellennagel.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ellen-nagel?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy6NrPDdRqEcRkXDq2yPXSNk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,11 +86,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/665344a396eb9a4605645d3d/57476f46-f877-4722-b6b2-9b9daf264166/EllenPraxis-02063.jpg",
-    "https://images.squarespace-cdn.com/content/v1/665344a396eb9a4605645d3d/caef2658-39ec-46f6-a556-0a06c8a2f2ed/EllenPraxis-02024.jpg",
-    "https://images.squarespace-cdn.com/content/v1/665344a396eb9a4605645d3d/830dfad9-03ae-46af-b69c-d642a874d04c/Screenshot+2024-06-13+at+13.57.31.png",
-    "https://images.squarespace-cdn.com/content/v1/665344a396eb9a4605645d3d/fff961ad-2d9e-4bed-907e-75f93af480a6/blueberries-690072_1920.jpg",
-    "https://images.squarespace-cdn.com/content/v1/665344a396eb9a4605645d3d/123d63ec-a720-4505-8b23-add208192ed6/EllenPraxis-01891.jpg"
+    "/images/entries/ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde/0.webp",
+    "/images/entries/ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde/1.webp",
+    "/images/entries/ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde/2.webp",
+    "/images/entries/ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde/3.webp",
+    "/images/entries/ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde/4.webp"
   ],
   "faq": [
     {
@@ -110,8 +113,5 @@
       "question": "Bietet die Praxis auch Online-Sprechstunden an?",
       "answer": "Ja, Beratungen und Befundbesprechungen sind auch online möglich. Termine können über Doctolib oder per E-Mail an praxis@ellennagel.de gebucht werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy6NrPDdRqEcRkXDq2yPXSNk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

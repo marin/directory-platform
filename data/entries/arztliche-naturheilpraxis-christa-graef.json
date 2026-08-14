@@ -27,14 +27,17 @@
   "email": "tawi42@gmx.de",
   "website": "http://www.heilen-mit-homoeopathie.com/",
   "bookingUrl": "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3636289_8478359.png",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQ_oSzkZQqEcRgszF-5dj2UA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/keyvisual/customkey.png",
-    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/slogan_10_6_0.png",
-    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3636282_606589408c.png",
-    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/7083226_1055068125.png",
-    "http://www.heilen-mit-homoeopathie.com/mediapool/43/434650/resources/tree/3639458_487585185.png"
+    "/images/entries/arztliche-naturheilpraxis-christa-graef/0.webp",
+    "/images/entries/arztliche-naturheilpraxis-christa-graef/1.webp",
+    "/images/entries/arztliche-naturheilpraxis-christa-graef/2.webp",
+    "/images/entries/arztliche-naturheilpraxis-christa-graef/3.webp",
+    "/images/entries/arztliche-naturheilpraxis-christa-graef/4.webp"
   ],
   "faq": [
     {
@@ -49,8 +52,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 0307829379 oder per E-Mail an tawi42@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQ_oSzkZQqEcRgszF-5dj2UA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

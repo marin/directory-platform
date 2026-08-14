@@ -27,6 +27,9 @@
   "email": "mail@tommy-loncaric.de",
   "website": "http://www.tommy-loncaric.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/tomislav-loncaric?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfyhl_RRqEcRj0YeExqI4AA",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 130,
   "openingHours": [
     {
       "day": "Monday",
@@ -61,7 +64,7 @@
   ],
   "offers": [],
   "images": [
-    "https://tommy-loncaric.de/wp-content/uploads/2020/02/Tommy_Loncaric-Massagestudio-800x525.jpg"
+    "/images/entries/tommy-loncaric-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Wie kann ich Tommy Loncaric kontaktieren?",
       "answer": "Sie können Tommy Loncaric telefonisch unter 01732056522 oder per E-Mail an mail@tommy-loncaric.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfyhl_RRqEcRj0YeExqI4AA",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 130
+  ]
 }

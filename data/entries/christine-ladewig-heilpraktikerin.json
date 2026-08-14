@@ -26,6 +26,9 @@
   "email": "christineladewig@gmx.de",
   "website": "https://www.christine-ladewig.de/",
   "bookingUrl": "https://www.christine-ladewig.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFUnrSV1UqEcRWPGaYjchA6Q",
+  "googleMapsRating": 3,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -38,7 +41,7 @@
     }
   ],
   "images": [
-    "https://www.christine-ladewig.de/images/heilpraxis_ladewig_2.JPG"
+    "/images/entries/christine-ladewig-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -61,8 +64,5 @@
       "question": "Was ist EAV-Diagnostik?",
       "answer": "EAV-Diagnostik ist eine Methode, die als Ergänzung zur schulmedizinischen Diagnostik und Therapie dient und viele Beschwerden behandelt, die durch klassische Heilkunde allein nicht heilbar sind."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFUnrSV1UqEcRWPGaYjchA6Q",
-  "googleMapsRating": 3,
-  "googleMapsRatingsCount": 2
+  ]
 }

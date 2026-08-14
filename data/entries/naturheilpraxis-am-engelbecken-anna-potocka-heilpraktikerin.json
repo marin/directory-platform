@@ -26,6 +26,9 @@
   "email": "kontakt@naturheilpraxis-engelbecken.de",
   "website": "http://www.naturheilpraxis-engelbecken.de/",
   "bookingUrl": "https://naturheilpraxis-engelbecken.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__1htjFOqEcRE52rinKqsys",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -113,9 +116,9 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-engelbecken.de/wp-content/uploads/2020/04/Fruchtbarkeitsmasage.png",
-    "https://naturheilpraxis-engelbecken.de/wp-content/uploads/2020/04/kreis_var-7.png",
-    "https://naturheilpraxis-engelbecken.de/wp-content/uploads/2020/04/Anna-Potocka.jpg"
+    "/images/entries/naturheilpraxis-am-engelbecken-anna-potocka-heilpraktikerin/0.webp",
+    "/images/entries/naturheilpraxis-am-engelbecken-anna-potocka-heilpraktikerin/1.webp",
+    "/images/entries/naturheilpraxis-am-engelbecken-anna-potocka-heilpraktikerin/2.webp"
   ],
   "faq": [
     {
@@ -138,8 +141,5 @@
       "question": "Wer ist die Heilpraktikerin der Naturheilpraxis am Engelbecken?",
       "answer": "Die Heilpraktikerin der Naturheilpraxis am Engelbecken ist Anna Potocka."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__1htjFOqEcRE52rinKqsys",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

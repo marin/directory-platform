@@ -25,6 +25,9 @@
   "phone": "03029364733",
   "email": "praxislorber@web.de",
   "website": "http://naturheilpraxis-lorber.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH6xJxl9OqEcRY1Y8uv_pKRM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -39,7 +42,7 @@
   ],
   "offers": [],
   "images": [
-    "http://naturheilpraxis-lorber.de/wp-content/uploads/2018/11/Heckenrose2-300x300.jpg"
+    "/images/entries/naturheilpraxis-lorber/0.webp"
   ],
   "faq": [
     {
@@ -58,8 +61,5 @@
       "question": "Welche Dienstleistungen bietet die Naturheilpraxis Lorber an?",
       "answer": "Die Naturheilpraxis Lorber bietet verschiedene Dienstleistungen im Bereich der Naturheilkunde an, um Patienten auf ihrem Weg zur Gesundheit zu unterstützen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH6xJxl9OqEcRY1Y8uv_pKRM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

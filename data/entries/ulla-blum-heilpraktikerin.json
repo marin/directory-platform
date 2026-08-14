@@ -26,11 +26,14 @@
   "phone": "03031807808",
   "email": "tcm.qigong@ulla-blum.de",
   "website": "http://www.ulla-blum.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5XTDeOFQqEcRYK182ZOpNnk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://ulla-blum.de/wp-content/uploads/2022/05/Wo%CC%88chentliche-Kurse-2-247x300.png",
-    "https://ulla-blum.de/wp-content/uploads/2022/05/Logo-3-1-289x300.jpg"
+    "/images/entries/ulla-blum-heilpraktikerin/0.webp",
+    "/images/entries/ulla-blum-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -49,8 +52,5 @@
       "question": "Bietet Ulla Blum auch Qigong-Kurse an?",
       "answer": "Ja, Ulla Blum bietet wöchentliche Qigong-Kurse in Charlottenburg und an der Berliner VHS an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5XTDeOFQqEcRYK182ZOpNnk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

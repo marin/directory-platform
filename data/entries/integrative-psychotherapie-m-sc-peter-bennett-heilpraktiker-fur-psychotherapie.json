@@ -25,6 +25,7 @@
   },
   "email": "peterbennett@berlinpsychotherapy.com",
   "website": "https://berlinpsychotherapy.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwjPBitPqEcR8tTBsTSXJus",
   "openingHours": [
     {
       "day": "Monday",
@@ -63,9 +64,9 @@
     }
   ],
   "images": [
-    "https://berlinpsychotherapy.com/wp-content/uploads/2025/09/Psychotherapie-1-scaled.jpg",
-    "https://berlinpsychotherapy.com/wp-content/uploads/2026/05/Psychotherapie-Peter-Bennett.jpg",
-    "https://berlinpsychotherapy.com/wp-content/uploads/2025/01/Logo.webp"
+    "/images/entries/integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie/2.webp"
   ],
   "faq": [
     {
@@ -88,6 +89,5 @@
       "question": "Wie kann ich einen Termin bei Peter Bennett vereinbaren?",
       "answer": "Sie können einen Termin vereinbaren, indem Sie Peter Bennett per E-Mail unter peterbennett@berlinpsychotherapy.com oder telefonisch unter +49 (0) 176 380 70 203 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwjPBitPqEcR8tTBsTSXJus"
+  ]
 }

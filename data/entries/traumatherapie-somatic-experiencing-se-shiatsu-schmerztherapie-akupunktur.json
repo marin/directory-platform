@@ -27,6 +27,9 @@
   "phone": "01637356891",
   "website": "http://www.heilpraxis-limberg.de/",
   "bookingUrl": "https://www.heilpraxis-limberg.de/kontakt-angela-limberg-freinsheim/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkbd60udNqEcR-Mogrm8i42s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -51,7 +54,7 @@
   ],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s026623dc186bca0c/backgroundarea/i95770b377fc8ef97/version/1524591271/image.jpg"
+    "/images/entries/traumatherapie-somatic-experiencing-se-shiatsu-schmerztherapie-akupunktur/0.webp"
   ],
   "faq": [
     {
@@ -74,8 +77,5 @@
       "question": "Welche Zielsetzung verfolgt die Therapie in der Heilpraxis?",
       "answer": "Die therapeutischen Angebote zielen darauf ab, die Gesundheit wiederherzustellen und zu erhalten, indem die Heilkräfte des Körpers durch Entspannung von Körper, Geist und Seele gefördert werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkbd60udNqEcR-Mogrm8i42s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

@@ -26,13 +26,13 @@
   "phone": "017648263393",
   "website": "http://heilpraxis-osteopathie.de/",
   "bookingUrl": "http://www.heilpraxis-osteopathie.de/kontakt.html%20%22Kontaktdaten",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ49uSGg5OqEcRUQXGNDQF-Pc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.heilpraxis-osteopathie.de/img/behandlungsraum/image-00.jpg"
+    "/images/entries/heilpraxis-fur-osteopathie-steffen-magel/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ49uSGg5OqEcRUQXGNDQF-Pc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

@@ -25,6 +25,9 @@
   "phone": "015201875785",
   "email": "hi@flow-and-flourish.de",
   "website": "https://flow-and-flourish.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2aVRbz5RqEcRnDQDavi7Nvk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -131,11 +134,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/1739299335018-SQE28QYVCL1TNT45YOJB/Blog+Heilpraktikerin+Christin+Franke.jpg",
-    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/d16f8839-2669-44cb-9e4c-a59c26ce9ba8/Hypnose+Therapie+Soundbath+Charlottenburg+Akupunktur.JPG",
-    "https://images.squarespace-cdn.com/content/v1/67423ac7160695445f5e18d4/58cd3a8d-9e4d-4d3f-b188-94b050e0f362/AGTCM.png",
-    "https://images.squarespace-cdn.com/content/v1/6318962264475814777b6172/1662556281104-ULPTYHZA02VCEL0YDD1C/20140228_Trade+151_0046+1.jpg",
-    "https://images.squarespace-cdn.com/content/v1/6318962264475814777b6172/1662556281118-6XP97Z9J3GOLA1AKAUWA/Aro+Ha_0010+1.jpg"
+    "/images/entries/heilpraktikerin-christin-franke/0.webp",
+    "/images/entries/heilpraktikerin-christin-franke/1.webp",
+    "/images/entries/heilpraktikerin-christin-franke/2.webp",
+    "/images/entries/heilpraktikerin-christin-franke/3.webp",
+    "/images/entries/heilpraktikerin-christin-franke/4.webp"
   ],
   "faq": [
     {
@@ -158,8 +161,5 @@
       "question": "Welche Indikationen behandelt Christin Franke?",
       "answer": "Christin Franke behandelt unter anderem Schlafstörungen, Stressreduktion, Anspannungen, Allergien und chronische oder akute Schmerzen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2aVRbz5RqEcRnDQDavi7Nvk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

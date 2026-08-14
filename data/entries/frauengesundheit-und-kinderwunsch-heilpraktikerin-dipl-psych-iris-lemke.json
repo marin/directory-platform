@@ -27,6 +27,9 @@
   "email": "info@naturheilkunde-fuer-frauen.de",
   "website": "http://www.naturheilkunde-fuer-frauen.de/",
   "bookingUrl": "http://www.naturheilkunde-fuer-frauen.de/termin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_cf1zDhQqEcRjXN_ryk3RM4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,9 +72,9 @@
     }
   ],
   "images": [
-    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilpraxis-fuer-frauen_iris-lemke_slider-01.jpg",
-    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilkunde-fuer-frauen_iris-lemke_slider-02.jpg",
-    "https://www.naturheilkunde-fuer-frauen.de/wp-content/uploads/2023/02/naturheilkunde-fuer-frauen_iris-lemke_slider-03.jpg"
+    "/images/entries/frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke/0.webp",
+    "/images/entries/frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke/1.webp",
+    "/images/entries/frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke/2.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wie kann ich Frau Lemke kontaktieren?",
       "answer": "Sie können Frau Lemke telefonisch unter 01736334985 oder per E-Mail an info@naturheilkunde-fuer-frauen.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_cf1zDhQqEcRjXN_ryk3RM4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 21
+  ]
 }

@@ -25,6 +25,7 @@
   "phone": "03066625452",
   "email": "atz@gmail.com",
   "website": "https://www.ananda-atz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJub940Z1PqEcRm1n_9IHf6rg",
   "openingHours": [
     {
       "day": "Monday",
@@ -63,7 +64,7 @@
     }
   ],
   "images": [
-    "https://www.ananda-atz.de/wp-content/uploads/go-x/u/f9432340-75fc-42f8-90ad-3fdab7f88fdb/l0,t318,w2000,h865/image-768x332.jpg"
+    "/images/entries/ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -86,6 +87,5 @@
       "question": "Wie erreiche ich das ANANDA Therapiezentrum mit öffentlichen Verkehrsmitteln?",
       "answer": "Das ANANDA Therapiezentrum ist 50 Meter von der U7 Blaschkoallee entfernt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJub940Z1PqEcRm1n_9IHf6rg"
+  ]
 }

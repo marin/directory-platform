@@ -26,6 +26,9 @@
   "email": "praxis@eumunys.com",
   "website": "http://www.eumunys.com/",
   "bookingUrl": "tel:+4917634201642",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH0Ab7ShOqEcRbVhE2rhb-OQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -128,8 +131,8 @@
     }
   ],
   "images": [
-    "https://www.eumunys.com/wp-content/uploads/2017/12/iStock-642910178-e1522486241107.jpg",
-    "https://www.eumunys.com/wp-content/uploads/2019/04/1811_LB_Udo-Berg_ONLINE-1.jpg"
+    "/images/entries/eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde/0.webp",
+    "/images/entries/eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde/1.webp"
   ],
   "faq": [
     {
@@ -152,8 +155,5 @@
       "question": "Bietet die Praxis auch Unterstützung bei psychischen Problemen an?",
       "answer": "Ja, die Praxis eumunys bietet psychologische Unterstützung an, um eine ganzheitliche Therapie zu gewährleisten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH0Ab7ShOqEcRbVhE2rhb-OQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

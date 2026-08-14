@@ -26,6 +26,9 @@
   "phone": "017632226342",
   "website": "http://www.heilpraxis-feuker.de/",
   "bookingUrl": "https://www.heilpraxis-feuker.de/Kontakt-Praxis-Anne-Feuker",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx13Af8hPqEcRqba9ReoK_LQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -80,11 +83,11 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/ef8e5118f30a4ab5a85bd5a971023e78/dms3rep/multi/opt/117708-dd453773-8574b3c3-96138dc7-1920w.jpeg?Expires=1788812381&Signature=o9VCeu0Y4fOOyN0SzkVkZDecocUHhVVf82Tkj~sMZTakQWfhb2dG7blt5uOQZXB1ZdGpX5gF6nrMOb4B3oSw-~vI6VOi6~0nSHg7tFM0xJQkAY99jLy5IjAETux1TZapA67yJaC7rMuw1E6XZm7k5lm~51ml68QmsJMf1huNVbmXp07MHC1s3QOSxbYcuyxVd36qIKRFIplXq80bgTwmEyCPW5dKE9z4beTnRmxpphPDeyTaJwR41mb3zvZwgwe-QmjV8RNwgFsuSlz4mbcSLfxa-2lb3m38DC8H-Ui3rADTK2HEv3B9XFdx9CFJuu7wqXT0106wE1vpMMK8sDVURw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/ef8e5118f30a4ab5a85bd5a971023e78/dms3rep/multi/opt/AdobeStock_75643813-6d12c371-931ce423-a8a30982-57badedd-0806b461-9c8db17d-1920w.jpeg?Expires=1788812381&Signature=qmQMqXPSANf4GrsUjfosrgEytIR7zXu7jP5HyFKaEJJUbxnOAcsDToDNfrEO4~phlcC-AfRQZKK7PXjjBSrOGF-D4InOYv1FPWQGFYWowXnxFGUnGrI28pnKUe0KZyucPMV6T6dtxDpoJxheTuZ~97MIUP1cARRlDbxzR3sdpzq7xzy~rX490nVZm8OzcyizzDgdTnPwfpLDnzcEs3oW9jaC6XbdEEOQrCqc3wE8PqKejl~lHQf6vtL67mxzuueGx1OJCPD8VILhZWdNQre2bIyKA0L0Ibh16wFoonhlQQ0GNSU7oUxNG87vAfztz47e4Wzd77cbB5B6RmXB86LqIQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/ef8e5118f30a4ab5a85bd5a971023e78/dms3rep/multi/opt/Familienaufstellung-Kosten.-Adobe-Stock-c-Sonja-1-e1544176359533-093ef0c4-63ab98e2-5e43f822-456339a2-695034ff-1920w.jpg?Expires=1788812381&Signature=oaiCHKwP2c-wCQybVShIdGJaNTKG1FsfjCrRXeD~m1pIyHvTu4mCB~2z4J0egpzhluzeRHK4ANIIhgfkWsNGZXJFF01L6ZqO8BzxSUGVeE7Xmkg1zF5kAvbqYZpVETqE-~ySvxH64OM4EdfAVSJm5zhhXVc9Bl9BUiHXxqKncdD9ZyqSchpSzmOCo3kyrFZS~Z9G2NuskEFNGrkTgA~N8O-JsSX3q-ROuxb~Ye0ydfTKqfigozDSNm0Q5xsKqAL8Fb-x1tnVUSdyzrCKwAd8~wr9wDC97ZJ719impsWWhChCaJ1qH4eFvy2xjYHrDYvJpTiN3IndR~pBxJDUYeLeCQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/ef8e5118f30a4ab5a85bd5a971023e78/dms3rep/multi/opt/120403-670d3257-1920w.jpeg?Expires=1788812381&Signature=n7~Zl3Xv4GqAz6Jd104uGoq9mCZhiWxU7haUTuaPMJZcFicOzh44src9lLJsx-KxuXNOuiTmyDOc6V1suxtfhG-kpcLgkDDFrDWIRKfT0F3x0NC5swGU64x2gGqDBB162EqTClOvmODg2asSwH9Y~2lCuqUys068vtiJN9AuJ0i2C46j95UnFhvBpBeg1EHM4rRK9ipngcRPhacE3iFJ6ubKf65MTMn0ZDavT2hmdI68HQ30tXF0thH52LLCnDtjMah7dGJwh2bYhZ679olEwqKizole~y4-7oEHwHyZDITlIat1FV2a~awW-yqvD-yVi0vYwDutTmDhWjPESgSOjA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/ef8e5118f30a4ab5a85bd5a971023e78/dms3rep/multi/opt/IMG_0034-1920w-73ecd575-74bb26f1-1920w-1920w.jpeg?Expires=1788812381&Signature=i4VijVYn7EirVVcI~bvB0z~7lYahRRKTMBye6PfGyAntfIuq38Ok2N6WXRqC~IegqyVHwORr-hc8iWfgicpfJcsH-R3E1IGlW4SACAE5EMyaMvBIGZjfefHqustzZAEVsn4sqOZrxBLuBF5spLVetJrXKzJmU7hRczii3nsPM1mq7P00wg3b-tjoMSEvoxlmxNQ6WY5gCTfr9ttngwQeEb8J-nUV8v3JDwZIXCkSgx94LNYt7gPhUEaP8HbS1FJ0DvTDIYsYA7RQnbBD3duAWooOyBB7FwJr~cwpRBpPmymlHhbNk-gRXsOJS9FvHwpx2I71X7ELBLNEOfq1vHKmCg__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin/0.webp",
+    "/images/entries/naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin/1.webp",
+    "/images/entries/naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin/2.webp",
+    "/images/entries/naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin/3.webp",
+    "/images/entries/naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin/4.webp"
   ],
   "faq": [
     {
@@ -107,8 +110,5 @@
       "question": "Wie hoch sind die Kosten für eine Behandlung?",
       "answer": "Das Honorar der Naturheilpraxis Anne Feuker richtet sich nach dem Zeitaufwand und beträgt 95 € je 60 Minuten, inklusive Erstanamnese und Repertorisation."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx13Af8hPqEcRqba9ReoK_LQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

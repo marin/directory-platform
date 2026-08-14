@@ -25,6 +25,7 @@
   "phone": "03026329999",
   "email": "info@naturheilpraxis-krohn.de",
   "website": "https://augendiagnose-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS7lSB7FXqEcRaBa1pBJ07a0",
   "openingHours": [
     {
       "day": "Monday",
@@ -59,9 +60,9 @@
     }
   ],
   "images": [
-    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Christiane-Krohn.jpg",
-    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Augendiagnose-berlin-lymphatisch-300x200.jpg",
-    "https://augendiagnose-berlin.de/wp-content/uploads/2016/06/Augendiagnose-Berlin-Irisdiagnose-Iridologie-1-300x170.png"
+    "/images/entries/augendiagnose-berlin-heilpraktikerin/0.webp",
+    "/images/entries/augendiagnose-berlin-heilpraktikerin/1.webp",
+    "/images/entries/augendiagnose-berlin-heilpraktikerin/2.webp"
   ],
   "faq": [
     {
@@ -84,6 +85,5 @@
       "question": "Welche weiteren Angebote gibt es in der Naturheilpraxis Krohn?",
       "answer": "Neben der Augendiagnose bietet die Naturheilpraxis Krohn auch Fußreflexzonendiagnose und Antlitzdiagnose an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS7lSB7FXqEcRaBa1pBJ07a0"
+  ]
 }

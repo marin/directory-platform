@@ -24,14 +24,17 @@
   },
   "phone": "03012094656",
   "website": "http://www.yvonne-janitza.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRACbI9aqEcR1EZVBjDJO4U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_1.png",
-    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_2.png",
-    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Willkommen_files/shapeimage_3.png",
-    "http://www.yvonne-janitza.de/Rollover/Button3.png",
-    "http://www.yvonne-janitza.de/Yvonne-Janitza.de/Scripts/Widgets/HTMLRegion/HTMLRegionWorldMap.png"
+    "/images/entries/heilpraktikerin-yvonne-janitza/0.webp",
+    "/images/entries/heilpraktikerin-yvonne-janitza/1.webp",
+    "/images/entries/heilpraktikerin-yvonne-janitza/2.webp",
+    "/images/entries/heilpraktikerin-yvonne-janitza/3.webp",
+    "/images/entries/heilpraktikerin-yvonne-janitza/4.webp"
   ],
   "faq": [
     {
@@ -50,8 +53,5 @@
       "question": "Hat die Praxis von Yvonne Janitza spezielle Öffnungszeiten?",
       "answer": "Im Kontext sind keine speziellen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRACbI9aqEcR1EZVBjDJO4U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

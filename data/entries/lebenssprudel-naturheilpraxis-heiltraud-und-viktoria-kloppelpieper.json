@@ -25,6 +25,9 @@
   "phone": "015111280259",
   "website": "http://www.praxis-lebenssprudel.de/",
   "bookingUrl": "https://praxis-lebenssprudel.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOWLVHnFVqEcRquohMTfOQgU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [],
   "offers": [
     {
@@ -197,8 +200,8 @@
     }
   ],
   "images": [
-    "http://praxis-lebenssprudel.de/wp-content/uploads/2020/02/heilpraxis-lebenssprudel.jpg",
-    "http://praxis-lebenssprudel.de/wp-content/uploads/2019/09/lebenssprudel.jpg"
+    "/images/entries/lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper/0.webp",
+    "/images/entries/lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper/1.webp"
   ],
   "faq": [
     {
@@ -217,8 +220,5 @@
       "question": "Was ist das Ziel der Lebenssprudel Naturheilpraxis?",
       "answer": "Das Ziel der Lebenssprudel Naturheilpraxis ist die Gesunderhaltung der Frauen durch eine ganzheitliche und natürliche Form der Salutogenese, wobei die individuellen Bedürfnisse und Probleme der Patientinnen im Mittelpunkt stehen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOWLVHnFVqEcRquohMTfOQgU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

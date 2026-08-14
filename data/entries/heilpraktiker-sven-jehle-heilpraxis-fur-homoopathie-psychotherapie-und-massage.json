@@ -27,6 +27,7 @@
   "phone": "03040528654",
   "email": "hp.svenjehle@googlemail.com",
   "website": "http://www.heilpraxis-svenjehle.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQQvCh1o3qEcRElZN0oCWgZE",
   "openingHours": [],
   "offers": [
     {
@@ -35,7 +36,7 @@
     }
   ],
   "images": [
-    "http://heilpraxis-svenjehle.de/wp-content/uploads/2019/12/Startseite3.png"
+    "/images/entries/heilpraktiker-sven-jehle-heilpraxis-fur-homoopathie-psychotherapie-und-massage/0.webp"
   ],
   "faq": [
     {
@@ -54,6 +55,5 @@
       "question": "Was ist das Motto von Heilpraktiker Sven Jehle?",
       "answer": "Das Motto von Heilpraktiker Sven Jehle lautet: 'Die beste Arznei für den Menschen ist der Mensch. Der höchste Grad dieser Arznei ist die Liebe.' - Paracelsus."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQQvCh1o3qEcRElZN0oCWgZE"
+  ]
 }

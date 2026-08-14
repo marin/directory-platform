@@ -26,14 +26,17 @@
   "email": "renateholst@aol.com",
   "website": "http://www.gesundheitspraxis-berlin.de/",
   "bookingUrl": "http://www.gesundheitspraxis-berlin.de/info.htm",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHfTVm9ZQqEcRfh2iuZZxu2s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.gesundheitspraxis-berlin.de/renates_images/gp_berlin_visual.png",
-    "http://www.gesundheitspraxis-berlin.de/renates_images/gp_berlin.png",
-    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_12.jpg",
-    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_5.jpg",
-    "http://www.gesundheitspraxis-berlin.de/renates_images/ph_160.jpg"
+    "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/0.webp",
+    "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/1.webp",
+    "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/2.webp",
+    "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/3.webp",
+    "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/4.webp"
   ],
   "faq": [
     {
@@ -56,8 +59,5 @@
       "question": "Gibt es Informationen zu den Öffnungszeiten der Gesundheitspraxis Berlin?",
       "answer": "Im aktuellen Eintrag sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJHfTVm9ZQqEcRfh2iuZZxu2s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

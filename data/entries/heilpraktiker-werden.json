@@ -24,6 +24,9 @@
   },
   "phone": "0307668375112",
   "website": "http://heilpraktiker-werden.org/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7zQTeNBRqEcROGoFpw9IVBU",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -62,7 +65,7 @@
     }
   ],
   "images": [
-    "http://heilpraktiker-werden.org/wp-content/uploads/2018/12/Heilpraktiker-werden-5-1500x430.jpg"
+    "/images/entries/heilpraktiker-werden/0.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Wie kann ich Heilpraktiker Werden kontaktieren?",
       "answer": "Sie können Heilpraktiker Werden telefonisch unter 0307668375112 erreichen oder die Website http://heilpraktiker-werden.org/ besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7zQTeNBRqEcROGoFpw9IVBU",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 2
+  ]
 }

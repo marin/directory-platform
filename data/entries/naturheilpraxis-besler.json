@@ -26,6 +26,9 @@
   "email": "heilpraxis.besler@gmail.com",
   "website": "https://www.berlin-hacamat.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ufuk-besler?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_Hn7eVPqEcRY8dwx6tjXkQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 53,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,11 +71,11 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://hacamatberlin.de/wp-content/uploads/2024/07/5-Sterne-Google.webp",
-    "https://berlin-hacamat.de/wp-content/uploads/2024/07/Paxis-Ufuk-Besler-Naturheilpraxis.webp",
-    "https://berlin-hacamat.de/wp-content/uploads/2024/07/The-Besler-Heilpraxis1.webp",
-    "https://berlin-hacamat.de/wp-content/uploads/2024/07/The-Besler-Heilpraxis9.webp"
+    "/images/entries/naturheilpraxis-besler/0.webp",
+    "/images/entries/naturheilpraxis-besler/1.webp",
+    "/images/entries/naturheilpraxis-besler/2.webp",
+    "/images/entries/naturheilpraxis-besler/3.webp",
+    "/images/entries/naturheilpraxis-besler/4.webp"
   ],
   "faq": [
     {
@@ -95,8 +98,5 @@
       "question": "Wie kann ich die Naturheilpraxis Besler kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Besler telefonisch unter 017632256984 oder per E-Mail an heilpraxis.besler@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_Hn7eVPqEcRY8dwx6tjXkQ",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 53
+  ]
 }

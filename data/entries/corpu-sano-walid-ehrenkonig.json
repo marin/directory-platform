@@ -25,6 +25,9 @@
   },
   "email": "w.temiaa@corpusano.de",
   "website": "http://corpusano.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0A3P-lQqEcR2Xx9XWKB0b0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -89,7 +92,7 @@
     }
   ],
   "images": [
-    "https://www.corpusano.de/wp-content/uploads/walid-temiaa.jpg"
+    "/images/entries/corpu-sano-walid-ehrenkonig/0.webp"
   ],
   "faq": [
     {
@@ -112,8 +115,5 @@
       "question": "Wie kann ich Walid Ehrenkönig kontaktieren?",
       "answer": "Sie können Walid Ehrenkönig per E-Mail unter w.temiaa@corpusano.de oder telefonisch unter +49 30 25581187 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0A3P-lQqEcR2Xx9XWKB0b0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 26
+  ]
 }

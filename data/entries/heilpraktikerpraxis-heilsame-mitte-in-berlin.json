@@ -24,6 +24,9 @@
   },
   "phone": "01714774666",
   "website": "http://www.heilsamemitte.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1DKJv1RqEcRErVgX-qnhAY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,11 +56,11 @@
   ],
   "offers": [],
   "images": [
-    "http://www.heilsamemitte.de/images/axel-0.jpg",
-    "http://www.heilsamemitte.de/images/jutta-0.jpg",
-    "http://www.heilsamemitte.de/images/ines-0.jpg",
-    "http://www.heilsamemitte.de/images/rene-0.jpg",
-    "http://www.heilsamemitte.de/images/hm-header.gif"
+    "/images/entries/heilpraktikerpraxis-heilsame-mitte-in-berlin/0.webp",
+    "/images/entries/heilpraktikerpraxis-heilsame-mitte-in-berlin/1.webp",
+    "/images/entries/heilpraktikerpraxis-heilsame-mitte-in-berlin/2.webp",
+    "/images/entries/heilpraktikerpraxis-heilsame-mitte-in-berlin/3.webp",
+    "/images/entries/heilpraktikerpraxis-heilsame-mitte-in-berlin/4.webp"
   ],
   "faq": [
     {
@@ -76,8 +79,5 @@
       "question": "Welche Dienstleistungen bietet die Heilpraktikerpraxis an?",
       "answer": "Die Praxis bietet Dienstleistungen im Bereich Naturheilkunde an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1DKJv1RqEcRErVgX-qnhAY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

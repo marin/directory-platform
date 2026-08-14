@@ -25,6 +25,7 @@
   "phone": "03046066903",
   "email": "info@ina-schladitz.de",
   "website": "https://ina-schladitz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw7szAIRRqEcR63QAZNhQQqM",
   "openingHours": [],
   "offers": [
     {
@@ -53,7 +54,7 @@
     }
   ],
   "images": [
-    "https://ina-schladitz.de/wp-content/themes/dorayaki/images/headers/freedom.jpg"
+    "/images/entries/frau-ina-schladitz/0.webp"
   ],
   "faq": [
     {
@@ -76,6 +77,5 @@
       "question": "Nach welchen Prinzipien arbeitet Frau Ina Schladitz?",
       "answer": "Frau Ina Schladitz arbeitet nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM)."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw7szAIRRqEcR63QAZNhQQqM"
+  ]
 }

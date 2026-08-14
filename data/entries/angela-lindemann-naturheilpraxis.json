@@ -24,11 +24,12 @@
   },
   "phone": "03070072238",
   "website": "https://www.angelalindemann-naturheilpraxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAW5Nf5JEqEcRdthuafWzOhs",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=340x10000:format=jpg/path/sc56c569fcc3091c8/image/id812e19f1318281e/version/1517308325/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/sc56c569fcc3091c8/backgroundarea/ic746e6f2dac8b28a/version/1517306131/image.jpg"
+    "/images/entries/angela-lindemann-naturheilpraxis/0.webp",
+    "/images/entries/angela-lindemann-naturheilpraxis/1.webp"
   ],
   "faq": [
     {
@@ -47,6 +48,5 @@
       "question": "Welche Philosophie verfolgt die Naturheilpraxis von Angela Lindemann?",
       "answer": "Die Naturheilpraxis verfolgt die Philosophie, das Zusammenspiel von Körper, Geist und Seele zu verbessern, um mehr Vitalität und Ausgeglichenheit zu erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAW5Nf5JEqEcRdthuafWzOhs"
+  ]
 }

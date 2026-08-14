@@ -25,6 +25,7 @@
   "phone": "0307443001",
   "website": "http://www.cbt2000.de/",
   "bookingUrl": "https://www.cbt2000.de/#xl_xr_page_frequenztherapie-kontakt,frequenztherapie,cbt2000,knochenheilung,wundheilung,diabetes,biofacelifting,immunsystem,knochenbrueche,frakturen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWfCDGFEqEcRpylZr1DayQA",
   "openingHours": [
     {
       "day": "Monday",
@@ -79,11 +80,11 @@
     }
   ],
   "images": [
-    "https://www.cbt2000.de/index_htm_files/5825.png",
-    "https://www.cbt2000.de/index_htm_files/5844.png",
-    "https://www.cbt2000.de/index_htm_files/5827.jpg",
-    "https://www.cbt2000.de/index_htm_files/5829.jpg",
-    "https://www.cbt2000.de/index_htm_files/5831.jpg"
+    "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/0.webp",
+    "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/1.webp",
+    "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/2.webp",
+    "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/3.webp",
+    "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/4.webp"
   ],
   "faq": [
     {
@@ -102,6 +103,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 0307443001 erreichen oder die Website http://www.cbt2000.de/ besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWfCDGFEqEcRpylZr1DayQA"
+  ]
 }

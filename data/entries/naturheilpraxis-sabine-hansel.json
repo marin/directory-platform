@@ -25,6 +25,9 @@
   "phone": "017634443686",
   "website": "http://www.schmerzfrei-sein-berlin.de/",
   "bookingUrl": "mailto:kontakt@schmerzfrei-sein-berlin.de \"kontakt@schmerzfrei-sein-berlin.de",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzwBXWTpRqEcRNoo2gX0bGrU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -57,9 +60,9 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/i929675157b9b76ea/version/1534062402/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/i3df7217767ae9e18/version/1534062109/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=326x10000:format=jpg/path/s88f2cc398c31ff47/image/id1c334e9c8261bcb/version/1534062215/image.jpg"
+    "/images/entries/naturheilpraxis-sabine-hansel/0.webp",
+    "/images/entries/naturheilpraxis-sabine-hansel/1.webp",
+    "/images/entries/naturheilpraxis-sabine-hansel/2.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Wie kann ich mehr Informationen über die angebotenen Therapien erhalten?",
       "answer": "Für mehr Informationen über die angebotenen Therapien können Sie die Website der Praxis unter http://www.schmerzfrei-sein-berlin.de/ besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzwBXWTpRqEcRNoo2gX0bGrU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

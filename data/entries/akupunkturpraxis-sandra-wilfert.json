@@ -27,6 +27,9 @@
   "email": "praxis@sandra-wilfert-akupunktur.com",
   "website": "http://www.sandra-wilfert-akupunktur.de/",
   "bookingUrl": "https://www.jameda.de/sandra-wilfert/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=277991&utm_content=url_appointment",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKb7lngZSqEcRby4xd7sOF2A",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -115,11 +118,11 @@
     }
   ],
   "images": [
-    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2020/06/flag_en.png",
-    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2020/06/sandra_wilfert_akupunktur_berlin.png",
-    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/10/diaetetik_sandra_wilfert_berlin.jpg",
-    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/07/fotolia_83995203.jpg",
-    "https://www.sandra-wilfert-akupunktur.de/wp-content/uploads/2015/07/chinesische_medizin_sandra_wilfert_berlin-795x544.jpg"
+    "/images/entries/akupunkturpraxis-sandra-wilfert/0.webp",
+    "/images/entries/akupunkturpraxis-sandra-wilfert/1.webp",
+    "/images/entries/akupunkturpraxis-sandra-wilfert/2.webp",
+    "/images/entries/akupunkturpraxis-sandra-wilfert/3.webp",
+    "/images/entries/akupunkturpraxis-sandra-wilfert/4.webp"
   ],
   "faq": [
     {
@@ -142,8 +145,5 @@
       "question": "Welche Beschwerden können mit Akupunktur behandelt werden?",
       "answer": "Akupunktur kann bei verschiedenen Beschwerden helfen, darunter chronische Schmerzen, hormonelle Störungen, unerfüllter Kinderwunsch, Stress, Schlafstörungen und Verdauungsprobleme."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKb7lngZSqEcRby4xd7sOF2A",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

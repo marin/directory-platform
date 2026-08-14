@@ -26,6 +26,7 @@
   "email": "kleistpark@die-therapeuten-berlin.de",
   "website": "http://die-therapeuten-berlin.de/",
   "bookingUrl": "https://die-therapeuten-berlin.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJceS6jEdQqEcRofLAx5SZ0Rs",
   "openingHours": [],
   "offers": [
     {
@@ -122,7 +123,7 @@
     }
   ],
   "images": [
-    "https://die-therapeuten-berlin.de/wp-content/uploads/2016/12/header.jpg"
+    "/images/entries/heilpraxen-am-kleistpark/0.webp"
   ],
   "faq": [
     {
@@ -141,6 +142,5 @@
       "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
       "answer": "Sie können einen Termin in der Heilpraxis am Kleistpark über die Buchungsseite unter https://die-therapeuten-berlin.de/kontakt buchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJceS6jEdQqEcRofLAx5SZ0Rs"
+  ]
 }

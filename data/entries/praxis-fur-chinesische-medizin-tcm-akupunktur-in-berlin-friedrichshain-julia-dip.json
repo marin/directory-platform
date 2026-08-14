@@ -26,6 +26,9 @@
   },
   "phone": "03098294875",
   "website": "https://juliadippl.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ7ST-tdPqEcROo0w-PwYR2g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 32,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,7 +58,7 @@
   ],
   "offers": [],
   "images": [
-    "https://dnuucynntqpfhzwtsehk.supabase.co/storage/v1/object/public/images/og-image.jpg"
+    "/images/entries/praxis-fur-chinesische-medizin-tcm-akupunktur-in-berlin-friedrichshain-julia-dip/0.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Was ist das besondere an der Behandlung bei Julia Dippl?",
       "answer": "Julia Dippl verbindet traditionelle asiatische Heilmethoden mit modernen medizinischen Erkenntnissen, um Frauen ganzheitlich zu behandeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ7ST-tdPqEcROo0w-PwYR2g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 32
+  ]
 }

@@ -26,6 +26,7 @@
   "phone": "03069531186",
   "email": "kontakt@bastiane-hartmann.de",
   "website": "http://bastiane-hartmann.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdZsXT0tOqEcRBCmiJjabj-g",
   "openingHours": [
     {
       "day": "Monday",
@@ -55,10 +56,10 @@
   ],
   "offers": [],
   "images": [
-    "http://bastiane-hartmann.de/images/stories/design/banner.png",
-    "http://bastiane-hartmann.de/images/stories/design/praxis.jpg",
-    "http://bastiane-hartmann.de/images/stories/praxis/P1_Vorraum500_P1030597.jpg",
-    "http://bastiane-hartmann.de/images/stories/praxis/P2_Durchgang_P1030600.jpg"
+    "/images/entries/bastiane-hartmann-heilpraktiker-in-kreuzberg/0.webp",
+    "/images/entries/bastiane-hartmann-heilpraktiker-in-kreuzberg/1.webp",
+    "/images/entries/bastiane-hartmann-heilpraktiker-in-kreuzberg/2.webp",
+    "/images/entries/bastiane-hartmann-heilpraktiker-in-kreuzberg/3.webp"
   ],
   "faq": [
     {
@@ -81,6 +82,5 @@
       "question": "Bietet Bastiane Hartmann Hausbesuche an?",
       "answer": "Ja, Hausbesuche sind möglich."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdZsXT0tOqEcRBCmiJjabj-g"
+  ]
 }

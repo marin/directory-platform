@@ -26,6 +26,9 @@
   "phone": "015731726000",
   "email": "info@osteopathie-leonardengel.de",
   "website": "https://osteopathie-leonardengel.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7Zynu91PqEcRtF4g1fplO7E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -61,11 +64,11 @@
     }
   ],
   "images": [
-    "https://osteopathie-leonardengel.de/wp-content/uploads/2025/07/DSC_7238_portrait-copie-1.jpg",
-    "https://osteopathie-leonardengel.de/wp-content/uploads/2025/07/DSC_7341-copie.jpg",
-    "https://osteopathie-leonardengel.de/wp-content/uploads/2025/07/DSC_7320-copie.jpg",
-    "https://osteopathie-leonardengel.de/wp-content/uploads/2025/07/DSC_7251-1.jpg",
-    "https://osteo-massage.de/assets/Bus-B_QGhrLy.png"
+    "/images/entries/osteopathie-massage-leonard-engel-heilpraktiker/0.webp",
+    "/images/entries/osteopathie-massage-leonard-engel-heilpraktiker/1.webp",
+    "/images/entries/osteopathie-massage-leonard-engel-heilpraktiker/2.webp",
+    "/images/entries/osteopathie-massage-leonard-engel-heilpraktiker/3.webp",
+    "/images/entries/osteopathie-massage-leonard-engel-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Welche Sprachen werden in der Praxis gesprochen?",
       "answer": "In der Praxis werden Deutsch, Englisch, Französisch und Spanisch gesprochen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7Zynu91PqEcRtF4g1fplO7E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

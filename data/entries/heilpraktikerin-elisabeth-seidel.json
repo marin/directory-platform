@@ -26,6 +26,9 @@
   "email": "praxis@elisabethseidel.de",
   "website": "https://www.elisabethseidel.de/",
   "bookingUrl": "https://www.doctolib.de/gemeinschaftspraxis/berlin/praxis-fuer-naturheilkunde-elisabeth-seidel",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZQyub9RqEcRXbQI38cRMcQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 28,
   "openingHours": [
     {
       "day": "Monday",
@@ -144,11 +147,11 @@
     }
   ],
   "images": [
-    "https://www.elisabethseidel.de/wp-content/uploads/2024/05/Praxis_Elisabeth_Seidel_Hintergrund_gruen_Banner2.webp",
-    "https://www.elisabethseidel.de/wp-content/uploads/2022/03/PRAXIS-ELISABETH-SEIDEL-BERLIN-SCHOENEBERG-NATURHEILKUNDE-2.webp",
-    "https://www.elisabethseidel.de/wp-content/uploads/2024/06/Praxis_Elisabeth_Seidel_Naturheilverfahren_Berlin_colon_hydro_therapie.webp",
-    "https://www.elisabethseidel.de/wp-content/uploads/2024/07/Praxis_Elisabeth_Seidel_Naturheilverfahren_Berlin_acupuncture_new.webp",
-    "https://www.elisabethseidel.de/wp-content/uploads/2022/04/Praxis_Naturheilverfahren_Elisabeth_Seidel_Footer_Logo_Mailerlite.webp"
+    "/images/entries/heilpraktikerin-elisabeth-seidel/0.webp",
+    "/images/entries/heilpraktikerin-elisabeth-seidel/1.webp",
+    "/images/entries/heilpraktikerin-elisabeth-seidel/2.webp",
+    "/images/entries/heilpraktikerin-elisabeth-seidel/3.webp",
+    "/images/entries/heilpraktikerin-elisabeth-seidel/4.webp"
   ],
   "faq": [
     {
@@ -171,8 +174,5 @@
       "question": "Wie kann ich Heilpraktikerin Elisabeth Seidel kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03031806915 oder per E-Mail an praxis@elisabethseidel.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZQyub9RqEcRXbQI38cRMcQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 28
+  ]
 }

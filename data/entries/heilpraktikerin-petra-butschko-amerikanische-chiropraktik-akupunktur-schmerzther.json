@@ -27,6 +27,9 @@
   "phone": "03067928160",
   "website": "https://www.petra-butschko.de/",
   "bookingUrl": "https://www.doctolib.de/chiropraktik/berlin/petra-butschko?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnbVMaNZQqEcR4CcbW67fKiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -213,8 +216,7 @@
     }
   ],
   "images": [
-    "https://www.petra-butschko.de/upload/large/large_6374d47c219c9477f4a78d4b_c2a95298a181106f10ea07ea16fbe1987012453f61c7e6aee4e81ae82865a620_646760de.jpg",
-    "https://www.petra-butschko.de/images/social_branding.png"
+    "/images/entries/heilpraktikerin-petra-butschko-amerikanische-chiropraktik-akupunktur-schmerzther/0.webp"
   ],
   "faq": [
     {
@@ -237,8 +239,5 @@
       "question": "Welche Ansätze verfolgt die Praxis in der Umweltmedizin?",
       "answer": "In der Umweltmedizin wird auf die Identifikation belastender Umweltfaktoren geachtet und deren Auswirkungen werden reduziert, um Beschwerden wie Schlafprobleme, Kopfschmerzen und Erschöpfung zu behandeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnbVMaNZQqEcR4CcbW67fKiw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 14
+  ]
 }

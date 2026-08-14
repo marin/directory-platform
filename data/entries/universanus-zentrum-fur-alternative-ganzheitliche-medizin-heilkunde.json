@@ -27,6 +27,9 @@
   "email": "mail@universanus.de",
   "website": "http://www.universanus.de/",
   "bookingUrl": "https://universanus.de/termine-vereinbaren/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq7Y9W-9RqEcRHE5qLimr1QE",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 28,
   "openingHours": [
     {
       "day": "Monday",
@@ -121,11 +124,11 @@
     }
   ],
   "images": [
-    "https://universanus.de/wp-content/uploads/2025/12/Praxisraum-mit-Behandlungsliege-und-Pflanzen-mobile.jpg",
-    "https://universanus.de/wp-content/uploads/2025/09/Universanus-Experten-Team-Gesundheitszentrum-Portraits.png",
-    "https://universanus.de/wp-content/uploads/2025/09/Osteopathie-Behandlung-Bauchbereich-Patientin-1.jpg",
-    "https://universanus.de/wp-content/uploads/2025/09/Kinderosteopathie-sanfte-Behandlung-Babykopf-1.jpg",
-    "https://universanus.de/wp-content/uploads/2025/09/Akupunktur-Behandlung-Naturheilverfahren-Arm-1.jpg"
+    "/images/entries/universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde/0.webp",
+    "/images/entries/universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde/1.webp",
+    "/images/entries/universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde/2.webp",
+    "/images/entries/universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde/3.webp",
+    "/images/entries/universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde/4.webp"
   ],
   "faq": [
     {
@@ -148,8 +151,5 @@
       "question": "Wo befindet sich das Universanus Gesundheitszentrum?",
       "answer": "Das Universanus Gesundheitszentrum befindet sich in der Torstraße 177, 10115 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq7Y9W-9RqEcRHE5qLimr1QE",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 28
+  ]
 }

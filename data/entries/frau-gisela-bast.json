@@ -26,6 +26,7 @@
   "phone": "0307875587",
   "email": "gisela-bast@gmx.de",
   "website": "https://gisela-bast.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrwBBBWtQqEcR2YpuOH-Grvw",
   "openingHours": [],
   "offers": [
     {
@@ -102,7 +103,7 @@
     }
   ],
   "images": [
-    "https://gisela-bast.de/wp-content/uploads/2019/07/koerpertherapie-traumatherapie-berlin.png"
+    "/images/entries/frau-gisela-bast/0.webp"
   ],
   "faq": [
     {
@@ -125,6 +126,5 @@
       "question": "Hat Frau Gisela Bast spezielle Qualifikationen?",
       "answer": "Ja, Frau Gisela Bast ist Diplom Pädagogin und staatlich geprüfte Heilpraktikerin. Sie hat zahlreiche Fortbildungen in verschiedenen Therapierichtungen absolviert, darunter integrative Körperpsychotherapie und Traumatherapie."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrwBBBWtQqEcR2YpuOH-Grvw"
+  ]
 }

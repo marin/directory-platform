@@ -26,6 +26,9 @@
   "phone": "01727960577",
   "email": "info@heilpraxis-fenske.de",
   "website": "https://heilpraxis-fenske.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO1zgXb9aqEcRG4IIQuZEV8Q",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 84,
   "openingHours": [
     {
       "day": "Monday",
@@ -160,7 +163,7 @@
     }
   ],
   "images": [
-    "https://heilpraxis-fenske.de/wp-content/uploads/2023/08/heilpraxis-fenske-logo-berlin-jeserig.png"
+    "/images/entries/heilpraxis-fenske/0.webp"
   ],
   "faq": [
     {
@@ -179,8 +182,5 @@
       "question": "Wie kann ich die Heilpraxis Fenske kontaktieren?",
       "answer": "Sie können die Heilpraxis Fenske telefonisch unter 01727960577 oder per E-Mail an info@heilpraxis-fenske.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO1zgXb9aqEcRG4IIQuZEV8Q",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 84
+  ]
 }

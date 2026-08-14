@@ -25,6 +25,7 @@
   "phone": "015128883378",
   "email": "post@heilpraktiker-huebner.de",
   "website": "https://www.heilpraktiker-huebner.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRx-g1YxJqEcRlElQLc8Q7SU",
   "openingHours": [
     {
       "day": "Monday",
@@ -59,9 +60,9 @@
     }
   ],
   "images": [
-    "https://www.heilpraktiker-huebner.de/wp-content/uploads/2021/02/start3.png",
-    "https://www.heilpraktiker-huebner.de/wp-content/uploads/2019/10/s2-1024x116.png",
-    "https://www.heilpraktiker-huebner.de/wp-content/uploads/2019/05/cropped-icon.png"
+    "/images/entries/heilpraktikerin-anja-hubner/0.webp",
+    "/images/entries/heilpraktikerin-anja-hubner/1.webp",
+    "/images/entries/heilpraktikerin-anja-hubner/2.webp"
   ],
   "faq": [
     {
@@ -80,6 +81,5 @@
       "question": "Wo befindet sich die Praxis von Anja Hübner?",
       "answer": "Die Praxis befindet sich in der Mahlsdorfer Str. 94, 12555 Berlin, im Stadtteil Treptow-Köpenick."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRx-g1YxJqEcRlElQLc8Q7SU"
+  ]
 }

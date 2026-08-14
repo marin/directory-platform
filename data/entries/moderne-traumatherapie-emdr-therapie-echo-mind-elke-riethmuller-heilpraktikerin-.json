@@ -27,6 +27,9 @@
   "email": "elke@echo-mind.de",
   "website": "http://www.echo-mind.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/elke-riethmueller",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9Yp3J8FTqEcRpJnewLJIGbI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -145,11 +148,11 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://echo-mind.de/wp-content/uploads/2021/11/echomind_face_01.png",
-    "https://echo-mind.de/wp-content/uploads/2025/01/hello_echo-e1747933253226.png",
-    "https://echo-mind.de/wp-content/uploads/2025/04/erschoepfung.jpg",
-    "https://echo-mind.de/wp-content/uploads/2025/04/michaela-e1745336640589.jpg"
+    "/images/entries/moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-/0.webp",
+    "/images/entries/moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-/1.webp",
+    "/images/entries/moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-/2.webp",
+    "/images/entries/moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-/3.webp",
+    "/images/entries/moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-/4.webp"
   ],
   "faq": [
     {
@@ -172,8 +175,5 @@
       "question": "Wie kann ich Elke Riethmüller kontaktieren?",
       "answer": "Sie können Elke Riethmüller telefonisch unter 015117896146 oder per E-Mail an elke@echo-mind.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9Yp3J8FTqEcRpJnewLJIGbI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

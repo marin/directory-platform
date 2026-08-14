@@ -7,12 +7,14 @@ interface Props {
   title: string;
   description?: string;
   canonical?: string;
+  image?: string;
   noindex?: boolean;
 }
 
-const { title, description, canonical, noindex = false } = Astro.props;
+const { title, description, canonical, image, noindex = false } = Astro.props;
 const pageDescription = description ?? siteConfig.site.description;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteConfig.site.origin).href;
+const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
 ---
 
 <!doctype html>
@@ -24,6 +26,9 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteConfig.site.or
     <meta name="description" content={pageDescription} />
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex, follow" />}
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta name="twitter:card" content="summary_large_image" />}
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <slot name="head" />
     <style is:global>

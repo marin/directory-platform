@@ -27,6 +27,9 @@
   "email": "margrethofmann@gmx.net",
   "website": "http://akupunktur-berlin-kreuzberg.de/",
   "bookingUrl": "https://heilpraktikerinhofmann.de/schamanische-seminare/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2c7hwCxQqEcRiQvd_3fzv6g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -65,12 +68,9 @@
     }
   ],
   "images": [
-    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/IMG_20161230.webp",
-    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Golden-Robin-test.webp",
-    "https://heilpraktikerinhofmann.de/wp-content/uploads/2019/04/Neu-Logo.webp"
+    "/images/entries/akupunktur-praxis-berlin-margret-hofmann/0.webp",
+    "/images/entries/akupunktur-praxis-berlin-margret-hofmann/1.webp",
+    "/images/entries/akupunktur-praxis-berlin-margret-hofmann/2.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2c7hwCxQqEcRiQvd_3fzv6g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

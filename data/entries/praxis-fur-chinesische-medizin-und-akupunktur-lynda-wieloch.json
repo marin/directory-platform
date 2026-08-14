@@ -26,6 +26,9 @@
   "phone": "01605603949",
   "website": "http://www.tcm-kreuzberg.de/",
   "bookingUrl": "https://www.tcm-kreuzberg.de/kontakt/%20%22Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjSijrbJPqEcRufEZVRpvjKo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -66,10 +69,10 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=878x10000:format=jpg/path/s5ffac28a97f14290/image/i81a22c40d22462d5/version/1541583580/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/i2182fac647b807a0/version/1711292646/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/ife1b658b43f346a1/version/1711292571/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=435x1024:format=jpg/path/s5ffac28a97f14290/image/ifbc80739701c93e1/version/1711292646/image.jpg"
+    "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/0.webp",
+    "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/1.webp",
+    "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/2.webp",
+    "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/3.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "In welchen Bereichen kann ich Unterstützung in der Praxis erwarten?",
       "answer": "Die Praxis bietet Unterstützung in Bereichen wie Gynäkologie und Kinderwunsch, Schmerzen aller Art sowie Magen- und Darmprobleme."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjSijrbJPqEcRufEZVRpvjKo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

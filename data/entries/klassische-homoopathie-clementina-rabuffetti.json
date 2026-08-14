@@ -26,6 +26,9 @@
   "phone": "0307813904",
   "website": "https://rabuffetti.de/",
   "bookingUrl": "https://rabuffetti.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2S0MJ4tQqEcRb0a-pSmBp_w",
+  "googleMapsRating": 3.4,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,11 +86,11 @@
     }
   ],
   "images": [
-    "https://rabuffetti.de/wp-content/uploads/2022/01/klassische-homoeopathie-charlottenburg.jpg",
-    "https://rabuffetti.de/wp-content/uploads/2022/01/klassische-homoeopathie-charlottenburg-wilmersdorf.jpg",
-    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-schilddruese-berlin-charlottenburg-1.jpg",
-    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-allergie-berlin-charlottenburg-1.jpg",
-    "https://rabuffetti.de/wp-content/uploads/2022/01/homoeopathie-kinderwunsch-berlin-charlottenburg-1.jpg"
+    "/images/entries/klassische-homoopathie-clementina-rabuffetti/0.webp",
+    "/images/entries/klassische-homoopathie-clementina-rabuffetti/1.webp",
+    "/images/entries/klassische-homoopathie-clementina-rabuffetti/2.webp",
+    "/images/entries/klassische-homoopathie-clementina-rabuffetti/3.webp",
+    "/images/entries/klassische-homoopathie-clementina-rabuffetti/4.webp"
   ],
   "faq": [
     {
@@ -110,8 +113,5 @@
       "question": "Wo befindet sich die Praxis von Clementina Rabuffetti?",
       "answer": "Die Praxis befindet sich in der Berliner Straße 140, 10715 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2S0MJ4tQqEcRb0a-pSmBp_w",
-  "googleMapsRating": 3.4,
-  "googleMapsRatingsCount": 5
+  ]
 }

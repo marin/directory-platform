@@ -27,6 +27,7 @@
   "phone": "015735180041",
   "email": "info@praxis-evabecker.de",
   "website": "http://www.praxis-evabecker.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRN08d6KWFbCw",
   "openingHours": [
     {
       "day": "Monday",
@@ -90,8 +91,8 @@
     }
   ],
   "images": [
-    "https://praxis-evabecker.de/assets/img/header.png",
-    "https://praxis-evabecker.de/assets/img/bemer.png"
+    "/images/entries/naturheilpraxis-am-schlosspark-dr-eva-becker/0.webp",
+    "/images/entries/naturheilpraxis-am-schlosspark-dr-eva-becker/1.webp"
   ],
   "faq": [
     {
@@ -114,6 +115,5 @@
       "question": "Welche Krankheitsbilder werden in der Praxis behandelt?",
       "answer": "In der Naturheilpraxis am Schlosspark werden verschiedene Krankheitsbilder behandelt, darunter Schmerzzustände, Stressabbau, psychosomatische Beschwerden, depressive Verstimmungen, Schlafstörungen, Atemwegserkrankungen, Hauterkrankungen und gynäkologische Erkrankungen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRN08d6KWFbCw"
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "info@aesthetikpraxisberlin.de",
   "website": "https://aesthetikpraxisberlin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb",
   "bookingUrl": "https://aesthetikpraxisberlin.de/termin-buchen/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU-rAFHNRqEcRmlBJoL2ne90",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -250,8 +253,8 @@
     }
   ],
   "images": [
-    "https://aesthetikpraxisberlin.de/wp-content/uploads/2017/02/DSC02221-1b-1.jpg",
-    "https://aesthetikpraxisberlin.de/wp-content/uploads/2017/02/DSC02247-1a.jpg"
+    "/images/entries/violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting/0.webp",
+    "/images/entries/violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting/1.webp"
   ],
   "faq": [
     {
@@ -274,8 +277,5 @@
       "question": "Was sind die Öffnungszeiten von Casa Naturalica?",
       "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 10:00 bis 19:00 Uhr, Donnerstag von 10:00 bis 18:00 Uhr und Freitag von 09:00 bis 12:00 Uhr."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU-rAFHNRqEcRmlBJoL2ne90",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 19
+  ]
 }

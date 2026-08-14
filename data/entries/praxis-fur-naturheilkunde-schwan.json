@@ -26,6 +26,9 @@
   "email": "heilpraxis@antjeschwan.de",
   "website": "http://www.heilpraxis-schwan.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/antje-schwan?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw8OEB4ZRqEcRvQLuDTCu8IA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -74,8 +77,8 @@
     }
   ],
   "images": [
-    "https://heilpraxis-schwan.de/wp-content/uploads/elementor/thumbs/wildkr%C3%A4uterwiese-nk3b1u2p2vyvo4u3mw5gnv0wceh8tge5segzblo7ao.jpg",
-    "https://heilpraxis-schwan.de/wp-content/uploads/2016/12/antje-schwan_logo_gross.gif"
+    "/images/entries/praxis-fur-naturheilkunde-schwan/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-schwan/1.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 01723179849 oder per E-Mail unter heilpraxis@antjeschwan.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw8OEB4ZRqEcRvQLuDTCu8IA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

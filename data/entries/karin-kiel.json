@@ -24,6 +24,9 @@
   },
   "phone": "0303054400",
   "website": "http://www.karin-kiel.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKYzWpaD4qEcRAUNGm6yfYBg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -36,7 +39,7 @@
     }
   ],
   "images": [
-    "https://irp.cdn-website.com/26a1d507/dms3rep/multi/opt/01-Startseite_MIT-TEXT-1440w.jpg"
+    "/images/entries/karin-kiel/0.webp"
   ],
   "faq": [
     {
@@ -59,8 +62,5 @@
       "question": "Wie kann ich Karin Kiel kontaktieren?",
       "answer": "Sie können Karin Kiel per E-Mail an info@karin-kiel.de oder telefonisch unter 030 305 4400 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKYzWpaD4qEcRAUNGm6yfYBg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

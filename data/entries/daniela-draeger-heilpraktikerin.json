@@ -26,6 +26,7 @@
   "email": "mail@daniela-draeger.de",
   "website": "http://daniela-draeger.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/daniela-draeger?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGc_UTlBFqEcRpDOWegj3kgc",
   "openingHours": [
     {
       "day": "Monday",
@@ -120,11 +121,11 @@
     }
   ],
   "images": [
-    "https://daniela-draeger.de/wp-content/uploads/2025/06/Rosa-Kreis-Formen-Muttertag-Femme-Influencer-Instagram-Story-576x1024.jpg",
-    "https://daniela-draeger.de/wp-content/uploads/2021/05/Yoga-Praev-576x1024.jpg",
-    "https://daniela-draeger.de/wp-content/uploads/2025/09/Rosa-Kreis-Formen-Muttertag-Femme-Influencer-Instagram-Story1-576x1024.jpg",
-    "https://daniela-draeger.de/wp-content/uploads/2021/05/Shiatsu-Elemente-576x1024.png",
-    "https://daniela-draeger.de/wp-content/uploads/2026/01/Ruecken-akut-576x1024.jpg"
+    "/images/entries/daniela-draeger-heilpraktikerin/0.webp",
+    "/images/entries/daniela-draeger-heilpraktikerin/1.webp",
+    "/images/entries/daniela-draeger-heilpraktikerin/2.webp",
+    "/images/entries/daniela-draeger-heilpraktikerin/3.webp",
+    "/images/entries/daniela-draeger-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -147,6 +148,5 @@
       "question": "Wie kann ich Daniela Draeger kontaktieren?",
       "answer": "Sie können Daniela Draeger telefonisch unter 03076289899 oder per E-Mail an mail@daniela-draeger.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGc_UTlBFqEcRpDOWegj3kgc"
+  ]
 }

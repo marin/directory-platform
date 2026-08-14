@@ -27,6 +27,9 @@
   "email": "datenschutz@osteopathie.de",
   "website": "https://www.osteopathie.de/therapeutenliste?thnr=316076&plzbereich=1&suchplz=&suchort=&suchfirma=&suchname=&dosymbol=&kindersymbol=",
   "bookingUrl": "https://www.osteopathie.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm-Qjc95fqEcRpohxLqcAAg8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [],
   "offers": [
     {
@@ -51,14 +54,11 @@
     }
   ],
   "images": [
-    "https://www.osteopathie.de/extern/therapeutenliste/dkarte.jpg",
-    "https://osteopathie.de/style/kindersymbol_neu.png",
-    "https://osteopathie.de/style/parken.png",
-    "https://osteopathie.de/style/rs.png",
-    "https://www.osteopathie.de/style/facebook.png"
+    "/images/entries/osteopathie-am-tegeler-see-anna-schiemenz/0.webp",
+    "/images/entries/osteopathie-am-tegeler-see-anna-schiemenz/1.webp",
+    "/images/entries/osteopathie-am-tegeler-see-anna-schiemenz/2.webp",
+    "/images/entries/osteopathie-am-tegeler-see-anna-schiemenz/3.webp",
+    "/images/entries/osteopathie-am-tegeler-see-anna-schiemenz/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm-Qjc95fqEcRpohxLqcAAg8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  "faq": []
 }

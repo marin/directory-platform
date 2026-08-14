@@ -26,6 +26,9 @@
   "email": "btnaur@gmail.com",
   "website": "https://www.malama-praxis.com/",
   "bookingUrl": "https://buchung.treatwell.de/ort/malama-praxis-fuer-regenerative-lebensenergie/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3ik__lQqEcRtnfc9ypNbWs",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 50,
   "openingHours": [
     {
       "day": "Monday",
@@ -150,11 +153,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1634570034666-XUZMV8RBL7GXVUHLXLV9/barbara-naur-heilpraktikerin.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1661282919428-TT4Y8ZNIELQE3DGSND0J/Barbara-Naur-Heilpraktikerin-Berlin.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1666113676334-636DJJD5WNPH2R6F59XS/Video-Morgenuebung-fu%CC%88r-alle-Gelenke-Malama-Praxis.png",
-    "https://images.squarespace-cdn.com/content/v1/5f788322e262891544a57cc5/1621076210628-RXETZW8QE3GGAZELL0W9/Barbara-Naur-Shiatsu-massage.jpg",
-    "http://static1.squarespace.com/static/5f788322e262891544a57cc5/t/6991e9ed65c7eb519ef544c1/1771170285435/logo_malama.png?format=1500w"
+    "/images/entries/barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg/0.webp",
+    "/images/entries/barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg/1.webp",
+    "/images/entries/barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg/2.webp",
+    "/images/entries/barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg/3.webp",
+    "/images/entries/barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg/4.webp"
   ],
   "faq": [
     {
@@ -177,8 +180,5 @@
       "question": "Wie kann ich Barbara Naur kontaktieren?",
       "answer": "Sie können Barbara Naur telefonisch unter 017623288286 oder per E-Mail unter btnaur@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3ik__lQqEcRtnfc9ypNbWs",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 50
+  ]
 }

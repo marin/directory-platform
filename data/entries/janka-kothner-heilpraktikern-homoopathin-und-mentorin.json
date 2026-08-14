@@ -27,6 +27,9 @@
   "phone": "01781366765",
   "email": "info@jkoethner.de",
   "website": "http://www.jkoethner.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQ5mYH9QqEcRW3M3DTbLg2k",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -61,10 +64,10 @@
   ],
   "offers": [],
   "images": [
-    "https://jkoethner.de/wp-content/uploads/2023/04/Design-ohne-Titel-1-1200x500.avif",
-    "https://jkoethner.de/wp-content/uploads/2023/04/Design-ohne-Titel-1-768x433.avif",
-    "https://jkoethner.de/wp-content/uploads/2023/04/20210512_105142-1024x1024.avif",
-    "https://jkoethner.de/wp-content/uploads/2024/04/Janka-hat-mich-anfaenglich-in-einer-akuten-Lebenskrise-begleitet.-Durch-unsere-Sessions-fuehsattelfest-Krisen-als-Chancen-nutzen-und.avif"
+    "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/0.webp",
+    "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/1.webp",
+    "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/2.webp",
+    "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/3.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Was sind die Öffnungszeiten der Praxis?",
       "answer": "Die Öffnungszeiten sind: Montag 09:00 - 15:30, Dienstag 09:00 - 18:00, Mittwoch 09:30 - 20:00, Donnerstag 09:00 - 19:00, Freitag 09:30 - 20:00 und Samstag 11:00 - 16:00."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQ5mYH9QqEcRW3M3DTbLg2k",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 12
+  ]
 }

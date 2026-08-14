@@ -26,10 +26,11 @@
   "email": "yoga-clenz@gmx.de",
   "website": "http://www.praxis-am-see.de/",
   "bookingUrl": "http://www.praxis-am-see.de/termin.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYdamc8hYqEcRdk5xvsNe7kQ",
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.praxis-am-see.de/image/bild05.jpg"
+    "/images/entries/frau-anne-dorthe-hess/0.webp"
   ],
   "faq": [
     {
@@ -48,6 +49,5 @@
       "question": "Wie kann ich einen Termin in der Praxis buchen?",
       "answer": "Sie können einen Termin über die Webseite der Praxis buchen: http://www.praxis-am-see.de/termin.html."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYdamc8hYqEcRdk5xvsNe7kQ"
+  ]
 }

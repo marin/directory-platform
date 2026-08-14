@@ -24,6 +24,9 @@
   },
   "phone": "0306212489",
   "website": "http://tcmpraxis-quehl.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTSb4XE5OqEcRV-6Q0FfikBY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [],
   "offers": [
     {
@@ -32,8 +35,8 @@
     }
   ],
   "images": [
-    "https://tcmpraxis-quehl.de/images/chinesische-medizin/thomas-quehl-th2.jpg",
-    "https://tcmpraxis-quehl.de/images/social_branding.png"
+    "/images/entries/thomas-quehl/0.webp",
+    "/images/entries/thomas-quehl/1.webp"
   ],
   "faq": [
     {
@@ -56,8 +59,5 @@
       "question": "Was ist die Philosophie von Heilpraktiker Thomas Quehl?",
       "answer": "Thomas Quehl sieht sich in einer Tradition von Kampfkünstlern, die ihr Wissen zur Heilung einsetzen. Er orientiert sich in seiner Praxis und in seinem Leben am Wirken berühmter Kampfkünstler."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTSb4XE5OqEcRV-6Q0FfikBY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

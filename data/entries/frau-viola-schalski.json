@@ -24,6 +24,9 @@
   },
   "phone": "03035303653",
   "website": "https://www.hauptstadt-heilpflanzen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI-yaw0ZWqEcRiMEBn0L2YjI",
+  "googleMapsRating": 1,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -68,7 +71,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1000,height=525/image/222240434/7322ffc2-e984-4121-9291-5bde8e49c9bc.jpg"
+    "/images/entries/frau-viola-schalski/0.webp"
   ],
   "faq": [
     {
@@ -91,8 +94,5 @@
       "question": "Gibt es spezielle Veranstaltungen oder Kurse in der Praxis?",
       "answer": "Ja, Frau Viola Schalski bietet Heilpflanzen-Kurse, Wildkräuter-Wanderungen und Vorträge zur Anwendung von Naturheilmitteln an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJI-yaw0ZWqEcRiMEBn0L2YjI",
-  "googleMapsRating": 1,
-  "googleMapsRatingsCount": 2
+  ]
 }

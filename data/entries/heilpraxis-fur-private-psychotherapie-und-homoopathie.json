@@ -27,6 +27,7 @@
   "phone": "03088947817",
   "email": "pehar12@gmail.com",
   "website": "http://www.gesundsein.info/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZTQB-Q3qEcRM175T6hzhJg",
   "openingHours": [
     {
       "day": "Monday",
@@ -93,8 +94,8 @@
     }
   ],
   "images": [
-    "https://gesundsein.info/images/uploads/Petra-Hartmann.jpg",
-    "https://gesundsein.info/images/Qualitaets-Guetesiegel.png"
+    "/images/entries/heilpraxis-fur-private-psychotherapie-und-homoopathie/0.webp",
+    "/images/entries/heilpraxis-fur-private-psychotherapie-und-homoopathie/1.webp"
   ],
   "faq": [
     {
@@ -117,6 +118,5 @@
       "question": "Was sind die Schwerpunkte der Therapie?",
       "answer": "Die Schwerpunkte der Therapie liegen auf der Behandlung von Schocktraumata, Ängsten, Panikattacken, Depressionen sowie psychosomatischen Beschwerden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZTQB-Q3qEcRM175T6hzhJg"
+  ]
 }

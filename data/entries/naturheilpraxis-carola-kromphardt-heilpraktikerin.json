@@ -25,6 +25,9 @@
   "phone": "03028471449",
   "website": "http://www.praxis-kromphardt.de/",
   "bookingUrl": "https://www.praxis-kromphardt.de/kontakt/%20%22Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaa1p7DlfqEcRu2-LmhdtEA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -33,9 +36,9 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=348x10000:format=png/path/se68b241bc60e570b/image/idba218a1afea27b2/version/1434122142/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=216x10000:format=jpg/path/se68b241bc60e570b/image/i60a430eba4948439/version/1434386886/carola-kromphardt.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=70x10000:format=png/path/se68b241bc60e570b/image/if71bedc0bfc9004d/version/1436030062/logo-carola-kromphardt.png"
+    "/images/entries/naturheilpraxis-carola-kromphardt-heilpraktikerin/0.webp",
+    "/images/entries/naturheilpraxis-carola-kromphardt-heilpraktikerin/1.webp",
+    "/images/entries/naturheilpraxis-carola-kromphardt-heilpraktikerin/2.webp"
   ],
   "faq": [
     {
@@ -54,8 +57,5 @@
       "question": "Was ist das Therapiekonzept von Carola Kromphardt?",
       "answer": "Das Therapiekonzept von Carola Kromphardt ist ganzheitlich-naturheilkundlich ausgerichtet und wird individuell auf die Bedürfnisse der Patienten abgestimmt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaa1p7DlfqEcRu2-LmhdtEA0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

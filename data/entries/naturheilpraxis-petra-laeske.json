@@ -24,6 +24,7 @@
   },
   "phone": "03023887522",
   "website": "http://www.petra-laeske.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCU-EJU9HqEcRvqk0Zl9Pg60",
   "openingHours": [],
   "offers": [
     {
@@ -40,8 +41,8 @@
     }
   ],
   "images": [
-    "http://www.petra-laeske.de/images/briefkasten5.jpg",
-    "http://www.petra-laeske.de/images/baustelle2.gif"
+    "/images/entries/naturheilpraxis-petra-laeske/0.webp",
+    "/images/entries/naturheilpraxis-petra-laeske/1.webp"
   ],
   "faq": [
     {
@@ -60,6 +61,5 @@
       "question": "Welche Kategorie deckt die Naturheilpraxis Petra Laeske ab?",
       "answer": "Die Naturheilpraxis Petra Laeske ist in der Kategorie Naturheilkunde tätig."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCU-EJU9HqEcRvqk0Zl9Pg60"
+  ]
 }

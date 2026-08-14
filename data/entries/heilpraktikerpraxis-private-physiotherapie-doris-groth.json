@@ -26,6 +26,9 @@
   "email": "groth-doris@t-online.de",
   "website": "http://www.dorisgroth.de/",
   "bookingUrl": "https://www.dorisgroth.de/?page_id=56",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmaM7NvdVqEcRWJrRtHEipAc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -38,9 +41,9 @@
     }
   ],
   "images": [
-    "https://www.dorisgroth.de/wp-content/uploads/2022/12/Design-ohne-Titel-45.png",
-    "https://www.dorisgroth.de/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-09-at-10.02.02-300x300.jpeg",
-    "https://www.dorisgroth.de/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-09-at-10.02.25.jpeg"
+    "/images/entries/heilpraktikerpraxis-private-physiotherapie-doris-groth/0.webp",
+    "/images/entries/heilpraktikerpraxis-private-physiotherapie-doris-groth/1.webp",
+    "/images/entries/heilpraktikerpraxis-private-physiotherapie-doris-groth/2.webp"
   ],
   "faq": [
     {
@@ -63,8 +66,5 @@
       "question": "Was ist das Hauptziel der Heilpraktikerpraxis?",
       "answer": "Das Hauptziel der Heilpraktikerpraxis ist es, die Patienten auf ihrem Weg zur ganzheitlichen Gesundheit zu begleiten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmaM7NvdVqEcRWJrRtHEipAc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

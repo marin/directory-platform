@@ -25,6 +25,9 @@
   "phone": "03068000229",
   "email": "info@lebensharmonie.net",
   "website": "http://www.lebensharmonie.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwSGzajNbqEcREDeJPj8q35k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -49,9 +52,9 @@
     }
   ],
   "images": [
-    "https://www.lebensharmonie.net/wp-content/uploads/2023/04/cropped-5-2.png",
-    "https://www.lebensharmonie.net/wp-content/uploads/2025/08/about-300x199.jpg",
-    "https://www.lebensharmonie.net/wp-content/uploads/2023/04/5-300x133.png"
+    "/images/entries/naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub/0.webp",
+    "/images/entries/naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub/1.webp",
+    "/images/entries/naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub/2.webp"
   ],
   "faq": [
     {
@@ -74,8 +77,5 @@
       "question": "Bietet die Praxis spezielle Behandlungen für Frauen und Kinder an?",
       "answer": "Ja, die Naturheilpraxis Lebensharmonie hat sich auf naturheilkundliche Frauenheilkunde und naturheilkundliche Kinderheilkunde spezialisiert."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwSGzajNbqEcREDeJPj8q35k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

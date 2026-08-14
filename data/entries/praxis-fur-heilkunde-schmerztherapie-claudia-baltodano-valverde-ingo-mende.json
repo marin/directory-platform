@@ -28,6 +28,9 @@
   "email": "praxis@heilkunde-schmerztherapie.de",
   "website": "http://www.heilkunde-schmerztherapie.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/claudia-baltodano-valverde/booking/motives?specialityId=1232&telehealth=false&placeId=practice-331330&insuranceSectorEnabled=true&insuranceSector=public&pid=practice-331330&insurance_sector=public&bookingFunnelSource=profile",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9XhF5VRqEcRcoxbs-T18cY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -87,11 +90,11 @@
     }
   ],
   "images": [
-    "http://inboundyoga.de/wp-content/uploads/2017/12/Schmerztherapie.png",
-    "http://inboundyoga.de/wp-content/uploads/2023/04/HME00521-bea5-2-683x1024.jpg",
-    "http://inboundyoga.de/wp-content/uploads/2017/12/Inboundyoga-berlin-Claudia-4-scaled.jpg",
-    "http://inboundyoga.de/wp-content/uploads/2024/08/IMG_6688-2-1024x768.jpg",
-    "http://inboundyoga.de/wp-content/uploads/2024/08/IMG_6612-2-768x1024.jpg"
+    "/images/entries/praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende/0.webp",
+    "/images/entries/praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende/1.webp",
+    "/images/entries/praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende/2.webp",
+    "/images/entries/praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende/3.webp",
+    "/images/entries/praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende/4.webp"
   ],
   "faq": [
     {
@@ -114,8 +117,5 @@
       "question": "Wo befindet sich die Praxis?",
       "answer": "Die Praxis befindet sich in der Torstraße 161, 10115 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9XhF5VRqEcRcoxbs-T18cY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

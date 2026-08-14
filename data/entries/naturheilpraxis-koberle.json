@@ -26,6 +26,9 @@
   "phone": "017622019200",
   "website": "http://www.naturheilpraxis-koeberle.de/",
   "bookingUrl": "https://my.lemniscus.de/pss/7ac3bc04-76c8-428f-8dcc-85a7d121519a",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY2To-9xNqEcR-nhTT5twJxg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -87,11 +90,11 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Blume_Header.png",
-    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Blume_Home2.png",
-    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_1.jpg",
-    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_2.jpg",
-    "https://www.naturheilpraxis-koeberle.de/assets/images/Koeberle_Heilpraxis_3.jpg"
+    "/images/entries/naturheilpraxis-koberle/0.webp",
+    "/images/entries/naturheilpraxis-koberle/1.webp",
+    "/images/entries/naturheilpraxis-koberle/2.webp",
+    "/images/entries/naturheilpraxis-koberle/3.webp",
+    "/images/entries/naturheilpraxis-koberle/4.webp"
   ],
   "faq": [
     {
@@ -114,8 +117,5 @@
       "question": "Wie kann ich einen Termin in der Naturheilpraxis Köberle buchen?",
       "answer": "Sie können einen Termin online buchen über die Webseite: https://my.lemniscus.de/pss/7ac3bc04-76c8-428f-8dcc-85a7d121519a oder telefonisch unter 017622019200."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY2To-9xNqEcR-nhTT5twJxg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

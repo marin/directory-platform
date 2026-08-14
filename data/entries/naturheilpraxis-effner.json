@@ -28,6 +28,9 @@
   "email": "hello.blite@gmail.com",
   "website": "http://www.heilpraktiker-effner.de/",
   "bookingUrl": "https://www.heilpraktiker-effner.de/#FORM",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRA3Br0CJPNao",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -118,11 +121,11 @@
     }
   ],
   "images": [
-    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d266a8d7e5a2bb1604e081_naturheilpraxis%20hero%20img-min.jpg",
-    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2723955221a198ed4f75e_vorteil%201-min.png",
-    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2723a25087d70467bc2c5_vorteil%202-min.png",
-    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2727655221acdc0d4fb80_vorteil%203-min.png",
-    "https://cdn.prod.website-files.com/63d25c8bc9731f337423e9b1/63d2763925087d133a7c0162_Geschichte%20Portrait-min.png"
+    "/images/entries/naturheilpraxis-effner/0.webp",
+    "/images/entries/naturheilpraxis-effner/1.webp",
+    "/images/entries/naturheilpraxis-effner/2.webp",
+    "/images/entries/naturheilpraxis-effner/3.webp",
+    "/images/entries/naturheilpraxis-effner/4.webp"
   ],
   "faq": [
     {
@@ -145,8 +148,5 @@
       "question": "Wie kann ich die Naturheilpraxis Effner kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Effner telefonisch unter 0304529538 oder per E-Mail an hello.blite@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRA3Br0CJPNao",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

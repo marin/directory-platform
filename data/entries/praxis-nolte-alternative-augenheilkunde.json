@@ -26,6 +26,9 @@
   "email": "info@praxisnolte.de",
   "website": "http://www.praxisnolte.de/",
   "bookingUrl": "https://praxisnolte.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbc3fn3pQqEcRE3NHKhHjxMU",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -96,14 +99,11 @@
     }
   ],
   "images": [
-    "https://praxisnolte.de/wp-content/uploads/2024/09/Praxis_Nolte_Augenheilkunde_Berlin_Akupunktur_Makuladegeneration.jpg",
-    "https://praxisnolte.de/wp-content/uploads/2024/09/Praxis_Nolte_Augenheilkunde_Berlin_tcm_Makuladegeneration.jpg",
-    "https://praxisnolte.de/wp-content/uploads/2024/12/Augenakunpunktur-Ansatz-mit-System.png",
-    "https://praxisnolte.de/wp-content/uploads/2024/09/Nolte-b006-eingepasst-in.jpg",
-    "https://praxisnolte.de/wp-content/uploads/2024/09/logo-nolte.png"
+    "/images/entries/praxis-nolte-alternative-augenheilkunde/0.webp",
+    "/images/entries/praxis-nolte-alternative-augenheilkunde/1.webp",
+    "/images/entries/praxis-nolte-alternative-augenheilkunde/2.webp",
+    "/images/entries/praxis-nolte-alternative-augenheilkunde/3.webp",
+    "/images/entries/praxis-nolte-alternative-augenheilkunde/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbc3fn3pQqEcRE3NHKhHjxMU",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 31
+  "faq": []
 }

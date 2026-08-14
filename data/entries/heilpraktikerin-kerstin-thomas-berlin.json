@@ -24,12 +24,13 @@
   },
   "phone": "017638919657",
   "website": "http://www.heilpraktikerin-thomas-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvWzX4yRRqEcR6dDNHphvWsg",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=299x10000:format=jpg/path/s9c7eded6600a1fcd/image/id579e9346ced77d6/version/1486468117/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s9c7eded6600a1fcd/backgroundarea/if91624383b29cc9b/version/1486470750/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=274x1024:format=jpg/path/s9c7eded6600a1fcd/image/i3c9bb349f96d4409/version/1753357899/image.jpg"
+    "/images/entries/heilpraktikerin-kerstin-thomas-berlin/0.webp",
+    "/images/entries/heilpraktikerin-kerstin-thomas-berlin/1.webp",
+    "/images/entries/heilpraktikerin-kerstin-thomas-berlin/2.webp"
   ],
   "faq": [
     {
@@ -52,6 +53,5 @@
       "question": "In welchem Gebiet ist Heilpraktikerin Kerstin Thomas tätig?",
       "answer": "Heilpraktikerin Kerstin Thomas ist im Bereich Mitte in Berlin tätig."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvWzX4yRRqEcR6dDNHphvWsg"
+  ]
 }

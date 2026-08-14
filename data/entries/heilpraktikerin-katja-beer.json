@@ -25,6 +25,9 @@
   "phone": "01777495516",
   "website": "https://www.schmerzbehandlung-berlin.de/",
   "bookingUrl": "https://www.schmerzbehandlung-berlin.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmxgmHgdRqEcRdeD86GJaEhA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -41,7 +44,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/129913132/35efc89a-1457-4a00-8fd3-7c39847b9531.jpg"
+    "/images/entries/heilpraktikerin-katja-beer/0.webp"
   ],
   "faq": [
     {
@@ -60,8 +63,5 @@
       "question": "Gibt es spezielle Hinweise zur COVID-19-Situation in der Praxis?",
       "answer": "Ja, Behandlungen finden unter Gewährleistung der Hygiene- und Sicherheitsstandards statt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmxgmHgdRqEcRdeD86GJaEhA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

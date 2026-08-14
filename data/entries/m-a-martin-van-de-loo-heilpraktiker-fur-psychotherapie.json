@@ -26,6 +26,9 @@
   "email": "martin.vandeloo@googlemail.com",
   "website": "http://www.martinvandeloo.de/",
   "bookingUrl": "https://www.martinvandeloo.de/termine-und-kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ47TgEUBPqEcR4z_qsVIsGag",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Friday",
@@ -100,11 +103,11 @@
     }
   ],
   "images": [
-    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Vector-1024x571.png",
-    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-271-1.png",
-    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-270-1.png",
-    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-269-1.png",
-    "https://www.martinvandeloo.de/wp-content/uploads/2025/05/Frame-268-1.png"
+    "/images/entries/m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie/3.webp",
+    "/images/entries/m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -127,8 +130,5 @@
       "question": "Welche Zielgruppe spricht Martin van de Loo an?",
       "answer": "Martin van de Loo bietet queere Traumatherapie und Coaching an und richtet sich somit insbesondere an die LGBTIQ+ Community."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ47TgEUBPqEcR4z_qsVIsGag",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

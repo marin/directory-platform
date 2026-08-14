@@ -26,6 +26,7 @@
   "email": "natur-dornhof@posteo.de",
   "website": "https://www.naturgesundheit-dornhof.de/",
   "bookingUrl": "https://www.naturgesundheit-dornhof.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8X3GrWhSqEcRhk6QJxwW4gk",
   "openingHours": [],
   "offers": [
     {
@@ -182,11 +183,11 @@
     }
   ],
   "images": [
-    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/heilpraktiker-pankow-naturheilkunde.jpg",
-    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/massage-berlin-pankow.jpg",
-    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/pflanzenheilkunde-berlin-pankow.jpg",
-    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/augendiagnose-2.jpg",
-    "https://www.naturgesundheit-dornhof.de/wp-content/uploads/2024/06/kraeuterspaziergang-pankow.jpg"
+    "/images/entries/constanze-dornhof-heilpraktikerin-massage-naturheilkunde/0.webp",
+    "/images/entries/constanze-dornhof-heilpraktikerin-massage-naturheilkunde/1.webp",
+    "/images/entries/constanze-dornhof-heilpraktikerin-massage-naturheilkunde/2.webp",
+    "/images/entries/constanze-dornhof-heilpraktikerin-massage-naturheilkunde/3.webp",
+    "/images/entries/constanze-dornhof-heilpraktikerin-massage-naturheilkunde/4.webp"
   ],
   "faq": [
     {
@@ -209,6 +210,5 @@
       "question": "Wie kann ich Constanze Dornhof kontaktieren?",
       "answer": "Sie können Constanze Dornhof telefonisch unter 03047553495 oder per E-Mail an natur-dornhof@posteo.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8X3GrWhSqEcRhk6QJxwW4gk"
+  ]
 }

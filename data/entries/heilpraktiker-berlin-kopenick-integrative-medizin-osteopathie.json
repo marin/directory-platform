@@ -26,6 +26,9 @@
   "phone": "03058882808",
   "email": "info@nature-practice.de",
   "website": "https://www.nature-practice.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEZTRZv1RqEcRDFuPHE7huEM",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 21,
   "openingHours": [],
   "offers": [
     {
@@ -106,7 +109,7 @@
     }
   ],
   "images": [
-    "https://www.nature-practice.de/wp-content/uploads/2026/04/cropped-cropped-cropped-entwurf_logo_practical_postwork.jpg"
+    "/images/entries/heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie/0.webp"
   ],
   "faq": [
     {
@@ -129,8 +132,5 @@
       "question": "Was sagen Patienten über die Behandlungen bei Herrn Plöger?",
       "answer": "Patienten berichten von positiven Erfahrungen, insbesondere über die individuelle Betreuung, das umfangreiche Fachwissen und die erfolgreiche Behandlung von verschiedenen Beschwerden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEZTRZv1RqEcRDFuPHE7huEM",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 21
+  ]
 }

@@ -25,6 +25,9 @@
   "phone": "015678195455",
   "email": "kontakt@praxispinnow.de",
   "website": "https://www.praxispinnow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ39ajmoxHqEcRVIhonzgjDZM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -71,11 +74,11 @@
     }
   ],
   "images": [
-    "https://praxispinnow.de/wp-content/uploads/2025/10/threema-20251020-144800830-1024x576.jpg",
-    "https://praxispinnow.de/wp-content/uploads/2025/10/patient_mittelpunkt_black-150x150.png",
-    "https://praxispinnow.de/wp-content/uploads/2025/10/ruhe_black-150x150.png",
-    "https://praxispinnow.de/wp-content/uploads/2025/10/kopfherzhand_thin-150x150.png",
-    "https://praxispinnow.de/wp-content/uploads/2025/10/DSC06516-200x300.jpg"
+    "/images/entries/heilpraktikerin-christine-pinnow/0.webp",
+    "/images/entries/heilpraktikerin-christine-pinnow/1.webp",
+    "/images/entries/heilpraktikerin-christine-pinnow/2.webp",
+    "/images/entries/heilpraktikerin-christine-pinnow/3.webp",
+    "/images/entries/heilpraktikerin-christine-pinnow/4.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Was ist das Ziel der Behandlungen bei Christine Pinnow?",
       "answer": "Das Ziel der Behandlungen ist es, die Selbstheilungskräfte des Körpers zu aktivieren und den Patienten auf dem Weg zu mehr Stabilität, Beweglichkeit und Wohlbefinden zu begleiten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ39ajmoxHqEcRVIhonzgjDZM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

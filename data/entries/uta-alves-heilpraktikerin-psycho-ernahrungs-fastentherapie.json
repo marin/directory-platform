@@ -28,6 +28,7 @@
   "email": "info@uta-alves.de",
   "website": "http://www.uta-alves.de/",
   "bookingUrl": "https://www.uta-alves.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo6rujNBPqEcRA3pFVGNILw4",
   "openingHours": [],
   "offers": [
     {
@@ -60,11 +61,11 @@
     }
   ],
   "images": [
-    "https://www.uta-alves.de/wp-content/uploads/2021/10/Regenbogen.png",
-    "https://www.uta-alves.de/wp-content/uploads/2021/10/Fastengruppe.png",
-    "https://www.uta-alves.de/wp-content/uploads/2021/09/Orange-1.png",
-    "https://www.uta-alves.de/wp-content/uploads/2021/10/Fasten_Unterkunft-2.png",
-    "https://www.uta-alves.de/wp-content/uploads/2021/09/Kreta.png"
+    "/images/entries/uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie/0.webp",
+    "/images/entries/uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie/1.webp",
+    "/images/entries/uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie/2.webp",
+    "/images/entries/uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie/3.webp",
+    "/images/entries/uta-alves-heilpraktikerin-psycho-ernahrungs-fastentherapie/4.webp"
   ],
   "faq": [
     {
@@ -87,6 +88,5 @@
       "question": "Wie kann ich Uta Alves kontaktieren?",
       "answer": "Sie können Uta Alves telefonisch unter 015121680432 oder per E-Mail an info@uta-alves.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo6rujNBPqEcRA3pFVGNILw4"
+  ]
 }

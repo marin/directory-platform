@@ -25,14 +25,17 @@
   "phone": "03083106806",
   "website": "http://www.restlos-gluecklich.de/",
   "bookingUrl": "https://www.xn--restlos-glcklich-szb.de/#Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6YCQL9pQqEcRtn1f86hVD_E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.xn--restlos-glcklich-szb.de/img/home.jpeg",
-    "https://www.xn--restlos-glcklich-szb.de/img/homoeopathie.jpeg",
-    "https://www.xn--restlos-glcklich-szb.de/img/britta-von-lindenfels.jpeg",
-    "https://www.xn--restlos-glcklich-szb.de/img/wolf-von-lindenfels.jpeg",
-    "https://www.xn--restlos-glcklich-szb.de/img/feng-shui.jpeg"
+    "/images/entries/britta-wolf-von-lindenfels/0.webp",
+    "/images/entries/britta-wolf-von-lindenfels/1.webp",
+    "/images/entries/britta-wolf-von-lindenfels/2.webp",
+    "/images/entries/britta-wolf-von-lindenfels/3.webp",
+    "/images/entries/britta-wolf-von-lindenfels/4.webp"
   ],
   "faq": [
     {
@@ -55,8 +58,5 @@
       "question": "Gibt es spezielle Öffnungszeiten für die Praxis?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6YCQL9pQqEcRtn1f86hVD_E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

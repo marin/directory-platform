@@ -26,6 +26,9 @@
   "phone": "03091142001",
   "email": "info@akupunktur-karow.de",
   "website": "http://www.akupunktur-karow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3X1-zk9NqEcRzfKTn2nr4yw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -50,7 +53,7 @@
   ],
   "offers": [],
   "images": [
-    "https://www.akupunktur-karow.de/images/aponeo.png"
+    "/images/entries/praxis-fur-akupunktur-und-naturheilkunde/0.webp"
   ],
   "faq": [
     {
@@ -73,8 +76,5 @@
       "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
       "answer": "In der Praxis werden Akupunktur und Naturheilkunde angeboten, wobei ein individueller Therapieansatz für jeden Patienten entwickelt wird."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3X1-zk9NqEcRzfKTn2nr4yw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

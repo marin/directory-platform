@@ -25,11 +25,14 @@
   },
   "phone": "017665515460",
   "website": "https://www.jessica-ward.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6yuriRP8jooRRDscVWVZ_7Y",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=279x1024:format=jpg/path/s6aa645529e8a9c74/image/i8ead0ac35688e607/version/1761562592/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x1024:format=jpg/path/s6aa645529e8a9c74/image/i8ead0ac35688e607/version/1761562592/image.jpg"
+    "/images/entries/jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm/0.webp",
+    "/images/entries/jessica-ward-heilpraktikerin-fur-psychotherapie-traumatherapie-narm/1.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Wie kann ich einen Termin bei Jessica Ward vereinbaren?",
       "answer": "Interessierte können Jessica Ward per E-Mail unter kontakt@jessica-ward.de kontaktieren, um einen Termin für ein kostenfreies und unverbindliches Vorgespräch zu vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6yuriRP8jooRRDscVWVZ_7Y",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

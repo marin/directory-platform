@@ -25,6 +25,9 @@
   "phone": "03045310954",
   "website": "https://www.heilpraxis-limberg.de/",
   "bookingUrl": "https://www.heilpraxis-limberg.de/kontakt-angela-limberg-freinsheim/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzQmP0udNqEcRQs62zsWHOLY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -49,7 +52,7 @@
   ],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s026623dc186bca0c/backgroundarea/i95770b377fc8ef97/version/1524591271/image.jpg"
+    "/images/entries/heilpraxis-limberg-traumatherapie/0.webp"
   ],
   "faq": [
     {
@@ -72,8 +75,5 @@
       "question": "Wie kann ich die Heilpraxis Limberg kontaktieren?",
       "answer": "Sie können die Heilpraxis Limberg telefonisch unter 03045310954 erreichen oder die Webseite heilpraxis-limberg.de besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzQmP0udNqEcRQs62zsWHOLY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

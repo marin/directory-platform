@@ -26,6 +26,7 @@
   "email": "silke-schulz@arcor.de",
   "website": "http://www.naturheilpraxis-schulz.de/",
   "bookingUrl": "https://www.naturheilpraxis-schulz.de/kontakt-anfahrt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsz_3_4NRqEcRQTWx6uEieOc",
   "openingHours": [],
   "offers": [
     {
@@ -112,10 +113,10 @@
     }
   ],
   "images": [
-    "https://cdn.website-start.de/s/img/cc/printer.gif",
-    "https://www.naturheilpraxis-schulz.de/s/misc/logo.jpg?t=1784609800",
-    "https://www.naturheilpraxis-schulz.de/s/misc/logo.jpg?t=1784609799",
-    "https://cdn.website-start.de/s/img/logo.gif"
+    "/images/entries/heilpraktikerin-silke-schulz/0.webp",
+    "/images/entries/heilpraktikerin-silke-schulz/1.webp",
+    "/images/entries/heilpraktikerin-silke-schulz/2.webp",
+    "/images/entries/heilpraktikerin-silke-schulz/3.webp"
   ],
   "faq": [
     {
@@ -138,6 +139,5 @@
       "question": "Wie kann ich Heilpraktikerin Silke Schulz kontaktieren?",
       "answer": "Sie können Heilpraktikerin Silke Schulz per E-Mail unter silke-schulz@arcor.de oder telefonisch unter 030 - 460 670 93 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsz_3_4NRqEcRQTWx6uEieOc"
+  ]
 }

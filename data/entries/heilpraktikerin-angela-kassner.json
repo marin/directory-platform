@@ -25,6 +25,9 @@
   "phone": "0308815702",
   "website": "http://www.naturheilpraxis-kaessner.de/",
   "bookingUrl": "https://www.heilpraktikerberlin.com/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE_ESsvxQqEcRgKLTwj2jaFg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -90,10 +93,10 @@
     }
   ],
   "images": [
-    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/f/1/csm_zwoelffingerdarm_d2b3d2d7d1.jpg",
-    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/8/0/csm_kompakta-struktur-der-auesseren-knochenschichten_ebcdb5d42b.jpg",
-    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/6/3/csm_immunsystem-makrophage-abwehr_74d4ea58bd.jpg",
-    "https://www.heilpraktikerberlin.com/fileadmin/_processed_/0/2/csm_sehvermoegen-zapfenzellen_b0e37a4e76.jpg"
+    "/images/entries/heilpraktikerin-angela-kassner/0.webp",
+    "/images/entries/heilpraktikerin-angela-kassner/1.webp",
+    "/images/entries/heilpraktikerin-angela-kassner/2.webp",
+    "/images/entries/heilpraktikerin-angela-kassner/3.webp"
   ],
   "faq": [
     {
@@ -116,8 +119,5 @@
       "question": "Welche Kontaktmöglichkeiten habe ich, um Heilpraktikerin Angela Käßner zu erreichen?",
       "answer": "Sie können Heilpraktikerin Angela Käßner telefonisch unter 030-8815702 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE_ESsvxQqEcRgKLTwj2jaFg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

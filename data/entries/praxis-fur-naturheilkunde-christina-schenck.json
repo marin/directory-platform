@@ -27,6 +27,9 @@
   "email": "kontakt@naturheilkunde-berlin.de",
   "website": "http://www.naturheilkunde-berlin.de/",
   "bookingUrl": "mailto:kontakt@naturheilkunde-berlin.de",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9Z5peFRqEcRe7_mKXcQFgo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -175,7 +178,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilkunde-berlin.de/img/tina_schenck3_q.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-christina-schenck/0.webp"
   ],
   "faq": [
     {
@@ -198,8 +201,5 @@
       "question": "Gibt es spezielle Angebote für mehrere Sitzungen?",
       "answer": "Ja, es gibt Angebote wie 10 Akupunktursitzungen für 550 € oder 5 Termine für 85 € jeweils 90 Minuten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc9Z5peFRqEcRe7_mKXcQFgo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

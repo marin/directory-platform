@@ -61,7 +61,8 @@ export default defineSite({
   features: {
     areas: true,
     search: false,
-    map: false,
+    map: true,
+    images: true,
     reviews: false,
     commercialPlacements: false,
     faqBlocks: true,

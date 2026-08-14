@@ -25,6 +25,9 @@
   "phone": "017682042273",
   "website": "https://www.heilpraktiker-berlin.net/",
   "bookingUrl": "https://www.heilpraktiker-berlin.net/termin-vereinbaren.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbyE32Is3qEcR2KRrJzz34iw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -116,11 +119,11 @@
     }
   ],
   "images": [
-    "https://www.heilpraktiker-berlin.net/files/zogin/content/IMG_4231.jpg",
-    "https://www.heilpraktiker-berlin.net/files/zogin/content/IMG_4753%20auge%20in%20auge%202.jpg",
-    "https://www.heilpraktiker-berlin.net/assets/images/b/kleiner-398e6b9d.jpg",
-    "https://www.heilpraktiker-berlin.net/assets/images/f/Perimenopausel-2bd49ce7.png",
-    "https://www.heilpraktiker-berlin.net/assets/images/7/Rotklee%20gegen%20Hitzewallungen-899180b2.jpeg"
+    "/images/entries/heilpraktiker-fur-frauenheilkunde-in-berlin/0.webp",
+    "/images/entries/heilpraktiker-fur-frauenheilkunde-in-berlin/1.webp",
+    "/images/entries/heilpraktiker-fur-frauenheilkunde-in-berlin/2.webp",
+    "/images/entries/heilpraktiker-fur-frauenheilkunde-in-berlin/3.webp",
+    "/images/entries/heilpraktiker-fur-frauenheilkunde-in-berlin/4.webp"
   ],
   "faq": [
     {
@@ -143,8 +146,5 @@
       "question": "Bietet der Heilpraktiker auch Online-Termine an?",
       "answer": "Ja, der Heilpraktiker bietet sowohl persönliche Termine als auch Online-Meetings an, oder eine hybride Form aus beidem."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbyE32Is3qEcR2KRrJzz34iw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

@@ -25,6 +25,9 @@
   "phone": "03063211957",
   "website": "http://www.heikeroehl.de/",
   "bookingUrl": "https://heikeroehl.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Z1IpdD1qEcRWuVeG2unUew",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -118,11 +121,11 @@
     }
   ],
   "images": [
-    "https://heikeroehl.de/wp-content/uploads/2025/11/Heike-Roehl-4.png.pagespeed.ce.qCjho5Hlv0.png",
-    "https://heikeroehl.de/wp-content/uploads/2025/12/Refugium-Place.png.pagespeed.ce.0F3tUiUmuv.png",
-    "https://heikeroehl.de/wp-content/uploads/2025/12/calumed.png.pagespeed.ce.LJ-DO1pOed.png",
-    "https://heikeroehl.de/wp-content/uploads/2025/12/norbert.png.pagespeed.ce.NAT_zJFEaW.png",
-    "https://heikeroehl.de/wp-content/uploads/2025/12/dento.png.pagespeed.ce.PTmmMPEZ50.png"
+    "/images/entries/heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie/0.webp",
+    "/images/entries/heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie/1.webp",
+    "/images/entries/heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie/2.webp",
+    "/images/entries/heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie/3.webp",
+    "/images/entries/heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie/4.webp"
   ],
   "faq": [
     {
@@ -145,8 +148,5 @@
       "question": "Wie kann ich Heike Röhl telefonisch erreichen?",
       "answer": "Sie können Heike Röhl unter der Telefonnummer 03063211957 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0Z1IpdD1qEcRWuVeG2unUew",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

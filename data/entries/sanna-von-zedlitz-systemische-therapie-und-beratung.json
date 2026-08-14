@@ -25,11 +25,14 @@
   "phone": "01771950689",
   "email": "infoabc@sanna-vonzedlitz.de",
   "website": "http://www.hypnotherapie-friedenau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtbtTl5FRqEcRb6zLmdAAr-s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 25,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://sanna-vonzedlitz.de/wp-content/uploads/2022/10/Hypnotherapie-Friedenau-Zedlitz.png",
-    "https://sanna-vonzedlitz.de/wp-content/uploads/2022/10/022CFilterWebMini.jpg"
+    "/images/entries/sanna-von-zedlitz-systemische-therapie-und-beratung/0.webp",
+    "/images/entries/sanna-von-zedlitz-systemische-therapie-und-beratung/1.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Bietet Sanna von Zedlitz auch Selbsthilfe-Methoden an?",
       "answer": "Ja, Sanna von Zedlitz bietet autogenes Training als eine Art Selbsthilfe to go an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtbtTl5FRqEcRb6zLmdAAr-s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 25
+  ]
 }

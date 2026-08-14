@@ -28,6 +28,7 @@
   "email": "m.grenzel-barth@kunsttherapie-und-hypnose.de",
   "website": "http://www.kunsttherapie-und-hypnose.de/",
   "bookingUrl": "https://www.kunsttherapie-und-hypnose.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQzoI3fxFqEcREmbWj-UATrc",
   "openingHours": [
     {
       "day": "Monday",
@@ -170,11 +171,11 @@
     }
   ],
   "images": [
-    "https://www.kunsttherapie-und-hypnose.de/s/img/emotionheader.JPG?1739294619.916px.353px",
-    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_42332423.jpg?t=1437029584",
-    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_42934028.JPG?t=1438764490",
-    "https://www.kunsttherapie-und-hypnose.de/s/cc_images/cache_45016533.jpg?t=1445188093",
-    "https://www.kunsttherapie-und-hypnose.de/s/img/emotionheader.JPG"
+    "/images/entries/praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose/0.webp",
+    "/images/entries/praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose/1.webp",
+    "/images/entries/praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose/2.webp",
+    "/images/entries/praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose/3.webp",
+    "/images/entries/praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose/4.webp"
   ],
   "faq": [
     {
@@ -197,6 +198,5 @@
       "question": "Wo befindet sich die Praxis?",
       "answer": "Die Praxis befindet sich in Berlin, Minzeweg 50, 12357 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQzoI3fxFqEcREmbWj-UATrc"
+  ]
 }

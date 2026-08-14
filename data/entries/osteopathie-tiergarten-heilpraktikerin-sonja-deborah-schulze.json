@@ -27,6 +27,9 @@
   "email": "info@osteopathie-tiergarten.de",
   "website": "https://osteopathie-tiergarten.de/",
   "bookingUrl": "https://www.appointmed.com/booking/2395542-osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfV4czupeTWoRtb07HvVeJMc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,11 +59,11 @@
   ],
   "offers": [],
   "images": [
-    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/Profilbild-Homepage-1024x1024.jpg",
-    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten4-768x1024.jpg",
-    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten6-768x1024.jpg",
-    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten2-768x1024.jpg",
-    "https://osteopathie-tiergarten.de/wp-content/uploads/2025/03/sonjaschulze-osteopathie-tiergarten-768x1024.jpg"
+    "/images/entries/osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze/0.webp",
+    "/images/entries/osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze/1.webp",
+    "/images/entries/osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze/2.webp",
+    "/images/entries/osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze/3.webp",
+    "/images/entries/osteopathie-tiergarten-heilpraktikerin-sonja-deborah-schulze/4.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Wie hoch sind die Preise für die Behandlungen?",
       "answer": "Die Preise für die Erstanamnese betragen 120€ für Erwachsene und 100€ für Kinder. Folgetermine kosten 100€ für Erwachsene und 80€ für Kinder."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfV4czupeTWoRtb07HvVeJMc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 15
+  ]
 }

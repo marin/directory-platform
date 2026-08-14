@@ -26,6 +26,9 @@
   "phone": "03032707674",
   "website": "http://www.senmotic-sajok.de/",
   "bookingUrl": "https://www.senmotic-sajok.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY6GzoapPqEcRxvgDeZoY8rg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -38,8 +41,8 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=368x10000:format=png/path/s4b6e985c159c314b/image/i0dd4b442d4c39ec2/version/1677139251/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s4b6e985c159c314b/backgroundarea/i1044ce3b5e1e04f6/version/1678959213/image.png"
+    "/images/entries/dieter-sajok-heilpraktiker-faszien-und-schmerztherapie/0.webp",
+    "/images/entries/dieter-sajok-heilpraktiker-faszien-und-schmerztherapie/1.webp"
   ],
   "faq": [
     {
@@ -62,8 +65,5 @@
       "question": "Bietet Dieter Sajok auch Beratungsgespräche an?",
       "answer": "Ja, Dieter Sajok bietet ein kostenloses Beratungsgespräch von ca. 30 Minuten an, das normalerweise früher eingerichtet werden kann."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY6GzoapPqEcRxvgDeZoY8rg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

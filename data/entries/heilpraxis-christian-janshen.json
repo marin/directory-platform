@@ -25,14 +25,17 @@
   "phone": "03075515952",
   "email": "mail@heilpraxis-janshen.de",
   "website": "http://www.heilpraxis-janshen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5U8Vev5PqEcRWEIN4ZTnNqA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.heilpraxis-janshen.de/s/img/emotionheader5807197436.jpg?1477890411.920px.186px",
-    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2498394608.jpg?t=1730293318",
-    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2498394610.jpg?t=1730293353",
-    "https://www.heilpraxis-janshen.de/s/cc_images/cache_2497136965.jpg?t=1701435807",
-    "https://www.heilpraxis-janshen.de/s/img/emotionheader5807197436.jpg"
+    "/images/entries/heilpraxis-christian-janshen/0.webp",
+    "/images/entries/heilpraxis-christian-janshen/1.webp",
+    "/images/entries/heilpraxis-christian-janshen/2.webp",
+    "/images/entries/heilpraxis-christian-janshen/3.webp",
+    "/images/entries/heilpraxis-christian-janshen/4.webp"
   ],
   "faq": [
     {
@@ -51,8 +54,5 @@
       "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
       "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben. Für Terminwünsche können Sie die Praxis direkt kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5U8Vev5PqEcRWEIN4ZTnNqA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

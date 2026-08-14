@@ -26,6 +26,9 @@
   "phone": "03023924082",
   "website": "http://www.praxis-anders.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christiane-anders-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_QFA7ytXqEcRFWnwQ0o9XuI",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,7 +72,7 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s5ba3f9d92d9d5bc9/backgroundarea/if7dbceacbbb0d16e/version/1776886895/image.png"
+    "/images/entries/praxis-anders-heilpraktikerin-christiane-anders/0.webp"
   ],
   "faq": [
     {
@@ -92,8 +95,5 @@
       "question": "Wie kann ich die Praxis Anders telefonisch erreichen?",
       "answer": "Sie können die Praxis Anders telefonisch unter der Nummer 03023924082 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_QFA7ytXqEcRFWnwQ0o9XuI",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 13
+  ]
 }

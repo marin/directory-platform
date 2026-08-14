@@ -26,6 +26,9 @@
   "phone": "03036752262",
   "website": "http://heilpraxis-wurm.de/",
   "bookingUrl": "https://heilpraxis-wurm.de/Terminvereinbarung%20%22Terminvereinbarung",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl3xfLipaqEcR2aF8buqzvn0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,7 +58,7 @@
   ],
   "offers": [],
   "images": [
-    "http://www.heilpraxis-wurm.de/.cm4all/sysdb/user/ogimage.jpg"
+    "/images/entries/heilpraxis-martina-luhrmann-praxis-fur-osteopathie-und-allergietherapie/0.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Wie kann ich die Heilpraxis-Martina Lührmann telefonisch erreichen?",
       "answer": "Sie können die Heilpraxis-Martina Lührmann unter der Telefonnummer 03036752262 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl3xfLipaqEcR2aF8buqzvn0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

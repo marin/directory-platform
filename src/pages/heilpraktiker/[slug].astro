@@ -8,6 +8,9 @@ import EntryGoogleRatingSection from "../../components/entry/EntryGoogleRatingSe
 import OffersSection from "../../components/entry/OffersSection.astro";
 import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astro";
 import ContactSection from "../../components/entry/ContactSection.astro";
+import EntryMapSection from "../../components/entry/EntryMapSection.astro";
+import EntryImagesSection from "../../components/entry/EntryImagesSection.astro";
+import siteConfig from "../../../config/site.config.ts";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import RelatedEntries from "../../components/entry/RelatedEntries.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
@@ -61,12 +64,14 @@ const breadcrumbItems = [
   title={entry.name}
   description={entry.description}
   canonical={entryUrl(entry.slug)}
+  image={siteConfig.features.images ? vm.primaryImage : undefined}
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
   <article data-testid="entry-page">
     <Breadcrumbs items={breadcrumbItems} />
     <EntryHeader vm={vm} />
+    {siteConfig.features.images && <EntryImagesSection vm={vm} />}
     <EntryCtaBar entry={entry} />
     <EntryGoogleRatingSection entry={entry} />
     <section style="margin: 1.5rem 0;">
@@ -75,6 +80,7 @@ const breadcrumbItems = [
     </section>
     <OffersSection offers={vm.formattedOffers} isOpen={entry.isOpen} />
     <OpeningHoursSection entry={entry} />
+    {siteConfig.features.map && <EntryMapSection entry={entry} />}
     <ContactSection entry={entry} />
     {(entry.faq ?? []).length > 0 && <FaqSection items={entry.faq!} />}
     <RelatedEntries cards={related} />

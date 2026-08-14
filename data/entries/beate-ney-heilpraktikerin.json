@@ -25,14 +25,15 @@
   "phone": "054019186",
   "email": "beateney@web.de",
   "website": "https://www.ney-homoeopathie-hagen-atw.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV233BplPqEcRK6TKdD5m4TA",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/keyvisual/customkey.png",
-    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/7766730_2125172617c.png",
-    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/7828163_1145022818.png",
-    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/8218274_1480157413.png",
-    "https://www.ney-homoeopathie-hagen-atw.de/mediapool/80/805857/resources/tree/8726420_107002503.png"
+    "/images/entries/beate-ney-heilpraktikerin/0.webp",
+    "/images/entries/beate-ney-heilpraktikerin/1.webp",
+    "/images/entries/beate-ney-heilpraktikerin/2.webp",
+    "/images/entries/beate-ney-heilpraktikerin/3.webp",
+    "/images/entries/beate-ney-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -47,6 +48,5 @@
       "question": "Wie kann ich Beate Ney kontaktieren?",
       "answer": "Sie können Beate Ney telefonisch unter 054019186 oder per E-Mail an beateney@web.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV233BplPqEcRK6TKdD5m4TA"
+  ]
 }

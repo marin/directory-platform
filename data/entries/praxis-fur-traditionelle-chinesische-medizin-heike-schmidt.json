@@ -26,6 +26,9 @@
   "phone": "03056583188",
   "email": "schmidt@agtcm-therapeut.de",
   "website": "http://www.naturheilpraxis-heike-schmidt.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCcoE5HdJqEcR8sOGZl9wBm0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,12 +58,9 @@
   ],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/f/5/csm_Depositphotos_151522382_original_af05960b93.webp",
-    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/4/c/csm_aZYumgO5EGU_de18ef7459.webp",
-    "https://www.naturheilpraxis-heike-schmidt.de/fileadmin/_processed_/4/b/csm_Depositphotos_66881297_original_f20f5c46ba.webp"
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heike-schmidt/0.webp",
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heike-schmidt/1.webp",
+    "/images/entries/praxis-fur-traditionelle-chinesische-medizin-heike-schmidt/2.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCcoE5HdJqEcR8sOGZl9wBm0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

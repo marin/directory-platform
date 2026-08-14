@@ -29,6 +29,9 @@
   "phone": "03026548334",
   "email": "info@praxis-christinefuss.de",
   "website": "http://www.praxis-christinefuss.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcR6MW0Ey809nI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,8 +61,8 @@
   ],
   "offers": [],
   "images": [
-    "https://praxis-christinefuss.de/wp-content/uploads/2023/10/new_flower_right_from_scrib02_rghtflowerMerged.png",
-    "https://praxis-christinefuss.de/wp-content/uploads/2023/09/logo-auf-transparent180x180px.png"
+    "/images/entries/frau-christine-fuss/0.webp",
+    "/images/entries/frau-christine-fuss/1.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Bietet Frau Christine Fuss ein Vorgespräch an?",
       "answer": "Ja, Frau Christine Fuss bietet ein kurzes persönliches unverbindliches Vorgespräch über Ihren individuellen Heilungsplan an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcR6MW0Ey809nI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

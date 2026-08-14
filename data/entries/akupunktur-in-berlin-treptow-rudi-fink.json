@@ -27,6 +27,9 @@
   "email": "rudi@akupunkturpunkt.com",
   "website": "https://akupunkturpunkt.com/",
   "bookingUrl": "https://akupunkturtermin.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC8wbWlVOqEcR7oJZ-U-LWcE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,14 +71,11 @@
     }
   ],
   "images": [
-    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunkteur_Berlin-768x512.jpg",
-    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunktur_Praxisraum_Berlin_1a-e1706699455380-768x512.jpg",
-    "https://akupunkturpunkt.com/wp-content/uploads/2024/02/Rudi_Fink_Akupunktur_2-e1708686101291-768x511.jpg",
-    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Rudi_Fink_Akupunktur_Japanisches_Moxa_1a-e1708685681698-768x512.jpg",
-    "https://akupunkturpunkt.com/wp-content/uploads/2024/01/Qigong_Tuina_Landscape-e1708685904401-768x512.jpg"
+    "/images/entries/akupunktur-in-berlin-treptow-rudi-fink/0.webp",
+    "/images/entries/akupunktur-in-berlin-treptow-rudi-fink/1.webp",
+    "/images/entries/akupunktur-in-berlin-treptow-rudi-fink/2.webp",
+    "/images/entries/akupunktur-in-berlin-treptow-rudi-fink/3.webp",
+    "/images/entries/akupunktur-in-berlin-treptow-rudi-fink/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC8wbWlVOqEcR7oJZ-U-LWcE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 31
+  "faq": []
 }

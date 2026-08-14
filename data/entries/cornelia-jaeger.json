@@ -25,10 +25,11 @@
   "phone": "03047005600",
   "email": "mail@heilpraxispankow.de",
   "website": "http://heilpraktikerinpankow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-f_rJW9SqEcR43PVJwiPoPI",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.heilpraxispankow.de/img/cornelia-jaeger.jpg"
+    "/images/entries/cornelia-jaeger/0.webp"
   ],
   "faq": [
     {
@@ -51,6 +52,5 @@
       "question": "Wann wurde Cornelia Jaeger als Heilpraktikerin tätig?",
       "answer": "Cornelia Jaeger ist seit 2007 als Heilpraktikerin in eigener Praxis tätig."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-f_rJW9SqEcR43PVJwiPoPI"
+  ]
 }

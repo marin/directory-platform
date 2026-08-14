@@ -25,14 +25,17 @@
   "phone": "015224761332",
   "website": "https://www.osteopathie-cranio.de/",
   "bookingUrl": "https://www.osteopathie-cranio.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu7VAvN43qEcRebDgoQAkSDY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.osteopathie-cranio.de/wp-content/uploads/BVO_Kinderosteopathie.png",
-    "https://www.osteopathie-cranio.de/wp-content/uploads/osteopathie.png",
-    "https://www.osteopathie-cranio.de/wp-content/uploads/craniosacral.png",
-    "https://www.osteopathie-cranio.de/wp-content/uploads/babys.png",
-    "https://www.osteopathie-cranio.de/wp-content/uploads/bvo_logo.png"
+    "/images/entries/sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen/0.webp",
+    "/images/entries/sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen/1.webp",
+    "/images/entries/sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen/2.webp",
+    "/images/entries/sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen/3.webp",
+    "/images/entries/sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen/4.webp"
   ],
   "faq": [
     {
@@ -55,8 +58,5 @@
       "question": "Was ist der ganzheitliche Ansatz in der Therapie von Sascha Rieck?",
       "answer": "Der ganzheitliche Ansatz in der Therapie von Sascha Rieck zielt darauf ab, Menschen jeden Alters zu behandeln, einschließlich Erwachsener mit Rückenschmerzen und Babys, die häufig schreien."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu7VAvN43qEcRebDgoQAkSDY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

@@ -24,6 +24,7 @@
   },
   "phone": "015228982186",
   "website": "http://www.eva-ottmer.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx_fDzQVSqEcRU3piI3nH8mI",
   "openingHours": [],
   "offers": [
     {
@@ -36,8 +37,7 @@
     }
   ],
   "images": [
-    "https://www.eva-ottmer.de/wp-content/uploads/2017/08/cropped-eva-ottmer-1.jpg"
+    "/images/entries/heilpraktiker-dr-phil-eva-ottmer/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx_fDzQVSqEcRU3piI3nH8mI"
+  "faq": []
 }

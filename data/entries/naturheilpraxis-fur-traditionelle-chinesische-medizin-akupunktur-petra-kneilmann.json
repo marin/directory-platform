@@ -26,6 +26,9 @@
   "phone": "017665791942",
   "website": "http://www.tcm-akupunktur-berlin.de/",
   "bookingUrl": "https://www.tcm-akupunktur-berlin.de/kontakt-termin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn-4X9VFPqEcR4ZWcJSC0aJU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,7 +71,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/46473486/8461bd28-909f-49b7-9c77-7be3b1315d54.jpg"
+    "/images/entries/naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann/0.webp"
   ],
   "faq": [
     {
@@ -91,8 +94,5 @@
       "question": "Wie kann ich Petra Kneilmann kontaktieren?",
       "answer": "Sie können Petra Kneilmann telefonisch unter 017665791942 oder per E-Mail an pk.akupunktur@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn-4X9VFPqEcR4ZWcJSC0aJU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

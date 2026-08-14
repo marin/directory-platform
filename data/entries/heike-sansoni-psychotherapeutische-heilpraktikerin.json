@@ -26,6 +26,7 @@
   "phone": "01772404257",
   "email": "heike.sansoni@synergetik-berlin.de",
   "website": "http://www.synergetik-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ8wV_Y5RqEcRvyjbxQ8B4Jw",
   "openingHours": [
     {
       "day": "Monday",
@@ -60,11 +61,11 @@
     }
   ],
   "images": [
-    "https://www.synergetik-berlin.de/schwan.jpg",
-    "https://www.synergetik-berlin.de/IMG_0390%20-%20Kopie.JPG",
-    "https://www.synergetik-berlin.de/index.3.jpg",
-    "https://www.synergetik-berlin.de/button1.gif",
-    "https://www.synergetik-berlin.de/button2.gif"
+    "/images/entries/heike-sansoni-psychotherapeutische-heilpraktikerin/0.webp",
+    "/images/entries/heike-sansoni-psychotherapeutische-heilpraktikerin/1.webp",
+    "/images/entries/heike-sansoni-psychotherapeutische-heilpraktikerin/2.webp",
+    "/images/entries/heike-sansoni-psychotherapeutische-heilpraktikerin/3.webp",
+    "/images/entries/heike-sansoni-psychotherapeutische-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -87,6 +88,5 @@
       "question": "Gibt es Parkmöglichkeiten in der Nähe der Praxis?",
       "answer": "Ja, es gibt kostenloses Parken in der Nähe der Praxis."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ8wV_Y5RqEcRvyjbxQ8B4Jw"
+  ]
 }

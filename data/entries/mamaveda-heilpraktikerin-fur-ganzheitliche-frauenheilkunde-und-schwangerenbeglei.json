@@ -25,6 +25,9 @@
   "phone": "017661986626",
   "email": "hello@mama-veda.de",
   "website": "http://mama-veda.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkfQfrMNPqEcR_z0Lq7CC_pE",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 17,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,8 +66,8 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/09eadb_a9ee585d818743acb168d6029233c9f8~mv2.jpg/v1/fill/w_1905,h_680,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/09eadb_a9ee585d818743acb168d6029233c9f8~mv2.jpg",
-    "https://static.wixstatic.com/media/09eadb_35785508d53d4bbea0e6ae666f564e86%7Emv2.png/v1/fit/w_2500,h_1330,al_c/09eadb_35785508d53d4bbea0e6ae666f564e86%7Emv2.png"
+    "/images/entries/mamaveda-heilpraktikerin-fur-ganzheitliche-frauenheilkunde-und-schwangerenbeglei/0.webp",
+    "/images/entries/mamaveda-heilpraktikerin-fur-ganzheitliche-frauenheilkunde-und-schwangerenbeglei/1.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Bietet MAMAVEDA eine kostenlose Erstberatung an?",
       "answer": "Ja, MAMAVEDA bietet ein kostenloses erstes Einführungsgespräch an, um zu besprechen, wie Unterstützung geleistet werden kann."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJkfQfrMNPqEcR_z0Lq7CC_pE",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 17
+  ]
 }

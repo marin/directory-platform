@@ -26,6 +26,9 @@
   "email": "kontakt@naturheilpraxis-in-berlin.com",
   "website": "https://www.naturheilpraxis-in-berlin.com/",
   "bookingUrl": "https://naturheilpraxis-in-berlin.com/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNyw-3QnCOQkRLEMjUXMA7I0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [],
   "offers": [
     {
@@ -58,11 +61,11 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/06/Corona-400x280.jpg",
-    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/06/Guertelrose-400x280.jpg",
-    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2025/03/Herpes-400x280.png",
-    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2026/05/Darmbeschwerden-Darmsanierung-400x280.png",
-    "https://naturheilpraxis-in-berlin.com/wp-content/uploads/2025/08/Plasma_Frequenz-400x280.jpeg"
+    "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/0.webp",
+    "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/1.webp",
+    "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/2.webp",
+    "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/3.webp",
+    "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/4.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Wie kann ich Anett Dubsky kontaktieren?",
       "answer": "Sie können Anett Dubsky per E-Mail unter kontakt@naturheilpraxis-in-berlin.com oder telefonisch unter 015566330663 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNyw-3QnCOQkRLEMjUXMA7I0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

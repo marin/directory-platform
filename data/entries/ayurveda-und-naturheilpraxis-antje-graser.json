@@ -24,6 +24,7 @@
   },
   "phone": "03064169047",
   "website": "http://www.ayurveda-rahnsdorf.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3VLqW43qEcRtlN_DuEFbZ8",
   "openingHours": [
     {
       "day": "Monday",
@@ -48,7 +49,7 @@
   ],
   "offers": [],
   "images": [
-    "http://www.ayurveda-rahnsdorf.de/wp-content/uploads/2015/10/Antje-Graeser_Logo_s1.png"
+    "/images/entries/ayurveda-und-naturheilpraxis-antje-graser/0.webp"
   ],
   "faq": [
     {
@@ -71,6 +72,5 @@
       "question": "Was ist das Ziel der Ayurveda- und Naturheilpraxis Antje Gräser?",
       "answer": "Das Ziel der Praxis ist es, den Patienten einen Zugang zum Ayurveda zu vermitteln und ihnen zu helfen, ein tieferes Verständnis für die erforderlichen Schritte zur Vorbeugung oder Behandlung von Krankheiten zu erlangen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3VLqW43qEcRtlN_DuEFbZ8"
+  ]
 }

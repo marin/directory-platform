@@ -27,6 +27,9 @@
   "email": "kontakt@martinagaede.de",
   "website": "https://www.martinagaede.de/",
   "bookingUrl": "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqdvnSrpPqEcRnQmDl1f7Kw8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -74,10 +77,10 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://static.wixstatic.com/media/2e8c84_6f132761992245cdac2f65c1a8014648~mv2.jpeg/v1/crop/x_1705,y_0,w_4627,h_4221/fill/w_556,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e8c84_6f132761992245cdac2f65c1a8014648~mv2.jpeg",
-    "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
-    "https://static.wixstatic.com/media/2e8c84_e934d165784046948ac234b0480e8fed~mv2.png/v1/fill/w_143,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2025_11_23-Logo_Signet.png"
+    "/images/entries/martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada/0.webp",
+    "/images/entries/martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada/1.webp",
+    "/images/entries/martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada/2.webp",
+    "/images/entries/martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada/3.webp"
   ],
   "faq": [
     {
@@ -100,8 +103,5 @@
       "question": "Bietet Martina Gäde auch ein Erstgespräch an?",
       "answer": "Ja, es gibt ein kostenfreies Erstgespräch von 30 Minuten, um das Anliegen zu klären und zu prüfen, ob eine Zusammenarbeit stimmig ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqdvnSrpPqEcRnQmDl1f7Kw8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

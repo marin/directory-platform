@@ -25,6 +25,9 @@
   },
   "phone": "0308518013",
   "website": "http://www.enmedica.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1-MWHhQqEcR-sWeApaeBKg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -142,11 +145,11 @@
     }
   ],
   "images": [
-    "https://www.enmedica.de/images/1200/Heilpraktiker_Berlin_Jana_Seifert.jpg",
-    "https://www.enmedica.de/images/1200/Goldfischglas_enMedica.jpg",
-    "https://www.enmedica.de/images/1200/Heilpraktiker_Elektroakupunktur.jpg",
-    "https://www.enmedica.de/images/1200/Homoeopathie_Berlin.jpg",
-    "https://www.enmedica.de/images/400/Elektroakupunktur_nach_Voll.jpg"
+    "/images/entries/enmedica-praxis-jana-seifert-team/0.webp",
+    "/images/entries/enmedica-praxis-jana-seifert-team/1.webp",
+    "/images/entries/enmedica-praxis-jana-seifert-team/2.webp",
+    "/images/entries/enmedica-praxis-jana-seifert-team/3.webp",
+    "/images/entries/enmedica-praxis-jana-seifert-team/4.webp"
   ],
   "faq": [
     {
@@ -169,8 +172,5 @@
       "question": "Was ist das besondere Konzept der Praxis enMedica?",
       "answer": "Das besondere Konzept der Praxis enMedica ist, dass die Therapeuten sich Zeit nehmen, um die Patienten und ihre Gesundheitsprobleme zu verstehen, und sie begleiten die Patienten über mehrere Termine hinweg, um eine maßgeschneiderte Therapie zu entwickeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx1-MWHhQqEcR-sWeApaeBKg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 30
+  ]
 }

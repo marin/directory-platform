@@ -26,11 +26,14 @@
   "email": "info@naturheilpraxis-akazienstr.de",
   "website": "http://www.naturheilpraxis-akazienstr.de/",
   "bookingUrl": "https://www.naturheilpraxis-akazienstr.de/naturheilpraxis-berlin-schoeneberg/kontakt-naturheilpraxis.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgw4ARkFQqEcRiC2UH16yJ5U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-akazienstr.de/img-naturheilpraxis-schoeneberg-akazienstrasse/collage-naturheilpraxis-akazienstrasse-berlin-schoeneberg.jpg",
-    "https://www.naturheilpraxis-akazienstr.de/img-naturheilpraxis-schoeneberg-akazienstrasse/title-naturheilpraxis-akazienstrasse-berlin.gif"
+    "/images/entries/naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz/0.webp",
+    "/images/entries/naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz/1.webp"
   ],
   "faq": [
     {
@@ -53,8 +56,5 @@
       "question": "Wann hat die Naturheilpraxis geöffnet?",
       "answer": "Die Öffnungszeiten der Naturheilpraxis sind im Kontext nicht angegeben. Bitte kontaktieren Sie die Praxis direkt für Informationen zu den Öffnungszeiten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgw4ARkFQqEcRiC2UH16yJ5U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

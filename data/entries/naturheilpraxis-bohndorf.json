@@ -25,6 +25,7 @@
   "phone": "015786421292",
   "website": "https://conny-bohndorf.de/",
   "bookingUrl": "https://conny-bohndorf.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJURmmHgRZqEcR1HjfrkBulZ8",
   "openingHours": [
     {
       "day": "Monday",
@@ -84,8 +85,8 @@
     }
   ],
   "images": [
-    "https://conny-bohndorf.de/wp-content/uploads/2021/02/Conny_Bohndorf_ueber_mich_portrait_02.jpg",
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png"
+    "/images/entries/naturheilpraxis-bohndorf/0.webp",
+    "/images/entries/naturheilpraxis-bohndorf/1.webp"
   ],
   "faq": [
     {
@@ -108,6 +109,5 @@
       "question": "Wie kann ich die Naturheilpraxis Bohndorf telefonisch erreichen?",
       "answer": "Sie können die Naturheilpraxis Bohndorf unter der Telefonnummer 015786421292 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJURmmHgRZqEcR1HjfrkBulZ8"
+  ]
 }

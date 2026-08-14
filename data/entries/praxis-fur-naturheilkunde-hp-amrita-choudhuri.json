@@ -25,6 +25,7 @@
   "phone": "03070767007",
   "website": "http://www.hp-amrita.com/",
   "bookingUrl": "http://www.hp-amrita.com/index.php?inhalt=6",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX8-Jj2BEqEcRlfCzI-4sfyw",
   "openingHours": [
     {
       "day": "Monday",
@@ -75,7 +76,7 @@
     }
   ],
   "images": [
-    "http://www.hp-amrita.com/roh/images/ac.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-hp-amrita-choudhuri/0.webp"
   ],
   "faq": [
     {
@@ -98,6 +99,5 @@
       "question": "Wie kann ich einen Termin in der Praxis buchen?",
       "answer": "Sie können einen Termin telefonisch unter 03070767007 oder über die Buchungsseite auf der Website http://www.hp-amrita.com/index.php?inhalt=6 buchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX8-Jj2BEqEcRlfCzI-4sfyw"
+  ]
 }

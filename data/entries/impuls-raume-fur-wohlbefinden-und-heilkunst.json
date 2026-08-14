@@ -25,6 +25,9 @@
   },
   "phone": "03041995406",
   "website": "http://www.impuls-in-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ88uFGbBPqEcRcLj-ICa9y2g",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 19,
   "openingHours": [],
   "offers": [
     {
@@ -45,14 +48,11 @@
     }
   ],
   "images": [
-    "https://impuls-in-berlin.de/wp-content/uploads/2016/04/floral-decor.png",
-    "https://impuls-in-berlin.de/wp-content/uploads/2016/05/ico-trainer.png",
-    "https://impuls-in-berlin.de/wp-content/uploads/2023/04/doreen_platz_g_0.jpg",
-    "https://impuls-in-berlin.de/wp-content/uploads/2023/04/christine_fuss_g.jpg",
-    "https://impuls-in-berlin.de/wp-content/uploads/2023/04/julia_schwenke_g.jpg"
+    "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/0.webp",
+    "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/1.webp",
+    "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/2.webp",
+    "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/3.webp",
+    "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ88uFGbBPqEcRcLj-ICa9y2g",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 19
+  "faq": []
 }

@@ -27,6 +27,9 @@
   "email": "info@beritjuliefriz.de",
   "website": "https://www.beritjuliefriz.de/",
   "bookingUrl": "https://www.beritjuliefriz.de/#kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVWxehVQqEcR-i6ZAOvPsds",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -101,11 +104,11 @@
     }
   ],
   "images": [
-    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_unten.png",
-    "https://www.beritjuliefriz.de/application/themes/bjf/images/Mehr_Button.png",
-    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_rechts-gold.png",
-    "https://www.beritjuliefriz.de/application/themes/bjf/images/Pfeil_unten-gold.png",
-    "https://www.beritjuliefriz.de/application/themes/bjf/images/Close_x.png"
+    "/images/entries/berit-julie-friz-supervision-aufstellungen-homoopathie/0.webp",
+    "/images/entries/berit-julie-friz-supervision-aufstellungen-homoopathie/1.webp",
+    "/images/entries/berit-julie-friz-supervision-aufstellungen-homoopathie/2.webp",
+    "/images/entries/berit-julie-friz-supervision-aufstellungen-homoopathie/3.webp",
+    "/images/entries/berit-julie-friz-supervision-aufstellungen-homoopathie/4.webp"
   ],
   "faq": [
     {
@@ -128,8 +131,5 @@
       "question": "Wie kann ich Berit Julie Friz kontaktieren?",
       "answer": "Sie können Berit Julie Friz telefonisch unter 03035053190 oder per E-Mail an info@beritjuliefriz.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVWxehVQqEcR-i6ZAOvPsds",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

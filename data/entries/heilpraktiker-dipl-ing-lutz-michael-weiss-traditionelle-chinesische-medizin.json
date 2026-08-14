@@ -26,6 +26,9 @@
   "phone": "01772169441",
   "email": "kontakt@medqigong.de",
   "website": "https://www.medqigong.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOVT_eOY3qEcRymCZVZ8cG9g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -46,12 +49,9 @@
     }
   ],
   "images": [
-    "https://www.medqigong.de/wp-content/uploads/go-x/u/a1ca3da3-2ef3-4241-b1f4-340dee63b3e3/l0,t0,w274,h62/image.png",
-    "https://www.medqigong.de/wp-content/uploads/go-x/u/7e857314-1dee-4683-9dd7-f6f443ef7089/l0,t0,w818,h1059/image-768x994.png",
-    "https://medqigong.de/wp-content/uploads/go-x/u/7e0f09ba-a442-475a-bd4d-28235497650e/image.png"
+    "/images/entries/heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin/0.webp",
+    "/images/entries/heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin/1.webp",
+    "/images/entries/heilpraktiker-dipl-ing-lutz-michael-weiss-traditionelle-chinesische-medizin/2.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOVT_eOY3qEcRymCZVZ8cG9g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

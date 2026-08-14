@@ -26,6 +26,7 @@
   "phone": "03082007867",
   "website": "http://www.wiebke-kossecki.de/",
   "bookingUrl": "https://www.wiebke-kossecki.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ07Tp0vBQqEcRmEfex_AYj-Q",
   "openingHours": [],
   "offers": [
     {
@@ -46,9 +47,9 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=310x10000:format=jpg/path/s2361cdf7ee3c9b0b/image/if744a491cbbeaa3e/version/1392660630/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=298x10000:format=jpg/path/s2361cdf7ee3c9b0b/image/i23fa91e581dd8900/version/1493561768/image.jpg",
-    "https://u.jimcdn.com/cms/o/s2361cdf7ee3c9b0b/emotion/crop/header.jpg?t=1383656312"
+    "/images/entries/wiebke-kossecki-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/wiebke-kossecki-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/wiebke-kossecki-heilpraktikerin-fur-psychotherapie/2.webp"
   ],
   "faq": [
     {
@@ -71,6 +72,5 @@
       "question": "Welche Öffnungszeiten hat die Praxis?",
       "answer": "Die Öffnungszeiten sind nicht angegeben, jedoch werden Termine nach 18 Uhr und am Wochenende angeboten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ07Tp0vBQqEcRmEfex_AYj-Q"
+  ]
 }

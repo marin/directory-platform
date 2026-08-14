@@ -27,6 +27,9 @@
   "phone": "03061084377",
   "website": "https://www.naturheilpraxis-kalisch.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/thomas-kalisch-berlin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGWJi8jtRqEcRPmnRTdLX4fY",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -82,10 +85,10 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-kalisch.de/assets/images/head-massage-3530560-676x451.jpg",
-    "https://www.naturheilpraxis-kalisch.de/assets/images/bag-1868758-676x451.jpg",
-    "https://www.naturheilpraxis-kalisch.de/assets/images/horizon-2602227-2000x1333.jpg",
-    "https://www.naturheilpraxis-kalisch.de/assets/images/logo-heilpraktiker-thomas-kalisch-negativ-72dpi-rgb-th-100x101.png"
+    "/images/entries/naturheilpraxis-thomas-kalisch/0.webp",
+    "/images/entries/naturheilpraxis-thomas-kalisch/1.webp",
+    "/images/entries/naturheilpraxis-thomas-kalisch/2.webp",
+    "/images/entries/naturheilpraxis-thomas-kalisch/3.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Wie kann ich einen Termin buchen?",
       "answer": "Sie können einen Termin für die Naturheilpraxis Thomas Kalisch über die Buchungsseite auf Doctolib unter https://www.doctolib.de/osteopath/berlin/thomas-kalisch-berlin buchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGWJi8jtRqEcRPmnRTdLX4fY",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 20
+  ]
 }

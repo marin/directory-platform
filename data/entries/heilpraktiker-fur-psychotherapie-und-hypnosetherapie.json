@@ -27,6 +27,9 @@
   "phone": "03028391378",
   "website": "https://lebensberatung-hypnose-adlershof.de/",
   "bookingUrl": "https://www.lebensberatung-hypnose-adlershof.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX39-AYJIqEcRuPEDbtpvIZQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +59,8 @@
   ],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=820x10000:format=jpg/path/s47437749bdb58e7c/image/i3be014a7fc02e753/version/1448387588/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s47437749bdb58e7c/backgroundarea/id0d6ecdc690f10a6/version/1527083439/image.jpg"
+    "/images/entries/heilpraktiker-fur-psychotherapie-und-hypnosetherapie/0.webp",
+    "/images/entries/heilpraktiker-fur-psychotherapie-und-hypnosetherapie/1.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich den Heilpraktiker kontaktieren?",
       "answer": "Sie können den Heilpraktiker telefonisch unter 03028391378 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX39-AYJIqEcRuPEDbtpvIZQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

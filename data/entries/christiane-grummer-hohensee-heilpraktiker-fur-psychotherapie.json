@@ -26,6 +26,7 @@
   "email": "kundenservice@jameda.de",
   "website": "https://www.jameda.de/christiane-gruemmer-hohensee/heilpraktiker-fuer-psychotherapie/berlin?utm_source=google&utm_medium=gmb&utm_campaign=385111&utm_content=website",
   "bookingUrl": "https://www.jameda.de/leistungen/psychotherapie-folgetermin/berlin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9TLLIb1RqEcRNFyBwn4bnHE",
   "openingHours": [],
   "offers": [
     {
@@ -50,10 +51,10 @@
     }
   ],
   "images": [
-    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b321cc/b321cc8b487298fd4c34e4b90436c2e5_220_square.jpg",
-    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b321cc/b321cc8b487298fd4c34e4b90436c2e5_80_square.jpg",
-    "https://platform.docplanner.com/img/general/online-consultations/profile-video-consultation-card.png?1853743398",
-    "https://www.jameda.de/img/de/avatar/user_default.png"
+    "/images/entries/christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie/3.webp"
   ],
   "faq": [
     {
@@ -76,6 +77,5 @@
       "question": "Wie kann ich Christiane Grümmer-Hohensee kontaktieren?",
       "answer": "Sie können Christiane Grümmer-Hohensee per E-Mail unter kundenservice@jameda.de oder telefonisch unter 030 32703855 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9TLLIb1RqEcRNFyBwn4bnHE"
+  ]
 }

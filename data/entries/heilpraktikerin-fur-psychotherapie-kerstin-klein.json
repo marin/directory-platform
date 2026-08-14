@@ -27,6 +27,7 @@
   "email": "kontakt@praxis-kerstin-klein.de",
   "website": "https://www.praxis-kerstin-klein.de/",
   "bookingUrl": "https://www.praxis-kerstin-klein.de/#kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGY1QUnxRqEcR69axnJa0PGs",
   "openingHours": [
     {
       "day": "Monday",
@@ -117,11 +118,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-kerstin-klein.de/wp-content/uploads/2021/03/banner.jpg",
-    "https://www.praxis-kerstin-klein.de/wp-content/uploads/2021/03/kerstin-klein-1.jpg",
-    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/psychologische-beratung-icon-p54f1jo4timbzpcm2an5dx2iox52p4pt6jw61o191c.png",
-    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/gespraechstherapie-icon-p54f1klz0cni7zue1lba8znz7jblnnfazzg34cov7k.png",
-    "https://www.praxis-kerstin-klein.de/wp-content/uploads/elementor/thumbs/hypnotherapie-icon-p54f1jo4timak54wuyxoe0rf2cndpiofeepipcz7cw.png"
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-klein/0.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-klein/1.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-klein/2.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-klein/3.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-kerstin-klein/4.webp"
   ],
   "faq": [
     {
@@ -144,6 +145,5 @@
       "question": "Wie kann ich Kerstin Klein kontaktieren?",
       "answer": "Sie können Kerstin Klein telefonisch unter 03064310690 oder per E-Mail an kontakt@praxis-kerstin-klein.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGY1QUnxRqEcR69axnJa0PGs"
+  ]
 }

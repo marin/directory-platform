@@ -26,6 +26,9 @@
   },
   "phone": "03084314439",
   "website": "http://akupunktur-dr.berlin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5cRO0PVaqEcRPE1MYfdSQEU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -50,10 +53,10 @@
   ],
   "offers": [],
   "images": [
-    "http://akupunktur-dr.berlin/wp-content/uploads/2016/06/sabine-merge-praxis-0-400x533.jpg",
-    "http://akupunktur-dr.berlin/wp-content/uploads/2016/06/sabine-merge-schild-400x533.jpg",
-    "http://akupunktur-dr.berlin/wp-content/uploads/2016/07/beratung-400x266.jpg",
-    "http://akupunktur-dr.berlin/wp-content/uploads/2016/07/praxis-mitarbeiter-400x267.jpg"
+    "/images/entries/sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin/0.webp",
+    "/images/entries/sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin/1.webp",
+    "/images/entries/sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin/2.webp",
+    "/images/entries/sabine-merge-arztin-fur-akupunktur-ganzheitliche-medizin/3.webp"
   ],
   "faq": [
     {
@@ -76,8 +79,5 @@
       "question": "Was ist das Ziel der Behandlung in der Praxis von Sabine Merge?",
       "answer": "Das Ziel der Behandlung in der Praxis von Sabine Merge ist es, die Gesundheit der Patienten zu fördern."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5cRO0PVaqEcRPE1MYfdSQEU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

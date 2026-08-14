@@ -26,6 +26,9 @@
   "phone": "015123480399",
   "website": "https://www.liebscher-bracht.berlin/",
   "bookingUrl": "https://calendar.app.google/UPDwKScYzLQ4r6C8A",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKVumlBRRqEcR_3W0xFX0OKw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -78,7 +81,7 @@
     }
   ],
   "images": [
-    "http://static1.squarespace.com/static/66ae3ac97faba9099bfe3a0a/t/66ae77d0ab77b04087ed42c4/1722709968425/LiebscherBracht_grau+%281%29.png?format=1500w"
+    "/images/entries/liebscher-bracht-berlin-peter-giese-heilpraktiker-schmerztherapie-pravention/0.webp"
   ],
   "faq": [
     {
@@ -101,8 +104,5 @@
       "question": "Wo befindet sich die Praxis von Peter Giese?",
       "answer": "Die Praxis befindet sich in der Wiclefstraße 47, 10551 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKVumlBRRqEcR_3W0xFX0OKw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

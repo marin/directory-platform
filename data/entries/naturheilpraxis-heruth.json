@@ -26,6 +26,9 @@
   "phone": "03077393442",
   "website": "http://www.naturheilpraxis-heruth.de/",
   "bookingUrl": "https://www.naturheilpraxis-heruth.de/kontakt-1",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz81_uPxaqEcR-EqJTulwT0k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -78,7 +81,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-heruth.de/images/0cols/logo.png?t=2026-08-13"
+    "/images/entries/naturheilpraxis-heruth/0.webp"
   ],
   "faq": [
     {
@@ -101,8 +104,5 @@
       "question": "Wie kann ich die Naturheilpraxis Heruth kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Heruth telefonisch unter 03077393442 oder über die Webseite kontaktieren: http://www.naturheilpraxis-heruth.de/."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz81_uPxaqEcR-EqJTulwT0k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

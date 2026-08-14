@@ -26,6 +26,9 @@
   "email": "praxis@helene-lange.com",
   "website": "https://www.helene-lange.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/helene-magdalena-lange",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsXZh4WFPqEcRh7Ud6A8yhoo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -61,11 +64,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/f08a4530-7e10-4478-aa5c-49a0e43cfc49/pexels-peter-de-vink-288978-849403.jpg",
-    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/6e5c3907-a3d4-4886-a435-d377907cb109/d927dd41-53f1-427a-90cf-73b24ea36076.JPG",
-    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/e39083f3-e892-46f5-a059-276a17d9552d/pexels-juan-antonio-garcia-filoso-rodriguez-501825273-17108475.jpg",
-    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/9c03fa77-25f5-402e-8f05-5f6e99433452/pexels-pixabay-275768.jpg",
-    "https://images.squarespace-cdn.com/content/v1/67b9f0d21f669159173d5939/1cbbbd20-e985-4629-840a-ad907b1ed588/moxibustion-chinese-medicine.jpg"
+    "/images/entries/helene-lange-heilpraktikerin/0.webp",
+    "/images/entries/helene-lange-heilpraktikerin/1.webp",
+    "/images/entries/helene-lange-heilpraktikerin/2.webp",
+    "/images/entries/helene-lange-heilpraktikerin/3.webp",
+    "/images/entries/helene-lange-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Wie kann ich Helene Lange kontaktieren?",
       "answer": "Sie können Helene Lange telefonisch unter 015756379500 oder per E-Mail an praxis@helene-lange.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsXZh4WFPqEcRh7Ud6A8yhoo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

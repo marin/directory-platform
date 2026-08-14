@@ -25,6 +25,9 @@
   "phone": "03070074800",
   "email": "marlies@heilpraktikerin-zymara.de",
   "website": "http://www.heilpraktikerin-zymara.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTapEhnVQqEcREO77K7fTBlw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -37,7 +40,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-zymara.de/wp-content/themes/NHP_final/kontakt_button.png"
+    "/images/entries/marlies-zymara-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -60,8 +63,5 @@
       "question": "Wie lange praktiziert Marlies Zymara bereits?",
       "answer": "Marlies Zymara praktiziert seit mehr als 20 Jahren in der Naturheilkunde."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTapEhnVQqEcREO77K7fTBlw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

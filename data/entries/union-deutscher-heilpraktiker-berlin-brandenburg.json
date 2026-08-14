@@ -26,6 +26,7 @@
   "email": "kontakt@udh-ost.de",
   "website": "https://udh-ost.de/",
   "bookingUrl": "http://udh-ost.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS8INYKVRqEcRp98UAESBxLM",
   "openingHours": [],
   "offers": [
     {
@@ -58,11 +59,11 @@
     }
   ],
   "images": [
-    "https://udh-ost.de/wp-content/uploads/2023/07/Kachel-Verband.webp",
-    "https://udh-ost.de/wp-content/uploads/2023/07/kachel-news.webp",
-    "https://udh-ost.de/wp-content/uploads/2023/07/kachel-kontakt.webp",
-    "https://udh-ost.de/wp-content/uploads/2023/09/1680416841065-2.jpeg",
-    "https://udh-ost.de/wp-content/uploads/2023/09/UDH-Logo.png"
+    "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/0.webp",
+    "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/1.webp",
+    "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/2.webp",
+    "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/3.webp",
+    "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/4.webp"
   ],
   "faq": [
     {
@@ -81,6 +82,5 @@
       "question": "Wie kann ich Mitglied bei der Union Deutscher Heilpraktiker werden?",
       "answer": "Um Mitglied zu werden, können Sie die entsprechende Seite auf der Website der Union Deutscher Heilpraktiker besuchen und den Anweisungen folgen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS8INYKVRqEcRp98UAESBxLM"
+  ]
 }

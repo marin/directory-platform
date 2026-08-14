@@ -25,6 +25,7 @@
   "phone": "03053168555",
   "email": "info@naturheilpraxis-stephan.com",
   "website": "http://naturheilpraxis-stephan.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn4X5AnRQqEcRrUpwQxyzYx0",
   "openingHours": [],
   "offers": [
     {
@@ -53,9 +54,9 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/03/Gabriele-Stephan-Naturheilpraxis.jpg",
-    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/07/Es-ist-Zeit-sich-gut-zu-fuehlen-200x200.png",
-    "https://naturheilpraxis-stephan.com/wp-content/uploads/2018/06/Gabriele-Stephan-Gesundheitsvorsorge-vitaler-Koerper-500x530.jpg"
+    "/images/entries/naturheilpraxis-stephan/0.webp",
+    "/images/entries/naturheilpraxis-stephan/1.webp",
+    "/images/entries/naturheilpraxis-stephan/2.webp"
   ],
   "faq": [
     {
@@ -78,6 +79,5 @@
       "question": "Bietet die Naturheilpraxis auch eine Blut- und Labordiagnostik an?",
       "answer": "Ja, die Naturheilpraxis bietet medizinisch/ganzheitliche Blut- und Labordiagnostik an, um die Ursachen möglicher Erkrankungen frühzeitig zu erkennen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn4X5AnRQqEcRrUpwQxyzYx0"
+  ]
 }

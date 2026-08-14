@@ -25,6 +25,9 @@
   "phone": "01636364340",
   "email": "sommer.julian@gmail.com",
   "website": "https://heilpraxis-sommer.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9eMPdclPqEcRgvUeNqh5oJs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,10 +57,7 @@
   ],
   "offers": [],
   "images": [
-    "https://heilpraxis-sommer.de/app/uploads/2022/05/Zentherapie-Berlin-Kontakt-Heilpraxis-Julian-Sommer-Willkommen-1200-628.png"
+    "/images/entries/julian-sommer-heilpraktiker-fur-zentherapie-triggerpunkttherapie-tiefe-bindegewe/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9eMPdclPqEcRgvUeNqh5oJs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

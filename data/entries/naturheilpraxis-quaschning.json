@@ -26,6 +26,9 @@
   "email": "volker@quaschning.de",
   "website": "http://www.naturheilpraxis-quaschning.de/",
   "bookingUrl": "https://www.naturheilpraxis-quaschning.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDf71ZU9IqEcR_rQGoxYC7n8",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -108,11 +111,11 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-quaschning.de/s/img/emotionheader.png?1590777373.980px.1px",
-    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_14415332.jpg?t=1740643156",
-    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_12386134.JPG?t=1590766072",
-    "https://www.naturheilpraxis-quaschning.de/s/cc_images/cache_12386135.jpg?t=1740642567",
-    "https://cdn.eu.mywebsite-editor.com/s/img/cc/printer.gif"
+    "/images/entries/naturheilpraxis-quaschning/0.webp",
+    "/images/entries/naturheilpraxis-quaschning/1.webp",
+    "/images/entries/naturheilpraxis-quaschning/2.webp",
+    "/images/entries/naturheilpraxis-quaschning/3.webp",
+    "/images/entries/naturheilpraxis-quaschning/4.webp"
   ],
   "faq": [
     {
@@ -135,8 +138,5 @@
       "question": "Wo befindet sich die Naturheilpraxis Quaschning?",
       "answer": "Die Naturheilpraxis Quaschning befindet sich in der Bahnhofstraße 41, 12555 Berlin, im Stadtteil Treptow-Köpenick."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDf71ZU9IqEcR_rQGoxYC7n8",
-  "googleMapsRating": 4.2,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -27,6 +27,9 @@
   "phone": "017684711522",
   "website": "http://www.praxis-freimuth.de/",
   "bookingUrl": "https://praxis-freimuth.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJg0Ba1Q1OqEcR933_FLpwWb4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -47,9 +50,9 @@
     }
   ],
   "images": [
-    "https://praxis-freimuth.de/wp-content/uploads/2025/11/IMG_9911-2-3-768x1024.jpeg",
-    "https://praxis-freimuth.de/wp-content/uploads/elementor/thumbs/IMG_2875-2-rmoiy2p0gc5w8dtmyvmdgsvm0i6azb9t2suec62czk.jpeg",
-    "https://praxis-freimuth.de/wp-content/uploads/2025/11/IMG_8834-2.jpeg"
+    "/images/entries/heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth/0.webp",
+    "/images/entries/heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth/1.webp",
+    "/images/entries/heilpraktikerpraxis-und-coaching-in-berlin-weissensee-beate-freimuth/2.webp"
   ],
   "faq": [
     {
@@ -68,8 +71,5 @@
       "question": "Wie kann ich Beate Freimuth kontaktieren?",
       "answer": "Beate Freimuth kann telefonisch unter 017684711522 oder über die Website http://www.praxis-freimuth.de/ kontaktiert werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJg0Ba1Q1OqEcR933_FLpwWb4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

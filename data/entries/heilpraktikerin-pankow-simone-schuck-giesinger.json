@@ -25,13 +25,14 @@
   "phone": "01781889905",
   "website": "https://praxis-heilimpuls.de/",
   "bookingUrl": "https://praxis-heilimpuls.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYDHN11SqEcRcgTGaDMyngs",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_1.HilfeHomoeopathie_yoann-boyer-185507-e1710962812354-1140x572.jpg",
-    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_Lotusbluete_shutterstock_35751712_3-300x228.jpg",
-    "https://praxis-heilimpuls.de/wp-content/uploads/IMG_8222-Portr%C3%A4t-263x300.jpeg",
-    "https://praxis-heilimpuls.de/wp-content/uploads/2017/04/PraxisHeilimpuls_1.HilfeHomoeopathie_yoann-boyer-185507-e1710962812354.jpg"
+    "/images/entries/heilpraktikerin-pankow-simone-schuck-giesinger/0.webp",
+    "/images/entries/heilpraktikerin-pankow-simone-schuck-giesinger/1.webp",
+    "/images/entries/heilpraktikerin-pankow-simone-schuck-giesinger/2.webp",
+    "/images/entries/heilpraktikerin-pankow-simone-schuck-giesinger/3.webp"
   ],
   "faq": [
     {
@@ -54,6 +55,5 @@
       "question": "Wie viele Jahre Erfahrung hat Heilpraktikerin Simone Schuck-Giesinger in der Therapie?",
       "answer": "Sie hat 20 Jahre Erfahrung in der Therapie und 15 Jahre Erfahrung im Coaching."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYDHN11SqEcRcgTGaDMyngs"
+  ]
 }

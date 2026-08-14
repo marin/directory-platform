@@ -26,6 +26,9 @@
   "phone": "0303015772",
   "email": "info@chisanatura.com",
   "website": "https://www.chisanatura.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjZloNMRQqEcRlVdrPqtw7eA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,7 +62,7 @@
     }
   ],
   "images": [
-    "https://www.chisanatura.com/wp-content/uploads/2022/03/chisanatura-profilbilder-martina_merlaender.jpg"
+    "/images/entries/chisanatura-osteopathie-naturheilkunde/0.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Wer ist die behandelnde Therapeutin bei ChiSaNatura?",
       "answer": "Die behandelnde Therapeutin ist Martina Merländer, die auf Osteopathie und Naturheilkunde spezialisiert ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjZloNMRQqEcRlVdrPqtw7eA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

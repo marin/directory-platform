@@ -26,6 +26,9 @@
   "email": "natur@heilpraxis-wellmann.de",
   "website": "http://www.heilpraxis-wellmann.de/",
   "bookingUrl": "https://www.heilpraxis-wellmann.de/kontakt-praxis/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9QQ8wxlGqEcRB1fO7_YJA3E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -126,10 +129,10 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-wellmann.de/s/img/emotionheader.jpg?1780395118.960px.374px",
-    "https://www.heilpraxis-wellmann.de/s/cc_images/cache_2485692575.png?t=1744530339",
-    "https://cdn.website-start.de/s/img/cc/printer.gif",
-    "https://www.heilpraxis-wellmann.de/s/misc/logo.png?t=1783521455"
+    "/images/entries/naturheilpraxis-ruth-wellmann/0.webp",
+    "/images/entries/naturheilpraxis-ruth-wellmann/1.webp",
+    "/images/entries/naturheilpraxis-ruth-wellmann/2.webp",
+    "/images/entries/naturheilpraxis-ruth-wellmann/3.webp"
   ],
   "faq": [
     {
@@ -152,8 +155,5 @@
       "question": "Wie kann ich die Naturheilpraxis Ruth Wellmann kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Ruth Wellmann telefonisch unter 03063103757 oder per E-Mail an natur@heilpraxis-wellmann.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9QQ8wxlGqEcRB1fO7_YJA3E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

@@ -24,6 +24,9 @@
   },
   "phone": "01796046939",
   "website": "https://www.osteopathieundheileurythmie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7lInZlZqEcRAhFvGIe1Kik",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +56,7 @@
   ],
   "offers": [],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/348430159/1ceedb37-5c9a-469f-a312-7e5410e50a6e.jpg"
+    "/images/entries/praxis-fur-osteopathie-und-heileurythmie-johanne-wessels/0.webp"
   ],
   "faq": [
     {
@@ -72,8 +75,5 @@
       "question": "Welche Dienstleistungen werden in der Praxis angeboten?",
       "answer": "In der Praxis werden Osteopathie und Heileurythmie angeboten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7lInZlZqEcRAhFvGIe1Kik",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

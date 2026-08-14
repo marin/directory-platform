@@ -28,6 +28,9 @@
   "email": "info@psychoressourcen.de",
   "website": "https://hypnosetherapie-hoerl.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ksymena-hoerl?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_cf1zDhQqEcRVAyFw0GSiqc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 24,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -72,11 +75,11 @@
     }
   ],
   "images": [
-    "https://hypnosetherapie-hoerl.de/wp-content/uploads/Hypnose-Hypnosetherapie-3-scaled.jpg",
-    "https://hypnosetherapie-hoerl.de/wp-content/uploads/Hypnose-Hypnosetherapie-mobile-1.jpg",
-    "https://hypnosetherapie-hoerl.de/wp-content/uploads/2025/12/Selbstbewusstsein_Selbstliebe_Selbstvertrauen_Selbstwert-1024x1024.jpg",
-    "https://hypnosetherapie-hoerl.de/wp-content/uploads/2026/01/Hypnose-Hypnosetherapie.jpg",
-    "https://hypnosetherapie-hoerl.de/wp-content/uploads/Hypnose-Hypnotherapie-m.jpg"
+    "/images/entries/praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie/0.webp",
+    "/images/entries/praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie/1.webp",
+    "/images/entries/praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie/2.webp",
+    "/images/entries/praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie/3.webp",
+    "/images/entries/praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie/4.webp"
   ],
   "faq": [
     {
@@ -99,8 +102,5 @@
       "question": "Wie kann Hypnose helfen?",
       "answer": "Hypnose hilft, indem sie einen Zustand tiefer Entspannung (Trance) schafft, der den Zugang zum Unbewussten öffnet, wo Emotionen, Denk- und Verhaltensmuster angesiedelt sind und beeinflussbar werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_cf1zDhQqEcRVAyFw0GSiqc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 24
+  ]
 }

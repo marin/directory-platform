@@ -26,6 +26,9 @@
   "email": "massgenberlin@gmx.de",
   "website": "https://massagenberlin.com/",
   "bookingUrl": "https://massagenberlin.com/kalender/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYPgxaMhZUERbTgCHJE3DNc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 111,
   "openingHours": [
     {
       "day": "Monday",
@@ -126,11 +129,11 @@
     }
   ],
   "images": [
-    "https://massagenberlin.com/wp-content/uploads/2025/07/2.webp",
-    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-00_59_12.png",
-    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-01_01_29.png",
-    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-01_07_00.png",
-    "https://massagenberlin.com/wp-content/uploads/2025/09/ChatGPT-Image-12.-Aug.-2025-00_45_41.png"
+    "/images/entries/massagenberlin-heilpraktiker-martin-grutz/0.webp",
+    "/images/entries/massagenberlin-heilpraktiker-martin-grutz/1.webp",
+    "/images/entries/massagenberlin-heilpraktiker-martin-grutz/2.webp",
+    "/images/entries/massagenberlin-heilpraktiker-martin-grutz/3.webp",
+    "/images/entries/massagenberlin-heilpraktiker-martin-grutz/4.webp"
   ],
   "faq": [
     {
@@ -153,8 +156,5 @@
       "question": "Wie kann ich Martin Grütz kontaktieren?",
       "answer": "Sie können Martin Grütz telefonisch unter 01785555838 oder per E-Mail an massgenberlin@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnYPgxaMhZUERbTgCHJE3DNc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 111
+  ]
 }

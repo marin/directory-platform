@@ -27,11 +27,14 @@
   "email": "info@hypnose-koepenick.de",
   "website": "https://www.hypnose-koepenick.de/",
   "bookingUrl": "https://hypnose-koepenick.de/?page_id=15/%20%22Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIYsB63FIqEcRPIp7SBqp_Mo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 47,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.hypnose-koepenick.de/wp-content/uploads/header-image-kk.jpg",
-    "https://www.hypnose-koepenick.de/wp-content/uploads/image-praxis-ar.png"
+    "/images/entries/hypnosepraxis-kellina-klein/0.webp",
+    "/images/entries/hypnosepraxis-kellina-klein/1.webp"
   ],
   "faq": [
     {
@@ -54,8 +57,5 @@
       "question": "Welche Probleme können mit Hypnose behandelt werden?",
       "answer": "Mit Hypnose können verschiedene Probleme behandelt werden, darunter Rauchentwöhnung, Gewichtsabnahme, Depressionen, Traumata, Ängste, Schlafstörungen, Trauer, Zwänge und Süchte."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIYsB63FIqEcRPIp7SBqp_Mo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 47
+  ]
 }

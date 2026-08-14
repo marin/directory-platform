@@ -27,6 +27,9 @@
   "email": "kontakt@heilimpulse-berlin.de",
   "website": "http://www.heilimpulse-berlin.de/",
   "bookingUrl": "https://www.heilimpulse-berlin.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYxHgCv5NqEcRx_6OKmbyqWs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -101,11 +104,11 @@
     }
   ],
   "images": [
-    "https://www.heilimpulse-berlin.de/images/banner-oben/home/nora-sonnenberg-mobil.jpg",
-    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/gestalt-a.png",
-    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/poly-a.png",
-    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/eft-a.png",
-    "https://www.heilimpulse-berlin.de/images/home-zeichnungen/ritual-a.png"
+    "/images/entries/praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie/2.webp",
+    "/images/entries/praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie/3.webp",
+    "/images/entries/praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -128,8 +131,5 @@
       "question": "Wo befindet sich die Praxis für Heilimpulse?",
       "answer": "Die Praxis befindet sich in der Schwedenstraße 15a, 13357 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYxHgCv5NqEcRx_6OKmbyqWs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 19
+  ]
 }

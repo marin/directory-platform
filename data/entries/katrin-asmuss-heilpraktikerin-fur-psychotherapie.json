@@ -26,6 +26,7 @@
   "phone": "015115766322",
   "website": "http://www.heilpraxis-adlershof.com/",
   "bookingUrl": "https://katrinasmuss.wordpress.com/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJx-Ufu5JqEcRCGcHFOh9BFc",
   "openingHours": [],
   "offers": [
     {
@@ -34,10 +35,10 @@
     }
   ],
   "images": [
-    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2020/06/img_3794.jpg",
-    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2018/09/stethoscope-1584222__340.jpg",
-    "https://heilpraxisadlershof.wordpress.com/wp-content/uploads/2018/09/stethoscope-1584222__340.jpg?w=640",
-    "https://s0.wp.com/i/logo/wpcom-gray-white.png?m=1479929237i"
+    "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/2.webp",
+    "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/3.webp"
   ],
   "faq": [
     {
@@ -60,6 +61,5 @@
       "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
       "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJx-Ufu5JqEcRCGcHFOh9BFc"
+  ]
 }

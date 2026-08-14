@@ -25,6 +25,9 @@
   "phone": "03058885707",
   "email": "kontakt@schlange-und-besen.de",
   "website": "http://www.schlange-und-besen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUXDaMQ1WqEcRxdenRURdetc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 22,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +57,8 @@
   ],
   "offers": [],
   "images": [
-    "https://usercontent.one/wp/www.schlange-und-besen.de/wp-content/uploads/2018/05/essential-oils-3084952_1920.jpg",
-    "https://usercontent.one/wp/www.schlange-und-besen.de/wp-content/uploads/2018/05/cropped-logo_text3-1.png"
+    "/images/entries/schlange-und-besen/0.webp",
+    "/images/entries/schlange-und-besen/1.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Bietet die Praxis spezielle Behandlungen an?",
       "answer": "Im Moment sind keine speziellen Angebote auf der Website aufgeführt, aber die Praxis bietet Leistungen im Bereich der Naturheilkunde an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUXDaMQ1WqEcRxdenRURdetc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 22
+  ]
 }

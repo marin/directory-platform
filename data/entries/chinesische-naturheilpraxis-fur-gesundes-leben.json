@@ -26,6 +26,9 @@
   "phone": "015229901919",
   "email": "berlin@chi-nan-praxis.de",
   "website": "http://chi-nan-praxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8WKvPeNQqEcRmQwu7wc5HeQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 53,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -72,11 +75,11 @@
     }
   ],
   "images": [
-    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/SelfieCity_20180210171808_org-1.jpg?media=1753212150",
-    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/massage-2722936_1280-800x700.jpg?media=1753212150",
-    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/11/stone-316225_1280.jpg?media=1753212150",
-    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/12/IMG_20171231_130754-600x600.jpg?media=1753212150",
-    "https://www-static.chi-nan-praxis.de/wp-content/uploads/2018/12/IMG_20180903_1836114-600x600.jpg?media=1753212150"
+    "/images/entries/chinesische-naturheilpraxis-fur-gesundes-leben/0.webp",
+    "/images/entries/chinesische-naturheilpraxis-fur-gesundes-leben/1.webp",
+    "/images/entries/chinesische-naturheilpraxis-fur-gesundes-leben/2.webp",
+    "/images/entries/chinesische-naturheilpraxis-fur-gesundes-leben/3.webp",
+    "/images/entries/chinesische-naturheilpraxis-fur-gesundes-leben/4.webp"
   ],
   "faq": [
     {
@@ -99,8 +102,5 @@
       "question": "Was zeichnet die Behandlungsmethoden in der Chinesischen Naturheilpraxis aus?",
       "answer": "Die Behandlungsmethoden in der Chinesischen Naturheilpraxis basieren auf einem ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt, und nutzen traditionelle chinesische Diagnoseverfahren wie Puls-Kontrolle und Zungen-Diagnose."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8WKvPeNQqEcRmQwu7wc5HeQ",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 53
+  ]
 }

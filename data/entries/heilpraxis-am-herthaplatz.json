@@ -25,6 +25,7 @@
   "phone": "03047488740",
   "email": "info@physiotherapie-am-herthaplatz.de",
   "website": "http://heilpraxis-am-herthaplatz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPyCBDWBSqEcRDVtZnWCq9s4",
   "openingHours": [],
   "offers": [
     {
@@ -33,11 +34,11 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/heilpraxis-herthaplatz-pankow.jpg",
-    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/heilpflanzen.jpg",
-    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/oseopathie-therapie.jpg",
-    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/osteopathie.jpg",
-    "https://www.heilpraxis-am-herthaplatz.de/wp_herthaheil/wp-content/uploads/aktuelles.jpg"
+    "/images/entries/heilpraxis-am-herthaplatz/0.webp",
+    "/images/entries/heilpraxis-am-herthaplatz/1.webp",
+    "/images/entries/heilpraxis-am-herthaplatz/2.webp",
+    "/images/entries/heilpraxis-am-herthaplatz/3.webp",
+    "/images/entries/heilpraxis-am-herthaplatz/4.webp"
   ],
   "faq": [
     {
@@ -56,6 +57,5 @@
       "question": "Welche speziellen Angebote gibt es in der Heilpraxis?",
       "answer": "Ein spezielles Angebot in der Heilpraxis am Herthaplatz sind die sogenannten \"Blitzlichter\"."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPyCBDWBSqEcRDVtZnWCq9s4"
+  ]
 }

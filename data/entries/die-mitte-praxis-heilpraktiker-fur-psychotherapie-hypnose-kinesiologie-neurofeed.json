@@ -28,6 +28,9 @@
   "email": "kontakt@mitte-praxis.de",
   "website": "https://www.mitte-praxis.de/",
   "bookingUrl": "https://www.etermin.net/carolineboettiger1?calendarid=48279",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQc8EulRqEcRfakxVP529EI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -102,11 +105,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/i1659a26af934e8e8/version/1761115631/einzeltherapie-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-60-min-90-min-vor-ort-oder-online.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/ia183ac2865a1dcc8/version/1761115829/paartherapie-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-im-2-2-format-90-min-vor-ort-oder-online.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=jpg/path/sdab31b493f975fb0/image/i587c40d56949e867/version/1771406312/neurofeedbacktraining-in-der-mitte-praxis-berlin-heilpraktiker-f%C3%BCr-psychotherapie-geeignet-bei-ads-adhs-konzentrationsschwierigkeiten-f%C3%BCr-erwachsene-und-kinder.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=354x10000:format=jpg/path/sdab31b493f975fb0/image/i7cc7b6ebecd8afa2/version/1761115762/heilpraktiker-f%C3%BCr-psychotherapie-in-berlin-mitte-dr-caroline-b%C3%B6ttiger.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=354x10000:format=jpg/path/sdab31b493f975fb0/image/i52764de7628cccff/version/1761115806/heilpraktiker-f%C3%BCr-psychotherapie-und-kinesiologie-nach-dr-klinghardt-in-berlin-mitte-andreas-weller.jpg"
+    "/images/entries/die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed/0.webp",
+    "/images/entries/die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed/1.webp",
+    "/images/entries/die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed/2.webp",
+    "/images/entries/die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed/3.webp",
+    "/images/entries/die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed/4.webp"
   ],
   "faq": [
     {
@@ -129,8 +132,5 @@
       "question": "Wie kann ich die Mitte Praxis kontaktieren?",
       "answer": "Sie können die Mitte Praxis telefonisch unter 03027583216 oder per E-Mail an kontakt@mitte-praxis.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEQc8EulRqEcRfakxVP529EI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 30
+  ]
 }

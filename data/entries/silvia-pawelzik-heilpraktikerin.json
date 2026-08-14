@@ -25,6 +25,9 @@
   "phone": "03078715335",
   "email": "naturpawelzik@gmx.de",
   "website": "http://www.naturpawelzik.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgdtQd2lQqEcRiqbylvjjpcM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,7 +67,7 @@
     }
   ],
   "images": [
-    "https://www.denic.de/fileadmin/_processed_/b/5/csm_DENIC_kontakt-profil-logo_bc465ccc0b.jpg"
+    "/images/entries/silvia-pawelzik-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Ist die Website von Silvia Pawelzik erreichbar?",
       "answer": "Derzeit ist die aufgerufene Domain nicht erreichbar."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgdtQd2lQqEcRiqbylvjjpcM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

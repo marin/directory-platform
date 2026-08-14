@@ -25,6 +25,7 @@
   "phone": "03085726534",
   "email": "info@jutta-bisping.de",
   "website": "http://www.jutta-bisping.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtyESt-ZQqEcRR8LkhsXynQM",
   "openingHours": [],
   "offers": [
     {
@@ -77,7 +78,7 @@
     }
   ],
   "images": [
-    "https://www.jutta-bisping.de/wp-content/uploads/2019/04/Sonnenuntergang-1024x427.png"
+    "/images/entries/bisping-jutta-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -96,6 +97,5 @@
       "question": "Welche Beschwerden werden in der Praxis behandelt?",
       "answer": "In der Praxis werden unter anderem akute und chronische Kopf- und Rückenschmerzen, Wirbelsäulenprobleme, Tinnitus, Schwindel, Schlafstörungen sowie Erschöpfungszustände und Stress behandelt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtyESt-ZQqEcRR8LkhsXynQM"
+  ]
 }

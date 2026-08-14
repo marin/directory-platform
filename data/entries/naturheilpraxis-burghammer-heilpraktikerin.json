@@ -25,11 +25,14 @@
   "phone": "03065835113",
   "email": "info@denise-burghammer.de",
   "website": "http://www.naturheilpraxis-burghammer.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf9t1XMJNqEcR8xaZ3SF-zaA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.naturheilpraxis-burghammer.de/.cm4all/iproc.php/Denise-Lange.png/downsize_1280_0/Denise-Lange.png",
-    "http://57123244.swh.strato-hosting.eu/.cm4all/iproc.php/Praxis%20Schild.jpeg"
+    "/images/entries/naturheilpraxis-burghammer-heilpraktikerin/0.webp",
+    "/images/entries/naturheilpraxis-burghammer-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -44,8 +47,5 @@
       "question": "Welche Dienstleistungen bietet die Naturheilpraxis Burghammer an?",
       "answer": "Die Naturheilpraxis Burghammer bietet Therapie- und Beratungsmöglichkeiten im Bereich der Naturheilkunde an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf9t1XMJNqEcR8xaZ3SF-zaA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

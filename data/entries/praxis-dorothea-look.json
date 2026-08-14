@@ -27,6 +27,9 @@
   "phone": "03030023324",
   "website": "http://www.dorothea-look.de/",
   "bookingUrl": "https://www.dorothea-look.de/schreiben-sie-uns-/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgQHJjLVPqEcRE6rXd0x1gCY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -65,9 +68,8 @@
     }
   ],
   "images": [
-    "https://d078e91a52.clvaw-cdnwnd.com/1168208794d6e93b313389dcc2cbd061/200000160-dd623df564/50000000.jpg?ph=d078e91a52",
-    "https://www.therapeutenkatalog.de/images_siegel_certified_id/therapeutenkatalog_zertifikat_id-0000-3696.gif",
-    "https://d078e91a52.clvaw-cdnwnd.com/1168208794d6e93b313389dcc2cbd061/200000214-44bc246af8/branchenbuch_christel.gif"
+    "/images/entries/praxis-dorothea-look/0.webp",
+    "/images/entries/praxis-dorothea-look/2.webp"
   ],
   "faq": [
     {
@@ -90,8 +92,5 @@
       "question": "Welche Zielgruppe spricht die Praxis an?",
       "answer": "Die Praxis richtet sich an Personen mit chronischen Beschwerden, Menschen, die ihre Gesundheit pflegen möchten, sowie Eltern, die eine schonende Heilmethode für ihre Kinder suchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgQHJjLVPqEcRE6rXd0x1gCY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

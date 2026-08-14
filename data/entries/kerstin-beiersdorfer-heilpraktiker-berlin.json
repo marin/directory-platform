@@ -25,10 +25,13 @@
   "phone": "01718992806",
   "email": "beiersdorfer@gmx.com",
   "website": "http://www.heilpraktiker-beiersdorfer.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJleck0-dQqEcRoKzdfQ0isTU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.heilpraktiker-beiersdorfer.de/Kerstin-Rahmen-Augenfarbe.jpg"
+    "/images/entries/kerstin-beiersdorfer-heilpraktiker-berlin/0.webp"
   ],
   "faq": [
     {
@@ -47,8 +50,5 @@
       "question": "Bietet Kerstin Beiersdorfer auch ästhetische Behandlungen an?",
       "answer": "Ja, Kerstin Beiersdorfer bietet auch ästhetische Behandlungen an, darunter Faltenunterspritzung, Fadenlifting und Microneedling."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJleck0-dQqEcRoKzdfQ0isTU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

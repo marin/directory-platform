@@ -26,6 +26,9 @@
   "email": "info@gesund-inberlin.de",
   "website": "https://www.gesund-inberlin.de/?utm_source=google&utm_medium=orgnanic&utm_campaign=gmb",
   "bookingUrl": "https://www.gesund-inberlin.de/termin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZCFOSZNqEcRwVG-p7pbLXg",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 38,
   "openingHours": [
     {
       "day": "Monday",
@@ -199,11 +202,11 @@
     }
   ],
   "images": [
-    "https://www.gesund-inberlin.de/images/Gesund_in_Berlin-Intro-Text.png",
-    "https://www.gesund-inberlin.de/images/Heilpraktiker-Janan-Mahmod.jpg",
-    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Burnout_thumb-7438971fb72197c2b33aa86dbc4a9d00.jpg",
-    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Colitis-ulcerosa_thumb-cdc7c760cad592b9af28e304a455b928.jpg",
-    "https://www.gesund-inberlin.de/media/mod_zentools2/cache/images/Dysbiose_thumb-53064b42ce22c3bc1ae39b70b20bd9be.jpg"
+    "/images/entries/praxis-gesund-in-berlin-heilpraktiker-janan-mahmod/0.webp",
+    "/images/entries/praxis-gesund-in-berlin-heilpraktiker-janan-mahmod/1.webp",
+    "/images/entries/praxis-gesund-in-berlin-heilpraktiker-janan-mahmod/2.webp",
+    "/images/entries/praxis-gesund-in-berlin-heilpraktiker-janan-mahmod/3.webp",
+    "/images/entries/praxis-gesund-in-berlin-heilpraktiker-janan-mahmod/4.webp"
   ],
   "faq": [
     {
@@ -226,8 +229,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis per E-Mail unter info@gesund-inberlin.de kontaktieren oder die Website https://www.gesund-inberlin.de besuchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZCFOSZNqEcRwVG-p7pbLXg",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 38
+  ]
 }

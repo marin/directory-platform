@@ -26,6 +26,9 @@
   "phone": "03023180255",
   "email": "info@marion-boehm.de",
   "website": "http://www.homoeopathie-marion-boehm-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGas2NuJQqEcRPZeN-SDN9ew",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,11 +63,11 @@
     }
   ],
   "images": [
-    "https://www.homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/image.png",
-    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2025/06/image-180x180-website-80x80.png",
-    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/desert.jpg",
-    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/quelle-300x300.png",
-    "https://homoeopathie-marion-boehm-berlin.de/wp-content/uploads/2021/11/fuss-300x300.png"
+    "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/0.webp",
+    "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/1.webp",
+    "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/2.webp",
+    "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/3.webp",
+    "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/4.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Wie kann ich einen Termin vereinbaren?",
       "answer": "Sie können einen Termin telefonisch unter 03023180255 oder per E-Mail an info@marion-boehm.de vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGas2NuJQqEcRPZeN-SDN9ew",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

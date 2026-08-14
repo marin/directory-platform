@@ -27,6 +27,9 @@
   "email": "info@natur-praxisberlin.de",
   "website": "http://natur-praxisberlin.de/",
   "bookingUrl": "http://www.natur-praxisberlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0rNkgZOqEcRKlcYw5Tbeng",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,11 +59,11 @@
   ],
   "offers": [],
   "images": [
-    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-6-720x424.jpg",
-    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-2-720x424.jpg",
-    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-bewertung-1-720x424.jpg",
-    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-3-720x424.jpg",
-    "https://natur-praxisberlin.de/data-matrix/uploads/2016/02/naturheilpraxis-prenzlauer-berg-bewertung-4-720x424.jpg"
+    "/images/entries/akupunktur-krauterheilkunde/0.webp",
+    "/images/entries/akupunktur-krauterheilkunde/1.webp",
+    "/images/entries/akupunktur-krauterheilkunde/2.webp",
+    "/images/entries/akupunktur-krauterheilkunde/3.webp",
+    "/images/entries/akupunktur-krauterheilkunde/4.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Welche Beschwerden können in der Praxis behandelt werden?",
       "answer": "Zu den Schwerpunkten der Praxis gehören Allergien, Schmerzsyndrome, Frauenheilkunde, Kinderwunsch, Stress, Schlafstörungen, Müdigkeit und wiederkehrende Infekte."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJR0rNkgZOqEcRKlcYw5Tbeng",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 21
+  ]
 }

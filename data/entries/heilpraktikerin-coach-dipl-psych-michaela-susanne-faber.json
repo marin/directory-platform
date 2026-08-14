@@ -26,6 +26,9 @@
   "phone": "015771337518",
   "website": "http://www.fraufaber.de/",
   "bookingUrl": "https://fraufaber.tentary.com/p/H6HkSd",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ23EC2dxTqEcRTm2cbuIxio8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -88,9 +91,9 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/AQ2A3034-1920w.jpg?Expires=1788554994&Signature=ldEpsfAp9eaNdQHx-KsmoeCr8hh-R0Odsh14RyjjfUOrQNhHzJ1-CQdpOdmc94LWnb8GLuU~Na19tCTtsx6kIWdZNLYd19PcjEeoWL6Q23DR~8frDZ-lECSRTpe3~xH571Of3Eni~i2WTwYVqE~x3XLCUin0PqVJ~CGa99ENbO0j1XgA3pfUodAHtbahLIStl7n1wfLCSk6KXdcfBH8RriB5AISgcxC3nvkhYg33HEs8vpAr2-a3d699ZdKpeNAUaVon798jwLmSTpZjOrt2AJfhxL3DruMCKoU10wJ21cmaiBMSvv~EFxf9nIysux~0ywwfousCPoA8U1EK2hazRQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/Endlich+Worte+Logo-1920w.png?Expires=1788554994&Signature=YUZLD2XIjH8dn-Jw2k06tNgQelq3grQfUxIHmG2cnKcD1C8KcP3JNiq3pThPC7RbKdiBnxEjOP0jMOgUTmoZLPaW5xEX54QEjiqxk9VIeURufl5S4uGAksswXlDOYVIM6HiqAUSwMHkrVHATHi8CS~odGobnttTM8wQFdbo34y8w5QRwR2~1tsG2G3IK-FXFwkBvJ2MHHr3ifRQSQXEJtx3CT~7WRjjcrvzp8LGOQV4ZlDuIUEQkXp6nWW64zZU6s1AAN2EVfXf92DshPeACUlXoRm48I6-OrNCMUBL4RGQ46O19xNkBriNfjcHMC1hBkBpa~2saaW3xo7UOgp8WXA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/77864be5bb304787a9cfa34d511f2eb9/dms3rep/multi/opt/Psychologie+Logo-1920w.png?Expires=1788554994&Signature=HevKQ3roUzCs-sKM~XMbrg7n-Ej3N7mC5W7U0jp~DNB4qANUNFRvM4Sg8b96ib6BFD8DON-8ts9LMIo5FW2WuZdaR4nND-75-~PiSLhmEtVBO39djAhgCYYL7ajBTmFRLNBUfJ5~vOeBqhpO6-bUHzgN6mUyrKu9Ea2E4othRr-FWY0vaM5szEwjru3jg8OatqOHF4AdkZFUOKt5r2SWZPC9O4g4IfADzjhlLCYQHZuYThm0GeWMF5R5Kfn6DtEZkApC~n4~shRupH-rynuPydcKXuc0b1EnPsYlKaaaJOzR7LspOxkd~RSxS60mjo6rd52ypjozcs5CM2am3v5N6g__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/heilpraktikerin-coach-dipl-psych-michaela-susanne-faber/0.webp",
+    "/images/entries/heilpraktikerin-coach-dipl-psych-michaela-susanne-faber/1.webp",
+    "/images/entries/heilpraktikerin-coach-dipl-psych-michaela-susanne-faber/2.webp"
   ],
   "faq": [
     {
@@ -113,8 +116,5 @@
       "question": "Wie kann ich Frau Faber kontaktieren?",
       "answer": "Sie können Frau Faber telefonisch unter 015771337518 oder über ihre Website www.fraufaber.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ23EC2dxTqEcRTm2cbuIxio8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

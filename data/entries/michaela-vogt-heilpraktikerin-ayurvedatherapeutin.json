@@ -26,6 +26,7 @@
   "email": "mail@heilpraxisvogt.com",
   "website": "https://heilpraxisvogt.com/",
   "bookingUrl": "https://heilpraxisvogt.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2T_YRRIum0cRxm55ZUX-Jc0",
   "openingHours": [],
   "offers": [
     {
@@ -78,11 +79,11 @@
     }
   ],
   "images": [
-    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Vogt07-scaled.jpg",
-    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-55.png",
-    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-61.png",
-    "https://heilpraxisvogt.com/wp-content/uploads/2023/12/iStock-470012708-e1703160486335.jpg",
-    "https://heilpraxisvogt.com/wp-content/uploads/2022/09/Design-ohne-Titel-54.png"
+    "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/0.webp",
+    "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/1.webp",
+    "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/2.webp",
+    "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/3.webp",
+    "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/4.webp"
   ],
   "faq": [
     {
@@ -105,6 +106,5 @@
       "question": "Wie kann ich Michaela Vogt kontaktieren?",
       "answer": "Sie können Michaela Vogt per E-Mail unter mail@heilpraxisvogt.com oder telefonisch unter 0172 - 9825180 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2T_YRRIum0cRxm55ZUX-Jc0"
+  ]
 }

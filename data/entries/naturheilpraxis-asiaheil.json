@@ -27,10 +27,13 @@
   "email": "e-mail-an@asiaheil.de",
   "website": "http://www.asiaheil.de/",
   "bookingUrl": "https://buchung.treatwell.de/ort/404730/menue/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCV0IgBpSqEcRRl6_nD6dQ7c",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://asiaheil.de/wp-content/uploads/2020/07/akupunkturpraxis.jpg"
+    "/images/entries/naturheilpraxis-asiaheil/0.webp"
   ],
   "faq": [
     {
@@ -49,8 +52,5 @@
       "question": "Wie kann ich die Naturheilpraxis 'asiaheil' kontaktieren?",
       "answer": "Sie können die Naturheilpraxis 'asiaheil' telefonisch unter 03044328086 oder per E-Mail an e-mail-an@asiaheil.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCV0IgBpSqEcRRl6_nD6dQ7c",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 7
+  ]
 }

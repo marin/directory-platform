@@ -25,6 +25,9 @@
   "phone": "03096512942",
   "email": "info@naturheilkundepraxis-berlin.de",
   "website": "http://www.naturheilkundepraxis-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVQ68A5OqEcRjXu_YZvp5v8",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -75,8 +78,8 @@
     }
   ],
   "images": [
-    "http://www.naturheilkundepraxis-berlin.de/images/praxis_01_360.jpg",
-    "http://www.naturheilkundepraxis-berlin.de/images/galerie/lindenbluete_02.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier/1.webp"
   ],
   "faq": [
     {
@@ -99,8 +102,5 @@
       "question": "Welche neuen Angebote gibt es in der Praxis?",
       "answer": "Neu in der Praxis sind osteopathische Behandlungen, die seit 2024 angeboten werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVQ68A5OqEcRjXu_YZvp5v8",
-  "googleMapsRating": 4.2,
-  "googleMapsRatingsCount": 5
+  ]
 }

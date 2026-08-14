@@ -26,6 +26,9 @@
   "phone": "01732482805",
   "email": "elju-vita@gmail.com",
   "website": "http://elju-vita.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYwNTdHVRqEcRiLI8jMVlbkk",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 24,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,7 +75,7 @@
     }
   ],
   "images": [
-    "http://elju-vita.de/wp-content/uploads/2019/05/logo_ela_webRGB-427x279.png"
+    "/images/entries/naturheilpraxis-elju-vita-physioherapie-osteoatipathie/0.webp"
   ],
   "faq": [
     {
@@ -91,8 +94,5 @@
       "question": "Wie kann ich die Naturheilpraxis Elju-Vita kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Elju-Vita telefonisch unter 0173 2482805 oder per E-Mail an elju-vita@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYwNTdHVRqEcRiLI8jMVlbkk",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 24
+  ]
 }

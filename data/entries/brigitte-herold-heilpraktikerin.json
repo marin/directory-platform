@@ -24,6 +24,7 @@
   },
   "phone": "015906481571",
   "website": "http://www.brigitteherold.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgSAOzWlTqEcRr4SJyGkBK9w",
   "openingHours": [
     {
       "day": "Monday",
@@ -58,9 +59,9 @@
   ],
   "offers": [],
   "images": [
-    "https://brigitteherold.de/wp-content/uploads/2015/06/bachblueten_rose_wild_320-320x197.jpg",
-    "https://brigitteherold.de/wp-content/uploads/2026/07/Klang-Therapie-Rassel-350x197.jpg",
-    "https://brigitteherold.de/wp-content/uploads/2026/07/Klang-Therapie-mit-Licht-3-350x197.jpg"
+    "/images/entries/brigitte-herold-heilpraktikerin/0.webp",
+    "/images/entries/brigitte-herold-heilpraktikerin/1.webp",
+    "/images/entries/brigitte-herold-heilpraktikerin/2.webp"
   ],
   "faq": [
     {
@@ -83,6 +84,5 @@
       "question": "Was kann ich von einer Behandlung bei Brigitte Herold erwarten?",
       "answer": "Sie können eine ausführliche Anamnese und ein objektives Diagnose-Ergebnis erwarten, sowie eine lückenlose Verlaufskontrolle über den gesamten Behandlungsverlauf."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgSAOzWlTqEcRr4SJyGkBK9w"
+  ]
 }

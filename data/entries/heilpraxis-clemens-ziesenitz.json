@@ -25,14 +25,17 @@
   "phone": "017643164584",
   "website": "http://www.osteopathie-clemens-ziesenitz.de/",
   "bookingUrl": "https://app.acuityscheduling.com/schedule.php?owner=14504307",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdRzt0QpRqEcRi5PGVKG7rw8",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 11,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.osteopathie-clemens-ziesenitz.de/rsc/english.jpg",
-    "http://www.osteopathie-clemens-ziesenitz.de/rsc/a1.jpg",
-    "http://www.osteopathie-clemens-ziesenitz.de/rsc/b1.jpg",
-    "http://www.osteopathie-clemens-ziesenitz.de/rsc/c1.jpg",
-    "http://www.osteopathie-clemens-ziesenitz.de/rsc/d1.jpg"
+    "/images/entries/heilpraxis-clemens-ziesenitz/0.webp",
+    "/images/entries/heilpraxis-clemens-ziesenitz/1.webp",
+    "/images/entries/heilpraxis-clemens-ziesenitz/2.webp",
+    "/images/entries/heilpraxis-clemens-ziesenitz/3.webp",
+    "/images/entries/heilpraxis-clemens-ziesenitz/4.webp"
   ],
   "faq": [
     {
@@ -51,8 +54,5 @@
       "question": "Wie kann ich Clemens Ziesenitz telefonisch erreichen?",
       "answer": "Sie können Clemens Ziesenitz unter der Telefonnummer 017643164584 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdRzt0QpRqEcRi5PGVKG7rw8",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 11
+  ]
 }

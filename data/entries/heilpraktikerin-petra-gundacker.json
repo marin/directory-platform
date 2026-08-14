@@ -25,6 +25,9 @@
   "phone": "03031174975",
   "email": "info@heilpraktiker-gundacker.de",
   "website": "https://heilpraktiker-gundacker.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyvoBwBSqEcRTnyFSzFvsyg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -100,7 +103,7 @@
     }
   ],
   "images": [
-    "https://heilpraktiker-gundacker.de/wp-content/uploads/2023/03/petra3.jpg"
+    "/images/entries/heilpraktikerin-petra-gundacker/0.webp"
   ],
   "faq": [
     {
@@ -123,8 +126,5 @@
       "question": "Welche Symptome behandelt Petra Gundacker überwiegend?",
       "answer": "Petra Gundacker behandelt überwiegend Symptome wie Erschöpfung, chronische Beschwerden, Hautprobleme, Allergien, Gelenkschmerzen, Ängste, gereizte Stimmung, depressive Verstimmungen, Essstörungen, Magen-Darm-Beschwerden, Kopfschmerzen, Menstruationsbeschwerden und Wechseljahrbeschwerden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyvoBwBSqEcRTnyFSzFvsyg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

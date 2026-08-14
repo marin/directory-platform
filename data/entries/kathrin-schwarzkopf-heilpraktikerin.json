@@ -25,6 +25,9 @@
   "phone": "01729295355",
   "website": "https://www.heilpraxis-schwarzkopf.de/kontakt/",
   "bookingUrl": "https://www.heilpraxis-schwarzkopf.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCQzQVSqEcRsea6iF5iBps",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -61,7 +64,7 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=180x10000:format=jpg/path/sa7216ed1ef7e7a00/image/i2b6f9271a01e1231/version/1732805521/image.jpg"
+    "/images/entries/kathrin-schwarzkopf-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Bietet Kathrin Schwarzkopf auch Workshops oder Seminare an?",
       "answer": "Ja, Kathrin Schwarzkopf bietet Workshops und Seminare an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCQzQVSqEcRsea6iF5iBps",
-  "googleMapsRating": 3.7,
-  "googleMapsRatingsCount": 3
+  ]
 }

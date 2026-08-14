@@ -25,6 +25,7 @@
   "phone": "015560759736",
   "website": "https://www.heilpraxis-spiller.de/",
   "bookingUrl": "https://www.heilpraxis-spiller.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJobPpS8BbqEcRVMIm0hcd420",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -54,7 +55,7 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-spiller.de/static/media/Logo.b052d32c9119bac54bb6.jpg"
+    "/images/entries/heilpraktikerin-sylwia-spiller/0.webp"
   ],
   "faq": [
     {
@@ -77,6 +78,5 @@
       "question": "Wie kann ich Heilpraktikerin Sylwia Spiller kontaktieren?",
       "answer": "Sie können Heilpraktikerin Sylwia Spiller telefonisch unter 015560759736 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJobPpS8BbqEcRVMIm0hcd420"
+  ]
 }

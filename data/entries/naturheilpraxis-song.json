@@ -28,6 +28,9 @@
   "phone": "0306610006",
   "website": "https://naturheilpraxis-song.jimdofree.com/",
   "bookingUrl": "https://www.timify.com/de-de/profile/naturheilpraxis-song/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuSkYeY1FqEcRCJjjj50Mi44",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,7 +63,7 @@
     }
   ],
   "images": [
-    "https://assets.jimstatic.com/s/img/error-pages/devices.png"
+    "/images/entries/naturheilpraxis-song/0.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Wie kann ich die Naturheilpraxis Song kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Song telefonisch unter 0306610006 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuSkYeY1FqEcRCJjjj50Mi44",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

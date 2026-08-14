@@ -25,6 +25,9 @@
   "email": "hans.sanjiao@posteo.de",
   "website": "https://www.sanjiao-naturheilpraxis.de/",
   "bookingUrl": "https://www.sanjiao-naturheilpraxis.de/book-online",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiwnmMDFPqEcR_92iyRoF1ko",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 29,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,11 +56,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/ae2d5f_7e2927031815485da0cba5a1e8cf8df6~mv2.png/v1/fill/w_416,h_246,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hans%20Folgebehandlung_edited.png",
-    "https://static.wixstatic.com/media/ae2d5f_72a124a90e3043d39964487c560672d4~mv2.jpg/v1/crop/x_0,y_171,w_2048,h_874/fill/w_980,h_418,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSCF5201_edited_edited.jpg",
-    "https://static.wixstatic.com/media/ae2d5f_c58f99293950400f832286909848fd7f~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/17.png",
-    "https://static.wixstatic.com/media/ae2d5f_4089aaae60aa4feeb1c9e4aac6cce157~mv2.png/v1/fill/w_154,h_155,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ae2d5f_4089aaae60aa4feeb1c9e4aac6cce157~mv2.png",
-    "https://static.wixstatic.com/media/ae2d5f_5956cb0a99434c5eb4ff2f4c5ce18b49~mv2.png/v1/fill/w_154,h_155,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ae2d5f_5956cb0a99434c5eb4ff2f4c5ce18b49~mv2.png"
+    "/images/entries/hans-nagel-sanjiao-naturheilpraxis/0.webp",
+    "/images/entries/hans-nagel-sanjiao-naturheilpraxis/1.webp",
+    "/images/entries/hans-nagel-sanjiao-naturheilpraxis/2.webp",
+    "/images/entries/hans-nagel-sanjiao-naturheilpraxis/3.webp",
+    "/images/entries/hans-nagel-sanjiao-naturheilpraxis/4.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich Hans Nagel kontaktieren?",
       "answer": "Sie können Hans Nagel per E-Mail unter hans.sanjiao@posteo.de kontaktieren, wenn Sie Fragen zur Praxis haben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiwnmMDFPqEcR_92iyRoF1ko",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 29
+  ]
 }

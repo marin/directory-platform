@@ -25,6 +25,9 @@
   "phone": "03048820820",
   "website": "http://www.diekoerpertherapeuten.de/",
   "bookingUrl": "https://peak-physio.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ82HiQC9XqEcRSOY_c9pL4jI",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -111,11 +114,11 @@
     }
   ],
   "images": [
-    "https://peak-physio.de/assets/hero-sliced-front--webp-Dl98byD1.webp",
-    "https://peak-physio.de/assets/010-compress-peak-0038MEY08659-CzHnQkkV.jpg",
-    "https://peak-physio.de/assets/037-compress-peak-0173MEY08686-B7yOoTfE.jpg",
-    "https://peak-physio.de/assets/053-compress-peak-0231MEY08744--NY8aId8.jpg",
-    "https://peak-physio.de/assets/000-compress-peak-0008MEY08629-Do4qo_OK.jpg"
+    "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/0.webp",
+    "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/1.webp",
+    "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/2.webp",
+    "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/3.webp",
+    "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/4.webp"
   ],
   "faq": [
     {
@@ -138,8 +141,5 @@
       "question": "Wie erreiche ich die Praxis telefonisch?",
       "answer": "Sie können die Praxis telefonisch unter der Nummer 03048820820 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ82HiQC9XqEcRSOY_c9pL4jI",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 4
+  ]
 }

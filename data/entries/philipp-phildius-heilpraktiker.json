@@ -28,6 +28,9 @@
   "email": "kontakt@hp-phildius.de",
   "website": "https://www.hp-phildius.de/",
   "bookingUrl": "https://www.jameda.de/philipp-phildius/heilpraktiker/berlin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRyOV-41RqEcRIYyLkQQXPKQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -59,11 +62,11 @@
     }
   ],
   "images": [
-    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/c61f2e3f-c989-4bfc-974f-675a36ecd468/l0,t0,w538,h538/image-455x455.jpg",
-    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/eb79220c-bde0-429a-8527-7271d06fdd0e/l0,t128,w767,h511/image.jpg",
-    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/b710e259-e6fd-4645-8300-b9736995ae03/l0,t54,w1280,h853/image.jpg",
-    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/fdd14841-790a-4755-b4b9-800d9feb94a6/l0,t422,w1500,h1005/image.jpg",
-    "https://www.hp-phildius.de/wp-content/uploads/go-x/u/cec87e27-afee-4518-b67f-7e675c74154a/l0,t294,w1413,h1413/image-768x768.png"
+    "/images/entries/philipp-phildius-heilpraktiker/0.webp",
+    "/images/entries/philipp-phildius-heilpraktiker/1.webp",
+    "/images/entries/philipp-phildius-heilpraktiker/2.webp",
+    "/images/entries/philipp-phildius-heilpraktiker/3.webp",
+    "/images/entries/philipp-phildius-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -86,8 +89,5 @@
       "question": "Wie kann ich Philipp Phildius kontaktieren?",
       "answer": "Sie können Philipp Phildius telefonisch unter 017693188074 oder per E-Mail unter kontakt@hp-phildius.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRyOV-41RqEcRIYyLkQQXPKQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

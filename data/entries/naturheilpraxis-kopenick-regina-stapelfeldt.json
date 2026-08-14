@@ -1,0 +1,131 @@
+{
+  "id": "naturheilpraxis-kopenick-regina-stapelfeldt",
+  "slug": "naturheilpraxis-kopenick-regina-stapelfeldt",
+  "name": "Naturheilpraxis Köpenick Regina Stapelfeldt",
+  "description": "Regina Stapelfeldt führt die Naturheilpraxis Köpenick in der Bölschestraße 26 in Berlin-Treptow-Köpenick. In ihrer Praxis stehen Gesundheit und Wohlbefinden im Mittelpunkt. Sie bietet naturheilkundliche Behandlungen wie Akupunktur, Blutegeltherapie, Massagen, Fußreflexzonentherapie und Faszientherapie an. Für Massagen verwendet sie ausschließlich 100 % naturreine ätherische Öle.",
+  "lastUpdated": "2026-08-14",
+  "status": "open",
+  "categories": [
+    "naturheilkunde"
+  ],
+  "areaIds": [
+    "treptow-koepenick"
+  ],
+  "address": {
+    "street": "Bölschestraße 26",
+    "locality": "Berlin",
+    "region": "Berlin",
+    "postalCode": "12587",
+    "country": "DE"
+  },
+  "geo": {
+    "lat": 52.4501365,
+    "lng": 13.624900199999999
+  },
+  "phone": "017696311657",
+  "website": "https://www.naturheilpraxis-koepenick.de/",
+  "bookingUrl": "https://www.naturheilpraxis-koepenick.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxyOL5uA3qEcRMbXpkj962bQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
+  "openingHours": [],
+  "offers": [
+    {
+      "id": "offer-1",
+      "name": "ab 15€",
+      "price": 15,
+      "priceLabel": "ab 15 €"
+    },
+    {
+      "id": "offer-2",
+      "name": "Behandlung",
+      "price": 40,
+      "priceLabel": "40€"
+    },
+    {
+      "id": "offer-3",
+      "name": "ab 30€",
+      "price": 30,
+      "priceLabel": "ab 30 €"
+    },
+    {
+      "id": "offer-4",
+      "name": "Behandlung",
+      "price": 35,
+      "priceLabel": "35€"
+    },
+    {
+      "id": "offer-5",
+      "name": "ab 10€",
+      "price": 10,
+      "priceLabel": "ab 10 €"
+    },
+    {
+      "id": "offer-6",
+      "name": "ab 35€",
+      "price": 35,
+      "priceLabel": "ab 35 €"
+    },
+    {
+      "id": "offer-7",
+      "name": "Akupunktur"
+    },
+    {
+      "id": "offer-8",
+      "name": "Blutegel"
+    },
+    {
+      "id": "offer-9",
+      "name": "Massagen"
+    },
+    {
+      "id": "offer-10",
+      "name": "Fußreflexzonentherapie"
+    },
+    {
+      "id": "offer-11",
+      "name": "Gutscheine"
+    },
+    {
+      "id": "offer-12",
+      "name": "100% naturreine ätherische Öle"
+    },
+    {
+      "id": "offer-13",
+      "name": "Fußreflexzonen"
+    },
+    {
+      "id": "offer-14",
+      "name": "Faszien"
+    }
+  ],
+  "images": [
+    "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/0.webp",
+    "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/1.webp",
+    "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/2.webp",
+    "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/3.webp",
+    "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/4.webp"
+  ],
+  "faq": [
+    {
+      "question": "Wo befindet sich die Naturheilpraxis von Regina Stapelfeldt?",
+      "answer": "Die Praxis befindet sich in der Bölschestraße 26, 12587 Berlin, im Bezirk Treptow-Köpenick."
+    },
+    {
+      "question": "Welche Behandlungen bietet Regina Stapelfeldt an?",
+      "answer": "Regina Stapelfeldt bietet unter anderem Akupunktur, Blutegeltherapie, Massagen, Fußreflexzonentherapie und Faszientherapie an."
+    },
+    {
+      "question": "Wie kann ich einen Termin bei Regina Stapelfeldt vereinbaren?",
+      "answer": "Termine können über das Kontaktformular auf der Website naturheilpraxis-koepenick.de vereinbart oder telefonisch unter 0176 96311657 angefragt werden."
+    },
+    {
+      "question": "Welche Preise gelten für Behandlungen in der Praxis?",
+      "answer": "Die Preise beginnen ab 10 € und können je nach Behandlung bis zu 40 € betragen."
+    },
+    {
+      "question": "Verwendet die Praxis ätherische Öle bei Massagen?",
+      "answer": "Ja, für Massagen werden ausschließlich 100 % naturreine ätherische Öle verwendet."
+    }
+  ]
+}

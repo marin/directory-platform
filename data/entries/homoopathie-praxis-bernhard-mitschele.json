@@ -26,6 +26,9 @@
   "phone": "03091535510",
   "website": "http://www.xn--homopathie-naturheilkunde-0rc.com/de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/bernhard-mitschele?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA0crCX5RqEcRx3kYNLY0BHI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -78,7 +81,7 @@
     }
   ],
   "images": [
-    "http://xn--homopathie-naturheilkunde-0rc.com/system/html/praxis_mitschele-003e0093.jpg"
+    "/images/entries/homoopathie-praxis-bernhard-mitschele/0.webp"
   ],
   "faq": [
     {
@@ -101,8 +104,5 @@
       "question": "Gibt es eine Möglichkeit, online einen Termin zu buchen?",
       "answer": "Ja, Termine können online über den folgenden Link gebucht werden: https://www.doctolib.de/heilpraktiker/berlin/bernhard-mitschele?utm_source=google-maps&utm_campaign=google-maps."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA0crCX5RqEcRx3kYNLY0BHI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

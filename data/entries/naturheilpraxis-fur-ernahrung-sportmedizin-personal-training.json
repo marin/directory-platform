@@ -26,6 +26,9 @@
   "phone": "015157678444",
   "email": "info@martina-minnich.com",
   "website": "https://www.martina-minnich.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJh-zjj1hHqEcRgQrcQJ49xm8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -50,11 +53,11 @@
     }
   ],
   "images": [
-    "https://martina-minnich.com/wp-content/uploads/2022/10/hero-1-980.jpg",
-    "https://martina-minnich.com/wp-content/uploads/2022/10/hero-1.png",
-    "https://martina-minnich.com/wp-content/uploads/2022/10/image-1.jpg",
-    "https://martina-minnich.com/wp-content/uploads/2022/10/image-2.png",
-    "https://www.martina-minnich.com/wp-content/uploads/2022/10/image-4.png"
+    "/images/entries/naturheilpraxis-fur-ernahrung-sportmedizin-personal-training/0.webp",
+    "/images/entries/naturheilpraxis-fur-ernahrung-sportmedizin-personal-training/1.webp",
+    "/images/entries/naturheilpraxis-fur-ernahrung-sportmedizin-personal-training/2.webp",
+    "/images/entries/naturheilpraxis-fur-ernahrung-sportmedizin-personal-training/3.webp",
+    "/images/entries/naturheilpraxis-fur-ernahrung-sportmedizin-personal-training/4.webp"
   ],
   "faq": [
     {
@@ -77,8 +80,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis per E-Mail unter info@martina-minnich.com oder telefonisch unter 015157678444 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJh-zjj1hHqEcRgQrcQJ49xm8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

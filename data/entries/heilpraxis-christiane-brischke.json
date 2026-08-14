@@ -28,6 +28,9 @@
   "email": "praxis@heilpraxis-brischke.de",
   "website": "http://heilpraxis-brischke.de/",
   "bookingUrl": "https://www.heilpraxis-brischke.de/kontakt-anfahrt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdSSqzP5EqEcRH3gJts679RY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -71,11 +74,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/4eab08_e212e665864142d386b0c1c991eff9f8~mv2.jpg",
-    "https://static.wixstatic.com/media/4eab08_4ba123d704c84ab689469a1c70201538~mv2.jpg",
-    "https://static.wixstatic.com/media/4eab08_16ae40b6ac2e401bb9fc453be7689cb8~mv2.jpg/v1/fill/w_595,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_16ae40b6ac2e401bb9fc453be7689cb8~mv2.jpg",
-    "https://static.wixstatic.com/media/4eab08_c902bf964bcc42318b7bce2320b2f1a9~mv2.jpg/v1/fill/w_582,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_c902bf964bcc42318b7bce2320b2f1a9~mv2.jpg",
-    "https://static.wixstatic.com/media/4eab08_1305e119082941578ca1d4218399e8b7~mv2.jpg/v1/fill/w_578,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eab08_1305e119082941578ca1d4218399e8b7~mv2.jpg"
+    "/images/entries/heilpraxis-christiane-brischke/0.webp",
+    "/images/entries/heilpraxis-christiane-brischke/1.webp",
+    "/images/entries/heilpraxis-christiane-brischke/2.webp",
+    "/images/entries/heilpraxis-christiane-brischke/3.webp",
+    "/images/entries/heilpraxis-christiane-brischke/4.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Wie kann ich die Heilpraxis Christiane Brischke kontaktieren?",
       "answer": "Sie können die Heilpraxis telefonisch unter 03070768426 oder per E-Mail an praxis@heilpraxis-brischke.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdSSqzP5EqEcRH3gJts679RY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

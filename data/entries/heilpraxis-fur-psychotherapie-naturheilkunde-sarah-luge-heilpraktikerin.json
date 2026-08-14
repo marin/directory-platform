@@ -26,6 +26,9 @@
   "phone": "017624657154",
   "website": "https://www.sarahluge.de/",
   "bookingUrl": "https://zeeg.me/sarahluge",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVXxjplUqEcRZHWDbv5y2b0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,7 +67,7 @@
     }
   ],
   "images": [
-    "https://cdn.shapo.io/assets/logo.png"
+    "/images/entries/heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Bietet die Praxis ein Erstgespräch an?",
       "answer": "Ja, die Praxis bietet ein kostenloses Erstgespräch an, in dem Sie Ihre Situation schildern und eine erste Einschätzung erhalten können."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVXxjplUqEcRZHWDbv5y2b0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

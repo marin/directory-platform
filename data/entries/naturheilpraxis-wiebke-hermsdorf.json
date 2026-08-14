@@ -24,6 +24,9 @@
   },
   "phone": "015253609822",
   "website": "https://www.naturheilpraxis-wiebkehermsdorf.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPXnxlcpPqEcRczq53-iWNxA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -126,7 +129,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/543226117/24e648a5-3b4b-459c-b12e-b73bc94e7c4c.jpg"
+    "/images/entries/naturheilpraxis-wiebke-hermsdorf/0.webp"
   ],
   "faq": [
     {
@@ -149,8 +152,5 @@
       "question": "Wo befindet sich die Naturheilpraxis Wiebke Hermsdorf?",
       "answer": "Die Naturheilpraxis Wiebke Hermsdorf befindet sich in der Manteuffelstraße 67, 10999 Berlin, im Bezirk Friedrichshain-Kreuzberg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPXnxlcpPqEcRczq53-iWNxA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

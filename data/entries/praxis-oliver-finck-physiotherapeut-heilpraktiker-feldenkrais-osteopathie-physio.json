@@ -26,6 +26,9 @@
   "phone": "017661865478",
   "website": "http://feldenkrais-lichtenrade.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/oliver-finck-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGRtsdj1PqEcR5XCFpHB-Fxk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,11 +71,11 @@
     }
   ],
   "images": [
-    "https://praxis-finck.berlin/wp-content/uploads/2022/06/DSC6769-1024x684.jpg",
-    "https://praxis-finck.berlin/wp-content/uploads/2022/06/DSC6643.jpg",
-    "https://praxis-finck.berlin/wp-content/uploads/2022/08/image1-rotated.jpeg",
-    "https://praxis-finck.berlin/wp-content/uploads/2022/08/image4.jpeg",
-    "https://praxis-finck.berlin/wp-content/uploads/2022/07/silhouette-683751-300x300.jpg"
+    "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/0.webp",
+    "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/1.webp",
+    "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/2.webp",
+    "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/3.webp",
+    "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/4.webp"
   ],
   "faq": [
     {
@@ -95,8 +98,5 @@
       "question": "Bietet die Praxis auch Online-Kurse an?",
       "answer": "Ja, die Praxis bietet Online-Kurse an, darunter einen Kurs über grundlegende Positionen und Handhabung auf dem Fahrrad."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGRtsdj1PqEcR5XCFpHB-Fxk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

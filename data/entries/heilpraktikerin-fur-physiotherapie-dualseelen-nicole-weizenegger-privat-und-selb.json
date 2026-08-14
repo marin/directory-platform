@@ -27,6 +27,9 @@
   "email": "termin@physioheilpraxis-weizenegger.de",
   "website": "http://www.physioheilpraxis-weizenegger.de/",
   "bookingUrl": "https://my.lemniscus.de/pss/40ce9b61-2a91-4104-a0ca-b818c503dad0",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbz6_0xNFqEcRc81dwBQSuAc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -46,7 +49,7 @@
   ],
   "offers": [],
   "images": [
-    "https://static.wixstatic.com/media/90a441_dc4f0083ea584d2683261d6babb45aa2~mv2.jpg/v1/fill/w_459,h_456,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/90a441_dc4f0083ea584d2683261d6babb45aa2~mv2.jpg"
+    "/images/entries/heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb/0.webp"
   ],
   "faq": [
     {
@@ -69,8 +72,5 @@
       "question": "Wo befindet sich die Praxis von Nicole Weizenegger?",
       "answer": "Die Praxis befindet sich in Berlin, Lowise-Reuter-Ring 33, 12359 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbz6_0xNFqEcRc81dwBQSuAc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 30
+  ]
 }

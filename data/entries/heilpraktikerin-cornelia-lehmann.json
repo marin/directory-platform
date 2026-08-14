@@ -25,6 +25,7 @@
   "phone": "03024617132",
   "email": "cornelialehmann@icloud.com",
   "website": "http://www.ganzheitlicheheilkunde.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ89M1TnqzqUcR9_yMIAhVk5M",
   "openingHours": [],
   "offers": [
     {
@@ -37,11 +38,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1603113669330-6SE5Z4CWHNPHVV24XYP3/IMG_0270.jpeg",
-    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/04df68d3-3f06-458b-bf26-6916543ccdaa/87F44697-FB30-45DF-B2FB-FA29AA1ED73D.png",
-    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/7cbcdc12-60d1-477e-a812-1c582ab3457e/D77A0DC6-32EA-41F4-8141-E588AC6E318A.png",
-    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1573579852973-0QJ0GE3MJVLY0AMIYC4R/artificial-intelligence-4550606.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5a64dde9cf81e00dfd72fc64/1554408302155-VY7WESA32J64QTPGXDI4/Darm_85171593_L.jpg"
+    "/images/entries/heilpraktikerin-cornelia-lehmann/0.webp",
+    "/images/entries/heilpraktikerin-cornelia-lehmann/1.webp",
+    "/images/entries/heilpraktikerin-cornelia-lehmann/2.webp",
+    "/images/entries/heilpraktikerin-cornelia-lehmann/3.webp",
+    "/images/entries/heilpraktikerin-cornelia-lehmann/4.webp"
   ],
   "faq": [
     {
@@ -64,6 +65,5 @@
       "question": "Welche Philosophie verfolgt Cornelia Lehmann in ihrer Praxis?",
       "answer": "Cornelia Lehmann verfolgt eine ganzheitliche und lösungsorientierte Philosophie, bei der sie als Übersetzerin für das individuelle Energiesystem ihrer Klienten agiert, um Energieungleichgewichte aufzudecken und Heilungsprozesse anzustoßen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ89M1TnqzqUcR9_yMIAhVk5M"
+  ]
 }

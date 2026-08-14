@@ -26,6 +26,7 @@
   "email": "info@nabeka.de",
   "website": "https://naturheilpraxis-beatrice-kapek.de/ueber-mich/",
   "bookingUrl": "https://naturheilpraxis-beatrice-kapek.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB20P3gFbqEcRx5_12fPbOso",
   "openingHours": [
     {
       "day": "Monday",
@@ -60,7 +61,7 @@
   ],
   "offers": [],
   "images": [
-    "https://nabeka.de/style/page-to-top.png"
+    "/images/entries/naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek/0.webp"
   ],
   "faq": [
     {
@@ -83,6 +84,5 @@
       "question": "Welche Dienstleistungen bietet die Naturheilpraxis Kapek an?",
       "answer": "Die Naturheilpraxis Kapek bietet Dienstleistungen im Bereich der Naturheilkunde an, spezifische Angebote sind jedoch nicht im Kontext aufgeführt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB20P3gFbqEcRx5_12fPbOso"
+  ]
 }

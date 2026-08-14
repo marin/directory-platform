@@ -26,6 +26,9 @@
   "phone": "0303967024",
   "email": "chassmann@gmx.de",
   "website": "http://www.psychotherapie-hypnose.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVFE2VlQqEcRV-zr3vXWesA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,7 +75,7 @@
     }
   ],
   "images": [
-    "https://www.psychotherapie-hypnose.net/images/michael-graewe.jpg"
+    "/images/entries/michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg/0.webp"
   ],
   "faq": [
     {
@@ -95,8 +98,5 @@
       "question": "Welche Probleme können in der Psychotherapie behandelt werden?",
       "answer": "In der Psychotherapie können persönliche Krisen, Beziehungsprobleme, Ängste, Depressionen, seelisch bedingte körperliche Beschwerden und Trauerprozesse behandelt werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVFE2VlQqEcRV-zr3vXWesA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

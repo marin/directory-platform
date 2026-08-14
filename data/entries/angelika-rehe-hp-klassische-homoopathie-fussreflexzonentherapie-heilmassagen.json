@@ -27,6 +27,9 @@
   "email": "praxis-rehe@web.de",
   "website": "https://www.praxis-rehe.de/",
   "bookingUrl": "https://www.praxis-rehe.de/der-ort/termin-vereinbaren/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUa4PJNTqEcRSzRB4O05nrU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -132,11 +135,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-rehe.de/s/img/emotionheader5807148975.jpg?1775915234.920px.342px",
-    "https://www.praxis-rehe.de/s/cc_images/cache_2487785742.jpg?t=1775918565",
-    "https://www.praxis-rehe.de/s/cc_images/cache_2487785743.jpg?t=1775918494",
-    "https://www.praxis-rehe.de/s/cc_images/cache_2487785744.jpg?t=1775918215",
-    "https://cdn.website-start.de/s/img/cc/printer.gif"
+    "/images/entries/angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen/0.webp",
+    "/images/entries/angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen/1.webp",
+    "/images/entries/angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen/2.webp",
+    "/images/entries/angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen/3.webp",
+    "/images/entries/angelika-rehe-hp-klassische-homoopathie-fussreflexzonentherapie-heilmassagen/4.webp"
   ],
   "faq": [
     {
@@ -159,8 +162,5 @@
       "question": "Wo befindet sich die Praxis von Angelika Rehe?",
       "answer": "Die Praxis befindet sich in der Schönfließer Str. 16, 10439 Berlin, im Stadtteil Pankow."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUa4PJNTqEcRSzRB4O05nrU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

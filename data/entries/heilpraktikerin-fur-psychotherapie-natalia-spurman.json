@@ -26,6 +26,9 @@
   "phone": "015730208093",
   "website": "https://spurman-psychotherapie.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/natalia-spurman",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9_dNBwBSqEcRegcpdRr3U0I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -168,8 +171,8 @@
     }
   ],
   "images": [
-    "https://spurman-psychotherapie.de/assets/img/natalia.jpg",
-    "https://spurman-psychotherapie.de/assets/img/natalia-2.jpg"
+    "/images/entries/heilpraktikerin-fur-psychotherapie-natalia-spurman/0.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-natalia-spurman/1.webp"
   ],
   "faq": [
     {
@@ -192,8 +195,5 @@
       "question": "Wie viel kostet eine Einzelsitzung bei Natalia Spurman?",
       "answer": "Eine Einzelsitzung (55 Minuten) kostet 90 €, eine verlängerte Sitzung (90 Minuten) kostet 120 € und eine intensive Sitzung (120 Minuten) kostet 160 €."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9_dNBwBSqEcRegcpdRr3U0I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

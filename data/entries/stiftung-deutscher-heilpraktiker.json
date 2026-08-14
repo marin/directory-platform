@@ -26,12 +26,13 @@
   "email": "homoeovet@t-online.de",
   "website": "https://www.dieheilpraktiker.com/kontakt.html",
   "bookingUrl": "https://www.dieheilpraktiker.com/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVVh0XBFqEcRHkzZIe2SfH4",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.dieheilpraktiker.com/udh-logo-ov.png",
-    "https://www.dieheilpraktiker.com/fdh-logo.png",
-    "https://www.dieheilpraktiker.com/vdh-logo.png"
+    "/images/entries/stiftung-deutscher-heilpraktiker/0.webp",
+    "/images/entries/stiftung-deutscher-heilpraktiker/1.webp",
+    "/images/entries/stiftung-deutscher-heilpraktiker/2.webp"
   ],
   "faq": [
     {
@@ -50,6 +51,5 @@
       "question": "Wer ist der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker?",
       "answer": "Der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker ist Arne Krüger."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVVh0XBFqEcRHkzZIe2SfH4"
+  ]
 }

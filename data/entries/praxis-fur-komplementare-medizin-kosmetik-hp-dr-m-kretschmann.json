@@ -25,6 +25,9 @@
   "phone": "015678616726",
   "website": "http://www.prakomed.de/",
   "bookingUrl": "https://calendly.com/prakomed",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRVR1c49aqEcRWRyxx2HVb5I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,9 +66,9 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/Michael+Kretschmann-1920w.jpg",
-    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/HP+Therapien-1920w.jpeg",
-    "https://le-cdn.website-editor.net/29ca0dafc29742448de6b747bc3514cb/dms3rep/multi/opt/MediumSquareLogo-1920w.jpg"
+    "/images/entries/praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann/0.webp",
+    "/images/entries/praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann/1.webp",
+    "/images/entries/praxis-fur-komplementare-medizin-kosmetik-hp-dr-m-kretschmann/2.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Wie kann ich Dr. M. Kretschmann kontaktieren?",
       "answer": "Sie können Dr. M. Kretschmann telefonisch unter 015678616726 oder per E-Mail an prakomed@gmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRVR1c49aqEcRWRyxx2HVb5I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

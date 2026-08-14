@@ -25,6 +25,9 @@
   "phone": "017655149760",
   "website": "http://www.schmerztherapie-drieske.de/",
   "bookingUrl": "https://www.schmerztherapie-drieske.de/#termine",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY907iO5QqEcRJB8JRfhzpFY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,8 +66,8 @@
     }
   ],
   "images": [
-    "https://www.schmerztherapie-drieske.de/wp-content/uploads/2019/07/DrieskeHeilpraktiker-7900a-1-uai-720x720.jpg",
-    "https://www.schmerztherapie-drieske.de/wp-content/uploads/2019/07/DrieskeHeilpraktiker-5809-1-uai-720x720.jpg"
+    "/images/entries/heilpraktikerin-christine-drieske/0.webp",
+    "/images/entries/heilpraktikerin-christine-drieske/1.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Welche Therapieformen bietet Christine Drieske an?",
       "answer": "Christine Drieske bietet verschiedene Therapieformen an, darunter Chiropraktik, Mesotherapie, manuelle Therapie, Kinesiotape, Akupunktur, Schröpfen, cranio-sakrale Therapie, Neuraltherapie und viele weitere."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY907iO5QqEcRJB8JRfhzpFY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 30
+  ]
 }

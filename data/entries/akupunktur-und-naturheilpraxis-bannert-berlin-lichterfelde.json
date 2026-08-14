@@ -27,6 +27,9 @@
   "email": "post@praxis-bannert.de",
   "website": "http://www.praxis-bannert.de/",
   "bookingUrl": "https://www.praxis-bannert.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJd3ZSJQVbqEcRaM-n3PxXGeo",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -51,11 +54,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-bannert.de/s/img/emotionheader4173152.png?1682188514.920px.292px",
-    "https://www.praxis-bannert.de/s/cc_images/cache_2855020.jpg?t=1481302556",
-    "https://www.praxis-bannert.de/s/cc_images/cache_2855021.jpg?t=1481302356",
-    "https://www.praxis-bannert.de/s/cc_images/cache_2855022.jpg?t=1481302406",
-    "https://www.praxis-bannert.de/s/cc_images/cache_2855023.jpg?t=1481307184"
+    "/images/entries/akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde/0.webp",
+    "/images/entries/akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde/1.webp",
+    "/images/entries/akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde/2.webp",
+    "/images/entries/akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde/3.webp",
+    "/images/entries/akupunktur-und-naturheilpraxis-bannert-berlin-lichterfelde/4.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 030/7122994 oder per E-Mail an post@praxis-bannert.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJd3ZSJQVbqEcRaM-n3PxXGeo",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 4
+  ]
 }

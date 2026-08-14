@@ -26,14 +26,17 @@
   "email": "mail@naturheilpraxis-lass.de",
   "website": "http://www.naturheilpraxis-lass.de/",
   "bookingUrl": "https://www.naturheilpraxis-lass.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEX1T4NNbqEcRZf5MCANbSm8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-lass.de/img/Bea.jpg",
-    "https://www.naturheilpraxis-lass.de/img/naturheilpraxis.gif",
-    "https://www.naturheilpraxis-lass.de/img/signet.gif",
-    "https://www.naturheilpraxis-lass.de/img/nav_rund_li_sel.gif",
-    "https://www.naturheilpraxis-lass.de/img/px.gif"
+    "/images/entries/frau-beatrix-lass/0.webp",
+    "/images/entries/frau-beatrix-lass/1.webp",
+    "/images/entries/frau-beatrix-lass/2.webp",
+    "/images/entries/frau-beatrix-lass/3.webp",
+    "/images/entries/frau-beatrix-lass/4.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
       "answer": "Sie können einen Termin über die Buchungsseite auf der Website unter https://www.naturheilpraxis-lass.de/kontakt.html buchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEX1T4NNbqEcRZf5MCANbSm8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

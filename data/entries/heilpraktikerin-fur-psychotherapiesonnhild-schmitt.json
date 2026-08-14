@@ -26,10 +26,11 @@
   "phone": "03027015976",
   "email": "kontakt@hp-psych-spandau.de",
   "website": "https://hp-psych-spandau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZVIDitdXqEcRNcfa9lGvNtI",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://hp-psych-spandau.de/.cm4all/uproc.php/0/Br%C3%BCcke%2023.jpg"
+    "/images/entries/heilpraktikerin-fur-psychotherapiesonnhild-schmitt/0.webp"
   ],
   "faq": [
     {
@@ -48,6 +49,5 @@
       "question": "Gibt es die Möglichkeit, ein kostenloses Informationsgespräch zu vereinbaren?",
       "answer": "Ja, Sie können einen Termin für ein kostenloses Informationsgespräch vereinbaren, um mehr über die angebotenen Dienstleistungen zu erfahren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZVIDitdXqEcRNcfa9lGvNtI"
+  ]
 }

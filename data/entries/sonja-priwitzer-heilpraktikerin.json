@@ -28,6 +28,9 @@
   "email": "kontakt@praxis-priwitzer.de",
   "website": "https://www.praxis-priwitzer.de/",
   "bookingUrl": "https://www.praxis-priwitzer.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa0HdVmhFqEcRWd1aQtcD04c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -218,11 +221,11 @@
     }
   ],
   "images": [
-    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/03/hypnose.jpg",
-    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/03/wechseljahre-beratung-berlin.jpg",
-    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/04/akupunktur.jpg",
-    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/10/coaching-tempelhof-schoeneberg.jpg",
-    "https://www.praxis-priwitzer.de/wp-content/uploads/2021/10/heilpraktiker-tempelhof.jpg"
+    "/images/entries/sonja-priwitzer-heilpraktikerin/0.webp",
+    "/images/entries/sonja-priwitzer-heilpraktikerin/1.webp",
+    "/images/entries/sonja-priwitzer-heilpraktikerin/2.webp",
+    "/images/entries/sonja-priwitzer-heilpraktikerin/3.webp",
+    "/images/entries/sonja-priwitzer-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -245,8 +248,5 @@
       "question": "Wie kann ich Sonja Priwitzer kontaktieren?",
       "answer": "Sie können Sonja Priwitzer telefonisch unter 01796640567 oder per E-Mail an kontakt@praxis-priwitzer.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa0HdVmhFqEcRWd1aQtcD04c",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

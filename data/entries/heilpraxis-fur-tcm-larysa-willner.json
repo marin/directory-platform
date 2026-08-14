@@ -26,6 +26,7 @@
   "phone": "01721726875",
   "email": "larysa.willner@gmx.de",
   "website": "https://www.willner-tcm-berlin.de/index.htm",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl8d2PG2JeIARPOxqmLWDse8",
   "openingHours": [
     {
       "day": "Monday",
@@ -61,11 +62,11 @@
     }
   ],
   "images": [
-    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/a/9/csm_Depositphotos_29903537_original_0886051891.webp",
-    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/1/2/csm_akpunktur_b0d11d7c06.webp",
-    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/7/7/csm_arzneimittel_295d938cd7.webp",
-    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/1/0/csm_tuina_0bdafd16bb.webp",
-    "https://www.willner-tcm-berlin.de/fileadmin/_processed_/5/7/csm_qigong_0e4f7d398c.webp"
+    "/images/entries/heilpraxis-fur-tcm-larysa-willner/0.webp",
+    "/images/entries/heilpraxis-fur-tcm-larysa-willner/1.webp",
+    "/images/entries/heilpraxis-fur-tcm-larysa-willner/2.webp",
+    "/images/entries/heilpraxis-fur-tcm-larysa-willner/3.webp",
+    "/images/entries/heilpraxis-fur-tcm-larysa-willner/4.webp"
   ],
   "faq": [
     {
@@ -88,6 +89,5 @@
       "question": "Was ist Traditionelle Chinesische Medizin (TCM)?",
       "answer": "Traditionelle Chinesische Medizin ist ein ganzheitliches Heilverfahren, das verschiedene Methoden wie Akupunktur, Tuina, Moxibustion und chinesische Arzneimitteltherapie umfasst."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJl8d2PG2JeIARPOxqmLWDse8"
+  ]
 }

@@ -27,6 +27,9 @@
   "phone": "015231097732",
   "website": "https://kompasspraxis-kreuzberg.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/petra-reichensperger-3bcdfec1-f3da-463d-b1b1-257633ffbf0e",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuTvRJuVPqEcRq18Q4nFlv-0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -66,10 +69,10 @@
   ],
   "offers": [],
   "images": [
-    "https://kompasspraxis-kreuzberg.de/wp-content/uploads/2023/11/IMG_6438_9-2048x1455.jpg",
-    "https://kompasspraxis-kreuzberg.de/wp-content/uploads/2024/07/kompass_praxis_akupunktur-2048x1455.jpg",
-    "https://kompasspraxis-kreuzberg.de/wp-content/themes/kom/lib/images/logo.png",
-    "https://kompasspraxis-kreuzberg.de/wp-content/themes/kom/lib/images/logo-active.png"
+    "/images/entries/kompass-praxis-fur-akupunktur-und-homoopathie/0.webp",
+    "/images/entries/kompass-praxis-fur-akupunktur-und-homoopathie/1.webp",
+    "/images/entries/kompass-praxis-fur-akupunktur-und-homoopathie/2.webp",
+    "/images/entries/kompass-praxis-fur-akupunktur-und-homoopathie/3.webp"
   ],
   "faq": [
     {
@@ -92,8 +95,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 015231097732 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuTvRJuVPqEcRq18Q4nFlv-0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 31
+  ]
 }

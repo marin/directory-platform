@@ -27,6 +27,9 @@
   "email": "susanne@susannehake.de",
   "website": "https://susannehake.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/susanne-hake?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN3rWBeBaqEcR3Ll3-mwoMZ8",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 29,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://susannehake.de/wp-content/uploads/2024/04/Susanne-Hake-Portrait800-%C3%97-800-px-1.png",
-    "https://s3-eu-west-1.amazonaws.com/jamedade/doctor/b2b673/b2b673cbca279dd2e01042044ade55a9_140_square.jpg",
-    "https://susannehake.de/wp-content/uploads/2024/04/Osteopathie.jpg",
-    "https://susannehake.de/wp-content/uploads/2024/03/Osteopathie-Berlin-Steglitz-Zehlendorf-1920x1080-2.jpg",
-    "https://susannehake.de/wp-content/uploads/2024/03/Osteopathie-Ruecken-und-Nacken-1.jpg"
+    "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/0.webp",
+    "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/1.webp",
+    "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/2.webp",
+    "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/3.webp",
+    "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Wie kann ich Susanne Hake kontaktieren?",
       "answer": "Sie können Susanne Hake telefonisch unter 01726144020 oder per E-Mail an susanne@susannehake.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN3rWBeBaqEcR3Ll3-mwoMZ8",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 29
+  ]
 }

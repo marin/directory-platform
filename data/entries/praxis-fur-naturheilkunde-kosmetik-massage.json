@@ -26,6 +26,9 @@
   "email": "kontakt@naturheilpraxis-karlshorst.de",
   "website": "http://naturheilpraxis-karlshorst.de/",
   "bookingUrl": "https://naturheilpraxis-karlshorst.de/Termine.htm",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwx_ZIIxJqEcRIQti41dBfIs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -285,8 +288,8 @@
     }
   ],
   "images": [
-    "http://naturheilpraxis-karlshorst.de/images/Britta/Foto_kl_kl_kl..JPG",
-    "http://naturheilpraxis-karlshorst.de/images/pfeilmenue.gif"
+    "/images/entries/praxis-fur-naturheilkunde-kosmetik-massage/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-kosmetik-massage/1.webp"
   ],
   "faq": [
     {
@@ -309,8 +312,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03080586691 oder per E-Mail an kontakt@naturheilpraxis-karlshorst.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwx_ZIIxJqEcRIQti41dBfIs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

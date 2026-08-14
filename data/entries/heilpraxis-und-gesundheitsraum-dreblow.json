@@ -24,6 +24,9 @@
   },
   "phone": "03091701468",
   "website": "http://naturpraxis-dreblow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH4o1VylMqEcRrFMEQgPqMw4",
+  "googleMapsRating": 2,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -32,10 +35,10 @@
     }
   ],
   "images": [
-    "https://fotos.verwaltungsportal.de/seitengenerator/gross/sofas_herzlich_wikommen.png",
-    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/overlay_search_white_v2.png",
-    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/sendlink.gif",
-    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/print.gif"
+    "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/0.webp",
+    "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/1.webp",
+    "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/2.webp",
+    "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/3.webp"
   ],
   "faq": [
     {
@@ -58,8 +61,5 @@
       "question": "Ist die Praxis barrierefrei?",
       "answer": "Ja, die Praxis ist barrierefrei und rollstuhlgerecht."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH4o1VylMqEcRrFMEQgPqMw4",
-  "googleMapsRating": 2,
-  "googleMapsRatingsCount": 1
+  ]
 }

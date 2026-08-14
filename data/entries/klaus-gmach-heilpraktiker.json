@@ -26,6 +26,7 @@
   "email": "klaus.gmach@gmx.de",
   "website": "http://www.moma-berlin.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/klaus-gmach",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsd4z3M5PqEcRec-8T4_7vzQ",
   "openingHours": [],
   "offers": [
     {
@@ -34,8 +35,8 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/daad3a5881134562b4c79f46027e6a03.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/daad3a5881134562b4c79f46027e6a03.jpg",
-    "https://static.wixstatic.com/media/dd713b_95283be87c714c649904e2391e1e0102~mv2_d_1440_2560_s_2.jpg/v1/fill/w_2500,h_4444,al_c/dd713b_95283be87c714c649904e2391e1e0102~mv2_d_1440_2560_s_2.jpg"
+    "/images/entries/klaus-gmach-heilpraktiker/0.webp",
+    "/images/entries/klaus-gmach-heilpraktiker/1.webp"
   ],
   "faq": [
     {
@@ -58,6 +59,5 @@
       "question": "Wie kann ich Klaus Gmach erreichen?",
       "answer": "Sie können Klaus Gmach telefonisch unter 01757439083 oder per E-Mail unter klaus.gmach@gmx.de erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsd4z3M5PqEcRec-8T4_7vzQ"
+  ]
 }

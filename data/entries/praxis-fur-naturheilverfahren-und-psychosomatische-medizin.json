@@ -25,6 +25,9 @@
   "phone": "0303049077",
   "email": "praxis@richter-baess.de",
   "website": "http://richter-baess.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhRpuLClXqEcRlu9w1hCSyDc",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,8 +62,8 @@
   ],
   "offers": [],
   "images": [
-    "https://www.richter-baess.de/img/header.jpeg",
-    "https://www.richter-baess.de/img/zertifikat_90224087.png"
+    "/images/entries/praxis-fur-naturheilverfahren-und-psychosomatische-medizin/0.webp",
+    "/images/entries/praxis-fur-naturheilverfahren-und-psychosomatische-medizin/1.webp"
   ],
   "faq": [
     {
@@ -83,8 +86,5 @@
       "question": "Wer sind die Heilpraktiker in der Praxis?",
       "answer": "Die Heilpraktiker in der Praxis sind Frank Richter und Sabine Baeß."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhRpuLClXqEcRlu9w1hCSyDc",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 11
+  ]
 }

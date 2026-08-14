@@ -26,6 +26,9 @@
   "phone": "03088497716",
   "email": "cemero@freenet.de",
   "website": "http://naturheilpraxis-wilmersdorf.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJucG59YdQqEcRJAyVDHH3r6c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17,
   "openingHours": [
     {
       "day": "Monday",
@@ -96,11 +99,11 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-wilmersdorf.com/s/img/emotionheader32088401.jpg?1557822391.920px.340px",
-    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51377452.jpg?t=1557061493",
-    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_49150555.jpg?t=1555016244",
-    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51377176.jpeg?t=1555083337",
-    "https://www.naturheilpraxis-wilmersdorf.com/s/cc_images/cache_51291726.jpeg?t=1555016276"
+    "/images/entries/naturheilpraxis-celine-meyer-rogge/0.webp",
+    "/images/entries/naturheilpraxis-celine-meyer-rogge/1.webp",
+    "/images/entries/naturheilpraxis-celine-meyer-rogge/2.webp",
+    "/images/entries/naturheilpraxis-celine-meyer-rogge/3.webp",
+    "/images/entries/naturheilpraxis-celine-meyer-rogge/4.webp"
   ],
   "faq": [
     {
@@ -123,8 +126,5 @@
       "question": "Bietet die Naturheilpraxis Gutscheine an?",
       "answer": "Ja, die Naturheilpraxis Céline Meyer-Rogge bietet Gutscheine an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJucG59YdQqEcRJAyVDHH3r6c",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 17
+  ]
 }

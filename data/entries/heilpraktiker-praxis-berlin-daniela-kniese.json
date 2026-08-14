@@ -26,6 +26,9 @@
   "email": "kniese.hp@gmail.com",
   "website": "https://daniela-kniese.de/",
   "bookingUrl": "https://www.daniela-kniese.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLb-jyPlZqEcR_hTW75Q-O3c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -182,11 +185,11 @@
     }
   ],
   "images": [
-    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/bewertung_heilpraktiker_berlin_web-high.jpg?enable-io=true&enable=upscale&crop=1%3A1&width=800",
-    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/heilpraktikerin_daniela_kniese_garten_1-standard.jpg",
-    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/gro-8-ohne-hintergrund-standard-3n9mhi-standard-xghfvi.webp",
-    "https://primary.jwwb.nl/pexels/69/6985191.jpeg",
-    "https://primary.jwwb.nl/public/q/b/l/temp-riwhvobdhpwcoejsjpxt/heilpraktikerin_daniela_kniese_garten_1-high.jpg"
+    "/images/entries/heilpraktiker-praxis-berlin-daniela-kniese/0.webp",
+    "/images/entries/heilpraktiker-praxis-berlin-daniela-kniese/1.webp",
+    "/images/entries/heilpraktiker-praxis-berlin-daniela-kniese/2.webp",
+    "/images/entries/heilpraktiker-praxis-berlin-daniela-kniese/3.webp",
+    "/images/entries/heilpraktiker-praxis-berlin-daniela-kniese/4.webp"
   ],
   "faq": [
     {
@@ -209,8 +212,5 @@
       "question": "Werden die Kosten für die Heilbehandlung von der Krankenkasse übernommen?",
       "answer": "Private Krankenkassen und einige Zusatzversicherungen übernehmen unter bestimmten Voraussetzungen einen Teil der Kosten für die Heilbehandlung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLb-jyPlZqEcR_hTW75Q-O3c",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

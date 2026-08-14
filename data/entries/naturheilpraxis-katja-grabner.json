@@ -24,6 +24,7 @@
   },
   "phone": "03066770166",
   "website": "http://www.praxis-mommsen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX45fgspRqEcRlXJSKzYR1SQ",
   "openingHours": [
     {
       "day": "Monday",
@@ -66,9 +67,9 @@
     }
   ],
   "images": [
-    "http://www.praxis-mommsen.de/Sommerferien%202026.01.png",
-    "http://www.praxis-mommsen.de/Sommerferien%202026.02.png",
-    "http://www.praxis-mommsen.de/images/index_20.gif"
+    "/images/entries/naturheilpraxis-katja-grabner/0.webp",
+    "/images/entries/naturheilpraxis-katja-grabner/1.webp",
+    "/images/entries/naturheilpraxis-katja-grabner/2.webp"
   ],
   "faq": [
     {
@@ -91,6 +92,5 @@
       "question": "Gibt es Informationen über die c/o-Praxis für Berufsanfänger?",
       "answer": "Ja, die c/o-Praxis ist eine naturheilkundliche Berufsanfängerpraxis für Heilpraktiker*innen, die einen voll eingerichteten Praxisraum in der bestehenden Praxisgemeinschaft nutzen können."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX45fgspRqEcRlXJSKzYR1SQ"
+  ]
 }

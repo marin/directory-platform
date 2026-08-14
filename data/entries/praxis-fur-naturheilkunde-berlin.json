@@ -26,6 +26,9 @@
   "email": "info@praxis-fuer-naturheilkunde-berlin.de",
   "website": "http://praxis-fuer-naturheilkunde-berlin.de/",
   "bookingUrl": "http://praxis-fuer-naturheilkunde-berlin.de/praxis#50",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu2goLjtQqEcReVarUrQhvRY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,11 +71,11 @@
     }
   ],
   "images": [
-    "http://praxis-fuer-naturheilkunde-berlin.de/img/_page/01_header_HP_06_09_17.png",
-    "http://praxis-fuer-naturheilkunde-berlin.de/img/_page/01_gudrun_HP_05_10_17.png",
-    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_top_HP_06_09_17.png",
-    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_mid_HP_06_09_17.png",
-    "http://praxis-fuer-naturheilkunde-berlin.de/img/_half/01_kreis_low_HP_06_09_17.png"
+    "/images/entries/praxis-fur-naturheilkunde-berlin/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-berlin/1.webp",
+    "/images/entries/praxis-fur-naturheilkunde-berlin/2.webp",
+    "/images/entries/praxis-fur-naturheilkunde-berlin/3.webp",
+    "/images/entries/praxis-fur-naturheilkunde-berlin/4.webp"
   ],
   "faq": [
     {
@@ -91,8 +94,5 @@
       "question": "Wie kann ich die Praxis für Naturheilkunde Berlin kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03070094074 oder per E-Mail an info@praxis-fuer-naturheilkunde-berlin.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu2goLjtQqEcReVarUrQhvRY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

@@ -28,6 +28,9 @@
   "email": "praxis@hp-ullrich.de",
   "website": "https://www.hp-ullrich.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/tanja-ullrich?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJazx7nlNHqEcRcUkdz6bdkFk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -62,7 +65,7 @@
     }
   ],
   "images": [
-    "https://www.hp-ullrich.de/.cm4all/uproc.php/0/Praxisbild%20sw.jpg"
+    "/images/entries/heilpraktikerin-tanja-ullrich-schmerztherapie-n-liebscher-bracht-angsttherapie-p/0.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Wie kann ich Tanja Ullrich kontaktieren?",
       "answer": "Sie können Tanja Ullrich telefonisch unter 03081691658 oder per E-Mail an praxis@hp-ullrich.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJazx7nlNHqEcRcUkdz6bdkFk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

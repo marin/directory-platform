@@ -24,11 +24,14 @@
   },
   "phone": "03028384366",
   "website": "http://www.akupunktur-mitte.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWlUgOhRqEcRl8f9RdFo0hY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.akupunktur-mitte.de/img/heilpraktikerin_margot_schlemender_mischo.jpg",
-    "https://www.akupunktur-mitte.de/img/logo_akupunktur_mitte.png"
+    "/images/entries/frau-margot-schlemender-mischo/0.webp",
+    "/images/entries/frau-margot-schlemender-mischo/1.webp"
   ],
   "faq": [
     {
@@ -51,8 +54,5 @@
       "question": "Wie lange praktiziert Frau Margot Schlemender-Mischo bereits als Heilpraktikerin?",
       "answer": "Frau Margot Schlemender-Mischo praktiziert seit 1991 als Heilpraktikerin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWlUgOhRqEcRl8f9RdFo0hY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

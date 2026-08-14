@@ -25,6 +25,7 @@
   "phone": "01772585113",
   "email": "heilpraktikerin@berlin.de",
   "website": "http://susanne-reinthal-hp.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS6CTtv1QqEcRXHvxkPn1bt4",
   "openingHours": [
     {
       "day": "Monday",
@@ -92,11 +93,11 @@
     }
   ],
   "images": [
-    "http://susanne-reinthal-hp.de/wp-content/uploads/2025/09/IMG-20250822-WA0002.jpg",
-    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/ausschnitt4-1.jpg",
-    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten5-1.jpg",
-    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten3-1.jpg",
-    "http://susanne-reinthal-hp.de/wp-content/uploads/2016/04/blueten1-1.jpg"
+    "/images/entries/susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip/0.webp",
+    "/images/entries/susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip/1.webp",
+    "/images/entries/susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip/2.webp",
+    "/images/entries/susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip/3.webp",
+    "/images/entries/susanne-reinthal-heilpraktikerin-im-hotel-bleibtreu-berlin-by-golden-tulip/4.webp"
   ],
   "faq": [
     {
@@ -119,6 +120,5 @@
       "question": "Wie hoch sind die Kosten für eine Behandlung?",
       "answer": "Die Kosten für eine Behandlung betragen 80 Euro für eine Dauer von 60 Minuten. Die Abrechnung erfolgt privat oder über private Krankenkassen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS6CTtv1QqEcRXHvxkPn1bt4"
+  ]
 }

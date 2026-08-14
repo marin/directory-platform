@@ -26,14 +26,15 @@
   "email": "info@naturheilpraxis-nowak.de",
   "website": "http://naturheilpraxis-nowak.de/",
   "bookingUrl": "http://www.naturheilpraxis-nowak.de/Kontakt-7.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOdF1pQ5GqEcRfc_UcqztSPo",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-nowak.de/grafiken/img/istformat/naturheilpraxis_simone_nowak_berlin_-_kr%C3%A4uterheilkunde-1500909863.jpg",
-    "https://www.naturheilpraxis-nowak.de/grafiken/farben6/4/RundungUnten.jpg",
-    "https://www.naturheilpraxis-nowak.de/scripts/images/close.png",
-    "https://www.naturheilpraxis-nowak.de/grafiken/leer.gif",
-    "https://www.naturheilpraxis-nowak.de/grafiken/login.gif"
+    "/images/entries/naturheilpraxis-simone-dopierala-nowak/0.webp",
+    "/images/entries/naturheilpraxis-simone-dopierala-nowak/1.webp",
+    "/images/entries/naturheilpraxis-simone-dopierala-nowak/2.webp",
+    "/images/entries/naturheilpraxis-simone-dopierala-nowak/3.webp",
+    "/images/entries/naturheilpraxis-simone-dopierala-nowak/4.webp"
   ],
   "faq": [
     {
@@ -56,6 +57,5 @@
       "question": "Wann finden die Sprechstunden in Berlin Rudow statt?",
       "answer": "Die Sprechstunden in Berlin Rudow finden jeden 1. Dienstag im Monat von 10 bis 18 Uhr statt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOdF1pQ5GqEcRfc_UcqztSPo"
+  ]
 }

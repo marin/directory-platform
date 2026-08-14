@@ -25,6 +25,9 @@
   "phone": "01702189733",
   "website": "https://arianeboesenberg.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ariane-boesenberg?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZSmHkJRqEcRM8JycnkQ6es",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -115,7 +118,7 @@
     }
   ],
   "images": [
-    "https://arianeboesenberg.com/assets/images/JENS230529_1797-2.jpg.webp"
+    "/images/entries/berlin-prenzlauer-berg-praxis-ariane-boesenberg/0.webp"
   ],
   "faq": [
     {
@@ -138,8 +141,5 @@
       "question": "Welche Therapieansätze bietet Ariane Boesenberg an?",
       "answer": "Ariane Boesenberg bietet verschiedene Therapieansätze an, darunter Kinesiologie/Psychokinesiologie, Stressbewältigung, Burnout-Behandlung, Beziehungstherapie und Theta-Healing."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWZSmHkJRqEcRM8JycnkQ6es",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

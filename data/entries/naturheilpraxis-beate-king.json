@@ -26,6 +26,9 @@
   "email": "beateking@web.de",
   "website": "https://naturheilpraxis-king.de/",
   "bookingUrl": "https://naturheilpraxis-king.de/termine.html%20%22",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA9MmkWdGqEcR12pJisMDMiU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -176,8 +179,8 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-king.de/images/blutegelgrau1_1.jpg",
-    "https://naturheilpraxis-king.de/images/blutegelgrau1_gespiegelt.jpg"
+    "/images/entries/naturheilpraxis-beate-king/0.webp",
+    "/images/entries/naturheilpraxis-beate-king/1.webp"
   ],
   "faq": [
     {
@@ -200,8 +203,5 @@
       "question": "Wie kann ich die Naturheilpraxis Beate King kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Beate King telefonisch unter 015121665893 oder per E-Mail an beateking@web.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJA9MmkWdGqEcR12pJisMDMiU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

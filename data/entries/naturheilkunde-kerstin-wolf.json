@@ -26,11 +26,14 @@
   "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
   "website": "https://www.naturheilkunde-in-weissensee.de/",
   "bookingUrl": "https://www.naturheilkunde-in-weissensee.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNTX4ZsNNqEcRgPKZSg2jGlY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilkunde-in-weissensee.de/s/cc_images/cache_2462197589.jpg?t=1510242958",
-    "https://www.naturheilkunde-in-weissensee.de/s/img/emotionheader.jpg"
+    "/images/entries/naturheilkunde-kerstin-wolf/0.webp",
+    "/images/entries/naturheilkunde-kerstin-wolf/1.webp"
   ],
   "faq": [
     {
@@ -53,8 +56,5 @@
       "question": "Behandelt Kerstin Wolf auch Kinder und Jugendliche?",
       "answer": "Ja, Kerstin Wolf behandelt Kinder, Jugendliche und Erwachsene mit akuten und chronischen Erkrankungen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNTX4ZsNNqEcRgPKZSg2jGlY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

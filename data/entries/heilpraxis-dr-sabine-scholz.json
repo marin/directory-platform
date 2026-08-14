@@ -25,6 +25,9 @@
   "phone": "03080491353",
   "email": "kontakt@sabine-scholz.de",
   "website": "http://www.sabine-scholz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD3wxmhBZqEcRZK2UkYXTTF8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC03487-mehr-Kraft-Header-1200x514.jpg",
-    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC03487-mehr-Leichtigkeit-Header-3-1200x514.jpg",
-    "https://www.sabine-scholz.de/wp-content/uploads/2016/10/DSC08168-mehr-Energie-Header-1200x514.jpg",
-    "https://www.sabine-scholz.de/wp-content/uploads/2023/03/DSC03487-mehr-Kraft-500px.jpg",
-    "https://www.sabine-scholz.de/wp-content/uploads/2023/03/DSC03487-mehr-Leichtigkeit-500px.jpg"
+    "/images/entries/heilpraxis-dr-sabine-scholz/0.webp",
+    "/images/entries/heilpraxis-dr-sabine-scholz/1.webp",
+    "/images/entries/heilpraxis-dr-sabine-scholz/2.webp",
+    "/images/entries/heilpraxis-dr-sabine-scholz/3.webp",
+    "/images/entries/heilpraxis-dr-sabine-scholz/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Gibt es Online-Angebote in der Heilpraxis?",
       "answer": "Ja, die Heilpraxis bietet auch Online-Beratung und Bewegungskurse zur Gesundheitsförderung an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD3wxmhBZqEcRZK2UkYXTTF8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

@@ -25,6 +25,9 @@
   },
   "website": "https://maximtherapy.com/",
   "bookingUrl": "https://www.maximtherapy.com/book/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa9y76WppnmgRlAHpVP63Fh4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -69,11 +72,8 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/508474907/e83b2d65-fa16-4660-ade4-f1035d023aef.jpg",
-    "https://static-assets.jimstatic.com/renderer/static/calendly_logo.eb5a11216dbbe4bd0d8f..png"
+    "/images/entries/cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi/0.webp",
+    "/images/entries/cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi/1.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa9y76WppnmgRlAHpVP63Fh4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  "faq": []
 }

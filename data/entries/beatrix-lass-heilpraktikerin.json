@@ -26,14 +26,15 @@
   "email": "mail@naturheilpraxis-lass.de",
   "website": "http://www.naturheilpraxis-lass.de/",
   "bookingUrl": "https://www.naturheilpraxis-lass.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2TQ_VIdZqEcRz8IpdG6QR9A",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-lass.de/img/Bea.jpg",
-    "https://www.naturheilpraxis-lass.de/img/naturheilpraxis.gif",
-    "https://www.naturheilpraxis-lass.de/img/signet.gif",
-    "https://www.naturheilpraxis-lass.de/img/nav_rund_li_sel.gif",
-    "https://www.naturheilpraxis-lass.de/img/px.gif"
+    "/images/entries/beatrix-lass-heilpraktikerin/0.webp",
+    "/images/entries/beatrix-lass-heilpraktikerin/1.webp",
+    "/images/entries/beatrix-lass-heilpraktikerin/2.webp",
+    "/images/entries/beatrix-lass-heilpraktikerin/3.webp",
+    "/images/entries/beatrix-lass-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -56,6 +57,5 @@
       "question": "Gibt es Informationen über die Öffnungszeiten der Praxis?",
       "answer": "Im aktuellen Eintrag sind keine Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2TQ_VIdZqEcRz8IpdG6QR9A"
+  ]
 }

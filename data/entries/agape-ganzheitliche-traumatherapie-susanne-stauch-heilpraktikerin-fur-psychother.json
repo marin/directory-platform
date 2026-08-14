@@ -24,6 +24,9 @@
     "lng": 13.4213606
   },
   "website": "http://agape.supernova.institute/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPV0qK8tPqEcRjL_RNVyYHvw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -48,14 +51,10 @@
   ],
   "offers": [],
   "images": [
-    "https://agape.supernova.institute/wp-content/uploads/sites/7/2024/08/stauch_agape-238x300.jpg",
-    "https://agape.supernova.institute/wp-content/uploads/2023/08/Susa_Agape_Drum_web.jpg",
-    "https://agape.supernova.institute/wp-content/uploads/2025/04/agape-full-logo.png",
-    "https://agape.supernova.institute/wp-content/uploads/2023/07/heartmind-icon.svg",
-    "https://agape.supernova.institute/wp-content/uploads/2023/07/spiritmind-icon.svg"
+    "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/1.webp",
+    "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/2.webp",
+    "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/3.webp",
+    "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPV0qK8tPqEcRjL_RNVyYHvw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

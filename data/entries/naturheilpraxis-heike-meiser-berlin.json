@@ -25,14 +25,17 @@
   "phone": "03084721788",
   "email": "info@meiser-berlin.de",
   "website": "https://www.meiser-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7x-8ALlbqEcRLOMyYUpwZx0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/5cad94b377b9034627a11ce0/1555365097313-YBYQ5GA8FRH7J5PREJS6/Heike_Meiser_Heilpraktikerin_XII.png",
-    "https://images.squarespace-cdn.com/content/v1/5cad94b377b9034627a11ce0/1555366731709-YXB67MS4GR6DU3CJLP7V/Heike_Meiser_Heilpraktikerin_Reiki-Meisterin.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5cad94b377b9034627a11ce0/1560228896516-8GMRIUIIAQCYZHONKJ3N/Heike_Meiser_Reiki_Berlin.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5cad94b377b9034627a11ce0/eaa69f0e-ba5d-403f-906f-ce226b79151a/Hom%C3%B6opathie_Heike_Meiser_Berlin_.jpg",
-    "https://images.squarespace-cdn.com/content/v1/5cad94b377b9034627a11ce0/1560229048441-HFDGN1EX8HJV7EMM3PXH/Heike_Meiser_BreussMassage.jpg"
+    "/images/entries/naturheilpraxis-heike-meiser-berlin/0.webp",
+    "/images/entries/naturheilpraxis-heike-meiser-berlin/1.webp",
+    "/images/entries/naturheilpraxis-heike-meiser-berlin/2.webp",
+    "/images/entries/naturheilpraxis-heike-meiser-berlin/3.webp",
+    "/images/entries/naturheilpraxis-heike-meiser-berlin/4.webp"
   ],
   "faq": [
     {
@@ -51,8 +54,5 @@
       "question": "Welche Philosophie verfolgt Heike Meiser in ihrer Praxis?",
       "answer": "Heike Meiser verfolgt die Philosophie, dass die Gesundheit in der Balance des Körpers zu finden ist und hilft ihren Patienten, ihr persönliches Gleichgewicht wiederherzustellen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7x-8ALlbqEcRLOMyYUpwZx0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

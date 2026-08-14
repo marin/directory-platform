@@ -26,6 +26,7 @@
   "phone": "01702899819",
   "website": "https://www.emelcoban.de/",
   "bookingUrl": "https://emelcoban.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCwtiZRqEcRvVtrMMCeI8U",
   "openingHours": [],
   "offers": [
     {
@@ -50,11 +51,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=png/path/s8810f2d8e1bced3c/image/i8cc8b81eb3f94219/version/1722181226/grafik-symptome-ptbs-komplex-ptbs.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=png/path/s8810f2d8e1bced3c/image/i4ff8c1dead75e498/version/1722181226/grafik-therapeutische-grundhaltung-methoden-und-ans%C3%A4tze.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=294x10000:format=jpg/path/s8810f2d8e1bced3c/image/i822c980b565b49f7/version/1722181226/m%C3%A4dchen-tutu.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=292x10000:format=jpg/path/s8810f2d8e1bced3c/image/iab7ee0a258476d2e/version/1722181226/frau-in-weisser-kleidung-meditiert.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=474x1024:format=jpg/path/s8810f2d8e1bced3c/image/i4ee982ff6a9a9daa/version/1782223864/frau-portr%C3%A4t-vor-klinkerwand.jpg"
+    "/images/entries/traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie/2.webp",
+    "/images/entries/traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie/3.webp",
+    "/images/entries/traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -77,6 +78,5 @@
       "question": "Wie kann ich Emel Coban-Kraus kontaktieren?",
       "answer": "Sie können Emel Coban-Kraus telefonisch unter 01702899819 erreichen oder ihre Website besuchen: emelcoban.de."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCwtiZRqEcRvVtrMMCeI8U"
+  ]
 }

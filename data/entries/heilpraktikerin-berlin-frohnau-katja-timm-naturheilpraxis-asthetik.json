@@ -27,6 +27,9 @@
   "email": "praxis@naturheilpraxistimm.de",
   "website": "http://gesund-schoen-berlin.de/",
   "bookingUrl": "https://www.gesund-schoen-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ3HeoPdQqEcRW8clEIWNLis",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -92,11 +95,11 @@
     }
   ],
   "images": [
-    "https://gesund-schoen-berlin.de/wp-content/uploads/katjapraxis3.jpg",
-    "https://gesund-schoen-berlin.de/wp-content/uploads/IMG_0800-768x1024.jpg",
-    "https://gesund-schoen-berlin.de/wp-content/uploads/DSC0907-1024x576.jpg",
-    "https://gesund-schoen-berlin.de/wp-content/uploads/IMG_0431-768x1024.jpg",
-    "https://gesund-schoen-berlin.de/wp-content/uploads/Slow-240x300.png"
+    "/images/entries/heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik/0.webp",
+    "/images/entries/heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik/1.webp",
+    "/images/entries/heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik/2.webp",
+    "/images/entries/heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik/3.webp",
+    "/images/entries/heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik/4.webp"
   ],
   "faq": [
     {
@@ -119,8 +122,5 @@
       "question": "Wie kann ich Katja Timm kontaktieren?",
       "answer": "Sie können Katja Timm telefonisch unter 03040573241 oder per E-Mail an praxis@naturheilpraxistimm.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ3HeoPdQqEcRW8clEIWNLis",
-  "googleMapsRating": 4.4,
-  "googleMapsRatingsCount": 14
+  ]
 }

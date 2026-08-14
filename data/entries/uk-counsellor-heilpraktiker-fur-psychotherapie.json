@@ -26,6 +26,7 @@
   "phone": "03072297100",
   "email": "info@davidbarnes.de",
   "website": "http://www.davidbarnes.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVgC10xQqEcRCUHzUIB-Jnc",
   "openingHours": [
     {
       "day": "Monday",
@@ -60,10 +61,10 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/1ab336_bb651d9854f946e1b9652d64952782cd~mv2.jpg/v1/fill/w_787,h_1005,al_t,q_85,enc_avif,quality_auto/1ab336_bb651d9854f946e1b9652d64952782cd~mv2.jpg",
-    "https://static.wixstatic.com/media/1ab336_3ce2d9087f3d4002a85f3710517b37e7~mv2.png/v1/fill/w_34,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/menu.png",
-    "https://static.wixstatic.com/media/1ab336_35e6bbe927074291935b8cb1b4da484d~mv2.png/v1/fill/w_228,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202025-06-27%20at%2019_21_40.png",
-    "https://static.wixstatic.com/media/1ab336_f7f2ea29d9dc461da51d262aabc2e3b6%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/1ab336_f7f2ea29d9dc461da51d262aabc2e3b6%7Emv2.jpg"
+    "/images/entries/uk-counsellor-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/uk-counsellor-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/uk-counsellor-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/uk-counsellor-heilpraktiker-fur-psychotherapie/3.webp"
   ],
   "faq": [
     {
@@ -86,6 +87,5 @@
       "question": "Bietet David Barnes auch Online-Sitzungen an?",
       "answer": "Ja, die Sitzungen sind sowohl online als auch persönlich verfügbar."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPVgC10xQqEcRCUHzUIB-Jnc"
+  ]
 }

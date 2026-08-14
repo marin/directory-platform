@@ -27,6 +27,9 @@
   "email": "huatingtcm@gmail.com",
   "website": "http://shourentang.de/",
   "bookingUrl": "https://shourentang.de/#buchen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1faASN5RqEcRqCxoIbve7o0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "http://shourentang.de/wp-content/uploads/2019/08/acupuncture.jpg",
-    "https://shourentang.de/wp-content/uploads/2019/08/jujube.jpg",
-    "http://shourentang.de/wp-content/uploads/2020/01/alisher-sharip-mumpl9-D7Uc-unsplash-scaled.jpg",
-    "http://shourentang.de/wp-content/uploads/2019/09/saffu-A7RzCegedb4-unsplash.jpg",
-    "http://shourentang.de/wp-content/uploads/2021/06/IMG_20210603_212221-1024x1024-200x200.jpg"
+    "/images/entries/huating-li-heilpraktikerin-tcm-akupunktur/0.webp",
+    "/images/entries/huating-li-heilpraktikerin-tcm-akupunktur/1.webp",
+    "/images/entries/huating-li-heilpraktikerin-tcm-akupunktur/2.webp",
+    "/images/entries/huating-li-heilpraktikerin-tcm-akupunktur/3.webp",
+    "/images/entries/huating-li-heilpraktikerin-tcm-akupunktur/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Welche Kurse bietet Huating Li an?",
       "answer": "Huating Li bietet verschiedene Kurse an, darunter medizinisches Qi Gong, Healing Qi Gong und TCM-Kurse, die darauf abzielen, die Prinzipien der Traditionellen Chinesischen Medizin in den Alltag zu integrieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1faASN5RqEcRqCxoIbve7o0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 31
+  ]
 }

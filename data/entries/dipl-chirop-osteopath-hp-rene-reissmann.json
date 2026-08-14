@@ -27,6 +27,9 @@
   "email": "info@praxis-reissmann.de",
   "website": "http://www.praxis-reissmann.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/rene-reissmann",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF5jxjplUqEcRDaUIeHRCypQ",
+  "googleMapsRating": 4.4,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,9 +84,9 @@
     }
   ],
   "images": [
-    "https://www.praxis-reissmann.de/images/praxis-reissmann-wirbelsaeule.jpg",
-    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://www.praxis-reissmann.de/images/2019/10/28/praxis-reissmann-logo-footer.jpg"
+    "/images/entries/dipl-chirop-osteopath-hp-rene-reissmann/0.webp",
+    "/images/entries/dipl-chirop-osteopath-hp-rene-reissmann/1.webp",
+    "/images/entries/dipl-chirop-osteopath-hp-rene-reissmann/2.webp"
   ],
   "faq": [
     {
@@ -106,8 +109,5 @@
       "question": "Wie kann ich René Reissmann kontaktieren?",
       "answer": "Sie können René Reissmann per E-Mail unter info@praxis-reissmann.de oder telefonisch unter 030 - 404 41 14 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF5jxjplUqEcRDaUIeHRCypQ",
-  "googleMapsRating": 4.4,
-  "googleMapsRatingsCount": 13
+  ]
 }

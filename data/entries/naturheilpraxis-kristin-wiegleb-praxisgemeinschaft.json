@@ -25,6 +25,9 @@
   "phone": "01794756963",
   "email": "naturheilpraxis_wiegleb@yahoo.com",
   "website": "http://www.naturheilpraxis-wiegleb.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgyo11cFPqEcR0HQ_R-Dl52I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,11 +67,8 @@
   ],
   "offers": [],
   "images": [
-    "https://naturheilpraxis-wiegleb.de/wp-content/uploads/2023/01/Naturheilpraxis_Wiegleb_DSC6050-1200x800.jpg",
-    "https://naturheilpraxis-wiegleb.de/wp-content/uploads/2023/01/Naturheilpraxis_Wiegleb_DSC6050.jpg"
+    "/images/entries/naturheilpraxis-kristin-wiegleb-praxisgemeinschaft/0.webp",
+    "/images/entries/naturheilpraxis-kristin-wiegleb-praxisgemeinschaft/1.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgyo11cFPqEcR0HQ_R-Dl52I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

@@ -27,6 +27,9 @@
   "phone": "0308329027",
   "email": "julia.nitzsche@gmx.de",
   "website": "http://homoeopathieberlin.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt96ixolQqEcR3SsAaeCojlE",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 30,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,8 +72,8 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/520b3a75e4b0b7f30c88c254/60aa2940-9932-4a06-9348-e35bb4f235cc/homoeopathie-praxis-berlin-wilmersdorf-hero.webp",
-    "http://static1.squarespace.com/static/520b3a75e4b0b7f30c88c254/t/6902416c6b7b7c29aad44853/1761755500071/Homoeopathie-akupunktur-berlin.webp?format=1500w"
+    "/images/entries/homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin/0.webp",
+    "/images/entries/homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin/1.webp"
   ],
   "faq": [
     {
@@ -93,8 +96,5 @@
       "question": "Wer ist die Heilpraktikerin der Praxis?",
       "answer": "Die Heilpraktikerin der Praxis ist Julia Nitzsche, die über 30 Jahre Praxiserfahrung in individueller Heilkunde verfügt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt96ixolQqEcR3SsAaeCojlE",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 30
+  ]
 }

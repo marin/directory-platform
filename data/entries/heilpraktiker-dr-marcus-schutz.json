@@ -25,6 +25,9 @@
   "phone": "01713541463",
   "email": "chiropraxis@hotmail.de",
   "website": "http://www.marcusschuetz.de/praxis",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJs3F9E3lQqEcRgmSfoh756vI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -44,10 +47,10 @@
   ],
   "offers": [],
   "images": [
-    "https://static.wixstatic.com/media/11062b_155feccf8d494b18b70adcd7716b6646f000.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_155feccf8d494b18b70adcd7716b6646f000.jpg",
-    "https://static.wixstatic.com/media/6354fa_c296cd5d9d5f40569708a273706f5e35~mv2.jpg/v1/crop/x_0,y_10,w_296,h_439/fill/w_305,h_452,al_c,lg_1,q_80,enc_avif,quality_auto/Visitenkarte.jpg",
-    "https://static.wixstatic.com/media/6354fa_7dee02bd59f84c47827b235576cab8be~mv2.png/v1/fill/w_303,h_452,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/VisitenkarteHinten_tif.png",
-    "https://static.wixstatic.com/media/6354fa_0e4a46e8b8cf46e48aeb6175281ddef9%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/6354fa_0e4a46e8b8cf46e48aeb6175281ddef9%7Emv2.jpg"
+    "/images/entries/heilpraktiker-dr-marcus-schutz/0.webp",
+    "/images/entries/heilpraktiker-dr-marcus-schutz/1.webp",
+    "/images/entries/heilpraktiker-dr-marcus-schutz/2.webp",
+    "/images/entries/heilpraktiker-dr-marcus-schutz/3.webp"
   ],
   "faq": [
     {
@@ -70,8 +73,5 @@
       "question": "Welche zusätzlichen Therapien bietet Dr. Marcus Schütz an?",
       "answer": "Zusätzlich zur Manualtherapie bietet Dr. Marcus Schütz Vitamin-Aufbauspritzen an, um das Immunsystem, die Blutbildung, die Nerven- und Muskeltätigkeit sowie die Stresstoleranz zu stärken."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJs3F9E3lQqEcRgmSfoh756vI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

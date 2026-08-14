@@ -26,6 +26,9 @@
   "email": "monikabuettnerberlin@web.de",
   "website": "https://monikabuettner.de/",
   "bookingUrl": "https://www.etermin.net/%20%22Online%20Terminplaner%20und%20Online%20Terminbuchung.%20Testen%20Sie%20uns%2030%20Tage%20kostenlos!",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ00n7FDZXqEcReyWfCEfXZPQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,8 +71,8 @@
     }
   ],
   "images": [
-    "https://monikabuettner.de/wp-content/uploads/go-x/u/13a7643d-91ac-48e0-98e6-0cd5bc418a13/l0,t79,w794,h794/image-768x768.jpg",
-    "https://monikabuettner.de/wp-content/uploads/go-x/u/44e19341-61aa-448c-aea1-cbd50333c5ba/image.jpg"
+    "/images/entries/naturheilpraxis-monika-buttner-in-spandau/0.webp",
+    "/images/entries/naturheilpraxis-monika-buttner-in-spandau/1.webp"
   ],
   "faq": [
     {
@@ -92,8 +95,5 @@
       "question": "Welche Zahlungsmethoden werden in der Naturheilpraxis akzeptiert?",
       "answer": "In der Naturheilpraxis Monika Büttner können Sie online, vor Ort oder per Rechnung bezahlen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ00n7FDZXqEcReyWfCEfXZPQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

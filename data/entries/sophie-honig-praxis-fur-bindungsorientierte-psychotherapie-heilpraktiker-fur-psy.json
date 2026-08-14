@@ -25,6 +25,9 @@
   },
   "website": "http://www.sophie-honig.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/sophie-honig?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ36jbXpRRqEcRzFIlVmMnIOw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -44,9 +47,9 @@
   ],
   "offers": [],
   "images": [
-    "https://sophie-honig.de/wp-content/uploads/2025/09/SophieVanessa_0425-16.jpg",
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://sophie-honig.de/wp-content/uploads/2023/07/authentisches-selbst.webp"
+    "/images/entries/sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy/0.webp",
+    "/images/entries/sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy/1.webp",
+    "/images/entries/sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy/2.webp"
   ],
   "faq": [
     {
@@ -69,8 +72,5 @@
       "question": "Bietet Sophie Honig auch Online-Sitzungen an?",
       "answer": "Ja, Sophie Honig bietet neben persönlichen Gesprächen auch Online-Treffen und Telefonate an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ36jbXpRRqEcRzFIlVmMnIOw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 14
+  ]
 }

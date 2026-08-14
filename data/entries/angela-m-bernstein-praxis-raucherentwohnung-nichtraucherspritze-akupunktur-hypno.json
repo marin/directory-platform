@@ -27,6 +27,9 @@
   "phone": "017670282950",
   "email": "info@praxis-hahlweg.de",
   "website": "https://www.praxis-hahlweg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN1_RWENOqEcRxsM4ZoBm0Yc",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 39,
   "openingHours": [
     {
       "day": "Monday",
@@ -73,9 +76,9 @@
     }
   ],
   "images": [
-    "https://cdn5.site-media.eu/images/70/4764884/map-marker.png",
-    "https://cdn5.site-media.eu/images/1024/15212274/1000085844-ns6wNAv67pN4rGaYvC1hCA.jpg",
-    "https://cdn5.site-media.eu/images/1200x630/18337863/1000147496-sbOIRxK_foCm9b04KSGizg.jpg"
+    "/images/entries/angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno/0.webp",
+    "/images/entries/angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno/1.webp",
+    "/images/entries/angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno/2.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Wie funktioniert die Raucherentwöhnung in der Praxis?",
       "answer": "Die Raucherentwöhnung erfolgt in der Regel mit einer einmaligen Micro-Injektion eines biologisch-veganen Mittelkomplexes, Lubidum®, der effektiv unterstützen soll, Nichtraucher zu werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJN1_RWENOqEcRxsM4ZoBm0Yc",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 39
+  ]
 }

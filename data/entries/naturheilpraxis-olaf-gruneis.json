@@ -24,6 +24,7 @@
   },
   "phone": "0306878934",
   "website": "https://www.heilpraktiker-kreuzberg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMZvfFm9PqEcR3NrSrFti7DQ",
   "openingHours": [],
   "offers": [
     {
@@ -68,7 +69,7 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/none/path/s622472fb40a532a6/image/i6d86516e68148e53/version/1685023951/naturheilpraxis-heilpraktiker-olaf-gr%C3%BCneis-berlin-kreuzberg-r%C3%BCckenschmerzen-schulterschmerzen-kniebeschwerden-nackenschmerzen-rheuma-schlafst%C3%B6rungen-kopfschmerzen-hashimoto-schilddr%C3%BCse-tinnitus-sinusitis-bluthochdruck-asthma-kinder-entwicklungsst%C3%B6rungen.jpg"
+    "/images/entries/naturheilpraxis-olaf-gruneis/0.webp"
   ],
   "faq": [
     {
@@ -87,6 +88,5 @@
       "question": "Welche Diagnostik wird in der Naturheilpraxis Olaf Grüneis angeboten?",
       "answer": "In der Naturheilpraxis Olaf Grüneis wird eine umfassende Diagnostik angeboten, die auf die individuellen Bedürfnisse der Patienten abgestimmt ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMZvfFm9PqEcR3NrSrFti7DQ"
+  ]
 }

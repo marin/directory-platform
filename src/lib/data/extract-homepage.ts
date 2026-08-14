@@ -3,6 +3,7 @@ import {
   isUsableServiceName,
   type ExtractedService,
 } from "./extract-services.ts";
+import { isUsableImage, scoreImage } from "../media/entry-images.ts";
 
 export type HomepageQualityFlags = {
   charCount: number;
@@ -19,8 +20,6 @@ export type HomepageExtraction = {
 
 const THIN_PAGE_CHARS = 500;
 const SPAM_RE = /casino|slot\s*machine|einsatz|gewinn|jackpot|poker\s*online|viagra|cialis/i;
-const SKIP_IMAGE_RE =
-  /favicon|\.ico(?:\?|$)|\/icon[-_/]|logo[-_]?(?:small|tiny|mini)|pixel|spacer|badge|1x1|gravatar|facebook\.com\/tr|google-analytics|doubleclick|\/flags\/|translatepress|wp-content\/plugins/i;
 const BOOKING_TEXT_RE =
   /termin|kontakt|buchen|booking|appointment|anfrage|online-termine|jetzt buchen|zur kontakt|kontaktseite|doctolib|calendly|terminvereinbarung/i;
 const BOOKING_PATH_RE =
@@ -75,20 +74,6 @@ function normalizeUrl(url: string, baseUrl?: string): string | null {
     return null;
   }
   return null;
-}
-
-function isUsableImage(url: string): boolean {
-  if (SKIP_IMAGE_RE.test(url)) return false;
-  return /\.(jpe?g|png|webp|gif)(?:\?|$)/i.test(url) || /image\.jimcdn\.com|cloudinary|imgix|wp-content\/uploads/i.test(url);
-}
-
-function scoreImage(url: string): number {
-  let score = 0;
-  if (/dimension=\d+x10000|width=\d{3,}/i.test(url)) score += 2;
-  if (/backgroundarea|banner|hero/i.test(url)) score += 1;
-  if (/favicon|icon|logo/i.test(url)) score -= 5;
-  if (/\.jpe?g|\.png|\.webp/i.test(url)) score += 1;
-  return score;
 }
 
 function uniqueUrls(urls: string[]): string[] {

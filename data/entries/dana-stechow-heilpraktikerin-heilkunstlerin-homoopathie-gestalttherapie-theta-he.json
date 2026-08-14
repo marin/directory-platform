@@ -27,6 +27,9 @@
   "email": "praxis@danastechow.de",
   "website": "http://danastechow.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/dana-stechow?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJW6M9eKtPqEcRhRE2HiOleoc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [],
   "offers": [
     {
@@ -63,11 +66,11 @@
     }
   ],
   "images": [
-    "https://danastechow.de/wp-content/uploads/2021/10/Dana-Web-01.png",
-    "https://danastechow.de/wp-content/uploads/2023/11/Dana-Web-Start-Header-weiss-Sarah-10.jpg",
-    "https://danastechow.de/wp-content/uploads/2023/11/Dana-Sarah-Square-Klein-01.jpg",
-    "https://danastechow.de/wp-content/uploads/2023/08/Dana-Einzeln-Rund-02.jpg",
-    "https://danastechow.de/wp-content/uploads/2023/08/Dana-Gruppen-Rund-01.jpg"
+    "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/0.webp",
+    "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/1.webp",
+    "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/2.webp",
+    "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/3.webp",
+    "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/4.webp"
   ],
   "faq": [
     {
@@ -86,8 +89,5 @@
       "question": "Wie kann ich Dana Stechow kontaktieren?",
       "answer": "Sie können Dana Stechow telefonisch unter 017634680612 oder per E-Mail an praxis@danastechow.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJW6M9eKtPqEcRhRE2HiOleoc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

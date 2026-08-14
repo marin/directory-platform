@@ -26,6 +26,9 @@
   "email": "praxis@neurodermitis-berlin.de",
   "website": "http://www.neurodermitis-berlin.de/",
   "bookingUrl": "http://www.neurodermitis-berlin.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYDHN11SqEcRPU1JtALeSK0",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -83,11 +86,10 @@
     }
   ],
   "images": [
-    "http://www.neurodermitis-berlin.de/data/kundendaten/184239/neurodermitis_berlin.jpg",
-    "http://www.neurodermitis-berlin.de/data/kundendaten/184239/login.jpg",
-    "http://www.neurodermitis-berlin.de/data/kundendaten/184239/trenner.jpg",
-    "http://www.neurodermitis-berlin.de/design/neuroberlin/media/blank.gif",
-    "http://www.neurodermitis-berlin.de/design/neuroberlin/media/btn_vorher_grau.gif"
+    "/images/entries/naturheilpraxis-c-seel/0.webp",
+    "/images/entries/naturheilpraxis-c-seel/1.webp",
+    "/images/entries/naturheilpraxis-c-seel/2.webp",
+    "/images/entries/naturheilpraxis-c-seel/4.webp"
   ],
   "faq": [
     {
@@ -110,8 +112,5 @@
       "question": "Welche Methoden werden in der Naturheilpraxis C. Seel angewendet?",
       "answer": "In der Naturheilpraxis C. Seel werden verschiedene Methoden angewendet, darunter Homöopathie, Bachblüten-Essenzen, Urtinkturen, Quantenheilung und Emotional Freedom Techniques (EFT)."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYDHN11SqEcRPU1JtALeSK0",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 4
+  ]
 }

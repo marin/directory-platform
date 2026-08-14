@@ -27,6 +27,9 @@
   "email": "info@osteopathie-heidenreich.de",
   "website": "http://osteopathie-heidenreich.de/",
   "bookingUrl": "https://osteopathie-heidenreich.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUpJEPFNqEcRDxN2Wl8j_MM",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -119,11 +122,11 @@
     }
   ],
   "images": [
-    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_003-1080-1024x576.jpg",
-    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_003-1080.jpg",
-    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_002-1080-1024x576.jpg",
-    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_002-1080.jpg",
-    "https://osteopathie-heidenreich.de/wp-content/uploads/2023/06/20210103_osteopathie_heidenreich_berlin_praxis_001-1080-1024x576.jpg"
+    "/images/entries/osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich/0.webp",
+    "/images/entries/osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich/1.webp",
+    "/images/entries/osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich/2.webp",
+    "/images/entries/osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich/3.webp",
+    "/images/entries/osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich/4.webp"
   ],
   "faq": [
     {
@@ -146,8 +149,5 @@
       "question": "Wie hoch sind die Behandlungskosten?",
       "answer": "Die Behandlungskosten variieren zwischen 15 € und 100 €, abhängig von der Art der Behandlung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJDUpJEPFNqEcRDxN2Wl8j_MM",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 9
+  ]
 }

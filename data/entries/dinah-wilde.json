@@ -26,6 +26,9 @@
   "email": "hallo@dinahwilde.com",
   "website": "http://www.dinahwilde.com/",
   "bookingUrl": "https://calendly.com/dinah-wilde/dripdrip",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYapt8KRRqEcRc-Ub5nl4wvM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -79,9 +82,9 @@
     }
   ],
   "images": [
-    "https://dinahwilde.com/wp-content/uploads/2023/03/cropped-Bildschirmfoto-2023-03-16-um-18.06.38.png",
-    "http://dinahwilde.com/wp-content/uploads/2026/04/IMG_9598_quer_b-scaled.jpg",
-    "http://dinahwilde.com/wp-content/uploads/2023/07/IMG_6118-scaled.jpg"
+    "/images/entries/dinah-wilde/0.webp",
+    "/images/entries/dinah-wilde/1.webp",
+    "/images/entries/dinah-wilde/2.webp"
   ],
   "faq": [
     {
@@ -104,8 +107,5 @@
       "question": "Wie kann ich Dinah Wilde kontaktieren?",
       "answer": "Sie können Dinah Wilde telefonisch unter 017684988678 oder per E-Mail an hallo@dinahwilde.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYapt8KRRqEcRc-Ub5nl4wvM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

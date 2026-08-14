@@ -27,6 +27,9 @@
   "phone": "03088778484",
   "email": "osteopathie.jk@gmail.com",
   "website": "https://osteopathie-jk.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__-TefpQqEcRuVo-CP87mhQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -77,11 +80,11 @@
     }
   ],
   "images": [
-    "https://osteopathie-jk.com/wp-content/uploads/2024/11/praxis8-scaled-e1732716884409-1500x630.jpg",
-    "https://osteopathie-jk.com/wp-content/uploads/2024/12/Unknown-e1734681203284-1030x1030.jpg",
-    "https://osteopathie-jk.com/wp-content/uploads/2024/11/2016-12-21-19-37-49-0039-scaled-e1732715251105-300x300.jpg",
-    "https://osteopathie-jk.com/wp-content/uploads/2024/11/Gabriel-17_edited-scaled-e1732715281674-300x300.jpg",
-    "https://osteopathie-jk.com/wp-content/uploads/2024/11/VOD_Logo.jpg"
+    "/images/entries/praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie/3.webp",
+    "/images/entries/praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -104,8 +107,5 @@
       "question": "Ersetzt die osteopathische Behandlung die Schulmedizin?",
       "answer": "Die Behandlung mittels osteopathischer Techniken gehört zur Komplementärmedizin und ersetzt keine klassische Schulmedizin. Es handelt sich um eine Selbstzahlerleistung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__-TefpQqEcRuVo-CP87mhQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 26
+  ]
 }

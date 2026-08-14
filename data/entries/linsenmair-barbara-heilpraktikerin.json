@@ -26,6 +26,7 @@
   "email": "b-linsenmair@gmx.de",
   "website": "http://www.kinesiologie-berlinbrandenburg.de/",
   "bookingUrl": "https://www.kinesiologie-berlinbrandenburg.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-SW33HRVqEcRbJTeHn9A9F4",
   "openingHours": [],
   "offers": [
     {
@@ -42,8 +43,8 @@
     }
   ],
   "images": [
-    "https://www.kinesiologie-berlinbrandenburg.de/bilder/pfeil_hoch.gif",
-    "https://www.kinesiologie-berlinbrandenburg.de/bilder/pfeil_runter.gif"
+    "/images/entries/linsenmair-barbara-heilpraktikerin/0.webp",
+    "/images/entries/linsenmair-barbara-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -66,6 +67,5 @@
       "question": "Wie lange praktiziert Barbara Linsenmair bereits als Heilpraktikerin?",
       "answer": "Barbara Linsenmair hat ihre Prüfung zum Heilpraktiker im Jahr 1999 bestanden und praktiziert seitdem."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-SW33HRVqEcRbJTeHn9A9F4"
+  ]
 }

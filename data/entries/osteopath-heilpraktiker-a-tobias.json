@@ -27,6 +27,9 @@
   "email": "office@tobias-osteopathie.com",
   "website": "http://www.tobias-osteopathie.com/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin-stadt/andree-tobias?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcVAwKR5OqEcRozDI0_Y_HVU",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,7 +84,7 @@
     }
   ],
   "images": [
-    "https://tobias-osteopathie.com/wp-46802-content/uploads/2020/08/andree_tobias_profilbild.jpg"
+    "/images/entries/osteopath-heilpraktiker-a-tobias/0.webp"
   ],
   "faq": [
     {
@@ -104,8 +107,5 @@
       "question": "Übernimmt meine Krankenkasse die Kosten für die Behandlung?",
       "answer": "Die Abrechnung erfolgt nach dem Gebührenverzeichnis für Heilpraktiker. Privatversicherte und gesetzlich Versicherte mit Zusatzversicherung für Heilpraktiker erhalten in der Regel eine Kostenübernahme. Es wird empfohlen, sich direkt bei der Krankenkasse zu erkundigen, ob ein Rezept vom Arzt benötigt wird."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcVAwKR5OqEcRozDI0_Y_HVU",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 4
+  ]
 }

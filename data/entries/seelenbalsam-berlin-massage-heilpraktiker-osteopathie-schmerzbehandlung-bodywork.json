@@ -30,6 +30,9 @@
   "email": "seelenbalsam@mail.de",
   "website": "https://www.seelenbalsamberlin.de/",
   "bookingUrl": "https://book.timify.com/?accountId=5e1f95e7b84df411f9740174&hideCloseButton=true",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC5SeqchRqEcRvUrRqc6IU0U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 123,
   "openingHours": [
     {
       "day": "Monday",
@@ -296,10 +299,10 @@
     }
   ],
   "images": [
-    "https://seelenbalsamberlin.de/wp-content/uploads/2022/07/cropped-Screenshot_20220706_081418.jpg",
-    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/Sonnenfinsternis2026-480x324.jpg",
-    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/UrlauberInselusedom-480x324.png",
-    "https://seelenbalsamberlin.de/wp-content/uploads/2026/08/Fahrradhelm-480x324.png"
+    "/images/entries/seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork/0.webp",
+    "/images/entries/seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork/1.webp",
+    "/images/entries/seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork/2.webp",
+    "/images/entries/seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork/3.webp"
   ],
   "faq": [
     {
@@ -322,8 +325,5 @@
       "question": "Wie kann ich Seelenbalsam kontaktieren?",
       "answer": "Sie können Seelenbalsam telefonisch unter 015201389471 oder per E-Mail an seelenbalsam@mail.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC5SeqchRqEcRvUrRqc6IU0U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 123
+  ]
 }

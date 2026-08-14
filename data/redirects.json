@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "from": "/heilpraktiker/heilpraktiker",
+    "to": "/heilpraktiker/heilpraktiker-krauss",
+    "status": 301
+  },
+  {
+    "from": "/heilpraktiker/heilpraktiker-chijf2lb39rq",
+    "to": "/heilpraktiker/heilpraktiker-malec",
+    "status": 301
+  },
+  {
+    "from": "/heilpraktiker/heilpraktiker-chijmqtppedq",
+    "to": "/heilpraktiker/heilpraktiker-boewing",
+    "status": 301
+  },
+  {
+    "from": "/heilpraktiker/naturheilpraxis-kopenick",
+    "to": "/heilpraktiker/naturheilpraxis-kopenick-regina-stapelfeldt",
+    "status": 301
+  },
+  {
+    "from": "/heilpraktiker/naturheilpraxis-kopenick-chijbxeb2y9h",
+    "to": "/heilpraktiker/naturheilpraxis-kopenick-alexandra-naujeck-thomas",
+    "status": 301
+  }
+]

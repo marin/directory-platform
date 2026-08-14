@@ -26,6 +26,9 @@
   "phone": "01708620590",
   "email": "mail@pogrzeba-psychotherapie.de",
   "website": "http://www.pogrzeba-psychotherapie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxderDGw3qEcR6epCmco7BLg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,7 +58,7 @@
   ],
   "offers": [],
   "images": [
-    "https://www.pogrzeba-psychotherapie.de/images/a/img_3264-1920.jpg"
+    "/images/entries/praxis-fur-integrative-psychotherapie-emdr-paartherapie-hypnose-coaching-qigong/0.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 0170 862 0590 oder per E-Mail an mail@pogrzeba-psychotherapie.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxderDGw3qEcR6epCmco7BLg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

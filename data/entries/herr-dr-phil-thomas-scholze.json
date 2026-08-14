@@ -26,6 +26,7 @@
   "email": "naturheilpraxis.dr.scholze@freenet.de",
   "website": "http://www.implantat-akupunktur.berlin/",
   "bookingUrl": "https://www.implantat-akupunktur.berlin/#Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6eDF-kY3qEcRWp-_z-z1kCE",
   "openingHours": [
     {
       "day": "Tuesday",
@@ -94,11 +95,11 @@
     }
   ],
   "images": [
-    "https://www.implantat-akupunktur.berlin/images/bg_scale.jpg",
-    "http://www.naturheilpraxis-dr-scholze.de/images/Buch%20Thomas%20Scholze.png",
-    "http://www.implantat-akupunktur.berlin/images/Bund-Heilpraktiker.jpg",
-    "http://www.implantat-akupunktur.berlin/images/Implantat-Akupunktur-nadeln-setzen.jpg",
-    "http://www.implantat-akupunktur.berlin/images/Implantat.akupunktur-behandlung.jpg"
+    "/images/entries/herr-dr-phil-thomas-scholze/0.webp",
+    "/images/entries/herr-dr-phil-thomas-scholze/1.webp",
+    "/images/entries/herr-dr-phil-thomas-scholze/2.webp",
+    "/images/entries/herr-dr-phil-thomas-scholze/3.webp",
+    "/images/entries/herr-dr-phil-thomas-scholze/4.webp"
   ],
   "faq": [
     {
@@ -121,6 +122,5 @@
       "question": "Wann sind die Sprechzeiten von Dr. Thomas Scholze?",
       "answer": "Die Sprechzeiten sind Dienstag, Mittwoch und Donnerstag von 09:00 bis 17:00 Uhr."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6eDF-kY3qEcRWp-_z-z1kCE"
+  ]
 }

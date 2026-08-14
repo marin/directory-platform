@@ -27,6 +27,9 @@
   "email": "mailtoheilpraxis-sabrinabraun@gmx.de",
   "website": "https://naturheilpraxis-sabrinabraun.de/",
   "bookingUrl": "https://naturheilpraxis-sabrinabraun.de/kontakt/#naturheil-formular%20%22Jetzt%20Termin%20vereinbaren",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJveG2YQVJqEcR828zsrHVNS0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -130,11 +133,11 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/KayH20221122-_P2A9974-1-scaled-circle.jpg",
-    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/IMG_1530-landscape.jpg",
-    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/bb-plugin/cache/IMG_1531-scaled-landscape.jpg",
-    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/2022/03/Heilmassagen-scaled.webp",
-    "https://naturheilpraxis-sabrinabraun.de/wp-content/uploads/2022/04/AdobeStock_148825025-scaled.jpeg"
+    "/images/entries/liebscher-und-bracht-schmerztherapie-sabrina-braun/0.webp",
+    "/images/entries/liebscher-und-bracht-schmerztherapie-sabrina-braun/1.webp",
+    "/images/entries/liebscher-und-bracht-schmerztherapie-sabrina-braun/2.webp",
+    "/images/entries/liebscher-und-bracht-schmerztherapie-sabrina-braun/3.webp",
+    "/images/entries/liebscher-und-bracht-schmerztherapie-sabrina-braun/4.webp"
   ],
   "faq": [
     {
@@ -157,8 +160,5 @@
       "question": "Wie kann ich die Naturheilpraxis Sabrina Braun kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Sabrina Braun telefonisch unter 01722402707 oder per E-Mail unter heilpraxis-sabrinabraun@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJveG2YQVJqEcR828zsrHVNS0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

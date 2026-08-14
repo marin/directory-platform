@@ -24,6 +24,7 @@
   },
   "phone": "03092402157",
   "website": "http://heilpraxis-weissensee.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTU3KEvtNqEcRrRSAPjSbvwE",
   "openingHours": [],
   "offers": [
     {
@@ -48,11 +49,11 @@
     }
   ],
   "images": [
-    "http://heilpraxis-weissensee.de/assets/images/c2.jpg",
-    "http://heilpraxis-weissensee.de/assets/images/service-1.jpg",
-    "http://heilpraxis-weissensee.de/assets/images/service-2.jpg",
-    "http://heilpraxis-weissensee.de/assets/images/service-3.jpg",
-    "http://heilpraxis-weissensee.de/assets/images/client-1.jpg"
+    "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/0.webp",
+    "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/1.webp",
+    "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/2.webp",
+    "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/3.webp",
+    "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/4.webp"
   ],
   "faq": [
     {
@@ -71,6 +72,5 @@
       "question": "Welche Öffnungszeiten hat die Heilpraxis Weissensee?",
       "answer": "Die Öffnungszeiten der Heilpraxis Weissensee sind im Kontext nicht angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTU3KEvtNqEcRrRSAPjSbvwE"
+  ]
 }

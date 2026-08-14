@@ -25,6 +25,9 @@
   },
   "phone": "017657372678",
   "website": "http://www.sushigong.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdy6qy01PqEcRN-sA9SnmQA0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -45,8 +48,8 @@
     }
   ],
   "images": [
-    "http://www.sushigong.de/wordpress/wp-content/uploads/2015/01/Susanne-teaching.jpg",
-    "http://www.sushigong.de/wordpress/wp-content/uploads/2015/01/nursiegel-susanneheil.png"
+    "/images/entries/praxis-am-meer-korper-und-psychotherapie/0.webp",
+    "/images/entries/praxis-am-meer-korper-und-psychotherapie/1.webp"
   ],
   "faq": [
     {
@@ -69,8 +72,5 @@
       "question": "Was sind die Schwerpunkte der Therapie in der Praxis?",
       "answer": "Die Therapie in der Praxis fokussiert sich darauf, in Kontakt mit den eigenen Antworten zu kommen, emotionale Prozesse zu erkunden und Achtsamkeit für das innere Erleben zu fördern."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdy6qy01PqEcRN-sA9SnmQA0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

@@ -26,6 +26,9 @@
   "phone": "017692358729",
   "website": "https://ifs-therapie.berlin/",
   "bookingUrl": "https://my.lemniscus.de/pss/5c5a69bd-d0fa-4302-aadc-77050d689501",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3dSyc9PqEcR68lms4biae0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,14 +67,11 @@
     }
   ],
   "images": [
-    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/portrait-jk-startseite-768x512.webp",
-    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/portrait-jk-startseite-freigestellt.png",
-    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-tivasee-6438672.jpg",
-    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-ashutoshsonwani-1669605-scaled-1.jpg",
-    "https://ifs-therapie.berlin/wp-content/uploads/2024/12/pexels-photomix-company-1002703-e1733913346717.jpg"
+    "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/0.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/1.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/2.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/3.webp",
+    "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy3dSyc9PqEcR68lms4biae0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 12
+  "faq": []
 }

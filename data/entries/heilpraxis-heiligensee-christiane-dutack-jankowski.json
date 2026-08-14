@@ -25,10 +25,11 @@
   "phone": "03034508838",
   "email": "info@heilpraxis-charlottenburg.de",
   "website": "http://www.heilpraxis-heiligensee.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJByvaUWtVqEcR8Z2k8YUtdN4",
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.heilpraxis-heiligensee.de/christianedutack.jpg"
+    "/images/entries/heilpraxis-heiligensee-christiane-dutack-jankowski/0.webp"
   ],
   "faq": [
     {
@@ -51,6 +52,5 @@
       "question": "Gibt es spezielle Angebote für Frauen in der Heilpraxis Heiligensee?",
       "answer": "Ja, die Heilpraxis Heiligensee bietet spezielle Angebote für Frauen an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJByvaUWtVqEcR8Z2k8YUtdN4"
+  ]
 }

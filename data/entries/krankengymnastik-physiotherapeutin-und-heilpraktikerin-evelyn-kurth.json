@@ -25,6 +25,9 @@
   "phone": "0303911009",
   "website": "http://www.vitalbody.de/",
   "bookingUrl": "http://www.vitalbody.de/kontakt.php",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZ4fHaFRqEcR6TQhriZkrVU",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,10 +86,10 @@
     }
   ],
   "images": [
-    "http://www.vitalbody.de/content_img/sectionteaser_trigger.jpg",
-    "http://www.vitalbody.de/content_img/sectionimg_wellness.jpg",
-    "http://www.vitalbody.de/content_img/sectionimg_fitness.jpg",
-    "http://www.vitalbody.de/style/gfx/logo_praxis_kuerth.gif"
+    "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/0.webp",
+    "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/1.webp",
+    "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/2.webp",
+    "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/3.webp"
   ],
   "faq": [
     {
@@ -109,8 +112,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 0303911009 oder per E-Mail an praxis@vitalbody.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiZ4fHaFRqEcR6TQhriZkrVU",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 4
+  ]
 }

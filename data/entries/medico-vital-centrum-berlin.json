@@ -25,6 +25,9 @@
   "phone": "03056700422",
   "website": "http://www.medico-vital-centrum.de/",
   "bookingUrl": "https://www.medico-vital-centrum.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqy4xHrZJqEcRnH4L2YixvwA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -121,11 +124,11 @@
     }
   ],
   "images": [
-    "http://medico-vital-centrum.de/images/intro_teaser2.jpg",
-    "https://www.medico-vital-centrum.de/images/icethumbs/300x160/images/bioresonanz.jpg",
-    "https://www.medico-vital-centrum.de/images/icethumbs/300x160/images/icethumbs/300x160/images/energetische-analyse-thumb.png",
-    "https://www.medico-vital-centrum.de/images/icethumbs/300x160/images/icethumbs/300x160/images/fengshui-thumb.png",
-    "https://www.medico-vital-centrum.de/images/icethumbs/300x160/images/icethumbs/300x160/images/burnout-thumb.png"
+    "/images/entries/medico-vital-centrum-berlin/0.webp",
+    "/images/entries/medico-vital-centrum-berlin/1.webp",
+    "/images/entries/medico-vital-centrum-berlin/2.webp",
+    "/images/entries/medico-vital-centrum-berlin/3.webp",
+    "/images/entries/medico-vital-centrum-berlin/4.webp"
   ],
   "faq": [
     {
@@ -148,8 +151,5 @@
       "question": "Welche Philosophie verfolgt das Medico Vital Centrum Berlin?",
       "answer": "Das Medico Vital Centrum Berlin vereint traditionelle und moderne Medizin in einem Konzept von ganzheitlichen Therapien, um Vitalität und Gesunderhaltung zu fördern sowie Störungen und Erkrankungen frühzeitig zu erkennen und zu behandeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqy4xHrZJqEcRnH4L2YixvwA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

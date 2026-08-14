@@ -26,6 +26,9 @@
   "email": "sarah@femalescope.de",
   "website": "http://www.femalescope.de/",
   "bookingUrl": "https://buchung.treatwell.de/ort/klassische-massage-therapeutische-frauenmassage/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU5eFl69PqEcRsoKnXMHNT8k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 17,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,11 +75,11 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/6827724bb7226460a4ba5acd/3d22da22-bebb-4629-9b58-833120eb01ce/female.png",
-    "https://images.squarespace-cdn.com/content/v1/6827724bb7226460a4ba5acd/09d7fb16-0b2b-45cd-ba22-34ed17bb0b3f/hom.png",
-    "https://images.squarespace-cdn.com/content/v1/6827724bb7226460a4ba5acd/a1c0390d-2159-4a8a-82c4-b816bc49ffcc/mass.png",
-    "https://images.squarespace-cdn.com/content/v1/6827724bb7226460a4ba5acd/4c1fdb3b-b8d8-4c24-af81-6d7a6a2ec511/kpt.png",
-    "http://static1.squarespace.com/static/6827724bb7226460a4ba5acd/t/68400e7856ee8c760a9fb5bd/1749028472370/IMG_8472.jpeg?format=1500w"
+    "/images/entries/heilpraktikerin-sarah-sauer/0.webp",
+    "/images/entries/heilpraktikerin-sarah-sauer/1.webp",
+    "/images/entries/heilpraktikerin-sarah-sauer/2.webp",
+    "/images/entries/heilpraktikerin-sarah-sauer/3.webp",
+    "/images/entries/heilpraktikerin-sarah-sauer/4.webp"
   ],
   "faq": [
     {
@@ -95,8 +98,5 @@
       "question": "Wie kann ich Sarah Sauer kontaktieren?",
       "answer": "Sie können Sarah Sauer telefonisch unter 01795094328 oder per E-Mail an sarah@femalescope.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU5eFl69PqEcRsoKnXMHNT8k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 17
+  ]
 }

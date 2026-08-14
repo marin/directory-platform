@@ -26,10 +26,13 @@
   "phone": "015126100682",
   "email": "homoeopathieberlin@gmx.de",
   "website": "http://www.heilpraktikerin-klauke-leu.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNdsU89VXqEcRX-N443XZtqc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://strato-editor.com/.cm4all/e/static/img/loading_128.gif"
+    "/images/entries/praxis-fur-klassische-homoopathie-und-naturheilkunde-daniela-klauke-leu-heilprak/0.webp"
   ],
   "faq": [
     {
@@ -48,8 +51,5 @@
       "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
       "answer": "In der Praxis werden klassische Homöopathie und Naturheilkunde angeboten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNdsU89VXqEcRX-N443XZtqc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

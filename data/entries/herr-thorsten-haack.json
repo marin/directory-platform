@@ -24,6 +24,9 @@
   },
   "phone": "03062737678",
   "website": "https://www.thorsten-haack.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq6HDuZdPqEcRIR513fk1Qpo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,10 +61,10 @@
     }
   ],
   "images": [
-    "https://www.thorsten-haack.de/images/Portrait_Thorsten.jpg",
-    "https://www.thorsten-haack.de/images/Gespraechsecke-I.jpg",
-    "https://www.thorsten-haack.de/images/Staebchen.jpg",
-    "https://www.thorsten-haack.de/images/tai_sheng_mun.png"
+    "/images/entries/herr-thorsten-haack/0.webp",
+    "/images/entries/herr-thorsten-haack/1.webp",
+    "/images/entries/herr-thorsten-haack/2.webp",
+    "/images/entries/herr-thorsten-haack/3.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Wie kann ich einen Termin bei Herrn Haack vereinbaren?",
       "answer": "Sie können einen Termin bei Herrn Thorsten Haack telefonisch unter der Nummer 03062737678 vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq6HDuZdPqEcRIR513fk1Qpo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

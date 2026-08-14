@@ -26,6 +26,9 @@
   "phone": "017662104219",
   "email": "info@heilpraxis-fenske.de",
   "website": "http://heilpraxis-fenske.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj0S-6kJbqEcRFWoMXVWFtEE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -70,7 +73,7 @@
     }
   ],
   "images": [
-    "https://heilpraxis-fenske.de/wp-content/uploads/2023/08/heilpraxis-fenske-logo-berlin-jeserig.png"
+    "/images/entries/juliane-fenske-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -93,8 +96,5 @@
       "question": "Was ist das Ziel der Therapien bei Juliane Fenske?",
       "answer": "Das Ziel der Therapien bei Juliane Fenske ist es, das körperliche und seelische Wohlbefinden der Patienten zu fördern und ihnen zu helfen, ihr inneres Gleichgewicht wiederzufinden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj0S-6kJbqEcRFWoMXVWFtEE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

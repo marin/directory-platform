@@ -25,6 +25,9 @@
   "phone": "0308326220",
   "website": "http://www.homoeopathie-in-berlin.de/",
   "bookingUrl": "https://www.homoeopathie-in-berlin.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz2_MOXxQqEcRN4RkBZoaM24",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -87,7 +90,7 @@
     }
   ],
   "images": [
-    "https://www.homoeopathie-in-berlin.de/images/inhalte/Stempel.jpg"
+    "/images/entries/naturheilpraxis-matthias-bergmann-heilpraktiker/0.webp"
   ],
   "faq": [
     {
@@ -110,8 +113,5 @@
       "question": "Wo befindet sich die Naturheilpraxis Matthias Bergmann?",
       "answer": "Die Praxis befindet sich in der Wiesbadener Str. 5, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz2_MOXxQqEcRN4RkBZoaM24",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

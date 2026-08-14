@@ -26,6 +26,9 @@
   "email": "info@juliane-jacobi.de",
   "website": "https://www.juliane-jacobi.de/",
   "bookingUrl": "https://www.juliane-jacobi.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE09zXNhQqEcRwXcunSGdtfo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -139,10 +142,10 @@
     }
   ],
   "images": [
-    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/augendiagnose_orig.jpg",
-    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/naturheilkunde_orig.jpg",
-    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/augenakupunktur_orig.jpg",
-    "https://www.juliane-jacobi.de/uploads/1/4/5/2/145267722/published/naturheilpraxis-logo-professionell-erstellen-lassen-1.png?1687173539"
+    "/images/entries/naturheilpraxis-juliane-jacobi/0.webp",
+    "/images/entries/naturheilpraxis-juliane-jacobi/1.webp",
+    "/images/entries/naturheilpraxis-juliane-jacobi/2.webp",
+    "/images/entries/naturheilpraxis-juliane-jacobi/3.webp"
   ],
   "faq": [
     {
@@ -165,8 +168,5 @@
       "question": "Wo befindet sich die Naturheilpraxis Juliane Jacobi?",
       "answer": "Die Naturheilpraxis Juliane Jacobi befindet sich in der Suarezstraße 2, 14057 Berlin, im Stadtteil Charlottenburg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE09zXNhQqEcRwXcunSGdtfo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

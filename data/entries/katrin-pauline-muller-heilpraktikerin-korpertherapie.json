@@ -24,14 +24,15 @@
   },
   "email": "hi@katrinpaulinemueller.com",
   "website": "http://www.katrinpaulinemueller.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKYruFRqEcRsW0GoaHyWFw",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4447.jpg",
-    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4448.jpg",
-    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4449.jpg",
-    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4450.jpg",
-    "https://katrinpaulinemueller.com/wp-content/uploads/2021/03/IMG_4451-2.png"
+    "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/0.webp",
+    "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/1.webp",
+    "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/2.webp",
+    "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/3.webp",
+    "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/4.webp"
   ],
   "faq": [
     {
@@ -54,6 +55,5 @@
       "question": "In welchem Bereich ist Katrin Pauline Müller tätig?",
       "answer": "Katrin Pauline Müller ist im Bereich der Naturheilkunde tätig."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKYruFRqEcRsW0GoaHyWFw"
+  ]
 }

@@ -27,6 +27,7 @@
   "email": "haus-rat@t-online.de",
   "website": "http://www.qi-net.de/",
   "bookingUrl": "http://www.qi-net.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE6xLpT9aqEcRlkJWLoqRVTM",
   "openingHours": [
     {
       "day": "Monday",
@@ -61,8 +62,8 @@
   ],
   "offers": [],
   "images": [
-    "http://www.qi-net.de/images/aquarellhintergrund-des-bildes-des-grunen-grases.webp",
-    "http://www.qi-net.de/style/page-to-top.webp"
+    "/images/entries/jorg-frankenberger-heilpraktiker-angewandte-tcm/0.webp",
+    "/images/entries/jorg-frankenberger-heilpraktiker-angewandte-tcm/1.webp"
   ],
   "faq": [
     {
@@ -85,6 +86,5 @@
       "question": "Wie kann ich Jörg Frankenberger kontaktieren?",
       "answer": "Sie können Jörg Frankenberger telefonisch unter 03084107559 oder per E-Mail an haus-rat@t-online.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJE6xLpT9aqEcRlkJWLoqRVTM"
+  ]
 }

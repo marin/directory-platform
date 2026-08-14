@@ -26,6 +26,9 @@
   "phone": "017664683111",
   "website": "https://www.annetteleidigpsychotherapie.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/annette-leidig?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZExn6pRqEcRFyYCO-nWPus",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -77,7 +80,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/412201175/604425b9-2191-455a-b516-6bb323ea419d.jpg"
+    "/images/entries/annette-leidig-heilpraktiker-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -100,8 +103,5 @@
       "question": "Bietet Annette Leidig auch Videosprechstunden an?",
       "answer": "Ja, nach der 3. Therapiestunde bietet Annette Leidig Videosprechstunden an, falls ein Termin vor Ort nicht möglich ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJGZExn6pRqEcRFyYCO-nWPus",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

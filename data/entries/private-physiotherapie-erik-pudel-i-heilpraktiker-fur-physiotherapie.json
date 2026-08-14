@@ -26,6 +26,9 @@
   "email": "erikpudel.pt@gmx.de",
   "website": "https://www.physioerik.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6407958372878823594",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-physiotherapie/berlin/erik-pudel?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPZah7bFTqEcRQAeryyGtw00",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -71,11 +74,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/c1d7be_324e5df00ea74106b80c9994e07aa0b3~mv2.jpg/v1/fill/w_1756,h_959,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_8050_edited_edited.jpg",
-    "https://static.wixstatic.com/media/c1d7be_e78c1333a2ff46e99a59ced2d4a91917~mv2.jpg/v1/crop/x_469,y_37,w_2376,h_2368/fill/w_324,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2%202_edited.jpg",
-    "https://static.wixstatic.com/media/c1d7be_664d9e65c07243e58eaa46e0b2bce1bd~mv2.png/v1/fill/w_63,h_63,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c1d7be_664d9e65c07243e58eaa46e0b2bce1bd~mv2.png",
-    "https://static.wixstatic.com/media/c1d7be_1780212a740e427b9e79102a74870a25~mv2.png/v1/fill/w_74,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c1d7be_1780212a740e427b9e79102a74870a25~mv2.png",
-    "https://static.wixstatic.com/media/c1d7be_36222371592147fbb95b166530c33e04~mv2.png/v1/fill/w_84,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c1d7be_36222371592147fbb95b166530c33e04~mv2.png"
+    "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/0.webp",
+    "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/1.webp",
+    "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/2.webp",
+    "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/3.webp",
+    "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/4.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Welche Behandlungsschwerpunkte hat Erik Pudel?",
       "answer": "Die Behandlungsschwerpunkte von Erik Pudel umfassen Rückenschmerzen, Nackenverspannungen, Hüft-, Knie-, Fuß-, Schulter- und Armschmerzen, Sportverletzungen sowie Bewegungseinschränkungen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPZah7bFTqEcRQAeryyGtw00",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

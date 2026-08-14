@@ -25,6 +25,9 @@
   "phone": "01604476772",
   "website": "https://www.betty-timpe.de/",
   "bookingUrl": "https://www.betty-timpe.de/termin-buchen/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCabYapJRqEcRH2kaxx2Oti0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,9 +86,9 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://le-de.cdn-website.com/83eb0744556140c39b45fc9f1c937979/dms3rep/multi/opt/shutterstock_318849443-1104w.jpg",
-    "https://le-de.cdn-website.com/83eb0744556140c39b45fc9f1c937979/dms3rep/multi/opt/smog-betty-timpe-1920w.jpg"
+    "/images/entries/heilpraktikerin-betty-timpe/0.webp",
+    "/images/entries/heilpraktikerin-betty-timpe/1.webp",
+    "/images/entries/heilpraktikerin-betty-timpe/2.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Wie kann ich Betty Timpe kontaktieren?",
       "answer": "Sie können Betty Timpe telefonisch unter 0160 4476772 oder per E-Mail an info@betty-timpe.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCabYapJRqEcRH2kaxx2Oti0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 31
+  ]
 }

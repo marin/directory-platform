@@ -26,6 +26,9 @@
   "email": "info@heilpraxis-jung.de",
   "website": "https://www.heilpraxis-jung.de/",
   "bookingUrl": "https://www.heilpraxis-jung.de/Downloads/Fragebogen_Ersttermin-Naturheilpraxis-Claudia-Jung-Berlin.pdf%20%22Download%20Fragebogen%20Ersttermin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrermbONRqEcR9kLEKqZAdbk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -141,7 +144,7 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-jung.de/Bilder/NaturheilpraxisJung1.jpg"
+    "/images/entries/naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -164,8 +167,5 @@
       "question": "Wie kann ich die Naturheilpraxis Jung kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Jung telefonisch unter 030-39 20 36 82 oder per E-Mail an info@heilpraxis-jung.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrermbONRqEcR9kLEKqZAdbk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 12
+  ]
 }

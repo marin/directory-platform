@@ -25,11 +25,11 @@
   },
   "phone": "03092103794",
   "website": "https://hpta.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY1vMTVZOqEcRGwV_g2PEL_4",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://hpta.de/_next/static/media/welcome.359eb113.jpg"
+    "/images/entries/heilpraktiker-fur-psychotherapie-tobias-assmann/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY1vMTVZOqEcRGwV_g2PEL_4"
+  "faq": []
 }

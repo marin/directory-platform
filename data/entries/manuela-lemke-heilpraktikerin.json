@@ -27,6 +27,9 @@
   "email": "info@manu-lemke.de",
   "website": "https://manu-lemke.de/?utm_source=gmb",
   "bookingUrl": "https://www.jameda.de/berlin/heilpraktiker/colon-hydro-therapie/manuela-lemke/uebersicht/81362070_1/?utm_medium=GMB_APPOINTMENT&utm_source=GMB_APPOINTMENT&utm_campaign=GMB_APPOINTMENT",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvYAJN7wjZUERWhVdMvvHMbk",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 51,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +59,8 @@
   ],
   "offers": [],
   "images": [
-    "https://manu-lemke.de/wp-content/uploads/Slider-Ern%C3%A4hrungsberatung.jpg",
-    "https://manu-lemke.de/wp-content/uploads/Logo-300x100-1.png"
+    "/images/entries/manuela-lemke-heilpraktikerin/0.webp",
+    "/images/entries/manuela-lemke-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich Manuela Lemke kontaktieren?",
       "answer": "Sie können Manuela Lemke telefonisch unter 03058905691 oder per E-Mail an info@manu-lemke.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvYAJN7wjZUERWhVdMvvHMbk",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 51
+  ]
 }

@@ -25,11 +25,14 @@
   "phone": "01732176819",
   "email": "info@heilpraktiker-fraval.de",
   "website": "http://heilpraktiker-fraval.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF4rNQItOqEcRb7BB9v-EssI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://heilpraktiker-fraval.de/content/1-accueil/_mg_4395_small.jpg",
-    "https://heilpraktiker-fraval.de/content/1-accueil/logo-fb.jpg"
+    "/images/entries/herr-jean-francois-fraval/0.webp",
+    "/images/entries/herr-jean-francois-fraval/1.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Gibt es Öffnungszeiten für die Praxis von Herrn Fraval?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF4rNQItOqEcRb7BB9v-EssI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

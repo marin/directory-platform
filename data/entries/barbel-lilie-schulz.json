@@ -24,6 +24,9 @@
   },
   "phone": "03049878889",
   "website": "http://homoeopathie-lilie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsdfF_6tTqEcRYkNCIAvcApw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,10 +56,7 @@
     }
   ],
   "images": [
-    "http://homoeopathie-lilie.de/wp-content/uploads/2015/07/hp-lilie-211x300.jpg"
+    "/images/entries/barbel-lilie-schulz/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsdfF_6tTqEcRYkNCIAvcApw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

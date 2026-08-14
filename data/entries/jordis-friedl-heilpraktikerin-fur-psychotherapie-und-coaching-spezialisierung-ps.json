@@ -27,6 +27,9 @@
   "email": "info@heilpraxis-friedl.de",
   "website": "http://www.heilpraxis-friedl.de/",
   "bookingUrl": "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiSPaAN9PqEcRLwON7nS1zzw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -102,9 +105,9 @@
     }
   ],
   "images": [
-    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://cdn1.site-media.eu/images/1024/15888462/JoerdisPartraitbearbeitetGlanz-x7k2Gj0Z_kKIbkULyJHNcw.png",
-    "https://cdn1.site-media.eu/images/1200x630/11508205/017605_Heilpraxisfur_2v2-01.jpg"
+    "/images/entries/jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps/0.webp",
+    "/images/entries/jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps/1.webp",
+    "/images/entries/jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps/2.webp"
   ],
   "faq": [
     {
@@ -127,8 +130,5 @@
       "question": "Was unterscheidet Jördis Friedl von anderen Heilpraktikern?",
       "answer": "Jördis Friedl kombiniert professionelle Qualifikationen mit persönlicher Erfahrung, insbesondere durch eigene Herausforderungen wie eine Krebsdiagnose. Sie verfolgt einen ganzheitlichen Ansatz, der den Menschen als Einheit von Körper, Seele und Geist betrachtet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiSPaAN9PqEcRLwON7nS1zzw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

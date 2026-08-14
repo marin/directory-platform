@@ -28,6 +28,9 @@
   "phone": "015209736907",
   "website": "https://www.heilpraxis-wolf.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/wolf-katrin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRSdQ3c-DYTDU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -118,11 +121,11 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/logical-thinking%281%29-1920w.png?Expires=1788636730&Signature=hmNqbi76so8O5zEQcUorjFS1x76Y~5reQl-p5N5BplnWqeNwYSSyrYz0YfE9CGICg3ljvC49fUoC-QcdoH7X37Xdo~MUOzPaayI~LjlhhpgxhqROB5eO63CayVUn2aG3PVWzW3XJjdaZ3MUbiVu6bcdYaYArStWIYcEOoDVuuFUPbola-AEOr2n~SKgxgkgMrKpmyda-p92vuED9d4oc30nvTY3AUM2nIB67ytae1eauuxOx5gZ17jUAtq1htodneaqiVZkJYl5EpIx7y4EStF8S7uWCbv-q-yhg4Fyk-4dOzB9xOdrLnH0AFJgJ6eOwdXewQ2mCgS91hEmvxTf9LQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/herbal-ingredient%281%29-1920w.png?Expires=1788636730&Signature=bPkScCQPnqSTFL2LIp05OmhLYb8jRmIMlOAzCjfVmDTiQuUe-EzfKlqr9Z6LDDarQUWH07cTIFQCDXKvzlHZ6vvfaNMw1UXz1Cg2UB2szUcXrF5CmX1Ad86B2EuNyg-jTCSXSNU1cgslYGptO3n-CILioIqV4cm-pucr6GkQjHAf5hOK3M3wJUcAIvVlyeGtyd7feUlk0lAm~cFSK7FQ-xRC-clT91eIExVKILzwpeYRX-cpeVrHDTmOt~FACBEi2L4G4fMNh-oDzkQyGOrQiLe8vpFXepXm0VUwNHd6vgC3is~Bv3CaNUFdah1gp-k~AW7nFJF8MEh0WvFcjE8uMw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/akupunktur+1-1920w.png?Expires=1788636730&Signature=VAIvUsWlP~h64MCt-4d-S4qbe26ywbXcrcg1NOb5C0DaOV-XqfNvmERpwSksQKulg6N6C8OMSVRjka9juiolGiGsmarTsYkNS1aoaUCwZIeuZtlgqzWgY-zfwlmIxieoYu8MNXIy9VQMpgMcfc58w-uBINf~FUnNBz7O392knac8h85Ain5kMpWmDszHs1qGUlPl-wWNf1pV~II90rCtq13TkGJs6kQhiJvgDdVVq2ftbeiBNObYKljm5cFIrk-HVETcjKqk1D18~ZzgrfConX3y42O24RsadVW5mFv9Qs7qP3MnzFP8~KR7WVGdVoXYoGaz77shq8o-AuoiNBch~w__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/58454bfe065141a58cbf490a082e5f28/dms3rep/multi/opt/self-care%281%29-1920w.png?Expires=1788636730&Signature=Ir9xocpSRrewAkpelLHrxdjKOta6Ks2hK8sUD6LABB0vOtjwSiVYsXCrnChRfQki--xz8F5sxMmpIuzZmZgnebeFP3xBsEUWikt4OugHjpgrJ6ZJRiZkanZpwcKUE7Qp5eZEN4HrboT9uAfPZpa5HUTbiwd0bRz-zz47LatHCBq3VLqRLLXje4yAY~UTrsqCZOHlTCQdg9kp6TN25o8WJBsyP9yGc44wBtbcR6VgZ8XKhXGXZ4bVBfQQUfZ62KY334wwW44i4FpuMpxegscYxQCrC3jP-rvX1HBiuHfzDg6RL43LF-EWTCzwJWPMiV7zEDi13MBPnOuFfKTrQlX15A__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin/0.webp",
+    "/images/entries/katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin/1.webp",
+    "/images/entries/katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin/2.webp",
+    "/images/entries/katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin/3.webp",
+    "/images/entries/katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin/4.webp"
   ],
   "faq": [
     {
@@ -145,8 +148,5 @@
       "question": "Wie kann ich Katrin Wolf telefonisch erreichen?",
       "answer": "Sie können Katrin Wolf unter der Telefonnummer 015209736907 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZQ8ZN6lTqEcRSdQ3c-DYTDU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  ]
 }

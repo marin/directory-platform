@@ -25,6 +25,9 @@
   "phone": "03086203336",
   "email": "petra-sterling@web.de",
   "website": "http://www.naturheilpraxis-sterling.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRjY8dL5abD-g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -65,9 +68,9 @@
     }
   ],
   "images": [
-    "http://www.naturheilpraxis-sterling.de/images/praxis_f.jpg",
-    "http://www.naturheilpraxis-sterling.de/images/sterling_massage_therapie_zehlendorf.jpg",
-    "http://www.naturheilpraxis-sterling.de/images/Sterling_Naturheilpraxis_Zehlendorf2.gif"
+    "/images/entries/naturheilpraxis-inh-petra-sterling/0.webp",
+    "/images/entries/naturheilpraxis-inh-petra-sterling/1.webp",
+    "/images/entries/naturheilpraxis-inh-petra-sterling/2.webp"
   ],
   "faq": [
     {
@@ -90,8 +93,5 @@
       "question": "Welche Ausbildung hat Petra Sterling im Bereich Schmerztherapie?",
       "answer": "Petra Sterling hat im April 2009 eine Ausbildung zur LnB Schmerztherapeutin abgeschlossen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRjY8dL5abD-g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

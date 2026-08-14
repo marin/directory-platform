@@ -24,11 +24,14 @@
   },
   "phone": "03084724739",
   "website": "http://www.caroline-raasch.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5TIBCVBaqEcRXG9XI1Ayc9M",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.caroline-raasch.de/images/Gelbe%20Linie.png",
-    "https://www.caroline-raasch.de/images/Caroline-Raasch-Visitenkarte-03.jpg"
+    "/images/entries/caroline-raasch-heilpraktikerin/0.webp",
+    "/images/entries/caroline-raasch-heilpraktikerin/1.webp"
   ],
   "faq": [
     {
@@ -47,8 +50,5 @@
       "question": "Hat die Praxis von Caroline Raasch spezielle Öffnungszeiten?",
       "answer": "Im Kontext sind keine speziellen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5TIBCVBaqEcRXG9XI1Ayc9M",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

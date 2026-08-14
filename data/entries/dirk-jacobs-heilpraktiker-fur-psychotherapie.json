@@ -28,6 +28,9 @@
   "email": "praxis@aufdichhoeren.de",
   "website": "https://aufdichhoeren.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dirk-jacobs?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK0eOD1haZSYR2hLmOxF8Xjc",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -56,9 +59,9 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://aufdichhoeren.de/static/slogan-2-2b69c36d6cecb753f307a607b55dd0f7.png",
-    "https://aufdichhoeren.de/static/white-logo-6c8ffa5ca717c682f94819001ec9db66.png"
+    "/images/entries/dirk-jacobs-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/dirk-jacobs-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/dirk-jacobs-heilpraktiker-fur-psychotherapie/2.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Welche Methoden verwendet Dirk Jacobs in seiner Therapie?",
       "answer": "Dirk Jacobs verwendet verschiedene Methoden, darunter Hypnotherapie nach M. Erickson, klientenzentrierte Gesprächstherapie nach C. Rogers, ressourcenorientierte Psychotherapie sowie systemisches Coaching."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK0eOD1haZSYR2hLmOxF8Xjc",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 7
+  ]
 }

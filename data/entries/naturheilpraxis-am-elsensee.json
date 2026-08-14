@@ -25,6 +25,7 @@
   "phone": "015750187543",
   "website": "https://www.naturheilpraxis-am-elsensee.de/",
   "bookingUrl": "https://www.naturheilpraxis-am-elsensee.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi-uyw5VJqEcRWZBCohdRiTo",
   "openingHours": [],
   "offers": [
     {
@@ -33,7 +34,7 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=png/path/s023be1abdd176f1e/image/i8ae5db4736b9d92f/version/1490732337/image.png"
+    "/images/entries/naturheilpraxis-am-elsensee/0.webp"
   ],
   "faq": [
     {
@@ -56,6 +57,5 @@
       "question": "Wie kann ich die Naturheilpraxis Am Elsensee erreichen?",
       "answer": "Sie können die Naturheilpraxis Am Elsensee telefonisch unter 015750187543 erreichen. Bei Bedarf können Sie auch eine Nachricht auf dem Anrufbeantworter hinterlassen, und es wird zeitnah zurückgerufen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi-uyw5VJqEcRWZBCohdRiTo"
+  ]
 }

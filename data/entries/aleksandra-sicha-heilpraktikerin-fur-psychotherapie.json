@@ -27,6 +27,9 @@
   "email": "kontakt@traumatherapie-sicha.de",
   "website": "https://www.traumatherapie-sicha.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/aleksandra-sicha",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfUiCQuJNqEcR1mtTbeJ1vhI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -163,11 +166,11 @@
     }
   ],
   "images": [
-    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/traumatherapie_sicha_portrait_startseite-715x1024.jpg",
-    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_wie_ich_arbeite-683x1024.jpg",
-    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_ueber_mich-683x1024.jpg",
-    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/aleksandra_sicha_kontakt_illustration-1024x1024.png",
-    "https://www.traumatherapie-sicha.de/wp-content/uploads/2026/02/praxis-bild.jpg"
+    "/images/entries/aleksandra-sicha-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/aleksandra-sicha-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/aleksandra-sicha-heilpraktikerin-fur-psychotherapie/2.webp",
+    "/images/entries/aleksandra-sicha-heilpraktikerin-fur-psychotherapie/3.webp",
+    "/images/entries/aleksandra-sicha-heilpraktikerin-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -190,8 +193,5 @@
       "question": "Wie kann EMDR-Therapie hilfreich sein?",
       "answer": "EMDR-Therapie kann hilfreich sein, um belastende Erfahrungen zu verarbeiten, den Alarmmodus des Körpers zu beruhigen und stärkende innere Überzeugungen zu entwickeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfUiCQuJNqEcR1mtTbeJ1vhI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  ]
 }

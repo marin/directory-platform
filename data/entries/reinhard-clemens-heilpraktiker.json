@@ -27,6 +27,9 @@
   "email": "reinhard.clemens@gmail.com",
   "website": "https://rc-naturheilpraxis.de/",
   "bookingUrl": "https://rc-naturheilpraxis.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZe8WvTtQqEcRsSihBJsCdtc",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 39,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,14 +75,11 @@
     }
   ],
   "images": [
-    "https://rc-naturheilpraxis.de/api/media/file/OLE_6033.jpg",
-    "https://rc-naturheilpraxis.de/api/media/file/Reinhard-Clemens-vertical.jpg",
-    "https://rc-naturheilpraxis.de/api/media/file/Nebennierenschwaeche.png",
-    "https://rc-naturheilpraxis.de/api/media/file/Darm.png",
-    "https://rc-naturheilpraxis.de/api/media/file/Lebensmittelunvertraeglichkeit.png"
+    "/images/entries/reinhard-clemens-heilpraktiker/0.webp",
+    "/images/entries/reinhard-clemens-heilpraktiker/1.webp",
+    "/images/entries/reinhard-clemens-heilpraktiker/2.webp",
+    "/images/entries/reinhard-clemens-heilpraktiker/3.webp",
+    "/images/entries/reinhard-clemens-heilpraktiker/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZe8WvTtQqEcRsSihBJsCdtc",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 39
+  "faq": []
 }

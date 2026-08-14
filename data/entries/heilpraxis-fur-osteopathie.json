@@ -25,6 +25,7 @@
   "phone": "03058899195",
   "website": "https://www.osteopathie-rahnsdorf.de/kontakt/",
   "bookingUrl": "https://www.osteopathie-rahnsdorf.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUBjH2k3qEcRi1b5X7X0M9A",
   "openingHours": [],
   "offers": [
     {
@@ -33,8 +34,8 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=290x10000:format=jpg/path/sc4a518c32e089ae3/image/i2fe3bb53101a1ce2/version/1605376919/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=289x10000:format=jpg/path/sc4a518c32e089ae3/image/i435f5ef20af4d899/version/1661688946/image.jpg"
+    "/images/entries/heilpraxis-fur-osteopathie/0.webp",
+    "/images/entries/heilpraxis-fur-osteopathie/1.webp"
   ],
   "faq": [
     {
@@ -57,6 +58,5 @@
       "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
       "answer": "Die Bushaltestelle \"Grünheider Weg\" der Linie 161, die die S-Bahnhöfe Rahnsdorf, Wilhelmshagen und Erkner bedient, befindet sich unweit der Praxis."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUBjH2k3qEcRi1b5X7X0M9A"
+  ]
 }

@@ -24,6 +24,9 @@
   },
   "phone": "03040102031",
   "website": "http://www.naturheilpraxis-thiele-frohnau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVbE8ds9UqEcRNmrI7RLb5hM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,11 +56,7 @@
   ],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-thiele-frohnau.de/assets/images/7/Mail-Anhang-1-e14a3340.jpeg",
-    "https://www.naturheilpraxis-thiele-frohnau.de/files/naturheilpraxis/gfx/naturheilpraxis_logo.jpg"
+    "/images/entries/naturheilpraxis-petra-thiele/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVbE8ds9UqEcRNmrI7RLb5hM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

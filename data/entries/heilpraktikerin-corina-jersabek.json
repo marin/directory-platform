@@ -25,6 +25,9 @@
   "phone": "03062870431",
   "website": "https://www.heilpraktikerinberlin.info/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/corina-jersabek?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSYLbPutRqEcReEogzOu66Po",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 15,
   "openingHours": [
     {
       "day": "Monday",
@@ -102,7 +105,7 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=jpg/path/s9a9fb8f41cb282a0/image/ic280295d8aca782e/version/1456940860/corina-jersabek-heilpraktikerin.jpg"
+    "/images/entries/heilpraktikerin-corina-jersabek/0.webp"
   ],
   "faq": [
     {
@@ -125,8 +128,5 @@
       "question": "Welche Kosten entstehen für die Behandlungen?",
       "answer": "Die Preise für die Behandlungen beginnen bei 129,- € und es können zusätzliche Kosten für Blutegel oder andere spezifische Behandlungen anfallen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSYLbPutRqEcReEogzOu66Po",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 15
+  ]
 }

@@ -58,6 +58,7 @@ export const siteConfigSchema = z.object({
     areas: z.boolean(),
     search: z.boolean(),
     map: z.boolean(),
+    images: z.boolean(),
     reviews: z.boolean(),
     commercialPlacements: z.boolean(),
     faqBlocks: z.boolean(),

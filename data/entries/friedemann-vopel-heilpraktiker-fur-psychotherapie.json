@@ -27,6 +27,7 @@
   "email": "kontakt@friedemannvopel.de",
   "website": "https://friedemannvopel.de/",
   "bookingUrl": "https://friedemannvopel.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_FzXA9TqEcRE3KrufIyGGw",
   "openingHours": [
     {
       "day": "Monday",
@@ -106,11 +107,11 @@
     }
   ],
   "images": [
-    "https://friedemannvopel.de/wp-content/uploads/go-x/u/aa99c0bf-7aec-475d-a6d7-a707c724d545/l0,t33,w1499,h1934/image-797x1028.jpg",
-    "https://friedemannvopel.de/wp-content/uploads/go-x/u/dd52cef3-4222-423b-b559-49586959b111/l0,t18,w900,h1163/image-768x992.jpg",
-    "https://friedemannvopel.de/wp-content/uploads/go-x/u/6338e420-07a8-40e3-a8b5-495531947007/l101,t0,w1799,h1500/image-768x640.jpg",
-    "https://friedemannvopel.de/wp-content/uploads/go-x/u/a9f8408e-60a0-4862-9ee9-5a1e43f12595/l54,t118,w1148,h1484/image-768x993.jpg",
-    "https://friedemannvopel.de/wp-content/uploads/go-x/u/138064ce-7475-48a9-a7f4-ae45f5023eb6/image.jpg"
+    "/images/entries/friedemann-vopel-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/friedemann-vopel-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/friedemann-vopel-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/friedemann-vopel-heilpraktiker-fur-psychotherapie/3.webp",
+    "/images/entries/friedemann-vopel-heilpraktiker-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -133,6 +134,5 @@
       "question": "Wie kann ich ein kostenfreies Erstgespräch vereinbaren?",
       "answer": "Du kannst ein kostenfreies Erstgespräch über die Website von Friedemann Vopel unter https://friedemannvopel.de/kontakt/ vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJG_FzXA9TqEcRE3KrufIyGGw"
+  ]
 }

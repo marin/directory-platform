@@ -25,6 +25,9 @@
   "phone": "01743889141",
   "website": "https://www.heilpraktiker-rene-kohrt.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/rene-kohrt-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVoJEa9PqEcRYJvJy0KBb_c",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -71,11 +74,11 @@
     }
   ],
   "images": [
-    "https://daten.verwaltungsportal.de/dateien//mypage/3/4/9/3/7/6/9/20230624_docsofberlin_Rene_6100_sw.webp?v=1762499434",
-    "https://daten.verwaltungsportal.de/dateien//mypage/3/4/9/3/7/7/0/Rathaus_Neukoelln.webp?v=1762499434",
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/favorite.gif",
-    "https://layout.verwaltungsportal.de/global/interaktiv/buttons/sendlink.gif"
+    "/images/entries/hrk-heilpraktiker-rene-kohrt/0.webp",
+    "/images/entries/hrk-heilpraktiker-rene-kohrt/1.webp",
+    "/images/entries/hrk-heilpraktiker-rene-kohrt/2.webp",
+    "/images/entries/hrk-heilpraktiker-rene-kohrt/3.webp",
+    "/images/entries/hrk-heilpraktiker-rene-kohrt/4.webp"
   ],
   "faq": [
     {
@@ -98,8 +101,5 @@
       "question": "Wie kann ich René Kohrt telefonisch erreichen?",
       "answer": "Sie können René Kohrt unter der Telefonnummer 0174 3889141 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVoJEa9PqEcRYJvJy0KBb_c",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 7
+  ]
 }

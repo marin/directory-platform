@@ -25,6 +25,9 @@
   "phone": "03064327202",
   "email": "fokus@elkewiget.com",
   "website": "http://www.elkewiget.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvdGRTKRQqEcRgXqaciSY7bc",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 14,
   "openingHours": [],
   "offers": [
     {
@@ -61,11 +64,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5afe60462baf41e79586f3fdaf78d664.jpg",
-    "https://static.wixstatic.com/media/728cd3_a7f8023f8407443f920a60b63149f97e~mv2_d_1920_1280_s_2.jpg/v1/fill/w_1905,h_993,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/728cd3_a7f8023f8407443f920a60b63149f97e~mv2_d_1920_1280_s_2.jpg",
-    "https://static.wixstatic.com/media/728cd3_b1886832190c4010b10757938172e050~mv2.jpg/v1/crop/x_0,y_45,w_300,h_300/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Element_Feuer.jpg",
-    "https://static.wixstatic.com/media/728cd3_1e762be8f1ef4d80b1ff29f10d8441a0~mv2.jpg/v1/crop/x_50,y_0,w_200,h_200/fill/w_200,h_200,al_c,q_80,enc_avif,quality_auto/Element_Wasser.jpg",
-    "https://static.wixstatic.com/media/728cd3_03e734e839644ef7bd61b7c7da8531f0~mv2.jpg/v1/crop/x_50,y_0,w_200,h_200/fill/w_200,h_200,al_c,q_80,enc_avif,quality_auto/Element_Erde.jpg"
+    "/images/entries/elke-wiget/0.webp",
+    "/images/entries/elke-wiget/1.webp",
+    "/images/entries/elke-wiget/2.webp",
+    "/images/entries/elke-wiget/3.webp",
+    "/images/entries/elke-wiget/4.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Bietet Elke Wiget auch Ausbildungen an?",
       "answer": "Ja, Elke Wiget bietet Ausbildungen an, darunter SUNDOOR Firewalk Instructor und Colon Hydro Therapeut."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvdGRTKRQqEcRgXqaciSY7bc",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 14
+  ]
 }

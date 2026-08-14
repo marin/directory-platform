@@ -24,6 +24,7 @@
   },
   "phone": "03070765633",
   "website": "http://www.praxis-donak.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn8ONGolEqEcRakOIHCuj10M",
   "openingHours": [
     {
       "day": "Monday",
@@ -118,8 +119,8 @@
     }
   ],
   "images": [
-    "http://www.praxis-donak.de/images/bus.png",
-    "http://www.praxis-donak.de/images/sprechzeiten.png"
+    "/images/entries/praxis-fur-naturheilkunde-j-donak/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-j-donak/1.webp"
   ],
   "faq": [
     {
@@ -142,6 +143,5 @@
       "question": "Gibt es eine kostenfreie Erstberatung?",
       "answer": "Ja, die Praxis bietet ein kostenfreies und unverbindliches Informationsgespräch an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn8ONGolEqEcRakOIHCuj10M"
+  ]
 }

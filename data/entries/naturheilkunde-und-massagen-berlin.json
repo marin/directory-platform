@@ -26,6 +26,7 @@
   "phone": "017665013312",
   "email": "ulrike.saxl@protonmail.com",
   "website": "http://naturheilkunde-und-massagen-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrd6n7r5PqEcRv1PWp67gpoY",
   "openingHours": [
     {
       "day": "Monday",
@@ -55,7 +56,7 @@
   ],
   "offers": [],
   "images": [
-    "https://usercontent.one/wp/naturheilkunde-und-massagen-berlin.de/wp-content/uploads/2024/12/cropped-frauenmantel-1.png"
+    "/images/entries/naturheilkunde-und-massagen-berlin/0.webp"
   ],
   "faq": [
     {
@@ -74,6 +75,5 @@
       "question": "Wie kann ich Naturheilkunde und Massagen Berlin kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 017665013312 oder per E-Mail an ulrike.saxl@protonmail.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrd6n7r5PqEcRv1PWp67gpoY"
+  ]
 }

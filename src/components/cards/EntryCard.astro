@@ -11,20 +11,61 @@ const showGoogleRating = hasGoogleMapsRating(card);
 ---
 
 <article class="card">
-  <h3 style="font-size: 1rem; margin-bottom: 0.25rem;">
-    <a href={card.href}>{card.name}</a>
-    {!card.isOpen && <span class="badge" style="margin-left: 0.5rem;">Geschlossen</span>}
-  </h3>
-  <p class="muted" style="font-size: 0.875rem;">{card.primaryCategory}{card.areaName ? ` · ${card.areaName}` : ""}</p>
-  {
-    showGoogleRating && (
-      <GoogleMapsRating
-        rating={card.googleMapsRating!}
-        ratingsCount={card.googleMapsRatingsCount!}
-        mapsUrl={card.googleMapsUrl}
-        variant="compact"
-      />
-    )
-  }
-  <p style="font-size: 0.9rem; margin-top: 0.5rem;">{card.description}</p>
+  <div class:list={["card-body", card.primaryImage && "card-body--with-image"]}>
+    {
+      card.primaryImage && (
+        <img
+          src={card.primaryImage}
+          alt=""
+          width="80"
+          height="80"
+          loading="lazy"
+          decoding="async"
+          class="card-thumb"
+          data-testid="entry-card-image"
+        />
+      )
+    }
+    <div class="card-content">
+      <h3 style="font-size: 1rem; margin-bottom: 0.25rem;">
+        <a href={card.href}>{card.name}</a>
+        {!card.isOpen && <span class="badge" style="margin-left: 0.5rem;">Geschlossen</span>}
+      </h3>
+      <p class="muted" style="font-size: 0.875rem;">{card.primaryCategory}{card.areaName ? ` · ${card.areaName}` : ""}</p>
+      {
+        showGoogleRating && (
+          <GoogleMapsRating
+            rating={card.googleMapsRating!}
+            ratingsCount={card.googleMapsRatingsCount!}
+            mapsUrl={card.googleMapsUrl}
+            variant="compact"
+          />
+        )
+      }
+      <p style="font-size: 0.9rem; margin-top: 0.5rem;">{card.description}</p>
+    </div>
+  </div>
 </article>
+
+<style>
+  .card-body {
+    display: block;
+  }
+  .card-body--with-image {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  .card-thumb {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: var(--radius);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+  }
+  .card-content {
+    min-width: 0;
+  }
+</style>

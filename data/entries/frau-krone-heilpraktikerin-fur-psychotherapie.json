@@ -27,6 +27,9 @@
   "email": "info@frau-krone.de",
   "website": "http://www.frau-krone.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ulrike-krone?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfuXsOIgdW4RDvkGxHVf9SI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -162,9 +165,9 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://www.frau-krone.de/wp-content/uploads/go-x/u/1c7bf740-552c-4df3-985d-083231d70289/l0,t0,w313,h313/image.jpg",
-    "https://frau-krone.de/wp-content/uploads/go-x/u/e51f0259-a7dc-4d4f-9535-4283b4aa9e1b/image.jpg"
+    "/images/entries/frau-krone-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/frau-krone-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/frau-krone-heilpraktikerin-fur-psychotherapie/2.webp"
   ],
   "faq": [
     {
@@ -187,8 +190,5 @@
       "question": "Wie kann ich Frau Krone kontaktieren?",
       "answer": "Sie können Frau Krone telefonisch unter 017685048318 oder per E-Mail an info@frau-krone.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNfuXsOIgdW4RDvkGxHVf9SI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

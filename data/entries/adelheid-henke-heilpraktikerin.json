@@ -25,6 +25,7 @@
   "phone": "0308336071",
   "email": "mail@adelheidhenke.de",
   "website": "https://adelheidhenke.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWXf7OVlaqEcRukqqmFI1nDk",
   "openingHours": [
     {
       "day": "Thursday",
@@ -39,7 +40,7 @@
   ],
   "offers": [],
   "images": [
-    "https://adelheidhenke.de/wordpress/wp-content/uploads/2019/07/startbild_stoerer-leer.png"
+    "/images/entries/adelheid-henke-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -58,6 +59,5 @@
       "question": "Welche Behandlungsmethoden bietet Adelheid Henke an?",
       "answer": "Adelheid Henke bietet naturheilkundliche Behandlungen an, die auf einen ganzheitlichen Ansatz abzielen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWXf7OVlaqEcRukqqmFI1nDk"
+  ]
 }

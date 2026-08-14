@@ -26,6 +26,7 @@
   "phone": "017680009547",
   "email": "info@der-gelbe-kaiser.com",
   "website": "http://der-gelbe-kaiser.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi9NTSHxRqEcRXJv_Lkmj9RA",
   "openingHours": [
     {
       "day": "Monday",
@@ -79,11 +80,11 @@
     }
   ],
   "images": [
-    "https://der-gelbe-kaiser.com/wp-content/uploads/2019/08/PICT0180.jpg",
-    "https://der-gelbe-kaiser.com/wp-content/uploads/2019/10/1.jpg",
-    "https://der-gelbe-kaiser.com/wp-content/uploads/2019/10/teishin.jpg",
-    "https://der-gelbe-kaiser.com/wp-content/uploads/2019/10/IMG_8940-1024x683.jpg",
-    "https://der-gelbe-kaiser.com/wp-content/uploads/2019/10/Liebsto%CC%88ckel-200x300.jpg"
+    "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/0.webp",
+    "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/1.webp",
+    "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/2.webp",
+    "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/3.webp",
+    "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/4.webp"
   ],
   "faq": [
     {
@@ -106,6 +107,5 @@
       "question": "Welche Philosophie verfolgt die Naturheilpraxis Karina Dan?",
       "answer": "Die Naturheilpraxis Karina Dan verfolgt die Philosophie, dass Gesundheit das höchste Gut ist und legt Wert darauf, die individuellen Bedürfnisse der Patienten zu erkennen und zu behandeln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi9NTSHxRqEcRXJv_Lkmj9RA"
+  ]
 }

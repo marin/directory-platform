@@ -25,6 +25,7 @@
   "phone": "0305676227",
   "email": "info@gabriela-thoms.de",
   "website": "https://gabriela-thoms.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF2LMQp5JqEcR63NLOT3RxhU",
   "openingHours": [],
   "offers": [
     {
@@ -117,8 +118,8 @@
     }
   ],
   "images": [
-    "https://gabriela-thoms.de/.cm4all/iproc.php/P1156160.JPG/downsize_1280_0/P1156160.JPG",
-    "https://gabriela-thoms.de/.cm4all/uproc.php/0/P1156149.JPG"
+    "/images/entries/naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms/0.webp",
+    "/images/entries/naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms/1.webp"
   ],
   "faq": [
     {
@@ -137,6 +138,5 @@
       "question": "Welche Beschwerden werden in der Praxis behandelt?",
       "answer": "In der Praxis werden unter anderem Kopfschmerzen, Migräne, Nacken-, Schulter- und Rückenbeschwerden, Asthma, sowie Reizdarm und viele weitere Beschwerden behandelt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF2LMQp5JqEcR63NLOT3RxhU"
+  ]
 }

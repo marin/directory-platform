@@ -26,6 +26,9 @@
   "email": "h.curseri@gmx.de",
   "website": "http://www.physio-heikecurseri.de/",
   "bookingUrl": "https://www.physio-heikecurseri.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtX-6A1hHqEcRU8KHTw4jRdY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -46,8 +49,8 @@
     }
   ],
   "images": [
-    "https://www.physio-heikecurseri.de/wp-content/uploads/go-x/u/67bbbecf-bc80-494c-81f0-1a3d0dce8398/l214,t0,w853,h853/image.jpg",
-    "https://www.physio-heikecurseri.de/wp-content/uploads/go-x/u/b902d528-3d41-40c6-8503-f6f91150641c/l28,t0,w1047,h1544/image.jpg"
+    "/images/entries/private-physiotherapie-sektorale-heilpraktikerin-heike-curseri/0.webp",
+    "/images/entries/private-physiotherapie-sektorale-heilpraktikerin-heike-curseri/1.webp"
   ],
   "faq": [
     {
@@ -70,8 +73,5 @@
       "question": "Was ist das Ziel von Heike Curseri in ihrer Praxis?",
       "answer": "Das Ziel von Heike Curseri ist es, Menschen in ihrem Gesundungsprozess zu begleiten und zu unterstützen, um sie in ihre dauerhafte Genesung zu führen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtX-6A1hHqEcRU8KHTw4jRdY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

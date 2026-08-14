@@ -26,6 +26,9 @@
   "email": "info@katjaanelia.com",
   "website": "https://www.katjaanelia.com/",
   "bookingUrl": "https://calendly.com/katjaanelia/free-intro-call",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm3wJUl5JqEcRBojbz48a1wc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -123,11 +126,11 @@
     }
   ],
   "images": [
-    "https://static.tildacdn.net/tild3739-3134-4038-b634-626535666466/Katja-Kossakowski.jpg",
-    "https://thb.tildacdn.net/tild3937-6635-4338-b738-386236346436/-/empty/220430-KatjaAyurveda.jpg",
-    "https://thb.tildacdn.net/tild3666-6535-4662-b830-383463316630/-/empty/Katja-95.jpg",
-    "https://thb.tildacdn.net/tild3933-3863-4462-a632-376264343539/-/empty/220430-KatjaAyurveda.jpg",
-    "https://thb.tildacdn.net/tild6363-3430-4662-b435-316232363837/-/empty/IMG_4963.jpg"
+    "/images/entries/heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis/0.webp",
+    "/images/entries/heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis/1.webp",
+    "/images/entries/heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis/2.webp",
+    "/images/entries/heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis/3.webp",
+    "/images/entries/heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis/4.webp"
   ],
   "faq": [
     {
@@ -150,8 +153,5 @@
       "question": "Wie hoch sind die Preise für die Behandlungen?",
       "answer": "Die Preise für die Behandlungen variieren, zum Beispiel kostet eine 60-minütige Sitzung 80 Euro."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm3wJUl5JqEcRBojbz48a1wc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

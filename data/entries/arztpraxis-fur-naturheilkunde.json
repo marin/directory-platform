@@ -27,11 +27,12 @@
   "email": "kerstin.wolf@naturheilkunde-in-weissensee.de",
   "website": "https://www.naturheilkunde-in-weissensee.de/",
   "bookingUrl": "https://www.naturheilkunde-in-weissensee.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3dWVZsNNqEcR_x2HbqjZuNo",
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilkunde-in-weissensee.de/s/cc_images/cache_2462197589.jpg?t=1510242958",
-    "https://www.naturheilkunde-in-weissensee.de/s/img/emotionheader.jpg"
+    "/images/entries/arztpraxis-fur-naturheilkunde/0.webp",
+    "/images/entries/arztpraxis-fur-naturheilkunde/1.webp"
   ],
   "faq": [
     {
@@ -54,6 +55,5 @@
       "question": "Für welche Altersgruppen sind die Behandlungen geeignet?",
       "answer": "Die Behandlungen in der Praxis sind für Kinder, Jugendliche und Erwachsene geeignet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3dWVZsNNqEcR_x2HbqjZuNo"
+  ]
 }

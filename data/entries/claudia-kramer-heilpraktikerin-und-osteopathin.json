@@ -26,6 +26,9 @@
   "phone": "01783653688",
   "email": "claudia@osteopathie-kladow.de",
   "website": "http://www.osteopathie-kladow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzWeSRWtYqEcRXd4FUlz-pVs",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 31,
   "openingHours": [],
   "offers": [
     {
@@ -34,9 +37,9 @@
     }
   ],
   "images": [
-    "http://www.osteopathie-kladow.de/img/ClaudiaKraemer2012.jpg",
-    "http://www.osteopathie-kladow.de/img/space.gif",
-    "http://www.osteopathie-kladow.de/img/up3.gif"
+    "/images/entries/claudia-kramer-heilpraktikerin-und-osteopathin/0.webp",
+    "/images/entries/claudia-kramer-heilpraktikerin-und-osteopathin/1.webp",
+    "/images/entries/claudia-kramer-heilpraktikerin-und-osteopathin/2.webp"
   ],
   "faq": [
     {
@@ -59,8 +62,5 @@
       "question": "An wen richtet sich die osteopathische Behandlung?",
       "answer": "Die osteopathische Behandlung richtet sich an Patienten jeden Alters, einschließlich Neugeborenen, und kann auch vorbeugend angewendet werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzWeSRWtYqEcRXd4FUlz-pVs",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 31
+  ]
 }

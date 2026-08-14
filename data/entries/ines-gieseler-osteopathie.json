@@ -25,6 +25,9 @@
   "phone": "03051656822",
   "email": "info@osteopathie-berlin-gieseler.de",
   "website": "http://www.osteopathie-berlin-gieseler.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRplfm9OqEcRoW1MWw6ZVEA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -45,7 +48,7 @@
     }
   ],
   "images": [
-    "https://www.osteopathie-berlin-gieseler.de/images/vod-osteopathie.png"
+    "/images/entries/ines-gieseler-osteopathie/0.webp"
   ],
   "faq": [
     {
@@ -68,8 +71,5 @@
       "question": "Wie kann ich die Praxis mit öffentlichen Verkehrsmitteln erreichen?",
       "answer": "Sie können die Praxis mit der S-Bahn bis zur Station Grünau erreichen oder mit der Straßenbahn Nr. 68 in Richtung Alt-Schmöckwitz bis zur Haltestelle Lübbenauer Weg fahren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRplfm9OqEcRoW1MWw6ZVEA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

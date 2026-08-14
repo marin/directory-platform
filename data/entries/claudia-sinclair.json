@@ -26,6 +26,9 @@
   "email": "claudia@naturheilpraxis-sinclair.de",
   "website": "http://www.naturheilpraxis-sinclair.de/",
   "bookingUrl": "https://www.naturheilpraxis-sinclair.de/kontakt-preise/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ22Zfmj5QqEcRfQuFzG6WTkA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -50,11 +53,11 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-sinclair.de/s/img/emotionheader24876191.png?1668542251.960px.233px",
-    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_43758485.png?t=1736702110",
-    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38936362.png?t=1706191400",
-    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38947404.png?t=1599476114",
-    "https://www.naturheilpraxis-sinclair.de/s/cc_images/cache_38936385.png?t=1603281225"
+    "/images/entries/claudia-sinclair/0.webp",
+    "/images/entries/claudia-sinclair/1.webp",
+    "/images/entries/claudia-sinclair/2.webp",
+    "/images/entries/claudia-sinclair/3.webp",
+    "/images/entries/claudia-sinclair/4.webp"
   ],
   "faq": [
     {
@@ -77,8 +80,5 @@
       "question": "Bietet Claudia Sinclair auch Fortbildungen an?",
       "answer": "Ja, Claudia Sinclair bietet Fortbildungen an und unterrichtet an Heilpraktikerschulen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ22Zfmj5QqEcRfQuFzG6WTkA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

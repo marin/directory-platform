@@ -28,6 +28,9 @@
   "email": "praxis@sabine-scheuch.de",
   "website": "http://www.sabine-scheuch.de/",
   "bookingUrl": "https://sabine-scheuch.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPRBcK0JQqEcRHG90YxdPlWY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,8 +73,8 @@
     }
   ],
   "images": [
-    "https://sabine-scheuch.de/wp-content/uploads/LTC-seal-white.png",
-    "https://sabine-scheuch.de/wp-content/uploads/siegel-bkhd.jpg"
+    "/images/entries/frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho/0.webp",
+    "/images/entries/frauen-naturheilpraxis-fur-klassische-homoopathie-sabine-scheuch-berlin-tempelho/1.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wann hat die Frauen-Naturheilpraxis geöffnet?",
       "answer": "Die Frauen-Naturheilpraxis hat von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPRBcK0JQqEcRHG90YxdPlWY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

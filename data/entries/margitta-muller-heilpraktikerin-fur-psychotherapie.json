@@ -27,6 +27,9 @@
   },
   "phone": "0303125369",
   "website": "http://www.margittamueller.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV8AElhpRqEcRlR3_n4xIFPM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [
     {
@@ -35,7 +38,7 @@
     }
   ],
   "images": [
-    "https://www.margittamueller.de/images/Heilpraktikerin-fuer-Psychotherapie-Berlin/Heilpraktikerin-fuer-Psychotherapie-Berlin-Charlottenburg.jpg"
+    "/images/entries/margitta-muller-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -54,8 +57,5 @@
       "question": "Bietet Margitta Müller auch Coaching an?",
       "answer": "Ja, Margitta Müller bietet neben Psychotherapie auch Coaching an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV8AElhpRqEcRlR3_n4xIFPM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  ]
 }

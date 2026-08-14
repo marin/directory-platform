@@ -27,6 +27,9 @@
   "phone": "03081884525",
   "website": "https://www.physio-sieben.de/",
   "bookingUrl": "https://www.physio-sieben.de/kontakt.php",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYRtLMUNUqEcR_LVzhj968zE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -131,7 +134,7 @@
     }
   ],
   "images": [
-    "https://www.physio-sieben.de/bilder/galerie/team/01_Heike_Sieben.jpg"
+    "/images/entries/praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie/0.webp"
   ],
   "faq": [
     {
@@ -154,8 +157,5 @@
       "question": "Wer ist die Inhaberin der Praxis?",
       "answer": "Die Inhaberin der Praxis ist Heike Sieben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYRtLMUNUqEcR_LVzhj968zE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

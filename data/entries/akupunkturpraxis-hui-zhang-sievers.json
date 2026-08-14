@@ -26,6 +26,9 @@
   "email": "info@huizhang.de",
   "website": "https://www.akupunktur-praxis.berlin/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/hui-zhang-sievers",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUdLHS3JRqEcRkOvOdrA7zZk",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 301,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -67,11 +70,11 @@
     }
   ],
   "images": [
-    "https://akupunktur-praxis.berlin/wp-content/uploads/2025/03/DSC07442-683x1024.webp",
-    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/DSC08906-r9tqazg5hkvy1k4eqnowlm7et186fgfv5rybllm0pg.webp",
-    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/Zhang-21-scaled-r9tqh91f1tgrfz0q5d7d81a1dic9qtbg0sius0bj84.webp",
-    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/DSC08821-r9tqajgw9ea2k6rmbys8x88kphexsloffkv2fw9pn8.webp",
-    "https://akupunktur-praxis.berlin/wp-content/uploads/elementor/thumbs/fzkbdh3466_close-up_of_a_Single_person_practicing_Qi-Gong_or__2cd72f18-2509-4963-bfb5-af55b860244b_2-r9tid0zqc1fm07hoj1uu1rz4x2o8qd7l6f4jn5lpn8.webp"
+    "/images/entries/akupunkturpraxis-hui-zhang-sievers/0.webp",
+    "/images/entries/akupunkturpraxis-hui-zhang-sievers/1.webp",
+    "/images/entries/akupunkturpraxis-hui-zhang-sievers/2.webp",
+    "/images/entries/akupunkturpraxis-hui-zhang-sievers/3.webp",
+    "/images/entries/akupunkturpraxis-hui-zhang-sievers/4.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis per E-Mail unter info@huizhang.de oder telefonisch unter 03047393735 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUdLHS3JRqEcRkOvOdrA7zZk",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 301
+  ]
 }

@@ -24,6 +24,9 @@
   },
   "phone": "0308551791",
   "website": "http://www.havvakorkmaz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH7dBrXZQqEcRZK3B9Rlq7Hk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -60,8 +63,8 @@
     }
   ],
   "images": [
-    "http://www.havvakorkmaz.de/images/content/home_pic_1.jpg",
-    "http://www.havvakorkmaz.de/images/main/logo_havva_korkmaz_heilpraktikerin.png"
+    "/images/entries/frau-havva-korkmaz/0.webp",
+    "/images/entries/frau-havva-korkmaz/1.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Bietet Frau Korkmaz auch Behandlungen für Augenkrankheiten an?",
       "answer": "Ja, Frau Havva Korkmaz bietet Akupunktur nach Prof. Boel an, die speziell bei allen Augenkrankheiten eingesetzt wird."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH7dBrXZQqEcRZK3B9Rlq7Hk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

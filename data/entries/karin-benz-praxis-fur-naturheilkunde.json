@@ -24,6 +24,9 @@
   },
   "phone": "03085409990",
   "website": "http://www.karin-benz-die-praxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0IVGl5QqEcRuWcCEvCxrCQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,12 +61,9 @@
   ],
   "offers": [],
   "images": [
-    "https://www.karin-benz-die-praxis.de/Bilder/Einfachheit_gross.gif",
-    "https://www.karin-benz-die-praxis.de/Bilder/KarinBenz.gif",
-    "https://www.karin-benz-die-praxis.de/Bilder/Heilpraktikerin.gif"
+    "/images/entries/karin-benz-praxis-fur-naturheilkunde/0.webp",
+    "/images/entries/karin-benz-praxis-fur-naturheilkunde/1.webp",
+    "/images/entries/karin-benz-praxis-fur-naturheilkunde/2.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJr0IVGl5QqEcRuWcCEvCxrCQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

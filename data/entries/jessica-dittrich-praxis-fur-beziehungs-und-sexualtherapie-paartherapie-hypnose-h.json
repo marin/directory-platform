@@ -28,6 +28,9 @@
   "email": "beratung@lara-berlin.de",
   "website": "https://www.jessicadittrich.de/",
   "bookingUrl": "https://doctolib.de/heilpraktiker-fur-psychotherapie/berlin/jessica-dittrich-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFfXpEq5RqEcRIDQsw30PIUs",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -105,11 +108,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/c837a6_0c56032794d942e1bc681b75ff613a63~mv2.jpg/v1/fill/w_1143,h_1073,al_bl,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_0c56032794d942e1bc681b75ff613a63~mv2.jpg",
-    "https://static.wixstatic.com/media/c837a6_3521b0185f5a43f18455141ab5dd6409~mv2.jpg/v1/fill/w_366,h_439,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/shutterstock_224520433_edited.jpg",
-    "https://static.wixstatic.com/media/84770f_55ff847055214840ba54a966ab136884~mv2.jpg/v1/fill/w_1905,h_721,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/84770f_55ff847055214840ba54a966ab136884~mv2.jpg",
-    "https://static.wixstatic.com/media/11062b_f70e05cd64fd461096a7beaf2b18ba6e~mv2.jpg/v1/fill/w_305,h_296,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_f70e05cd64fd461096a7beaf2b18ba6e~mv2.jpg",
-    "https://static.wixstatic.com/media/c837a6_4a5d425ca339495a9595966e22f40ca5~mv2.jpg/v1/crop/x_888,y_525,w_3134,h_3144/fill/w_305,h_305,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/shutterstock_1851084067.jpg"
+    "/images/entries/jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h/0.webp",
+    "/images/entries/jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h/1.webp",
+    "/images/entries/jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h/2.webp",
+    "/images/entries/jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h/3.webp",
+    "/images/entries/jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h/4.webp"
   ],
   "faq": [
     {
@@ -132,8 +135,5 @@
       "question": "An wen richtet sich das Angebot von Jessica Dittrich?",
       "answer": "Das Angebot richtet sich an alle, unabhängig von sexueller Orientierung, Beziehungsform oder Lebensweise, einschließlich heterosexueller und queerer Paare sowie neurodiversen Personen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJFfXpEq5RqEcRIDQsw30PIUs",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 8
+  ]
 }

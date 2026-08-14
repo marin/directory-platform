@@ -25,6 +25,9 @@
   "email": "mail@health-within.com",
   "website": "https://www.health-within.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10070298443783613830",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/amelie-zweyer-berlin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMQr8TwNRqEcRaMDGP7s3U4c",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 25,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,11 +63,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/11062b_be8eef4fafca48149dc1a419416ec39cf000.jpg/v1/fill/w_1905,h_278,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/11062b_be8eef4fafca48149dc1a419416ec39cf000.jpg",
-    "https://static.wixstatic.com/media/d9f910_b12b5a5b37574b62981fcf94ca83c263~mv2.jpg/v1/crop/x_0,y_198,w_3230,h_3184/fill/w_311,h_307,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/AmelieZweyer_100124-1.jpg",
-    "https://static.wixstatic.com/media/11062b_23910cefeebd489999bd7995c0e73ce8~mv2.jpeg/v1/fill/w_239,h_241,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23910cefeebd489999bd7995c0e73ce8~mv2.jpeg",
-    "https://static.wixstatic.com/media/11062b_680f5b66746f47efa38f7f9e7fc900cc~mv2_d_5638_3727_s_4_2.jpg/v1/fill/w_239,h_241,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_680f5b66746f47efa38f7f9e7fc900cc~mv2_d_5638_3727_s_4_2.jpg",
-    "https://static.wixstatic.com/media/11062b_67c19ea1e2f642c48b29dcec4aa94354~mv2.jpg/v1/fill/w_239,h_241,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_67c19ea1e2f642c48b29dcec4aa94354~mv2.jpg"
+    "/images/entries/health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth/0.webp",
+    "/images/entries/health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth/1.webp",
+    "/images/entries/health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth/2.webp",
+    "/images/entries/health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth/3.webp",
+    "/images/entries/health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth/4.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Bietet die Praxis ein kostenloses Vorgespräch an?",
       "answer": "Ja, die Praxis bietet ein kostenloses Vorgespräch von 10 Minuten an, das über die Buchungsseite auf Doctolib vereinbart werden kann."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJMQr8TwNRqEcRaMDGP7s3U4c",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 25
+  ]
 }

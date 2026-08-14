@@ -27,6 +27,9 @@
   "email": "info@inaberlin.org",
   "website": "http://www.heilpraxis-natureza.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nayla-hettich-fonseca/booking/new-patient?specialityId=1236&bookingFunnelSource=profile",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo7UEtkFRqEcRC7X4EMxBaK0",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 9,
   "openingHours": [],
   "offers": [
     {
@@ -95,11 +98,11 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://heilpraxis-natureza.de/wp-content/uploads/2023/08/Heilpraxis-Natureza_Coaching_Fr.-Hettich-Fonseca-1172-Bearbeitet-1024x683.jpg",
-    "https://heilpraxis-natureza.de/wp-content/uploads/2020/04/heilpraxis_natureza_65-393x262.jpg",
-    "https://heilpraxis-natureza.de/wp-content/uploads/2020/05/heilpraxis_natureza_ausleitung_neu.jpg",
-    "https://heilpraxis-natureza.de/wp-content/uploads/2020/05/heilpraxis_natureza_69-393x262.jpg"
+    "/images/entries/heilpraxis-natureza/0.webp",
+    "/images/entries/heilpraxis-natureza/1.webp",
+    "/images/entries/heilpraxis-natureza/2.webp",
+    "/images/entries/heilpraxis-natureza/3.webp",
+    "/images/entries/heilpraxis-natureza/4.webp"
   ],
   "faq": [
     {
@@ -122,8 +125,5 @@
       "question": "Welche Schwerpunkte hat die Heilpraktikerin Nayla Hettich-Fonseca?",
       "answer": "Nayla Hettich-Fonseca legt ihren Schwerpunkt auf die Reinigung und Entgiftung des Körpers, die Stärkung durch richtige Ernährung sowie die Behandlung von Geist und Seele durch Meditation, Coaching-Methoden und Homöopathie."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo7UEtkFRqEcRC7X4EMxBaK0",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 9
+  ]
 }

@@ -27,6 +27,9 @@
   "email": "info@alicia-gerike.de",
   "website": "http://www.alicia-gerike.de/",
   "bookingUrl": "https://alicia-gerike.de/kontakt-praxis/%20%22Termin%20vereinbaren",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJXGyGbBPqEcRsmvRXlDXPjc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -61,9 +64,9 @@
     }
   ],
   "images": [
-    "https://alicia-gerike.de/wp-content/uploads/2021/02/Alicia_Gerike_in_Berlin-1-600x513-1-450x450.jpg",
-    "https://alicia-gerike.de/wp-content/uploads/2021/01/alicia-gerike-praxis-impulse-berlin.jpg",
-    "https://alicia-gerike.de/wp-content/uploads/2021/01/alicia_gerike_therpeium-berlin.jpg"
+    "/images/entries/alicia-gerike/0.webp",
+    "/images/entries/alicia-gerike/1.webp",
+    "/images/entries/alicia-gerike/2.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Bietet Alicia Gerike auch Online-Sitzungen an?",
       "answer": "Ja, Alicia Gerike bietet ihre homöopathischen und familienaufstellerischen Sitzungen sowohl persönlich in der Praxis als auch online über Videosprechstunden an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJXGyGbBPqEcRsmvRXlDXPjc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

@@ -26,6 +26,9 @@
   "email": "info@die-akupunktur-praxis.de",
   "website": "http://www.die-akupunktur-praxis.de/",
   "bookingUrl": "https://www.die-akupunktur-praxis.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaTAo81lQqEcRjanS53Ot8ko",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -87,7 +90,7 @@
     }
   ],
   "images": [
-    "https://www.die-akupunktur-praxis.de/bilder/btn_mobil.png"
+    "/images/entries/heilpraktikerin-kirsten-kaufmann/0.webp"
   ],
   "faq": [
     {
@@ -110,8 +113,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis per E-Mail unter info@die-akupunktur-praxis.de oder telefonisch unter 0170 8306375 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaTAo81lQqEcRjanS53Ot8ko",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

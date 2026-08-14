@@ -24,6 +24,9 @@
   },
   "phone": "03028612500",
   "website": "http://jannika-gedrath.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvzeOSC5RqEcRMk3p4nx1lRU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,9 +56,9 @@
   ],
   "offers": [],
   "images": [
-    "http://jannika-gedrath.de/wp-content/uploads/2019/06/Portrait_Jannika-200x300.jpg",
-    "http://jannika-gedrath.de/wp-content/uploads/2019/05/Gespr%C3%A4chsecke-1024x683.jpg",
-    "http://jannika-gedrath.de/wp-content/uploads/2019/05/Behandlungsraum-1-1024x683.jpg"
+    "/images/entries/heilpraktikerin-jannika-gedrath-kinesiologie-in-berlin/0.webp",
+    "/images/entries/heilpraktikerin-jannika-gedrath-kinesiologie-in-berlin/1.webp",
+    "/images/entries/heilpraktikerin-jannika-gedrath-kinesiologie-in-berlin/2.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Wer kann die Angebote von Jannika Gedrath nutzen?",
       "answer": "Das Angebot von Jannika Gedrath richtet sich an Personen mit körperlichen, psychischen oder psychosomatischen Beschwerden sowie an Menschen, die ihre muskuläre Leistungsfähigkeit stärken möchten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvzeOSC5RqEcRMk3p4nx1lRU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

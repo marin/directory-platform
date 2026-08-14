@@ -25,6 +25,9 @@
   "phone": "01624948914",
   "email": "info@praxis-monika-graf.de",
   "website": "https://www.praxis-monika-graf.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRoFwAJOqEcRAczXrSpDO-k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 15,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,9 +72,9 @@
   ],
   "offers": [],
   "images": [
-    "https://static.wixstatic.com/media/0aec04_ea683fd76db0486bab4ff18014cd9f34~mv2.jpg/v1/fill/w_1905,h_993,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0aec04_ea683fd76db0486bab4ff18014cd9f34~mv2.jpg",
-    "https://static.wixstatic.com/media/0aec04_9d20206e95e7471fa3154d8d6f0a7e2d~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/0aec04_9d20206e95e7471fa3154d8d6f0a7e2d~mv2.jpg",
-    "https://static.wixstatic.com/media/0aec04_792f1c67a1ae4b04962f75c3dab8e4f3~mv2.jpg/v1/fit/w_715,h_714,q_90,enc_avif,quality_auto/0aec04_792f1c67a1ae4b04962f75c3dab8e4f3~mv2.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-monika-graf/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-monika-graf/1.webp",
+    "/images/entries/praxis-fur-naturheilkunde-monika-graf/2.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
       "answer": "Sie können einen Termin telefonisch unter 01624948914 oder per E-Mail an info@praxis-monika-graf.de vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSRoFwAJOqEcRAczXrSpDO-k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 15
+  ]
 }

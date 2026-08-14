@@ -26,6 +26,9 @@
   "email": "katrin@cranio-sacral-berlin.eu",
   "website": "http://www.cranio-sacral-berlin.eu/",
   "bookingUrl": "https://katrinkelly.com/termine/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7yI8X29OqEcRFqM-rPgEp_I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -34,7 +37,7 @@
     }
   ],
   "images": [
-    "https://katrinkelly.com/wp-content/uploads/ganzheitliche-therapie-berlin.jpg"
+    "/images/entries/heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie/0.webp"
   ],
   "faq": [
     {
@@ -53,8 +56,5 @@
       "question": "Kann ich auch auf Englisch behandelt werden?",
       "answer": "Ja, Katrin Kelly bietet ihre Behandlungen auch auf Englisch an, falls dies für dich angenehmer ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7yI8X29OqEcRFqM-rPgEp_I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

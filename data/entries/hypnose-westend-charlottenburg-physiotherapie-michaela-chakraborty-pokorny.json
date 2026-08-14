@@ -26,6 +26,9 @@
   "phone": "0303928851",
   "email": "mikalinacp@t-online.de",
   "website": "http://www.heilpraxis-westend.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL989fwFXqEcR8OMdzndgwCc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,10 +62,10 @@
     }
   ],
   "images": [
-    "https://heilpraxis-westend.de/wp-content/uploads/2019/07/mcphw-300x300.jpg",
-    "https://heilpraxis-westend.de/wp-content/uploads/2019/07/egte-150x150.png",
-    "https://heilpraxis-westend.de/wp-content/uploads/2019/07/Yager-Code-Siegel-150x150.png",
-    "https://heilpraxis-westend.de/wp-content/uploads/2019/07/NGHlogo2017-small4.png"
+    "/images/entries/hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny/0.webp",
+    "/images/entries/hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny/1.webp",
+    "/images/entries/hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny/2.webp",
+    "/images/entries/hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny/3.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Was kostet eine Sitzung in der Heilpraxis Westend?",
       "answer": "Die Kosten betragen 120 € pro Stunde für Physiotherapie und 360 € für zwei Stunden Hypnotherapie. EMDR und Yager-Code Therapie kosten 130 € pro Stunde."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL989fwFXqEcR8OMdzndgwCc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

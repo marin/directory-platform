@@ -26,6 +26,9 @@
   "email": "info@hp-meergans.de",
   "website": "http://www.hp-meergans.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/elke-meergans?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM07V38HMFo8RHhBwi9bHEwk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,9 +58,9 @@
   ],
   "offers": [],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://hp-meergans.de/wp-content/uploads/2015/08/Naturheilpraxis-Elke-Meergans.jpg",
-    "http://nhp.hp-meergans.de/wp-content/uploads/2015/08/Bioresonanztherapie-in-Berlin-01.jpg"
+    "/images/entries/naturheilpraxis-dr-phil-elke-meergans/0.webp",
+    "/images/entries/naturheilpraxis-dr-phil-elke-meergans/1.webp",
+    "/images/entries/naturheilpraxis-dr-phil-elke-meergans/2.webp"
   ],
   "faq": [
     {
@@ -80,8 +83,5 @@
       "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
       "answer": "Sie können die Naturheilpraxis telefonisch unter 03041725004 oder per E-Mail an info@hp-meergans.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM07V38HMFo8RHhBwi9bHEwk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

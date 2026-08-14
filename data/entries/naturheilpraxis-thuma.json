@@ -25,6 +25,9 @@
   "phone": "0304953806",
   "email": "naturheilpraxis.thuma@gmx.de",
   "website": "http://www.naturheilpraxis-thuma.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfbJl2LZTqEcRARsOJphD21U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -68,8 +71,8 @@
     }
   ],
   "images": [
-    "http://www.naturheilpraxis-thuma.de/wp-content/uploads/2026/03/20260302_101228-1-1-Kopie-276x300.jpg",
-    "http://www.naturheilpraxis-thuma.de/wp-content/uploads/2016/08/Praxis-Logo-neu01.jpg.jpg.jpg"
+    "/images/entries/naturheilpraxis-thuma/0.webp",
+    "/images/entries/naturheilpraxis-thuma/1.webp"
   ],
   "faq": [
     {
@@ -92,8 +95,5 @@
       "question": "Wie lange praktiziert der Heilpraktiker in der Naturheilpraxis Thuma?",
       "answer": "Der Heilpraktiker in der Naturheilpraxis Thuma ist seit 1971 niedergelassen und bringt somit viele Jahre Erfahrung in der Naturheilkunde mit."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfbJl2LZTqEcRARsOJphD21U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

@@ -27,6 +27,9 @@
   "email": "marion@craniosacral-biodynamik-berlin.de",
   "website": "http://cranio-pankow-reinickendorf.de/",
   "bookingUrl": "https://calendly.com/heilpraxis-marion-welz/90min",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJycc2sldTqEcRXkMkKIXpP0o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -156,11 +159,11 @@
     }
   ],
   "images": [
-    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2024/11/marions-heilkunst-bild-1-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
-    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2025/05/bild-2-800x800-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
-    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2024/11/marions-heilkunst-bild-3-gespiegelt-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg?w=800&ssl=1",
-    "https://i0.wp.com/craniosacral-biodynamik-berlin.de/wp-content/uploads/2020/03/Pfeil-terrakotta-80px-pixabay-alicia_mb.png?fit=80%2C22&ssl=1",
-    "https://craniosacral-biodynamik-berlin.de/wp-content/uploads/2023/02/cranio-sacral-therapie-bild-2-marion-welz-heilpraktikerin-berlin-korperorientierte-biodynamische-cranio-sacral-therapie-traumatherapie-psychotherapie-coaching.jpg"
+    "/images/entries/craniosacrale-therapie-berlin-marion-welz-heilpraktikerin/0.webp",
+    "/images/entries/craniosacrale-therapie-berlin-marion-welz-heilpraktikerin/1.webp",
+    "/images/entries/craniosacrale-therapie-berlin-marion-welz-heilpraktikerin/2.webp",
+    "/images/entries/craniosacrale-therapie-berlin-marion-welz-heilpraktikerin/3.webp",
+    "/images/entries/craniosacrale-therapie-berlin-marion-welz-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -183,8 +186,5 @@
       "question": "Was ist biodynamische Craniosacral Therapie?",
       "answer": "Die biodynamische Craniosacral Therapie ist eine körperorientierte Therapieform, die darauf abzielt, das Nervensystem zur Ruhe zu bringen und die natürlichen Selbstregulationskräfte des Körpers zu aktivieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJycc2sldTqEcRXkMkKIXpP0o",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

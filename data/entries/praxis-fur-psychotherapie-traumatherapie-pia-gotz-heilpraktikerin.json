@@ -27,6 +27,9 @@
   "email": "mail@piagoetz.com",
   "website": "https://piagoetz.com/",
   "bookingUrl": "https://my.lemniscus.de/pss/dc6acf00-fdb8-4fef-abb1-2df415757103https://app.cituro.com/booking/praxis-piagoetz",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ06rv15VTqEcRyB7CnEwnN1U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,14 +86,11 @@
     }
   ],
   "images": [
-    "https://piagoetz.com/wp-content/uploads/Pia-2022-bunt-grose-Auflosung-5-scaled.jpg",
-    "https://piagoetz.com/wp-content/uploads/mitglied_im_gepfadet_schwarz_100-200x200.jpg",
-    "https://piagoetz.com/wp-content/uploads/member_3c.png",
-    "https://piagoetz.com/wp-content/uploads/Pia-2022-bunt-grose-Auflosung-6-scaled-432x550.jpg",
-    "https://piagoetz.com/wp-content/uploads/schivelbeiner-strasse-40-10439-berlin.jpg"
+    "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/0.webp",
+    "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/1.webp",
+    "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/2.webp",
+    "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/3.webp",
+    "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ06rv15VTqEcRyB7CnEwnN1U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 26
+  "faq": []
 }

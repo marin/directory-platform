@@ -24,6 +24,7 @@
   },
   "phone": "03088679605",
   "website": "http://heilpraktik-dunkelfeld.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKQqi-nJRqEcR2yF18pAw02Y",
   "openingHours": [],
   "offers": [
     {
@@ -56,7 +57,7 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/s/061061d5e6de4a44884597d45cc8c163/dms3rep/multi/opt/03122016-5-366w.jpg?Expires=1789026354&Signature=ccQ4cuBnIy2zbBdLdXBush0UprbVkVkAxYroF0pzXxPF6NMF7T2vcIhu8GNBieAxVLxjULLV86HrorntdtuD~7Ry3uHcbqG1psnVBA61OYadchgWVS0SLumd6PoNYvpYjg4pGUxSetLL9l0rx3JKfD3rZzmC1mITJ5LQ9DlUEfMR31k84PoOX-g9x5TZwhbis-W8pes6xbF4YK642GReGHD4lmxsnXhcrdrnMYTde5tnoLkbVXlbvAYr-VkIlG~GIsOnaski9T699IZVWcxzD6321rb~gPVrO2l0tfxwi4ksMh8wykAHC5EOdSnFQnbb0ytoDzS5M1zfWr1oU-pD9A__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/heilpraxis-wittke/0.webp"
   ],
   "faq": [
     {
@@ -79,6 +80,5 @@
       "question": "Gibt es Öffnungszeiten für die Heilpraxis Wittke?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKQqi-nJRqEcR2yF18pAw02Y"
+  ]
 }

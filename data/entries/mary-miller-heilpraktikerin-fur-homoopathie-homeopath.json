@@ -27,6 +27,9 @@
   "email": "info@marymiller.de",
   "website": "http://www.marymiller.de/",
   "bookingUrl": "https://hompractice.youcanbook.me/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm42yQP9NqEcRoV4tgkwh4CE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,7 +59,7 @@
   ],
   "offers": [],
   "images": [
-    "http://www.marymiller.de/wp-content/uploads/2013/11/01_planausschnitt.jpg"
+    "/images/entries/mary-miller-heilpraktikerin-fur-homoopathie-homeopath/0.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Wie kann ich Mary Miller kontaktieren?",
       "answer": "Sie können Mary Miller telefonisch unter 03030136945 oder per E-Mail an info@marymiller.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm42yQP9NqEcRoV4tgkwh4CE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

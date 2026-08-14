@@ -26,12 +26,15 @@
   "phone": "015738996860",
   "email": "heilpraktikerin.banse@gmail.com",
   "website": "https://heilpraktikerin-banse.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy8DkqiZbqEcRkBVQ24hf-dM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://praxis-lea-banse.de/wp-content/uploads/2021/02/1280.jpg",
-    "https://praxis-lea-banse.de/wp-content/uploads/2024/09/BabyOsteo-768x512.jpg",
-    "https://praxis-lea-banse.de/wp-content/uploads/2024/09/Craniosacrale-768x512.jpg"
+    "/images/entries/heilpraktikerin-lea-banse/0.webp",
+    "/images/entries/heilpraktikerin-lea-banse/1.webp",
+    "/images/entries/heilpraktikerin-lea-banse/2.webp"
   ],
   "faq": [
     {
@@ -50,8 +53,5 @@
       "question": "Bietet die Praxis Öffnungszeiten an?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy8DkqiZbqEcRkBVQ24hf-dM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -27,6 +27,9 @@
   "phone": "01729417111",
   "email": "info@lottaherrgesell.de",
   "website": "http://www.lottaherrgesell.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC6vvnJVQqEcRPXOwP1K8w0g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [
     {
@@ -43,11 +46,11 @@
     }
   ],
   "images": [
-    "http://lottaherrgesell.de/wp-content/uploads/headerimages/home.jpg",
-    "https://lottaherrgesell.de/wp-content/uploads/2012/01/lottaherrgesell.jpg",
-    "https://lottaherrgesell.de/wp-content/uploads/2026/06/Longevity-150x150.jpg",
-    "https://lottaherrgesell.de/wp-content/uploads/2026/06/VeraenderJung-150x150.jpeg",
-    "https://lottaherrgesell.de/wp-content/uploads/2026/04/HAPPY-EASTER-GLAD-PASK-FROHE-OSTERN-150x150.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-lotta-herrgesell/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-lotta-herrgesell/1.webp",
+    "/images/entries/praxis-fur-naturheilkunde-lotta-herrgesell/2.webp",
+    "/images/entries/praxis-fur-naturheilkunde-lotta-herrgesell/3.webp",
+    "/images/entries/praxis-fur-naturheilkunde-lotta-herrgesell/4.webp"
   ],
   "faq": [
     {
@@ -70,8 +73,5 @@
       "question": "Was ist das Ziel der Behandlung in der Praxis für Naturheilkunde Lotta Herrgesell?",
       "answer": "Das Ziel ist es, dass sich die Patientinnen und Patienten wieder wohl und gesund fühlen und das Zusammenspiel von Körper, Seele und Geist optimiert wird."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC6vvnJVQqEcRPXOwP1K8w0g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

@@ -26,10 +26,13 @@
   "phone": "03081828789",
   "website": "http://www.naturheilpraxis-friedenau.de/",
   "bookingUrl": "https://www.naturheilpraxis-friedenau.de/termin.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw5CkTH1QqEcRX2cyDUdaIqM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://www.naturheilpraxis-friedenau.de/media/logod.jpg"
+    "/images/entries/naturheilpraxis-friedenau/0.webp"
   ],
   "faq": [
     {
@@ -52,8 +55,5 @@
       "question": "Werden die Behandlungskosten von Krankenkassen übernommen?",
       "answer": "Die Behandlungen in der Naturheilpraxis Friedenau werden in der Regel von privaten Krankenversicherungen oder von einer privaten Zusatzversicherung ganz bzw. teilweise übernommen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw5CkTH1QqEcRX2cyDUdaIqM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

@@ -26,6 +26,9 @@
   "phone": "015560554477",
   "website": "https://www.praxiscarolinleidecker.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/carolin-leidecker?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQfjxc65RqEcRAMsBAz4CwO4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,11 +72,11 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
-    "https://static.wixstatic.com/media/c835a2_f6def6ff51a44a3fa5fd18eaf976b46b~mv2.jpg/v1/crop/x_90,y_35,w_1357,h_1980/fill/w_703,h_1031,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_3356_edited.jpg",
-    "https://static.wixstatic.com/media/c835a2_8622caac5c9446ea8cd1f9a5eef2455d~mv2.jpg/v1/crop/x_232,y_23,w_1705,h_1491/fill/w_303,h_265,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_3066_edited.jpg",
-    "https://static.wixstatic.com/media/c835a2_5639b5989ae3464eb0a81f39e2923f42~mv2.jpeg/v1/crop/x_183,y_178,w_968,h_1537/fill/w_167,h_265,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_3064_JPEG.jpeg",
-    "https://static.wixstatic.com/media/5317450615254b51b844a2bb5b7a2661.jpg/v1/fill/w_123,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5317450615254b51b844a2bb5b7a2661.jpg"
+    "/images/entries/carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur/0.webp",
+    "/images/entries/carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur/1.webp",
+    "/images/entries/carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur/2.webp",
+    "/images/entries/carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur/3.webp",
+    "/images/entries/carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur/4.webp"
   ],
   "faq": [
     {
@@ -96,8 +99,5 @@
       "question": "Was kostet eine Erstanamnese in der Praxis?",
       "answer": "Die Erstanamnese kostet 110 Euro für 60 Minuten, inklusive Auswertung und Therapieplan."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQfjxc65RqEcRAMsBAz4CwO4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

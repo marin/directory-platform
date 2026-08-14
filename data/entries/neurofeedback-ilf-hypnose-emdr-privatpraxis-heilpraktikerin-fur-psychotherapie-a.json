@@ -28,6 +28,9 @@
   "email": "annette@neurofeedback-leeb.de",
   "website": "https://www.neurofeedback-leeb.de/",
   "bookingUrl": "https://neurofeedback-leeb.de/termin-buchen/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6XXyXBpSqEcRcAKWVGt01EM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -144,8 +147,8 @@
     }
   ],
   "images": [
-    "https://neurofeedback-leeb.de/wp-content/uploads/Annette_Leeb_Psychotherapie_Berlin.jpg",
-    "https://neurofeedback-leeb.de/wp-content/uploads/Beeren_Header_Kontakt.jpg"
+    "/images/entries/neurofeedback-ilf-hypnose-emdr-privatpraxis-heilpraktikerin-fur-psychotherapie-a/0.webp",
+    "/images/entries/neurofeedback-ilf-hypnose-emdr-privatpraxis-heilpraktikerin-fur-psychotherapie-a/1.webp"
   ],
   "faq": [
     {
@@ -168,8 +171,5 @@
       "question": "Wie kann ich Annette Leeb kontaktieren?",
       "answer": "Sie können Annette Leeb telefonisch unter 015738257725 oder per E-Mail an annette@neurofeedback-leeb.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6XXyXBpSqEcRcAKWVGt01EM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

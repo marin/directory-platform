@@ -27,6 +27,9 @@
   "email": "info@hpp-schlichting.de",
   "website": "https://heilpraktiker-in-psychotherapie.de/",
   "bookingUrl": "https://heilpraktiker-in-psychotherapie.de/termine",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsWHhXVZbqEcRM6FBTuQJ2QU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -45,11 +48,7 @@
     }
   ],
   "images": [
-    "https://heilpraktiker-in-psychotherapie.de/2fa7bdb2f8aac03c4b32fb44952a61ff.jpg",
-    "https://heilpraktiker-in-psychotherapie.de/0e40dc6c68681f96259ca18e523905b2.jpg",
-    "https://heilpraktiker-in-psychotherapie.de/c69da0bf07d91a1caa270b2cdefb1714.jpg",
-    "https://assets.cms-genial.de/images/Kontakt-360x420.png",
-    "https://attachments.cms-genial.de/client_uploads/Anfahrt.jpg"
+    "/images/entries/heilpraktikerin-psychotherapie-steglitz/3.webp"
   ],
   "faq": [
     {
@@ -72,8 +71,5 @@
       "question": "Welche Dienstleistungen bietet die Heilpraktikerin an?",
       "answer": "Die Heilpraktikerin bietet Einzelgespräche im Bereich Psychotherapie und Naturheilkunde an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsWHhXVZbqEcRM6FBTuQJ2QU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

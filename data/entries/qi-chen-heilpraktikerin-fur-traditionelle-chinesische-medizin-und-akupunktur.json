@@ -27,6 +27,9 @@
   "email": "info@tcm-berlin-friedenau.de",
   "website": "https://tcm-berlin-friedenau.de/",
   "bookingUrl": "http://www.tcm-berlin-schoeneberg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt0eJhn5QqEcRhzBBwDn0fpo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -51,7 +54,7 @@
   ],
   "offers": [],
   "images": [
-    "https://tcm-berlin-friedenau.de/wp-content/uploads/2014/07/qi-chen-berlin-friedenau.jpg"
+    "/images/entries/qi-chen-heilpraktikerin-fur-traditionelle-chinesische-medizin-und-akupunktur/0.webp"
   ],
   "faq": [
     {
@@ -74,8 +77,5 @@
       "question": "Wie kann ich Qi Chen kontaktieren?",
       "answer": "Sie können Qi Chen telefonisch unter 03080940539 oder per E-Mail an info@tcm-berlin-friedenau.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt0eJhn5QqEcRhzBBwDn0fpo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

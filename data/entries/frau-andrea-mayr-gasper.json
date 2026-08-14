@@ -24,6 +24,7 @@
   },
   "phone": "03061674798",
   "website": "https://www.theralupa.de/heilpraktiker/heilpraxis-mayr-gasper-berlin-9153",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjevdIg9IqEcR6wTDaTtfRcE",
   "openingHours": [],
   "offers": [
     {
@@ -48,11 +49,11 @@
     }
   ],
   "images": [
-    "https://www.theralupa.de/images/banners/banner-podcast.jpg",
-    "https://www.theralupa.de/images/banners/heilpraktikerschule.jpg",
-    "https://www.theralupa.de/images/banners/ich-will-meinen-heilpraktiker.png",
-    "https://www.theralupa.de/images/banners/banner-app.jpg",
-    "https://www.theralupa.de/images/com_theralupa/gallery/9153/9203_image.jpg"
+    "/images/entries/frau-andrea-mayr-gasper/0.webp",
+    "/images/entries/frau-andrea-mayr-gasper/1.webp",
+    "/images/entries/frau-andrea-mayr-gasper/2.webp",
+    "/images/entries/frau-andrea-mayr-gasper/3.webp",
+    "/images/entries/frau-andrea-mayr-gasper/4.webp"
   ],
   "faq": [
     {
@@ -71,6 +72,5 @@
       "question": "Welche Behandlungsschwerpunkte bietet die Heilpraxis an?",
       "answer": "Die Heilpraxis bietet ein breites Leistungsspektrum an, welches verschiedene naturheilkundliche Verfahren umfasst."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjevdIg9IqEcR6wTDaTtfRcE"
+  ]
 }

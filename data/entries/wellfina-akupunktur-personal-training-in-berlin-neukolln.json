@@ -28,6 +28,9 @@
   "email": "info@wellfina.de",
   "website": "http://www.wellfina.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/stefanie-kerbusch?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEdBcOeJFqEcRQut-XJ-bnII",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [
     {
@@ -44,11 +47,11 @@
     }
   ],
   "images": [
-    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2020/01/Wellfina-Naturheilkunde-Foto-scaled.jpg?resize=930%2C620&ssl=1",
-    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2019/12/cropped-27CC42F3-FB0B-4FC4-9250-0559B6DC68C3.jpeg?resize=930%2C251&ssl=1",
-    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2019/12/6BE24031-461E-4B0D-9773-738786295609.jpeg?resize=930%2C620&ssl=1",
-    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2023/01/pic_ohr-edited.jpg?resize=447%2C298&ssl=1",
-    "https://i0.wp.com/www.wellfina.de/wp-content/uploads/2020/01/D09BBF1B-686E-4428-AF71-E9502E1AAACE-e1578933247544.jpeg?resize=930%2C620&ssl=1"
+    "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/0.webp",
+    "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/1.webp",
+    "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/2.webp",
+    "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/3.webp",
+    "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/4.webp"
   ],
   "faq": [
     {
@@ -71,8 +74,5 @@
       "question": "Gibt es Informationen zu den Öffnungszeiten von Wellfina?",
       "answer": "Aktuell sind keine Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEdBcOeJFqEcRQut-XJ-bnII",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 13
+  ]
 }

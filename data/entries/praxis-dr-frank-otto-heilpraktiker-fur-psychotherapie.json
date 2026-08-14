@@ -26,6 +26,7 @@
   "phone": "01623481492",
   "website": "http://www.frank-otto-berlin.de/",
   "bookingUrl": "https://www.frank-otto-berlin.de/Wordpress/index.php/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKaSxRPpRqEcRhB80jc4eO3Y",
   "openingHours": [],
   "offers": [
     {
@@ -38,11 +39,11 @@
     }
   ],
   "images": [
-    "https://www.frank-otto-berlin.de/Wordpress/wp-content/uploads/2023/02/20220724_112552-MOBIL.jpg",
-    "https://www.frank-otto-berlin.de/Wordpress/wp-content/uploads/2022/07/selbstannahme_03.jpg",
-    "https://www.frank-otto-berlin.de/Wordpress/wp-content/uploads/2022/07/bewaeltigung_02.jpg",
-    "https://www.frank-otto-berlin.de/Wordpress/wp-content/uploads/2022/07/entwicklung.jpg",
-    "https://www.frank-otto-berlin.de/Wordpress/wp-content/uploads/2022/06/portrait_04.jpg"
+    "/images/entries/praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie/3.webp",
+    "/images/entries/praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -65,6 +66,5 @@
       "question": "Wie kann ich Dr. Frank Otto kontaktieren?",
       "answer": "Sie können Dr. Frank Otto telefonisch unter 01623481492 oder über die Kontaktseite auf seiner Website erreichen: Kontakt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKaSxRPpRqEcRhB80jc4eO3Y"
+  ]
 }

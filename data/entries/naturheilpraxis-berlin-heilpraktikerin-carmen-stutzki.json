@@ -25,6 +25,9 @@
   "phone": "01624940650",
   "website": "https://www.naturheilpraxis-berlin.de/",
   "bookingUrl": "https://naturheilpraxis-berlin.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7bIr1fNQqEcRTLfr-I0c010",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,11 +73,11 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-berlin.de/wp-content/uploads/nhpb_header2.jpg",
-    "https://naturheilpraxis-berlin.de/wp-content/uploads/Carmen_Stutzki.jpg",
-    "https://naturheilpraxis-berlin.de/wp-content/uploads/Orchidee_klein.jpg",
-    "https://naturheilpraxis-berlin.de/wp-content/uploads/Hypnose-Siegel.png",
-    "https://naturheilpraxis-berlin.de/wp-content/uploads/darmentgiftung.jpg"
+    "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/0.webp",
+    "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/1.webp",
+    "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/2.webp",
+    "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/3.webp",
+    "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/4.webp"
   ],
   "faq": [
     {
@@ -97,8 +100,5 @@
       "question": "Wie kann ich die Naturheilpraxis Berlin kontaktieren?",
       "answer": "Sie können die Naturheilpraxis Berlin telefonisch unter 01624940650 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7bIr1fNQqEcRTLfr-I0c010",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

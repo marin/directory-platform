@@ -27,6 +27,9 @@
   "email": "omnia.naturheilpraxis@gmail.com",
   "website": "http://www.omnia-praxis.de/",
   "bookingUrl": "https://omnia-praxis.de/online-termin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv-qRwSVHqEcRg1gRCufxiDY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [
     {
@@ -67,11 +70,11 @@
     }
   ],
   "images": [
-    "https://omnia-praxis.de/wp-content/uploads/2023/01/Small-21-MOBILE-480.jpg",
-    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-1-420.jpg",
-    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-2-480.jpg",
-    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-3-480.jpg",
-    "https://omnia-praxis.de/wp-content/uploads/2022/06/Small-5-480.jpg"
+    "/images/entries/heilpraktiker-in-berlin-omnia-praxis/0.webp",
+    "/images/entries/heilpraktiker-in-berlin-omnia-praxis/1.webp",
+    "/images/entries/heilpraktiker-in-berlin-omnia-praxis/2.webp",
+    "/images/entries/heilpraktiker-in-berlin-omnia-praxis/3.webp",
+    "/images/entries/heilpraktiker-in-berlin-omnia-praxis/4.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Was ist das Ziel der Naturheilkunde in der Omnia Praxis?",
       "answer": "Das Ziel der Naturheilkunde in der Omnia Praxis ist es, Krankheit vorzubeugen und die Selbstfürsorge zu fördern, indem die Reize gesetzt werden, die der Körper benötigt, um sich selbst zu heilen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJv-qRwSVHqEcRg1gRCufxiDY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

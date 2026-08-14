@@ -9,6 +9,11 @@ import {
   type AggregateStats,
 } from "../../aggregates/compute.ts";
 import { entryPath, categoryPath, areaPath } from "../../routing/paths.ts";
+import {
+  entryImagePath,
+  resolveCardImage,
+  selectDisplayImages,
+} from "../../media/entry-images.ts";
 
 export interface EntryCardViewModel {
   slug: string;
@@ -22,6 +27,7 @@ export interface EntryCardViewModel {
   googleMapsRating?: number;
   googleMapsRatingsCount?: number;
   googleMapsUrl?: string;
+  primaryImage?: string;
 }
 
 export interface EntryViewModel {
@@ -32,6 +38,8 @@ export interface EntryViewModel {
   categories: Category[];
   areas: Area[];
   stats: AggregateStats;
+  images: string[];
+  primaryImage?: string;
   formattedOffers: Array<{
     name: string;
     price: string | undefined;
@@ -59,6 +67,7 @@ export function toEntryCardViewModel(
     googleMapsRating: entry.googleMapsRating,
     googleMapsRatingsCount: entry.googleMapsRatingsCount,
     googleMapsUrl: entry.googleMapsUrl,
+    primaryImage: resolveCardImage(entry.slug, entry.images ?? []),
   };
 }
 
@@ -77,6 +86,8 @@ export function toEntryViewModel(
   const contextFact = category
     ? buildContextFact(entry, stats.listingCount, category.name)
     : `Listed in ${siteConfig.site.name}.`;
+  const images = selectDisplayImages(entry.images ?? []);
+  const primaryImage = images[0] ?? entryImagePath(entry.slug, 0);
 
   return {
     entry,
@@ -86,6 +97,8 @@ export function toEntryViewModel(
     categories: entryCategories,
     areas: entryAreas,
     stats,
+    images,
+    primaryImage: images.length > 0 ? primaryImage : undefined,
     formattedOffers: (entry.offers ?? []).map((offer) => ({
       name: offer.name,
       price: offer.priceLabel ?? formatPrice(offer.price),

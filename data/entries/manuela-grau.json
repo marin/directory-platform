@@ -24,6 +24,9 @@
   },
   "phone": "03042021540",
   "website": "http://manuelagrau.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxePYZXNRqEcRaJqbFMUKXSE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,9 +61,9 @@
     }
   ],
   "images": [
-    "https://manuelagrau.de/_astro/mgrau01_massage.Bz_JR3I5_1fCwfw.webp",
-    "https://manuelagrau.de/_astro/mgrau02_anamnese.SYRmXg-H_ZHt8Mm.webp",
-    "https://manuelagrau.de/_astro/mgrau03_bioresonanz.CbG1QpYC_Z2n8Yno.webp"
+    "/images/entries/manuela-grau/0.webp",
+    "/images/entries/manuela-grau/1.webp",
+    "/images/entries/manuela-grau/2.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Wie kann ich Manuela Grau kontaktieren?",
       "answer": "Sie können Manuela Grau telefonisch unter 03042021540 oder per E-Mail an praxis@manuelagrau.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxePYZXNRqEcRaJqbFMUKXSE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 5
+  ]
 }

@@ -25,6 +25,7 @@
   "phone": "0303655696",
   "website": "http://www.sabine-neumann-naturheilpraxis.de/",
   "bookingUrl": "https://sabine-neumann-naturheilpraxis.geo.io/#",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ31L2SEhWqEcRqYKq_zfPAvE",
   "openingHours": [],
   "offers": [
     {
@@ -56,9 +57,7 @@
       "name": "Weather"
     }
   ],
-  "images": [
-    "https://sabine-neumann-naturheilpraxis.geo.io/geo.io/images/custom/444717452768_1.jpg"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Welche Behandlungen bieten Sie an?",
@@ -76,6 +75,5 @@
       "question": "Brauche ich eine Überweisung vom Arzt?",
       "answer": "Nein, für unsere naturheilkundlichen Behandlungen benötigen Sie keine Überweisung."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ31L2SEhWqEcRqYKq_zfPAvE"
+  ]
 }

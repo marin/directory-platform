@@ -24,6 +24,9 @@
   },
   "website": "https://www.katrinbartusch.de/",
   "bookingUrl": "https://www.katrinbartusch.de/termine-und-kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4x-3K8NTqEcRtbBL1Prh4ok",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 62,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -76,7 +79,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/550264412/3a1b1802-f1a5-4663-82fe-4c44045a09ab.jpg"
+    "/images/entries/heilpraktikerin-katrin-bartusch/0.webp"
   ],
   "faq": [
     {
@@ -99,8 +102,5 @@
       "question": "Wo befindet sich die Praxis von Katrin Bartusch?",
       "answer": "Die Praxis befindet sich in der Schönhauser Allee 84, 10439 Berlin, Deutschland."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4x-3K8NTqEcRtbBL1Prh4ok",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 62
+  ]
 }

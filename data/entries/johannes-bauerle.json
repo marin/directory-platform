@@ -25,6 +25,9 @@
   "email": "info@osteopathie-wilhelmshagen.de",
   "website": "http://osteopathie-wilhelmshagen.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/johannes-baeuerle?utm_campaign=website-button&amp;utm_source=-website-button&amp;utm_medium=referral&amp;utm_content=option-8&amp;utm_term=",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cm40_s3qEcRWPvAKMNmh8Q",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 9,
   "openingHours": [],
   "offers": [
     {
@@ -61,10 +64,10 @@
     }
   ],
   "images": [
-    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2022/08/DSC03821-1024x683.jpg",
-    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/Osteopathie_Treptow-Koepenick-1024x676.jpg",
-    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/mkk-praxis.png",
-    "https://osteopathie-wilhelmshagen.de/wp-content/uploads/2025/04/Hebamenpraxis_Rahnsdorf.png"
+    "/images/entries/johannes-bauerle/0.webp",
+    "/images/entries/johannes-bauerle/1.webp",
+    "/images/entries/johannes-bauerle/2.webp",
+    "/images/entries/johannes-bauerle/3.webp"
   ],
   "faq": [
     {
@@ -87,8 +90,5 @@
       "question": "Wie kann ich Johannes Bäuerle kontaktieren?",
       "answer": "Sie können Johannes Bäuerle per E-Mail unter info@osteopathie-wilhelmshagen.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3cm40_s3qEcRWPvAKMNmh8Q",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 9
+  ]
 }

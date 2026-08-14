@@ -26,6 +26,9 @@
   "phone": "03034660470",
   "website": "https://www.maikheyne.de/",
   "bookingUrl": "https://calendly.com/maikheyne/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc-6eU2lOqEcRnh5tsp1jc4I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -84,11 +87,11 @@
     }
   ],
   "images": [
-    "https://www.maikheyne.de/files/maikheyne/bilder/personen/Enhancer_1000001760-Insta-Zoom-Web-680px.jpg",
-    "https://www.maikheyne.de/assets/images/x/2026-05-Pluto-Wandlung-Web_640px-Schrift-j1mambsf2wsdhxc.jpg",
-    "https://www.maikheyne.de/assets/images/h/MH-kraeftig-2799_800px-y5pk0349vpfxcc6.jpg",
-    "https://www.maikheyne.de/assets/images/f/osterblumen-nah-1400px-jsn8ve95p50r5f7.jpg",
-    "https://www.maikheyne.de/assets/images/s/rueckfuehrung-1_1200x600px-088nam251z2jbf0.jpg"
+    "/images/entries/maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach/0.webp",
+    "/images/entries/maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach/1.webp",
+    "/images/entries/maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach/2.webp",
+    "/images/entries/maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach/3.webp",
+    "/images/entries/maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach/4.webp"
   ],
   "faq": [
     {
@@ -111,8 +114,5 @@
       "question": "Wie kann ich Maik Heyne kontaktieren?",
       "answer": "Sie können Maik Heyne telefonisch unter der Nummer 03034660470 oder über die Website maikheyne.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc-6eU2lOqEcRnh5tsp1jc4I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

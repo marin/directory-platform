@@ -26,6 +26,9 @@
   "phone": "01775644419",
   "website": "https://www.akupunktur-und-coaching.de/",
   "bookingUrl": "https://www.besprechen-berlin.de/#Terminformular",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4v2rfxQqEcR_Tg0u-k3VCs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -46,11 +49,11 @@
     }
   ],
   "images": [
-    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/gesund-karola-lahrmann.jpg&nocache=1",
-    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/akupunktur-berlin-lahrmann.jpg&nocache=1",
-    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/termin-machen-dr-lahrmann.png&nocache=1",
-    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/schroepfen-berlin-lahrmann.jpg&nocache=1",
-    "https://www.akupunktur-und-coaching.de/wp-content/webpc-passthru.php?src=https://www.akupunktur-und-coaching.de/wp-content/uploads/paar-mediation-berlin.jpg&nocache=1"
+    "/images/entries/besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin/0.webp",
+    "/images/entries/besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin/1.webp",
+    "/images/entries/besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin/2.webp",
+    "/images/entries/besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin/3.webp",
+    "/images/entries/besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -73,8 +76,5 @@
       "question": "Welche Methoden der Chinesischen Medizin werden in der Praxis angewendet?",
       "answer": "In der Praxis werden Methoden wie Akupunktur, Moxibustion, Schröpfen und Gua Sha angewendet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4v2rfxQqEcR_Tg0u-k3VCs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

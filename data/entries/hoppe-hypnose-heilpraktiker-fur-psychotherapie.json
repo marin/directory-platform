@@ -28,6 +28,9 @@
   "email": "hypnose-hoppe@gmx.de",
   "website": "http://www.hypnose-hoppe.de/",
   "bookingUrl": "https://www.hypnose-hoppe.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS342lvFNqEcRS_3AHyEL9cQ",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -88,9 +91,8 @@
     }
   ],
   "images": [
-    "https://www.hypnose-hoppe.de/wp-content/uploads/elementor/thumbs/mond-pfrkb4q80fm2apq1t089b300hvvbppn5m7spb4ahtw.png",
-    "https://www.hypnose-hoppe.de/wp-content/uploads/siegel-deutsches-institut-fuer-klinische-hypnose-dr-preetz.png",
-    "https://www.hypnose-hoppe.de/www/wp-content/uploads/elementor/thumbs/mond-pfrkb4q80fm2apq1t089b300hvvbppn5m7spb4ahtw.png"
+    "/images/entries/hoppe-hypnose-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/hoppe-hypnose-heilpraktiker-fur-psychotherapie/1.webp"
   ],
   "faq": [
     {
@@ -113,8 +115,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 015226017313 oder per E-Mail an hypnose-hoppe@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS342lvFNqEcRS_3AHyEL9cQ",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 2
+  ]
 }

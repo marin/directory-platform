@@ -25,6 +25,9 @@
   "phone": "03040795925",
   "email": "h.coudray76@gmail.com",
   "website": "http://www.naturheilpraxis-coudray.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgbI-oiZPqEcRLjQX6WKg0-s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 154,
   "openingHours": [],
   "offers": [
     {
@@ -37,7 +40,7 @@
     }
   ],
   "images": [
-    "http://www.naturheilpraxis-coudray.de/assets/img/helene-coudray-naturaheilpraxis-heilpraktikerin-berlin.jpg"
+    "/images/entries/helene-coudray-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -60,8 +63,5 @@
       "question": "Wann hat die Heilpraxis geöffnet?",
       "answer": "Die Heilpraxis ist von Montag bis Freitag geöffnet und Termine sind auch nach Vereinbarung möglich."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgbI-oiZPqEcRLjQX6WKg0-s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 154
+  ]
 }

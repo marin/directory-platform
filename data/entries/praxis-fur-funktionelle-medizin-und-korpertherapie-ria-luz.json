@@ -26,6 +26,9 @@
   "email": "ria.luz@naturheilpraxis-luz.de",
   "website": "http://www.naturheilpraxis-luz.de/index.html",
   "bookingUrl": "https://www.doctolib.de/external_button/doctolib-white-transparent.png",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnRmHpWRRqEcRbKySp_AoYyw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -65,7 +68,7 @@
     }
   ],
   "images": [
-    "https://www.doctolib.de/external_button/doctolib-white-transparent.png"
+    "/images/entries/praxis-fur-funktionelle-medizin-und-korpertherapie-ria-luz/0.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 01738008251 oder per E-Mail an ria.luz@naturheilpraxis-luz.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnRmHpWRRqEcRbKySp_AoYyw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

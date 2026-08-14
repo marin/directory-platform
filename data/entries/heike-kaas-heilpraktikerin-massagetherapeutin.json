@@ -24,6 +24,7 @@
   },
   "phone": "017695145388",
   "website": "http://www.heike-kaas-heilpraktikerin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2-RE0DhJqEcR5gJcTWNuf-k",
   "openingHours": [],
   "offers": [
     {
@@ -48,8 +49,8 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/10019660/9b676289-0000-42b7-aa3f-263074ccfedd.jpg",
-    "https://static-assets.jimstatic.com/renderer/static/calendly_logo.eb5a11216dbbe4bd0d8f..png"
+    "/images/entries/heike-kaas-heilpraktikerin-massagetherapeutin/0.webp",
+    "/images/entries/heike-kaas-heilpraktikerin-massagetherapeutin/1.webp"
   ],
   "faq": [
     {
@@ -72,6 +73,5 @@
       "question": "Wie kann ich Heike Kaas kontaktieren?",
       "answer": "Sie können Heike Kaas telefonisch unter 0176-95 145 388 oder per E-Mail an heike.kaas@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2-RE0DhJqEcR5gJcTWNuf-k"
+  ]
 }

@@ -25,6 +25,9 @@
   "phone": "015238564179",
   "website": "https://www.deine-naturheilkraft.de/",
   "bookingUrl": "https://www.deine-naturheilkraft.de/kontakt/%20%22Kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-ftTsLdNqEcRlDu8pLUzw2g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -99,8 +102,8 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=406x10000:format=jpg/path/sd8b0ca368680c32e/image/id0aa6b9b7d85a6be/version/1700341111/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/sd8b0ca368680c32e/image/id0aa6b9b7d85a6be/version/1700341111/image.jpg"
+    "/images/entries/heilpraktikerin-anne-meisenbach/0.webp",
+    "/images/entries/heilpraktikerin-anne-meisenbach/1.webp"
   ],
   "faq": [
     {
@@ -123,8 +126,5 @@
       "question": "Was kostet eine Erstananalyse bei Heilpraktikerin Anne Meisenbach?",
       "answer": "Die Erstananalyse dauert 90-100 Minuten und kostet 150,00 EUR."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-ftTsLdNqEcRlDu8pLUzw2g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

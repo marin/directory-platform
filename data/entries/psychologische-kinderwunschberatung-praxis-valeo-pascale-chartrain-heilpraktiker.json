@@ -27,6 +27,9 @@
   "email": "kinderwunschzeit@gmx.net",
   "website": "http://www.kinderwunschzeit.de/",
   "bookingUrl": "https://www.kinderwunschzeit.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-2G8PH5RqEcR7X9TG4U0du8",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 24,
   "openingHours": [
     {
       "day": "Monday",
@@ -90,11 +93,11 @@
     }
   ],
   "images": [
-    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/04/kinderwunschzeit-brauchen-sie-trauerbegleitung-header-e1733530377533-1024x258.jpg",
-    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/04/kinderwunschzeit-brauchen-sie-trauerbegleitung-header-e1733530377533.jpg",
-    "https://www.kinderwunschzeit.de/wp-content/uploads/2019/08/girl-1822702_1920-1-e1781194438342.jpg",
-    "https://www.kinderwunschzeit.de/wp-content/uploads/2016/05/kinderwunschzeit-ungewollte-kinderlosigkeit-header.jpg",
-    "https://www.kinderwunschzeit.de/wp-content/uploads/2026/03/IMG_20260309_010022-1024x858.jpg"
+    "/images/entries/psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker/0.webp",
+    "/images/entries/psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker/1.webp",
+    "/images/entries/psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker/2.webp",
+    "/images/entries/psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker/3.webp",
+    "/images/entries/psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -117,8 +120,5 @@
       "question": "Bietet die Praxis VALEO auch Online-Beratung an?",
       "answer": "Ja, die Praxis VALEO bietet die Möglichkeit für Online-Beratung an, zusätzlich zu den persönlichen Gesprächen in der Praxis."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-2G8PH5RqEcR7X9TG4U0du8",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 24
+  ]
 }

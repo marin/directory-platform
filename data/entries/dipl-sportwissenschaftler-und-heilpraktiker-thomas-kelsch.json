@@ -25,6 +25,9 @@
   "phone": "03081014627",
   "website": "http://www.thomas-kelsch.de/",
   "bookingUrl": "https://thomas-kelsch.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJca7LIFU7ZUERHG1Z4-FUss8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -41,8 +44,8 @@
     }
   ],
   "images": [
-    "https://thomas-kelsch.de/wp-content/uploads/go-x/u/e7690710-e573-4ab0-8317-63a79fe907e3/l269,t262,w1462,h1462/image-768x768.jpg",
-    "https://thomas-kelsch.de/wp-content/uploads/go-x/u/e7690710-e573-4ab0-8317-63a79fe907e3/image-1200x1192.jpg"
+    "/images/entries/dipl-sportwissenschaftler-und-heilpraktiker-thomas-kelsch/0.webp",
+    "/images/entries/dipl-sportwissenschaftler-und-heilpraktiker-thomas-kelsch/1.webp"
   ],
   "faq": [
     {
@@ -65,8 +68,5 @@
       "question": "Wie viele Patienten hat Thomas Kelsch bereits behandelt?",
       "answer": "Thomas Kelsch hat bereits über 2000 Patienten behandelt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJca7LIFU7ZUERHG1Z4-FUss8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

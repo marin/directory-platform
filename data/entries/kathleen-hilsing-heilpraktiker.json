@@ -26,11 +26,14 @@
   "phone": "01776433824",
   "website": "http://www.akupunkturpraxis-hilsing.de/",
   "bookingUrl": "http://www.akupunkturpraxis-hilsing.de/kontakt-termine/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOZRsreRQqEcRNOS9LOj6Atc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "http://www.akupunkturpraxis-hilsing.de/files/6_khilsing.jpg",
-    "http://www.akupunkturpraxis-hilsing.de/files/121212_neulogo_web_hilsing.png"
+    "/images/entries/kathleen-hilsing-heilpraktiker/0.webp",
+    "/images/entries/kathleen-hilsing-heilpraktiker/1.webp"
   ],
   "faq": [
     {
@@ -49,8 +52,5 @@
       "question": "Wie kann ich Kathleen Hilsing telefonisch erreichen?",
       "answer": "Sie können Kathleen Hilsing unter der Telefonnummer 01776433824 erreichen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOZRsreRQqEcRNOS9LOj6Atc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

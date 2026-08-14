@@ -27,6 +27,9 @@
   "email": "post@ulrichchristen.de",
   "website": "https://www.ulrichchristen.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/ulrich-christen?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC1ShWMVPqEcR3cgDMxip1UY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -65,7 +68,7 @@
     }
   ],
   "images": [
-    "https://www.ulrichchristen.de/wp-content/uploads/2021/05/ChristenUlrich_SMR0786_pp_web_rz.jpg"
+    "/images/entries/heilpraktiker-ulrich-christen/0.webp"
   ],
   "faq": [
     {
@@ -88,8 +91,5 @@
       "question": "Wie kann ich Kontakt zu Heilpraktiker Ulrich Christen aufnehmen?",
       "answer": "Sie können Heilpraktiker Ulrich Christen telefonisch unter 030201693093 oder per E-Mail an post@ulrichchristen.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC1ShWMVPqEcR3cgDMxip1UY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

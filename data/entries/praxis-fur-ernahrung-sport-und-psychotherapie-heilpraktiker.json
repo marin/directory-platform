@@ -27,6 +27,7 @@
   "phone": "015222178080",
   "email": "mail@oliver-tonndorf.de",
   "website": "http://oliver-tonndorf.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM1dUuixaqEcRDHaDBwsiMyc",
   "openingHours": [
     {
       "day": "Monday",
@@ -85,11 +86,11 @@
     }
   ],
   "images": [
-    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Ern%C3%A4hrung-2.jpg",
-    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Sport-4-2.jpg",
-    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Psycho-10-2.jpg",
-    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/Entspannung-15-2.jpg",
-    "https://oliver-tonndorf.de/wp-content/uploads/2017/05/12a1086-36-x.jpg"
+    "/images/entries/praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker/0.webp",
+    "/images/entries/praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker/1.webp",
+    "/images/entries/praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker/2.webp",
+    "/images/entries/praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker/3.webp",
+    "/images/entries/praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -112,6 +113,5 @@
       "question": "Welche Preise gelten für die angebotenen Leistungen?",
       "answer": "Die Preise für die angebotenen Leistungen liegen bei 90 € pro Stunde und 140 € für 120 Minuten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM1dUuixaqEcRDHaDBwsiMyc"
+  ]
 }

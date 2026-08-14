@@ -27,6 +27,9 @@
   "email": "kontakt@madeline-hellmann.de",
   "website": "https://www.madeline-hellmann.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/hellmann-madeline?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoQllFnhRqEcRCv-q_7dqSo8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 38,
   "openingHours": [],
   "offers": [
     {
@@ -75,11 +78,11 @@
     }
   ],
   "images": [
-    "https://madeline-hellmann.de/wp-content/uploads/2023/08/bg-narzissmus.jpg",
-    "https://madeline-hellmann.de/wp-content/uploads/2023/08/trenner-3.png",
-    "https://madeline-hellmann.de/wp-content/uploads/2024/07/hellmann-2-fixed.png",
-    "https://madeline-hellmann.de/wp-content/uploads/2023/08/trenner-2.png",
-    "https://madeline-hellmann.de/wp-content/uploads/2023/08/002A7356-2-04.png"
+    "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/0.webp",
+    "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/1.webp",
+    "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/2.webp",
+    "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/3.webp",
+    "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -102,8 +105,5 @@
       "question": "Wie kann ich Madeline Hellmann kontaktieren?",
       "answer": "Du kannst Madeline Hellmann telefonisch unter 017616284564 oder per E-Mail an kontakt@madeline-hellmann.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoQllFnhRqEcRCv-q_7dqSo8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 38
+  ]
 }

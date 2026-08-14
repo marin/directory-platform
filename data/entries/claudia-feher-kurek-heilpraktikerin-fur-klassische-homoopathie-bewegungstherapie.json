@@ -26,6 +26,9 @@
   "phone": "03023901522",
   "website": "http://feher-kurek-homoeopathie.berlin/",
   "bookingUrl": "https://feherkurekhomoeopathieberlin.simplybook.it/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ43vr3AZSqEcRfqDRIoh17Pc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,7 +63,7 @@
   ],
   "offers": [],
   "images": [
-    "https://feher-kurek-homoeopathie.berlin/.cm4all/uproc.php/0/DSC00246%20(3)_1.JPG"
+    "/images/entries/claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie/0.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Wie kann ich einen Termin buchen?",
       "answer": "Sie können einen Termin über die Buchungsseite unter https://feherkurekhomoeopathieberlin.simplybook.it/ buchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ43vr3AZSqEcRfqDRIoh17Pc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

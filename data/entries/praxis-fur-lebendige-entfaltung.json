@@ -26,6 +26,9 @@
   "phone": "03057799277",
   "website": "https://lebendige-entfaltung.de/",
   "bookingUrl": "https://search.google.com/local/posts?q=Praxis+f%C3%BCr+Lebendige+Entfaltung+Frankfurter+Allee+191&ludocid=16429197718129505694#lkt=LocalPoiPosts&lpstate=pid:3310939663336840198&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:16429197718129505694",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ74MYpZROqEcRnnXEbUc8AOQ",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,11 +58,11 @@
   ],
   "offers": [],
   "images": [
-    "https://lebendige-entfaltung.de/pictures/farbverlauf.jpg",
-    "https://lebendige-entfaltung.de/pictures/startseite_.jpg",
-    "https://lebendige-entfaltung.de/pictures/nis.jpg",
-    "https://lebendige-entfaltung.de/pictures/Persoenlichkeitsentwicklung.jpg",
-    "https://lebendige-entfaltung.de/pictures/osteopathie.jpg"
+    "/images/entries/praxis-fur-lebendige-entfaltung/0.webp",
+    "/images/entries/praxis-fur-lebendige-entfaltung/1.webp",
+    "/images/entries/praxis-fur-lebendige-entfaltung/2.webp",
+    "/images/entries/praxis-fur-lebendige-entfaltung/3.webp",
+    "/images/entries/praxis-fur-lebendige-entfaltung/4.webp"
   ],
   "faq": [
     {
@@ -82,8 +85,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03057799277 oder per E-Mail an praxis@lebendige-entfaltung.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ74MYpZROqEcRnnXEbUc8AOQ",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 11
+  ]
 }

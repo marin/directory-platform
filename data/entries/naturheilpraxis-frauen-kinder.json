@@ -24,6 +24,9 @@
   },
   "phone": "03023938221",
   "website": "https://naturheilpraxis-frauen-und-kinder.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNcIxcFtJqEcR0ByHJp3LCLM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +56,7 @@
   ],
   "offers": [],
   "images": [
-    "http://naturheilpraxis-frauen-und-kinder.de/wp-content/uploads/2020/08/indexbild.jpg"
+    "/images/entries/naturheilpraxis-frauen-kinder/0.webp"
   ],
   "faq": [
     {
@@ -76,8 +79,5 @@
       "question": "Welche Zielgruppen werden in der Praxis angesprochen?",
       "answer": "In der Naturheilpraxis Frauen & Kinder werden insbesondere Frauen und Kinder angesprochen, die Unterstützung in verschiedenen gesundheitlichen Belangen suchen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNcIxcFtJqEcR0ByHJp3LCLM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

@@ -47,6 +47,9 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="nap-name"');
     expect(html).toContain('data-testid="nap-phone"');
     expect(html).toContain('data-testid="nap-address"');
+    expect(html).toContain('data-testid="entry-map-section"');
+    expect(html).toContain('data-testid="map-embed"');
+    expect(html).toContain('data-testid="map-directions-link"');
     expect(html).toContain('data-testid="breadcrumbs"');
     expect(html).toContain('data-testid="entry-tags"');
     expect(html).toContain('data-testid="last-updated"');
@@ -123,5 +126,35 @@ describe("generated site", () => {
     const llms = buildLlmsTxt(dataset);
     expect(llms).toContain(siteConfig.site.name);
     expect(llms).toContain(sampleCategory.slug);
+  });
+
+  it("renders entry images and og:image when local images exist", () => {
+    const entryWithImages = dataset.entries.find(
+      (entry) => (entry.images ?? []).some((image) => image.startsWith("/images/entries/")),
+    );
+    if (!entryWithImages) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${entryWithImages.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="entry-images-section"');
+    expect(html).toContain('data-testid="entry-hero-image"');
+    expect(html).toContain('property="og:image"');
+    expect(html).toContain("/images/entries/");
+  });
+
+  it("renders card thumbnails on category pages when images exist", () => {
+    const entryWithImages = dataset.entries.find(
+      (entry) =>
+        entry.isOpen &&
+        (entry.images ?? []).some((image) => image.startsWith("/images/entries/")),
+    );
+    if (!entryWithImages) return;
+
+    const category = dataset.categories.find((item) => item.id === entryWithImages.categories[0]);
+    if (!category) return;
+
+    const html = readDist(`category/${category.slug}/index.html`);
+    expect(html).toContain('data-testid="entry-card-image"');
   });
 });

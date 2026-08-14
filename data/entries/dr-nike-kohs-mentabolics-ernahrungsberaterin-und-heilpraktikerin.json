@@ -28,6 +28,9 @@
   "email": "beispiel@beispiel.com",
   "website": "http://www.mentabolics.de/",
   "bookingUrl": "https://www.mentabolics.de/kostenfreieserstgespr%C3%A4ch",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD3-wsPxaqEcRzamUW1Wqvh0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [
     {
@@ -48,14 +51,11 @@
     }
   ],
   "images": [
-    "https://static.wixstatic.com/media/e5c4a1_42dd53e83a2b4d11aaa5038c434e692b~mv2.png/v1/fill/w_1259,h_396,al_c,q_90,enc_avif,quality_auto/e5c4a1_42dd53e83a2b4d11aaa5038c434e692b~mv2.png",
-    "https://static.wixstatic.com/media/e5c4a1_1c2062fccb314be9ba001a4b68aad99b~mv2.jpg/v1/fill/w_953,h_607,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5c4a1_1c2062fccb314be9ba001a4b68aad99b~mv2.jpg",
-    "https://static.wixstatic.com/media/e5c4a1_f21bb6c2d9fe4b9984b83aecb87456f7~mv2.jpg/v1/fill/w_953,h_715,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e5c4a1_f21bb6c2d9fe4b9984b83aecb87456f7~mv2.jpg",
-    "https://static.wixstatic.com/media/e5c4a1_938ff7bf3e4c402083db874b93639c2a~mv2.jpg/v1/fill/w_123,h_92,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e5c4a1_938ff7bf3e4c402083db874b93639c2a~mv2.jpg",
-    "https://static.wixstatic.com/media/e5c4a1_31fc3691cf5342ca8715a71ca834f933~mv2.jpg/v1/fill/w_123,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e5c4a1_31fc3691cf5342ca8715a71ca834f933~mv2.jpg"
+    "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/0.webp",
+    "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/1.webp",
+    "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/2.webp",
+    "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/3.webp",
+    "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJD3-wsPxaqEcRzamUW1Wqvh0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  "faq": []
 }

@@ -25,6 +25,9 @@
   "phone": "03040605416",
   "email": "info@heilpraktikerin-simon.de",
   "website": "http://www.heilpraktikerin-simon.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1YQJNclUqEcRfWpfQh3xyMo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +57,7 @@
   ],
   "offers": [],
   "images": [
-    "http://www.heilpraktikerin-simon.de/assets/images/8/steffi-2024-4fdee730.jpg"
+    "/images/entries/heilpraktikerin-stefanie-simon/0.webp"
   ],
   "faq": [
     {
@@ -73,8 +76,5 @@
       "question": "Welche Therapien bietet Heilpraktikerin Stefanie Simon an?",
       "answer": "Heilpraktikerin Stefanie Simon bietet unter anderem klassische Homöopathie, Reflexzonentherapie und den Vegatest an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1YQJNclUqEcRfWpfQh3xyMo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

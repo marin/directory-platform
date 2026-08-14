@@ -25,6 +25,9 @@
   },
   "phone": "03025586429",
   "website": "http://www.praxisamhansaplatz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz1CuTghRqEcR438eB7Dl6kw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -78,11 +81,11 @@
     }
   ],
   "images": [
-    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2020/10/praxis_mm_2.jpg",
-    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Praxis_hochkant_2-1-819x1024.jpg",
-    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Wirkung.jpg",
-    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Bambus3-819x1024.jpg",
-    "https://www.meliani-heilpraktiker.de/wordpress/wp-content/uploads/2024/11/Steiss.png"
+    "/images/entries/michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch/0.webp",
+    "/images/entries/michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch/1.webp",
+    "/images/entries/michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch/2.webp",
+    "/images/entries/michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch/3.webp",
+    "/images/entries/michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch/4.webp"
   ],
   "faq": [
     {
@@ -105,8 +108,5 @@
       "question": "Welche Anwendungsgebiete deckt die Tieh - Ta - Tuina Methode ab?",
       "answer": "Die Tieh - Ta - Tuina Methode kann bei Verklebungen und Verhärtungen der Muskulatur, Bewegungseinschränkungen sowie Schmerzen im Bewegungsapparat, wie Rückenschmerzen, Nackenschmerzen und Sportverletzungen, angewendet werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJz1CuTghRqEcR438eB7Dl6kw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

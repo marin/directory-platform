@@ -27,6 +27,9 @@
   "email": "info@schmerzfrei-atempause.de",
   "website": "http://www.schmerzfrei-atempause.de/",
   "bookingUrl": "https://dieursacheheilen.com/termin-buchen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6doJjDhVqEcRwfANFdCa_ps",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -89,11 +92,11 @@
     }
   ],
   "images": [
-    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/Kein-Titel-700-%C3%97-500-px-700-%C3%97-300-px-700-%C3%97-200-px-700-%C3%97-150-px-600-%C3%97-150-px.png",
-    "https://schmerzfrei-atempause.de/wp-content/uploads/2025/05/Front-Racked-Cover.jpg",
-    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/1.png",
-    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/01/4.png",
-    "https://schmerzfrei-atempause.de/wp-content/uploads/2023/09/Design-ohne-Titel-9.png"
+    "/images/entries/atempause-naturheilkunde-schmerztherapie-markus-brandenburg/0.webp",
+    "/images/entries/atempause-naturheilkunde-schmerztherapie-markus-brandenburg/1.webp",
+    "/images/entries/atempause-naturheilkunde-schmerztherapie-markus-brandenburg/2.webp",
+    "/images/entries/atempause-naturheilkunde-schmerztherapie-markus-brandenburg/3.webp",
+    "/images/entries/atempause-naturheilkunde-schmerztherapie-markus-brandenburg/4.webp"
   ],
   "faq": [
     {
@@ -116,8 +119,5 @@
       "question": "Wie kann ich ATEMPAUSE kontaktieren?",
       "answer": "Sie können ATEMPAUSE telefonisch unter 015228668531 oder per E-Mail an info@schmerzfrei-atempause.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6doJjDhVqEcRwfANFdCa_ps",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }

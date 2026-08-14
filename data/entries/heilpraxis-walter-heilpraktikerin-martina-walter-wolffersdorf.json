@@ -27,6 +27,9 @@
   "email": "info@heilpraxis-walter.de",
   "website": "http://www.heilpraxis-walter.de/",
   "bookingUrl": "http://www.heilpraxis-walter.de/termine/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4YQo2lOqEcR0-Zv4DaGSuc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -117,14 +120,11 @@
     }
   ],
   "images": [
-    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/Untitled-design-40-1024x768.png",
-    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_101948-768x576.jpg",
-    "https://www.heilpraxis-walter.de/wp-content/uploads/2024/11/Praxisbild-2-2-768x576.jpg",
-    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_104323-768x576.jpg",
-    "https://www.heilpraxis-walter.de/wp-content/uploads/2025/08/20250821_103440-768x576.jpg"
+    "/images/entries/heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf/0.webp",
+    "/images/entries/heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf/1.webp",
+    "/images/entries/heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf/2.webp",
+    "/images/entries/heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf/3.webp",
+    "/images/entries/heilpraxis-walter-heilpraktikerin-martina-walter-wolffersdorf/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4YQo2lOqEcR0-Zv4DaGSuc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  "faq": []
 }

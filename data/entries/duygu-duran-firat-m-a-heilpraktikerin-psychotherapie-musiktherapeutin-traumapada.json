@@ -26,6 +26,9 @@
   "phone": "01637852916",
   "website": "http://duyguduran.com/de/",
   "bookingUrl": "http://duyguduran.com/de/contact/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0398M9lRqEcRTcKseZfWzKM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,11 +84,11 @@
     }
   ],
   "images": [
-    "https://duyguduran.com/wp-content/uploads/2024/09/Varlik-1-1.png",
-    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-05-1024x1020.png",
-    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-06-804x1024.png",
-    "https://duyguduran.com/wp-content/uploads/2024/02/Basliksiz-1-e1708428760398.png",
-    "https://duyguduran.com/wp-content/uploads/2024/02/ana_sayfa-08-768x147.png"
+    "/images/entries/duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada/0.webp",
+    "/images/entries/duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada/1.webp",
+    "/images/entries/duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada/2.webp",
+    "/images/entries/duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada/3.webp",
+    "/images/entries/duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada/4.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Welche Öffnungszeiten hat die Praxis?",
       "answer": "Die Praxis ist montags von 09:00 bis 19:00 Uhr und freitags von 09:00 bis 18:00 Uhr geöffnet."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ0398M9lRqEcRTcKseZfWzKM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

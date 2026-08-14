@@ -26,6 +26,9 @@
   "phone": "015201710607",
   "website": "https://www.wandelwege.berlin/traumatherapie/",
   "bookingUrl": "https://calendly.com/yvonne-wandelwege/orientierungsgesprach",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyESyWIPQCoRsoVpv8Mf6O0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,7 +84,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/501119914/c37ab80a-992b-428b-b98d-ef60aa1c31d5.jpg"
+    "/images/entries/wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie/0.webp"
   ],
   "faq": [
     {
@@ -104,8 +107,5 @@
       "question": "Was ist das Ziel der Therapie in der Praxis WandelWege?",
       "answer": "Das Ziel der Therapie in der Praxis WandelWege ist es, tiefgreifende Verletzungen zu heilen und den Klienten zu einem erfüllten Leben zu verhelfen, indem innere Blockaden gelöst und neue Perspektiven entwickelt werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyESyWIPQCoRsoVpv8Mf6O0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

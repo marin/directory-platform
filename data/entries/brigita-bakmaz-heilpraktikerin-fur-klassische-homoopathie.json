@@ -26,6 +26,9 @@
   "phone": "03044327617",
   "website": "http://www.bakmaz.de/",
   "bookingUrl": "https://www.bakmaz.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV-9IJP5NqEcRTrUPTXJrZrM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -80,10 +83,10 @@
     }
   ],
   "images": [
-    "https://www.bakmaz.de/uploads/images/brigitabakmaz2.jpg?1490887891580",
-    "https://www.bakmaz.de/uploads/images/sprechzimmer1.jpg?1490884297954",
-    "https://www.bakmaz.de/uploads/images/stuehle1.jpg?1490884699903",
-    "https://www.bakmaz.de/uploads/images/stuehle2.jpg?1490884375101"
+    "/images/entries/brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie/0.webp",
+    "/images/entries/brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie/1.webp",
+    "/images/entries/brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie/2.webp",
+    "/images/entries/brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie/3.webp"
   ],
   "faq": [
     {
@@ -106,8 +109,5 @@
       "question": "Wie kann ich einen Termin vereinbaren?",
       "answer": "Sie können einen Termin über die Website von Brigita Bakmaz unter http://www.bakmaz.de/kontakt oder telefonisch unter 030 44327617 vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJV-9IJP5NqEcRTrUPTXJrZrM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  ]
 }

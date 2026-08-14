@@ -27,6 +27,9 @@
   "email": "info@platz-fuer-gesundheit.de",
   "website": "https://www.platz-fuer-gesundheit.de/",
   "bookingUrl": "https://app.cituro.com/booking/heilpraktikerin-doreen-platz",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcRpeAnF1S_f38",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -89,11 +92,11 @@
     }
   ],
   "images": [
-    "https://www.platz-fuer-gesundheit.de/wp-content/uploads/2023/03/Slider_Schafgarbe-1-1024x359.png",
-    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2023/01/AdobeStock_296482402.jpeg",
-    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2022/07/AdobeStock_250287876-scaled-1-1024x680.jpeg",
-    "https://www.platz-fuer-gesundheit.de/hallo/wp-content/uploads/2023/01/AdobeStock_19797455.jpeg",
-    "https://www.platz-fuer-gesundheit.de/wp-content/uploads/2023/03/Slider_Wildkraeuter-1024x359.png"
+    "/images/entries/doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu/0.webp",
+    "/images/entries/doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu/1.webp",
+    "/images/entries/doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu/2.webp",
+    "/images/entries/doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu/3.webp",
+    "/images/entries/doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu/4.webp"
   ],
   "faq": [
     {
@@ -116,8 +119,5 @@
       "question": "Wo befindet sich die Praxis von Doreen Platz?",
       "answer": "Die Praxis befindet sich in der Weichselstraße 53, 12045 Berlin, im Stadtteil Neukölln."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJny5AGbBPqEcRpeAnF1S_f38",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

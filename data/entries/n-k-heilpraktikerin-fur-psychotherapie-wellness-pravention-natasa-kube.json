@@ -26,6 +26,9 @@
   "phone": "017656868836",
   "email": "support@webador.de",
   "website": "https://www.nk-heilpraktikerin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLYMF8BBbqEcRr0yBVihql64",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -74,11 +77,11 @@
     }
   ],
   "images": [
-    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/c1eba94f-36eb-46db-b06f-ebd441fb923b-high.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1%2Coffset-y100&width=800",
-    "https://primary.jwwb.nl/unsplash/ZbzYDboN7fg.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1&width=800",
-    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/bqgnw6/img_7600-1.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1%2Coffset-y100&width=800",
-    "https://primary.jwwb.nl/unsplash/qybZ2w0CzMw.jpg?enable-io=true&enable=upscale&crop=0.951%3A1%2Coffset-y20&width=800",
-    "https://primary.jwwb.nl/public/i/d/t/temp-hslirvjdmfqegktewgxg/img_7599-high.jpg?enable-io=true&enable=upscale&crop=1.2727%3A1%2Coffset-y84&width=800"
+    "/images/entries/n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube/0.webp",
+    "/images/entries/n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube/1.webp",
+    "/images/entries/n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube/2.webp",
+    "/images/entries/n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube/3.webp",
+    "/images/entries/n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube/4.webp"
   ],
   "faq": [
     {
@@ -101,8 +104,5 @@
       "question": "Was sagen Patienten über die Behandlungen bei Nataša Kube?",
       "answer": "Patienten berichten von positiven Erfahrungen, wie der Wiederfindung ihrer inneren Balance und einer entspannenden Atmosphäre während der Massagen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJLYMF8BBbqEcRr0yBVihql64",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

@@ -26,6 +26,9 @@
   "phone": "017630589505",
   "email": "norawuerbel@gmx.de",
   "website": "http://www.nora-wuerbel.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvT3c1e9OqEcRq7dHh70kRJc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,11 +66,11 @@
     }
   ],
   "images": [
-    "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/480200896_1141397814657409_7080055170584314705_n.jpg?stp=dst-jpg_fb50_s320x320_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Pay38ix4w2oQ7kNvwF1OtGA&_nc_oc=AdpXYr9aHRi0Rr22isy7CJfttwakGd9JM_hC71i12RY5dwu_kQJigmmRtXtAEkS29-c&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=cZ9Wil1d_3lOHP-NJIMNSQ&_nc_ss=7b289&oh=00_AQHc2UqWrVUU3y0n9RL_HDhXX1egZrm8CtTY2nyu93O9tw&oe=6A834D40",
-    "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/480200896_1141397814657409_7080055170584314705_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Pay38ix4w2oQ7kNvwF1OtGA&_nc_oc=AdpXYr9aHRi0Rr22isy7CJfttwakGd9JM_hC71i12RY5dwu_kQJigmmRtXtAEkS29-c&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=cZ9Wil1d_3lOHP-NJIMNSQ&_nc_ss=7b289&oh=00_AQFO7PtcviQA5pTwYnj4s4CzZqWviHpPbV1wXI6Kp3wRcQ&oe=6A834D40",
-    "https://static.xx.fbcdn.net/rsrc.php/yL/r/VLNVMYsRNQ9.webp",
-    "https://static.xx.fbcdn.net/rsrc.php/yH/r/tL0h0V4PmET.webp",
-    "https://static.xx.fbcdn.net/rsrc.php/y-/r/aa_l5zrpN2S.webp"
+    "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/0.webp",
+    "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/1.webp",
+    "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/2.webp",
+    "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/3.webp",
+    "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/4.webp"
   ],
   "faq": [
     {
@@ -86,8 +89,5 @@
       "question": "Wie kann ich Nora Würbel kontaktieren?",
       "answer": "Sie können Nora Würbel telefonisch unter 017630589505 oder per E-Mail an norawuerbel@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvT3c1e9OqEcRq7dHh70kRJc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

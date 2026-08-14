@@ -25,6 +25,9 @@
   "phone": "01639893947",
   "email": "alchemilla57@t-online.de",
   "website": "http://www.naturheilpraxis-botanischergarten.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy9kk2nZbqEcRZIS1CUAI_Tc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -56,9 +59,9 @@
     }
   ],
   "images": [
-    "http://www.naturheilpraxis-botanischergarten.de/images/praxis_1200px.jpg",
-    "http://www.naturheilpraxis-botanischergarten.de/images/Doris_Zimmermann.jpg",
-    "http://www.naturheilpraxis-botanischergarten.de/images/karte-praxis.jpg"
+    "/images/entries/praxis-im-botanischen-garten/0.webp",
+    "/images/entries/praxis-im-botanischen-garten/1.webp",
+    "/images/entries/praxis-im-botanischen-garten/2.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Wie kann ich einen Termin in der Praxis im Botanischen Garten vereinbaren?",
       "answer": "Sie können einen Termin in der Praxis im Botanischen Garten telefonisch unter 01639893947 oder per E-Mail an alchemilla57@t-online.de vereinbaren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJy9kk2nZbqEcRZIS1CUAI_Tc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

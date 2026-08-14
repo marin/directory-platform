@@ -25,6 +25,9 @@
   },
   "phone": "03047480377",
   "website": "http://www.entspannungs-kurse.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc-1dy2hSqEcRaVF6TqDBWcU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [
     {
       "day": "Monday",
@@ -67,11 +70,11 @@
     }
   ],
   "images": [
-    "http://www.entspannungs-kurse.de/images/johannes.jpg",
-    "http://www.entspannungs-kurse.de/images/Zimmer.jpg",
-    "http://www.entspannungs-kurse.de/images/Pankow.jpg",
-    "http://www.entspannungs-kurse.de/images/Oranienburg.jpg",
-    "http://www.entspannungs-kurse.de/images/warnemuende_meer.jpg"
+    "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/0.webp",
+    "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/1.webp",
+    "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/2.webp",
+    "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/3.webp",
+    "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/4.webp"
   ],
   "faq": [
     {
@@ -90,8 +93,5 @@
       "question": "Bietet Johannes Dulig auch Online-Termine an?",
       "answer": "Ja, Johannes Dulig bietet Termine sowohl vor Ort als auch online an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc-1dy2hSqEcRaVF6TqDBWcU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

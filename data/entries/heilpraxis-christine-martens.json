@@ -24,6 +24,9 @@
   },
   "phone": "017629816604",
   "website": "http://chmaertens.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1WZLXUVQqEcRwY3rNiS2Qiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,10 +56,10 @@
   ],
   "offers": [],
   "images": [
-    "http://chmaertens.de/bilder_09/oben_schmal.jpg",
-    "http://chmaertens.de/bilder_09/pix_vio.gif",
-    "http://chmaertens.de/bilder_09/transparent.gif",
-    "http://chmaertens.de/bilder_09/unten.gif"
+    "/images/entries/heilpraxis-christine-martens/0.webp",
+    "/images/entries/heilpraxis-christine-martens/1.webp",
+    "/images/entries/heilpraxis-christine-martens/2.webp",
+    "/images/entries/heilpraxis-christine-martens/3.webp"
   ],
   "faq": [
     {
@@ -75,8 +78,5 @@
       "question": "Bietet die Heilpraxis Christine Märtens spezielle Angebote an?",
       "answer": "Im aktuellen Eintrag sind keine speziellen Angebote aufgeführt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1WZLXUVQqEcRwY3rNiS2Qiw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

@@ -25,6 +25,9 @@
   },
   "phone": "03089744915",
   "website": "http://www.naturheilkunde-resa.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQc2sWFZVqEcRow_d0WThBJU",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -33,10 +36,10 @@
     }
   ],
   "images": [
-    "https://le-cdn.website-editor.net/md/and1/dms3rep/multi/opt/115087-1920w.jpeg",
-    "https://le-cdn.website-editor.net/md/and1/dms3rep/multi/opt/119414-1920w.jpeg",
-    "https://le-cdn.website-editor.net/s/a65987bde68d40c2aa66d53793e33806/dms3rep/multi/opt/Praxis_fuer_Naturheilkunde_Michaela_Resa__Ueber_mich-1920w.png?Expires=1788846226&Signature=f6B0ByvrL8KJTTg6t1PTJggwonCLCFbw46k-tQ1xPwC3JqlDwohWWYhA0Pr1KugBaYlwStz8cyZ4kjSkafigH3YOmK6clPz5CaXJv5pt55nwtFIofFpxqMje-oK2lS784~ove2TxkmSKDJRySllWNc-mX7Hi7S7OEw25E54N1t8U5BRzjyGoxcY0wMiaJ2U8r-zxeej837BISFu5tT20uVNSut1p2ZtAV2TztZ9kODH88r5HciYUJMYpDYgkUdBSdD5Gd-apSMWqU7doKZwav~H3bCCCkZctXWNo777xSP0-JjebECbm~RnLxAOzJMBbPv7HWZQrkTZ1Og32DC1c4w__&Key-Pair-Id=K2NXBXLF010TJW",
-    "https://le-cdn.website-editor.net/s/a65987bde68d40c2aa66d53793e33806/dms3rep/multi/opt/Praxis_fuer_Naturheilkunde_Michaela_Resa__Logo-1920w.png?Expires=1788846226&Signature=dyPhLATzlkUSXMP3Fk2bWzXeG~CWRqz9AgT8QhrPLyO4~G7eKD9pHeZTXJjuUa-NYeNFO99WihxeKMxg1~jYW8eUcXqQNMHW~K~Z~SvAX5WBWOWCu7CZdY~4oqZKi5PRLuKkd9-rVX27l3GQ7biuUC0~pG6r7vMjw1eGgqZWx9Z8dea1-gA1QuoeR6zTDQs7L-HSDDTEORD4itOaCdnOWbw~OugS7fZvchQFwL-Q5NTUs0CPX6uwMiQUlKtY8UhNnR8cmYfNOxiB0ZezAJir5LbgRV5dadeh0htoK0eIippH825xZ3JU6zn4AJxxlhcVjjOZDfTLRozU4syi2oRcOA__&Key-Pair-Id=K2NXBXLF010TJW"
+    "/images/entries/praxis-fur-naturheilkunde-michaela-resa/0.webp",
+    "/images/entries/praxis-fur-naturheilkunde-michaela-resa/1.webp",
+    "/images/entries/praxis-fur-naturheilkunde-michaela-resa/2.webp",
+    "/images/entries/praxis-fur-naturheilkunde-michaela-resa/3.webp"
   ],
   "faq": [
     {
@@ -59,8 +62,5 @@
       "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
       "answer": "Die Praxis ist erreichbar über den U-Bahnhof Alt-Tegel, den S-Bahnhof Tegel sowie die Bushaltestellen Buddestraße und U-Bahnhof Alt-Tegel."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQc2sWFZVqEcRow_d0WThBJU",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 4
+  ]
 }

@@ -28,6 +28,9 @@
   "email": "kontakt@annettemoll-praxis.de",
   "website": "http://annettemoll-praxis.de/",
   "bookingUrl": "https://annettemoll-praxis.de/akupunktur-termin-online-buchen/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4V-jLVPqEcRqMSL_kebSBQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -78,7 +81,7 @@
     }
   ],
   "images": [
-    "https://annettemoll-praxis.de/wp-content/uploads/2016/01/AGTCM-Annette-Moll-Akupunktur-Neuk%C3%B6lln-Berlin-1-300x82.gif"
+    "/images/entries/annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun/0.webp"
   ],
   "faq": [
     {
@@ -101,8 +104,5 @@
       "question": "Was sind die Öffnungszeiten der Praxis?",
       "answer": "Die Öffnungszeiten sind Montag von 10:00 bis 18:00, Dienstag von 10:00 bis 18:30, Mittwoch von 10:00 bis 19:00, Donnerstag von 11:00 bis 19:00 und Freitag von 10:00 bis 18:00."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJO4V-jLVPqEcRqMSL_kebSBQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

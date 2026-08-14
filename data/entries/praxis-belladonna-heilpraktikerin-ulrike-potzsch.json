@@ -26,6 +26,9 @@
   "email": "praxis@darmsanierung-berlin.com",
   "website": "https://darmsanierung-berlin.com/",
   "bookingUrl": "https://darmsanierung-berlin.com/termin-vereinbaren/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJleck0-dQqEcRUxQowdX3zrQ",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,9 +63,9 @@
     }
   ],
   "images": [
-    "https://darmsanierung-berlin.com/wp-content/uploads/naturheilpraxis_belladonna.jpg",
-    "https://darmsanierung-berlin.com/wp-content/uploads/ulrike-poetzsch.webp",
-    "https://darmsanierung-berlin.com/wp-content/uploads/heilpraktikerin-ulrike-poetzsch.jpg"
+    "/images/entries/praxis-belladonna-heilpraktikerin-ulrike-potzsch/0.webp",
+    "/images/entries/praxis-belladonna-heilpraktikerin-ulrike-potzsch/1.webp",
+    "/images/entries/praxis-belladonna-heilpraktikerin-ulrike-potzsch/2.webp"
   ],
   "faq": [
     {
@@ -85,8 +88,5 @@
       "question": "Wie kann ich die PRAXIS BELLADONNA kontaktieren?",
       "answer": "Sie können die PRAXIS BELLADONNA telefonisch unter 03012074380 oder per E-Mail an praxis@darmsanierung-berlin.com kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJleck0-dQqEcRUxQowdX3zrQ",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 16
+  ]
 }

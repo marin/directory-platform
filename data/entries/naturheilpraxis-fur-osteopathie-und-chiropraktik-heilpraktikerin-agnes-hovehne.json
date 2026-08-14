@@ -27,6 +27,9 @@
   "email": "mail@agneshovehne.de",
   "website": "http://www.agneshovehne.de/",
   "bookingUrl": "http://www.agneshovehne.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3aAKpnpUqEcRTcr8fSUcgLE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -64,14 +67,11 @@
     }
   ],
   "images": [
-    "https://agneshovehne.de/wp-content/uploads/2015/09/01-e1603816645800.jpg",
-    "https://agneshovehne.de/wp-content/uploads/2020/10/yoga-berlin-reinickendorf-agneshovehne-e1603814744690.jpg",
-    "https://agneshovehne.de/wp-content/uploads/2020/10/meditation-naturheilpraxis-berlin-reinickendorf-e1603814727908.jpg",
-    "https://agneshovehne.de/wp-content/uploads/2025/05/agnes-hovehne_l3punkt-60.png",
-    "https://agneshovehne.de/wp-content/uploads/2024/06/rating-stars-1-150x27.png"
+    "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/0.webp",
+    "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/1.webp",
+    "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/2.webp",
+    "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/3.webp",
+    "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/4.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3aAKpnpUqEcRTcr8fSUcgLE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 19
+  "faq": []
 }

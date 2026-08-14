@@ -26,6 +26,7 @@
   "email": "kontakt@heilpraktikerin-jenny-deimling.de",
   "website": "https://www.heilpraktikerin-jenny-deimling.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/deimling-jenny",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdTWT6MeJ3C4RZGIWIUodhlw",
   "openingHours": [
     {
       "day": "Thursday",
@@ -40,7 +41,7 @@
   ],
   "offers": [],
   "images": [
-    "https://pro.doctolib.de/external_button/doctolib-white-transparent.png"
+    "/images/entries/heilpraktikerin-jenny-deimling/0.webp"
   ],
   "faq": [
     {
@@ -63,6 +64,5 @@
       "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Jenny Deimling an?",
       "answer": "Heilpraktikerin Jenny Deimling bietet klassische Homöopathie an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJdTWT6MeJ3C4RZGIWIUodhlw"
+  ]
 }

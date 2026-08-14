@@ -27,6 +27,9 @@
   "email": "mail@beratungspraxis-simpson.de",
   "website": "http://beratungspraxis-simpson.de/",
   "bookingUrl": "https://beratungspraxis-simpson.de/Kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhxJTK3lQqEcR9HiEXqtkJtA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -50,9 +53,7 @@
     }
   ],
   "offers": [],
-  "images": [
-    "https://beratungspraxis-simpson.de/.cm4all/uproc.php/0/_DSC5893.JPG"
-  ],
+  "images": [],
   "faq": [
     {
       "question": "Welche Therapieformen bietet Corinna Simpson an?",
@@ -74,8 +75,5 @@
       "question": "Wie kann ich Corinna Simpson kontaktieren?",
       "answer": "Sie können Corinna Simpson telefonisch unter 03077206956 oder per E-Mail an mail@beratungspraxis-simpson.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhxJTK3lQqEcR9HiEXqtkJtA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

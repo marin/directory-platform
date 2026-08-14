@@ -27,6 +27,9 @@
   "email": "dynamictouch@posteo.de",
   "website": "http://dynamictouch.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nelly-grotefendt?pid=practice-462488&?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3gTAYiZQkoRgL1ZtHGgUHE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 46,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,11 +84,11 @@
     }
   ],
   "images": [
-    "https://dynamictouch.de/wp-content/uploads/pain-relief-recovery-mobility-dynamic-touch-connection-berlin-1.jpg",
-    "https://dynamictouch.de/wp-content/uploads/ganzheitliche-koerpertherapie-berlin-dynamictouchconnection.png",
-    "https://dynamictouch.de/wp-content/uploads/acupunctur-berlin-neukoelln-dynamictouchconnection.png",
-    "https://dynamictouch.de/wp-content/uploads/osteo-thai-massage-berlin-dynamictouchconnection.png",
-    "https://dynamictouch.de/wp-content/uploads/ganzheitliche-chiropraktik-dynamic-touch-connection_berlin.jpg"
+    "/images/entries/korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection/0.webp",
+    "/images/entries/korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection/1.webp",
+    "/images/entries/korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection/2.webp",
+    "/images/entries/korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection/3.webp",
+    "/images/entries/korpertherapie-akupunktur-chiropraktik-in-berlin-praxis-dynamic-touch-connection/4.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 017680035462 oder per E-Mail an dynamictouch@posteo.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJY3gTAYiZQkoRgL1ZtHGgUHE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 46
+  ]
 }

@@ -26,6 +26,9 @@
   },
   "phone": "03089201777",
   "website": "http://www.beateschnorrenberger.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfZjdKl5aqEcR9pcdn8-4ctk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,7 +63,7 @@
     }
   ],
   "images": [
-    "http://www.beateschnorrenberger.de/images/_MG_8340.jpg"
+    "/images/entries/beate-schnorrenberger/0.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Wie kann ich Beate Schnorrenberger kontaktieren?",
       "answer": "Sie können Beate Schnorrenberger telefonisch unter 03089201777 oder per E-Mail an mail@beateschnorrenberger.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfZjdKl5aqEcR9pcdn8-4ctk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

@@ -26,6 +26,9 @@
   "phone": "01796782436",
   "website": "http://osteopathie-lehnert.de/",
   "bookingUrl": "https://www.osteopathie-lehnert.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBz9qlac3qEcRfFW_WoZczXA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -190,7 +193,7 @@
     }
   ],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1080,height=567/image/351890433/3f04bfa8-f42a-4655-907e-4904ebb4f0a2.jpg"
+    "/images/entries/praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -209,8 +212,5 @@
       "question": "Gibt es Öffnungszeiten für die Praxis?",
       "answer": "Die Praxis führt eine reine Bestellpraxis ohne Rezeption, daher sind keine festen Öffnungszeiten angegeben. Terminabsprachen sind nur telefonisch oder per SMS möglich."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBz9qlac3qEcRfFW_WoZczXA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

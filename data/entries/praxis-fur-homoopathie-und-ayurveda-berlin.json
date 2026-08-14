@@ -26,6 +26,9 @@
   "phone": "017684973438",
   "website": "https://www.homoeopathie-ayurveda-berlin.de/",
   "bookingUrl": "https://www.homoeopathie-ayurveda-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRyjxTZRqEcRbdJT04V4vUE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 46,
   "openingHours": [
     {
       "day": "Monday",
@@ -109,11 +112,11 @@
     }
   ],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=367x10000:format=jpg/path/s97a9a6c9549da2fb/image/ic2eab76682585614/version/1763950649/heilpraktikerin-annemarie-rafiq-inhaberin-der-praxis-f%C3%BCr-hom%C3%B6opathie-ayurveda-berlin.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=260x10000:format=png/path/s97a9a6c9549da2fb/image/id25ca138b08219a9/version/1762889176/ayurveda-grippezeit-vogelgrippe.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=276x10000:format=jpg/path/s97a9a6c9549da2fb/image/i35168f8591c0b160/version/1764005758/ayurveda-massage.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=247x10000:format=jpg/path/s97a9a6c9549da2fb/image/iaa21b8bfd712772d/version/1764004776/hitzewallung-wechseljahre.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=217x10000:format=jpg/path/s97a9a6c9549da2fb/image/ia8d01dc90dc22a4c/version/1747294407/schwangerschafts-massage.jpg"
+    "/images/entries/praxis-fur-homoopathie-und-ayurveda-berlin/0.webp",
+    "/images/entries/praxis-fur-homoopathie-und-ayurveda-berlin/1.webp",
+    "/images/entries/praxis-fur-homoopathie-und-ayurveda-berlin/2.webp",
+    "/images/entries/praxis-fur-homoopathie-und-ayurveda-berlin/3.webp",
+    "/images/entries/praxis-fur-homoopathie-und-ayurveda-berlin/4.webp"
   ],
   "faq": [
     {
@@ -136,8 +139,5 @@
       "question": "Wie hoch sind die Kosten für eine Erstanamnese?",
       "answer": "Die Kosten für eine Erstanamnese für Erwachsene betragen 200 € und für Kinder bis 14 Jahren 160 €, jeweils abhängig vom Zeitaufwand."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrRyjxTZRqEcRbdJT04V4vUE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 46
+  ]
 }

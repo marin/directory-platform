@@ -25,6 +25,7 @@
   "phone": "03028866569",
   "website": "http://heilweg.de/",
   "bookingUrl": "https://calendly.com/susanschubert/kurze-session-klon",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKy2lxOqEcRpmXxMMzBALk",
   "openingHours": [
     {
       "day": "Monday",
@@ -124,7 +125,7 @@
     }
   ],
   "images": [
-    "https://heilweg.de/wp-content/uploads/Kopie-von-Hintergrund-Titel-HP-6.png"
+    "/images/entries/heilpraktiker-und-gesundheitscoach-berlin-susan-schubert/0.webp"
   ],
   "faq": [
     {
@@ -147,6 +148,5 @@
       "question": "Wie kann ich mehr über die Methoden von Susan Schubert erfahren?",
       "answer": "Sie können mehr über die Methoden und Ansätze von Susan Schubert auf ihrer Website heilweg.de erfahren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8wKy2lxOqEcRpmXxMMzBALk"
+  ]
 }

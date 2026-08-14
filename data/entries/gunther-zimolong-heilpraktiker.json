@@ -26,6 +26,9 @@
   "email": "gunther@heilpraxis-zimolong.de",
   "website": "http://www.heilpraxis-zimolong.de/",
   "bookingUrl": "https://www.heilpraxis-zimolong.de/sprechzeiten.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1900oTFaqEcRk9hZUsg4Aoc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -50,11 +53,11 @@
   ],
   "offers": [],
   "images": [
-    "https://www.heilpraxis-zimolong.de/designs/design612/color5/keyvisuals/keyv100.jpg",
-    "https://www.heilpraxis-zimolong.de/mediapool/47/472443/resources/slogan_612_5_0.png",
-    "https://www.heilpraxis-zimolong.de/mediapool/47/472443/resources/tree/5596666_857483306c.png",
-    "https://www.heilpraxis-zimolong.de/mediapool/47/472443/resources/tree/9765471_120331918.png",
-    "https://www.heilpraxis-zimolong.de/mediapool/47/472443/resources/tree/9765420_1877587161.png"
+    "/images/entries/gunther-zimolong-heilpraktiker/0.webp",
+    "/images/entries/gunther-zimolong-heilpraktiker/1.webp",
+    "/images/entries/gunther-zimolong-heilpraktiker/2.webp",
+    "/images/entries/gunther-zimolong-heilpraktiker/3.webp",
+    "/images/entries/gunther-zimolong-heilpraktiker/4.webp"
   ],
   "faq": [
     {
@@ -77,8 +80,5 @@
       "question": "Wo befindet sich die Heilpraxis Zimolong?",
       "answer": "Die Heilpraxis Zimolong befindet sich in Berlin, im Stadtteil Steglitz-Zehlendorf, in der Heilpraxis Zimolong im Innenhof, 14169 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ1900oTFaqEcRk9hZUsg4Aoc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

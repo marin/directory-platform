@@ -26,6 +26,9 @@
   "email": "anja.baeumer@raum-fuer-vertrauen.de",
   "website": "https://raum-fuer-vertrauen.de/",
   "bookingUrl": "https://calendly.com/anja-baeumer/kennenlernen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS0_wuTBJqEcR08Vo0ktMa6A",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -54,11 +57,11 @@
     }
   ],
   "images": [
-    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Selbstwertgefuehl.jpg",
-    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Paar_jung.jpg",
-    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Gluecklich.jpg",
-    "https://raum-fuer-vertrauen.de/wp-content/uploads/2023/05/Optimiert.jpg",
-    "https://raum-fuer-vertrauen.de/wp-content/uploads/2021/09/Anker_innerer_Frieden.svg"
+    "/images/entries/anja-baumer-raum-fur-vertrauen/0.webp",
+    "/images/entries/anja-baumer-raum-fur-vertrauen/1.webp",
+    "/images/entries/anja-baumer-raum-fur-vertrauen/2.webp",
+    "/images/entries/anja-baumer-raum-fur-vertrauen/3.webp",
+    "/images/entries/anja-baumer-raum-fur-vertrauen/4.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Hat die Praxis von Anja Bäumer Öffnungszeiten?",
       "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben. Es wird empfohlen, einen Termin zu buchen oder direkt Kontakt aufzunehmen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJS0_wuTBJqEcR08Vo0ktMa6A",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  ]
 }

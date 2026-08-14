@@ -26,6 +26,9 @@
   "email": "info@heilpraxis-heidorn.de",
   "website": "http://heilpraxis-heidorn.de/",
   "bookingUrl": "https://heilpraxis-heidorn.de/wp/index.php/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJdnYUMpbqEcRdCj3RHWChZM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -54,11 +57,11 @@
     }
   ],
   "images": [
-    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/ion-dunkelfeld-150x150.png",
-    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/02/portrait-carolin-heidorn-03-400x658.jpg",
-    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/02/karte-footer-04.jpg",
-    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/logo-heidorn-228x117-gruen-02.png",
-    "https://heilpraxis-heidorn.de/wp/wp-content/uploads/2021/01/logo-heidorn-456x234-weiss.png"
+    "/images/entries/heilpraxis-heidorn/0.webp",
+    "/images/entries/heilpraxis-heidorn/1.webp",
+    "/images/entries/heilpraxis-heidorn/2.webp",
+    "/images/entries/heilpraxis-heidorn/3.webp",
+    "/images/entries/heilpraxis-heidorn/4.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Hat die Heilpraxis Heidorn feste Öffnungszeiten?",
       "answer": "Im Moment sind keine festen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJdnYUMpbqEcRdCj3RHWChZM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

@@ -25,6 +25,9 @@
   },
   "phone": "01785513691",
   "website": "http://www.osteopathie-friedrichshagen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpXiG6OA3qEcR-WFoe9gPcEM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,7 +62,7 @@
     }
   ],
   "images": [
-    "https://static.ghost.org/v4.0.0/images/feature-image.jpg"
+    "/images/entries/osteopathie-friedrichshagen/0.webp"
   ],
   "faq": [
     {
@@ -78,8 +81,5 @@
       "question": "Bietet die Praxis spezielle Dienstleistungen an?",
       "answer": "Aktuell wird auf der Website ein Angebot mit dem Titel 'Coming soon' angezeigt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpXiG6OA3qEcR-WFoe9gPcEM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

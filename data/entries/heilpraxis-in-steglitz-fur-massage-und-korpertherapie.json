@@ -25,6 +25,7 @@
   "phone": "03039370803",
   "website": "http://www.heilpraxis-valenti-clari.de/",
   "bookingUrl": "https://heilpraxis-valenti-clari.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJczvpEHFQqEcR6q9kq_a2qJQ",
   "openingHours": [
     {
       "day": "Monday",
@@ -95,10 +96,10 @@
     }
   ],
   "images": [
-    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/heilpraxis-valenti-clari-238x300.jpg",
-    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2026/08/wellness-massage-friedenau.jpg",
-    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/naturheilpraxis-friedenau.png",
-    "https://heilpraxis-valenti-clari.de/wp-content/uploads/2019/08/heilpraxis-valenti-clari.jpg"
+    "/images/entries/heilpraxis-in-steglitz-fur-massage-und-korpertherapie/0.webp",
+    "/images/entries/heilpraxis-in-steglitz-fur-massage-und-korpertherapie/1.webp",
+    "/images/entries/heilpraxis-in-steglitz-fur-massage-und-korpertherapie/2.webp",
+    "/images/entries/heilpraxis-in-steglitz-fur-massage-und-korpertherapie/3.webp"
   ],
   "faq": [
     {
@@ -121,6 +122,5 @@
       "question": "Wie viel kosten die Massagen?",
       "answer": "Die Preise für die Massagen liegen zwischen 75,00 EUR für 60 Minuten und 100,00 EUR für 90 Minuten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJczvpEHFQqEcR6q9kq_a2qJQ"
+  ]
 }

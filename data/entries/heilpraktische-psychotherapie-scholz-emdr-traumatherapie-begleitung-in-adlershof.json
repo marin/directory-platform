@@ -27,6 +27,9 @@
   "phone": "015110423530",
   "website": "https://kreativgeloest.com/traumatherapie-in-berlin/",
   "bookingUrl": "https://kreativgeloest.com/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4ihkS1HqEcRLdAVIqvLk5k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -81,11 +84,11 @@
     }
   ],
   "images": [
-    "https://kreativgeloest.com/wp-content/uploads/2025/04/Traumatherapie-Berlin-1180x530.jpg",
-    "https://kreativgeloest.com/wp-content/uploads/2020/09/2890d-img_0687.jpg",
-    "https://kreativgeloest.com/wp-content/uploads/2024/02/Hypno-Methode.jpg",
-    "https://kreativgeloest.com/wp-content/uploads/2019/08/kreativgeloest.de_.png",
-    "https://kreativgeloest.com/wp-content/uploads/2025/04/Traumatherapie-Berlin.jpg"
+    "/images/entries/heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof/0.webp",
+    "/images/entries/heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof/1.webp",
+    "/images/entries/heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof/2.webp",
+    "/images/entries/heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof/3.webp",
+    "/images/entries/heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof/4.webp"
   ],
   "faq": [
     {
@@ -108,8 +111,5 @@
       "question": "Welche Probleme werden in der Therapie behandelt?",
       "answer": "In der Therapie werden unter anderem PTBS, stressbedingte Depressionen, Angststörungen und Burnout behandelt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU4ihkS1HqEcRLdAVIqvLk5k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  ]
 }

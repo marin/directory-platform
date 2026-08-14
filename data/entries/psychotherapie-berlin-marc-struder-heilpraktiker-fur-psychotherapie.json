@@ -26,6 +26,7 @@
   "phone": "015112997658",
   "website": "https://www.marcstrueder.de/",
   "bookingUrl": "https://marcstrueder.de/gespraechszugang/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf8wrsDFPqEcRWwMlCjIZKo8",
   "openingHours": [
     {
       "day": "Monday",
@@ -183,11 +184,11 @@
     }
   ],
   "images": [
-    "https://marcstrueder.de/wp-content/uploads/2025/03/scribble.png",
-    "https://marcstrueder.de/wp-content/uploads/2025/03/marc2.png",
-    "https://marcstrueder.de/wp-content/uploads/2024/04/home-2-150x150.png",
-    "https://marcstrueder.de/wp-content/uploads/2024/04/home-1.png",
-    "https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+    "/images/entries/psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie/0.webp",
+    "/images/entries/psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie/1.webp",
+    "/images/entries/psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie/2.webp",
+    "/images/entries/psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie/3.webp",
+    "/images/entries/psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -210,6 +211,5 @@
       "question": "Welche Themen werden in der Therapie behandelt?",
       "answer": "In der Therapie werden Themen wie Ängste und Blockaden, Burn-Out, Depressionen, Trauer, Trauma, Lebensveränderungen sowie langanhaltende Körperbeschwerden behandelt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJf8wrsDFPqEcRWwMlCjIZKo8"
+  ]
 }

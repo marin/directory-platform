@@ -26,6 +26,7 @@
   "phone": "015126247821",
   "email": "info@psychotherapie-atem-voss.de",
   "website": "http://psychotherapie-atem-voss.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBY1FQG9TqEcRIjaqAiTeHYE",
   "openingHours": [],
   "offers": [
     {
@@ -46,7 +47,7 @@
     }
   ],
   "images": [
-    "http://psychotherapie-atem-voss.de/wp-content/uploads/2014/04/Psychotherapie-1-211x300.jpg"
+    "/images/entries/regina-voss-heilpraktikerin-fur-psychotherapie-entspannungs-und-atemtherapie/0.webp"
   ],
   "faq": [
     {
@@ -69,6 +70,5 @@
       "question": "Was ist das Ziel der Therapie bei Regina Voß?",
       "answer": "Das Ziel der Therapie ist es, Sorgen aus verschiedenen Perspektiven zu betrachten, Konflikte zu klären und die Lebenszufriedenheit zu erhöhen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJBY1FQG9TqEcRIjaqAiTeHYE"
+  ]
 }

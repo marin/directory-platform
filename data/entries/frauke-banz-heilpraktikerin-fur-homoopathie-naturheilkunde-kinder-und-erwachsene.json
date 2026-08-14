@@ -25,14 +25,17 @@
   },
   "phone": "03042083441",
   "website": "http://www.frauke-banz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmRI0xOJPqEcRsR4nttg1-w4",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 11,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=327x10000:format=jpg/path/s8f6d2f6b26671b49/image/i47611130ac13a7a9/version/1777400066/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=340x10000:format=jpg/path/s8f6d2f6b26671b49/image/id4689de2d4e212a7/version/1750458173/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=339x10000:format=jpg/path/s8f6d2f6b26671b49/image/i9b4b4d07ceea2797/version/1750458225/image.jpg",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=59x10000:format=png/path/s8f6d2f6b26671b49/image/i8b73c51ee373c822/version/1750611796/image.png",
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=360x10000:format=png/path/s8f6d2f6b26671b49/image/ia9015cf0157696c4/version/1785938569/image.png"
+    "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/0.webp",
+    "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/1.webp",
+    "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/2.webp",
+    "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/3.webp",
+    "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/4.webp"
   ],
   "faq": [
     {
@@ -55,8 +58,5 @@
       "question": "Gibt es spezielle Öffnungszeiten für die Praxis von Frauke Banz?",
       "answer": "Im bereitgestellten Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJmRI0xOJPqEcRsR4nttg1-w4",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 11
+  ]
 }

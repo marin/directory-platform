@@ -26,6 +26,9 @@
   "email": "praxis@naturheilpraxis-launhardt.de",
   "website": "https://www.naturheilpraxis-launhardt.de/",
   "bookingUrl": "https://www.naturheilpraxis-launhardt.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC-uA5u9QqEcR_laFC5My8t4",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 16,
   "openingHours": [],
   "offers": [
     {
@@ -42,7 +45,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-launhardt.de/wp-content/uploads/2022/03/praxislogo_1200x630px.png"
+    "/images/entries/naturheilpraxis-launhardt/0.webp"
   ],
   "faq": [
     {
@@ -65,8 +68,5 @@
       "question": "Wann hat die Naturheilpraxis Launhardt geöffnet?",
       "answer": "Die Öffnungszeiten der Naturheilpraxis Launhardt sind im Kontext nicht angegeben. Bitte kontaktieren Sie die Praxis direkt für Informationen zu den Öffnungszeiten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJC-uA5u9QqEcR_laFC5My8t4",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 16
+  ]
 }

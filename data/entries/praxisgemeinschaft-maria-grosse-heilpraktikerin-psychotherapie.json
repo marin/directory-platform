@@ -27,6 +27,9 @@
   "email": "maria_grosse@gmx.de",
   "website": "https://www.sinn-und-seele-coaching.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/maria-grosse?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTdvvjY1HqEcRK5n84hwLxrM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -94,11 +97,11 @@
     }
   ],
   "images": [
-    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/cddc168c-5aef-4c4a-bf29-e076db898741/l551,t0,w1328,h1328/image.jpg",
-    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/e94ddd42-9b14-474d-a9e1-8e270426c40a/l177,t0,w1328,h1328/image-768x768.jpg",
-    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/5b4fd1cb-8954-443b-a158-3feedf5790a8/l515,t0,w1328,h1328/image-768x768.jpg",
-    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/5a087cdc-8d27-425a-b35e-49c5465201b2/l420,t199,w1099,h1099/image-768x768.jpg",
-    "https://www.sinn-und-seele-coaching.de/wp-content/uploads/go-x/u/28401bac-41b7-47bb-87dc-eb39cd6a7ae2/l672,t0,w1328,h1328/image-768x768.jpg"
+    "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/0.webp",
+    "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/1.webp",
+    "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/2.webp",
+    "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/3.webp",
+    "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/4.webp"
   ],
   "faq": [
     {
@@ -121,8 +124,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 01722882018 oder per E-Mail an maria_grosse@gmx.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTdvvjY1HqEcRK5n84hwLxrM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 19
+  ]
 }

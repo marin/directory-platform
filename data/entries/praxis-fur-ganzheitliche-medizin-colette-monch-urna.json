@@ -24,6 +24,9 @@
   },
   "phone": "03081702831",
   "website": "https://www.naturheilpraxis-colettemoench.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuxbtuRFRqEcRxvufai7BwzA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 75,
   "openingHours": [
     {
       "day": "Monday",
@@ -48,7 +51,7 @@
   ],
   "offers": [],
   "images": [
-    "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=crop,format=auto,width=1200,height=630/image/350179830/00f856fb-475d-4417-99df-0ce9d4e0b0db.jpg"
+    "/images/entries/praxis-fur-ganzheitliche-medizin-colette-monch-urna/0.webp"
   ],
   "faq": [
     {
@@ -71,8 +74,5 @@
       "question": "Wie wird in der Praxis mit Patienten umgegangen?",
       "answer": "In der Praxis wird der Patient als Ganzes betrachtet, wobei individuelle Lebensweise, persönliches Befinden und zwischenmenschliche Beziehungen in die Behandlung einfließen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuxbtuRFRqEcRxvufai7BwzA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 75
+  ]
 }

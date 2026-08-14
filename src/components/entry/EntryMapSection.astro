@@ -1,0 +1,80 @@
+---
+import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+import { resolveEntryMapUrls } from "../../lib/geo/map-urls.ts";
+
+interface Props {
+  entry: NormalizedEntry;
+}
+
+const { entry } = Astro.props;
+const { embedUrl, directionsUrl, listingUrl } = resolveEntryMapUrls({
+  geo: entry.geo,
+  googleMapsUrl: entry.googleMapsUrl,
+  formattedAddress: entry.nap.formattedAddress,
+});
+const hasMap = Boolean(entry.geo && embedUrl);
+---
+
+{
+  hasMap && (
+    <section aria-labelledby="map-heading" data-testid="entry-map-section">
+      <h2 id="map-heading">Anfahrt</h2>
+      {entry.nap.formattedAddress && (
+        <p class="muted" data-testid="map-address">{entry.nap.formattedAddress}</p>
+      )}
+      <div class="map-embed">
+        <iframe
+          title={`Karte: ${entry.nap.name}`}
+          src={embedUrl}
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          data-testid="map-embed"
+        />
+      </div>
+      <p class="map-actions">
+        {directionsUrl && (
+          <a
+            href={directionsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-testid="map-directions-link"
+          >
+            Route in Google Maps planen
+          </a>
+        )}
+        {listingUrl && (
+          <a
+            href={listingUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-testid="map-listing-link"
+          >
+            In Google Maps öffnen
+          </a>
+        )}
+      </p>
+    </section>
+  )
+}
+
+<style>
+  .map-embed {
+    margin: 1rem 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--color-surface);
+  }
+  .map-embed iframe {
+    display: block;
+    width: 100%;
+    height: 280px;
+    border: 0;
+  }
+  .map-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.25rem;
+    font-size: 0.9375rem;
+  }
+</style>

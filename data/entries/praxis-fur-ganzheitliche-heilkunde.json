@@ -26,6 +26,9 @@
   },
   "website": "http://www.einfachheilsein.de/",
   "bookingUrl": "https://www.einfachheilsein.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu1q3_uhOqEcRhEViW3GSzCE",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -140,8 +143,8 @@
     }
   ],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/65ef3d3a58b72d5254ef4cec/98018970-e479-4f0b-8f68-41d05e6e8d8d/Profilbild.jpg",
-    "http://static1.squarespace.com/static/65ef3d3a58b72d5254ef4cec/t/65f2eb1c9571b9694abbb6dc/1710418716328/Einfach+HeilSein-logo+%281%29.png?format=1500w"
+    "/images/entries/praxis-fur-ganzheitliche-heilkunde/0.webp",
+    "/images/entries/praxis-fur-ganzheitliche-heilkunde/1.webp"
   ],
   "faq": [
     {
@@ -164,8 +167,5 @@
       "question": "In welchen Sprachen werden die Behandlungen angeboten?",
       "answer": "Die Behandlungen werden in Deutsch, Englisch und Französisch angeboten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJu1q3_uhOqEcRhEViW3GSzCE",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

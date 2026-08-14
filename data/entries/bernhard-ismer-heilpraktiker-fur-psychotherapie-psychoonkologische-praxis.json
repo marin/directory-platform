@@ -26,11 +26,14 @@
   "phone": "017684287254",
   "website": "http://www.heil-hypnose-therapie.de/",
   "bookingUrl": "https://heil-hypnose-therapie.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwCtMuRRqEcR0sovgANcCPU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://heil-hypnose-therapie.de/img/bernhard_ismer.jpg",
-    "https://heil-hypnose-therapie.de/img/tel.gif"
+    "/images/entries/bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis/0.webp",
+    "/images/entries/bernhard-ismer-heilpraktiker-fur-psychotherapie-psychoonkologische-praxis/1.webp"
   ],
   "faq": [
     {
@@ -53,8 +56,5 @@
       "question": "Hat die Praxis von Bernhard Ismer Öffnungszeiten?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwwCtMuRRqEcR0sovgANcCPU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  ]
 }

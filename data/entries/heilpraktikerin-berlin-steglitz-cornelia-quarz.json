@@ -24,6 +24,9 @@
   },
   "phone": "03079782727",
   "website": "https://www.naturheilpraxis-steglitz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUWYoXb5aqEcRsPJNaZHEGVw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,7 +61,7 @@
     }
   ],
   "images": [
-    "https://www.naturheilpraxis-steglitz.de/images/24-jahre-naturheilkunde.jpg"
+    "/images/entries/heilpraktikerin-berlin-steglitz-cornelia-quarz/0.webp"
   ],
   "faq": [
     {
@@ -81,8 +84,5 @@
       "question": "Wie kann ich einen Termin vereinbaren?",
       "answer": "Sie können ein persönliches Telefon-Vorgespräch vereinbaren, indem Sie die Telefonnummer 030 – 79782727 anrufen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUWYoXb5aqEcRsPJNaZHEGVw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

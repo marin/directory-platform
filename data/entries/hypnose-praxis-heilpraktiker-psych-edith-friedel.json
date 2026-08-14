@@ -27,6 +27,9 @@
   "phone": "01772727896",
   "email": "info@edithfriedel.de",
   "website": "https://edithfriedel.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcaovgDlRqEcRH4Wxmq_Bkys",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [
     {
@@ -35,10 +38,7 @@
     }
   ],
   "images": [
-    "http://edithfriedel.de/wp-content/uploads/2023/03/edith-im-park-neu-e1679575361287-244x300.jpg"
+    "/images/entries/hypnose-praxis-heilpraktiker-psych-edith-friedel/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJcaovgDlRqEcRH4Wxmq_Bkys",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  "faq": []
 }

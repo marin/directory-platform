@@ -26,6 +26,7 @@
   "email": "info@katrin-klauke.de",
   "website": "http://www.katrin-klauke.de/dw/doku.php?id=kontakt",
   "bookingUrl": "http://www.katrin-klauke.de/dw/doku.php?id=kontakt%20%22Adresse,%20Telefon%20&%20Email",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9PD983qEcR2fI4A-kZAlU",
   "openingHours": [],
   "offers": [
     {
@@ -78,7 +79,7 @@
     }
   ],
   "images": [
-    "http://www.katrin-klauke.de/dw/lib/exe/fetch.php?w=200&tok=c836c9&media=eingangb80imgp4314.jpg"
+    "/images/entries/katrin-klauke/0.webp"
   ],
   "faq": [
     {
@@ -101,6 +102,5 @@
       "question": "Gibt es spezielle Kurse, die Katrin Klauke anbietet?",
       "answer": "Ja, Katrin Klauke bietet Gruppenkurse in Berlin Friedrichshagen und Karlshorst an, die jeweils 10 Termine à 1,5 Stunden umfassen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__9PD983qEcR2fI4A-kZAlU"
+  ]
 }

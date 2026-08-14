@@ -25,6 +25,9 @@
   "phone": "03034501644",
   "email": "annette_ufermann@gmx.de",
   "website": "http://www.naturheilpraxis-ufermann.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOeUsEjBRqEcRSYFzDKYdZgA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,8 +62,8 @@
     }
   ],
   "images": [
-    "http://www.naturheilpraxis-ufermann.de/files/stacks_image_1404_1.png",
-    "http://www.naturheilpraxis-ufermann.de/files/stacks_image_1409_1.png"
+    "/images/entries/annette-ufermann/0.webp",
+    "/images/entries/annette-ufermann/1.webp"
   ],
   "faq": [
     {
@@ -79,8 +82,5 @@
       "question": "Welche Schwerpunkte hat die Praxis von Annette Ufermann?",
       "answer": "Die Schwerpunkte der Praxis sind Tinnitus, Allergien, Sportverletzungen, Probleme des Bewegungsapparats, Depressionen/Burn Out, Panikattacken/Prüfungsangst, unerfüllter Kinderwunsch, Raucherentwöhnung, Hauterkrankungen und Übergewicht/Adipositas."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOeUsEjBRqEcRSYFzDKYdZgA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

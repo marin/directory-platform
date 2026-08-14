@@ -29,6 +29,9 @@
   "email": "naturheilpraxis-boldt@web.de",
   "website": "http://www.naturheilpraxis-boldt.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/christian-boldt?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnd1LQTBMqEcRJNWNdyX3dXc",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 15,
   "openingHours": [
     {
       "day": "Monday",
@@ -87,7 +90,7 @@
     }
   ],
   "images": [
-    "https://naturheilpraxis-boldt.de/wp-content/uploads/2022/09/DSC_81291-scaled.jpg"
+    "/images/entries/naturheilpraxis-boldt/0.webp"
   ],
   "faq": [
     {
@@ -106,8 +109,5 @@
       "question": "Bietet die Naturheilpraxis Boldt auch Videosprechstunden an?",
       "answer": "Ja, in der Naturheilpraxis Boldt sind auch Videosprechstunden möglich."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJnd1LQTBMqEcRJNWNdyX3dXc",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 15
+  ]
 }

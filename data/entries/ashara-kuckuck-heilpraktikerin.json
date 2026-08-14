@@ -26,6 +26,9 @@
   "email": "info@asharakuckuck.de",
   "website": "http://www.asharakuckuck.de/",
   "bookingUrl": "https://www.doctolib.de/praxis/berlin/praxis-von-ashara-kuckuck-streich-nadine?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoUcaujhQqEcR5SlCr4LGxzo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [],
   "offers": [
     {
@@ -46,7 +49,7 @@
     }
   ],
   "images": [
-    "https://www.asharakuckuck.de/webyep-system/data/12-im-Bild-3486.jpg"
+    "/images/entries/ashara-kuckuck-heilpraktikerin/0.webp"
   ],
   "faq": [
     {
@@ -65,8 +68,5 @@
       "question": "Wie kann ich Ashara Kuckuck kontaktieren?",
       "answer": "Sie können Ashara Kuckuck per E-Mail unter info@asharakuckuck.de oder telefonisch unter 0307883645 kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoUcaujhQqEcR5SlCr4LGxzo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  ]
 }

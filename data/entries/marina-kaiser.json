@@ -26,13 +26,16 @@
   "email": "marina.kaiser111@gmail.com",
   "website": "http://www.marina-kaiser.de/",
   "bookingUrl": "https://marina-kaiser.de/qualifikationen-und-meine-wege",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2YJfctREqEcR58QKJuJusX4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/02/heilende-Wege-schmal.jpg?resize=559%2C128&ssl=1",
-    "https://i0.wp.com/marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?resize=394%2C482&ssl=1",
-    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg",
-    "https://marina-kaiser.de/wp-content/uploads/2023/01/willkommen_im_Tor.jpg?w=640"
+    "/images/entries/marina-kaiser/0.webp",
+    "/images/entries/marina-kaiser/1.webp",
+    "/images/entries/marina-kaiser/2.webp",
+    "/images/entries/marina-kaiser/3.webp"
   ],
   "faq": [
     {
@@ -55,8 +58,5 @@
       "question": "Gibt es spezielle Öffnungszeiten für die Praxis?",
       "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben. Es wird empfohlen, die Webseite zu besuchen oder direkt Kontakt aufzunehmen, um Informationen zu den Öffnungszeiten zu erhalten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2YJfctREqEcR58QKJuJusX4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

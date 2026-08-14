@@ -25,6 +25,9 @@
   "phone": "01634004129",
   "email": "info@estherviedt.de",
   "website": "http://www.cantienicaberlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzTRNAl9aqEcR8NRLeFWh7sM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -57,11 +60,11 @@
     }
   ],
   "images": [
-    "https://estherviedt.de/wp-content/uploads/2019/06/Urlaub_770px-310x184.png",
-    "https://estherviedt.de/wp-content/uploads/2014/04/IMG_9150_770px-310x207.jpg",
-    "https://estherviedt.de/wp-content/uploads/2014/12/IMG_9163_770px-310x178.jpg",
-    "https://estherviedt.de/wp-content/uploads/2014/03/IMG_9141_heller_770px-310x173.jpg",
-    "https://estherviedt.de/wp-content/uploads/2014/03/IMG_6268_02_770px-310x206.jpg"
+    "/images/entries/cantienica-berlin-esther-viedt-heilpraktikerin/0.webp",
+    "/images/entries/cantienica-berlin-esther-viedt-heilpraktikerin/1.webp",
+    "/images/entries/cantienica-berlin-esther-viedt-heilpraktikerin/2.webp",
+    "/images/entries/cantienica-berlin-esther-viedt-heilpraktikerin/3.webp",
+    "/images/entries/cantienica-berlin-esther-viedt-heilpraktikerin/4.webp"
   ],
   "faq": [
     {
@@ -84,8 +87,5 @@
       "question": "Wie kann ich Esther Viedt kontaktieren?",
       "answer": "Sie können Esther Viedt telefonisch unter 01634004129 oder per E-Mail an info@estherviedt.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzTRNAl9aqEcR8NRLeFWh7sM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

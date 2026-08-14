@@ -26,6 +26,9 @@
   "email": "praxis@beate-brandt.de",
   "website": "http://heilpraktikerin-beate-brandt.de/",
   "bookingUrl": "https://www.heilpraktikerin-beate-brandt.de/?page_id=29",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRNTd9ZbxyYiw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [
     {
@@ -34,10 +37,10 @@
     }
   ],
   "images": [
-    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxis-am-schlachtensee.jpg",
-    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxisraum-beate-brandt.jpg",
-    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2016/07/praxis-beate-brandt.jpg",
-    "https://www.heilpraktikerin-beate-brandt.de/wp-content/uploads/2013/08/terminvereinbarung.jpg"
+    "/images/entries/heilpraktikerin-beate-brandt/0.webp",
+    "/images/entries/heilpraktikerin-beate-brandt/1.webp",
+    "/images/entries/heilpraktikerin-beate-brandt/2.webp",
+    "/images/entries/heilpraktikerin-beate-brandt/3.webp"
   ],
   "faq": [
     {
@@ -60,8 +63,5 @@
       "question": "Bietet Beate Brandt ein kostenloses Informationsgespräch an?",
       "answer": "Ja, Beate Brandt bietet ein kostenloses, unverbindliches Informationsgespräch an, um sich näher kennenzulernen."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL5vkZjNaqEcRNTd9ZbxyYiw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

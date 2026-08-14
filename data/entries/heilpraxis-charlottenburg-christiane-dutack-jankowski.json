@@ -25,6 +25,7 @@
   "phone": "03034508838",
   "email": "info@heilpraxis-charlottenburg.de",
   "website": "https://www.heilpraxis-charlottenburg.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9e7x_R5RqEcRNJUkEDw145A",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,7 +55,7 @@
   ],
   "offers": [],
   "images": [
-    "https://www.heilpraxis-charlottenburg.de/christianedutack.jpg"
+    "/images/entries/heilpraxis-charlottenburg-christiane-dutack-jankowski/0.webp"
   ],
   "faq": [
     {
@@ -77,6 +78,5 @@
       "question": "Was ist der Schwerpunkt der Arbeit von Christiane Dutack-Jankowski?",
       "answer": "Christiane Dutack-Jankowski legt einen Schwerpunkt auf hormonelle Veränderungen, Stressmanagement, Erkrankungen des Bewegungsapparates, Sexualtherapie sowie die Wertschätzung ungeliebter Persönlichkeitsanteile."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ9e7x_R5RqEcRNJUkEDw145A"
+  ]
 }

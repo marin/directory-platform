@@ -25,6 +25,7 @@
   "phone": "01785500325",
   "website": "https://www.osmosstudio.com/louisa-liebgott-german-breathwork",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/louisa-liebgott?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwU4Aot5PqEcRB2nYFeHa3mc",
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +55,7 @@
   ],
   "offers": [],
   "images": [
-    "http://images.squarespace-cdn.com/content/v1/682dc0f7fc37e74af42e4147/b48667c8-80cc-4e72-bc7b-a9227fc2afe6/Osmos+Logo+ready+no+name.png?format=1500w"
+    "/images/entries/heilpraktikerin-louisa-liebgott/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwU4Aot5PqEcRB2nYFeHa3mc"
+  "faq": []
 }

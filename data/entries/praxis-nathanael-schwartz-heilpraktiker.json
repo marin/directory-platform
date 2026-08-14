@@ -26,12 +26,15 @@
   "phone": "0308263753",
   "email": "info@living-homeopathy.net",
   "website": "http://www.living-homeopathy.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJp5lOvKRQqEcRxuA_S9YPXGY",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 6,
   "openingHours": [],
   "offers": [],
   "images": [
-    "https://images.squarespace-cdn.com/content/v1/67b885c7b1cb0337b56391cd/1740146124229-E1RRS4QBPJSP7YC6MEVB/57a399c4_gr%C3%B6sser_sRGB.jpg",
-    "https://images.squarespace-cdn.com/content/v1/67b885c7b1cb0337b56391cd/1c8062c8-5efc-4c5e-9b1d-192beb056a0e/IMG_5768_LR.jpg",
-    "http://static1.squarespace.com/static/67b885c7b1cb0337b56391cd/t/67b885d1b1cb0337b563933d/1699522434167/Stempelgro%C3%9F-gr%C3%B6sser-ret+Kopie.png?format=1500w"
+    "/images/entries/praxis-nathanael-schwartz-heilpraktiker/0.webp",
+    "/images/entries/praxis-nathanael-schwartz-heilpraktiker/1.webp",
+    "/images/entries/praxis-nathanael-schwartz-heilpraktiker/2.webp"
   ],
   "faq": [
     {
@@ -50,8 +53,5 @@
       "question": "Welche Kategorien deckt die Praxis ab?",
       "answer": "Die Praxis Nathanael Schwartz deckt die Kategorien Homöopathie und Naturheilkunde ab."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJp5lOvKRQqEcRxuA_S9YPXGY",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 6
+  ]
 }

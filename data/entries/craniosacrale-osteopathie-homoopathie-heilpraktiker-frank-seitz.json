@@ -28,6 +28,9 @@
   "email": "info@seitzpraxis.de",
   "website": "https://www.seitzpraxis.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/frank-seitz?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL6cL8tlPqEcR4wicNK31PMw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -67,8 +70,8 @@
     }
   ],
   "images": [
-    "https://www.seitzpraxis.de/wp-content/uploads/2013/01/1-titelbild1-1.jpg",
-    "https://www.seitzpraxis.de/wp-content/uploads/2024/02/praxis-innen.jpg"
+    "/images/entries/craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz/0.webp",
+    "/images/entries/craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz/1.webp"
   ],
   "faq": [
     {
@@ -91,8 +94,5 @@
       "question": "Für welche Beschwerden kann ich die Praxis aufsuchen?",
       "answer": "Die Praxis unterstützt Menschen mit Schmerzen, stressbedingten Beschwerden und chronischen Erkrankungen, einschließlich Rücken- und Nackenschmerzen, Bandscheibenproblemen, Kieferbeschwerden, Tinnitus, Kopfschmerzen, Migräne, Schwindel, Schlafstörungen und Stress."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJL6cL8tlPqEcR4wicNK31PMw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  ]
 }

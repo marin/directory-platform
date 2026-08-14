@@ -27,6 +27,9 @@
   "email": "info@luisebomke.de",
   "website": "https://luisebomke.de/",
   "bookingUrl": "https://luisebomke.de/sprechstunde",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi4LRNz9PqEcRHpGroM0Lrao",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -91,10 +94,10 @@
     }
   ],
   "images": [
-    "https://luisebomke.de/wp-content/uploads/2024/08/IMG_20211031_091159-scaled-e1765133968447-190x300.jpg",
-    "https://luisebomke.de/wp-content/uploads/2026/03/google-rezensionen-luise-bomke-kognitive-verhaltenstherapie.jpg",
-    "https://luisebomke.de/wp-content/uploads/2023/12/VFP_Siegel-300x289.png",
-    "https://og.zeeg.me/v1/event/09d92663-a174-41f4-aaaf-93d9911c0db0.png?d=eyJhY2NlbnQiOiIwMDk2ODgiLCJicmFuZEF2YXRhciI6bnVsbCwiZHVyYXRpb24iOjMwLCJoaWRlWmVlZ0JyYW5kaW5nIjpmYWxzZSwiaG9zdHMiOlt7ImF2YXRhciI6Imh0dHBzOi8vdXBsb2Fkcy56ZWVnLm1lL3VzZXIvYXZhdGFyL3JxNWl2ZWpsanpvM3Jvb3ppM3ZodGR6ZiIsImZpcnN0TmFtZSI6IlByYXhpcyBmw7xyIGtvZ25pdGl2ZSBWZXJoYWx0ZW5zdGhlcmFwaWUgfCIsImxhc3ROYW1lIjoiTHVpc2UgQm9ta2UgLSBIZWlscHJha3Rpa2VyaW4gZsO8ciBQc3ljaG90aGVyYXBpZSJ9XSwiaWQiOiIwOWQ5MjY2My1hMTc0LTQxZjQtYWFhZi05M2Q5OTExYzBkYjAiLCJraW5kIjoiT05FX09OX09ORSIsImxvY2FsZSI6ImRlIiwibG9jYXRpb24iOlsiSU5fUEVSU09OIl0sIm93bmVyTmFtZSI6IlByYXhpcyBmw7xyIGtvZ25pdGl2ZSBWZXJoYWx0ZW5zdGhlcmFwaWUgfCBMdWlzZSBCb21rZSAtIEhlaWxwcmFrdGlrZXJpbiBmw7xyIFBzeWNob3RoZXJhcGllIiwib3duZXJUeXBlIjoidXNlciIsInByaWNlIjpudWxsLCJzbHVnVXJsIjoiemVlZy5tZS9sdWlzZWJvbWtlL0tlbm5lbmxlcm5lbiIsInN1cmZhY2UiOiJldmVudCIsInRpdGxlIjoiS2VubmVubGVybmdlc3Byw6RjaCAtIGtvc3RlbmZyZWkgJiB1bnZlcmJpbmRsaWNoIn0&v=6b71ea1dcde3b4d8&s=hkfI4PT5UDsAdp7Zc95G-elKejWA7rkHwEKeQVhUoo4"
+    "/images/entries/praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth/0.webp",
+    "/images/entries/praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth/1.webp",
+    "/images/entries/praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth/2.webp",
+    "/images/entries/praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth/3.webp"
   ],
   "faq": [
     {
@@ -117,8 +120,5 @@
       "question": "Wie hoch sind die Kosten für eine reguläre Sitzung?",
       "answer": "Eine reguläre Sitzung in der Praxis kostet 90,00 € und dauert 50 Minuten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi4LRNz9PqEcRHpGroM0Lrao",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  ]
 }

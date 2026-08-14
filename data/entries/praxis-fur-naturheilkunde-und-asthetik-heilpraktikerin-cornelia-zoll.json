@@ -24,6 +24,9 @@
   },
   "phone": "015253629100",
   "website": "https://www.naturheilpraxis-cornelia-zoll.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjfvZkCVVqEcRkHFKqlRDBQM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -43,10 +46,7 @@
   ],
   "offers": [],
   "images": [
-    "https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/s71250a4d3cfc6d8c/image/i05fd5197ade46646/version/1556104215/image.jpg"
+    "/images/entries/praxis-fur-naturheilkunde-und-asthetik-heilpraktikerin-cornelia-zoll/0.webp"
   ],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJjfvZkCVVqEcRkHFKqlRDBQM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  "faq": []
 }

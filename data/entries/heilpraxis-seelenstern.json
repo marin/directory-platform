@@ -24,6 +24,9 @@
   },
   "phone": "024357656",
   "website": "http://www.seelenstern.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCEZ2hUqEcRc6zKI9fDHGU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,7 +56,7 @@
   ],
   "offers": [],
   "images": [
-    "https://seelenstern.de/wp-content/uploads/2024/03/seelenstern-heilpraxis-stephanie-krohn-portrait-gross.jpg"
+    "/images/entries/heilpraxis-seelenstern/0.webp"
   ],
   "faq": [
     {
@@ -76,8 +79,5 @@
       "question": "Wer ist die Heilpraktikerin der Heilpraxis Seelenstern?",
       "answer": "Die Heilpraktikerin der Heilpraxis Seelenstern ist Stephanie Krohn, die auch Lehrerin der authentischen Reiki ist."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQCEZ2hUqEcRc6zKI9fDHGU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

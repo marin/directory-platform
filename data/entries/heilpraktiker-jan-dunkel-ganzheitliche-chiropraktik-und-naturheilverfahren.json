@@ -31,6 +31,9 @@
   "email": "info@gesundsein-bewusstsein.de",
   "website": "https://www.gesundsein-bewusstsein.de/",
   "bookingUrl": "https://www.doctolib.de/chiropraktik/berlin/jan-dunkel?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAzqZYtFQqEcR1vInIYwErJk",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 52,
   "openingHours": [
     {
       "day": "Monday",
@@ -109,7 +112,7 @@
     }
   ],
   "images": [
-    "https://gesundsein-bewusstsein.de/wp-content/uploads/2025/06/jan.png"
+    "/images/entries/heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren/0.webp"
   ],
   "faq": [
     {
@@ -132,8 +135,5 @@
       "question": "Wie kann ich Jan Dunkel kontaktieren?",
       "answer": "Sie können Jan Dunkel telefonisch unter 0178 5348126 oder per E-Mail an info@gesundsein-bewusstsein.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAzqZYtFQqEcR1vInIYwErJk",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 52
+  ]
 }

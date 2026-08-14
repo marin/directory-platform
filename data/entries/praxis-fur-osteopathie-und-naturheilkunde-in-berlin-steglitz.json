@@ -29,6 +29,9 @@
   "email": "info@praxis-duve.de",
   "website": "https://www.praxis-duve.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/dagmar-duve?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbeWMWIZaqEcRekFW1mvWII8",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 23,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,8 +73,8 @@
     }
   ],
   "images": [
-    "https://www.datocms-assets.com/65923/1650271471-liege-4.png?auto=compress%2Cformat&blur=2000&fit=max&px=4&q=0&w=1200",
-    "https://www.datocms-assets.com/65923/1650271471-liege-4.png?auto=format&fit=max&w=1200"
+    "/images/entries/praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz/0.webp",
+    "/images/entries/praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz/1.webp"
   ],
   "faq": [
     {
@@ -94,8 +97,5 @@
       "question": "Wie kann ich die Praxis kontaktieren?",
       "answer": "Sie können die Praxis telefonisch unter 03041990247 oder per E-Mail an info@praxis-duve.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbeWMWIZaqEcRekFW1mvWII8",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 23
+  ]
 }
