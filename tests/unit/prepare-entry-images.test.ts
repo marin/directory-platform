@@ -86,6 +86,24 @@ describe("prepareEntryImages", () => {
     expect(result.warnings).toEqual([]);
   });
 
+  it("generates thumb from first local image even when not index 0", async () => {
+    const slug = "offset-praxis";
+    const localPath = `/images/entries/${slug}/1.webp`;
+    const absolutePath = join(publicDir, localPath);
+    mkdirSync(join(publicDir, "images/entries", slug), { recursive: true });
+    await sharp(FIXTURE_PNG).webp().toFile(absolutePath);
+
+    const result = await prepareEntryImages({
+      slug,
+      images: [localPath],
+      publicDir,
+      manifest: {},
+    });
+
+    expect(result.images).toEqual([localPath]);
+    expect(readFileSync(join(publicDir, `/images/entries/${slug}/thumb.webp`)).byteLength).toBeGreaterThan(0);
+  });
+
   it("persists manifest entries", () => {
     const manifestPath = join(tempDir, "manifest.json");
     saveImageManifest(manifestPath, { demo: [{ sourceUrl: "a", localPath: "/b", hash: "c" }] });

@@ -158,14 +158,13 @@ export async function prepareEntryImages(options: {
     }
   }
 
-  const thumbPath = entryThumbPath(slug);
-  const primaryPath = entryImagePath(slug, 0);
+  const primaryPath = localImages[0];
   if (
     !dryRun &&
-    localImages.includes(primaryPath) &&
+    primaryPath &&
     existsSync(join(publicDir, primaryPath))
   ) {
-    const thumbAbsolute = join(publicDir, thumbPath);
+    const thumbAbsolute = join(publicDir, entryThumbPath(slug));
     await writeOptimizedImage(
       readFileSync(join(publicDir, primaryPath)),
       thumbAbsolute,

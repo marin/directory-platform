@@ -56,7 +56,7 @@ export default defineSite({
   },
 
   pagination: {
-    categoryPageSize: 12,
-    areaPageSize: 12,
+    categoryPageSize: 36,
+    areaPageSize: 36,
   },
 });
