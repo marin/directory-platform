@@ -31,7 +31,7 @@
   "offers": [
     {
       "id": "offer-1",
-      "name": "Erster Termin mit Anamnese und <brkörperlicher Untersuchung 60 Min.",
+      "name": "Erster Termin mit Anamnese und körperlicher Untersuchung 60 Min.",
       "durationMinutes": 60,
       "durationLabel": "60 min",
       "price": 40,

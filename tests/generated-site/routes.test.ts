@@ -85,6 +85,37 @@ describe("generated site", () => {
     expect(linkCount).toBe(multiCategoryEntry.categories.length);
   });
 
+  it("renders HPP and children badges when copy supports them", () => {
+    const hppEntry = dataset.entries.find((entry) =>
+      /heilpraktiker(?:in)? für psychotherapie/i.test(entry.name),
+    );
+    const kinderEntry = dataset.entries.find((entry) =>
+      /kinderosteopathie/i.test(`${entry.name} ${entry.description}`),
+    );
+    expect(hppEntry).toBeDefined();
+    expect(kinderEntry).toBeDefined();
+
+    const hppHtml = readDist(
+      `${siteConfig.directory.entryRoute}/${hppEntry!.slug}/index.html`,
+    );
+    expect(hppHtml).toContain('data-testid="entry-badge-hpp"');
+    expect(hppHtml).toContain("Heilpraktiker für Psychotherapie");
+    expect(hppHtml).toContain('"medicalSpecialty":"Psychotherapie"');
+
+    const kinderHtml = readDist(
+      `${siteConfig.directory.entryRoute}/${kinderEntry!.slug}/index.html`,
+    );
+    expect(kinderHtml).toContain('data-testid="entry-badge-kinder"');
+    expect(kinderHtml).toContain("Behandelt Kinder");
+  });
+
+  it("links claim from profiles and names related listings by district", () => {
+    const html = readDist(`${siteConfig.directory.entryRoute}/${sampleEntry!.slug}/index.html`);
+    expect(html).toContain('data-testid="entry-claim"');
+    expect(html).toContain(`/eintrag-melden?eintrag=${encodeURIComponent(sampleEntry!.slug)}`);
+    expect(html).toMatch(/Weitere Heilpraktiker(?: für [^<]+)? in /);
+  });
+
   it("renders indication tags when entries are tagged", () => {
     const taggedEntry = dataset.entries.find(
       (entry) => entry.isOpen && (entry.indicationIds ?? []).length > 0,

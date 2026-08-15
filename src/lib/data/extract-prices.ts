@@ -1,3 +1,5 @@
+import { stripHtmlArtifacts } from "./strip-html-artifacts.ts";
+
 export type ExtractedOffer = {
   name: string;
   price?: number;
@@ -18,7 +20,7 @@ function parseGermanPrice(raw: string): number | undefined {
 }
 
 function cleanName(text: string): string {
-  return text
+  return stripHtmlArtifacts(text)
     .replace(/\|/g, " ")
     .replace(/[#>*`\[\]()]/g, "")
     .replace(/\s+/g, " ")

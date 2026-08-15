@@ -15,6 +15,12 @@ import {
   resolveCardImage,
   selectDisplayImages,
 } from "../../media/entry-images.ts";
+import {
+  ENTRY_BADGE_META,
+  extractEntryBadgeIds,
+  type EntryBadgeId,
+} from "../extract-badges.ts";
+import { sortEntriesByRichness } from "../entry-richness.ts";
 
 export interface EntryCardViewModel {
   slug: string;
@@ -31,6 +37,17 @@ export interface EntryCardViewModel {
   primaryImage?: string;
 }
 
+export interface EntryBadgeViewModel {
+  id: EntryBadgeId;
+  label: string;
+  href?: string;
+}
+
+export interface RelatedEntriesResult {
+  entries: NormalizedEntry[];
+  title: string;
+}
+
 export interface EntryViewModel {
   entry: NormalizedEntry;
   href: string;
@@ -39,6 +56,7 @@ export interface EntryViewModel {
   categories: Category[];
   areas: Area[];
   indications: Indication[];
+  badges: EntryBadgeViewModel[];
   stats: AggregateStats;
   images: string[];
   primaryImage?: string;
@@ -94,6 +112,7 @@ export function toEntryViewModel(
     : `Listed in ${siteConfig.site.name}.`;
   const images = selectDisplayImages(entry.images ?? []);
   const primaryImage = images[0] ?? entryImagePath(entry.slug, 0);
+  const psychotherapy = categories.find((item) => item.id === "psychotherapie");
 
   return {
     entry,
@@ -103,6 +122,10 @@ export function toEntryViewModel(
     categories: entryCategories,
     areas: entryAreas,
     indications: entryIndications,
+    badges: extractEntryBadgeIds(entry).map((id) => ({
+      ...ENTRY_BADGE_META[id],
+      href: id === "hpp" && psychotherapy ? categoryPath(psychotherapy.slug) : undefined,
+    })),
     stats,
     images,
     primaryImage: images.length > 0 ? primaryImage : undefined,
@@ -115,19 +138,101 @@ export function toEntryViewModel(
   };
 }
 
+export function categoryOpenCounts(entries: NormalizedEntry[]): Map<string, number> {
+  const counts = new Map<string, number>();
+  for (const item of entries) {
+    if (!item.isOpen) continue;
+    for (const id of item.categories) {
+      counts.set(id, (counts.get(id) ?? 0) + 1);
+    }
+  }
+  return counts;
+}
+
+export function mostSpecificCategoryId(
+  entry: Pick<NormalizedEntry, "categories">,
+  counts: Map<string, number>,
+): string | undefined {
+  if (entry.categories.length === 0) return undefined;
+  return [...entry.categories].sort((a, b) => {
+    const diff = (counts.get(a) ?? 0) - (counts.get(b) ?? 0);
+    if (diff !== 0) return diff;
+    return a.localeCompare(b);
+  })[0];
+}
+
+export function relatedCategoryId(
+  entry: Pick<NormalizedEntry, "categories">,
+  counts: Map<string, number>,
+): string | undefined {
+  const catchAll = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0]?.[0];
+  const focused = catchAll
+    ? entry.categories.filter((id) => id !== catchAll)
+    : entry.categories;
+  return mostSpecificCategoryId(
+    { categories: focused.length > 0 ? focused : entry.categories },
+    counts,
+  );
+}
+
+export function relatedEntriesTitle(categoryName?: string, areaName?: string): string {
+  const plural = siteConfig.directory.entryPlural;
+  if (categoryName && areaName) {
+    return `Weitere ${plural} für ${categoryName} in ${areaName}`;
+  }
+  if (areaName) return `Weitere ${plural} in ${areaName}`;
+  if (categoryName) return `Weitere ${plural} für ${categoryName}`;
+  return "Ähnliche Anbieter";
+}
+
+function sharesArea(
+  entry: Pick<NormalizedEntry, "areaIds">,
+  other: Pick<NormalizedEntry, "areaIds">,
+): boolean {
+  return (other.areaIds ?? []).some((id) => (entry.areaIds ?? []).includes(id));
+}
+
 export function getRelatedEntries(
   entry: NormalizedEntry,
   allEntries: NormalizedEntry[],
+  categories: Category[],
+  areas: Area[],
   limit = 4,
-): NormalizedEntry[] {
-  return allEntries
-    .filter(
-      (e) =>
-        e.isOpen &&
-        e.slug !== entry.slug &&
-        e.categories.some((c) => entry.categories.includes(c)),
-    )
-    .slice(0, limit);
+): RelatedEntriesResult {
+  const counts = categoryOpenCounts(allEntries);
+  const specificId = relatedCategoryId(entry, counts);
+  const categoryName = categories.find((item) => item.id === specificId)?.name;
+  const areaName = areas.find((item) => (entry.areaIds ?? []).includes(item.id))?.name;
+  const peers = allEntries.filter((item) => item.isOpen && item.slug !== entry.slug);
+
+  const sameAreaAndCategory = specificId
+    ? peers.filter((item) => item.categories.includes(specificId) && sharesArea(entry, item))
+    : [];
+  if (sameAreaAndCategory.length > 0) {
+    return {
+      entries: sortEntriesByRichness(sameAreaAndCategory).slice(0, limit),
+      title: relatedEntriesTitle(categoryName, areaName),
+    };
+  }
+
+  const sameArea = peers.filter(
+    (item) =>
+      sharesArea(entry, item) && item.categories.some((id) => entry.categories.includes(id)),
+  );
+  if (sameArea.length > 0) {
+    return {
+      entries: sortEntriesByRichness(sameArea).slice(0, limit),
+      title: relatedEntriesTitle(undefined, areaName),
+    };
+  }
+
+  const sameCategory = specificId
+    ? peers.filter((item) => item.categories.includes(specificId))
+    : peers.filter((item) => item.categories.some((id) => entry.categories.includes(id)));
+  return {
+    entries: sortEntriesByRichness(sameCategory).slice(0, limit),
+    title: relatedEntriesTitle(categoryName),
+  };
 }
 
 export function shouldIndexCategory(

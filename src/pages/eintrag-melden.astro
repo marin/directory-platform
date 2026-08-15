@@ -2,6 +2,9 @@
 import LegalLayout from "../layouts/LegalLayout.astro";
 import ContactForm from "../components/forms/ContactForm.astro";
 import siteConfig from "../../config/site.config.ts";
+
+const origin = siteConfig.site.origin.replace(/\/$/, "");
+const entryRoute = siteConfig.directory.entryRoute;
 ---
 
 <LegalLayout
@@ -17,6 +20,9 @@ import siteConfig from "../../config/site.config.ts";
     <li><strong>Neuer Eintrag</strong> — Ihre Praxis fehlt im Verzeichnis</li>
     <li><strong>Löschung</strong> — Sie möchten, dass Ihr Eintrag entfernt wird</li>
   </ul>
+  <p id="claim-listing-note" hidden data-testid="claim-listing-note">
+    Die Adresse des Profileintrags wird mit der Nachricht mitgeschickt.
+  </p>
   <p>
     Bitte nennen Sie in Ihrer Nachricht den Praxisnamen und — wenn möglich — die URL des betroffenen
     Eintrags auf unserer Website. Wir bearbeiten Anfragen in der Regel innerhalb von 5 Werktagen.
@@ -24,3 +30,16 @@ import siteConfig from "../../config/site.config.ts";
 
   <ContactForm subject="Eintrag korrigieren" />
 </LegalLayout>
+
+<script is:inline define:vars={{ origin, entryRoute }}>
+  const slug = new URLSearchParams(window.location.search).get("eintrag");
+  if (slug) {
+    const listingUrl = `${origin}/${entryRoute}/${slug}`;
+    const listingInput = document.getElementById("listing-url");
+    if (listingInput instanceof HTMLInputElement) listingInput.value = listingUrl;
+    const subject = document.querySelector('select[name="subject"]');
+    if (subject instanceof HTMLSelectElement) subject.value = "Eintrag beanspruchen";
+    const note = document.getElementById("claim-listing-note");
+    if (note) note.hidden = false;
+  }
+</script>

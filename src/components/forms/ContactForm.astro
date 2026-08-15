@@ -30,6 +30,7 @@ const { subject = "", showSubject = true } = Astro.props;
     </label>
   )}
   {!showSubject && subject && <input type="hidden" name="subject" value={subject} />}
+  <input type="hidden" name="listing_url" id="listing-url" />
 
   <label class="contact-form__field">
     <span>Name</span>

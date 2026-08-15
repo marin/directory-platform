@@ -15,6 +15,7 @@ import {
   shouldEmitAggregateRating,
 } from "../../geo/google-maps-rating.ts";
 import { getPrimaryImage } from "../../media/entry-images.ts";
+import { detectsHpp } from "../../data/extract-badges.ts";
 
 export function buildBreadcrumbList(
   items: Array<{ name: string; path: string }>,
@@ -81,6 +82,9 @@ export function buildListingJsonLd(
   );
   if (mapsListingUrl) business.hasMap = mapsListingUrl;
   if (entry.website) business.sameAs = [entry.website];
+  if (detectsHpp(entry)) {
+    business.medicalSpecialty = "Psychotherapie";
+  }
   if (indications.length > 0) {
     business.knowsAbout = indications.map((item) => ({
       "@type": "MedicalCondition",

@@ -232,4 +232,36 @@ describe("buildListingJsonLd", () => {
       { "@type": "MedicalCondition", name: "Kinderwunsch" },
     ]);
   });
+
+  it("adds medicalSpecialty for Heilpraktiker für Psychotherapie", () => {
+    const jsonLd = buildListingJsonLd(
+      {
+        id: "test",
+        slug: "test",
+        name: "Heilpraktikerin für Psychotherapie Beispiel",
+        description: "Praxis in Berlin.",
+        lastUpdated: "2026-08-15",
+        status: "open",
+        categories: ["psychotherapie"],
+        areaIds: [],
+        indicationIds: [],
+        openingHours: [],
+        offers: [],
+        images: [],
+        faq: [],
+        isOpen: true,
+        nap: {
+          name: "Heilpraktikerin für Psychotherapie Beispiel",
+          phone: undefined,
+          formattedPhone: undefined,
+          formattedAddress: undefined,
+        },
+      },
+      { id: "psychotherapie", slug: "psychotherapie", name: "Psychotherapie" },
+    );
+
+    const graph = (jsonLd as { "@graph": Record<string, unknown>[] })["@graph"];
+    const business = graph.find((node) => node["@type"] === "MedicalBusiness");
+    expect(business?.medicalSpecialty).toBe("Psychotherapie");
+  });
 });

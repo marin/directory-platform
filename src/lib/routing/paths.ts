@@ -36,3 +36,8 @@ export function homePath(): string {
 export function homeUrl(): string {
   return absoluteUrl("/");
 }
+
+export function claimPath(slug?: string): string {
+  if (!slug) return "/eintrag-melden";
+  return `/eintrag-melden?eintrag=${encodeURIComponent(slug)}`;
+}

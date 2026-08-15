@@ -106,6 +106,14 @@ const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
       .tag:hover { border-color: var(--color-accent); color: var(--color-accent); }
       .tag-static { cursor: default; }
       .tag-static:hover { border-color: var(--color-border); color: var(--color-text); }
+      .tag-badge {
+        background: #eff6ff;
+        border-color: #bfdbfe;
+        color: #1e40af;
+        font-weight: 600;
+      }
+      a.tag-badge:hover { border-color: var(--color-accent); color: var(--color-accent); }
+      span.tag-badge:hover { border-color: #bfdbfe; color: #1e40af; }
       .cta-bar {
         display: flex;
         flex-wrap: wrap;

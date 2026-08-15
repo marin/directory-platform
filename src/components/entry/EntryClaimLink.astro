@@ -1,0 +1,21 @@
+---
+import { claimPath } from "../../lib/routing/paths.ts";
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+---
+
+<p class="muted entry-claim" data-testid="entry-claim">
+  Sind Sie Inhaberin oder Inhaber dieser Praxis?
+  <a href={claimPath(slug)}>Eintrag beanspruchen oder korrigieren</a>
+</p>
+
+<style>
+  .entry-claim {
+    margin: 0 0 1.25rem;
+    font-size: 0.875rem;
+  }
+</style>

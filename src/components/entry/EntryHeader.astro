@@ -9,11 +9,29 @@ const { vm } = Astro.props;
 const { entry } = vm;
 const hasTags = vm.categories.length > 0 || vm.areas.length > 0;
 const hasIndications = vm.indications.length > 0;
+const hasBadges = vm.badges.length > 0;
 ---
 
 <header>
   <h1 data-testid="entry-name">{entry.nap.name}</h1>
   {!entry.isOpen && <p class="badge" data-testid="closed-notice">Dauerhaft geschlossen</p>}
+  {
+    hasBadges && (
+      <p class="tag-list" data-testid="entry-badges">
+        {vm.badges.map((badge) =>
+          badge.href ? (
+            <a href={badge.href} class="tag tag-badge" data-testid={`entry-badge-${badge.id}`}>
+              {badge.label}
+            </a>
+          ) : (
+            <span class="tag tag-static tag-badge" data-testid={`entry-badge-${badge.id}`}>
+              {badge.label}
+            </span>
+          ),
+        )}
+      </p>
+    )
+  }
   {
     hasTags && (
       <p class="tag-list" data-testid="entry-tags">

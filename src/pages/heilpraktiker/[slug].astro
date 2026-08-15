@@ -13,6 +13,7 @@ import EntryImagesSection from "../../components/entry/EntryImagesSection.astro"
 import siteConfig from "../../../config/site.config.ts";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import RelatedEntries from "../../components/entry/RelatedEntries.astro";
+import EntryClaimLink from "../../components/entry/EntryClaimLink.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
@@ -47,7 +48,13 @@ const vm = toEntryViewModel(
 );
 const primaryArea = vm.areas[0];
 const jsonLd = buildListingJsonLd(entry, vm.category, primaryArea, vm.indications);
-const related = getRelatedEntries(entry, dataset.entries).map((e) =>
+const relatedResult = getRelatedEntries(
+  entry,
+  dataset.entries,
+  dataset.categories,
+  dataset.areas,
+);
+const related = relatedResult.entries.map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );
 const categoriesWithCounts = dataset.categories.map((cat) => ({
@@ -79,6 +86,7 @@ const breadcrumbItems = [
     <EntryHeader vm={vm} />
     {siteConfig.features.images && <EntryImagesSection vm={vm} />}
     <EntryCtaBar entry={entry} />
+    <EntryClaimLink slug={entry.slug} />
     <EntryGoogleRatingSection entry={entry} />
     <section style="margin: 1.5rem 0;">
       <h2>Über</h2>
@@ -89,7 +97,7 @@ const breadcrumbItems = [
     {siteConfig.features.map && <EntryMapSection entry={entry} />}
     <ContactSection entry={entry} />
     {(entry.faq ?? []).length > 0 && <FaqSection items={entry.faq!} />}
-    <RelatedEntries cards={related} />
+    <RelatedEntries cards={related} title={relatedResult.title} />
     <LastUpdated date={entry.lastUpdated} />
   </article>
 </BaseLayout>

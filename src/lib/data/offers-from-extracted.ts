@@ -1,5 +1,6 @@
 import type { ExtractedOffer } from "./extract-prices.ts";
 import { isUsableServiceName, type ExtractedService } from "./extract-services.ts";
+import { stripHtmlArtifacts } from "./strip-html-artifacts.ts";
 import type { Offer } from "../validation/entry-schema.ts";
 
 function parseDurationMinutes(durationLabel?: string): number | undefined {
@@ -42,7 +43,10 @@ export function offersFromServices(services: ExtractedService[]): Offer[] {
 }
 
 function tidyOfferName(name: string): string {
-  return name.replace(/[…]+$/g, "").replace(/[:]+$/g, "").replace(/\s+/g, " ").trim();
+  return stripHtmlArtifacts(name)
+    .replace(/[…]+$/g, "")
+    .replace(/[:]+$/g, "")
+    .trim();
 }
 
 export function filterUsableOffers(offers: Offer[], entryName?: string): Offer[] {
