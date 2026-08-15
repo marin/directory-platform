@@ -1,11 +1,21 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
 import { categoryPath, indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
 
 interface Props {
   categories?: Array<{ id: string; name: string; slug: string; count: number }>;
 }
-const { categories = [] } = Astro.props;
+
+const { categories: categoriesProp } = Astro.props;
+const categories = categoriesProp ?? (() => {
+  const dataset = loadDataset();
+  return dataset.categories.map((cat) => ({
+    ...cat,
+    count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+  }));
+})();
 ---
 
 <header style="border-bottom: 1px solid var(--color-border); padding: 1rem 0; margin-bottom: 1rem;">
