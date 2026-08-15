@@ -4,7 +4,7 @@ import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
 import type { Indication } from "../../validation/indication-schema.ts";
 import type { Association } from "../../validation/association-schema.ts";
-import { categoryPath, areaPath, indicationPath, absoluteUrl, entryPath, homePath } from "../../routing/paths.ts";
+import { categoryPath, areaPath, indicationPath, indicationsPath, absoluteUrl, entryPath, homePath, homeUrl } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
 import {
@@ -169,10 +169,18 @@ export function buildCollectionJsonLd(
     type === "indication"
       ? `${siteConfig.directory.entryPlural} für ${item.name} in ${siteConfig.geography.locality}`
       : item.name;
-  const breadcrumbs = buildBreadcrumbList([
-    { name: "Startseite", path: homePath() },
-    { name: item.name, path },
-  ]);
+  const breadcrumbs = buildBreadcrumbList(
+    type === "indication"
+      ? [
+          { name: "Startseite", path: homePath() },
+          { name: "Beschwerden", path: indicationsPath() },
+          { name: item.name, path },
+        ]
+      : [
+          { name: "Startseite", path: homePath() },
+          { name: item.name, path },
+        ],
+  );
 
   const itemList = {
     "@context": "https://schema.org",
@@ -203,6 +211,66 @@ export function buildCollectionJsonLd(
   if (faq && faq.length > 0) {
     graphs.push({
       "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faq.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: { "@type": "Answer", text: item.answer },
+      })),
+    });
+  }
+
+  return { "@context": "https://schema.org", "@graph": graphs };
+}
+
+export function buildIndicationsIndexJsonLd(
+  hubs: Array<{ name: string; slug: string }>,
+  title: string,
+  description: string,
+  faq: Array<{ question: string; answer: string }>,
+): Record<string, unknown> {
+  const path = indicationsPath();
+  const url = absoluteUrl(path);
+  const breadcrumbs = buildBreadcrumbList([
+    { name: "Startseite", path: homePath() },
+    { name: "Beschwerden", path },
+  ]);
+
+  const itemList = {
+    "@type": "ItemList",
+    "@id": `${url}#list`,
+    name: title,
+    numberOfItems: hubs.length,
+    itemListElement: hubs.map((hub, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: absoluteUrl(indicationPath(hub.slug)),
+      name: hub.name,
+      item: {
+        "@type": "MedicalCondition",
+        name: hub.name,
+        url: absoluteUrl(indicationPath(hub.slug)),
+      },
+    })),
+  };
+
+  const collectionPage = {
+    "@type": "CollectionPage",
+    name: title,
+    description,
+    url,
+    isPartOf: {
+      "@type": "WebSite",
+      name: siteConfig.site.name,
+      url: homeUrl(),
+    },
+    mainEntity: { "@id": `${url}#list` },
+  };
+
+  const graphs: Record<string, unknown>[] = [breadcrumbs, collectionPage, itemList];
+
+  if (faq.length > 0) {
+    graphs.push({
       "@type": "FAQPage",
       mainEntity: faq.map((item) => ({
         "@type": "Question",

@@ -8,7 +8,7 @@ import {
   toEntryCardViewModel,
   shouldIndexIndication,
 } from "../lib/data/view-models/entry.ts";
-import { indicationPath } from "../lib/routing/paths.ts";
+import { indicationPath, indicationsPath } from "../lib/routing/paths.ts";
 import JsonLd from "../components/seo/JsonLd.astro";
 import { buildOrganizationJsonLd } from "../lib/seo/structured-data/organization.ts";
 import siteConfig from "../../config/site.config.ts";
@@ -62,7 +62,7 @@ const indicationsWithCounts = dataset.indications
 
   {indicationsWithCounts.length > 0 && (
     <>
-      <h2>Nach Beschwerde</h2>
+        <h2><a href={indicationsPath()} data-testid="home-indications-heading">Nach Beschwerde</a></h2>
       <div class="grid grid-3">
         {indicationsWithCounts.map((indication) => (
           <a href={indicationPath(indication.slug)} class="card" style="text-decoration: none; color: inherit;" data-testid="home-indication">

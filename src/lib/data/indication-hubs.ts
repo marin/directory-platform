@@ -4,6 +4,7 @@ import type { Area } from "../validation/area-schema.ts";
 import type { Category } from "../validation/category-schema.ts";
 import type { Indication } from "../validation/indication-schema.ts";
 import { computeIndicationStats, indicationEntries } from "../aggregates/compute.ts";
+import { shouldIndexIndication } from "./view-models/entry.ts";
 
 export interface RankedRef {
   id: string;
@@ -89,6 +90,111 @@ export function relatedIndications(
 
 export function indicationHubTitle(indicationName: string): string {
   return `${siteConfig.directory.entryPlural} für ${indicationName} in ${siteConfig.geography.locality}`;
+}
+
+export function indicationsIndexTitle(): string {
+  return `${siteConfig.directory.entryPlural} nach Beschwerde in ${siteConfig.geography.locality}`;
+}
+
+export function indexableIndications(
+  entries: NormalizedEntry[],
+  indications: Indication[],
+): RankedRef[] {
+  return indications
+    .map((item) => ({
+      id: item.id,
+      name: item.name,
+      slug: item.slug,
+      count: computeIndicationStats(entries, item.id).listingCount,
+    }))
+    .filter((item) => shouldIndexIndication(item.count).index)
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
+}
+
+export function taggedListingCountForHubs(
+  entries: NormalizedEntry[],
+  hubs: Array<{ id: string }>,
+): number {
+  const ids = new Set(hubs.map((hub) => hub.id));
+  return entries.filter(
+    (entry) =>
+      entry.isOpen && (entry.indicationIds ?? []).some((id) => ids.has(id)),
+  ).length;
+}
+
+export function buildIndicationsIndexDescription(
+  hubs: RankedRef[],
+  taggedListingCount: number,
+): string {
+  const locality = siteConfig.geography.locality;
+  const plural = siteConfig.directory.entryPlural;
+  const hubCount = hubs.length;
+  const hubLabel = hubCount === 1 ? "Beschwerde" : "Beschwerden";
+  const top = hubs.slice(0, 3);
+  if (top.length === 0) {
+    return `${plural} in ${locality} nach Beschwerde finden.`;
+  }
+  return `${hubCount} ${hubLabel}, ${taggedListingCount} ${plural} in ${locality}. Am häufigsten ${joinGerman(top.map((hub) => hub.name))}.`;
+}
+
+export function buildIndicationsIndexIntro(
+  hubs: RankedRef[],
+  taggedListingCount: number,
+): string {
+  const description = buildIndicationsIndexDescription(hubs, taggedListingCount);
+  if (hubs.length === 0) return description;
+  return `${description} Die Seiten sammeln Praxen, die diese Beschwerden selbst nennen.`;
+}
+
+export function buildIndicationsIndexFaqs(
+  hubs: RankedRef[],
+  taggedListingCount: number,
+): Array<{ question: string; answer: string }> {
+  const locality = siteConfig.geography.locality;
+  const plural = siteConfig.directory.entryPlural;
+  const hubCount = hubs.length;
+  const hubLabel = hubCount === 1 ? "Beschwerde" : "Beschwerden";
+  const faq: Array<{ question: string; answer: string }> = [
+    {
+      question: `Welche Beschwerden behandeln ${plural} in ${locality}?`,
+      answer:
+        hubCount === 0
+          ? `Noch keine Beschwerden mit genug Praxen in ${locality}.`
+          : `${hubCount} ${hubLabel} in diesem Verzeichnis: ${joinGerman(hubs.map((hub) => hub.name))}.`,
+    },
+    {
+      question: `Wie kommen Praxen auf diese Seiten?`,
+      answer: `Die Zuordnung folgt den Angaben der Praxen. ${taggedListingCount} offene Praxen stehen auf mindestens einer Beschwerdeseite.`,
+    },
+    {
+      question: `Ersetzt das Verzeichnis eine ärztliche Einschätzung?`,
+      answer: `Nein. Es listet offene Praxen nach genannten Beschwerden und stellt keine Diagnose.`,
+    },
+  ];
+  return faq;
+}
+
+export function buildIndicationsIndexCopy(
+  entries: NormalizedEntry[],
+  indications: Indication[],
+): {
+  hubs: RankedRef[];
+  taggedListingCount: number;
+  title: string;
+  description: string;
+  intro: string;
+  faq: Array<{ question: string; answer: string }>;
+} {
+  const hubs = indexableIndications(entries, indications);
+  const taggedListingCount = taggedListingCountForHubs(entries, hubs);
+  return {
+    hubs,
+    taggedListingCount,
+    title: indicationsIndexTitle(),
+    description: buildIndicationsIndexDescription(hubs, taggedListingCount),
+    intro: buildIndicationsIndexIntro(hubs, taggedListingCount),
+    faq: buildIndicationsIndexFaqs(hubs, taggedListingCount),
+  };
 }
 
 function containsNameAsWord(text: string, name: string): boolean {

@@ -1,6 +1,6 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
-import { categoryPath, areaPath } from "../../lib/routing/paths.ts";
+import { categoryPath, indicationsPath } from "../../lib/routing/paths.ts";
 
 interface Props {
   categories?: Array<{ id: string; name: string; slug: string; count: number }>;
@@ -18,6 +18,7 @@ const { categories = [] } = Astro.props;
         {categories.slice(0, 5).map((cat) => (
           <li><a href={categoryPath(cat.slug)}>{cat.name} ({cat.count})</a></li>
         ))}
+        <li><a href={indicationsPath()}>Beschwerden</a></li>
       </ul>
     </nav>
   </div>

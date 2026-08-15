@@ -161,13 +161,27 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="indication-page"');
     expect(html).toContain(`Heilpraktiker für ${tagged!.name} in Berlin`);
     expect(html).toContain('data-testid="indication-intro"');
+    expect(html).toContain('data-testid="breadcrumbs"');
+    expect(html).toContain('href="/indikation"');
+  });
+
+  it("builds an indexable indications overview at /indikation/", () => {
+    const html = readDist("indikation/index.html");
+    expect(html).toContain('data-testid="indications-index"');
+    expect(html).toContain("Heilpraktiker nach Beschwerde in Berlin");
+    expect(html).toContain('data-testid="indications-index-intro"');
+    expect(html).toContain('data-testid="indications-index-hub"');
+    expect(html).toContain('"@type":"CollectionPage"');
+    expect(html).toContain('"@type":"ItemList"');
+    expect(html).toContain("Häufig gestellte Fragen");
   });
 
   it("lists indexable indication hubs on the homepage", () => {
     const html = readDist("index.html");
     expect(html).toContain("Nach Beschwerde");
     expect(html).toContain('data-testid="home-indication"');
-    expect(html).toContain("/indikation/");
+    expect(html).toContain('data-testid="home-indications-heading"');
+    expect(html).toContain('href="/indikation"');
   });
 
   it("renders booking CTA when bookingUrl is set", () => {
@@ -219,6 +233,7 @@ describe("generated site", () => {
     if (sampleIndication) {
       expect(llms).toContain(sampleIndication.slug);
     }
+    expect(llms).toContain(`Übersicht: ${siteConfig.site.origin}/indikation`);
   });
 
   it("renders entry images and og:image when local images exist", () => {

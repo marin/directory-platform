@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import FaqSection from "../../components/faq/FaqSection.astro";
+import LastUpdated from "../../components/entry/LastUpdated.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { computeCategoryStats, computeIndicationStats } from "../../lib/aggregates/compute.ts";
+import { buildIndicationsIndexCopy } from "../../lib/data/indication-hubs.ts";
+import { buildIndicationsIndexJsonLd } from "../../lib/seo/structured-data/builders.ts";
+import { homePath, indicationPath, indicationsUrl } from "../../lib/routing/paths.ts";
+import siteConfig from "../../../config/site.config.ts";
+
+const dataset = loadDataset();
+const copy = buildIndicationsIndexCopy(dataset.entries, dataset.indications);
+const jsonLd = buildIndicationsIndexJsonLd(
+  copy.hubs,
+  copy.title,
+  copy.description,
+  copy.faq,
+);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const mostRecentUpdate = copy.hubs
+  .map((hub) => computeIndicationStats(dataset.entries, hub.id).mostRecentUpdate)
+  .filter((date): date is string => Boolean(date))
+  .sort()
+  .at(-1);
+---
+
+<BaseLayout
+  title={copy.title}
+  description={copy.description}
+  canonical={indicationsUrl()}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <Breadcrumbs
+    items={[
+      { label: "Startseite", href: homePath() },
+      { label: "Beschwerden" },
+    ]}
+  />
+  <article data-testid="indications-index">
+    <h1>{copy.title}</h1>
+    <p style="margin: 1rem 0;" data-testid="indications-index-intro">{copy.intro}</p>
+    <div class="grid grid-3">
+      {copy.hubs.map((hub) => (
+        <a
+          href={indicationPath(hub.slug)}
+          class="card"
+          style="text-decoration: none; color: inherit;"
+          data-testid="indications-index-hub"
+        >
+          <strong>{hub.name}</strong>
+          <p class="muted">{hub.count} {siteConfig.directory.entryPlural}</p>
+        </a>
+      ))}
+    </div>
+    <FaqSection items={copy.faq} />
+    {mostRecentUpdate && <LastUpdated date={mostRecentUpdate} />}
+  </article>
+</BaseLayout>

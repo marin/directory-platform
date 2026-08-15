@@ -4,11 +4,14 @@ import { loadDataset } from "../../src/lib/data/load-dataset.ts";
 import { findSimilarPairs } from "../../src/lib/data/uniqueness.ts";
 import {
   buildIndicationHubCopy,
+  buildIndicationsIndexCopy,
   indicationHubTitle,
+  indicationsIndexTitle,
 } from "../../src/lib/data/indication-hubs.ts";
 import { computeIndicationStats } from "../../src/lib/aggregates/compute.ts";
-import { indicationPath, indicationUrl } from "../../src/lib/routing/paths.ts";
+import { indicationPath, indicationUrl, indicationsPath, indicationsUrl } from "../../src/lib/routing/paths.ts";
 import { shouldIndexIndication } from "../../src/lib/data/view-models/entry.ts";
+import { buildIndicationsIndexJsonLd, buildCollectionJsonLd } from "../../src/lib/seo/structured-data/builders.ts";
 
 describe("indication paths", () => {
   it("builds hub and paginated paths", () => {
@@ -17,6 +20,11 @@ describe("indication paths", () => {
     expect(indicationUrl("kinderwunsch")).toBe(
       `${siteConfig.site.origin}/indikation/kinderwunsch`,
     );
+  });
+
+  it("builds the indication index path", () => {
+    expect(indicationsPath()).toBe("/indikation");
+    expect(indicationsUrl()).toBe(`${siteConfig.site.origin}/indikation`);
   });
 });
 
@@ -106,5 +114,82 @@ describe("indication hub copy", () => {
     expect(copy.intro).toContain("Kinderwunsch");
     expect(copy.faq[0]?.answer).toContain(String(stats.listingCount));
     expect(copy.intro.toLowerCase()).not.toMatch(/heilung|diagnose|verschreib/);
+  });
+});
+
+describe("indications index copy", () => {
+  const dataset = loadDataset();
+  const copy = buildIndicationsIndexCopy(dataset.entries, dataset.indications);
+
+  it("uses the directory title formula", () => {
+    expect(indicationsIndexTitle()).toBe("Heilpraktiker nach Beschwerde in Berlin");
+    expect(copy.title).toBe("Heilpraktiker nach Beschwerde in Berlin");
+  });
+
+  it("grounds intro in counts and locality, not medical advice", () => {
+    expect(copy.hubs.length).toBeGreaterThan(0);
+    expect(copy.intro).toContain(String(copy.hubs.length));
+    expect(copy.intro).toContain(String(copy.taggedListingCount));
+    expect(copy.intro).toContain("Berlin");
+    expect(copy.intro).toContain(copy.hubs[0]!.name);
+    expect(copy.intro.toLowerCase()).not.toMatch(/heilung|diagnose|verschreib/);
+    expect(copy.description.length).toBeLessThanOrEqual(160);
+  });
+
+  it("lists only indexable hubs and answers with directory facts", () => {
+    expect(
+      copy.hubs.every((hub) => shouldIndexIndication(hub.count).index),
+    ).toBe(true);
+    expect(copy.faq.length).toBeGreaterThanOrEqual(2);
+    expect(copy.faq[0]?.answer).toContain(copy.hubs[0]!.name);
+    expect(copy.faq[1]?.answer).toContain(String(copy.taggedListingCount));
+  });
+});
+
+describe("indications index JSON-LD", () => {
+  const dataset = loadDataset();
+  const copy = buildIndicationsIndexCopy(dataset.entries, dataset.indications);
+
+  it("emits CollectionPage, ItemList of MedicalCondition, FAQ and breadcrumbs", () => {
+    const jsonLd = buildIndicationsIndexJsonLd(
+      copy.hubs,
+      copy.title,
+      copy.description,
+      copy.faq,
+    );
+    const graph = (jsonLd as { "@graph": Array<Record<string, unknown>> })["@graph"];
+    const types = graph.map((node) => node["@type"]);
+    expect(types).toContain("CollectionPage");
+    expect(types).toContain("ItemList");
+    expect(types).toContain("FAQPage");
+    expect(types).toContain("BreadcrumbList");
+
+    const list = graph.find((node) => node["@type"] === "ItemList") as {
+      itemListElement: Array<{ item: { "@type": string; url: string } }>;
+    };
+    expect(list.itemListElement[0]?.item["@type"]).toBe("MedicalCondition");
+    expect(list.itemListElement[0]?.item.url).toContain("/indikation/");
+  });
+
+  it("inserts the Beschwerden parent into indication hub breadcrumbs", () => {
+    const indication = dataset.indications[0]!;
+    const jsonLd = buildCollectionJsonLd(
+      "indication",
+      indication,
+      [],
+      {
+        listingCount: 0,
+        priceStats: { count: 0, median: undefined, min: undefined, max: undefined },
+        openLateCount: 0,
+        openSundayCount: 0,
+        mostRecentUpdate: undefined,
+        updatedLast90Days: 0,
+        offersByDuration: new Map(),
+      },
+    );
+    const serialized = JSON.stringify(jsonLd);
+    expect(serialized).toContain("/indikation");
+    expect(serialized).toContain("Beschwerden");
+    expect(serialized).toContain(indication.name);
   });
 });

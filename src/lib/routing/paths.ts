@@ -16,6 +16,10 @@ export function indicationPath(slug: string, page = 1): string {
   return page <= 1 ? `/indikation/${slug}` : `/indikation/${slug}/${page}`;
 }
 
+export function indicationsPath(): string {
+  return "/indikation";
+}
+
 export function absoluteUrl(path: string): string {
   const origin = siteConfig.site.origin.replace(/\/$/, "");
   return `${origin}${path.startsWith("/") ? path : `/${path}`}`;
@@ -35,6 +39,10 @@ export function areaUrl(slug: string, page = 1): string {
 
 export function indicationUrl(slug: string, page = 1): string {
   return absoluteUrl(indicationPath(slug, page));
+}
+
+export function indicationsUrl(): string {
+  return absoluteUrl(indicationsPath());
 }
 
 export function homePath(): string {

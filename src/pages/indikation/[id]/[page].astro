@@ -16,7 +16,7 @@ import {
 import { computeCategoryStats, computeIndicationStats, indicationEntries } from "../../../lib/aggregates/compute.ts";
 import { indicationHubTitle } from "../../../lib/data/indication-hubs.ts";
 import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
-import { homePath, indicationPath, indicationUrl } from "../../../lib/routing/paths.ts";
+import { homePath, indicationPath, indicationsPath, indicationUrl } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
 
@@ -73,6 +73,7 @@ const title = `${indicationHubTitle(indication.name)} – Seite ${page}`;
   <Breadcrumbs
     items={[
       { label: "Startseite", href: homePath() },
+      { label: "Beschwerden", href: indicationsPath() },
       { label: indication.name, href: indicationPath(indication.slug) },
       { label: `Seite ${page}` },
     ]}

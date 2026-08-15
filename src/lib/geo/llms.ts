@@ -1,7 +1,7 @@
 import siteConfig from "../../../config/site.config.ts";
 import type { Dataset } from "../data/load-dataset.ts";
 import { computeAggregateStats, computeCategoryStats, computeAreaStats, computeIndicationStats } from "../aggregates/compute.ts";
-import { absoluteUrl, categoryPath, indicationPath, entryPath } from "../routing/paths.ts";
+import { absoluteUrl, categoryPath, indicationPath, indicationsPath, entryPath } from "../routing/paths.ts";
 import { buildAggregateFactText } from "../seo/structured-data/builders.ts";
 
 export function buildLlmsTxt(dataset: Dataset): string {
@@ -29,6 +29,7 @@ export function buildLlmsTxt(dataset: Dataset): string {
     );
   }
   lines.push("", "## Beschwerden");
+  lines.push(`Übersicht: ${absoluteUrl(indicationsPath())}`);
   for (const indication of dataset.indications) {
     const stats = computeIndicationStats(dataset.entries, indication.id);
     if (stats.listingCount === 0) continue;
