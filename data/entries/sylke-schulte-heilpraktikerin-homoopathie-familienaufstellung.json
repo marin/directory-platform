@@ -2,8 +2,8 @@
   "id": "sylke-schulte-heilpraktikerin-homoopathie-familienaufstellung",
   "slug": "sylke-schulte-heilpraktikerin-homoopathie-familienaufstellung",
   "name": "Sylke Schulte Heilpraktikerin Homöopathie + Familienaufstellung",
-  "description": "Sylke Schulte Heilpraktikerin Homöopathie + Familienaufstellung ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Sylke Schulte bietet in ihrer Praxis in Pankow homöopathische Behandlungen und Familienaufstellungen an. Sie nutzt die Methoden der Naturheilkunde, um die Gesundheit ihrer Klienten zu fördern. In einem vertrauensvollen Umfeld arbeitet sie an den individuellen Anliegen ihrer Patienten.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schliemannstraße 40",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "0304448815",
   "email": "info@sylkeschulte.de",
   "website": "http://www.sylkeschulte.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyvoBwBSqEcRhRd-U4WLYpQ",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 31,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJUyvoBwBSqEcRhRd-U4WLYpQ",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 31
+  "faq": []
 }

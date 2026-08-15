@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-akane-yoshikawa-berlin-seitai",
   "slug": "praxis-fur-naturheilkunde-akane-yoshikawa-berlin-seitai",
   "name": "Praxis für Naturheilkunde Akane Yoshikawa(Berlin-Seitai)",
-  "description": "Praxis für Naturheilkunde Akane Yoshikawa(Berlin-Seitai) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "In der Praxis für Naturheilkunde Akane Yoshikawa in Charlottenburg-Wilmersdorf kommen verschiedene naturheilkundliche Methoden zum Einsatz. Die Praxis legt Wert auf eine fundierte und umfassende Behandlung. Akane Yoshikawa bietet eine kompetente Anlaufstelle für Menschen, die alternative Heilansätze suchen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pohlstraße 79",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "kraftort-sandra-worm-i-ernahrungsberatung-i-systemisches-familienstellen-i-yoga",
   "slug": "kraftort-sandra-worm-i-ernahrungsberatung-i-systemisches-familienstellen-i-yoga",
   "name": "KRAFTORT - Sandra Worm I Ernährungsberatung I Systemisches Familienstellen I Yoga",
-  "description": "KRAFTORT - Sandra Worm I Ernährungsberatung I Systemisches Familienstellen I Yoga ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sandra Worm bietet in Treptow-Köpenick Ernährungsberatung, systemisches Familienstellen und Yoga an. Sie begleitet Frauen dabei, wieder mehr Verbindung zu sich selbst zu finden. In ihren Angeboten stehen Ernährung, Yoga und innere Entwicklung im Fokus, um neue Perspektiven und Klarheit zu gewinnen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Akeleiweg 52B",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03053214545",
   "email": "20sandra@kraftort-berlin.de",
   "website": "https://www.kraftort-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSWSdy2ZHqEcRkxIPnXDSwBY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSWSdy2ZHqEcRkxIPnXDSwBY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

@@ -91,13 +91,30 @@ describe("computeEntryRichness", () => {
     expect(richness.faq).toBe(20);
   });
 
-  it("scores natology template entry as tier D", () => {
+  it("adds a credentials bonus when associations or qualifications exist", () => {
+    const entry = normalizeEntry(
+      entrySchema.parse({
+        id: "creds",
+        slug: "creds",
+        name: "Creds Entry",
+        description: "Custom description.",
+        lastUpdated: "2026-08-15",
+        categories: ["naturheilkunde"],
+        associationIds: ["vod"],
+        qualifications: ["Diplom-Physiotherapeutin"],
+      }),
+    );
+    const richness = computeEntryRichness(entry);
+    expect(richness.credentials).toBe(5);
+  });
+
+  it("scores the former natology template entry as enriched after custom description", () => {
     const entry = loadEntry(
       "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
     );
     const richness = computeEntryRichness(entry);
-    expect(richness.tier).toBe("D");
-    expect(richness.description).toBe(0);
+    expect(richness.tier).toBe("B");
+    expect(richness.description).toBeGreaterThan(0);
     expect(richness.bookingUrl).toBe(5);
   });
 });

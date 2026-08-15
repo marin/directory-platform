@@ -1,3 +1,5 @@
+import { isPageSpam } from "./page-spam.ts";
+
 export type ExtractedAbout = {
   paragraphs: string[];
   bioText: string;
@@ -31,7 +33,10 @@ export function isBoilerplateDescription(description: string): boolean {
 }
 
 const WEBSITE_POINTER_RE =
-  /weitere informationen.{0,120}(website|webseite|homepage)|finden sie auf (ihrer|seiner|der) website|besuchen sie (bitte )?(die |ihre |seine )?(website|webseite)|auf ihrer website unter|mehr (infos|informationen) auf (der |ihrer )?(website|webseite)|kontaktformular auf der website|auf der website (der praxis |zur verfügung|zu finden|verfügbar)|informationen sind auf der website/i;
+  /weitere informationen.{0,120}(website|webseite|homepage)|finden sie auf (ihrer|seiner|der) website|besuchen sie (bitte )?(die |ihre |seine )?(website|webseite)|auf ihrer website unter|mehr (infos|informationen) auf (der |ihrer )?(website|webseite)|kontaktformular auf der website|auf der (website|homepage) (der praxis |zur verfügung|zu finden|verfügbar)|informationen sind auf der website|website im wartungsmodus|auf der homepage verfügbar/i;
+
+const CONTACT_FILLER_RE =
+  /telefonisch zur verfügung|telefonisch oder per e-mail kontaktieren|können interessierte .{0,40}(telefonisch|per e-mail)/i;
 
 export function stripMarkdownFormatting(text: string): string {
   return text
@@ -44,6 +49,7 @@ function isWebsitePointerSentence(sentence: string): boolean {
   const trimmed = sentence.trim();
   if (!trimmed) return true;
   if (WEBSITE_POINTER_RE.test(trimmed)) return true;
+  if (CONTACT_FILLER_RE.test(trimmed)) return true;
   if (/^\(?https?:\/\//i.test(trimmed)) return true;
   return false;
 }
@@ -151,7 +157,7 @@ function isSubstantiveParagraph(text: string): boolean {
   if (SKIP_PARAGRAPH_RE.test(text)) return false;
   if (LEGAL_PARAGRAPH_RE.test(text)) return false;
   if (isCookieOrConsentText(text)) return false;
-  if (/casino|slot|einsatz|gewinn/i.test(text)) return false;
+  if (isPageSpam(text)) return false;
   if (/^\d+$/.test(text)) return false;
   return /[a-zäöüß]/i.test(text);
 }

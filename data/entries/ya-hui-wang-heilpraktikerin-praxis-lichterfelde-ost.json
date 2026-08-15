@@ -2,8 +2,8 @@
   "id": "ya-hui-wang-heilpraktikerin-praxis-lichterfelde-ost",
   "slug": "ya-hui-wang-heilpraktikerin-praxis-lichterfelde-ost",
   "name": "Ya-Hui Wang Heilpraktikerin (Praxis Lichterfelde Ost)",
-  "description": "Ya-Hui Wang Heilpraktikerin (Praxis Lichterfelde Ost) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Akupunktur und Schmerztherapie in Steglitz-Zehlendorf behandelt Ya-Hui Wang verschiedene Beschwerden wie akute und chronische Schmerzen, Migräne sowie Störungen im Bewegungsapparat. Sie setzt auf eine Therapie mit Begleitung, um Klienten dabei zu helfen, ihr inneres Potenzial zu entfalten und ein harmonisches Leben zu führen. Zudem bietet sie spezielle Behandlungen für Kinder an, um deren Gesundheit und Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kaiser-Wilhelm-Straße 10",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "01776310765",
   "email": "kontakt@yahuiwang.de",
   "website": "https://www.yahuiwang.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuyqLYfRbqEcRZaGi4mtrQH4",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -39,8 +43,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuyqLYfRbqEcRZaGi4mtrQH4",
-  "googleMapsRating": 4.2,
-  "googleMapsRatingsCount": 5
+  "faq": []
 }

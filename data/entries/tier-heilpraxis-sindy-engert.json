@@ -2,8 +2,8 @@
   "id": "tier-heilpraxis-sindy-engert",
   "slug": "tier-heilpraxis-sindy-engert",
   "name": "Tier-Heilpraxis Sindy Engert",
-  "description": "Tier-Heilpraxis Sindy Engert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Die Tier-Heilpraxis Sindy Engert in Lichtenberg spezialisiert sich auf Homöopathie und alternative Tierheilkunde. Die Praxis bietet Hausbesuche in Berlin und Potsdam an, um eine direkte Betreuung vor Ort zu gewährleisten. Hier stehen die Gesundheit und das Wohlbefinden der Tiere im Fokus.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alfredstraße 8",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "017698104563",
   "email": "info@tierheilpraxis-engert.de",
   "website": "https://www.tierheilpraxis-engert.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQA865ROqEcR81h3KN6dq10",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -33,8 +37,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQA865ROqEcR81h3KN6dq10",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

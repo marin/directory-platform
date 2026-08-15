@@ -2,8 +2,8 @@
   "id": "heilpraktiker-fur-psychotherapie-martin-ernst",
   "slug": "heilpraktiker-fur-psychotherapie-martin-ernst",
   "name": "Heilpraktiker für Psychotherapie - Martin Ernst",
-  "description": "Heilpraktiker für Psychotherapie - Martin Ernst ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Martin Ernst ist Heilpraktiker für Psychotherapie in Pankow. Er nutzt Methoden der Naturheilkunde zur Behandlung psychischer Beschwerden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Sonnenburger Str. 54",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   },
   "phone": "015256470998",
   "website": "https://www.martin-ernst-heilpraktiker-psychotherapie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVdL8g6xTqEcRfNVb22U_HMk",
   "openingHours": [
     {
       "day": "Monday",
@@ -39,6 +41,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVdL8g6xTqEcRfNVb22U_HMk"
+  "faq": []
 }

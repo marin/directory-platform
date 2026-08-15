@@ -15,6 +15,9 @@
     "allergien",
     "depression"
   ],
+  "associationIds": [
+    "fdh"
+  ],
   "address": {
     "street": "Tegeler Weg 104",
     "locality": "Berlin",

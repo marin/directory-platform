@@ -2,8 +2,8 @@
   "id": "osteopathie-lisa-goldschmidt-heilpraktikerin",
   "slug": "osteopathie-lisa-goldschmidt-heilpraktikerin",
   "name": "Osteopathie Lisa Goldschmidt - Heilpraktikerin",
-  "description": "Osteopathie Lisa Goldschmidt - Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Lisa Goldschmidt praktiziert Osteopathie in Tempelhof-Schöneberg. Sie behandelt Beschwerden des Bewegungsapparates, der Organe und des Nervensystems durch manuelle Techniken. Ihre Arbeit umfasst auch psychosomatische Ansätze, die Körper, Geist und Emotionen einbeziehen. Zudem bietet sie Unterstützung während der Schwangerschaft und bei gynäkologischen Beschwerden an.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Furkastraße 53",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "015901974975",
   "website": "https://www.stressfrei-er-leben.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/lisa-goldschmidt?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVXBL3JGqEcRQf2ZLKwTmwc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJVVXBL3JGqEcRQf2ZLKwTmwc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-osteopathie-und-chiropraktik-im-fliegerviertel",
   "slug": "heilpraxis-fur-osteopathie-und-chiropraktik-im-fliegerviertel",
   "name": "Heilpraxis für Osteopathie und Chiropraktik im Fliegerviertel",
-  "description": "Heilpraxis für Osteopathie und Chiropraktik im Fliegerviertel ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis für Osteopathie und Chiropraktik im Fliegerviertel in Berlin Tempelhof liegt der Fokus auf der Diagnose und Behandlung von Schmerzen, Funktionsstörungen und Blockaden. André Franken kombiniert Osteopathie, Chiropraktik, Angewandte Kinesiologie und Bioresonanz, um die Selbstheilungskräfte der Patienten zu fördern und das Immunsystem zu stärken. Die Praxis behandelt eine Vielzahl von Beschwerden, darunter Rückenschmerzen, Migräne und psychosomatische Erkrankungen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Thuyring 19",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03079740539",
   "email": "info@osteopathie-chiropraktik.com",
   "website": "http://www.osteopathie-chiropraktik.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOxNH-x1QqEcRQ1WLsHf0udg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [
     {
       "day": "Monday",
@@ -65,8 +69,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOxNH-x1QqEcRQ1WLsHf0udg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  "faq": []
 }

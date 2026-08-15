@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-tegel-heilpraktikerin-ulrike-siefkes",
   "slug": "naturheilpraxis-tegel-heilpraktikerin-ulrike-siefkes",
   "name": "Naturheilpraxis Tegel - Heilpraktikerin Ulrike Siefkes",
-  "description": "Naturheilpraxis Tegel - Heilpraktikerin Ulrike Siefkes ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Tegel nutzt Ulrike Siefkes Methoden der Akupunktur und Naturheilkunde, um die Ursachen von Beschwerden zu erkennen und zu heilen. Die Praxis bietet unter anderem eine Ganzkörper-Gesundheitsanalyse mit dem Metavital MNLS System sowie Vital-Infusionen zur Unterstützung des Körpers an. Entgiftungs- und Ausleitungstherapien sowie Cranio-Sacral-Therapie runden das Angebot ab.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Steinbergpark 57",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "03046795086",
   "email": "hp-siefkes@email.de",
   "website": "https://www.naturheilpraxis-tegel.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ8ARBGdUqEcRb7kwPaeA3JA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZ8ARBGdUqEcRb7kwPaeA3JA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

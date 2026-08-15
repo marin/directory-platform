@@ -2,8 +2,8 @@
   "id": "heilpraxis-berlin-zehlendorf-muguette-ronfeldt",
   "slug": "heilpraxis-berlin-zehlendorf-muguette-ronfeldt",
   "name": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt",
-  "description": "Heilpraxis Berlin Zehlendorf - Muguette Rönfeldt ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Heilpraxis Berlin-Zehlendorf bietet Muguette Rönfeldt verschiedene naturheilkundliche Verfahren an, darunter Cranio-Sacrale-Osteopathie, Akupunktur und Schmerztherapie nach Liebscher und Bracht. Seit 2001 widmet sie sich der Gesundheit ihrer Patienten und behandelt nicht nur Symptome, sondern geht den Ursachen von Beschwerden auf den Grund. Ihre Praxis dient als Rückzugsort, um Körper und Seele in Einklang zu bringen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Matterhornstraße 29",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "01637005268",
   "email": "muguette.r@web.de",
   "website": "http://www.heilpraxis-zehlendorf.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo0ps2YlZqEcRGvbA-_23ZlU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 13,
   "openingHours": [],
   "offers": [
     {
@@ -42,8 +46,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJo0ps2YlZqEcRGvbA-_23ZlU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 13
+  "faq": []
 }

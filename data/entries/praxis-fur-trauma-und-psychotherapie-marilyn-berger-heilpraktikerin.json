@@ -2,8 +2,8 @@
   "id": "praxis-fur-trauma-und-psychotherapie-marilyn-berger-heilpraktikerin",
   "slug": "praxis-fur-trauma-und-psychotherapie-marilyn-berger-heilpraktikerin",
   "name": "Praxis für Trauma- und Psychotherapie. Marilyn Berger. Heilpraktikerin.",
-  "description": "Praxis für Trauma- und Psychotherapie. Marilyn Berger. Heilpraktikerin. ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Trauma- und Psychotherapie in Pankow liegt der Schwerpunkt auf der Therapie von PTBS und komplexen Traumafolgestörungen. Marilyn Berger kombiniert Traumatherapie mit Körpertherapie, insbesondere bei belastenden Geburtserfahrungen. Sie nutzt Methoden wie enaktive Traumatherapie, Ego-State-Therapie und EMDR, um die Therapie auf die spezifischen Bedürfnisse der Klienten abzustimmen. Zudem bietet sie Online-Beratung zur Arbeit an destruktiven Beziehungsmustern an.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Marienburger Str. 5a",
     "locality": "Berlin",
@@ -26,9 +27,9 @@
   "phone": "03069207812",
   "email": "info@mariberger.de",
   "website": "http://www.mariberger.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH6BofZRPqEcRJDjNwfnnRGs",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJH6BofZRPqEcRJDjNwfnnRGs"
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "sabina-ahmetspahic-heilpraktikerin-fur-psychotherapie",
   "slug": "sabina-ahmetspahic-heilpraktikerin-fur-psychotherapie",
   "name": "Sabina Ahmetspahic - Heilpraktikerin für Psychotherapie",
-  "description": "Sabina Ahmetspahic - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Pankow arbeitet Sabina Ahmetspahic mit einem prozessorientierten Ansatz in der Psychotherapie. Sie begleitet Menschen auf ihrem Weg zur Heilung und Integration, insbesondere bei Traumafolgestörungen und der Entwicklung eines gesunden Selbstwertes. Ihre Methoden verbinden therapeutische Ansätze mit Weisheitslehren der buddhistischen Psychologie. Zudem bietet sie Programme und Workshops zu Achtsamkeit und mentaler Gesundheit für Unternehmen an.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schliemannstraße 18",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "01759221161",
   "website": "https://www.seigutzudirselbst.de/",
   "bookingUrl": "https://www.seigutzudirselbst.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq6q-_v9NqEcRwt3-Zoq-tJQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -50,8 +54,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq6q-_v9NqEcRwt3-Zoq-tJQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 14
+  "faq": []
 }

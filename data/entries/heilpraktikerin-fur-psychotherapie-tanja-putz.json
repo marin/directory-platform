@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-tanja-putz",
   "slug": "heilpraktikerin-fur-psychotherapie-tanja-putz",
   "name": "Heilpraktikerin für Psychotherapie Tanja Pütz",
-  "description": "Heilpraktikerin für Psychotherapie Tanja Pütz ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Tanja Pütz arbeitet in Pankow als Heilpraktikerin für Psychotherapie und bietet tiefenpsychologisch orientierte Psychotherapie sowie Focusing an. Sie begleitet Klienten bei emotionalen Belastungen, Angstzuständen und Selbstzweifeln. Ihre Methoden umfassen Gesprächstherapie und ressourcenorientierte Begleitung, um das Verständnis für eigene Gefühle und innere Muster zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schliemannstraße 41",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "kontakt@puetz-psychotherapie.de",
   "website": "https://www.puetz-psychotherapie.de/",
   "bookingUrl": "https://pro.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/tanja-puetz?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiyOZeRNNqEcRkCElKD1zu80",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +60,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJiyOZeRNNqEcRkCElKD1zu80",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

@@ -2,14 +2,18 @@
   "id": "alice-kamlah-physiotherapeutin-heilpraktikerin-praxis-kamlah",
   "slug": "alice-kamlah-physiotherapeutin-heilpraktikerin-praxis-kamlah",
   "name": "Alice Kamlah | Physiotherapeutin & Heilpraktikerin | Praxis Kamlah",
-  "description": "Alice Kamlah | Physiotherapeutin & Heilpraktikerin | Praxis Kamlah ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Alice Kamlah ist als Physiotherapeutin und Heilpraktikerin in Charlottenburg-Wilmersdorf tätig. Sie behandelt neurologische Erkrankungen wie Schlaganfall und Parkinson sowie orthopädische Störungen und Schmerzen. Ihre Therapieansätze umfassen neurologische Physiotherapie, Schmerztherapie und spezielle Kiefertherapie. Durch ihre Zulassung als Heilpraktikerin können Patienten direkt ohne ärztliches Rezept behandelt werden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [],
+  "qualifications": [
+    "Ausgebildete Physiotherapeutin"
   ],
   "address": {
     "street": "Hohenstaufenstraße 37",
@@ -25,6 +29,9 @@
   "phone": "015566118975",
   "email": "info@praxis-kamlah.de",
   "website": "https://praxis-kamlah.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsT8LAGlRqEcRX7ilCZWFcPw",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 14,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +61,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJsT8LAGlRqEcRX7ilCZWFcPw",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 14
+  "faq": []
 }

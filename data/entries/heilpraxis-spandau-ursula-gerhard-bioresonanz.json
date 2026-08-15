@@ -2,8 +2,8 @@
   "id": "heilpraxis-spandau-ursula-gerhard-bioresonanz",
   "slug": "heilpraxis-spandau-ursula-gerhard-bioresonanz",
   "name": "Heilpraxis Spandau Ursula Gerhard - Bioresonanz",
-  "description": "Heilpraxis Spandau Ursula Gerhard - Bioresonanz ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis Spandau von Ursula Gerhard liegt der Fokus auf Bioresonanz, Allergien und Stoffwechsel. Die BICOM-Bioresonanzmethode dient der Ursachenforschung und Therapie von Erkrankungen ohne Medikamente. Patienten können auch eine Online-Testung in Anspruch nehmen, um ihre Beschwerden zu analysieren und entsprechende Maßnahmen zu besprechen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Barnewitzer Weg 34",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "email": "gerhard@ihr-vitalpunkt.de",
   "website": "http://www.ihr-vitalpunkt.de/",
   "bookingUrl": "http://www.ihr-vitalpunkt.de/kontakt-beratung/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4x9JUBFWqEcRoNFzKiyHfM0",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4x9JUBFWqEcRoNFzKiyHfM0",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 12
+  "faq": []
 }

@@ -12,6 +12,14 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "agtcm"
+  ],
+  "qualifications": [
+    "Diplom-Ausbildung in Klassischer Akupunktur und TCM",
+    "Diplom-Ausbildung in Chinesischer Kräuterheilkunde",
+    "Amtsarztprüfung"
+  ],
   "address": {
     "street": "Wiesbadener Str. 24",
     "locality": "Berlin",

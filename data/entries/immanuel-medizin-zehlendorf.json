@@ -2,8 +2,8 @@
   "id": "immanuel-medizin-zehlendorf",
   "slug": "immanuel-medizin-zehlendorf",
   "name": "Immanuel Medizin Zehlendorf",
-  "description": "Immanuel Medizin Zehlendorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Immanuel Medizin Zehlendorf bietet interdisziplinäre Medizin auf höchstem Niveau in der Naturheilkunde. Die Praxis kombiniert langjährige Erfahrungen aus der Naturheilkunde und Schulmedizin, um Therapiekonzepte zu entwickeln. Neben der Behandlung von Beschwerden liegt ein Schwerpunkt auf der Gesundheitsförderung durch Medical Wellness und Ayurveda. Zudem werden Yoga- und Meditationskurse sowie Angebote der Traditionellen Chinesischen Medizin angeboten.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Kleinen Wannsee 5/D",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03080505480",
   "website": "https://zehlendorf.immanuel.de/immanuel-medizin-zehlendorf-home/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2fs9kz1aqEcRquz2p_ekt9M",
+  "googleMapsRating": 3.9,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -73,8 +77,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2fs9kz1aqEcRquz2p_ekt9M",
-  "googleMapsRating": 3.9,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

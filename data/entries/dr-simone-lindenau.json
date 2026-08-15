@@ -12,6 +12,9 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "bdh"
+  ],
   "address": {
     "street": "Drakestraße 16A",
     "locality": "Berlin",

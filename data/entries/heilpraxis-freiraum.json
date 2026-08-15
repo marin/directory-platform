@@ -3,7 +3,7 @@
   "slug": "heilpraxis-freiraum",
   "name": "Heilpraxis Freiraum",
   "description": "Heilpraxis Freiraum \\\\ \\\\ trauma aware embodiment\\\\ \\\\ Touch of Presence®\\\\ \\\\ Craniosacrale Therapie \\\\ \\\\ und Klang in Berlin Pflichtangaben gemäß §5 Telemediengesetz (TMG) &",
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [],
+  "qualifications": [
+    "Amtsärztliche Überprüfung"
   ],
   "address": {
     "street": "Rheingaustraße 22",
@@ -26,9 +30,9 @@
   },
   "phone": "01771753578",
   "website": "https://www.heilpraxis-freiraum.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwb799HJOqEcRT66MDe1R6oA",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwb799HJOqEcRT66MDe1R6oA"
+  "faq": []
 }

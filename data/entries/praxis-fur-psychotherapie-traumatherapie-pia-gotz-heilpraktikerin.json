@@ -13,6 +13,9 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "agtcm"
+  ],
   "address": {
     "street": "@ Praxis Gaca",
     "locality": "Berlin",

@@ -15,6 +15,9 @@
     "mitte"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vfp"
+  ],
   "address": {
     "street": "Franklinstraße 4",
     "locality": "Berlin",

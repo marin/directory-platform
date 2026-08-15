@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { buildGroundingContext, stripMarkdownForPrompt } from "../../src/lib/data/build-grounding-context.ts";
+import { buildGroundingContext, stripMarkdownForPrompt, usableExcerptText } from "../../src/lib/data/build-grounding-context.ts";
 import { checkGrounding } from "../../src/lib/data/grounding.ts";
 import { isNapFaqItem } from "../../src/lib/data/extract-about.ts";
 import { buildFixtureFaq, extractFaqTopics } from "../../src/lib/data/extract-faq-topics.ts";
@@ -48,6 +48,14 @@ describe("buildGroundingContext", () => {
     );
     expect(excerpt).toContain("Chinese medicine");
     expect(excerpt).not.toMatch(/cookie/i);
+  });
+
+  it("counts skip links and short nav as unusable excerpt", () => {
+    const text = usableExcerptText(
+      "[Zum Inhalt springen](https://example.com/#main)\n\nHerzlichen Willkommen in meiner Praxis für Akupunktur und Moxa in Berlin-Spandau.",
+    );
+    expect(text).toContain("Akupunktur");
+    expect(text).not.toMatch(/Zum Inhalt springen/i);
   });
 });
 

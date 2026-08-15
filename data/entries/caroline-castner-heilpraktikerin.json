@@ -2,8 +2,8 @@
   "id": "caroline-castner-heilpraktikerin",
   "slug": "caroline-castner-heilpraktikerin",
   "name": "Caroline Castner Heilpraktikerin",
-  "description": "Caroline Castner Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Steglitz-Zehlendorf bietet Caroline Castner Ayurveda Medizin und Naturheilkunde an. Sie kombiniert jahrtausendealtes Wissen des Ayurveda mit moderner funktioneller Medizin, um die Selbstheilungskräfte des Körpers zu aktivieren. Ihre Praxis behandelt unter anderem Schlafstörungen, Hauterkrankungen und Autoimmunerkrankungen durch pflanzliche Heilmittel, orthomolekulare Substitution und typgerechte Ernährung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Roonstraße 16",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "01773238083",
   "website": "https://carolinecastner.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgxuMTPdbqEcR8f1LuQoFPRY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,8 +57,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgxuMTPdbqEcR8f1LuQoFPRY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

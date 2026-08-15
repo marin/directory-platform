@@ -15,6 +15,10 @@
   "indicationIds": [
     "kinderwunsch"
   ],
+  "qualifications": [
+    "EMDR-Traumatherapeutin",
+    "BKiD-Kinderwunschberaterin"
+  ],
   "address": {
     "street": "Genter Str. 56",
     "locality": "Berlin",

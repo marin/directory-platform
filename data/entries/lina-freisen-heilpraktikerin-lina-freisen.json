@@ -2,8 +2,8 @@
   "id": "lina-freisen-heilpraktikerin-lina-freisen",
   "slug": "lina-freisen-heilpraktikerin-lina-freisen",
   "name": "Lina Freisen - Heilpraktikerin Lina Freisen",
-  "description": "Lina Freisen - Heilpraktikerin Lina Freisen ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Heilpraktikerin Lina Freisen ist seit 2009 in Berlin Mitte tätig und bietet Behandlungen in Osteopathie, Homöopathie, Ernährungsberatung und Naturheilkunde an. Nach einer dreijährigen Vollzeitausbildung legte sie 2005 die amtsärztliche Überprüfung ab. Ihr Ziel ist es, dass Sie sich gesünder, aktiver und schmerzfrei fühlen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,10 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [],
+  "qualifications": [
+    "Amtsärztliche Überprüfung"
   ],
   "address": {
     "street": "Anklamer Str. 38",

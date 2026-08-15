@@ -2,8 +2,8 @@
   "id": "heilpraktiker-psychotherapie-dominik-hof",
   "slug": "heilpraktiker-psychotherapie-dominik-hof",
   "name": "Heilpraktiker Psychotherapie Dominik Hof",
-  "description": "Heilpraktiker Psychotherapie Dominik Hof ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Dominik Hof bietet in Friedrichshain-Kreuzberg Psychotherapie und psychosomatische Behandlungen an. Er nutzt Methoden wie die Integrative Primärtherapie und körperorientierte Verfahren, um Klienten bei Depressionen, Essstörungen und somatoformen Schmerzstörungen zu unterstützen. Darüber hinaus umfasst sein Leistungsspektrum auch therapeutische Begleitungen in der Psychoonkologie sowie verschiedene Entspannungsverfahren.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "im Ströme- Institut e. V",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03020275062",
   "email": "dominik.hof@gmx.de",
   "website": "http://hpp-dominikhof-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfbzdYZxRqEcRLu0A_kYYn8E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJfbzdYZxRqEcRLu0A_kYYn8E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

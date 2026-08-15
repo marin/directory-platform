@@ -14,6 +14,8 @@ const entry = defineCollection({
     categories: z.array(z.string()),
     areaIds: z.array(z.string()).optional(),
     indicationIds: z.array(z.string()).optional(),
+    associationIds: z.array(z.string()).optional(),
+    qualifications: z.array(z.string()).optional(),
     address: z
       .object({
         street: z.string(),

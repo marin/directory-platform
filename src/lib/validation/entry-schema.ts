@@ -54,6 +54,8 @@ export const entrySchema = z.object({
   categories: z.array(z.string().min(1)).min(1),
   areaIds: z.array(z.string().min(1)).optional().default([]),
   indicationIds: z.array(z.string().min(1)).optional().default([]),
+  associationIds: z.array(z.string().min(1)).optional().default([]),
+  qualifications: z.array(z.string().min(1).max(80)).max(4).optional().default([]),
   address: addressSchema.optional(),
   geo: geoSchema.optional(),
   phone: z.string().optional(),

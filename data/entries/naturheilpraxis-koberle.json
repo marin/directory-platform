@@ -13,6 +13,9 @@
     "treptow-koepenick"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vod"
+  ],
   "address": {
     "street": "Gounodstraße 20",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "eva-maria-lieberam-heilpraktikerin-fur-psychotherapie",
   "slug": "eva-maria-lieberam-heilpraktikerin-fur-psychotherapie",
   "name": "Eva-Maria Lieberam - Heilpraktikerin für Psychotherapie",
-  "description": "Eva-Maria Lieberam - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Eva-Maria Lieberam bietet in ihrer Praxis in Steglitz-Zehlendorf Psychotherapie mit einem Fokus auf Angst, Panik und Trauer an. Sie nutzt die Re-Trace Methode, um Klienten zu helfen, belastende Emotionen und körperliche Symptome zu verstehen und zu verarbeiten. In einem kostenfreien Erstgespräch klärt sie gemeinsam mit den Klienten, welche Schritte zur Entlastung sinnvoll sind. Die Therapie findet sowohl persönlich als auch im geschützten digitalen Raum statt.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kommandantenstraße 105",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "phone": "01629011931",
   "email": "praxis@therapie-lieberam.de",
   "website": "https://www.therapie-lieberam.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq8TSduNRqEcRKzJ0nJiVM60",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +60,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJq8TSduNRqEcRKzJ0nJiVM60",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-und-asthetik-heilpraktikerin-cornelia-zoll",
   "slug": "praxis-fur-naturheilkunde-und-asthetik-heilpraktikerin-cornelia-zoll",
   "name": "Praxis für Naturheilkunde und Ästhetik | Heilpraktikerin Cornelia Zoll",
-  "description": "Praxis für Naturheilkunde und Ästhetik | Heilpraktikerin Cornelia Zoll ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Praxis für Naturheilkunde und Ästhetik von Heilpraktikerin Cornelia Zoll in Reinickendorf stehen naturheilkundliche Methoden im Mittelpunkt. Die Praxis bietet verschiedene Therapien an, die auf die Bedürfnisse der Patienten abgestimmt sind. Ziel ist es, die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gralsburgsteig 1",
     "locality": "Berlin",

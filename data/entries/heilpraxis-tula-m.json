@@ -2,8 +2,8 @@
   "id": "heilpraxis-tula-m",
   "slug": "heilpraxis-tula-m",
   "name": "Heilpraxis - Tula M.",
-  "description": "Heilpraxis - Tula M. ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Neukölln praktiziert Tula M. mit einem Schwerpunkt auf Klassischer Homöopathie. Sie betrachtet den Gesamtzustand ihrer Patienten und führt eine ausführliche Erstanamnese durch, um das passende homöopathische Mittel zu bestimmen. Ihre Erfahrungen aus der Tanz- und Theaterwelt fließen in ihre Arbeit ein, wobei sie Körper, Geist und Seele als Einheit betrachtet. Tula M. legt Wert auf eine vertrauensvolle Atmosphäre, in der alle Aspekte des Lebens Raum finden dürfen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Richardstraße 43",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "email": "u00a0mail@heilpraxistulam.de",
   "website": "https://www.heilpraxistulam.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZRgB9pNPqEcR0BJdlcWqVAU",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,8 +57,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZRgB9pNPqEcR0BJdlcWqVAU",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

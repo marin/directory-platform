@@ -2,8 +2,8 @@
   "id": "ana-salgueiro-scerba-heilpraktiker",
   "slug": "ana-salgueiro-scerba-heilpraktiker",
   "name": "Ana Salgueiro Scerba, Heilpraktiker",
-  "description": "Ana Salgueiro Scerba, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis von Ana Salgueiro Scerba in Tempelhof-Schöneberg liegt der Schwerpunkt auf der japanischen Akupunktur. Diese sanfte Methode zielt darauf ab, Körper und Geist in Einklang zu bringen und Beschwerden an der Wurzel zu behandeln. Neben Akupunktur werden auch weitere naturheilkundliche Ansätze zur Verbesserung des allgemeinen Wohlbefindens eingesetzt.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lepsiusstraße 51",
     "locality": "Berlin",
@@ -24,11 +25,11 @@
   },
   "email": "kundenservice@jameda.de",
   "website": "https://www.jameda.de/ana-salgueiro-scerba/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=2656&utm_content=website",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRM-m164ZfU14",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 24,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKUhcxYBaqEcRM-m164ZfU14",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 24
+  "faq": []
 }

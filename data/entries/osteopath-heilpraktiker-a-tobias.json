@@ -13,6 +13,9 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vod"
+  ],
   "address": {
     "street": "Wichertstraße 69",
     "locality": "Berlin",

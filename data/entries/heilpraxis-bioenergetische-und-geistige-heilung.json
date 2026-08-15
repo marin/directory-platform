@@ -2,8 +2,8 @@
   "id": "heilpraxis-bioenergetische-und-geistige-heilung",
   "slug": "heilpraxis-bioenergetische-und-geistige-heilung",
   "name": "Heilpraxis Bioenergetische und geistige Heilung",
-  "description": "Heilpraxis Bioenergetische und geistige Heilung ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis für bioenergetische und geistige Heilung in Mitte arbeitet Tarıg Şükret Baldede mit Methoden der Bioenergie und Metaphysik. Er hilft, emotionale und seelische Belastungen zu verarbeiten und energetische Blockaden zu lösen. Seine Angebote umfassen auch Heilcamps, in denen Klienten neue Energie tanken und innere Ruhe finden können. Zudem bietet er Bioenergie-Ausbildungen an, um das persönliche Potenzial zu entfalten und mentale Blockaden zu überwinden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gierkezeile 39",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03054038518",
   "website": "https://xn--hheres-bewusstsein-d3b.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx-RzoSZRqEcRoEIEzJ1bggw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 48,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,8 +62,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJx-RzoSZRqEcRoEIEzJ1bggw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 48
+  "faq": []
 }

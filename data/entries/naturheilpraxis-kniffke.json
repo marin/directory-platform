@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-kniffke",
   "slug": "naturheilpraxis-kniffke",
   "name": "Naturheilpraxis-Kniffke",
-  "description": "Naturheilpraxis-Kniffke ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Kniffke in Friedrichshain-Kreuzberg behandelt Sebastian Kniffke, Heilpraktiker und Osteopath, chronische Beschwerden wie Rückenschmerzen und Allergien. Er setzt Methoden wie Osteopathie, Medi Taping, Neuraltherapie und biokybernetische Medizin ein, um die Gesundheit seiner Patienten zu fördern. Vereinbaren Sie online einen Termin für eine Behandlung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Jessnerstraße 22",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "info@naturheilpraxis-kniffke.de",
   "website": "https://www.naturheilpraxis-kniffke.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/sebastian-kniffke?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoRZVYvNOqEcRCb-HFqyLfL0",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 19,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +60,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoRZVYvNOqEcRCb-HFqyLfL0",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 19
+  "faq": []
 }

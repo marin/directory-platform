@@ -2,8 +2,8 @@
   "id": "hydro-colon-berlin-nursen-tosun",
   "slug": "hydro-colon-berlin-nursen-tosun",
   "name": "Hydro-Colon-Berlin (Nursen Tosun)",
-  "description": "Hydro-Colon-Berlin (Nursen Tosun) ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Friedrichshain-Kreuzberg bietet die Praxis Hydro-Colon-Berlin unter der Leitung von Nursen Tosun die Colon-Hydro-Therapie an. Diese Methode reinigt den Dickdarm durch gezielte Wasserspülungen und fördert die Entgiftung des Körpers. Die Behandlung verbessert die Verdauung und unterstützt die Regeneration der Darmschleimhaut.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Grimmstraße 21",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "015772546863",
   "email": "info@aqualorin.de",
   "website": "http://hydrocolon-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5yctH8xPqEcRwCKgjaEDdjk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -59,8 +63,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5yctH8xPqEcRwCKgjaEDdjk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 26
+  "faq": []
 }

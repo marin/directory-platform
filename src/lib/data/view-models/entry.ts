@@ -3,13 +3,14 @@ import type { NormalizedEntry } from "../normalize-entry.ts";
 import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
 import type { Indication } from "../../validation/indication-schema.ts";
+import type { Association } from "../../validation/association-schema.ts";
 import {
   computeCategoryStats,
   buildContextFact,
   formatPrice,
   type AggregateStats,
 } from "../../aggregates/compute.ts";
-import { entryPath, categoryPath, areaPath } from "../../routing/paths.ts";
+import { entryPath, categoryPath, areaPath, indicationPath } from "../../routing/paths.ts";
 import {
   entryImagePath,
   resolveCardImage,
@@ -21,6 +22,7 @@ import {
   type EntryBadgeId,
 } from "../extract-badges.ts";
 import { sortEntriesByRichness } from "../entry-richness.ts";
+import { formatAssociationChip, formatCredentialsLine } from "../extract-credentials.ts";
 
 export interface EntryCardViewModel {
   slug: string;
@@ -48,14 +50,21 @@ export interface RelatedEntriesResult {
   title: string;
 }
 
+export interface EntryAssociationViewModel {
+  id: string;
+  label: string;
+}
+
 export interface EntryViewModel {
   entry: NormalizedEntry;
   href: string;
   contextFact: string;
+  credentialsLine?: string;
   category: Category | undefined;
   categories: Category[];
   areas: Area[];
   indications: Indication[];
+  associations: EntryAssociationViewModel[];
   badges: EntryBadgeViewModel[];
   stats: AggregateStats;
   images: string[];
@@ -97,6 +106,7 @@ export function toEntryViewModel(
   areas: Area[],
   allEntries: NormalizedEntry[],
   indications: Indication[] = [],
+  associationTaxonomy: Association[] = [],
 ): EntryViewModel {
   const entryCategories = entry.categories
     .map((id) => categories.find((c) => c.id === id))
@@ -105,6 +115,9 @@ export function toEntryViewModel(
   const entryAreas = areas.filter((a) => entry.areaIds?.includes(a.id));
   const entryIndications = indications.filter((item) =>
     (entry.indicationIds ?? []).includes(item.id),
+  );
+  const entryAssociations = associationTaxonomy.filter((item) =>
+    (entry.associationIds ?? []).includes(item.id),
   );
   const stats = computeCategoryStats(allEntries, entry.categories[0] ?? "");
   const contextFact = category
@@ -118,10 +131,15 @@ export function toEntryViewModel(
     entry,
     href: entryPath(entry.slug),
     contextFact,
+    credentialsLine: formatCredentialsLine(entry.qualifications ?? [], entryAssociations),
     category,
     categories: entryCategories,
     areas: entryAreas,
     indications: entryIndications,
+    associations: entryAssociations.map((item) => ({
+      id: item.id,
+      label: formatAssociationChip(item),
+    })),
     badges: extractEntryBadgeIds(entry).map((id) => ({
       ...ENTRY_BADGE_META[id],
       href: id === "hpp" && psychotherapy ? categoryPath(psychotherapy.slug) : undefined,
@@ -198,12 +216,38 @@ export function getRelatedEntries(
   categories: Category[],
   areas: Area[],
   limit = 4,
+  indications: Indication[] = [],
 ): RelatedEntriesResult {
   const counts = categoryOpenCounts(allEntries);
   const specificId = relatedCategoryId(entry, counts);
   const categoryName = categories.find((item) => item.id === specificId)?.name;
   const areaName = areas.find((item) => (entry.areaIds ?? []).includes(item.id))?.name;
   const peers = allEntries.filter((item) => item.isOpen && item.slug !== entry.slug);
+
+  const indicationCounts = new Map<string, number>();
+  for (const item of allEntries) {
+    if (!item.isOpen) continue;
+    for (const id of item.indicationIds ?? []) {
+      indicationCounts.set(id, (indicationCounts.get(id) ?? 0) + 1);
+    }
+  }
+  const indicationId = [...(entry.indicationIds ?? [])].sort((a, b) => {
+    const diff = (indicationCounts.get(a) ?? 0) - (indicationCounts.get(b) ?? 0);
+    if (diff !== 0) return diff;
+    return a.localeCompare(b);
+  })[0];
+  const indicationName = indications.find((item) => item.id === indicationId)?.name;
+  const sameIndicationAndArea = indicationId
+    ? peers.filter(
+        (item) => (item.indicationIds ?? []).includes(indicationId) && sharesArea(entry, item),
+      )
+    : [];
+  if (sameIndicationAndArea.length > 0) {
+    return {
+      entries: sortEntriesByRichness(sameIndicationAndArea).slice(0, limit),
+      title: relatedEntriesTitle(indicationName, areaName),
+    };
+  }
 
   const sameAreaAndCategory = specificId
     ? peers.filter((item) => item.categories.includes(specificId) && sharesArea(entry, item))
@@ -253,4 +297,14 @@ export function shouldIndexArea(openCount: number): { index: boolean; noindex: b
   };
 }
 
-export { categoryPath, areaPath, entryPath };
+export function shouldIndexIndication(
+  openCount: number,
+): { index: boolean; noindex: boolean } {
+  const min = siteConfig.quality.minListingsForIndicationPage;
+  return {
+    index: openCount >= min,
+    noindex: openCount > 0 && openCount < min,
+  };
+}
+
+export { categoryPath, areaPath, entryPath, indicationPath };

@@ -1,5 +1,9 @@
 function shingles(text: string, size = 3): Set<string> {
-  const words = text.toLowerCase().replace(/[^a-z0-9\s]/g, "").split(/\s+/).filter(Boolean);
+  const words = text
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s]/gu, "")
+    .split(/\s+/)
+    .filter(Boolean);
   const result = new Set<string>();
   for (let i = 0; i <= words.length - size; i++) {
     result.add(words.slice(i, i + size).join(" "));

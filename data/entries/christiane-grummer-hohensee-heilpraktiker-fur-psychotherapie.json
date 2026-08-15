@@ -13,6 +13,9 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vfp"
+  ],
   "address": {
     "street": "Mommsenstraße 43",
     "locality": "Berlin",

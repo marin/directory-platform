@@ -2,8 +2,8 @@
   "id": "dorthe-thiel-heilpraktikerin-berlin",
   "slug": "dorthe-thiel-heilpraktikerin-berlin",
   "name": "Dörthe Thiel - Heilpraktikerin Berlin",
-  "description": "Dörthe Thiel - Heilpraktikerin Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Spandau bietet Dörthe Thiel als Heilpraktikerin verschiedene naturheilkundliche Methoden an. Sie setzt auf alternative Therapieformen, darunter Pflanzenheilkunde, um die Gesundheit ihrer Patienten zu fördern. Ihre Praxis zeichnet sich durch ein persönliches und vertrauensvolles Umfeld aus.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schloßstraße 2",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "email": "dr.jacobsohn@kardiologe-jacobsohn-berlin.de",
   "website": "https://kardiologe-jacobsohn-berlin.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/doerthe-thiel?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSSTqZKZVqEcRAH9RUmtvWeU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJSSTqZKZVqEcRAH9RUmtvWeU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

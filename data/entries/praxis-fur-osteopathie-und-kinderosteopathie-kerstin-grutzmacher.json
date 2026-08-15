@@ -12,6 +12,9 @@
     "lichtenberg"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vod"
+  ],
   "address": {
     "street": "Ehrlichstraße 15",
     "locality": "Berlin",

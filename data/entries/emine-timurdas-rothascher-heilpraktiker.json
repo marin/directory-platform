@@ -2,8 +2,8 @@
   "id": "emine-timurdas-rothascher-heilpraktiker",
   "slug": "emine-timurdas-rothascher-heilpraktiker",
   "name": "Emine Timurdas-Rothascher, Heilpraktiker",
-  "description": "Emine Timurdas-Rothascher, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Emine Timurdas-Rothascher ist Heilpraktikerin für Psychotherapie in Charlottenburg-Wilmersdorf. Sie behandelt körperliche Beschwerden wie Rückenschmerzen und Verspannungen mit manuellen Techniken. Zudem setzt sie Hypnose-Therapie zur Lösung von Blockaden und Suchtverhalten ein. Ihre eigene Methode, die BEE-Therapie, fördert die persönliche Entwicklung und Entfaltung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fredericiastraße 33",
     "locality": "Berlin",
@@ -24,11 +25,11 @@
   },
   "email": "bewertungen@jameda.de",
   "website": "https://www.jameda.de/emine-timurdas-rothascher/heilpraktiker-heilpraktiker-fuer-psychotherapie/berlin?utm_source=google&utm_medium=gmb&utm_campaign=394214&utm_content=website",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKcMGzNVQqEcRuWvlfO2xspM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJKcMGzNVQqEcRuWvlfO2xspM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

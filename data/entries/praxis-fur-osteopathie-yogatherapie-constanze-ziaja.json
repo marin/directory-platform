@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-yogatherapie-constanze-ziaja",
   "slug": "praxis-fur-osteopathie-yogatherapie-constanze-ziaja",
   "name": "Praxis für Osteopathie & Yogatherapie - Constanze Ziaja",
-  "description": "Praxis für Osteopathie & Yogatherapie - Constanze Ziaja ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Constanze Ziaja ist Osteopathin und Yogalehrerin in Steglitz-Zehlendorf. Sie behandelt mit osteopathischen Methoden und integriert yogatherapeutische Ansätze in ihre Praxis. Ihr Ziel ist es, die Selbstheilungskräfte der Patienten zu aktivieren und die körperliche Beweglichkeit zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wünsdorfer Str. 107",
     "locality": "Berlin",

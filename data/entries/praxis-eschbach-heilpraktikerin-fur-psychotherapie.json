@@ -2,8 +2,8 @@
   "id": "praxis-eschbach-heilpraktikerin-fur-psychotherapie",
   "slug": "praxis-eschbach-heilpraktikerin-fur-psychotherapie",
   "name": "Praxis Eschbach Heilpraktikerin für Psychotherapie",
-  "description": "Praxis Eschbach Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Die Praxis Eschbach bietet psychotherapeutische Behandlungen in Steglitz-Zehlendorf an. Die Heilpraktikerin für Psychotherapie nutzt Methoden der Naturheilkunde zur Unterstützung ihrer Klienten. In der Praxis stehen die psychischen Bedürfnisse der Patienten im Mittelpunkt.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Potsdamer Str. 37",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "015737959740",
   "email": "info@praxis-eschbach.de",
   "website": "http://www.praxis-eschbach.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK9m9oFNZqEcR1Nxsn8pMLiI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK9m9oFNZqEcR1Nxsn8pMLiI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

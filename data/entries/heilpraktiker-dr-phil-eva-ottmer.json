@@ -2,8 +2,8 @@
   "id": "heilpraktiker-dr-phil-eva-ottmer",
   "slug": "heilpraktiker-dr-phil-eva-ottmer",
   "name": "Heilpraktiker Dr. phil. Eva Ottmer",
-  "description": "Heilpraktiker Dr. phil. Eva Ottmer ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Heilpraktikerin Dr. phil. Eva Ottmer bietet in ihrer Heilpraxis am Tornowsee Akupunktur und craniosacrale Therapie an. Zudem leitet sie Qigong Workshops, in denen die Teilnehmer lernen, Qi zu berühren und zu bewegen. Ihre Praxis befindet sich in Pankow.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heilpraxen an der Schönhauser Allee",
     "locality": "Berlin",

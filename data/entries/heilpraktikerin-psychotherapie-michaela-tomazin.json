@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-psychotherapie-michaela-tomazin",
   "slug": "heilpraktikerin-psychotherapie-michaela-tomazin",
   "name": "Heilpraktikerin Psychotherapie - Michaela Tomazin",
-  "description": "Heilpraktikerin Psychotherapie - Michaela Tomazin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Michaela Tomazin arbeitet in Friedrichshain-Kreuzberg mit traumasensibler Psychotherapie. Sie nutzt integrative Techniken, um Klienten dabei zu helfen, ihre inneren Muster zu verstehen und Veränderungen in ihrem Leben zu bewirken. Ihr Fokus liegt auf der Stärkung der Selbstwirksamkeit und der Entwicklung gesunder Beziehungen zu sich selbst und anderen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Böckhstraße 45",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "01794489938",
   "email": "michaela.tomazin@gmx.net",
   "website": "http://www.wahrhaftigsein.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaZk1x7m69WoRYtcLZ-Sqsas",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJaZk1x7m69WoRYtcLZ-Sqsas",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "susanne-hoderlein-heilpraktikerin-fur-psychotherapie",
   "slug": "susanne-hoderlein-heilpraktikerin-fur-psychotherapie",
   "name": "Susanne Hoderlein | Heilpraktikerin für Psychotherapie",
-  "description": "Susanne Hoderlein | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In Berlin-Friedrichshain bietet Susanne Hoderlein traumasensible Psychotherapie an. Sie begleitet Erwachsene bei Themen wie Angststörungen, Depressionen, Beziehungsproblemen und psychosomatischen Beschwerden. In einem geschützten Raum entwickeln Klienten gemeinsam mit ihr Strategien zur Bewältigung von Lebenskrisen und zur Stärkung des Selbstwerts.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Jungstraße 4",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "017648090686",
   "email": "info@praxis-hoderlein.de",
   "website": "https://www.praxis-hoderlein.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbbpCrJVPqEcR-x18_sssNjk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -88,8 +92,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbbpCrJVPqEcR-x18_sssNjk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "herzraum-berlin-ramos-heilpraktiker-fur-psychotherapie-traumatherapie",
   "slug": "herzraum-berlin-ramos-heilpraktiker-fur-psychotherapie-traumatherapie",
   "name": "Herzraum Berlin - Ramos - Heilpraktiker für Psychotherapie - Traumatherapie",
-  "description": "Herzraum Berlin - Ramos - Heilpraktiker für Psychotherapie - Traumatherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Herzraum Berlin in Pankow bietet Psychotherapie mit einem Schwerpunkt auf Traumatherapie an. Der Heilpraktiker Ramos nutzt naturheilkundliche Ansätze, um Klienten bei der Bewältigung psychischer Herausforderungen zu unterstützen. Die Praxis bleibt bis auf weiteres geschlossen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Winsstraße 60",
     "locality": "Berlin",

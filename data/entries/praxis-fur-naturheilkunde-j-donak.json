@@ -12,6 +12,9 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "fvdh"
+  ],
   "address": {
     "street": "Hilbertstraße 9",
     "locality": "Berlin",

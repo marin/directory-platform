@@ -2,8 +2,8 @@
   "id": "osteopathie-stichling",
   "slug": "osteopathie-stichling",
   "name": "Osteopathie-Stichling",
-  "description": "Osteopathie-Stichling ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Anneke Stichling ist Heilpraktikerin mit dem Schwerpunkt Osteopathie in Treptow-Köpenick. Sie behandelt Patienten mit manuellen Techniken, um Spannungszustände im Körper zu verändern und eine körperliche Neutralität zu erreichen. Ihre Therapieangebote richten sich an Erwachsene, Kinder sowie Schwangere und umfassen die Bereiche parietale, viszerale und craniosacrale Osteopathie.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ahornallee 7",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "03044049677",
   "email": "annekestichling@freenet.de",
   "website": "http://osteopathie-stichling.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa-xAG1VJqEcRZk0-IRllg_E",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa-xAG1VJqEcRZk0-IRllg_E",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

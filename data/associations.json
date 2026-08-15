@@ -1,0 +1,101 @@
+[
+  {
+    "id": "fdh",
+    "name": "Fachverband Deutscher Heilpraktiker",
+    "abbreviation": "FDH",
+    "synonyms": [
+      "fachverband deutscher heilpraktiker",
+      "fachverbandes deutscher heilpraktiker",
+      "verband freie heilpraktiker",
+      "freie heilpraktiker e.v",
+      "freie heilpraktiker",
+      "fdh"
+    ]
+  },
+  {
+    "id": "bdh",
+    "name": "Bund Deutscher Heilpraktiker",
+    "abbreviation": "BDH",
+    "synonyms": [
+      "bund deutscher heilpraktiker",
+      "bdh"
+    ]
+  },
+  {
+    "id": "vdh",
+    "name": "Verband Deutscher Heilpraktiker",
+    "abbreviation": "VDH",
+    "synonyms": [
+      "verband deutscher heilpraktiker",
+      "vdh"
+    ],
+    "forbidIfPrecededBy": ["fach", "freier "]
+  },
+  {
+    "id": "udh",
+    "name": "Union Deutscher Heilpraktiker",
+    "abbreviation": "UDH",
+    "synonyms": [
+      "union deutscher heilpraktiker",
+      "udh"
+    ]
+  },
+  {
+    "id": "fvdh",
+    "name": "Freier Verband Deutscher Heilpraktiker",
+    "abbreviation": "FVDH",
+    "synonyms": [
+      "freier verband deutscher heilpraktiker",
+      "fvdh"
+    ]
+  },
+  {
+    "id": "vfp",
+    "name": "Verband Freier Psychotherapeuten",
+    "abbreviation": "VFP",
+    "synonyms": [
+      "verband freier psychotherapeuten",
+      "verband freier psychotherapeut",
+      "vfp"
+    ]
+  },
+  {
+    "id": "agtcm",
+    "name": "Arbeitsgemeinschaft für Traditionelle Chinesische Medizin",
+    "abbreviation": "AGTCM",
+    "synonyms": [
+      "arbeitsgemeinschaft für traditionelle chinesische medizin",
+      "arbeitsgemeinschaft fuer traditionelle chinesische medizin",
+      "agtcm"
+    ]
+  },
+  {
+    "id": "vod",
+    "name": "Verband der Osteopathen Deutschland",
+    "abbreviation": "VOD",
+    "synonyms": [
+      "verband der osteopathen deutschland",
+      "verband der osteopathen",
+      "vod"
+    ]
+  },
+  {
+    "id": "bao",
+    "name": "Bundesverband Osteopathie",
+    "abbreviation": "BAO",
+    "synonyms": [
+      "bundesverband osteopathie",
+      "bao"
+    ]
+  },
+  {
+    "id": "shz",
+    "name": "Stiftung Homöopathie-Zertifikat",
+    "abbreviation": "SHZ",
+    "synonyms": [
+      "stiftung homöopathie-zertifikat",
+      "stiftung homoeopathie-zertifikat",
+      "shz"
+    ]
+  }
+]

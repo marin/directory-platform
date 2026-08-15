@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-martina-gerber-hormontherapie-und-asthetik",
   "slug": "heilpraktikerin-martina-gerber-hormontherapie-und-asthetik",
   "name": "Heilpraktikerin Martina Gerber | Hormontherapie und Ästhetik",
-  "description": "Heilpraktikerin Martina Gerber | Hormontherapie und Ästhetik ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Tempelhof-Schöneberg bietet Heilpraktikerin Martina Gerber spezialisierte Behandlungen bei hormonellen Dysbalancen, Gewichtsmanagement und biologisch medizinischer Ästhetik an. Sie fokussiert sich auf die sanfte Regulation des Hormonsystems, insbesondere bei Kinderwunsch, Wechseljahresbeschwerden und Zyklusanomalien. Ihre Praxis kombiniert Methoden der Pflanzenheilkunde und Komplexhomöopathie, um die seelischen und körperlichen Aspekte der Patienten zu berücksichtigen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hubertusstraße 8",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03091488527",
   "email": "gemeinschaftspraxis-gerber@web.de",
   "website": "https://hormontherapie-bioidentisch.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUO-gYNaqEcRRGgUaKPeaIg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOUO-gYNaqEcRRGgUaKPeaIg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-donner",
   "slug": "naturheilpraxis-donner",
   "name": "Naturheilpraxis Donner",
-  "description": "Naturheilpraxis Donner ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Niels Donner praktiziert in Tempelhof-Schöneberg und bietet Methoden der Naturheilkunde, Osteopathie, Chiropraktik und Neuraltherapie an. Er behandelt verschiedene Beschwerden und fördert die Gesundheit seiner Patienten.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Praxis Wendring",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "01632691391",
   "email": "info@niels-donner.de",
   "website": "http://niels-donner.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPRPbhHtQqEcR__tOlSfsMMY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 24,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPRPbhHtQqEcR__tOlSfsMMY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 24
+  "faq": []
 }

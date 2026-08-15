@@ -41,6 +41,18 @@ describe("extractHomepage", () => {
     expect(result.flags.spam).toBe(false);
   });
 
+  it("does not treat German Einsatz or Gewinn as homepage spam", () => {
+    const result = extractHomepage(
+      "Akupunktur kommt zum Einsatz. Patienten gewinnen an Beweglichkeit.\n\n".repeat(20),
+    );
+    expect(result.flags.spam).toBe(false);
+  });
+
+  it("flags casino and pharma spam pages", () => {
+    const result = extractHomepage("# Online-Casino mit GGL-Zulassung – Starsplay jackpot");
+    expect(result.flags.spam).toBe(true);
+  });
+
   it("drops practice/nav headings that are not services", () => {
     const result = extractHomepage(
       `## The practice\n\n## Service\n\n### Acupuncture\n\n### Book Appointment\n`,

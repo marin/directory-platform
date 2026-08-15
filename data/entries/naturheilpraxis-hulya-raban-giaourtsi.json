@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-hulya-raban-giaourtsi",
   "slug": "naturheilpraxis-hulya-raban-giaourtsi",
   "name": "Naturheilpraxis Hülya Raban Giaourtsi",
-  "description": "Naturheilpraxis Hülya Raban Giaourtsi ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Hülya Raban Giaourtsi in Friedrichshain-Kreuzberg stehen verschiedene naturheilkundliche Methoden im Fokus. Die Praxis bietet unter anderem Somatic Facial Release, medizinische Ayurveda-Massagen, Schröpfen und Blutegeltherapie an. Diese Therapien zielen darauf ab, körperliche und seelische Beschwerden zu lindern und das allgemeine Wohlbefinden zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Arndtstraße 11",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "email": "kontakt@naturmedizin-erleben.de",
   "website": "https://www.naturmedizin-erleben.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/huelya-raban-giaourtsi?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzxfSsjpRqEcR3N3-762kjjM",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 12,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzxfSsjpRqEcR3N3-762kjjM",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 12
+  "faq": []
 }

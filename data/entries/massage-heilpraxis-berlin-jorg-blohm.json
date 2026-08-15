@@ -2,8 +2,8 @@
   "id": "massage-heilpraxis-berlin-jorg-blohm",
   "slug": "massage-heilpraxis-berlin-jorg-blohm",
   "name": "Massage Heilpraxis Berlin Jörg Blohm",
-  "description": "Massage Heilpraxis Berlin Jörg Blohm ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In Charlottenburg-Wilmersdorf bietet Jörg Blohm eine Vielzahl von Therapien an, darunter Akupunktur, Craniosacrale Therapie und Reiki. Seine Bachblüten-Therapie fördert die seelische Gesundheit und hilft, körperliche Beschwerden zu lindern. Mit seiner Erfahrung als Anästhesie- und Intensiv-Fachkrankenpfleger unterstützt er Klienten dabei, Verspannungen zu lösen und innere Ruhe zu finden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -14,6 +14,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Detmolder Str. 53",
     "locality": "Berlin",
@@ -28,6 +29,9 @@
   "phone": "01732448359",
   "email": "hallo@joergblohm.de",
   "website": "http://www.joergblohm.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa5nUEvZQqEcR61Qj9DM5XMo",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 152,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -73,8 +77,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJa5nUEvZQqEcR61Qj9DM5XMo",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 152
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "psychotherapie-sibylle-funfstuck-heilpraktikerin-fur-psychotherapie",
   "slug": "psychotherapie-sibylle-funfstuck-heilpraktikerin-fur-psychotherapie",
   "name": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie",
-  "description": "Psychotherapie Sibylle Fünfstück - Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In Berlin-Prenzlauer Berg bietet Sibylle Fünfstück psychotherapeutische Überbrückungstherapie an. Sie begleitet Menschen mit ADHS, Depressionen, komplexen Traumafolgen und belastenden Beziehungsmustern. Ihr integrativer Ansatz verbindet wissenschaftlich fundierte Methoden mit einem einfühlsamen, beziehungsorientierten Stil. Die Therapie findet sowohl vor Ort als auch online statt.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Prenzlauer Allee 44",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "017656059082",
   "email": "info@psychotherapie5stueck.de",
   "website": "https://www.psychotherapie5stueck.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXemNfRPqEcRY-3DbLUx6XY",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -76,8 +80,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXXemNfRPqEcRY-3DbLUx6XY",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

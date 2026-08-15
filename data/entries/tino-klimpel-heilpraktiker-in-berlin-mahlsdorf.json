@@ -2,8 +2,8 @@
   "id": "tino-klimpel-heilpraktiker-in-berlin-mahlsdorf",
   "slug": "tino-klimpel-heilpraktiker-in-berlin-mahlsdorf",
   "name": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf",
-  "description": "Tino Klimpel Heilpraktiker in Berlin-Mahlsdorf ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Tino Klimpel bietet in Berlin-Mahlsdorf verschiedene Methoden zur Schmerztherapie an, darunter die EMMETT Technique und Neuraltherapie. Er behandelt auch Stresssymptome wie Burn-Out und Schlafstörungen. Zu seinen weiteren Leistungen zählen Schröpfen, Blutegel-Therapie und Ohrakupunktur. Mit einem Fokus auf die Ursachenfindung unterstützt er seine Klienten auf dem Weg zu mehr Gesundheit und Lebensfreude.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hultschiner Damm 201",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "017660033474",
   "website": "http://www.tino-klimpel.de/",
   "bookingUrl": "https://www.tino-klimpel.de/workshop-einfuehrung-in-die-emmet-technik.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJewzyTr9JqEcRKVAUn8sb_2U",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 31,
   "openingHours": [
     {
       "day": "Monday",
@@ -134,8 +138,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJewzyTr9JqEcRKVAUn8sb_2U",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 31
+  "faq": []
 }

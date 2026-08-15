@@ -7,6 +7,7 @@ import { entrySchema } from "../validation/entry-schema.ts";
 import { categoriesFileSchema } from "../validation/category-schema.ts";
 import { areasFileSchema } from "../validation/area-schema.ts";
 import { indicationsFileSchema } from "../validation/indication-schema.ts";
+import { associationsFileSchema } from "../validation/association-schema.ts";
 import { redirectsFileSchema } from "../validation/redirect-schema.ts";
 import { commercialCampaignsFileSchema } from "../validation/campaign-schema.ts";
 import { generatedIntroSchema, generatedFaqSchema } from "../validation/generated-schema.ts";
@@ -20,6 +21,7 @@ import { normalizeEntry, type NormalizedEntry } from "./normalize-entry.ts";
 import type { Category } from "../validation/category-schema.ts";
 import type { Area } from "../validation/area-schema.ts";
 import type { Indication } from "../validation/indication-schema.ts";
+import type { Association } from "../validation/association-schema.ts";
 import type { Redirect } from "../validation/redirect-schema.ts";
 import type { CommercialCampaign } from "../validation/campaign-schema.ts";
 import type { GeneratedIntro, GeneratedFaq } from "../validation/generated-schema.ts";
@@ -55,13 +57,16 @@ export interface Dataset {
   categories: Category[];
   areas: Area[];
   indications: Indication[];
+  associations: Association[];
   entries: NormalizedEntry[];
   redirects: Redirect[];
   campaigns: CommercialCampaign[];
   categoryIntros: Map<string, GeneratedIntro>;
   areaIntros: Map<string, GeneratedIntro>;
+  indicationIntros: Map<string, GeneratedIntro>;
   categoryFaqs: Map<string, GeneratedFaq>;
   areaFaqs: Map<string, GeneratedFaq>;
+  indicationFaqs: Map<string, GeneratedFaq>;
   reviews: Map<string, Review[]>;
 }
 
@@ -69,6 +74,7 @@ export function loadDataset(): Dataset {
   const categories = categoriesFileSchema.parse(readJsonFile("data/categories.json"));
   const areas = areasFileSchema.parse(readJsonFile("data/areas.json"));
   const indications = indicationsFileSchema.parse(readJsonFile("data/indications.json"));
+  const associations = associationsFileSchema.parse(readJsonFile("data/associations.json"));
   const entryFiles = readdirSync(join(ROOT, "data/entries")).filter((f) =>
     f.endsWith(".json"),
   );
@@ -101,6 +107,14 @@ export function loadDataset(): Dataset {
   for (const { data } of readJsonDir("data/generated/area-faqs", generatedFaqSchema)) {
     areaFaqs.set(data.id, data);
   }
+  const indicationIntros = new Map<string, GeneratedIntro>();
+  for (const { data } of readJsonDir("data/generated/indication-intros", generatedIntroSchema)) {
+    indicationIntros.set(data.id, data);
+  }
+  const indicationFaqs = new Map<string, GeneratedFaq>();
+  for (const { data } of readJsonDir("data/generated/indication-faqs", generatedFaqSchema)) {
+    indicationFaqs.set(data.id, data);
+  }
 
   const reviews = new Map<string, Review[]>();
   const reviewsDir = join(ROOT, "data/reviews");
@@ -116,13 +130,16 @@ export function loadDataset(): Dataset {
     categories,
     areas,
     indications,
+    associations,
     entries,
     redirects,
     campaigns,
     categoryIntros,
     areaIntros,
+    indicationIntros,
     categoryFaqs,
     areaFaqs,
+    indicationFaqs,
     reviews,
   };
 }
@@ -156,9 +173,17 @@ export function validateDataset(): ValidationIssue[] {
     issues.push({ file: "data/indications.json", field: "(root)", message: String(e) });
   }
 
+  let associations: Association[] = [];
+  try {
+    associations = associationsFileSchema.parse(readJsonFile("data/associations.json"));
+  } catch (e) {
+    issues.push({ file: "data/associations.json", field: "(root)", message: String(e) });
+  }
+
   const categoryIds = new Set(categories.map((c) => c.id));
   const areaIds = new Set(areas.map((a) => a.id));
   const indicationIds = new Set(indications.map((item) => item.id));
+  const associationIds = new Set(associations.map((item) => item.id));
   const entrySlugs = new Set<string>();
   const entryIds = new Set<string>();
 
@@ -214,6 +239,15 @@ export function validateDataset(): ValidationIssue[] {
           });
         }
       }
+      for (const [i, associationId] of (entry.associationIds ?? []).entries()) {
+        if (!associationIds.has(associationId)) {
+          issues.push({
+            file: filePath,
+            field: `associationIds[${i}]`,
+            message: `association "${associationId}" does not exist`,
+          });
+        }
+      }
       for (const [i, img] of (entry.images ?? []).entries()) {
         if (/^https?:\/\//i.test(img)) continue;
         if (!existsSync(join(ROOT, "public", img))) {
@@ -244,6 +278,9 @@ export function validateDataset(): ValidationIssue[] {
     for (const area of areas) {
       liveRoutes.add(`/area/${area.slug}`);
     }
+    for (const indication of indications) {
+      liveRoutes.add(`/indikation/${indication.slug}`);
+    }
     for (const [i, redirect] of redirects.entries()) {
       if (!redirect.to.startsWith("/")) {
         issues.push({
@@ -259,7 +296,8 @@ export function validateDataset(): ValidationIssue[] {
         // Allow category targets even if thin
         const catTarget = categories.find((c) => `/category/${c.slug}` === redirect.to);
         const areaTarget = areas.find((a) => `/area/${a.slug}` === redirect.to);
-        if (!catTarget && !areaTarget && redirect.to !== "/") {
+        const indicationTarget = indications.find((item) => `/indikation/${item.slug}` === redirect.to);
+        if (!catTarget && !areaTarget && !indicationTarget && redirect.to !== "/") {
           issues.push({
             file: "data/redirects.json",
             field: `[${i}].to`,
@@ -327,7 +365,25 @@ export function validateDataset(): ValidationIssue[] {
         });
       }
     }
-    void openEntries;
+    const openByIndication = new Map<string, number>();
+    for (const entry of dataset.entries.filter((e) => e.isOpen)) {
+      for (const indicationId of entry.indicationIds ?? []) {
+        openByIndication.set(indicationId, (openByIndication.get(indicationId) ?? 0) + 1);
+      }
+    }
+    for (const indication of indications) {
+      const count = openByIndication.get(indication.id) ?? 0;
+      if (
+        count >= siteConfig.quality.minListingsForIndicationPage &&
+        !dataset.indicationIntros.has(indication.id)
+      ) {
+        issues.push({
+          file: `data/generated/indication-intros/${indication.id}.json`,
+          field: "(missing)",
+          message: `indexable indication "${indication.id}" requires approved intro content`,
+        });
+      }
+    }
   }
 
   return issues;

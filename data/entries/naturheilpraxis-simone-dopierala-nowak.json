@@ -12,6 +12,9 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "fdh"
+  ],
   "address": {
     "street": "Krokusstraße 3A",
     "locality": "Berlin",

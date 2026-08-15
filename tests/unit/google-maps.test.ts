@@ -264,4 +264,51 @@ describe("buildListingJsonLd", () => {
     const business = graph.find((node) => node["@type"] === "MedicalBusiness");
     expect(business?.medicalSpecialty).toBe("Psychotherapie");
   });
+
+  it("includes memberOf for tagged associations", () => {
+    const jsonLd = buildListingJsonLd(
+      {
+        id: "test",
+        slug: "test",
+        name: "Test Praxis",
+        description: "Test description.",
+        lastUpdated: "2026-08-15",
+        status: "open",
+        categories: ["osteopathie"],
+        areaIds: [],
+        associationIds: ["vod"],
+        openingHours: [],
+        offers: [],
+        images: [],
+        faq: [],
+        isOpen: true,
+        nap: {
+          name: "Test Praxis",
+          phone: undefined,
+          formattedPhone: undefined,
+          formattedAddress: undefined,
+        },
+      },
+      { id: "osteopathie", slug: "osteopathie", name: "Osteopathie" },
+      undefined,
+      [],
+      [
+        {
+          id: "vod",
+          name: "Verband der Osteopathen Deutschland",
+          abbreviation: "VOD",
+          synonyms: ["vod"],
+        },
+      ],
+    );
+
+    const graph = (jsonLd as { "@graph": Record<string, unknown>[] })["@graph"];
+    const business = graph.find((node) => node["@type"] === "MedicalBusiness");
+    expect(business?.memberOf).toEqual([
+      {
+        "@type": "Organization",
+        name: "Verband der Osteopathen Deutschland (VOD)",
+      },
+    ]);
+  });
 });

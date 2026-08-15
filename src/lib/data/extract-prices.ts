@@ -1,4 +1,5 @@
 import { stripHtmlArtifacts } from "./strip-html-artifacts.ts";
+import { isPageSpam } from "./page-spam.ts";
 
 export type ExtractedOffer = {
   name: string;
@@ -57,7 +58,7 @@ export function extractOffersFromMarkdown(markdown: string): ExtractedOffer[] {
   for (const rawLine of markdown.split("\n")) {
     const line = rawLine.trim();
     if (!line || !/€|eur|euro|,-/i.test(line)) continue;
-    if (/casino|slot|einsatz|gewinn/i.test(line)) continue;
+    if (isPageSpam(line)) continue;
 
     const { price, priceLabel } = extractPriceFromLine(line);
     if (!price && !priceLabel) continue;

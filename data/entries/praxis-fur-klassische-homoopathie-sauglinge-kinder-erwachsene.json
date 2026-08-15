@@ -2,8 +2,8 @@
   "id": "praxis-fur-klassische-homoopathie-sauglinge-kinder-erwachsene",
   "slug": "praxis-fur-klassische-homoopathie-sauglinge-kinder-erwachsene",
   "name": "Praxis für klassische Homöopathie, Säuglinge, Kinder & Erwachsene",
-  "description": "Praxis für klassische Homöopathie, Säuglinge, Kinder & Erwachsene ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für klassische Homöopathie in Treptow-Köpenick behandelt die Heilpraktikerin akute und chronische Erkrankungen bei Säuglingen, Kindern und Erwachsenen. Sie hat eine Ausbildung in klassischer Homöopathie sowie eine staatliche Prüfung als Gesundheits- und Krankenpflegerin absolviert. Die Behandlung erfolgt durch ausführliche Anamnese und gezielte Arzneimittelwahl, um die Ursachen der Beschwerden zu ermitteln und das gesundheitliche Gleichgewicht wiederherzustellen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "C/o Physiotherapie in",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "015227810716",
   "email": "praxis@just-homoeopathie-berlin.de",
   "website": "https://www.just-homoeopathie-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNbAY9lZJqEcRBlcILpOQSUw",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,8 +64,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJNbAY9lZJqEcRBlcILpOQSUw",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

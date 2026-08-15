@@ -2,8 +2,8 @@
   "id": "rolf-brunen-heilpraktiker-fur-psychotherapie",
   "slug": "rolf-brunen-heilpraktiker-fur-psychotherapie",
   "name": "Rolf Brünen Heilpraktiker für Psychotherapie",
-  "description": "Rolf Brünen Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Rolf Brünen ist Heilpraktiker für Psychotherapie in Marzahn-Hellersdorf. Er nutzt die Transaktionsanalyse, um Klient*innen bei der Erkennung und Lösung innerer Konflikte zu unterstützen. In einem respektvollen und vertrauensvollen Rahmen fördert er das Verständnis für persönliche Themen und hilft, neue Perspektiven zu entwickeln. Seine Arbeit zielt darauf ab, Selbstbewusstsein und Resilienz zu stärken sowie gesunde Verhaltensmuster zu etablieren.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dorfstraße 39S",
     "locality": "Berlin",
@@ -26,6 +27,7 @@
   "phone": "015204035600",
   "email": "kontakt@weiserweg.de",
   "website": "https://www.rolf-bruenen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJRrkBoJJqEcRRzQkIT-V060",
   "openingHours": [
     {
       "day": "Thursday",
@@ -35,6 +37,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJRrkBoJJqEcRRzQkIT-V060"
+  "faq": []
 }

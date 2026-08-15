@@ -2,8 +2,8 @@
   "id": "longvity-center-naturheilpraxis",
   "slug": "longvity-center-naturheilpraxis",
   "name": "Longvity Center Naturheilpraxis",
-  "description": "Longvity Center Naturheilpraxis ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Das Longvity Center Naturheilpraxis in Tempelhof-Schöneberg bietet Behandlungen in Akupunktur und Traditioneller Chinesischer Medizin (TCM) an. Die Praxis setzt auf Methoden der Naturheilkunde, um die Gesundheit ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Geiserichstraße 3",
     "locality": "Berlin",
@@ -25,11 +26,11 @@
   },
   "phone": "0307537100",
   "website": "http://longvitycenter.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhxcsbq1aqEcRpFwenuj61vo",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhxcsbq1aqEcRpFwenuj61vo",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

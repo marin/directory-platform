@@ -34,6 +34,7 @@ export default defineSite({
   quality: {
     minListingsForCategoryPage: 4,
     minListingsForAreaPage: 3,
+    minListingsForIndicationPage: 4,
     autoApprove: {
       enabled: true,
       requireDescription: true,
@@ -58,5 +59,6 @@ export default defineSite({
   pagination: {
     categoryPageSize: 36,
     areaPageSize: 36,
+    indicationPageSize: 36,
   },
 });

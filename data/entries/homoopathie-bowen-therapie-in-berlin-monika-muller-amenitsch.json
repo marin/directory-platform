@@ -13,6 +13,9 @@
     "tempelhof-schoeneberg"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "shz"
+  ],
   "address": {
     "street": "Kosleckweg 6",
     "locality": "Berlin",

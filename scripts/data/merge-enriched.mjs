@@ -8,6 +8,7 @@ import { ROOT } from "../lib/work-utils.mjs";
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
 const faqOnly = args.includes("--faq-only");
+const descriptionOnly = args.includes("--description-only");
 const slugArg = args.find((a) => a.startsWith("--slug="))?.split("=")[1]
   ?? (args.includes("--slug") ? args[args.indexOf("--slug") + 1] : undefined);
 
@@ -25,6 +26,7 @@ function listStagingSlugs() {
       const meta = JSON.parse(readFileSync(metaPath, "utf-8"));
       if (meta.mode === "fixture") return false;
       if (faqOnly && !Array.isArray(meta.topics)) return false;
+      if (descriptionOnly && meta.kind !== "description") return false;
       return true;
     });
 }
@@ -53,6 +55,12 @@ for (const slug of slugs) {
         faq: proposed.faq ?? [],
         lastUpdated: today,
       }
+    : descriptionOnly
+      ? {
+          ...current,
+          description: proposed.description,
+          lastUpdated: today,
+        }
     : {
         ...current,
         description: proposed.description,

@@ -2,8 +2,8 @@
   "id": "heilpraxis-katrin-von-rabenau",
   "slug": "heilpraxis-katrin-von-rabenau",
   "name": "Heilpraxis Katrin von Rabenau",
-  "description": "Heilpraxis Katrin von Rabenau ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Heilpraxis Katrin von Rabenau in Pankow kommen energetische Diagnose- und Behandlungsmethoden zum Einsatz. Die Praxis fokussiert sich auf die Erkennung und Auflösung von Belastungen, die zu gesundheitlichen Beschwerden führen können. Katrin von Rabenau unterstützt ihre Patienten dabei, krank machende Stress- und Verhaltensmuster zu erkennen und zu verändern. Auch Tiere werden erfolgreich behandelt, wobei die Frequenzanalyse zur Diagnostik genutzt wird.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schulstraße 26",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "017692467326",
   "email": "info@vonrabenau-heilpraxis.de",
   "website": "http://www.vonrabenau-heilpraxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJteyYTG9SqEcRYFP1CBLKjOU",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [],
   "offers": [
     {
@@ -33,8 +37,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJteyYTG9SqEcRYFP1CBLKjOU",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  "faq": []
 }

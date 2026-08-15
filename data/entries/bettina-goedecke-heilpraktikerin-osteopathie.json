@@ -15,6 +15,9 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vod"
+  ],
   "address": {
     "street": "Reichsstraße 93",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "soraya-hoppe-heilpraktikerin",
   "slug": "soraya-hoppe-heilpraktikerin",
   "name": "Soraya Hoppe | Heilpraktikerin",
-  "description": "Soraya Hoppe | Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Soraya Hoppe praktiziert in Kreuzberg und bietet Methoden der Naturheilkunde an, darunter Homöopathie, Chi Nei Tsang und verschiedene Massagetechniken. Sie behandelt akute und chronische Beschwerden bei Babys, Kindern, Jugendlichen und Erwachsenen, einschließlich Allergien, Verdauungsproblemen und emotionalen Beschwerden. Ihre Arbeit zielt darauf ab, Gesundheit, Resilienz und Lebensfreude zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heilpraxis – Praxisgemeinschaft für Naturheilverfahren",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "017624824828",
   "website": "https://sorayahoppe.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/soraya-hoppe?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzYSd63hPqEcRyQ0UoNZP2e0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzYSd63hPqEcRyQ0UoNZP2e0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 9
+  "faq": []
 }

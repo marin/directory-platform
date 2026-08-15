@@ -2,8 +2,8 @@
   "id": "wunderwerk-psyche-heilpraktikerin-fur-psychotherapie",
   "slug": "wunderwerk-psyche-heilpraktikerin-fur-psychotherapie",
   "name": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie",
-  "description": "Wunderwerk Psyche | Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "In Spandau bietet Janka Kemper als Heilpraktikerin für Psychotherapie Coaching und Psychotherapie an. Sie hilft Klienten, Klarheit zu gewinnen, innere Blockaden zu überwinden und neue Perspektiven zu entwickeln. In einem geschützten Rahmen unterstützt sie dabei, persönliche Herausforderungen zu meistern und Lebensfreude zurückzugewinnen. Das Walk & Talk-Format verbindet Gespräche mit der heilenden Wirkung der Natur.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Heiligensee 51",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   },
   "phone": "01604617422",
   "website": "http://www.janka-kemper.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7WsxH7tVqEcRkCrAEAkw06I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -63,8 +67,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7WsxH7tVqEcRkCrAEAkw06I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

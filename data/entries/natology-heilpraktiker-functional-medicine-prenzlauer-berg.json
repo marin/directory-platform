@@ -2,8 +2,8 @@
   "id": "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
   "slug": "natology-heilpraktiker-functional-medicine-prenzlauer-berg",
   "name": "Natology | Heilpraktiker | functional medicine | Prenzlauer Berg",
-  "description": "Natology | Heilpraktiker | functional medicine | Prenzlauer Berg ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Prenzlauer Berg kombiniert Sarah Henschel über 20 Jahre Erfahrung in der Naturheilkunde mit funktioneller Medizin. Sie nutzt Pflanzenextrakte, Ernährung und Vitalstoffe sowie persönliche Labordiagnostik, um Lösungen für Frauengesundheit, Darmgesundheit und hormonelle Themen zu finden. Zu ihren Dienstleistungen zählen Diätplanung, Allergieberatung, Hormontests und Unterstützung bei Fertilität sowie Schwangerschaft.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Knaackstraße 78",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "sarah.henschel@natology.de",
   "website": "https://www.natology.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/sarah-henschel/booking/new-patient?specialityId=1236&profile_skipped=true&utm_campaign=website-button&bookingFunnelSource=external_referral",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQVq43N1RqEcRILQKsBrm1Tk",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -46,8 +50,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJQVq43N1RqEcRILQKsBrm1Tk",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

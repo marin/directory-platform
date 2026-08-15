@@ -2,8 +2,8 @@
   "id": "kerstin-godry-heilpraktikerin-fur-psychotherapie-und-hypnosecoaching",
   "slug": "kerstin-godry-heilpraktikerin-fur-psychotherapie-und-hypnosecoaching",
   "name": "Kerstin Godry Heilpraktikerin für Psychotherapie und Hypnosecoaching",
-  "description": "Kerstin Godry Heilpraktikerin für Psychotherapie und Hypnosecoaching ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kerstin Godry ist Heilpraktikerin für Psychotherapie und Hypnosecoaching in Lichtenberg. Sie kombiniert ihre Erfahrungen aus der Psychotherapie und der Hypnose, um persönliche Herausforderungen zu bewältigen und emotionale Balance zu fördern. Ihre Schwerpunkte liegen in der Angst- und Depressionstherapie, der Trauma-Bewältigung sowie der Stressbewältigung. In vertrauensvollen Gesprächen erarbeitet sie gemeinsam mit ihren Klienten Lösungen zur persönlichen Weiterentwicklung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Huronseestraße 3",
     "locality": "Berlin",
@@ -27,11 +28,11 @@
   "phone": "01786730020",
   "email": "kontakt@kerstingodry.de",
   "website": "https://kerstingodry.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK0PuqH9PqEcRGf0W4mdFGWc",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK0PuqH9PqEcRGf0W4mdFGWc",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

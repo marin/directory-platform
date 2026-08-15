@@ -103,6 +103,25 @@ export function computeAreaStats(entries: NormalizedEntry[], areaId: string): Ag
   return computeAggregateStats(filtered);
 }
 
+export function computeIndicationStats(
+  entries: NormalizedEntry[],
+  indicationId: string,
+): AggregateStats {
+  const filtered = entries.filter(
+    (e) => e.isOpen && (e.indicationIds ?? []).includes(indicationId),
+  );
+  return computeAggregateStats(filtered);
+}
+
+export function indicationEntries(
+  entries: NormalizedEntry[],
+  indicationId: string,
+): NormalizedEntry[] {
+  return entries.filter(
+    (e) => e.isOpen && (e.indicationIds ?? []).includes(indicationId),
+  );
+}
+
 export function formatPrice(amount: number | undefined): string | undefined {
   if (amount === undefined) return undefined;
   return new Intl.NumberFormat(siteConfig.site.defaultLocale, {

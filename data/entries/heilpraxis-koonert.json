@@ -2,14 +2,18 @@
   "id": "heilpraxis-koonert",
   "slug": "heilpraxis-koonert",
   "name": "Heilpraxis Koonert",
-  "description": "Heilpraxis Koonert ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Heilpraxis Koonert in Pankow behandelt Angelika Koonert mit Methoden wie Fußreflexzonentherapie, Ausleitungstherapie und Infusionstherapie. Sie nutzt den elektromagnetischen Bluttest zur Diagnose von funktionellen Störungen und toxischen Belastungen. Darüber hinaus bietet sie Seminare zur Heilpraktikerausbildung und Selbstheilung an.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [],
+  "associationIds": [
+    "fdh"
   ],
   "address": {
     "street": "Winsstraße 17",
@@ -25,9 +29,9 @@
   "phone": "03041714164",
   "email": "info@heilpraxis-koonert.de",
   "website": "http://heilpraxis-koonert.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-5fJYgFOqEcRiSXuWWcCVZc",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-5fJYgFOqEcRiSXuWWcCVZc"
+  "faq": []
 }

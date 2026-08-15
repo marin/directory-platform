@@ -2,8 +2,8 @@
   "id": "korperorientierte-traumatherapie-und-shiatsu-nina-fleck-heilpraktikerin",
   "slug": "korperorientierte-traumatherapie-und-shiatsu-nina-fleck-heilpraktikerin",
   "name": "Körperorientierte Traumatherapie und Shiatsu | Nina Fleck – Heilpraktikerin",
-  "description": "Körperorientierte Traumatherapie und Shiatsu | Nina Fleck – Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Nina Fleck bietet in Tempelhof-Schöneberg körperorientierte Traumatherapie und Shiatsu an. Sie hilft dabei, Stress, Ängste und negative Gefühle zu erkennen und besser damit umzugehen. Durch die Kombination von Shiatsu und Traumatherapie fördert sie die Entspannung und das Bewusstsein für den eigenen Körper. Coaching-Sitzungen unterstützen zudem bei der Auflösung negativer Glaubenssätze und der persönlichen Weiterentwicklung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Stubenrauchstraße 16",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "015129011418",
   "email": "info@die-mitte-leben.de",
   "website": "https://die-mitte-leben.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4whj6w5RqEcRLO62sIUXUf4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -45,8 +49,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4whj6w5RqEcRLO62sIUXUf4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "julian-sommer-heilpraktiker-fur-zentherapie-triggerpunkttherapie-tiefe-bindegewe",
   "slug": "julian-sommer-heilpraktiker-fur-zentherapie-triggerpunkttherapie-tiefe-bindegewe",
   "name": "Julian Sommer - Heilpraktiker für Zentherapie®, Triggerpunkttherapie, Tiefe Bindegewebsarbeit",
-  "description": "Julian Sommer - Heilpraktiker für Zentherapie®, Triggerpunkttherapie, Tiefe Bindegewebsarbeit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Julian Sommer praktiziert in Friedrichshain-Kreuzberg und spezialisiert sich auf Zentherapie®, Triggerpunkttherapie sowie tiefe Bindegewebsarbeit. Er geht davon aus, dass alles, was einem Menschen widerfährt, im Bindegewebe gespeichert wird. Seine Methoden zielen darauf ab, Blockaden zu lösen und das Loslassen zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dieffenbachstraße 36",
     "locality": "Berlin",

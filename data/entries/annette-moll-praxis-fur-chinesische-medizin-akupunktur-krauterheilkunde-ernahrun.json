@@ -17,6 +17,9 @@
     "darm",
     "schlafstoerungen"
   ],
+  "associationIds": [
+    "agtcm"
+  ],
   "address": {
     "street": "Kopenhagener Str. 33",
     "locality": "Berlin",

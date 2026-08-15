@@ -12,6 +12,10 @@ export function areaPath(slug: string, page = 1): string {
   return page <= 1 ? `/area/${slug}` : `/area/${slug}/${page}`;
 }
 
+export function indicationPath(slug: string, page = 1): string {
+  return page <= 1 ? `/indikation/${slug}` : `/indikation/${slug}/${page}`;
+}
+
 export function absoluteUrl(path: string): string {
   const origin = siteConfig.site.origin.replace(/\/$/, "");
   return `${origin}${path.startsWith("/") ? path : `/${path}`}`;
@@ -27,6 +31,10 @@ export function categoryUrl(slug: string, page = 1): string {
 
 export function areaUrl(slug: string, page = 1): string {
   return absoluteUrl(areaPath(slug, page));
+}
+
+export function indicationUrl(slug: string, page = 1): string {
+  return absoluteUrl(indicationPath(slug, page));
 }
 
 export function homePath(): string {

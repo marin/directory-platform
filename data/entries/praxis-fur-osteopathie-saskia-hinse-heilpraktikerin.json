@@ -2,8 +2,8 @@
   "id": "praxis-fur-osteopathie-saskia-hinse-heilpraktikerin",
   "slug": "praxis-fur-osteopathie-saskia-hinse-heilpraktikerin",
   "name": "Praxis für Osteopathie Saskia Hinse Heilpraktikerin",
-  "description": "Praxis für Osteopathie Saskia Hinse Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Osteopathie Saskia Hinse in Pankow liegt der Fokus auf der Begleitung von Frauen, die unter stressbedingten Belastungen und Erschöpfung leiden. Die osteopathische Arbeit unterstützt die natürliche Regulationsfähigkeit des Körpers und fördert Sicherheit sowie innere Ruhe. Saskia Hinse arbeitet prozessorientiert und bietet einen geschützten Raum, in dem Frauen ankommen, sich selbst spüren und ihre Selbstwirksamkeit zurückgewinnen können.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Berliner Str. 25",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "saskia.hinse@berlin.de",
   "website": "http://www.saskiahinse.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/saskia-hinse?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvUVVi0pTqEcRKjnx5eCK21s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -46,8 +50,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJvUVVi0pTqEcRKjnx5eCK21s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

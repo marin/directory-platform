@@ -1,6 +1,6 @@
 ---
 import type { EntryViewModel } from "../../lib/data/view-models/entry.ts";
-import { categoryPath, areaPath } from "../../lib/routing/paths.ts";
+import { categoryPath, areaPath, indicationPath } from "../../lib/routing/paths.ts";
 
 interface Props {
   vm: EntryViewModel;
@@ -9,6 +9,7 @@ const { vm } = Astro.props;
 const { entry } = vm;
 const hasTags = vm.categories.length > 0 || vm.areas.length > 0;
 const hasIndications = vm.indications.length > 0;
+const hasAssociations = vm.associations.length > 0;
 const hasBadges = vm.badges.length > 0;
 ---
 
@@ -49,13 +50,24 @@ const hasBadges = vm.badges.length > 0;
     )
   }
   {
+    hasAssociations && (
+      <p class="tag-list" data-testid="entry-associations">
+        {vm.associations.map((association) => (
+          <span class="tag tag-static" data-testid={`entry-association-${association.id}`}>
+            {association.label}
+          </span>
+        ))}
+      </p>
+    )
+  }
+  {
     hasIndications && (
       <p class="tag-list" data-testid="entry-indications">
         <span class="muted">Behandelt unter anderem</span>
         {vm.indications.map((indication) => (
-          <span class="tag tag-static" data-testid="entry-indication">
+          <a href={indicationPath(indication.slug)} class="tag" data-testid="entry-indication-link">
             {indication.name}
-          </span>
+          </a>
         ))}
       </p>
     )

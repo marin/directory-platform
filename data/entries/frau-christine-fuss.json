@@ -16,6 +16,9 @@
     "neukoelln"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "fdh"
+  ],
   "address": {
     "street": "Weichselstraße 53",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "hypnose-berlin-spandau-naturheilpraxis-krohn-heilpraktikerin",
   "slug": "hypnose-berlin-spandau-naturheilpraxis-krohn-heilpraktikerin",
   "name": "Hypnose Berlin Spandau - Naturheilpraxis Krohn / Heilpraktikerin",
-  "description": "Hypnose Berlin Spandau - Naturheilpraxis Krohn / Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Naturheilpraxis Krohn in Spandau wendet Heilpraktikerin Christiane Krohn seit 2000 klinische Hypnose an. Sie behandelt Ängste, Panikstörungen, Schlafstörungen und Schmerzen sowie Blockaden und fördert das Selbstbewusstsein. Die Therapie beginnt mit einem Vorgespräch, gefolgt von einer Anamnese und der eigentlichen Hypnosesitzung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "hypnose",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Tharsanderweg 46",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03026329999",
   "email": "info@naturheilpraxis-krohn.de",
   "website": "https://hypnoseberlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9TLH9hQqEcRCOwcXB6Oppg",
+  "googleMapsRating": 4.3,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9TLH9hQqEcRCOwcXB6Oppg",
-  "googleMapsRating": 4.3,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

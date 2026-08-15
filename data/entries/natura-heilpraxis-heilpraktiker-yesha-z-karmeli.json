@@ -2,8 +2,8 @@
   "id": "natura-heilpraxis-heilpraktiker-yesha-z-karmeli",
   "slug": "natura-heilpraxis-heilpraktiker-yesha-z-karmeli",
   "name": "Natura-Heilpraxis , Heilpraktiker Yesha Z. Karmeli",
-  "description": "Natura-Heilpraxis , Heilpraktiker Yesha Z. Karmeli ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "In der Natura-Heilpraxis in Steglitz-Zehlendorf bringt Heilpraktiker Yesha Z. Karmeli Körper und Geist in Einklang. Die Praxis bietet naturheilkundliche Diagnostik und Therapien an, die auf Prävention und Langlebigkeit abzielen. Zudem erhalten Klienten eine umfassende Coachingbegleitung, um ihre Gesundheit nachhaltig zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Auguste-Viktoria-Straße 91",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03088663373",
   "email": "praxis@natura-heilpraxis.de",
   "website": "http://natura-heilpraxis.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn5ucMblQqEcReQ-qftWekWA",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 89,
   "openingHours": [
     {
       "day": "Monday",
@@ -72,8 +76,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn5ucMblQqEcReQ-qftWekWA",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 89
+  "faq": []
 }

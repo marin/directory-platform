@@ -208,7 +208,7 @@ export function isUsableServiceName(name: string, entryName?: string): boolean {
   if (SKIP_PATTERN_RE.test(cleaned) || SKIP_PATTERN_RE.test(key)) return false;
   if (SKIP_PREFIX_RE.test(cleaned) || SKIP_PREFIX_RE.test(key)) return false;
   if (SECTION_BUCKET_RE.test(cleaned) || SECTION_BUCKET_RE.test(key)) return false;
-  if (/casino|slot|einsatz|gewinn/i.test(cleaned)) return false;
+  if (/casino|slot\s*machine|jackpot|viagra|cialis/i.test(cleaned)) return false;
   if (/^\d+$/.test(key)) return false;
   if (looksLikeListingTitle(cleaned, entryName)) return false;
   if (looksLikePersonName(cleaned)) return false;

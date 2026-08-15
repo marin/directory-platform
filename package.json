@@ -44,6 +44,7 @@
     "data:images:prepare": "node scripts/images/prepare-entry-images.mjs",
     "data:audit:enrichment": "node scripts/data/enrichment-audit.mjs",
     "data:tag:indications": "node scripts/data/tag-indications.mjs",
+    "data:tag:credentials": "node scripts/data/tag-credentials.mjs",
     "data:review": "node scripts/data/review-report.mjs",
     "data:review:ui": "node scripts/data/review-ui.mjs",
     "entry:publish": "node scripts/publish-entry.mjs",
@@ -53,6 +54,7 @@
     "data:berlin:google-maps": "node scripts/heilpraktiker/backfill-google-maps-url.mjs",
     "data:berlin:google-maps-rating": "node scripts/heilpraktiker/backfill-google-maps-rating.mjs",
     "data:berlin:content": "node scripts/heilpraktiker/generate-berlin-content.mjs",
+    "data:berlin:indications": "node scripts/heilpraktiker/generate-indication-content.mjs",
     "data:refresh": "node scripts/data/refresh.mjs",
     "notify:index": "node scripts/notify-index.mjs"
   },

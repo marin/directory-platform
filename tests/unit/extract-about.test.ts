@@ -22,6 +22,13 @@ describe("descriptionFromAbout", () => {
     expect(description).not.toContain("geltenden Rechts");
   });
 
+  it("keeps bios that mention Einsatz or Gewinn", () => {
+    const extracted = extractAboutFromMarkdown(
+      "Ich arbeite mit Akupunktur, die an ausgewählten Punkten zum Einsatz kommt. Ziel ist, Lebensqualität zurückzugewinnen.",
+    );
+    expect(extracted.paragraphs.join(" ")).toMatch(/Einsatz|gewinnen/i);
+  });
+
   it("skips cookie consent banners and uses the real bio", () => {
     const description = descriptionFromAbout([
       'We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.',
@@ -92,6 +99,13 @@ describe("sanitizeDirectoryText", () => {
     expect(sanitized).not.toContain("adelheidhenke.de");
     expect(sanitized).not.toContain("Website");
     expect(sanitized).not.toContain("](");
+  });
+
+  it("drops homepage and phone-filler sentences from Über copy", () => {
+    const sanitized = sanitizeDirectoryText(
+      "Martin Ernst ist Heilpraktiker für Psychotherapie in Pankow. Derzeit befindet sich die Website im Wartungsmodus. Kontaktmöglichkeiten sind ebenfalls auf der Homepage verfügbar. Für Rückfragen steht er telefonisch zur Verfügung.",
+    );
+    expect(sanitized).toBe("Martin Ernst ist Heilpraktiker für Psychotherapie in Pankow.");
   });
 });
 

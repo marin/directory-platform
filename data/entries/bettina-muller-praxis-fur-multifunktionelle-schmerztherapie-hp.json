@@ -2,8 +2,8 @@
   "id": "bettina-muller-praxis-fur-multifunktionelle-schmerztherapie-hp",
   "slug": "bettina-muller-praxis-fur-multifunktionelle-schmerztherapie-hp",
   "name": "Bettina Müller Praxis für Multifunktionelle Schmerztherapie / HP",
-  "description": "Bettina Müller Praxis für Multifunktionelle Schmerztherapie / HP ist ein Heilpraktiker in Berlin mit Schwerpunkt schmerztherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für multifunktionelle Schmerztherapie in Berlin-Charlottenburg-Wilmersdorf behandelt Bettina Müller Patienten mit unklaren und unerklärlichen Schmerzen. Sie setzt verschiedene manuelle und sensomotorische Techniken ein, um Muskelverspannungen und Bindegewebsverklebungen zu lösen. Zu den angewandten Methoden gehören Myofascial Release, Triggerpunkt Therapie und Osteopathie. Zudem bietet sie Unterstützung durch Mikroimmuntherapie und Traumaauflösung an, um die Schmerzfreiheit zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Leonhardtstraße 12",
     "locality": "Berlin",
@@ -26,11 +27,11 @@
   "phone": "015738753587",
   "email": "mail@bettina-mueller.de",
   "website": "https://www.multifunktionelle-schmerztherapie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXeZrDdpQqEcRRdNvZDJtjyc",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 18,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJXeZrDdpQqEcRRdNvZDJtjyc",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 18
+  "faq": []
 }

@@ -4,6 +4,7 @@ import {
   type ExtractedService,
 } from "./extract-services.ts";
 import { isUsableImage, scoreImage } from "../media/entry-images.ts";
+import { isPageSpam } from "./page-spam.ts";
 
 export type HomepageQualityFlags = {
   charCount: number;
@@ -19,7 +20,6 @@ export type HomepageExtraction = {
 };
 
 const THIN_PAGE_CHARS = 500;
-const SPAM_RE = /casino|slot\s*machine|einsatz|gewinn|jackpot|poker\s*online|viagra|cialis/i;
 const BOOKING_TEXT_RE =
   /termin|kontakt|buchen|booking|appointment|anfrage|online-termine|jetzt buchen|zur kontakt|kontaktseite|doctolib|calendly|terminvereinbarung/i;
 const BOOKING_PATH_RE =
@@ -145,7 +145,7 @@ export function detectHomepageQuality(markdown: string): HomepageQualityFlags {
   return {
     charCount,
     thin: charCount < THIN_PAGE_CHARS,
-    spam: SPAM_RE.test(markdown),
+    spam: isPageSpam(markdown),
   };
 }
 

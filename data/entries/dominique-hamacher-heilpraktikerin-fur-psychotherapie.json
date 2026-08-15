@@ -2,8 +2,8 @@
   "id": "dominique-hamacher-heilpraktikerin-fur-psychotherapie",
   "slug": "dominique-hamacher-heilpraktikerin-fur-psychotherapie",
   "name": "Dominique Hamacher Heilpraktikerin für Psychotherapie",
-  "description": "Dominique Hamacher Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Heilpraxis Kaulsdorf bietet Dominique Hamacher Psychotherapie und Coaching an. Sie hilft Menschen, die unter emotionalen Belastungen, Angstzuständen oder Stress leiden, und begleitet sie auf dem Weg zu mehr innerer Stabilität. Mit Methoden aus der Gesprächstherapie und Ressourcenorientierten Psychotherapie fördert sie die Aktivierung persönlicher Ressourcen. Zudem unterstützt sie Einzelpersonen und Teams bei der beruflichen und persönlichen Weiterentwicklung durch maßgeschneiderte Coaching-Konzepte.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Luisenstraße 45",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "praxis@heilpraxis-kaulsdorf.de",
   "website": "http://www.heilpraxis-kaulsdorf.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/dominique-hamacher",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ29fRrYpRqEcRdHi40rx5AOE",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -75,8 +79,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ29fRrYpRqEcRdHi40rx5AOE",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

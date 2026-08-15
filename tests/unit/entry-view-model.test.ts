@@ -46,4 +46,24 @@ describe("toEntryViewModel", () => {
     );
     expect(vm.indications.map((item) => item.id)).toEqual(entry.indicationIds);
   });
+
+  it("resolves association chips and a credentials line", () => {
+    const vod = dataset.associations.find((item) => item.id === "vod");
+    expect(vod).toBeDefined();
+    const entry = {
+      ...dataset.entries[0]!,
+      associationIds: ["vod"],
+      qualifications: ["Diplom-Physiotherapeutin"],
+    };
+    const vm = toEntryViewModel(
+      entry,
+      dataset.categories,
+      dataset.areas,
+      dataset.entries,
+      dataset.indications,
+      dataset.associations,
+    );
+    expect(vm.associations).toEqual([{ id: "vod", label: "Mitglied im VOD" }]);
+    expect(vm.credentialsLine).toBe("Diplom-Physiotherapeutin. Mitglied im VOD.");
+  });
 });

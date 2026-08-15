@@ -15,6 +15,9 @@
   "indicationIds": [
     "depression"
   ],
+  "associationIds": [
+    "vfp"
+  ],
   "address": {
     "street": "Regensburger Str. 6",
     "locality": "Berlin",

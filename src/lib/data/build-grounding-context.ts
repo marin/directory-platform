@@ -33,6 +33,9 @@ const NAV_LINE_RE =
 const COOKIE_LINE_RE =
   /cookies?|cookieyes|consent categor|consent preference|accept all|reject all|alle akzeptieren|we value your privacy|verwenden cookies|verwendet cookies|technologien wie cookies|technische speicherung oder der zugang|no cookies to display|powered by cookie/i;
 
+const SKIP_EXCERPT_LINE_RE =
+  /zum inhalt springen|direkt zum inhalt|skip to (?:content|main)|cookie|consent|datenschutz|technische speicherung|rechtmäßigen zweck|abonnenten oder nutzer|akzeptieren|ablehnen|einstellungen speichern/i;
+
 export function stripMarkdownForPrompt(markdown: string, maxChars = 6000): string {
   const lines = markdown.split("\n").filter((line) => {
     const trimmed = line.trim();
@@ -44,6 +47,22 @@ export function stripMarkdownForPrompt(markdown: string, maxChars = 6000): strin
   });
 
   return lines.join("\n").replace(/\n{3,}/g, "\n\n").trim().slice(0, maxChars);
+}
+
+export function isUsableExcerptLine(line: string): boolean {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith("#") || trimmed.length < 60) return false;
+  if (SKIP_EXCERPT_LINE_RE.test(trimmed)) return false;
+  if ((trimmed.match(/\]\(/g) ?? []).length > 2) return false;
+  return true;
+}
+
+export function usableExcerptText(markdown: string, maxChars = 30_000): string {
+  return stripMarkdownForPrompt(markdown, maxChars)
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(isUsableExcerptLine)
+    .join(" ");
 }
 
 export function buildGroundingContext(

@@ -2,8 +2,8 @@
   "id": "miriam-wiese-heilpraktikerin-praxis-fur-akupunktur-tcm-psychologische-beratung",
   "slug": "miriam-wiese-heilpraktikerin-praxis-fur-akupunktur-tcm-psychologische-beratung",
   "name": "Miriam Wiese Heilpraktikerin, Praxis für Akupunktur (TCM) & Psychologische Beratung",
-  "description": "Miriam Wiese Heilpraktikerin, Praxis für Akupunktur (TCM) & Psychologische Beratung ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Miriam Wiese praktiziert Akupunktur nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM) in Berlin-Charlottenburg. Sie behandelt Schmerzen und Beschwerden durch gezielte Akupunkturpunkte, ergänzt durch Moxibustion und Schröpfen. Zudem bietet sie systemische Gespräche an, die bei persönlichen und beruflichen Herausforderungen unterstützen. Ihre Praxis vereint die Methoden der TCM mit systemischer Gesprächsführung für eine umfassende Behandlung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -13,6 +13,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Rückertstraße 3",
     "locality": "Berlin",
@@ -28,6 +29,9 @@
   "email": "mail@akarui.berlin",
   "website": "http://www.miriam-wiese.com/",
   "bookingUrl": "https://miriamwiesecom.as.me/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuXOIdef1qEcR7IeNxxvdkOs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -57,8 +61,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJuXOIdef1qEcR7IeNxxvdkOs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  "faq": []
 }

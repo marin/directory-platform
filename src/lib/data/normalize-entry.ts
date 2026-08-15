@@ -17,6 +17,8 @@ export function normalizeEntry(raw: Entry): NormalizedEntry {
     phone,
     areaIds: raw.areaIds ?? [],
     indicationIds: raw.indicationIds ?? [],
+    associationIds: raw.associationIds ?? [],
+    qualifications: raw.qualifications ?? [],
     openingHours: raw.openingHours ?? [],
     offers: raw.offers ?? [],
     images: raw.images ?? [],

@@ -2,8 +2,8 @@
   "id": "birgit-rutzinski-heilpraktiker",
   "slug": "birgit-rutzinski-heilpraktiker",
   "name": "Birgit Rutzinski, Heilpraktiker",
-  "description": "Birgit Rutzinski, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Birgit Rutzinski arbeitet seit 2006 im Bereich der Dunkelfeldmikroskopie und nutzt die Vitalblutuntersuchung, um Ursachen von Erkrankungen zu identifizieren. Ihre Praxis in Pankow bietet zudem Ernährungsberatung und Regenerationstherapie an. Sie behandelt sowohl Erwachsene als auch Kinder und legt großen Wert auf eine umfassende Anamnese und Beratung.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schillerstraße 6",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "email": "bewertungen@jameda.de",
   "website": "https://www.jameda.de/birgit-rutzinski/heilpraktiker/berlin?utm_source=google&utm_medium=gmb&utm_campaign=366223&utm_content=website",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3avg5Q1SqEcRcUDfK-G3uMI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -48,8 +52,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ3avg5Q1SqEcRcUDfK-G3uMI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

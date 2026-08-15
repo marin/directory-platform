@@ -1,7 +1,7 @@
 import siteConfig from "../../../config/site.config.ts";
 import type { Dataset } from "../data/load-dataset.ts";
-import { computeAggregateStats, computeCategoryStats, computeAreaStats } from "../aggregates/compute.ts";
-import { absoluteUrl, categoryPath, entryPath } from "../routing/paths.ts";
+import { computeAggregateStats, computeCategoryStats, computeAreaStats, computeIndicationStats } from "../aggregates/compute.ts";
+import { absoluteUrl, categoryPath, indicationPath, entryPath } from "../routing/paths.ts";
 import { buildAggregateFactText } from "../seo/structured-data/builders.ts";
 
 export function buildLlmsTxt(dataset: Dataset): string {
@@ -26,6 +26,14 @@ export function buildLlmsTxt(dataset: Dataset): string {
     if (stats.listingCount === 0) continue;
     lines.push(
       `- ${cat.name}: ${stats.listingCount} Einträge — ${absoluteUrl(categoryPath(cat.slug))}`,
+    );
+  }
+  lines.push("", "## Beschwerden");
+  for (const indication of dataset.indications) {
+    const stats = computeIndicationStats(dataset.entries, indication.id);
+    if (stats.listingCount === 0) continue;
+    lines.push(
+      `- ${indication.name}: ${stats.listingCount} Einträge — ${absoluteUrl(indicationPath(indication.slug))}`,
     );
   }
   return lines.join("\n");

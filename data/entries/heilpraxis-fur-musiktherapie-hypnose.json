@@ -2,8 +2,8 @@
   "id": "heilpraxis-fur-musiktherapie-hypnose",
   "slug": "heilpraxis-fur-musiktherapie-hypnose",
   "name": "Heilpraxis für Musiktherapie & Hypnose",
-  "description": "Heilpraxis für Musiktherapie & Hypnose ist ein Heilpraktiker in Berlin mit Schwerpunkt hypnose. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Heilpraxis für Musiktherapie & Hypnose in Berlin-Mitte setzt Julia Alexa Kraft ihre Qualifikationen als Musiktherapeutin (NMT) und Hypnotherapeutin ein, um Klienten bei der Wiederherstellung und Förderung ihrer seelischen und körperlichen Gesundheit zu unterstützen. Sie bietet verschiedene therapeutische Konzepte an, darunter Musiktherapie, Hypnotherapie und EMDR, um Menschen in unterschiedlichen Lebenssituationen zu helfen. Die Klangliegentherapie ermöglicht eine heilsame Tiefenentspannung und wird bei chronischen Schmerzen sowie neurologischen Erkrankungen eingesetzt.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "hypnose",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fritschestraße 24/25",
     "locality": "Berlin",
@@ -26,6 +27,7 @@
   "phone": "03099546763",
   "email": "musiktherapie-kraft@gmx.de",
   "website": "http://www.musiktherapie-kraft.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw4Ap-T9RqEcR-jcCcDAkpw0",
   "openingHours": [
     {
       "day": "Monday",
@@ -70,6 +72,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJw4Ap-T9RqEcR-jcCcDAkpw0"
+  "faq": []
 }

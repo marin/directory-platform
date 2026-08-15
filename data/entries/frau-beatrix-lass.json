@@ -12,6 +12,9 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "fdh"
+  ],
   "address": {
     "street": "Kösterstraße 1B",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-cassandra",
   "slug": "heilpraktikerin-cassandra",
   "name": "Heilpraktikerin Cassandra",
-  "description": "Heilpraktikerin Cassandra ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Heilpraktikerin Cassandra praktiziert in Steglitz-Zehlendorf und spezialisiert sich auf Naturheilkunde. Sie bietet verschiedene naturheilkundliche Methoden an, um die Gesundheit ihrer Patienten zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Herthastraße 1e",
     "locality": "Berlin",
@@ -24,6 +25,7 @@
   },
   "phone": "015759249730",
   "website": "http://heilpraktikerincassandra.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2_0M9rZQqEcRJAiS2pqSIVU",
   "openingHours": [],
   "offers": [
     {
@@ -32,6 +34,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2_0M9rZQqEcRJAiS2pqSIVU"
+  "faq": []
 }

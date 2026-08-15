@@ -2,8 +2,8 @@
   "id": "heilpraktiker-juergen-saldeitis",
   "slug": "heilpraktiker-juergen-saldeitis",
   "name": "Heilpraktiker, Juergen Saldeitis",
-  "description": "Heilpraktiker, Juergen Saldeitis ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Jürgen Saldeitis praktiziert seit 1985 in der Naturheilkunde und bietet in seiner Praxis in Steglitz-Zehlendorf verschiedene Therapien an. Zu den Schwerpunkten gehören die Behandlung von Gelenk- und Wirbelsäulenerkrankungen sowie Schmerztherapien. Zudem führt er Reiki-Anwendungen und mentale Heilverfahren durch.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bahnhofstraße 4",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "0307443001",
   "website": "http://www.heiler-energie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWfCDGFEqEcRTG1_vq_4xd8",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 5,
   "openingHours": [
     {
       "day": "Monday",
@@ -48,8 +52,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPWfCDGFEqEcRTG1_vq_4xd8",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 5
+  "faq": []
 }

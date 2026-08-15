@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import siteConfig from "../../config/site.config.ts";
-import { buildGroundingContext } from "../../src/lib/data/build-grounding-context.ts";
+import { buildGroundingContext, usableExcerptText } from "../../src/lib/data/build-grounding-context.ts";
 import { checkGrounding } from "../../src/lib/data/grounding.ts";
 import {
   dropNapFaqItems,
@@ -10,6 +10,7 @@ import {
   sanitizeDirectoryText,
   sanitizeFaqItems,
 } from "../../src/lib/data/extract-about.ts";
+import { isMissingPage, isPageSpam } from "../../src/lib/data/page-spam.ts";
 import { buildFixtureFaq, extractFaqTopics, keepTopicFaqs } from "../../src/lib/data/extract-faq-topics.ts";
 import { entrySchema, faqItemSchema } from "../../src/lib/validation/entry-schema.ts";
 import { loadEnv } from "../lib/load-env.mjs";
@@ -21,6 +22,7 @@ loadEnv();
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
 const faqOnly = args.includes("--faq-only");
+const descriptionOnly = args.includes("--description-only");
 const useFixture = !process.env.OPENAI_API_KEY || args.includes("--fixture");
 const skipExisting = args.includes("--skip-existing");
 const limitArg = args.find((a) => a.startsWith("--limit="))?.split("=")[1]
@@ -33,6 +35,14 @@ const SCRAPES_DIR = join(ROOT, "work/scrapes/firecrawl");
 const ENTRIES_DIR = join(ROOT, "data/entries");
 const STAGING_DIR = ensureWorkDir("staging/enriched");
 const DELAY_MS = 500;
+const MIN_EXCERPT_CHARS = 80;
+const areas = JSON.parse(readFileSync(join(ROOT, "data/areas.json"), "utf-8"));
+const areaNameById = Object.fromEntries(areas.map((area) => [area.id, area.name]));
+
+if (faqOnly && descriptionOnly) {
+  console.error("Use either --faq-only or --description-only, not both.");
+  process.exit(1);
+}
 
 function renderTemplate(template, vars) {
   return template.replace(/\{\{(\w+)\}\}/g, (_, key) => vars[key] ?? "");
@@ -79,6 +89,23 @@ function loadScrapeBundle(slug) {
   };
 }
 
+function listingFactsForDescription(entry, context) {
+  return {
+    name: entry.name,
+    categories: entry.categories,
+    areas: (entry.areaIds ?? []).map((id) => areaNameById[id]).filter(Boolean),
+    methods: (entry.offers ?? []).map((offer) => offer.name).slice(0, 12),
+    pageTitle: context.pageTitle,
+  };
+}
+
+function hasUsableWebsiteExcerpt(markdown) {
+  if (!markdown?.trim()) return false;
+  if (isPageSpam(markdown)) return false;
+  if (isMissingPage(markdown) && markdown.length < 800) return false;
+  return usableExcerptText(markdown).length >= MIN_EXCERPT_CHARS;
+}
+
 function listDescriptionCandidates() {
   const slugs = slugArg
     ? [slugArg]
@@ -94,11 +121,8 @@ function listDescriptionCandidates() {
     const entry = entrySchema.parse(JSON.parse(readFileSync(entryPath, "utf-8")));
     if (!isBoilerplateDescription(entry.description)) continue;
 
-    const bundle = loadHomepageBundle(slug);
-    if (!bundle) continue;
-    if (bundle.extracted?.flags?.spam) continue;
-    if (bundle.extracted?.flags?.thin) continue;
-
+    const bundle = loadScrapeBundle(slug);
+    if (!bundle?.markdown || !hasUsableWebsiteExcerpt(bundle.markdown)) continue;
     if (skipExisting && existsSync(join(STAGING_DIR, `${slug}.json`))) continue;
 
     candidates.push({ slug, entry, ...bundle });
@@ -135,22 +159,10 @@ function listFaqOnlyCandidates() {
   return typeof limit === "number" ? candidates.slice(0, limit) : candidates;
 }
 
-const BOILERPLATE_RE =
-  /cookie|consent|datenschutz|technische speicherung|rechtmäßigen zweck|abonnenten oder nutzer|akzeptieren|ablehnen|einstellungen speichern/i;
-
-function isUsableExcerptLine(line) {
-  if (!line || line.startsWith("#") || line.length < 60) return false;
-  if (BOILERPLATE_RE.test(line)) return false;
-  if ((line.match(/\]\(/g) ?? []).length > 2) return false;
-  return true;
-}
-
 function fixtureDescription(context) {
-  const excerpt = context.websiteExcerpt
-    .split("\n")
-    .map((line) => line.trim())
-    .filter(isUsableExcerptLine);
-  const lead = excerpt[0] ?? `${context.name} bietet naturheilkundliche Behandlungen in Berlin.`;
+  const excerpt = usableExcerptText(context.websiteExcerpt || "");
+  const lead = excerpt.split(/(?<=[.!?])\s+/).find((sentence) => sentence.length >= 40)
+    ?? `${context.name} behandelt in Berlin.`;
   return lead.slice(0, 500);
 }
 
@@ -167,14 +179,14 @@ function finalizeFaq(items, topics = []) {
   return keepTopicFaqs(dropNapFaqItems(sanitizeFaqItems(items)), allowed);
 }
 
-async function generateDescription(context, promptTemplate) {
+async function generateDescription(entry, context, promptTemplate) {
   if (useFixture) return fixtureDescription(context);
 
   const prompt = renderTemplate(promptTemplate, {
     entrySingular: siteConfig.directory.entrySingular,
     locality: siteConfig.geography.locality,
     region: siteConfig.geography.region,
-    listingJson: JSON.stringify(context, null, 2),
+    listingJson: JSON.stringify(listingFactsForDescription(entry, context), null, 2),
     websiteExcerpt: context.websiteExcerpt,
   });
 
@@ -230,23 +242,27 @@ const faqPromptHash = hashFile(join(ROOT, "config/prompts/faq.md"));
 const candidates = faqOnly ? listFaqOnlyCandidates() : listDescriptionCandidates();
 console.log(
   `Enrichment candidates: ${candidates.length}` +
-    (faqOnly ? " (faq-only)" : "") +
+    (faqOnly ? " (faq-only)" : descriptionOnly ? " (description-only)" : "") +
     (useFixture ? " (fixture mode)" : "") +
     (dryRun ? " (dry-run)" : ""),
 );
 
 if (dryRun) {
   for (const job of candidates.slice(0, 20)) {
-    const topics = job.markdown ? topicsForEntry(job.entry, job.markdown) : [];
-    const mode = job.markdown ? (topics.length ? topics.map((t) => t.topic).join(",") : "empty") : "nap-strip";
-    console.log(`  ${job.slug}  ${mode}`);
+    if (faqOnly) {
+      const topics = job.markdown ? topicsForEntry(job.entry, job.markdown) : [];
+      const mode = job.markdown ? (topics.length ? topics.map((t) => t.topic).join(",") : "empty") : "nap-strip";
+      console.log(`  ${job.slug}  ${mode}`);
+    } else {
+      console.log(`  ${job.slug}  excerpt ${usableExcerptText(job.markdown).length} chars`);
+    }
   }
   if (candidates.length > 20) console.log(`  ... and ${candidates.length - 20} more`);
   process.exit(0);
 }
 
 if (!args.includes("--yes") && !useFixture) {
-  console.error("Usage: data:generate:enrichment -- --yes [--faq-only] [--limit N] [--slug <slug>] [--fixture] [--dry-run]");
+  console.error("Usage: data:generate:enrichment -- --yes [--faq-only|--description-only] [--limit N] [--slug <slug>] [--fixture] [--dry-run]");
   process.exit(1);
 }
 
@@ -300,51 +316,73 @@ for (let i = 0; i < candidates.length; i += 1) {
         await sleep(DELAY_MS);
       }
       continue;
-    } else {
-      const context = buildGroundingContext(job.entry, {
-        markdown: job.markdown,
-        extracted: job.extracted,
-        manifest: job.manifest,
-      });
+    }
 
-      const description = sanitizeDirectoryText(
-        await generateDescription(context, descriptionPrompt),
-      );
-      if (!description) {
-        throw new Error("description empty after sanitizing website pointers");
-      }
-      const descriptionGrounding = checkGrounding(description, context);
-      if (!descriptionGrounding.passed) {
-        throw new Error(`description grounding failed: ${descriptionGrounding.violations.join("; ")}`);
-      }
+    const context = buildGroundingContext(job.entry, {
+      markdown: job.markdown,
+      extracted: job.extracted,
+      manifest: job.manifest,
+    });
 
-      const topics = topicsForEntry(job.entry, job.markdown);
-      const faq = finalizeFaq(await generateFaq(topics, faqPrompt, job.entry.name), topics);
-      if (faq.length) {
-        const faqText = faq.map((item) => `${item.question} ${item.answer}`).join("\n");
-        const faqGrounding = checkGrounding(faqText, { topics, offers: job.entry.offers ?? [] });
-        if (!faqGrounding.passed) {
-          throw new Error(`faq grounding failed: ${faqGrounding.violations.join("; ")}`);
-        }
-      }
+    const description = sanitizeDirectoryText(
+      await generateDescription(job.entry, context, descriptionPrompt),
+    );
+    if (!description) {
+      throw new Error("description empty after sanitizing website pointers");
+    }
+    if (isBoilerplateDescription(description)) {
+      throw new Error("description still matches template or cookie boilerplate");
+    }
+    const descriptionGrounding = checkGrounding(description, context);
+    if (!descriptionGrounding.passed) {
+      throw new Error(`description grounding failed: ${descriptionGrounding.violations.join("; ")}`);
+    }
 
+    if (descriptionOnly) {
       writeStaging(
         job.entry,
-        { description, faq },
+        { description },
         {
           slug: job.slug,
           generatedAt: new Date().toISOString(),
           descriptionPromptHash,
-          faqPromptHash,
           mode: useFixture ? "fixture" : "openai",
+          kind: "description",
           websiteUrl: context.websiteUrl,
         },
       );
-
       ok += 1;
-      summary.push({ slug: job.slug, status: "ok", faq: faq.length, descriptionLength: description.length });
-      console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${description.length} chars, ${faq.length} faq)`);
+      summary.push({ slug: job.slug, status: "ok", descriptionLength: description.length });
+      console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${description.length} chars)`);
+      continue;
     }
+
+    const topics = topicsForEntry(job.entry, job.markdown);
+    const faq = finalizeFaq(await generateFaq(topics, faqPrompt, job.entry.name), topics);
+    if (faq.length) {
+      const faqText = faq.map((item) => `${item.question} ${item.answer}`).join("\n");
+      const faqGrounding = checkGrounding(faqText, { topics, offers: job.entry.offers ?? [] });
+      if (!faqGrounding.passed) {
+        throw new Error(`faq grounding failed: ${faqGrounding.violations.join("; ")}`);
+      }
+    }
+
+    writeStaging(
+      job.entry,
+      { description, faq },
+      {
+        slug: job.slug,
+        generatedAt: new Date().toISOString(),
+        descriptionPromptHash,
+        faqPromptHash,
+        mode: useFixture ? "fixture" : "openai",
+        websiteUrl: context.websiteUrl,
+      },
+    );
+
+    ok += 1;
+    summary.push({ slug: job.slug, status: "ok", faq: faq.length, descriptionLength: description.length });
+    console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${description.length} chars, ${faq.length} faq)`);
   } catch (err) {
     fail += 1;
     console.error(`[${n}/${candidates.length}] FAIL ${job.slug}: ${err.message ?? err}`);
@@ -365,6 +403,7 @@ writeFileSync(
       ok,
       fail,
       faqOnly,
+      descriptionOnly,
       mode: useFixture ? "fixture" : "openai",
       summary,
     },

@@ -2,8 +2,8 @@
   "id": "jacqueline-mette",
   "slug": "jacqueline-mette",
   "name": "Jacqueline Mette",
-  "description": "Jacqueline Mette ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Friedrichshain-Kreuzberg bietet Jacqueline Mette chinesische Chiropraktik nach der Tieh Ta Tuina Technik an. Sie kombiniert diese Methode mit klassischer Homöopathie und kinesiologischem Muskeltest, um die Ursachen von Beschwerden zu identifizieren. Als Transformations-Coach unterstützt sie ihre Klienten dabei, persönliche Ziele zu erreichen und Blockaden zu überwinden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gryphiusstraße 9",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03020078847",
   "email": "info@heilpraxis-mette.de",
   "website": "http://www.heilpraxis-mette.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ3EZEPZOqEcRh09SDqcKc7Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ3EZEPZOqEcRh09SDqcKc7Q",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

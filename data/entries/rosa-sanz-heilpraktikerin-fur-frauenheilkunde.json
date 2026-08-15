@@ -2,8 +2,8 @@
   "id": "rosa-sanz-heilpraktikerin-fur-frauenheilkunde",
   "slug": "rosa-sanz-heilpraktikerin-fur-frauenheilkunde",
   "name": "Rosa Sanz Heilpraktikerin für Frauenheilkunde",
-  "description": "Rosa Sanz Heilpraktikerin für Frauenheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Rosa Sanz ist Heilpraktikerin für Frauenheilkunde und Schwangerenbegleitung in Charlottenburg-Wilmersdorf. Sie begleitet Frauen in verschiedenen Lebensphasen und bietet Unterstützung bei körperlichen und psychischen Beschwerden. Zu ihren Methoden zählen Akupunktur, Pflanzenheilkunde und emotionale Prozessarbeit. Schwerpunkte sind unter anderem der weibliche Zyklus, Schwangerschaft, Kinderwunsch und Wechseljahre.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pestalozzistraße 84",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "015754426326",
   "email": "kontakt@rosasanz.de",
   "website": "https://www.rosasanz.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2afDMIdRqEcRxj7gsY8dTm0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2afDMIdRqEcRxj7gsY8dTm0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

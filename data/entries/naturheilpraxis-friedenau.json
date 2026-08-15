@@ -13,6 +13,9 @@
     "tempelhof-schoeneberg"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vdh"
+  ],
   "address": {
     "street": "Stubenrauchstraße 36",
     "locality": "Berlin",

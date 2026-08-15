@@ -24,6 +24,7 @@ function entry(partial: {
   name?: string;
   categories: string[];
   areaIds: string[];
+  indicationIds?: string[];
   description?: string;
   lastUpdated?: string;
 }) {
@@ -36,6 +37,7 @@ function entry(partial: {
       lastUpdated: partial.lastUpdated ?? "2026-08-01",
       categories: partial.categories,
       areaIds: partial.areaIds,
+      indicationIds: partial.indicationIds,
     }),
   );
 }
@@ -141,6 +143,39 @@ describe("getRelatedEntries", () => {
     expect(related.entries.map((item) => item.slug)).toEqual(
       expect.arrayContaining(["osteo-mitte", "osteo-mitte-2"]),
     );
+  });
+
+  it("prefers the same indication in the same district over category peers", () => {
+    const indications = [
+      { id: "kinderwunsch", name: "Kinderwunsch", slug: "kinderwunsch", synonyms: ["kinderwunsch"] },
+    ];
+    const source = entry({
+      slug: "kinder-mitte",
+      categories: ["naturheilkunde"],
+      areaIds: ["mitte"],
+      indicationIds: ["kinderwunsch"],
+    });
+    const sameIndication = entry({
+      slug: "kinder-mitte-2",
+      categories: ["akupunktur-tcm"],
+      areaIds: ["mitte"],
+      indicationIds: ["kinderwunsch"],
+    });
+    const sameCategory = entry({
+      slug: "natur-mitte-peer",
+      categories: ["naturheilkunde"],
+      areaIds: ["mitte"],
+    });
+    const related = getRelatedEntries(
+      source,
+      [source, sameIndication, sameCategory],
+      categories,
+      areas,
+      4,
+      indications,
+    );
+    expect(related.title).toBe("Weitere Heilpraktiker für Kinderwunsch in Mitte");
+    expect(related.entries.map((item) => item.slug)).toEqual(["kinder-mitte-2"]);
   });
 });
 

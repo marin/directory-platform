@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-silke-brack-naturheilteam-mitte",
   "slug": "heilpraktikerin-silke-brack-naturheilteam-mitte",
   "name": "Heilpraktikerin Silke Brack, Naturheilteam-Mitte",
-  "description": "Heilpraktikerin Silke Brack, Naturheilteam-Mitte ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Heilpraktikerin Silke Brack ist im Bereich der Naturheilkunde tätig. Ihr Standort befindet sich in Mitte, Berlin. Leider sind keine spezifischen Methoden oder Angebote verfügbar, da die Seite nicht gefunden werden konnte.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Almstadtstraße 35",
     "locality": "Berlin",
@@ -24,6 +25,7 @@
   },
   "phone": "03040699728",
   "website": "https://www.naturheilteam-mitte.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7cfb_x1OqEcRLQqhr74bkVA",
   "openingHours": [],
   "offers": [
     {
@@ -32,6 +34,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ7cfb_x1OqEcRLQqhr74bkVA"
+  "faq": []
 }

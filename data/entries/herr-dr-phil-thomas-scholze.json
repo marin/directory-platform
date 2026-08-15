@@ -12,6 +12,12 @@
     "treptow-koepenick"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "bdh"
+  ],
+  "qualifications": [
+    "Amtsärztliche Überprüfung"
+  ],
   "address": {
     "street": "Eichbergstraße 23",
     "locality": "Berlin",

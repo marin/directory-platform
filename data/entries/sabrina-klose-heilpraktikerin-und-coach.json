@@ -2,8 +2,8 @@
   "id": "sabrina-klose-heilpraktikerin-und-coach",
   "slug": "sabrina-klose-heilpraktikerin-und-coach",
   "name": "Sabrina Klose - Heilpraktikerin und Coach",
-  "description": "Sabrina Klose - Heilpraktikerin und Coach ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabrina Klose bietet in Pankow naturheilkundliche Behandlungen an, darunter Darmberatung, Infusions- und Injektionstherapie sowie Blutegelbehandlungen. Sie hat eine Coaching-Ausbildung nach der Empowerment-Methode absolviert und hilft, körperliche Symptome und mentale Dysbalancen zu analysieren. Ihr Ziel ist es, Patienten auf ihrem Weg zu besserer Gesundheit und innerer Balance zu begleiten.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schönhauser Allee 84",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "email": "heilpraktikerin@sabrinaklose.de",
   "website": "https://www.sabrinaklose.de/",
   "bookingUrl": "https://wa.me/4915754375932",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX-NRpWFTqEcRUji5lbI9ABs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJX-NRpWFTqEcRUji5lbI9ABs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 26
+  "faq": []
 }

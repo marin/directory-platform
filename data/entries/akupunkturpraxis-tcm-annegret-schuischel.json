@@ -2,8 +2,8 @@
   "id": "akupunkturpraxis-tcm-annegret-schuischel",
   "slug": "akupunkturpraxis-tcm-annegret-schuischel",
   "name": "Akupunkturpraxis-TCM Annegret Schuischel",
-  "description": "Akupunkturpraxis-TCM Annegret Schuischel ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "In der Akupunkturpraxis-TCM Annegret Schuischel in Tempelhof-Schöneberg kommen Methoden der Traditionellen Chinesischen Medizin zum Einsatz. Die Behandlung beginnt mit einem Anamnesegespräch, gefolgt von Puls- und Zungendiagnose. Akupunktur, Moxatherapie und Schröpfen werden zur Linderung von Beschwerden eingesetzt. Zudem bietet die Praxis Ernährungsberatung auf Grundlage der TCM an.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Richterstraße 11",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "015775544992",
   "email": "schuischel@akupunkturpraxis-tcm.de",
   "website": "http://www.akupunkturpraxis-tcm.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfDrD61FqEcRP1AXB0ABkT4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -111,8 +115,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgfDrD61FqEcRP1AXB0ABkT4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

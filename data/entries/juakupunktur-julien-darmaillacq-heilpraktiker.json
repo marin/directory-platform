@@ -2,8 +2,8 @@
   "id": "juakupunktur-julien-darmaillacq-heilpraktiker",
   "slug": "juakupunktur-julien-darmaillacq-heilpraktiker",
   "name": "JUAKUPUNKTUR - Julien Darmaillacq, Heilpraktiker",
-  "description": "JUAKUPUNKTUR - Julien Darmaillacq, Heilpraktiker ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "JUAKUPUNKTUR bietet Akupunktur und naturheilkundliche Behandlungen an. Julien Darmaillacq, Heilpraktiker, praktiziert in Friedrichshain-Kreuzberg. Die Praxis legt Wert auf die Anwendung traditioneller chinesischer Medizin. Patienten können Termine online buchen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lausitzer Str. 26A",
     "locality": "Berlin",

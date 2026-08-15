@@ -2,8 +2,8 @@
   "id": "ya-hui-wang-heilpraktikerin",
   "slug": "ya-hui-wang-heilpraktikerin",
   "name": "Ya-Hui Wang Heilpraktikerin",
-  "description": "Ya-Hui Wang Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Ya-Hui Wang praktiziert in Tempelhof-Schöneberg und bietet Akupunktur sowie Schmerztherapie an. Ihre Therapie mit Begleitung zielt darauf ab, tiefste Bedürfnisse zu erkennen und das innere Potenzial zu entfalten. Sie behandelt unter anderem Schmerzen, Migräne, Hormonstörungen und unterstützt Kinder mit Schulproblemen. Die Blütentherapie wird eingesetzt, um Blockaden zu lösen und den Geist zu klären.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schützenstraße 14",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "01776310765",
   "email": "kontakt@yahuiwang.de",
   "website": "https://www.yahuiwang.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZZbWco9aqEcRhyyzdIpGBZI",
+  "googleMapsRating": 4.9,
+  "googleMapsRatingsCount": 59,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJZZbWco9aqEcRhyyzdIpGBZI",
-  "googleMapsRating": 4.9,
-  "googleMapsRatingsCount": 59
+  "faq": []
 }

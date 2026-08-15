@@ -2,8 +2,8 @@
   "id": "heilpraktikerin-fur-psychotherapie-berlin-myriell-kohrs",
   "slug": "heilpraktikerin-fur-psychotherapie-berlin-myriell-kohrs",
   "name": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs",
-  "description": "Heilpraktikerin für Psychotherapie Berlin // Myriell Kohrs ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "Myriell Kohrs bietet in Tempelhof-Schöneberg Psychotherapie nach HPG sowie Coaching an. Sie nutzt Methoden wie EMDR zur Verarbeitung belastender Erinnerungen und systemische Ansätze zur Erkennung und Aktivierung von Ressourcen. Ihre Praxis richtet sich an Einzelpersonen und Paare, um Klarheit im Leben und in Beziehungen zu fördern.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Monumentenstraße 35",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03026546125",
   "email": "mail@kohrs-psychotherapie-berlin.de",
   "website": "https://www.kohrs-psychotherapie-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ582CJFdRqEcRCbhgY2I6AxQ",
+  "googleMapsRating": 4.2,
+  "googleMapsRatingsCount": 9,
   "openingHours": [
     {
       "day": "Monday",
@@ -88,8 +92,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ582CJFdRqEcRCbhgY2I6AxQ",
-  "googleMapsRating": 4.2,
-  "googleMapsRatingsCount": 9
+  "faq": []
 }

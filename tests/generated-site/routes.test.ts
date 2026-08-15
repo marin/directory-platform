@@ -127,7 +127,47 @@ describe("generated site", () => {
     );
     expect(html).toContain('data-testid="entry-indications"');
     expect(html).toContain("Behandelt unter anderem");
+    expect(html).toContain('data-testid="entry-indication-link"');
+    expect(html).toContain("/indikation/");
     expect(html).toContain('"@type":"MedicalCondition"');
+  });
+
+  it("renders association chips and a credentials line when tagged", () => {
+    const taggedEntry = dataset.entries.find(
+      (entry) =>
+        entry.isOpen &&
+        ((entry.associationIds ?? []).length > 0 || (entry.qualifications ?? []).length > 0),
+    );
+    if (!taggedEntry) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${taggedEntry.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="entry-credentials"');
+    if ((taggedEntry.associationIds ?? []).length > 0) {
+      expect(html).toContain('data-testid="entry-associations"');
+      expect(html).toContain('"@type":"Organization"');
+    }
+  });
+
+  it("builds indication hub pages for tagged complaints", () => {
+    const tagged = dataset.indications.find((indication) =>
+      dataset.entries.some(
+        (entry) => entry.isOpen && (entry.indicationIds ?? []).includes(indication.id),
+      ),
+    );
+    expect(tagged).toBeDefined();
+    const html = readDist(`indikation/${tagged!.slug}/index.html`);
+    expect(html).toContain('data-testid="indication-page"');
+    expect(html).toContain(`Heilpraktiker für ${tagged!.name} in Berlin`);
+    expect(html).toContain('data-testid="indication-intro"');
+  });
+
+  it("lists indexable indication hubs on the homepage", () => {
+    const html = readDist("index.html");
+    expect(html).toContain("Nach Beschwerde");
+    expect(html).toContain('data-testid="home-indication"');
+    expect(html).toContain("/indikation/");
   });
 
   it("renders booking CTA when bookingUrl is set", () => {
@@ -171,6 +211,14 @@ describe("generated site", () => {
     const llms = buildLlmsTxt(dataset);
     expect(llms).toContain(siteConfig.site.name);
     expect(llms).toContain(sampleCategory.slug);
+    const sampleIndication = dataset.indications.find((indication) =>
+      dataset.entries.some(
+        (entry) => entry.isOpen && (entry.indicationIds ?? []).includes(indication.id),
+      ),
+    );
+    if (sampleIndication) {
+      expect(llms).toContain(sampleIndication.slug);
+    }
   });
 
   it("renders entry images and og:image when local images exist", () => {

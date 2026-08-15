@@ -2,8 +2,8 @@
   "id": "grinberg-methode-pantarei-approach-thetahealing-stella-lorenz-heilpraktikerin",
   "slug": "grinberg-methode-pantarei-approach-thetahealing-stella-lorenz-heilpraktikerin",
   "name": "Grinberg-Methode/ Pantarei-Approach & ThetaHealing. Stella Lorenz, Heilpraktikerin",
-  "description": "Grinberg-Methode/ Pantarei-Approach & ThetaHealing. Stella Lorenz, Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Stella Lorenz arbeitet mit der Grinberg-Methode und ThetaHealing in Charlottenburg-Wilmersdorf. Sie begleitet Klienten dabei, alte Selbstbilder und limitierende Glaubenssätze zu transformieren. In einem geschützten Raum erforscht sie mit ihnen ihre Bedürfnisse, Sehnsüchte und Träume, um ein neues Gefühl von Lebendigkeit und Freiheit zu entwickeln.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pestalozzistraße 3",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "email": "stella.lux.lorenz@gmail.com",
   "website": "http://www.stellalorenz.net/",
   "bookingUrl": "http://www.stellalorenz.net/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJW23WruFRqEcRb0J4NPybn4Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJW23WruFRqEcRb0J4NPybn4Q",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  "faq": []
 }

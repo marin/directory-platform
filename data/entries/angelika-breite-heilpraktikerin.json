@@ -2,8 +2,8 @@
   "id": "angelika-breite-heilpraktikerin",
   "slug": "angelika-breite-heilpraktikerin",
   "name": "Angelika Breite Heilpraktikerin",
-  "description": "Angelika Breite Heilpraktikerin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Angelika Breite ist staatlich geprüfte Heilpraktikerin in Charlottenburg-Wilmersdorf und spezialisiert auf die Anwendung von Methoden wie Akupunktur, Cranio-Sacral-Therapie, klassischer Homöopathie und Hypnose-Therapie. Sie hilft bei körperlichen und seelischen Erschöpfungszuständen, Depressionen, Ängsten sowie psychosomatischen Beschwerden. Mit ihrer Empathie und Intuition geht sie auf die tieferliegenden Ursachen von Unwohlsein ein und bietet eine wertschätzende Resonanz zu ihren Klienten.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Olivaer Pl. 3",
     "locality": "Berlin",
@@ -24,11 +25,11 @@
   },
   "phone": "03088922230",
   "website": "https://praxis-breite.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ800jY-9QqEcRHufVxeoK4CA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 4,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ800jY-9QqEcRHufVxeoK4CA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 4
+  "faq": []
 }

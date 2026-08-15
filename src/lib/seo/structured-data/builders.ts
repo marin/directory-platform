@@ -3,7 +3,8 @@ import type { NormalizedEntry } from "../../data/normalize-entry.ts";
 import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
 import type { Indication } from "../../validation/indication-schema.ts";
-import { absoluteUrl, categoryPath, areaPath, entryPath, homePath } from "../../routing/paths.ts";
+import type { Association } from "../../validation/association-schema.ts";
+import { categoryPath, areaPath, indicationPath, absoluteUrl, entryPath, homePath } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
 import {
@@ -37,6 +38,7 @@ export function buildListingJsonLd(
   category: Category | undefined,
   area?: Area,
   indications: Indication[] = [],
+  associations: Association[] = [],
 ): Record<string, unknown> {
   const breadcrumbs = buildBreadcrumbList([
     { name: "Startseite", path: homePath() },
@@ -89,6 +91,12 @@ export function buildListingJsonLd(
     business.knowsAbout = indications.map((item) => ({
       "@type": "MedicalCondition",
       name: item.name,
+    }));
+  }
+  if (associations.length > 0) {
+    business.memberOf = associations.map((item) => ({
+      "@type": "Organization",
+      name: item.abbreviation ? `${item.name} (${item.abbreviation})` : item.name,
     }));
   }
 
@@ -145,13 +153,22 @@ export function buildListingJsonLd(
 }
 
 export function buildCollectionJsonLd(
-  type: "category" | "area",
-  item: Category | Area,
+  type: "category" | "area" | "indication",
+  item: { name: string; slug: string },
   entries: NormalizedEntry[],
   stats: AggregateStats,
   faq?: Array<{ question: string; answer: string }>,
 ): Record<string, unknown> {
-  const path = type === "category" ? categoryPath(item.slug) : `/area/${item.slug}`;
+  const path =
+    type === "category"
+      ? categoryPath(item.slug)
+      : type === "area"
+        ? areaPath(item.slug)
+        : indicationPath(item.slug);
+  const listName =
+    type === "indication"
+      ? `${siteConfig.directory.entryPlural} für ${item.name} in ${siteConfig.geography.locality}`
+      : item.name;
   const breadcrumbs = buildBreadcrumbList([
     { name: "Startseite", path: homePath() },
     { name: item.name, path },
@@ -160,7 +177,7 @@ export function buildCollectionJsonLd(
   const itemList = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: item.name,
+    name: listName,
     numberOfItems: entries.length,
     itemListElement: entries.map((entry, index) => ({
       "@type": "ListItem",

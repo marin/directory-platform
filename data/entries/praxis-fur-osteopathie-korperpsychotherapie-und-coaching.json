@@ -13,6 +13,9 @@
     "steglitz-zehlendorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "vod"
+  ],
   "address": {
     "street": "Heinersdorfer Str. 3",
     "locality": "Berlin",

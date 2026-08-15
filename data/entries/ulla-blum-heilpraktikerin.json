@@ -13,6 +13,10 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "fdh",
+    "agtcm"
+  ],
   "address": {
     "street": "Leibnizstraße 33",
     "locality": "Berlin",

@@ -2,8 +2,8 @@
   "id": "immanuel-zentrum-fur-naturheilkunde",
   "slug": "immanuel-zentrum-fur-naturheilkunde",
   "name": "Immanuel Zentrum für Naturheilkunde",
-  "description": "Immanuel Zentrum für Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Das Immanuel Zentrum für Naturheilkunde in Steglitz-Zehlendorf spezialisiert sich auf integrative Naturheilverfahren wie Ayurveda, Traditionelle Chinesische Medizin und Pflanzenheilkunde. Die Fachabteilung erforscht die Wirksamkeit dieser Methoden und bietet stationäre Ayurveda-Medizin an, die moderne Schulmedizin mit traditioneller Heilkunst verbindet. Studien belegen die Effizienz der naturheilkundlichen Programme, die auf wissenschaftlichen Erkenntnissen basieren.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Kleinen Wannsee 5D",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "030805050",
   "website": "https://naturheilkunde.immanuel.de/home/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-1JBquBYqEcR6xsB0PoklRQ",
+  "googleMapsRating": 3.9,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Monday",
@@ -53,8 +57,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ-1JBquBYqEcR6xsB0PoklRQ",
-  "googleMapsRating": 3.9,
-  "googleMapsRatingsCount": 21
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "praxis-der-zuhorer-steffen-zohl-heilpraktiker-fur-psychotherapie",
   "slug": "praxis-der-zuhorer-steffen-zohl-heilpraktiker-fur-psychotherapie",
   "name": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie",
-  "description": "Praxis Der Zuhörer - Steffen Zöhl - Heilpraktiker für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "description": "In der Praxis Der Zuhörer in Charlottenburg bietet Steffen Zöhl Heilpraktiker für Psychotherapie Gesprächstherapie und Hypnotherapie an. Er fokussiert sich auf die Behandlung von Ängsten, Phobien und Stress. Klient*innen können ihre Lebensqualität steigern, Selbstbewusstsein aufbauen und persönliche Ziele erreichen. Die Methoden basieren auf anerkannten psychotherapeutischen Ansätzen und der wissenschaftlich fundierten Hypnosetherapie.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heilpraktiker für Psychotherapie",
     "locality": "Berlin",
@@ -28,6 +29,9 @@
   "email": "info@derzuhoerer-berlin.de",
   "website": "https://derzuhoerer-berlin.de/",
   "bookingUrl": "https://derzuhoerer-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbQ-Y_CdRqEcRXbI3DSC-34o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -94,8 +98,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbQ-Y_CdRqEcRXbI3DSC-34o",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

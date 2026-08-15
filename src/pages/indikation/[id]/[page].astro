@@ -1,0 +1,94 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import SiteHeader from "../../../components/navigation/SiteHeader.astro";
+import Breadcrumbs from "../../../components/navigation/Breadcrumbs.astro";
+import EntryCard from "../../../components/cards/EntryCard.astro";
+import FaqSection from "../../../components/faq/FaqSection.astro";
+import LastUpdated from "../../../components/entry/LastUpdated.astro";
+import JsonLd from "../../../components/seo/JsonLd.astro";
+import PaginationNav from "../../../components/navigation/PaginationNav.astro";
+import { loadDataset } from "../../../lib/data/load-dataset.ts";
+import { sortEntriesByRichness } from "../../../lib/data/entry-richness.ts";
+import {
+  toEntryCardViewModel,
+  shouldIndexIndication,
+} from "../../../lib/data/view-models/entry.ts";
+import { computeCategoryStats, computeIndicationStats, indicationEntries } from "../../../lib/aggregates/compute.ts";
+import { indicationHubTitle } from "../../../lib/data/indication-hubs.ts";
+import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
+import { homePath, indicationPath, indicationUrl } from "../../../lib/routing/paths.ts";
+import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
+import siteConfig from "../../../../config/site.config.ts";
+
+export function getStaticPaths() {
+  const dataset = loadDataset();
+  const pageSize = siteConfig.pagination.indicationPageSize;
+  const paths = [];
+
+  for (const indication of dataset.indications) {
+    const count = computeIndicationStats(dataset.entries, indication.id).listingCount;
+    const { index, noindex } = shouldIndexIndication(count);
+    if (!index && !noindex) continue;
+
+    const lastPage = computeTotalPages(count, pageSize);
+    for (let page = 2; page <= lastPage; page += 1) {
+      paths.push({
+        params: { id: indication.slug, page: String(page) },
+        props: { indicationId: indication.id, page, lastPage, noindex },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { indicationId, page, lastPage, noindex } = Astro.props;
+const dataset = loadDataset();
+const indication = dataset.indications.find((item) => item.id === indicationId)!;
+const openEntries = sortEntriesByRichness(indicationEntries(dataset.entries, indicationId));
+const stats = computeIndicationStats(dataset.entries, indicationId);
+const intro = dataset.indicationIntros.get(indicationId);
+const faq = dataset.indicationFaqs.get(indicationId);
+const cards = openEntries.map((e) =>
+  toEntryCardViewModel(e, dataset.categories, dataset.areas),
+);
+const jsonLd = buildCollectionJsonLd("indication", indication, openEntries, stats, faq?.faq);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const pageSize = siteConfig.pagination.indicationPageSize;
+const pageEntries = pageSlice(cards, page, pageSize);
+const title = `${indicationHubTitle(indication.name)} – Seite ${page}`;
+---
+
+<BaseLayout
+  title={title}
+  description={intro?.intro ?? indication.description}
+  canonical={indicationUrl(indication.slug, page)}
+  noindex={noindex}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <Breadcrumbs
+    items={[
+      { label: "Startseite", href: homePath() },
+      { label: indication.name, href: indicationPath(indication.slug) },
+      { label: `Seite ${page}` },
+    ]}
+  />
+  <article data-testid="indication-page">
+    <h1>{indicationHubTitle(indication.name)}</h1>
+    {intro && <p style="margin: 1rem 0;" data-testid="indication-intro">{intro.intro}</p>}
+    <div class="grid grid-2">
+      {pageEntries.map((card) => <EntryCard card={card} />)}
+    </div>
+    <PaginationNav
+      currentPage={page}
+      totalPages={lastPage}
+      basePath={indicationPath(indication.slug)}
+    />
+    {faq && <FaqSection items={faq.faq} />}
+    {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
+  </article>
+</BaseLayout>

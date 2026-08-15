@@ -2,8 +2,8 @@
   "id": "naturheilpraxis-petra-thiele",
   "slug": "naturheilpraxis-petra-thiele",
   "name": "Naturheilpraxis Petra Thiele",
-  "description": "Naturheilpraxis Petra Thiele ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Die Naturheilpraxis Petra Thiele in Reinickendorf bietet verschiedene naturheilkundliche Ansätze zur Förderung der Gesundheit. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und die persönliche Begleitung ihrer Klienten. Hier stehen die Bedürfnisse der Patienten im Mittelpunkt, um deren Gesundheit nachhaltig zu unterstützen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dinkelsbühler Steig 18",
     "locality": "Berlin",

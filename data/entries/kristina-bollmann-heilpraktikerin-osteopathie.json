@@ -2,8 +2,8 @@
   "id": "kristina-bollmann-heilpraktikerin-osteopathie",
   "slug": "kristina-bollmann-heilpraktikerin-osteopathie",
   "name": "Kristina Bollmann - Heilpraktikerin & Osteopathie",
-  "description": "Kristina Bollmann - Heilpraktikerin & Osteopathie ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Kristina Bollmann ist Heilpraktikerin und Osteopathin in Treptow-Köpenick. Sie behandelt Menschen jeden Alters und nutzt die Osteopathie, um die Selbstregulationskräfte des Körpers zu mobilisieren. Zudem setzt sie die Psychosomatische Energetik ein, um chronische Erkrankungen zu behandeln.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Goldmannpark 21",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "info@die-osteopathin.de",
   "website": "https://die-osteopathin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb",
   "bookingUrl": "https://die-osteopathin.de/?utm_source=google&utm_medium=local&utm_campaign=gmb_kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7NTrd03qEcRfVM8cep3RdM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -51,8 +55,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJB7NTrd03qEcRfVM8cep3RdM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "sabrina-pfutzner-naturheilpraxis-health-coaching",
   "slug": "sabrina-pfutzner-naturheilpraxis-health-coaching",
   "name": "Sabrina Pfützner - Naturheilpraxis & Health Coaching",
-  "description": "Sabrina Pfützner - Naturheilpraxis & Health Coaching ist ein Heilpraktiker in Berlin mit Schwerpunkt ernaehrungsberatung. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "Sabrina Pfützner bietet in ihrer Naturheilpraxis in Marzahn-Hellersdorf eine 1:1 Beratung und Coaching zu HPU/KPU an. Sie hilft ihren Patienten, die Sprache ihres Körpers zu verstehen und die richtigen Maßnahmen zu ergreifen, um zu mehr Ruhe und Stabilität zu gelangen. Mit der BEO-Methode beruhigt sie zunächst das Nervensystem, bevor sie gezielt Nährstoffe auffüllt und den Stoffwechsel reaktiviert.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -12,6 +12,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mehrower Allee 36b",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03081034989",
   "email": "praxis@gesundes-menschenleben.de",
   "website": "http://www.gesundes-menschenleben.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi7beRdJLqEcRS9PMyP9Ug9g",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 7,
   "openingHours": [
     {
       "day": "Monday",
@@ -50,8 +54,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJi7beRdJLqEcRS9PMyP9Ug9g",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 7
+  "faq": []
 }

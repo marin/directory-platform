@@ -14,6 +14,9 @@
   "indicationIds": [
     "allergien"
   ],
+  "associationIds": [
+    "fdh"
+  ],
   "address": {
     "street": "Gormannstraße 18 A",
     "locality": "Berlin",

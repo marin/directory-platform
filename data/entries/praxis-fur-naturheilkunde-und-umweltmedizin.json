@@ -2,8 +2,8 @@
   "id": "praxis-fur-naturheilkunde-und-umweltmedizin",
   "slug": "praxis-fur-naturheilkunde-und-umweltmedizin",
   "name": "Praxis für Naturheilkunde und Umweltmedizin",
-  "description": "Praxis für Naturheilkunde und Umweltmedizin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In der Praxis für Naturheilkunde und Umweltmedizin in Berlin-Mitte behandelt Heilpraktiker Michael Stolpmann verschiedene Beschwerden mit Methoden wie Ohrakupunktur und Mikrostromtherapie. Er fokussiert sich auf die Linderung von Schmerzen und die Unterstützung bei Heilungsprozessen nach Operationen. Zudem bietet er Ernährungsberatung und Darmsanierung an, um Allergien und Hauterkrankungen zu behandeln. Auch bei Erschöpfungszuständen und Stress kann er mit gezielten Therapien helfen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Linienstraße 152",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03097894444",
   "email": "kontakt@praxisstolpmann.de",
   "website": "http://www.praxisstolpmann.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ81EmsehRqEcROpJx5R4l4C8",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Monday",
@@ -69,8 +73,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ81EmsehRqEcROpJx5R4l4C8",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 21
+  "faq": []
 }

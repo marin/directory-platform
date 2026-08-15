@@ -2,8 +2,8 @@
   "id": "traumatherapie-stephanie-heilmann-heilpraktikerin-fur-psychotherapie",
   "slug": "traumatherapie-stephanie-heilmann-heilpraktikerin-fur-psychotherapie",
   "name": "Traumatherapie Stephanie Heilmann / Heilpraktikerin für Psychotherapie",
-  "description": "Traumatherapie Stephanie Heilmann / Heilpraktikerin für Psychotherapie ist ein Heilpraktiker in Berlin mit Schwerpunkt psychotherapie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Pankow bietet Stephanie Heilmann bindungs- und körperorientierte Traumatherapie an. Sie begleitet Klienten einfühlsam bei der Verarbeitung belastender Erlebnisse. Durch eine Kombination aus Gespräch und körperorientierter Arbeit hilft sie, innere Blockaden zu lösen und mehr Stabilität zu finden. Ihre Qualifikation als zertifizierte Achtsamkeitslehrerin ergänzt ihre therapeutische Arbeit.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Breite Str. 16",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   },
   "phone": "03093671254",
   "website": "http://www.stephanieheilmann.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5xOo5-VTqEcR146Csld1PA4",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ5xOo5-VTqEcR146Csld1PA4",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

@@ -2,8 +2,8 @@
   "id": "heilpraktiker-wanitschek-vigl-berlin",
   "slug": "heilpraktiker-wanitschek-vigl-berlin",
   "name": "Heilpraktiker Wanitschek & Vigl Berlin",
-  "description": "Heilpraktiker Wanitschek & Vigl Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "description": "Heilpraktiker Wanitschek & Vigl in Neukölln kombiniert naturheilkundliche und schulmedizinische Diagnosemethoden, um die Ursachen von Beschwerden zu ermitteln. Sie erstellen einen maßgeschneiderten Therapieplan, der häufig die Pflanzenheilkunde einbezieht. Bei Bedarf arbeiten sie eng mit Ärzt:innen zusammen, um eine umfassende Behandlung sicherzustellen.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Nansenstraße 31",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03020865594",
   "website": "https://ihre-heilpraktiker.berlin/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxXWe8idQqEcRvZDwyKBw3dk",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 37,
   "openingHours": [
     {
       "day": "Monday",
@@ -70,8 +74,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxXWe8idQqEcRvZDwyKBw3dk",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 37
+  "faq": []
 }

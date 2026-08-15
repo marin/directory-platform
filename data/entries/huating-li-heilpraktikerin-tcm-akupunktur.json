@@ -13,6 +13,9 @@
     "mitte"
   ],
   "indicationIds": [],
+  "associationIds": [
+    "agtcm"
+  ],
   "address": {
     "street": "Linienstraße 119",
     "locality": "Berlin",

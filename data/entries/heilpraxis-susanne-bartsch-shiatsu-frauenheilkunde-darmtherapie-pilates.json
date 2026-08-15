@@ -2,8 +2,8 @@
   "id": "heilpraxis-susanne-bartsch-shiatsu-frauenheilkunde-darmtherapie-pilates",
   "slug": "heilpraxis-susanne-bartsch-shiatsu-frauenheilkunde-darmtherapie-pilates",
   "name": "Heilpraxis Susanne Bartsch. Shiatsu. Frauenheilkunde. Darmtherapie. Pilates",
-  "description": "Heilpraxis Susanne Bartsch. Shiatsu. Frauenheilkunde. Darmtherapie. Pilates ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "description": "In Treptow-Köpenick bietet Susanne Bartsch Shiatsu-Behandlungen an, die Vitalität fördern und Schmerzen reduzieren. Sie ist zertifizierte Therapeutin in Frauenheilkunde und Darmtherapie und behandelt Beschwerden wie Menstruationsprobleme und Reizdarm mit modernen Ansätzen. Zudem leitet sie Pilates-Kurse, die sowohl live als auch online stattfinden.",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heilpraxis Susanne Bartsch / Cornus",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "01791174717",
   "website": "http://www.heilpraxis-susannebartsch.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEVeREuZRqEcR1EMxFp3xMs4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 28,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,8 +62,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEVeREuZRqEcR1EMxFp3xMs4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 28
+  "faq": []
 }
