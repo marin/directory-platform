@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-amg",
   "name": "naturheilpraxis amg",
   "description": "Die Naturheilpraxis AMG in Berlin-Kreuzberg wird von der Heilpraktikerin Anna-Maria Meckelnborg geleitet. Sie bietet eine Vielzahl von Therapien an, darunter Fußreflexzonentherapie, trockenes Schröpfen und Bioresonanz, um die Gesundheit ihrer Patienten zu fördern und Krankheiten vorzubeugen. Die Praxis befindet sich in der Dieffenbachstraße 36 und ist jeden Samstag geöffnet. Zudem ist Frau Meckelnborg auch in einer weiteren Praxis in Zehlendorf tätig, wo sie unter anderem Colon-Hydro-Therapie und kolloidosmotische Fußbäder anbietet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Dieffenbachstraße 36",

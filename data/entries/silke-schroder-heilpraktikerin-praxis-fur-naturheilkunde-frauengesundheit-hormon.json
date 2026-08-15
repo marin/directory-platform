@@ -3,13 +3,16 @@
   "slug": "silke-schroder-heilpraktikerin-praxis-fur-naturheilkunde-frauengesundheit-hormon",
   "name": "Silke Schröder Heilpraktikerin Praxis für Naturheilkunde, Frauengesundheit & Hormonbalance",
   "description": "Silke Schröder ist Heilpraktikerin in Berlin und bietet in ihrer Praxis für Naturheilkunde, Frauengesundheit und Hormonbalance individuelle Behandlungen an. Sie hat sich auf die Begleitung von Frauen mit speziellen gesundheitlichen Herausforderungen wie Endometriose und hormonellen Ungleichgewichten spezialisiert. Durch eine Kombination aus naturheilkundlichen Ansätzen und moderner Diagnostik unterstützt sie ihre Patientinnen dabei, die Ursachen ihrer Beschwerden zu identifizieren und nachhaltige Lösungen zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Wichertstraße 46",

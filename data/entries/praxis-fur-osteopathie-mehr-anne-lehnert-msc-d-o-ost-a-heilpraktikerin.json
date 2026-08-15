@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin",
   "name": "Praxis für Osteopathie & mehr- Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin",
   "description": "Die Praxis für Osteopathie & mehr von Anne Lehnert, MSc D.O. Ost.(A), Heilpraktikerin, befindet sich in Berlin-Friedrichshagen. Sie bietet eine ganzheitliche Behandlung von Bewegungsstörungen und Beschwerden wie Rücken- und Gelenkschmerzen, Kopfschmerzen sowie Verdauungsstörungen an. Als erfahrene Physiotherapeutin und Osteopathin legt Frau Lehnert besonderen Wert auf die individuelle Diagnostik und Therapie des Menschen in seiner Gesamtheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -11,6 +11,12 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm",
+    "migraene",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Bölschestraße 101",

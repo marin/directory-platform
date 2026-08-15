@@ -3,7 +3,7 @@
   "slug": "moderne-traumatherapie-emdr-therapie-echo-mind-elke-riethmuller-heilpraktikerin-",
   "name": "Moderne Traumatherapie & EMDR Therapie – ECHO/MIND Elke Riethmüller – Heilpraktikerin für Psychotherapie",
   "description": "ECHO/MIND ist eine Privatpraxis für moderne Traumatherapie und EMDR Therapie, geleitet von Elke Riethmüller, einer Heilpraktikerin für Psychotherapie in Berlin-Pankow. Die Praxis bietet eine Vielzahl von therapeutischen Ansätzen, darunter integrative Traumatherapie, EMDR, Coaching und Workshops, um Klienten bei der Bewältigung von emotionalen und psychischen Herausforderungen zu unterstützen. Ziel ist es, individuelle Muster zu erkennen und nachhaltig zu verändern, um ein erfüllteres Leben zu führen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Stahlheimer Str. 26",

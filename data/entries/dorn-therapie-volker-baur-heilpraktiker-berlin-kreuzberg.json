@@ -3,7 +3,7 @@
   "slug": "dorn-therapie-volker-baur-heilpraktiker-berlin-kreuzberg",
   "name": "Dorn-Therapie Volker Baur - Heilpraktiker Berlin Kreuzberg",
   "description": "Die Heilpraktikerpraxis von Volker Baur in Berlin-Kreuzberg bietet ganzheitliche Behandlungen und Begleitungen bei körperlichen Beschwerden sowie inneren Belastungsthemen an. Schwerpunkte der Praxis sind die Dorntherapie, die Körperstatik sowie die Darmgesundheit und Ernährung. Durch eine ursachenorientierte Herangehensweise wird auf die individuellen Bedürfnisse der Patienten eingegangen, um ein ausgewogenes körperliches und mentales Wohlbefinden zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Lindenstraße 16",

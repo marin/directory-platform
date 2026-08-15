@@ -8,6 +8,7 @@ interface Props {
 const { vm } = Astro.props;
 const { entry } = vm;
 const hasTags = vm.categories.length > 0 || vm.areas.length > 0;
+const hasIndications = vm.indications.length > 0;
 ---
 
 <header>
@@ -25,6 +26,18 @@ const hasTags = vm.categories.length > 0 || vm.areas.length > 0;
           <a href={areaPath(area.slug)} class="tag" data-testid="entry-area-link">
             {area.name}
           </a>
+        ))}
+      </p>
+    )
+  }
+  {
+    hasIndications && (
+      <p class="tag-list" data-testid="entry-indications">
+        <span class="muted">Behandelt unter anderem</span>
+        {vm.indications.map((indication) => (
+          <span class="tag tag-static" data-testid="entry-indication">
+            {indication.name}
+          </span>
         ))}
       </p>
     )

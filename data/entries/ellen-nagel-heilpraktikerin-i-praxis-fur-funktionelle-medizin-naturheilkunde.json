@@ -3,13 +3,17 @@
   "slug": "ellen-nagel-heilpraktikerin-i-praxis-fur-funktionelle-medizin-naturheilkunde",
   "name": "Ellen Nagel, Heilpraktikerin I Praxis für Funktionelle Medizin & Naturheilkunde",
   "description": "Ellen Nagel ist Heilpraktikerin in Berlin und bietet eine Praxis für Funktionelle Medizin und Naturheilkunde an. Ihr Ansatz zielt darauf ab, den Ursachen von Erkrankungen auf den Grund zu gehen und individuelle, nachhaltige Behandlungskonzepte zu entwickeln. Zu den Schwerpunkten ihrer Praxis gehören unter anderem Erschöpfung, Stressmedizin, Magen- und Darmerkrankungen sowie Allergien. Ellen Nagel legt großen Wert auf ganzheitliche Diagnostik und Therapie, um die Gesundheit ihrer Patienten individuell zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout"
   ],
   "address": {
     "street": "Cunostraße 64",

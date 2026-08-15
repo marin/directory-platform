@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-berlin-steglitz-cornelia-quarz",
   "name": "Heilpraktikerin Berlin Steglitz / Cornelia Quarz",
   "description": "Heilpraktikerin Cornelia Quarz in Berlin Steglitz bietet seit 25 Jahren naturheilkundliche Behandlungen an. Ihre Schwerpunkte liegen auf Darm- und Verdauungsproblemen, Belastungen durch Stoffwechsel- und Entgiftungsprozesse sowie Schmerzen und Funktionsstörungen des Bewegungsapparates. In ihrer Praxis wird Wert darauf gelegt, die zugrundeliegenden Zusammenhänge der Beschwerden zu verstehen und individuelle, alltagstaugliche Lösungsansätze zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Lacknerstraße 6",

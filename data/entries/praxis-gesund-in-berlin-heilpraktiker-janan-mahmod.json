@@ -3,7 +3,7 @@
   "slug": "praxis-gesund-in-berlin-heilpraktiker-janan-mahmod",
   "name": "Praxis Gesund in Berlin, Heilpraktiker Janan Mahmod",
   "description": "Die Praxis Gesund in Berlin, geleitet von Heilpraktiker Janan Mahmod, bietet ganzheitliche Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Mit einem Fokus auf die Diagnostik und Therapie von Erkrankungen des Bewegungsapparates sowie Verdauungsstörungen, Burnout und Toxinbelastungen, hat sich die Praxis seit 2018 als eine der führenden Einrichtungen im deutschsprachigen Raum etabliert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm"
   ],
   "address": {
     "street": "Prenzlauer Promenade 191",

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapie-natalia-spurman",
   "name": "Heilpraktikerin für Psychotherapie, Natalia Spurman",
   "description": "Heilpraktikerin für Psychotherapie Natalia Spurman bietet in ihrer Praxis in Berlin-Prenzlauer Berg individuelle psychotherapeutische Begleitung und systemische Aufstellungsarbeit an. In einem ruhigen und vertraulichen Raum unterstützt sie ihre Klienten bei der Bewältigung von emotionalen Herausforderungen und persönlichen Themen. Die Sitzungen werden auf Deutsch und Russisch angeboten, wobei kurzfristige Termine ohne lange Wartezeiten möglich sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Schliemannstraße 41",

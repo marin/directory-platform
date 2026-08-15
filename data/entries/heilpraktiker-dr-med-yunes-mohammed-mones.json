@@ -3,13 +3,18 @@
   "slug": "heilpraktiker-dr-med-yunes-mohammed-mones",
   "name": "Heilpraktiker - Dr. med. Yunes Mohammed Mones",
   "description": "Dr. Yunes Mohammed Mones ist ein erfahrener Heilpraktiker in Berlin, spezialisiert auf die Akupunktur zur Behandlung von Rückenschmerzen und anderen Beschwerden. Mit über 15 Jahren Erfahrung in der alternativen Medizin verfolgt er einen ganzheitlichen Ansatz, der darauf abzielt, Beschwerden ohne den Einsatz von Medikamenten zu lindern. In seiner Praxis bietet er Behandlungen für verschiedene Beschwerden wie Schulter- und Nackenprobleme, Stress, Schlafstörungen sowie Kopfschmerzen an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "lichtenberg"
+  ],
+  "indicationIds": [
+    "migraene",
+    "schlafstoerungen",
+    "ruecken"
   ],
   "address": {
     "street": "Weißenseer Weg 111",

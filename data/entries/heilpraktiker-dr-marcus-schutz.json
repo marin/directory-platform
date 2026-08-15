@@ -3,13 +3,18 @@
   "slug": "heilpraktiker-dr-marcus-schutz",
   "name": "Heilpraktiker Dr. Marcus Schütz",
   "description": "Heilpraktiker Dr. Marcus Schütz in Berlin bietet seit 1991 eine spezialisierte Behandlung von Erkrankungen des Bewegungsapparates an. Seine Therapie basiert auf der Manualtherapie nach Prof. Werner, die Elemente der Chiropraxis, Osteopathie und manuellen Therapie kombiniert. Zudem setzt er die Schlangengift-Enzym-Therapie ein, um verschiedene Beschwerden wie Allergien, Asthma und rheumatische Erkrankungen zu behandeln. Dr. Schütz hat umfangreiche Erfahrung in der Betreuung von Performing Artists und legt großen Wert auf individuelle Behandlungsansätze.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "allergien",
+    "migraene",
+    "hautprobleme"
   ],
   "address": {
     "street": "Dr. Marcus Schütz",

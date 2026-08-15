@@ -3,13 +3,18 @@
   "slug": "bisping-jutta-heilpraktikerin",
   "name": "Bisping Jutta Heilpraktikerin",
   "description": "Heilpraktikerin Jutta Bisping bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg ein umfangreiches Therapieangebot mit Schwerpunkten in Homöopathie, Hypnotherapie und CranioSacraler Therapie. Sie begleitet ihre Patienten auf dem Weg zu ganzheitlicher Gesundheit und einem achtsamen Umgang mit sich selbst. Zu den behandelten Beschwerden zählen unter anderem akute und chronische Kopf- und Rückenschmerzen, Schlafstörungen sowie Erschöpfungszustände und Stress.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "burnout",
+    "schlafstoerungen",
+    "ruecken"
   ],
   "address": {
     "street": "Niebuhrstraße 66",

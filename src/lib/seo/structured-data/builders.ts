@@ -2,6 +2,7 @@ import siteConfig from "../../../../config/site.config.ts";
 import type { NormalizedEntry } from "../../data/normalize-entry.ts";
 import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
+import type { Indication } from "../../validation/indication-schema.ts";
 import { absoluteUrl, categoryPath, areaPath, entryPath, homePath } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
@@ -34,6 +35,7 @@ export function buildListingJsonLd(
   entry: NormalizedEntry,
   category: Category | undefined,
   area?: Area,
+  indications: Indication[] = [],
 ): Record<string, unknown> {
   const breadcrumbs = buildBreadcrumbList([
     { name: "Startseite", path: homePath() },
@@ -79,6 +81,12 @@ export function buildListingJsonLd(
   );
   if (mapsListingUrl) business.hasMap = mapsListingUrl;
   if (entry.website) business.sameAs = [entry.website];
+  if (indications.length > 0) {
+    business.knowsAbout = indications.map((item) => ({
+      "@type": "MedicalCondition",
+      name: item.name,
+    }));
+  }
 
   const primaryImage = getPrimaryImage(entry.images ?? []);
   if (primaryImage) {

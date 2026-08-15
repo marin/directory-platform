@@ -3,7 +3,7 @@
   "slug": "sophie-honig-praxis-fur-bindungsorientierte-psychotherapie-heilpraktiker-fur-psy",
   "name": "Sophie Honig - Praxis für bindungsorientierte Psychotherapie (Heilpraktiker für Psychotherapie)",
   "description": "Sophie Honig ist Heilpraktikerin für Psychotherapie und bietet in ihrer Praxis in der Akazienstraße 25 in Berlin-Schöneberg bindungsorientierte Psychotherapie, Bindungsanalyse und psychologische Krisenbegleitung an. Ihr Ansatz fokussiert sich auf die Entwicklung einer gesunden Selbstbindung und die Stärkung individueller Ressourcen. Neben persönlichen Gesprächen werden auch Online-Termine und Telefonate angeboten, um eine flexible Unterstützung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Akazienstraße 25",

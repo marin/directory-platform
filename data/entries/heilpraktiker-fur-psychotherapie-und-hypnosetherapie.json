@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-psychotherapie-und-hypnosetherapie",
   "name": "Heilpraktiker für Psychotherapie und Hypnosetherapie",
   "description": "Die Praxis für Heilpraktiker für Psychotherapie und Hypnosetherapie in Berlin-Adlershof bietet Unterstützung bei psychischen Erkrankungen wie Angststörungen, Depressionen und Burnout. Mit einem ganzheitlichen Ansatz werden individuelle Lösungen erarbeitet, um den Klienten zu helfen, ihren Lebensweg zu finden und ihre Herausforderungen zu meistern. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und nutzt die Methoden der Hypnosetherapie zur Förderung des psychischen Wohlbefindens.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Genossenschaftsstraße 37",

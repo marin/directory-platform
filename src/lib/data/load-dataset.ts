@@ -6,6 +6,7 @@ import { siteConfigSchema } from "../validation/site-schema.ts";
 import { entrySchema } from "../validation/entry-schema.ts";
 import { categoriesFileSchema } from "../validation/category-schema.ts";
 import { areasFileSchema } from "../validation/area-schema.ts";
+import { indicationsFileSchema } from "../validation/indication-schema.ts";
 import { redirectsFileSchema } from "../validation/redirect-schema.ts";
 import { commercialCampaignsFileSchema } from "../validation/campaign-schema.ts";
 import { generatedIntroSchema, generatedFaqSchema } from "../validation/generated-schema.ts";
@@ -18,6 +19,7 @@ import {
 import { normalizeEntry, type NormalizedEntry } from "./normalize-entry.ts";
 import type { Category } from "../validation/category-schema.ts";
 import type { Area } from "../validation/area-schema.ts";
+import type { Indication } from "../validation/indication-schema.ts";
 import type { Redirect } from "../validation/redirect-schema.ts";
 import type { CommercialCampaign } from "../validation/campaign-schema.ts";
 import type { GeneratedIntro, GeneratedFaq } from "../validation/generated-schema.ts";
@@ -52,6 +54,7 @@ export interface Dataset {
   siteConfig: typeof siteConfig;
   categories: Category[];
   areas: Area[];
+  indications: Indication[];
   entries: NormalizedEntry[];
   redirects: Redirect[];
   campaigns: CommercialCampaign[];
@@ -65,6 +68,7 @@ export interface Dataset {
 export function loadDataset(): Dataset {
   const categories = categoriesFileSchema.parse(readJsonFile("data/categories.json"));
   const areas = areasFileSchema.parse(readJsonFile("data/areas.json"));
+  const indications = indicationsFileSchema.parse(readJsonFile("data/indications.json"));
   const entryFiles = readdirSync(join(ROOT, "data/entries")).filter((f) =>
     f.endsWith(".json"),
   );
@@ -111,6 +115,7 @@ export function loadDataset(): Dataset {
     siteConfig,
     categories,
     areas,
+    indications,
     entries,
     redirects,
     campaigns,
@@ -144,8 +149,16 @@ export function validateDataset(): ValidationIssue[] {
     issues.push({ file: "data/areas.json", field: "(root)", message: String(e) });
   }
 
+  let indications: Indication[] = [];
+  try {
+    indications = indicationsFileSchema.parse(readJsonFile("data/indications.json"));
+  } catch (e) {
+    issues.push({ file: "data/indications.json", field: "(root)", message: String(e) });
+  }
+
   const categoryIds = new Set(categories.map((c) => c.id));
   const areaIds = new Set(areas.map((a) => a.id));
+  const indicationIds = new Set(indications.map((item) => item.id));
   const entrySlugs = new Set<string>();
   const entryIds = new Set<string>();
 
@@ -189,6 +202,15 @@ export function validateDataset(): ValidationIssue[] {
             file: filePath,
             field: `areaIds[${i}]`,
             message: `area "${areaId}" does not exist`,
+          });
+        }
+      }
+      for (const [i, indicationId] of (entry.indicationIds ?? []).entries()) {
+        if (!indicationIds.has(indicationId)) {
+          issues.push({
+            file: filePath,
+            field: `indicationIds[${i}]`,
+            message: `indication "${indicationId}" does not exist`,
           });
         }
       }

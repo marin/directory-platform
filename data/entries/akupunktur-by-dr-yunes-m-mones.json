@@ -3,13 +3,18 @@
   "slug": "akupunktur-by-dr-yunes-m-mones",
   "name": "Akupunktur by Dr. Yunes M. Mones",
   "description": "Dr. Yunes M. Mones ist ein erfahrener Heilpraktiker und Facharzt für HNO mit einer Spezialisierung auf Akupunktur. In seiner Praxis in Berlin-Lichtenberg bietet er ganzheitliche Behandlungen zur Linderung von Beschwerden wie Rückenschmerzen, Schulter- und Nackenproblemen sowie Stress und Schlafstörungen an. Dr. Mones verfolgt einen alternativen Ansatz, der auf medikamentenfreie Therapien abzielt, um die natürliche Heilung des Körpers zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
   ],
   "areaIds": [
     "lichtenberg"
+  ],
+  "indicationIds": [
+    "migraene",
+    "schlafstoerungen",
+    "ruecken"
   ],
   "address": {
     "street": "Weißenseer Weg 111",

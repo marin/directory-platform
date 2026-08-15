@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-daniel-brunner",
   "name": "Naturheilpraxis Daniel Brunner",
   "description": "Die Naturheilpraxis Daniel Brunner in Berlin-Moabit bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, TCM und spezielle Verfahren wie Dry Needling und Mikrostromtherapie. Der Heilpraktiker Daniel Brunner ist auf die Behandlung chronischer Schmerzen und funktioneller Störungen spezialisiert und verfolgt einen evidenzorientierten Ansatz, der die Naturheilkunde als sinnvolle Ergänzung zur westlichen Medizin versteht. In ruhiger Atmosphäre werden individuelle Therapieansätze entwickelt, um das Wohlbefinden der Patienten nachhaltig zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,14 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "darm",
+    "migraene",
+    "schlafstoerungen",
+    "schilddruese"
   ],
   "address": {
     "street": "Siemensstraße 6",
@@ -27,6 +35,9 @@
   "email": "info@hp-brunner.de",
   "website": "https://www.hp-brunner.de/",
   "bookingUrl": "https://www.hp-brunner.de/kontakt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtVPWui1RqEcR8Bl-wfEHVhI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 36,
   "openingHours": [
     {
       "day": "Monday",
@@ -262,8 +273,5 @@
       "question": "Welche Beschwerden werden in der Praxis behandelt?",
       "answer": "In der Naturheilpraxis Daniel Brunner werden verschiedene Beschwerden behandelt, darunter chronische Schmerzen, Stress und Schlafstörungen, Verdauungsprobleme, Allergien und Asthma, Menstruationsbeschwerden sowie Tinnitus und Schwindel."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJtVPWui1RqEcR8Bl-wfEHVhI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 36
+  ]
 }

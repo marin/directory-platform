@@ -3,7 +3,7 @@
   "slug": "akupunkturpraxis-sandra-wilfert",
   "name": "Akupunkturpraxis Sandra Wilfert",
   "description": "In der Akupunkturpraxis Sandra Wilfert in Berlin Prenzlauer Berg steht die ganzheitliche Behandlung im Fokus. Die Praxis bietet eine individuelle Akupunktur nach der Balance-Methode von Dr. Tan, die darauf abzielt, den Energiefluss im Körper wieder ins Gleichgewicht zu bringen. Sandra Wilfert, Heilpraktikerin mit Schwerpunkt auf traditioneller chinesischer Medizin (TCM), unterstützt ihre Patienten bei verschiedenen Beschwerden wie chronischen Schmerzen, hormonellen Störungen und Stress.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Ärztehaus",
@@ -90,31 +93,27 @@
     },
     {
       "id": "offer-6",
-      "name": "Ich kann Ihnen helfen bei"
+      "name": "Diätetik"
     },
     {
       "id": "offer-7",
-      "name": "Vertrauen Sie der traditionellen chinesischen Medizin!"
+      "name": "Akupunktur"
     },
     {
       "id": "offer-8",
-      "name": "Ganzheitliche Akupunktur & TCM – individuell abgestimmt"
+      "name": "Arzneimittellehre"
     },
     {
       "id": "offer-9",
-      "name": "Nahrungsmitteltherapie hat in China eine lange Tradition"
+      "name": "Akupressur"
     },
     {
       "id": "offer-10",
-      "name": "Lehre & Weiterbildung in Akupunktur und TCM"
+      "name": "Geburtsvorbereitung"
     },
     {
       "id": "offer-11",
-      "name": "Folgen Sie auf INSTAGRAM"
-    },
-    {
-      "id": "offer-12",
-      "name": "Geschenkgutscheine"
+      "name": "Testbasierte Vitalstoff- und Fettsäureanalyse"
     }
   ],
   "images": [

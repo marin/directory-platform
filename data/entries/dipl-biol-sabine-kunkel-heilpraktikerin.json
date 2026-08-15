@@ -3,13 +3,17 @@
   "slug": "dipl-biol-sabine-kunkel-heilpraktikerin",
   "name": "Dipl.-Biol. Sabine Kunkel Heilpraktikerin",
   "description": "Dipl.-Biol. Sabine Kunkel ist eine erfahrene Heilpraktikerin in Berlin-Karow, die sich der Naturheilkunde widmet. In ihrer Praxis bietet sie eine Vielzahl von Behandlungsmethoden an, darunter Fußreflexzonenbehandlungen, Ohrakupunktur, Phytotherapie und Aromatherapie. Ihr Ansatz zielt darauf ab, die Gesundheit ihrer Patienten zu fördern und zu erhalten, wobei sie individuelle Bedürfnisse in den Mittelpunkt stellt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Bahnhofstraße 61",

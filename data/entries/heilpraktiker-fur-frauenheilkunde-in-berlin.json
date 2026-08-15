@@ -3,13 +3,19 @@
   "slug": "heilpraktiker-fur-frauenheilkunde-in-berlin",
   "name": "Heilpraktiker für Frauenheilkunde in Berlin",
   "description": "In der Praxis für Frauenheilkunde in Berlin bietet Heilpraktikerin Anja Scherret ganzheitliche Unterstützung bei hormonellen Beschwerden, Erschöpfung und Zyklusproblemen. Sie richtet sich an Frauen, die unter PMS/PMDS, PCOS, Endometriose oder Wechseljahresbeschwerden leiden. Durch individuelle Behandlungsansätze, die Ernährung, Darmgesundheit und Stressbewältigung einbeziehen, zielt die Praxis darauf ab, das Gleichgewicht von Körper, Geist und Seele wiederherzustellen. Termine sind sowohl persönlich als auch online möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm",
+    "wechseljahre",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Scharnweberstraße 25",

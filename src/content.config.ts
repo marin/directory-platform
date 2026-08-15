@@ -13,6 +13,7 @@ const entry = defineCollection({
     status: z.enum(["open", "closed"]).optional(),
     categories: z.array(z.string()),
     areaIds: z.array(z.string()).optional(),
+    indicationIds: z.array(z.string()).optional(),
     address: z
       .object({
         street: z.string(),

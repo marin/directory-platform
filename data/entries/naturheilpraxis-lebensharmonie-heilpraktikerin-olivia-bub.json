@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-lebensharmonie-heilpraktikerin-olivia-bub",
   "name": "Naturheilpraxis Lebensharmonie Heilpraktikerin Olivia Bub",
   "description": "Die Naturheilpraxis Lebensharmonie, geleitet von Heilpraktikerin Olivia Bub, befindet sich im Süden Berlins und bietet eine ganzheitliche Behandlung, die körperliche, geistige und seelische Aspekte berücksichtigt. Zu den Behandlungsmethoden zählen Homöopathie, Schüßler-Salze, Organetik sowie Heilpilze (Mykotherapie). Die Praxis hat sich auf naturheilkundliche Frauen- und Kinderheilkunde spezialisiert und legt besonderen Wert auf die Wiederherstellung des Gleichgewichts bei hormonellen Beschwerden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Tautenburger Str. 23",

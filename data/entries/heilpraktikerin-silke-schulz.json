@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-silke-schulz",
   "name": "Heilpraktikerin Silke Schulz",
   "description": "Heilpraktikerin Silke Schulz bietet in ihrer Praxis für Naturheilkunde & Coaching in Berlin-Marienfelde eine Vielzahl von therapeutischen Ansätzen an. Zu ihren Schwerpunkten zählen unter anderem Akupunktur, Pflanzenheilkunde, Dorn Therapie sowie Ernährungsberatung und autogenes Training. Interessierte können einen kostenlosen Kennenlern-Termin vereinbaren, um mehr über die angebotenen Leistungen zu erfahren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Kirchstraße 64",

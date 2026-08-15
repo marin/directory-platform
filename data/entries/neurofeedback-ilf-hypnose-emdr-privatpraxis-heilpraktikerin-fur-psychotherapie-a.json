@@ -3,7 +3,7 @@
   "slug": "neurofeedback-ilf-hypnose-emdr-privatpraxis-heilpraktikerin-fur-psychotherapie-a",
   "name": "Neurofeedback (ILF), Hypnose, EMDR, Privatpraxis: Heilpraktikerin für Psychotherapie | Annette Leeb in Berlin Pankow",
   "description": "Annette Leeb ist Heilpraktikerin für Psychotherapie in Berlin Pankow und bietet eine Vielzahl von therapeutischen Verfahren an, darunter Neurofeedback (ILF), Hypnose und EMDR. Ihre Praxis fokussiert sich auf die Stärkung der Selbstregulationsfähigkeit des Gehirns und die Behandlung von psychischen Beschwerden wie AD(H)S, Angststörungen, Depressionen und Traumafolgestörungen. In einem individuellen Behandlungsansatz kombiniert sie Gespräche, praktische Übungen und verschiedene Therapieformen, um ihren Klienten zu helfen, ein erfülltes Leben zu führen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,12 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "migraene",
+    "schlafstoerungen",
+    "depression"
   ],
   "address": {
     "street": "Schivelbeiner Str. 45",

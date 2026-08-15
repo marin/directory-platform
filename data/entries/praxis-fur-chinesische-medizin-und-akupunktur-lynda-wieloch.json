@@ -3,7 +3,7 @@
   "slug": "praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch",
   "name": "Praxis für Chinesische Medizin und Akupunktur Lynda Wieloch",
   "description": "Die Praxis für Chinesische Medizin und Akupunktur von Lynda Wieloch befindet sich in Berlin-Kreuzberg und bietet eine umfassende Behandlung auf Basis der Traditionellen Chinesischen Medizin (TCM). Die Heilpraktikerin spezialisiert sich auf Akupunktur, Ernährungsberatung sowie die Behandlung von gynäkologischen Beschwerden, Schmerzen und Verdauungsproblemen. In der Praxis werden verschiedene Verfahren der TCM angewendet, um die Gesundheit der Patienten ganzheitlich zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Johanniterstraße 10",

@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-am-engelbecken-anna-potocka-heilpraktikerin",
   "name": "Naturheilpraxis am Engelbecken Anna Potocka Heilpraktikerin",
   "description": "Die Naturheilpraxis am Engelbecken, geleitet von Heilpraktikerin Anna Potocka, befindet sich in Berlin-Mitte. Die Praxis bietet ein breites Spektrum an naturheilkundlichen Behandlungen, mit einem besonderen Fokus auf die Fruchtbarkeitsmassage, die Frauen bei Kinderwunsch unterstützt. Darüber hinaus werden auch Therapien zur Stärkung der Geburts- und Fortpflanzungsorgane sowie zur Linderung von Frauenleiden und anderen Beschwerden angeboten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Heinrich-Heine-Straße 21",

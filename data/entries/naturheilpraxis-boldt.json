@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-boldt",
   "name": "Naturheilpraxis Boldt",
   "description": "Die Naturheilpraxis Boldt in Berlin bietet eine ganzheitliche und individuelle Behandlung in den Bereichen Homöopathie, Akupunktur (TCM), Psychotherapie und Naturheilkunde an. Heilpraktiker Christian Boldt legt großen Wert auf eine ausführliche Anamnese und entwickelt für jeden Patienten ein maßgeschneidertes Behandlungskonzept. Zu den Therapieschwerpunkten zählen unter anderem Stressbewältigung, Allergien, Hauterkrankungen sowie psychologische Beratungen. Besuchen Sie die Praxis in der Degnerstraße 3, um mehr über die angebotenen Therapien zu erfahren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,10 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "allergien",
+    "hautprobleme"
   ],
   "address": {
     "street": "Degnerstraße 3",

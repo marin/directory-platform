@@ -3,7 +3,7 @@
   "slug": "harald-montag-heilpraktiker",
   "name": "Harald Montag | Heilpraktiker",
   "description": "Harald Montag ist ein erfahrener Heilpraktiker in Berlin, der sich auf ganzheitliche Naturheilverfahren und Ernährungsberatung spezialisiert hat. In seiner Praxis in Steglitz-Zehlendorf betrachtet er den menschlichen Körper als ein zusammenhängendes System und geht den Ursachen von Beschwerden wie chronischen Schmerzen, Verdauungsproblemen und Erschöpfung auf den Grund. Durch individuelle Behandlungsansätze, einschließlich der Cranio-Sacral-Therapie, fördert er die Selbstheilungskräfte seiner Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Ilmenauer Str. 11",

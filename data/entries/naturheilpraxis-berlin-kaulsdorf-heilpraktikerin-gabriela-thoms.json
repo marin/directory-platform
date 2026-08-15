@@ -3,13 +3,18 @@
   "slug": "naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms",
   "name": "Naturheilpraxis Berlin-Kaulsdorf | Heilpraktikerin Gabriela Thoms",
   "description": "In der Naturheilpraxis Berlin-Kaulsdorf bietet Heilpraktikerin Gabriela Thoms eine Vielzahl von naturheilkundlichen Behandlungen an. Zu den Schwerpunkten zählen Stressabbau, Reflexzonentherapie am Fuß, Ohrakupunktur sowie die individuelle Unterstützung bei Allergien, Migräne und weiteren Beschwerden. Die Praxis legt Wert auf ein ganzheitliches Konzept, um den Körper wieder ins Gleichgewicht zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "marzahn-hellersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "migraene"
   ],
   "address": {
     "street": "Myslowitzer Str. 29",

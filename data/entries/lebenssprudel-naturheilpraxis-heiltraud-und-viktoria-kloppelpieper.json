@@ -3,13 +3,21 @@
   "slug": "lebenssprudel-naturheilpraxis-heiltraud-und-viktoria-kloppelpieper",
   "name": "Lebenssprudel Naturheilpraxis Heiltraud und Viktoria Klöppelpieper",
   "description": "Die Lebenssprudel Naturheilpraxis, geleitet von Heiltraud und Viktoria Klöppelpieper, befindet sich in Berlin-Spandau und spezialisiert sich auf Frauenheilkunde. In der Praxis wird eine ganzheitliche Form der Salutogenese praktiziert, die sich auf die individuellen Bedürfnisse der Frauen konzentriert. Das Leistungsspektrum umfasst unter anderem Diagnostik, Anamnese sowie Therapien bei hormonellen Dysbalancen, Zyklusstörungen und weiteren frauenspezifischen Beschwerden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "spandau"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "darm",
+    "migraene",
+    "schlafstoerungen",
+    "kinderwunsch"
   ],
   "address": {
     "street": "Platenhofer Weg 3b",

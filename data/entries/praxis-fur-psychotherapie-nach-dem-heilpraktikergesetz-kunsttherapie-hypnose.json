@@ -3,7 +3,7 @@
   "slug": "praxis-fur-psychotherapie-nach-dem-heilpraktikergesetz-kunsttherapie-hypnose",
   "name": "Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\"",
   "description": "Die Praxis für Psychotherapie nach dem Heilpraktikergesetz \"Kunsttherapie & Hypnose\" in Berlin bietet individuelle therapeutische Unterstützung für Jugendliche und Erwachsene in einem vertrauensvollen Rahmen. Die Schwerpunkte liegen auf Kunsttherapie, Hypnosetherapie sowie der Behandlung von Lebenskrisen, Ängsten, Traumaverarbeitung und psychosomatischen Beschwerden. Zudem werden spezielle Angebote zur psychologischen Begleitung rund um Schwangerschaft und Geburt sowie zur Vorbereitung auf die Medizinisch-Psychologische Untersuchung (MPU) bereitgestellt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Minzeweg 50",

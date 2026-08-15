@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-frauen-kinder",
   "name": "Naturheilpraxis Frauen & Kinder",
   "description": "In der Naturheilpraxis Frauen & Kinder in Berlin-Biesdorf finden Sie einen Ort der Ruhe und Entspannung, der sich auf die ganzheitliche Gesundheit von Frauen und Kindern spezialisiert hat. Die Praxis bietet Unterstützung bei Themen wie unerfülltem Kinderwunsch, Ängsten, Wechseljahrsbeschwerden sowie der allgemeinen Verbesserung des Wohlbefindens. Hier lernen Sie weibliche Methoden der Selbstheilung kennen, um wieder Freude und Balance im Leben zu empfinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "marzahn-hellersdorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Otto-Nagel-Straße 122",

@@ -104,6 +104,8 @@ const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
         color: var(--color-text);
       }
       .tag:hover { border-color: var(--color-accent); color: var(--color-accent); }
+      .tag-static { cursor: default; }
+      .tag-static:hover { border-color: var(--color-border); color: var(--color-text); }
       .cta-bar {
         display: flex;
         flex-wrap: wrap;

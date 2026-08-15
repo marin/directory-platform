@@ -3,13 +3,17 @@
   "slug": "daniela-dumann",
   "name": "Daniela Dumann",
   "description": "Daniela Dumann ist Heilpraktikerin in Berlin und spezialisiert auf Naturheilkunde, insbesondere die Aderlasstherapie nach Hildegard von Bingen. In ihrer Praxis bietet sie verschiedene Therapien zur Entgiftung und Verbesserung des Stoffwechsels an, die bei einer Vielzahl von Beschwerden, wie Rheuma, Diabetes und Hauterkrankungen, unterstützend wirken können. Ihr Ansatz basiert auf der Überzeugung, dass die Natur die beste Heilung bietet und sie teilt ihr Wissen und ihre Erfahrungen aus der Heilkunde mit ihren Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "migraene",
+    "hautprobleme"
   ],
   "address": {
     "street": "Nithackstraße 24",

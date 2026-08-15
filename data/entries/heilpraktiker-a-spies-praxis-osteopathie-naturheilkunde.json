@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-a-spies-praxis-osteopathie-naturheilkunde",
   "name": "Heilpraktiker A. Spies - Praxis Osteopathie & Naturheilkunde",
   "description": "Heilpraktiker A. Spies - Praxis Osteopathie & Naturheilkunde ist ein Heilpraktiker in Berlin mit Schwerpunkt osteopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Lehmbruckstraße 3",
@@ -28,6 +31,9 @@
   "email": "info@naturheilkunde-berlin.eu",
   "website": "http://www.naturheilkunde-berlin.eu/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/alexander-spies?utm_source=google&utm_medium=organic&utm_term=heilpraktiker&utm_content=berlin&utm_campaign=google-maps-termin-button",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPTFERldOqEcRn7Q_9kdhEDY",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 51,
   "openingHours": [
     {
       "day": "Monday",
@@ -77,8 +83,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJPTFERldOqEcRn7Q_9kdhEDY",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 51
+  "faq": []
 }

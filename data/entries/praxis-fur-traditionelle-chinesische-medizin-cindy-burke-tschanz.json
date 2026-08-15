@@ -3,7 +3,7 @@
   "slug": "praxis-fur-traditionelle-chinesische-medizin-cindy-burke-tschanz",
   "name": "Praxis für Traditionelle Chinesische Medizin - Cindy Burke-Tschanz",
   "description": "Die Praxis für Traditionelle Chinesische Medizin - Cindy Burke-Tschanz befindet sich in der Nansenstraße 38 in Berlin-Neukölln. Sie ist auf Akupunktur und chinesische Heilkräuter spezialisiert und bietet individuelle Behandlungen zur Linderung von Beschwerden wie Verdauungsproblemen, Menstruationsstörungen, Hautproblemen und Allergien an. Ziel der Therapie ist es, die Ursachen der Beschwerden zu identifizieren und Körper sowie Seele ins Gleichgewicht zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,12 @@
   ],
   "areaIds": [
     "neukoelln"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "schlafstoerungen",
+    "hautprobleme"
   ],
   "address": {
     "street": "Nansenstraße 38",

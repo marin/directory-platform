@@ -3,13 +3,16 @@
   "slug": "heilpraxis-wiebke-ude",
   "name": "Heilpraxis Wiebke Ude",
   "description": "Die Heilpraxis Wiebke Ude befindet sich in Berlin-Steglitz/Zehlendorf und bietet ein breites Spektrum an naturheilkundlichen Therapieverfahren an. Zu den Schwerpunkten zählen klassische und prozessorientierte Homöopathie, astrologische Beratung, systemische Aufstellungen sowie verschiedene alternative Heilmethoden wie Bachblüten-Therapie und orthomolekulare Medizin. Die Praxis legt Wert auf eine individuelle und ganzheitliche Betreuung ihrer Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Kurze Str. 9",
@@ -25,6 +28,9 @@
   "phone": "03077206744",
   "email": "mail@heilpraxis-ude.de",
   "website": "https://www.heilpraxis-ude.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeaSktY9aqEcRkhWo-Y4p9hA",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -100,8 +106,5 @@
       "question": "Wie kann ich die Heilpraxis Wiebke Ude kontaktieren?",
       "answer": "Sie können die Heilpraxis Wiebke Ude telefonisch unter 030 / 772 06 744 oder per E-Mail an mail@heilpraxis-ude.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJeaSktY9aqEcRkhWo-Y4p9hA",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

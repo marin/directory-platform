@@ -3,7 +3,7 @@
   "slug": "annette-moll-praxis-fur-chinesische-medizin-akupunktur-krauterheilkunde-ernahrun",
   "name": "Annette Moll: Praxis für Chinesische Medizin - Akupunktur, Kräuterheilkunde, Ernährung",
   "description": "Annette Moll bietet in ihrer Praxis für Chinesische Medizin in Berlin-Prenzlauer Berg umfassende Behandlungen an, die Akupunktur, Kräuterheilkunde und Ernährungsberatung umfassen. Sie behandelt eine Vielzahl von Beschwerden, darunter Schmerzen, Schlafprobleme und Verdauungsstörungen, und legt großen Wert auf eine individuelle Diagnostik und Therapieplanung. Die Praxis ist gut erreichbar und bietet eine empathische, patientenorientierte Betreuung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "darm",
+    "schlafstoerungen"
   ],
   "address": {
     "street": "Kopenhagener Str. 33",

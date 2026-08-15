@@ -3,7 +3,7 @@
   "slug": "klassische-homoopathie-clementina-rabuffetti",
   "name": "Klassische Homöopathie Clementina Rabuffetti",
   "description": "In der Praxis für klassische Homöopathie von Clementina Rabuffetti in Berlin-Charlottenburg werden seit über 36 Jahren individuelle Behandlungen für Kinder und Erwachsene angeboten. Die Schwerpunkte liegen auf Schilddrüsen- und Autoimmunerkrankungen, Allergien sowie Kinderwunsch. Durch eine umfassende Erstanamnese und gezielte Arzneiwahl wird die Lebenskraft der Patienten aktiviert und die Selbstheilung gefördert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,11 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "kinderwunsch",
+    "schilddruese"
   ],
   "address": {
     "street": "Berliner Straße 140",

@@ -3,7 +3,7 @@
   "slug": "psychotherapie-berlin-marc-struder-heilpraktiker-fur-psychotherapie",
   "name": "Psychotherapie Berlin – Marc Strüder, Heilpraktiker für Psychotherapie",
   "description": "Marc Strüder ist Heilpraktiker für Psychotherapie in Berlin und bietet eine Vielzahl von therapeutischen Ansätzen an, darunter Gesprächspsychotherapie, Hypnosetherapie und Körpertherapie. In seiner Praxis unterstützt er Menschen in belastenden Lebensphasen, die mit Ängsten, Depressionen, Trauma oder körperlichen Beschwerden zu kämpfen haben. Sein Ziel ist es, einen geschützten Raum zu schaffen, in dem Klienten gemeinsam Lösungen finden und neue Perspektiven entwickeln können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Dresdener Str. 117",

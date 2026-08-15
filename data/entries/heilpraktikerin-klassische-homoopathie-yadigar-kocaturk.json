@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-klassische-homoopathie-yadigar-kocaturk",
   "name": "Heilpraktikerin & klassische Homöopathie - Yadigar Kocatürk",
   "description": "In der Praxis für klassische Homöopathie von Yadigar Kocatürk in Berlin-Spandau werden ganzheitliche Heilansätze angeboten, die sich auf die individuellen Bedürfnisse der Patienten konzentrieren. Die Heilpraktikerin hat eine umfassende Ausbildung in Homöopathie absolviert und bietet Behandlungen für verschiedene Beschwerden wie Allergien, Burnout, depressive Verstimmungen und Schlafstörungen an. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und die Kraft der Natur als Grundlage für die Heilung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,12 @@
   ],
   "areaIds": [
     "spandau"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "schlafstoerungen",
+    "depression"
   ],
   "address": {
     "street": "Pichelsdorfer Str. 7",
@@ -26,6 +32,7 @@
   "phone": "017684290944",
   "email": "info@praxis-kocatuerk.com",
   "website": "https://www.praxis-kocatuerk.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWVDRVElXqEcR97lIr8HX-qk",
   "openingHours": [
     {
       "day": "Monday",
@@ -129,6 +136,5 @@
       "question": "Wo befindet sich die Praxis von Yadigar Kocatürk?",
       "answer": "Die Praxis befindet sich in der Pichelsdorfer Str. 7, 13595 Berlin."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJWVDRVElXqEcR97lIr8HX-qk"
+  ]
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-torsten-hunold-ganzheitliche-therapie-bei-ruckenschmerzen",
   "name": "Heilpraktiker Torsten Hunold - ganzheitliche Therapie bei Rückenschmerzen",
   "description": "Heilpraktiker Torsten Hunold bietet in seiner Praxis in Berlin-Treptow-Köpenick ganzheitliche Therapien zur Schmerzbehandlung, insbesondere bei Rückenschmerzen. Mit einem Fokus auf die Ursachenanalyse und eine individuelle 5-Säulen-Strategie unterstützt er Patienten dabei, ihre Beschwerden nachhaltig zu reduzieren und ihre Bewegungsfähigkeit zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Berliner Allee 150",
@@ -25,6 +28,9 @@
   },
   "phone": "017664026497",
   "website": "http://torsten-hunold.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEcaIG7xTqEcR-92KGPaTcCM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 11,
   "openingHours": [
     {
       "day": "Monday",
@@ -80,8 +86,5 @@
       "question": "Bietet Torsten Hunold ein Erstgespräch an?",
       "answer": "Ja, Torsten Hunold bietet ein kostenloses Erstgespräch an, in dem die individuellen Bedürfnisse und die Umsetzung des Therapieansatzes besprochen werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJEcaIG7xTqEcR-92KGPaTcCM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 11
+  ]
 }

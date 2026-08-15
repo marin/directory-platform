@@ -3,7 +3,7 @@
   "slug": "praxis-fur-akupunktur-und-tcm",
   "name": "Praxis für Akupunktur und TCM",
   "description": "In der Praxis für Akupunktur und TCM in Berlin bietet Alfons Müller seit über 15 Jahren ganzheitliche Behandlungen an, die auf den Prinzipien der Traditionellen Chinesischen Medizin basieren. Die Praxis unterstützt Patienten bei akuten und chronischen Beschwerden, wie Schmerzen, Verdauungsproblemen und Hauterkrankungen, durch Methoden wie Akupunktur, Kräuterheilkunde und Ernährungsberatung. Ziel ist es, die Lebensqualität der Patienten zu verbessern und ihre Gesundheit nachhaltig zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch",
+    "hautprobleme"
   ],
   "address": {
     "street": "Wiesbadener Str. 24",

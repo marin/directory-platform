@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-galina-lutsky",
   "name": "Heilpraktikerin Galina Lutsky",
   "description": "Heilpraktikerin Galina Lutsky bietet in Berlin-Schmargendorf naturheilkundliche Behandlungen an. Ihre Praxis befindet sich in der Lentzeallee 82 und ist auf die Unterstützung beim Abnehmen spezialisiert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "abnehmen"
   ],
   "address": {
     "street": "Lentzeallee 82",

@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-private-psychotherapie-und-homoopathie",
   "name": "Heilpraxis für private Psychotherapie und Homöopathie",
   "description": "Die Heilpraxis für private Psychotherapie und Homöopathie in Berlin-Treptow-Köpenick wird von Petra Hartmann geleitet, die seit 2002 als Heilpraktikerin tätig ist. Sie spezialisiert sich auf die Behandlung von Schocktraumata, insbesondere bei geburtstraumatisierten Eltern, und verfolgt einen ganzheitlichen Ansatz, der auf der emotionalen Verarbeitung im limbischen System basiert. Neben Psychotherapie bietet die Praxis auch homöopathische Behandlungen an, um Klienten in Krisensituationen individuell zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Bölschestraße 100",

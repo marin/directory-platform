@@ -3,7 +3,7 @@
   "slug": "katrin-wolf-heilpraktikerin-ernahrungsberatung-und-gesundheitscoaching-berlin",
   "name": "Katrin Wolf - Heilpraktikerin, Ernährungsberatung und Gesundheitscoaching Berlin",
   "description": "Katrin Wolf ist Heilpraktikerin in Berlin-Pankow und bietet eine ganzheitliche Therapie sowie Ernährungsberatung und Gesundheitscoaching an. Ihre Praxis umfasst verschiedene naturheilkundliche Ansätze, darunter Homöopathie, Akupunktur und mentale Arbeit zur Selbstentwicklung. Sie unterstützt Patienten bei typischen Anliegen wie Erschöpfung, Reizdarm und innerer Unruhe und legt Wert auf individuelle Therapiepläne zur Förderung von Selbstfürsorge und Prävention.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm"
   ],
   "address": {
     "street": "Hauptstraße 18",

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-in-pankow-b-hanysz-chinesische-medizin-akupunktur-naturheilverfa",
   "name": "Heilpraktikerin in Pankow B.Hanysz; Chinesische Medizin - Akupunktur & Naturheilverfahren, Kinderwunsch & Raucherentwöhnung",
   "description": "Heilpraktikerin in Pankow B.Hanysz; Chinesische Medizin - Akupunktur & Naturheilverfahren, Kinderwunsch & Raucherentwöhnung ist ein Heilpraktiker in Berlin mit Schwerpunkt akupunktur tcm. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -13,6 +13,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Ärztehaus im Schlossoark-Center",
@@ -28,6 +31,9 @@
   "phone": "03020697273",
   "email": "heilpraxis.hanysz@gmx.de",
   "website": "https://heilpraktikerin-in-pankow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9fNb2pSqEcRRZ_App2grvo",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 26,
   "openingHours": [
     {
       "day": "Monday",
@@ -52,8 +58,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9fNb2pSqEcRRZ_App2grvo",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 26
+  "faq": []
 }

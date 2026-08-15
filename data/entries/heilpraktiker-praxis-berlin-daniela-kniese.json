@@ -3,13 +3,21 @@
   "slug": "heilpraktiker-praxis-berlin-daniela-kniese",
   "name": "Heilpraktiker Praxis Berlin Daniela Kniese",
   "description": "Die Heilpraktiker Praxis Berlin Daniela Kniese bietet ganzheitliche Gesundheitsbegleitung für die gesamte Familie in ruhiger Lage am S-Bahnhof Berlin-Wannsee. Die Praxis legt Wert auf individuelle Therapiekonzepte, die Körper, Geist und Seele in Einklang bringen. Zu den Behandlungsschwerpunkten gehören unter anderem chronische Erkrankungen, Allergien, Hauterkrankungen sowie psychosomatische Beschwerden. Die Praxis ist barrierefrei zugänglich und bietet eine Vielzahl von naturheilkundlichen Therapieformen an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "darm",
+    "schlafstoerungen",
+    "hautprobleme",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Dreilindenstraße 80",

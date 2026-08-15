@@ -3,13 +3,18 @@
   "slug": "heilpraktikerin-monika-groth-bei-metafeld",
   "name": "Heilpraktikerin Monika Groth bei METAFELD",
   "description": "Heilpraktikerin Monika Groth bietet in ihrer Praxis bei METAFELD in Berlin-Pankow eine ganzheitliche Behandlung von chronischen und funktionellen Beschwerden an. Mit 19 Jahren naturheilkundlicher Erfahrung liegt ihr Schwerpunkt auf der Behandlung von Reizdarm, funktionellen Verdauungsbeschwerden, Beschwerden des Bewegungsapparates sowie Hauterkrankungen und Erschöpfungszuständen. Ihre individuelle Diagnostik und Therapie zielen darauf ab, die Lebensqualität ihrer Patienten nachhaltig zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm",
+    "hautprobleme"
   ],
   "address": {
     "street": "bei METAFELD",
@@ -26,6 +31,9 @@
   "email": "info@naturheilpraxisgroth.de",
   "website": "http://www.naturheilpraxisgroth.de/",
   "bookingUrl": "https://naturheilpraxisgroth.de/termin-buchen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxRvCO2lSqEcRHyAyk10Hb2k",
+  "googleMapsRating": 4.7,
+  "googleMapsRatingsCount": 10,
   "openingHours": [],
   "offers": [
     {
@@ -71,8 +79,5 @@
       "question": "Welche Methoden verwendet Monika Groth zur Behandlung von Beschwerden des Bewegungsapparates?",
       "answer": "Zur Behandlung von Beschwerden des Bewegungsapparates verwendet Monika Groth regulierende Verfahren wie Zentherapie, Dorntherapie, Akupunktur und weitere körpertherapeutische Methoden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJxRvCO2lSqEcRHyAyk10Hb2k",
-  "googleMapsRating": 4.7,
-  "googleMapsRatingsCount": 10
+  ]
 }

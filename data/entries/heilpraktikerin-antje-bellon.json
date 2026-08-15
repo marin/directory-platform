@@ -3,13 +3,19 @@
   "slug": "heilpraktikerin-antje-bellon",
   "name": "Heilpraktikerin Antje Bellon",
   "description": "Heilpraktikerin Antje Bellon in Berlin bietet klassische Homöopathie und psychologische Beratung an, um die Selbstheilungsprozesse von Körper, Geist und Seele zu unterstützen. Ihr Behandlungsschwerpunkt liegt auf der homöopathischen Versorgung chronisch kranker Menschen, einschließlich Kindern und älteren Erwachsenen. Zu den häufig behandelten Beschwerden zählen Allergien, Asthma, Hauterkrankungen sowie psychische Herausforderungen wie Ängste und Stimmungsschwankungen. In ihrer Praxis legt sie großen Wert darauf, die Gesundheit ihrer Patienten zu erhalten und individuelle Wege zu mehr Wohlbefinden zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "allergien",
+    "migraene",
+    "schlafstoerungen",
+    "hautprobleme"
   ],
   "address": {
     "street": "Heidekampweg 36",

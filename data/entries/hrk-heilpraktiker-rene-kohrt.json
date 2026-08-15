@@ -3,13 +3,16 @@
   "slug": "hrk-heilpraktiker-rene-kohrt",
   "name": "HRK Heilpraktiker René Kohrt",
   "description": "HRK Heilpraktiker René Kohrt in Berlin-Neukölln ist spezialisiert auf die Diagnostik und Therapie von Allergien sowie Nahrungsmittelunverträglichkeiten. Mit über 25 Jahren Erfahrung bietet die Praxis individuelle Behandlungsansätze für Patienten mit Heuschnupfen, Hautreaktionen und Atembeschwerden. Ziel ist es, die Ursachen der Beschwerden präzise zu identifizieren und gezielt zu behandeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Britzer Damm 65",

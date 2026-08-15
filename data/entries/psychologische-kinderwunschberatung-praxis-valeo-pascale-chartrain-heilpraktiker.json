@@ -3,7 +3,7 @@
   "slug": "psychologische-kinderwunschberatung-praxis-valeo-pascale-chartrain-heilpraktiker",
   "name": "Psychologische Kinderwunschberatung, Praxis VALEO, Pascale Chartrain, Heilpraktikerin für Psychotherapie",
   "description": "In der Praxis VALEO in Berlin bietet Pascale Chartrain, Heilpraktikerin für Psychotherapie, eine einfühlsame und traumasensible Begleitung für Menschen mit unerfülltem Kinderwunsch sowie nach Geburtstraumata an. Die Praxis konzentriert sich auf die emotionale Unterstützung während belastender Kinderwunschbehandlungen, bei Fehlgeburten und anderen Schwangerschaftsverlusten. Ziel ist es, den Klienten zu helfen, wieder Zuversicht, innere Stabilität und Hoffnung zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Genter Str. 56",

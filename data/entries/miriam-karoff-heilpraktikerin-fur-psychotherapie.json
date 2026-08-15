@@ -3,7 +3,7 @@
   "slug": "miriam-karoff-heilpraktikerin-fur-psychotherapie",
   "name": "Miriam Karoff Heilpraktikerin für Psychotherapie",
   "description": "Miriam Karoff ist Heilpraktikerin für Psychotherapie in Berlin-Zehlendorf. In ihrer Privatpraxis bietet sie individuelle psychotherapeutische Unterstützung an, um Klienten bei der Bewältigung von Krisen, Konflikten und psychischen Problemen zu helfen. Ihr Ansatz kombiniert verschiedene Therapieverfahren und legt besonderen Wert auf eine vertrauensvolle Beziehung zwischen Klient und Therapeut. Zu ihren Angeboten zählen unter anderem Traumatherapie, EMDR und psychologische Unterstützung im Leistungssport.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "schlafstoerungen"
   ],
   "address": {
     "street": "Oskar-Helene-Park 15",

@@ -6,6 +6,7 @@ const SUBSTANTIVE_FIELDS: Array<keyof Entry> = [
   "status",
   "categories",
   "areaIds",
+  "indicationIds",
   "address",
   "geo",
   "phone",

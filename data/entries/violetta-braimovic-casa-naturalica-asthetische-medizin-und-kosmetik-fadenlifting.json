@@ -3,13 +3,16 @@
   "slug": "violetta-braimovic-casa-naturalica-asthetische-medizin-und-kosmetik-fadenlifting",
   "name": "Violetta Braimovic Casa Naturalica - Ästhetische Medizin und Kosmetik, Fadenlifting",
   "description": "Violetta Braimovic bietet in ihrer Praxis Casa Naturalica in Berlin ästhetische Medizin und kosmetische Behandlungen an. Zu den Schwerpunkten gehören Fadenlifting, Gesichts- und Körperstraffungen sowie die Injektionslipolyse zur Reduktion von Fettpolstern. Die Praxis legt Wert auf individuelle Beratung und ein angenehmes Ambiente, um die natürliche Schönheit ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Oldenburger Str. 25",

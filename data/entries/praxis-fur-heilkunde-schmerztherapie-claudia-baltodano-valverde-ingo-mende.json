@@ -3,7 +3,7 @@
   "slug": "praxis-fur-heilkunde-schmerztherapie-claudia-baltodano-valverde-ingo-mende",
   "name": "Praxis für Heilkunde & Schmerztherapie Claudia Baltodano Valverde Ingo Mende",
   "description": "Die Praxis für Heilkunde & Schmerztherapie von Claudia Baltodano Valverde und Ingo Mende in Berlin-Mitte bietet ein breites Spektrum an Therapien, darunter Osteopathie, Schmerztherapie und Naturheilkunde. Zu den angebotenen Behandlungen zählen unter anderem Bachblüten, Ernährungstherapie, Darmsanierung sowie die OIDA Therapie und Kambo. Die Praxis legt Wert auf eine individuelle und ganzheitliche Betreuung ihrer Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Torstraße 161",

@@ -3,13 +3,16 @@
   "slug": "klinik-plus-naturheilkunde-und-asthetische-medizin",
   "name": "Klinik Plus. Naturheilkunde und Ästhetische Medizin",
   "description": "Die Klinik Plus in Berlin bietet eine Kombination aus ästhetischer Medizin und ganzheitlicher Naturheilkunde. Unter der Leitung von Valentina Solopow werden moderne Behandlungen zur Förderung der natürlichen Schönheit sowie umfassende Therapien für das innere Wohlbefinden angeboten. Die Praxis befindet sich in der Würzburger Straße 2 und legt großen Wert auf individuelle Betreuung und Expertise in beiden Fachbereichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "abnehmen"
   ],
   "address": {
     "street": "Würzburger Str. 2",

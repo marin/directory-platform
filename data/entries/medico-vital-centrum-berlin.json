@@ -3,13 +3,16 @@
   "slug": "medico-vital-centrum-berlin",
   "name": "Medico Vital Centrum Berlin",
   "description": "Das Medico Vital Centrum Berlin bietet eine Kombination aus traditioneller und moderner Medizin mit einem Fokus auf ganzheitliche Therapien. Die Praxis in Berlin-Marzahn-Hellersdorf fördert Vitalität und Gesunderhaltung und behandelt frühzeitig Störungen und Erkrankungen. Zu den angebotenen Leistungen zählen unter anderem Osteopathie, Bioresonanz, Naturheilverfahren und energetische Therapien.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
   ],
   "areaIds": [
     "marzahn-hellersdorf"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Schrobsdorffstraße 30",

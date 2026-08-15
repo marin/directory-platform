@@ -98,7 +98,7 @@ const jsonPath = `${reportsDir}/enrichment-audit.json`;
 writeFileSync(jsonPath, JSON.stringify(report, null, 2) + "\n");
 
 const csvHeader =
-  "slug,name,tier,total,description,faq,offers,images,bookingUrl,lastUpdated,categories,areaIds";
+  "slug,name,tier,total,description,faq,offers,images,bookingUrl,indications,lastUpdated,categories,areaIds";
 const csvLines = rows.map((row) =>
   [
     row.slug,
@@ -110,6 +110,7 @@ const csvLines = rows.map((row) =>
     row.offers,
     row.images,
     row.bookingUrl,
+    row.indications,
     row.lastUpdated,
     row.categories.join("|"),
     row.areaIds.join("|"),

@@ -3,7 +3,7 @@
   "slug": "akupunktur-shiatsu-in-berlin-heilpraktikerin-francesca-pellanda",
   "name": "Akupunktur & Shiatsu in Berlin – Heilpraktikerin Francesca Pellanda",
   "description": "Heilpraktikerin Francesca Pellanda bietet in ihrer Praxis in Berlin Kreuzberg und Neukölln individuelle Behandlungen mit Akupunktur und Shiatsu an. Sie legt großen Wert auf persönliche Diagnosen und Behandlungspläne, um die Selbstheilungskräfte des Körpers zu unterstützen. Ihre Therapieangebote umfassen unter anderem Frauenheilkunde, Kinderwunsch sowie Schmerzbehandlungen. Die Behandlungen können in mehreren Sprachen durchgeführt werden, darunter Deutsch, Englisch, Italienisch und Französisch.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Manteuffelstraße 67",

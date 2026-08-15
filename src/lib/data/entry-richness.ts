@@ -11,6 +11,7 @@ export interface EntryRichnessBreakdown {
   offers: number;
   images: number;
   bookingUrl: number;
+  indications: number;
   total: number;
   tier: RichnessTier;
 }
@@ -60,6 +61,10 @@ function scoreBookingUrl(bookingUrl: string | undefined): number {
   return 5;
 }
 
+function scoreIndications(indicationIds: string[] | undefined): number {
+  return Math.min((indicationIds ?? []).length * 2, 8);
+}
+
 function tierFromScore(score: number): RichnessTier {
   if (score >= 60) return "A";
   if (score >= 30) return "B";
@@ -69,7 +74,7 @@ function tierFromScore(score: number): RichnessTier {
 
 type RichnessEntry = Pick<
   NormalizedEntry,
-  "slug" | "description" | "faq" | "offers" | "images" | "bookingUrl"
+  "slug" | "description" | "faq" | "offers" | "images" | "bookingUrl" | "indicationIds"
 >;
 
 export function computeEntryRichness(entry: RichnessEntry): EntryRichnessBreakdown {
@@ -78,7 +83,8 @@ export function computeEntryRichness(entry: RichnessEntry): EntryRichnessBreakdo
   const offers = scoreOffers(entry.offers);
   const images = scoreImages(entry.slug, entry.images ?? []);
   const bookingUrl = scoreBookingUrl(entry.bookingUrl);
-  const total = description + faq + offers + images + bookingUrl;
+  const indications = scoreIndications(entry.indicationIds);
+  const total = description + faq + offers + images + bookingUrl + indications;
 
   return {
     description,
@@ -86,6 +92,7 @@ export function computeEntryRichness(entry: RichnessEntry): EntryRichnessBreakdo
     offers,
     images,
     bookingUrl,
+    indications,
     total,
     tier: tierFromScore(total),
   };

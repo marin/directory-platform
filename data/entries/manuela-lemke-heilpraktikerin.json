@@ -3,7 +3,7 @@
   "slug": "manuela-lemke-heilpraktikerin",
   "name": "Manuela Lemke Heilpraktikerin",
   "description": "Manuela Lemke ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin-Charlottenburg. Sie bietet umfassende Dienstleistungen in den Bereichen Ernährungsberatung und Naturheilkunde an. Ihr Ziel ist es, die Gesundheit und das Wohlbefinden ihrer Patienten durch ganzheitliche Therapieansätze zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Dernburgstraße 59",

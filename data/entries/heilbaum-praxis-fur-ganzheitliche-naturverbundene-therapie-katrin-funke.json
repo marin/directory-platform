@@ -3,13 +3,16 @@
   "slug": "heilbaum-praxis-fur-ganzheitliche-naturverbundene-therapie-katrin-funke",
   "name": "Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie Katrin Funke",
   "description": "In der Heilbaum-Praxis für ganzheitliche, naturverbundene Therapie von Katrin Funke in Berlin werden individuelle Bedürfnisse nach Beratung und Therapie ganzheitlich und naturverbunden begleitet. Die Praxis kombiniert Körper-, Trauma-, Yoga- und Natur-Therapie, um die Selbstheilungskräfte der Klienten zu aktivieren. Angeboten werden Einzelsitzungen, Gruppenkurse sowie Seminare, die sowohl in der Praxis als auch in der Natur stattfinden können. Die Schwerpunkte liegen unter anderem auf psychischen Problemen, Trauma und Stressbewältigung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Bautzener Pl.",

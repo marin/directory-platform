@@ -3,7 +3,7 @@
   "slug": "akupunktur-krauterheilkunde",
   "name": "Akupunktur & Kräuterheilkunde",
   "description": "Die Praxis für Akupunktur & Kräuterheilkunde in Berlin Prenzlauer Berg bietet eine ganzheitliche Behandlung nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM). Schwerpunkte der Praxis sind unter anderem die Behandlung von Allergien, Schmerzsyndromen, Frauenheilkunde sowie Unterstützung bei Stress und Schlafstörungen. Neben Akupunktur kommen auch chinesische Arzneimitteltherapie und individuelle Ernährungsberatung zum Einsatz, um die Selbstheilungskräfte des Körpers zu aktivieren und das innere Gleichgewicht wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,11 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien",
+    "schlafstoerungen",
+    "kinderwunsch"
   ],
   "address": {
     "street": "Bötzowstraße 41",

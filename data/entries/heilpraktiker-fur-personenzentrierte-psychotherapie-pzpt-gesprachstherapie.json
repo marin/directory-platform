@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-personenzentrierte-psychotherapie-pzpt-gesprachstherapie",
   "name": "Heilpraktiker für Personenzentrierte-Psychotherapie PzPt Gesprächstherapie",
   "description": "Die Praxis für Personenzentrierte Psychotherapie in Berlin-Schöneberg bietet Unterstützung für Menschen, die sich ausgebrannt fühlen, ihre Wünsche aufschieben oder in belastenden Lebenssituationen feststecken. Neben der Gesprächstherapie werden auch Themen wie Trauer, Anpassungsstörungen, Burnout und allgemeine Ängste behandelt. Die Anzahl der Sitzungen richtet sich nach den individuellen Bedürfnissen der Klienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Bozener Str. 13/14",
@@ -26,6 +29,7 @@
   "phone": "015156867860",
   "email": "kontakt@pzpt.de",
   "website": "https://pzpt.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhZ9VFPpRqEcR_nbdQX9O4RI",
   "openingHours": [],
   "offers": [],
   "images": [],
@@ -50,6 +54,5 @@
       "question": "Wo befindet sich die Praxis?",
       "answer": "Die Praxis befindet sich in der Bozener Str. 13/14, 10825 Berlin, im Stadtteil Tempelhof-Schöneberg."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJhZ9VFPpRqEcR_nbdQX9O4RI"
+  ]
 }

@@ -38,9 +38,15 @@ const dataset = loadDataset();
 const entry = dataset.entries.find((e) => e.slug === slug);
 if (!entry) throw new Error(`Entry not found: ${slug}`);
 
-const vm = toEntryViewModel(entry, dataset.categories, dataset.areas, dataset.entries);
+const vm = toEntryViewModel(
+  entry,
+  dataset.categories,
+  dataset.areas,
+  dataset.entries,
+  dataset.indications,
+);
 const primaryArea = vm.areas[0];
-const jsonLd = buildListingJsonLd(entry, vm.category, primaryArea);
+const jsonLd = buildListingJsonLd(entry, vm.category, primaryArea, vm.indications);
 const related = getRelatedEntries(entry, dataset.entries).map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );

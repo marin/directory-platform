@@ -3,13 +3,16 @@
   "slug": "frau-havva-korkmaz",
   "name": "Frau Havva Korkmaz",
   "description": "Frau Havva Korkmaz führt seit über 20 Jahren eine Naturheilpraxis in Berlin-Friedenau. In ihrer Praxis bietet sie ein breites Spektrum an traditionellen und modernen Therapiemethoden an, darunter Dorn-Therapie, Orthomolekulare Medizin, Ernährungsberatung sowie Akupunktur. Ihr Ziel ist es, individuelle Unterstützung zu leisten und eine solide Basis für das zukünftige Wohlbefinden ihrer Patientinnen und Patienten zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Cranachstraße 2",

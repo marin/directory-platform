@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-hulya-talas",
   "name": "Heilpraktikerin Hülya Talas",
   "description": "Heilpraktikerin Hülya Talas in Berlin-Schöneberg kombiniert moderne ästhetische Medizin mit der Kraft der Naturheilkunde, um ein ganzheitliches Wohlbefinden zu fördern. Ihr Ansatz umfasst individuelle Behandlungen, die auf die Bedürfnisse der Patienten abgestimmt sind, sowie eine persönliche Beratung in einer diskreten und vertraulichen Atmosphäre. Neben ästhetischen Verfahren bietet sie auch Infusionstherapien und naturheilkundliche Behandlungen an, um die Gesundheit und Vitalität ihrer Patienten zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Leberstraße 19",

@@ -3,7 +3,7 @@
   "slug": "praxis-fur-psychotherapie-psychische-gesundheit-in-der-arbeitswelt-aga-hys",
   "name": "Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt | Aga Hys",
   "description": "In der Praxis für Psychotherapie | Psychische Gesundheit in der Arbeitswelt von Aga Hys in Berlin-Friedrichshain stehen berufstätige Klienten im Fokus, die unter Belastungen wie toxischer Führung, Mobbing, Burnout und Depression leiden. Die Therapie bietet einen geschützten Raum, um individuelle Herausforderungen zu bearbeiten und emotionale Stabilität zu fördern. Die Heilpraktikerin für Psychotherapie und Job Coach arbeitet bedürfnisorientiert und respektvoll, um Klienten bei der Entwicklung neuer Perspektiven und der Stärkung ihrer inneren Ressourcen zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Voigtstraße 9",

@@ -3,13 +3,17 @@
   "slug": "johannes-bauerle",
   "name": "Johannes Bäuerle",
   "description": "Johannes Bäuerle ist Heilpraktiker in Berlin-Wilhelmshagen und spezialisiert auf Osteopathie. In seiner Praxis bietet er eine ganzheitliche Schmerztherapie an, die Osteopathie, Physiotherapie und modernes Funktionstraining kombiniert. Er behandelt häufig Beschwerden wie Rückenschmerzen, Kopfschmerzen und Sportverletzungen und legt großen Wert auf die Balance von Körper, Geist und Seele.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "migraene",
+    "ruecken"
   ],
   "address": {
     "street": "Fürstenwalder Allee 254",

@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki",
   "name": "Naturheilpraxis Berlin- Heilpraktikerin Carmen Stutzki",
   "description": "Die Naturheilpraxis Berlin, geleitet von Heilpraktikerin Carmen Stutzki, befindet sich in der Pariser Straße 59 in Berlin-Charlottenburg. Schwerpunkte der Praxis sind die Colon-Hydro-Therapie, Darmsanierung sowie verschiedene naturheilkundliche Verfahren wie Hypnose, Elektroakupunktur nach Dr. Voll und Schmerzbehandlungen. Ziel der Behandlungen ist es, das Wohlbefinden der Patienten zu fördern und gesundheitliche Beschwerden ganzheitlich zu behandeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Pariser Str. 59",

@@ -2,6 +2,7 @@ import siteConfig from "../../../../config/site.config.ts";
 import type { NormalizedEntry } from "../normalize-entry.ts";
 import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
+import type { Indication } from "../../validation/indication-schema.ts";
 import {
   computeCategoryStats,
   buildContextFact,
@@ -37,6 +38,7 @@ export interface EntryViewModel {
   category: Category | undefined;
   categories: Category[];
   areas: Area[];
+  indications: Indication[];
   stats: AggregateStats;
   images: string[];
   primaryImage?: string;
@@ -76,12 +78,16 @@ export function toEntryViewModel(
   categories: Category[],
   areas: Area[],
   allEntries: NormalizedEntry[],
+  indications: Indication[] = [],
 ): EntryViewModel {
   const entryCategories = entry.categories
     .map((id) => categories.find((c) => c.id === id))
     .filter((c): c is Category => c !== undefined);
   const category = entryCategories[0];
   const entryAreas = areas.filter((a) => entry.areaIds?.includes(a.id));
+  const entryIndications = indications.filter((item) =>
+    (entry.indicationIds ?? []).includes(item.id),
+  );
   const stats = computeCategoryStats(allEntries, entry.categories[0] ?? "");
   const contextFact = category
     ? buildContextFact(entry, stats.listingCount, category.name)
@@ -96,6 +102,7 @@ export function toEntryViewModel(
     category,
     categories: entryCategories,
     areas: entryAreas,
+    indications: entryIndications,
     stats,
     images,
     primaryImage: images.length > 0 ? primaryImage : undefined,

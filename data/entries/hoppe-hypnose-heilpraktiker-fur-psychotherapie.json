@@ -3,7 +3,7 @@
   "slug": "hoppe-hypnose-heilpraktiker-fur-psychotherapie",
   "name": "Hoppe-Hypnose Heilpraktiker für Psychotherapie",
   "description": "In der Hypnosepraxis Hoppe in Berlin bietet Heilpraktiker für Psychotherapie, spezialisiert auf Hypnosetherapie, eine Vielzahl von therapeutischen Anwendungen an. Zu den Schwerpunkten zählen die Behandlung von Angststörungen, Schlafstörungen, Süchten sowie psychosomatischen Beschwerden. Durch innovative Methoden wie die Yager Code Therapie und klinische Hypnose unterstützt die Praxis Klienten dabei, positive Veränderungen in ihrem Leben zu erreichen und Blockaden zu überwinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "allergien",
+    "schlafstoerungen"
   ],
   "address": {
     "street": "Gustav-Adolf-Straße 149",

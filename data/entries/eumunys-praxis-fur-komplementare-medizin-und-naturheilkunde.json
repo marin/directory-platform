@@ -3,13 +3,17 @@
   "slug": "eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde",
   "name": "eumunys | Praxis für komplementäre Medizin und Naturheilkunde",
   "description": "Die eumunys Praxis für komplementäre Medizin und Naturheilkunde befindet sich im Herzen Berlins und bietet eine ganzheitliche Herangehensweise an Gesundheit und Wohlbefinden. Schwerpunkte der Praxis sind die Stärkung des Immunsystems, die Aktivierung der Selbstheilungskräfte sowie die umfassende Diagnostik und Therapie von Erkrankungen, die mit Störungen des Immunsystems in Verbindung stehen. Durch individuelle Beratung und therapeutische Maßnahmen wird angestrebt, das Gleichgewicht zwischen Körper und Geist wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm"
   ],
   "address": {
     "street": "Alte Jakobstraße 93",

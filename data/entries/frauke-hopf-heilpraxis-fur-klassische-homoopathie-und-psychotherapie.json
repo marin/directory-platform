@@ -3,7 +3,7 @@
   "slug": "frauke-hopf-heilpraxis-fur-klassische-homoopathie-und-psychotherapie",
   "name": "Frauke Hopf, Heilpraxis für Klassische Homöopathie und Psychotherapie",
   "description": "Frauke Hopf ist Heilpraktikerin in Berlin und bietet in ihrer Praxis für Klassische Homöopathie und Psychotherapie eine ganzheitliche Betreuung an. Mit über 20 Jahren Erfahrung berücksichtigt sie sowohl körperliche als auch seelisch-emotionale Aspekte ihrer Patienten. Ihr Angebot umfasst unter anderem Frauenheilkunde, Unterstützung bei Kinderwunsch sowie systemisches Coaching und Psychotherapie. Die Praxis befindet sich im Graefekiez, nur wenige Minuten vom U-Bahnhof Schönleinstraße entfernt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Graefestraße 3",

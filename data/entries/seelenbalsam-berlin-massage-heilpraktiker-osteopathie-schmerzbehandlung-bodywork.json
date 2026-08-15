@@ -3,7 +3,7 @@
   "slug": "seelenbalsam-berlin-massage-heilpraktiker-osteopathie-schmerzbehandlung-bodywork",
   "name": "Seelenbalsam Berlin - Massage - Heilpraktiker - Osteopathie - Schmerzbehandlung - Bodywork",
   "description": "Seelenbalsam in Berlin ist eine ganzheitliche Praxis, die sich auf Osteopathie, Schmerzbehandlung und verschiedene Massageformen spezialisiert hat. Hier finden Klienten einen Ort der Ruhe und Entspannung, an dem individuelle Bedürfnisse im Fokus stehen. Neben therapeutischen Anwendungen werden auch Ernährungsberatung und Psychotherapie angeboten, um das Wohlbefinden ganzheitlich zu fördern. Besuchen Sie die Praxis in der Düsseldorfer Straße 31A und erleben Sie eine persönliche Betreuung in einem harmonischen Ambiente.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -14,6 +14,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "migraene"
   ],
   "address": {
     "street": "Düsseldorfer Str. 31A/6. Etage",

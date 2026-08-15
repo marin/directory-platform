@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-angelique-arndt",
   "name": "Heilpraktikerin Angélique Arndt",
   "description": "Heilpraktikerin Angélique Arndt bietet in ihrer Naturheilpraxis in Berlin-Neukölln ein breites Spektrum an Therapien an, darunter Ernährung- und Nährstofftherapie, Darmgesundheit sowie Phyto- und Mykotherapie. Mit über 20 Jahren Erfahrung unterstützt sie ihre Patienten dabei, ihre Selbstheilungskräfte zu aktivieren und ein erfülltes Leben zu führen. Die Praxis legt Wert auf individuelle Betreuung und bietet Behandlungen in Deutsch, Französisch und Englisch an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "neukoelln"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Weichselstraße 53",

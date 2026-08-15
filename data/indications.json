@@ -1,0 +1,188 @@
+[
+  {
+    "id": "allergien",
+    "name": "Allergien",
+    "slug": "allergien",
+    "description": "Allergien, Heuschnupfen und Unverträglichkeiten.",
+    "synonyms": [
+      "nahrungsmittelunverträglichkeit",
+      "nahrungsmittelunvertraeglichkeit",
+      "unverträglichkeiten",
+      "unvertraeglichkeiten",
+      "heuschnupfen",
+      "allergien",
+      "allergie"
+    ]
+  },
+  {
+    "id": "burnout",
+    "name": "Burnout & Erschöpfung",
+    "slug": "burnout",
+    "description": "Burnout, Erschöpfung und stressbedingte Überlastung.",
+    "synonyms": [
+      "chronische erschöpfung",
+      "erschöpfungszustände",
+      "erschoepfungszustaende",
+      "erschöpfungszustand",
+      "burn-out",
+      "burnout",
+      "erschöpfung",
+      "erschoepfung"
+    ]
+  },
+  {
+    "id": "darm",
+    "name": "Darm & Verdauung",
+    "slug": "darm",
+    "description": "Reizdarm, Darmsanierung und Verdauungsbeschwerden.",
+    "synonyms": [
+      "verdauungsbeschwerden",
+      "verdauungsstörungen",
+      "verdauungsstoerungen",
+      "verdauungsprobleme",
+      "darmreinigung",
+      "darmsanierung",
+      "darmgesundheit",
+      "hydrocolon",
+      "colon-hydro",
+      "magen-darm",
+      "reizdarm"
+    ]
+  },
+  {
+    "id": "migraene",
+    "name": "Migräne & Kopfschmerzen",
+    "slug": "migraene",
+    "description": "Migräne, Kopfschmerzen und Spannungskopfschmerz.",
+    "synonyms": [
+      "spannungskopfschmerz",
+      "kopfschmerzen",
+      "kopfschmerz",
+      "migräne",
+      "migraene"
+    ]
+  },
+  {
+    "id": "schlafstoerungen",
+    "name": "Schlafstörungen",
+    "slug": "schlafstoerungen",
+    "description": "Schlafstörungen, Einschlafprobleme und unruhiger Schlaf.",
+    "synonyms": [
+      "schlafstörungen",
+      "schlafstoerungen",
+      "schlafprobleme",
+      "schlafproblemen",
+      "einschlafstörungen",
+      "insomnie"
+    ]
+  },
+  {
+    "id": "kinderwunsch",
+    "name": "Kinderwunsch",
+    "slug": "kinderwunsch",
+    "description": "Naturheilkundliche Begleitung bei unerfülltem Kinderwunsch.",
+    "synonyms": ["kinderwunsch"]
+  },
+  {
+    "id": "depression",
+    "name": "Depression",
+    "slug": "depression",
+    "description": "Depressive Verstimmungen und Niedergeschlagenheit.",
+    "synonyms": [
+      "depressive verstimmungen",
+      "depressive verstimmung",
+      "depressionen",
+      "depression"
+    ]
+  },
+  {
+    "id": "hautprobleme",
+    "name": "Hautprobleme",
+    "slug": "hautprobleme",
+    "description": "Hauterkrankungen wie Neurodermitis, Ekzeme und Hautprobleme.",
+    "synonyms": [
+      "hauterkrankungen",
+      "hauterkrankung",
+      "hautprobleme",
+      "hautproblemen",
+      "neurodermitis",
+      "psoriasis",
+      "ekzeme",
+      "ekzem"
+    ]
+  },
+  {
+    "id": "ruecken",
+    "name": "Rücken & Nacken",
+    "slug": "ruecken",
+    "description": "Rückenschmerzen, Nackenverspannungen und Ischias.",
+    "synonyms": [
+      "rückenschmerzen",
+      "rueckenschmerzen",
+      "nackenverspannungen",
+      "nackenschmerzen",
+      "bandscheiben",
+      "rückenschmerz",
+      "rueckenschmerz",
+      "ischias"
+    ]
+  },
+  {
+    "id": "wechseljahre",
+    "name": "Wechseljahre",
+    "slug": "wechseljahre",
+    "description": "Wechseljahresbeschwerden und Menopause.",
+    "synonyms": [
+      "wechseljahresbeschwerden",
+      "wechseljahrbeschwerden",
+      "wechseljahre",
+      "menopause"
+    ]
+  },
+  {
+    "id": "schilddruese",
+    "name": "Schilddrüse",
+    "slug": "schilddruese",
+    "description": "Schilddrüsenbeschwerden einschließlich Hashimoto.",
+    "synonyms": [
+      "schilddrüsenbeschwerden",
+      "schilddruese",
+      "schilddrüse",
+      "hashimoto",
+      "hyperthyreose",
+      "hypothyreose"
+    ]
+  },
+  {
+    "id": "zyklus-hormone",
+    "name": "Zyklus & Hormone",
+    "slug": "zyklus-hormone",
+    "description": "Menstruationsbeschwerden, PMS, PCOS und Endometriose.",
+    "synonyms": [
+      "menstruationsbeschwerden",
+      "zyklusunregelmäßigkeiten",
+      "zyklusunregelmaessigkeiten",
+      "hormonelle ungleichgewichte",
+      "hormonellen ungleichgewichten",
+      "hormonellen beschwerden",
+      "endometriose",
+      "pmds",
+      "pcos",
+      "pms"
+    ]
+  },
+  {
+    "id": "abnehmen",
+    "name": "Gewicht & Stoffwechsel",
+    "slug": "abnehmen",
+    "description": "Gewichtsabnahme, Übergewicht und Stoffwechsel.",
+    "synonyms": [
+      "gewichtsreduktion",
+      "gewichtsabnahme",
+      "übergewicht",
+      "uebergewicht",
+      "adipositas",
+      "abnehmen"
+    ]
+  }
+]

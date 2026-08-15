@@ -3,7 +3,7 @@
   "slug": "dirk-jacobs-heilpraktiker-fur-psychotherapie",
   "name": "Dirk Jacobs - Heilpraktiker für Psychotherapie",
   "description": "Dirk Jacobs ist Heilpraktiker für Psychotherapie in Berlin-Pankow und bietet eine Vielzahl von therapeutischen Dienstleistungen an, darunter Hypnotherapie, systemisches Coaching und ressourcenorientierte Psychotherapie. Sein Fokus liegt auf der Behandlung von Stress, Burnout, Depressionen und Ängsten sowie der speziellen Tinnitus-Therapie. Durch individuelle und wertschätzende Begleitung unterstützt er seine Klienten dabei, neue Perspektiven zu entwickeln und ihre inneren Ressourcen zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Sredzkistraße 64",

@@ -3,7 +3,7 @@
   "slug": "praxis-dr-frank-otto-heilpraktiker-fur-psychotherapie",
   "name": "Praxis Dr. Frank Otto - Heilpraktiker für Psychotherapie",
   "description": "Die Praxis von Dr. Frank Otto, Heilpraktiker für Psychotherapie, befindet sich in Berlin-Charlottenburg und bietet eine einladende Atmosphäre für individuelle psychotherapeutische Begleitung. Schwerpunkte der Praxis sind Selbstannahme, Bewältigung von Lebenskrisen sowie persönliche Entwicklung. Dr. Otto unterstützt seine Klienten mit einer empathischen Haltung dabei, ihre inneren Bedürfnisse zu erkennen und belastende Emotionen zu regulieren. Besondere Aufmerksamkeit gilt auch den Themen der LGBTQ-Community.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Sigmaringer Str. 26",

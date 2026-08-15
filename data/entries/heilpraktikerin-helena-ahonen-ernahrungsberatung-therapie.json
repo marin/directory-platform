@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-helena-ahonen-ernahrungsberatung-therapie",
   "name": "Heilpraktikerin Helena Ahonen, Ernährungsberatung & -Therapie",
   "description": "Heilpraktikerin Helena Ahonen bietet in ihrer Praxis in Berlin-Pankow umfassende Ernährungsberatung und -therapie an. Ihr Fokus liegt auf ganzheitlichen Ansätzen zur Verbesserung der Gesundheit, insbesondere in den Bereichen Verdauung, weibliche Gesundheit, Hautprobleme sowie Fasting und Detox. Neben der Ernährungsberatung nutzt sie auch pflanzliche Heilmittel und Nahrungsergänzungsmittel, um individuelle Gesundheitsziele zu erreichen. Die Beratungen finden ausschließlich online statt, was eine flexible und stressfreie Betreuung ermöglicht.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "hautprobleme"
   ],
   "address": {
     "street": "Remise an der Marie",
@@ -27,6 +30,9 @@
   "email": "info@heilpraxis-ahonen.de",
   "website": "http://www.heilpraxis-ahonen.de/",
   "bookingUrl": "https://www.heilpraxis-ahonen.de/english/book-appointment/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlaJiPQROqEcR4EdTXZeyaUs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -136,8 +142,5 @@
       "question": "Wie kann ich Heilpraktikerin Helena Ahonen kontaktieren?",
       "answer": "Sie können Heilpraktikerin Helena Ahonen telefonisch unter 017628386286 oder per E-Mail an info@heilpraxis-ahonen.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJlaJiPQROqEcR4EdTXZeyaUs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  ]
 }

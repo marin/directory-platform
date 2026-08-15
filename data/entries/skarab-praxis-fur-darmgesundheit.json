@@ -3,13 +3,16 @@
   "slug": "skarab-praxis-fur-darmgesundheit",
   "name": "SKARAB - Praxis für Darmgesundheit",
   "description": "SKARAB - Praxis für Darmgesundheit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Moltkestraße 46",
@@ -23,6 +26,7 @@
     "lng": 13.3084378
   },
   "phone": "017644423005",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__-rrIpaqEcRMU-qTWqXrHY",
   "openingHours": [
     {
       "day": "Monday",
@@ -47,6 +51,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ__-rrIpaqEcRMU-qTWqXrHY"
+  "faq": []
 }

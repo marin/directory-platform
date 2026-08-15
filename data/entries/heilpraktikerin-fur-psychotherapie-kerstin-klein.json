@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapie-kerstin-klein",
   "name": "Heilpraktikerin für Psychotherapie - Kerstin Klein",
   "description": "Heilpraktikerin für Psychotherapie Kerstin Klein bietet in ihrer Praxis in Berlin umfassende psychotherapeutische Dienstleistungen an. Ihr Leistungsspektrum umfasst psychologische Beratung, Gesprächs­therapie sowie Hypnose und Hypnotherapie. Sie unterstützt Klienten bei verschiedenen psychischen Herausforderungen, darunter Angststörungen, Schlafstörungen und psychosomatische Symptome, und fördert die persönliche Entwicklung durch individuelle Lösungsansätze.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "schlafstoerungen"
   ],
   "address": {
     "street": "Peschkestraße 14",

@@ -3,13 +3,17 @@
   "slug": "heilpraxis-petritz",
   "name": "Heilpraxis Petritz",
   "description": "Die Heilpraxis Petritz in Berlin-Hermsdorf bietet eine ganzheitliche Betrachtungsweise zur Behandlung verschiedener Gesundheitsprobleme. Heilpraktikerin Annette Petritz spezialisiert sich auf alternative Schmerztherapie, Vitalstoffmedizin, Bioresonanz und ästhetische Behandlungen. In der Praxis werden individuelle Therapiekonzepte entwickelt, die auf die spezifischen Beschwerden der Patienten abgestimmt sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "reinickendorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm"
   ],
   "address": {
     "street": "Glienicker Str. 6B",
@@ -26,6 +30,7 @@
   "email": "mail@heilpraxis-petritz.de",
   "website": "https://heilpraxis-petritz.de/",
   "bookingUrl": "https://heilpraxis-petritz.de/praxis/kontakt-und-anfahrt",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYZHaAVVqEcRQsM3dgXiZY4",
   "openingHours": [
     {
       "day": "Monday",
@@ -76,6 +81,5 @@
       "question": "Wie kann ich die Heilpraxis Petritz kontaktieren?",
       "answer": "Sie können die Heilpraxis Petritz telefonisch unter 03035518128 oder per E-Mail an mail@heilpraxis-petritz.de kontaktieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJRYZHaAVVqEcRQsM3dgXiZY4"
+  ]
 }

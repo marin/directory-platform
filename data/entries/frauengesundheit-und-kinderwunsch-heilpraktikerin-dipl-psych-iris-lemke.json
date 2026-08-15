@@ -3,7 +3,7 @@
   "slug": "frauengesundheit-und-kinderwunsch-heilpraktikerin-dipl-psych-iris-lemke",
   "name": "Frauengesundheit und Kinderwunsch - Heilpraktikerin Dipl.-Psych. Iris Lemke",
   "description": "Frauengesundheit und Kinderwunsch - Heilpraktikerin Dipl.-Psych. Iris Lemke bietet in Berlin umfassende naturheilkundliche und psychotherapeutische Unterstützung für Frauen in verschiedenen Lebensphasen. Schwerpunkte der Praxis sind die Begleitung durch die Wechseljahre sowie die Erfüllung des Kinderwunsches. Die Praxis befindet sich in der Crellestraße 22 und ist darauf ausgerichtet, Frauen in ihrer Gesundheit und ihrem Wohlbefinden zu stärken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch",
+    "wechseljahre"
   ],
   "address": {
     "street": "Crellestraße 22",

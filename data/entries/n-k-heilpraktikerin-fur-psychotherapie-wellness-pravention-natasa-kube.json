@@ -3,7 +3,7 @@
   "slug": "n-k-heilpraktikerin-fur-psychotherapie-wellness-pravention-natasa-kube",
   "name": "N | K - Heilpraktikerin für Psychotherapie | Wellness | Prävention - Nataša Kube",
   "description": "Nataša Kube ist Heilpraktikerin für Psychotherapie, Wellness und Prävention in Berlin. Ihre Praxis, N | K - Praxis der Berührung, bietet eine Vielzahl von Dienstleistungen an, darunter Psychotherapie, medizinische und Wellness-Massagen sowie präventive Beratung. Zudem spezialisiert sie sich auf die Kopfschmerz- und Migränetherapie nach Kern sowie die traditionelle chinesische Medizin (TCM). Ihr ganzheitlicher Ansatz zielt darauf ab, das Wohlbefinden ihrer Patienten zu fördern und eine innere Balance zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "migraene"
   ],
   "address": {
     "street": "Leonorenstraße 30",

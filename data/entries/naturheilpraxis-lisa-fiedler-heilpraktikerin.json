@@ -3,13 +3,18 @@
   "slug": "naturheilpraxis-lisa-fiedler-heilpraktikerin",
   "name": "Naturheilpraxis Lisa Fiedler, Heilpraktikerin",
   "description": "Die Naturheilpraxis Lisa Fiedler in Berlin bietet eine umfassende Betreuung im Bereich der Naturheilkunde an. Als Heilpraktikerin unterstützt Lisa Fiedler ihre Patienten dabei, die Ursachen von Beschwerden zu verstehen und individuelle Wege zu mehr Wohlbefinden zu finden. Zu den Schwerpunkten der Praxis zählen unter anderem Darmgesundheit, Schmerztherapie sowie Ernährungsberatung. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Gesundheit und kombiniert verschiedene Therapieansätze, um die bestmöglichen Ergebnisse für ihre Patienten zu erzielen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "lichtenberg"
+  ],
+  "indicationIds": [
+    "darm",
+    "migraene",
+    "hautprobleme"
   ],
   "address": {
     "street": "Waldowallee 67",

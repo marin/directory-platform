@@ -3,13 +3,16 @@
   "slug": "health-within-heilpraktiker-fur-darmgesundheit-stoffwechselstorungen-nahrstoffth",
   "name": "Health within. Heilpraktiker für Darmgesundheit, Stoffwechselstörungen & Nährstofftherapie",
   "description": "Die Praxis \"Health within\" in Berlin-Pankow, geleitet von Heilpraktikerin Amelie Zweyer, spezialisiert sich auf ganzheitliche Ansätze zur Verbesserung der Darmgesundheit, der Hormonbalance sowie der Behandlung von Stoffwechselstörungen. Durch moderne Labordiagnostik und individuelle Therapieansätze unterstützt sie ihre Patienten dabei, die Ursachen ihrer Beschwerden zu erkennen und die Verantwortung für ihre Gesundheit zu übernehmen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Stahlheimer Str. 24",

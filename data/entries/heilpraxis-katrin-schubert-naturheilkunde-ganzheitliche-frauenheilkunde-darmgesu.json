@@ -3,13 +3,20 @@
   "slug": "heilpraxis-katrin-schubert-naturheilkunde-ganzheitliche-frauenheilkunde-darmgesu",
   "name": "Heilpraxis Katrin Schubert – Naturheilkunde, Ganzheitliche Frauenheilkunde & Darmgesundheit",
   "description": "Heilpraxis Katrin Schubert – Naturheilkunde, Ganzheitliche Frauenheilkunde & Darmgesundheit ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "migraene",
+    "depression",
+    "hautprobleme"
   ],
   "address": {
     "street": "Prenzlauer Allee 176",
@@ -26,6 +33,9 @@
   "email": "kontakt@heilpraxis-katrinschubert.de",
   "website": "https://heilpraxis-katrinschubert.de/",
   "bookingUrl": "https://my.lemniscus.de/pss/48b7ea3b-f77c-498a-a838-59751a07b3ad",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn2lEV05QqEcRoBRhAir9B2I",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -155,8 +165,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJn2lEV05QqEcRoBRhAir9B2I",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

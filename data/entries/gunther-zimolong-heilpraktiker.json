@@ -3,13 +3,16 @@
   "slug": "gunther-zimolong-heilpraktiker",
   "name": "Gunther Zimolong Heilpraktiker",
   "description": "Die Heilpraxis Zimolong in Berlin-Steglitz-Zehlendorf bietet umfassende naturheilkundliche Behandlungen an. Unter der Leitung von Heilpraktiker Gunther Zimolong stehen verschiedene Therapieformen zur Verfügung, darunter Akupunktur, Homöopathie und Pflanzenheilkunde. Die Praxis legt großen Wert auf individuelle Beratung und Unterstützung zur Förderung der Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Heilpraxis Zimolong im Innenhof",

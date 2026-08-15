@@ -3,13 +3,16 @@
   "slug": "praxis-fur-naturheilkunde-monika-graf",
   "name": "Praxis für Naturheilkunde Monika Graf",
   "description": "Die Praxis für Naturheilkunde Monika Graf befindet sich in Berlin-Pankow und bietet seit über 25 Jahren individuelle naturheilkundliche Behandlungen an. Schwerpunkte der Praxis sind die Colon-Hydro-Therapie, Darmsanierung sowie Mikrobiomtherapie, ergänzt durch Akupunktur und Detox-Kuren. Die Behandlung erfolgt mehrsprachig in Deutsch, Englisch, Französisch und Spanisch, um auf die unterschiedlichen Bedürfnisse der Patienten einzugehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Metzer Str. 40",

@@ -3,13 +3,16 @@
   "slug": "berlin-prenzlauer-berg-praxis-ariane-boesenberg",
   "name": "Berlin-Prenzlauer Berg Praxis Ariane Boesenberg",
   "description": "Die Berlin-Prenzlauer Berg Praxis Ariane Boesenberg bietet eine Vielzahl von naturheilkundlichen Therapien an, um die individuelle Lebensqualität ihrer Klienten zu verbessern. Mit über 10 Jahren Erfahrung in der Heilpraktik und einem breiten Spektrum an Methoden, darunter Kinesiologie, Stressbewältigung und Theta-Healing, verfolgt die Praxis einen ganzheitlichen Ansatz zur Förderung des Wohlbefindens. Die Therapieangebote sind sowohl vor Ort als auch online verfügbar, um den Bedürfnissen der Klienten gerecht zu werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Choriner Str. 20",

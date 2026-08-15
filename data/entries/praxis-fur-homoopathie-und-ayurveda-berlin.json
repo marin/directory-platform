@@ -3,7 +3,7 @@
   "slug": "praxis-fur-homoopathie-und-ayurveda-berlin",
   "name": "Praxis für Homöopathie und Ayurveda Berlin",
   "description": "Die Praxis für Homöopathie und Ayurveda in Berlin bietet eine ganzheitliche Betreuung durch die Heilpraktikerin Annemarie Rafiq. Sie spezialisiert sich auf die Behandlung von Beschwerden wie Allergien, Verdauungsproblemen und Schwangerschaftsleiden mit Methoden der Homöopathie und Ayurveda. Zusätzlich werden individuelle Ernährungs- und Lifestyle-Beratung angeboten, um das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Droysenstraße 6",

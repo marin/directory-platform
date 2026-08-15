@@ -3,7 +3,7 @@
   "slug": "manuel-glasl-heilpraktiker-fur-psychotherapie",
   "name": "Manuel Glasl - Heilpraktiker für Psychotherapie",
   "description": "Manuel Glasl ist Heilpraktiker für Psychotherapie in Berlin-Steglitz-Zehlendorf. In seiner Praxis bietet er erlebnisorientierte Therapiemethoden wie Gestalttherapie, Traumatherapie und Körpertherapie an, um Klienten bei der Auseinandersetzung mit ihren Emotionen und Erfahrungen zu unterstützen. Ziel seiner Arbeit ist es, Verhaltensweisen und Denkmuster positiv zu verändern sowie die Resilienz und persönliche Entwicklung zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Kadettenweg 62",

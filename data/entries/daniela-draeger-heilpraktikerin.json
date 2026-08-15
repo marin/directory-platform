@@ -3,13 +3,16 @@
   "slug": "daniela-draeger-heilpraktikerin",
   "name": "Daniela Draeger Heilpraktikerin",
   "description": "Daniela Draeger ist eine erfahrene Heilpraktikerin mit Sitz in Berlin-Lichterfelde, die sich auf die Rückengesundheit spezialisiert hat. In ihrer Praxis bietet sie eine Vielzahl von naturheilkundlichen Therapien an, darunter BEMER®, Faszienbehandlungen, K-Taping®-Therapie sowie Ohrakupunktur und Wirbelsäulentherapie nach Dorn. Ihr ganzheitlicher Ansatz zielt darauf ab, Patienten individuell zu unterstützen und ihnen zu helfen, sich wieder schmerzfrei und beweglich zu fühlen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "hautprobleme"
   ],
   "address": {
     "street": "Kranoldpl. 1A",

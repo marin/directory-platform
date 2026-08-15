@@ -3,13 +3,16 @@
   "slug": "ganzheitliches-coaching-personal-training-wechseljahre-spezialistin-heilpraktike",
   "name": "Ganzheitliches Coaching & Personal Training | Wechseljahre Spezialistin | Heilpraktikerin Daniela Meckies | Online & Berlin",
   "description": "Ganzheitliches Coaching & Personal Training | Wechseljahre Spezialistin | Heilpraktikerin Daniela Meckies | Online & Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "wechseljahre"
   ],
   "address": {
     "street": "Sterndamm 114",
@@ -26,6 +29,9 @@
   "email": "info@daniela-meckies.com",
   "website": "http://www.daniela-meckies.com/",
   "bookingUrl": "http://www.daniela-meckies.com/kalender",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYffehOFJqEcRNEuSybo27fQ",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,8 +61,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJYffehOFJqEcRNEuSybo27fQ",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

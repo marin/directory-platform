@@ -3,13 +3,17 @@
   "slug": "katja-herholz-naturheilpraxis",
   "name": "Katja Herholz Naturheilpraxis",
   "description": "In der Katja Herholz Naturheilpraxis in Berlin Charlottenburg-Wilmersdorf wird ein breites Spektrum an naturheilkundlichen Behandlungen angeboten, darunter Akupunktur, Heilmassage, Homöopathie und Pflanzenheilkunde. Die Praxis legt großen Wert auf eine individuelle Anamnese und die Erstellung eines maßgeschneiderten Therapieplans, um verschiedene Beschwerden wie Schmerzen, seelische Probleme sowie Allergien und Verdauungsstörungen ganzheitlich zu behandeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm"
   ],
   "address": {
     "street": "Goethestraße 58",

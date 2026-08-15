@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-gaby-blankson",
   "name": "Naturheilpraxis Gaby Blankson",
   "description": "Die Naturheilpraxis Gaby Blankson in Berlin Friedenau bietet eine ganzheitliche Behandlung, die moderne energetische Heilverfahren mit dem uralten Wissen der chinesischen Medizin kombiniert. Die Praxis legt besonderen Wert auf die Aktivierung der Selbstheilungskräfte und die Schaffung eines gesunden Gleichgewichts. Zu den angebotenen Leistungen zählen individuelle Beratungen, Stressbewältigung sowie Unterstützung bei Kinderwunsch und Schwangerschaftsbegleitung. Gaby Blankson ist seit 25 Jahren als Heilpraktikerin tätig und bringt umfangreiche Erfahrung aus ihrer früheren Dozententätigkeit in der chinesischen Medizin mit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Wilhelmshöher Str. 2",

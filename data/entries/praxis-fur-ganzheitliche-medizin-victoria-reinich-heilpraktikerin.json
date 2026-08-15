@@ -3,13 +3,16 @@
   "slug": "praxis-fur-ganzheitliche-medizin-victoria-reinich-heilpraktikerin",
   "name": "Praxis für Ganzheitliche Medizin - Victoria Reinich, Heilpraktikerin",
   "description": "Die Praxis für Ganzheitliche Medizin von Victoria Reinich in Berlin Friedenau bietet individuelle naturheilkundliche Behandlungen mit einem Fokus auf Frauenheilkunde und Darmgesundheit. Als Heilpraktikerin kombiniert sie funktionale Diagnostik mit evidenzbasierten Naturtherapien, um Patienten mit wiederkehrenden Beschwerden, wie Blasenentzündungen und Reizdarmsyndrom, ganzheitlich zu unterstützen. Die Praxis legt Wert auf eine persönliche und empathische Betreuung, die sowohl körperliche als auch emotionale Aspekte berücksichtigt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Bennigsenstraße 13",

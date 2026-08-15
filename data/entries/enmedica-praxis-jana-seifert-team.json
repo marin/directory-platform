@@ -3,7 +3,7 @@
   "slug": "enmedica-praxis-jana-seifert-team",
   "name": "enMedica - Praxis Jana Seifert & Team",
   "description": "Die enMedica-Praxis von Jana Seifert & Team in Berlin bietet umfassende naturheilkundliche Behandlungen mit einem Schwerpunkt auf Homöopathie und Elektroakupunktur nach Dr. Voll. Das Team verfolgt einen ganzheitlichen Ansatz zur Gesundheitsförderung und behandelt eine Vielzahl von Beschwerden, darunter Hormonstörungen, Erschöpfung und Allergien. Die Praxis legt großen Wert auf individuelle Therapieansätze und die genaue Analyse von Gesundheitswerten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,11 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "darm"
   ],
   "address": {
     "street": "Rheinstraße 32",

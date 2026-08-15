@@ -3,7 +3,7 @@
   "slug": "tcm-praxis-jessica-noll-heilpraktikerin-faborm",
   "name": "TCM Praxis - Jessica Noll, Heilpraktikerin, FABORM",
   "description": "In der TCM Praxis von Jessica Noll in Berlin wird eine ganzheitliche Betreuung für Frauen und Paare angeboten, die sich auf den Weg zur Elternschaft begeben. Die Praxis kombiniert Traditionelle Chinesische Medizin (TCM) mit modernen wissenschaftlichen Ansätzen, um individuelle Behandlungspläne zu erstellen. Jessica Noll, als Expertin für Kinderwunsch und Frauenheilkunde, legt besonderen Wert auf eine integrative Therapie, die Akupunktur, Kräutermedizin und Ernährungsberatung umfasst.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Karlsruher Str. 7a/8",

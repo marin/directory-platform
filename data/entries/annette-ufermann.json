@@ -3,13 +3,17 @@
   "slug": "annette-ufermann",
   "name": "Annette Ufermann",
   "description": "Annette Ufermann ist Heilpraktikerin in Berlin und bietet in ihrer Naturheilpraxis eine ganzheitliche Betrachtung von Gesundheit und Krankheit. Mit über zwei Jahrzehnten Erfahrung widmet sie sich verschiedenen gesundheitlichen Herausforderungen, darunter Tinnitus, Allergien, Sportverletzungen und psychische Belastungen wie Depressionen und Prüfungsangst. Ihr Ansatz zielt darauf ab, gemeinsam mit den Patienten den Weg zur Gesundheit zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien",
+    "depression"
   ],
   "address": {
     "street": "Tegeler Weg 104",

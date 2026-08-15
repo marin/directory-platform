@@ -3,13 +3,16 @@
   "slug": "manuela-jeske-heilpraktikerin",
   "name": "Manuela Jeske Heilpraktikerin",
   "description": "Manuela Jeske ist eine erfahrene Heilpraktikerin in Berlin-Charlottenburg, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie verschiedene Therapien an, darunter Darmsanierung und Erfahrungsheilkunde, mit dem Ziel, die Selbstheilungskräfte ihrer Patienten zu aktivieren. Ihr Ansatz basiert auf der Erkenntnis, dass Symptome oft Hinweise auf tieferliegende Ungleichgewichte im Körper sind, die es zu erforschen gilt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "George-Caylay-Straße 13",

@@ -3,13 +3,18 @@
   "slug": "heilpraktikerin-angelika-gevorkian-brodska-asthetiklabor",
   "name": "Heilpraktikerin Angelika Gevorkian Brodska | Ästhetiklabor",
   "description": "Heilpraktikerin Angelika Gevorkian Brodska bietet in ihrem Ästhetiklabor in Berlin integrative Medizin mit einem Schwerpunkt auf Hautgesundheit, Stoffwechsel und Diagnostik an. Die Praxis legt Wert auf individuelle, ganzheitliche und evidenzorientierte Behandlungsansätze, die durch präzise Laboranalysen und moderne Diagnosetechniken unterstützt werden. Zu den angebotenen Leistungen zählen unter anderem Anamnese, Mikronährstofftherapie, Infusionen sowie Begleitungen bei Kinderwunsch und Burnout-Prävention.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "kinderwunsch"
   ],
   "address": {
     "street": "Schlüterstraße 4",

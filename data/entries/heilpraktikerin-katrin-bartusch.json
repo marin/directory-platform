@@ -3,13 +3,18 @@
   "slug": "heilpraktikerin-katrin-bartusch",
   "name": "Heilpraktikerin Katrin Bartusch",
   "description": "Heilpraktikerin Katrin Bartusch bietet in ihrer Praxis in Berlin-Pankow ganzheitliche Gesundheitslösungen für Frauen an. Ihr Ansatz kombiniert moderne Labordiagnostik, Ernährungsberatung und Körperarbeit, um die Ursachen von Beschwerden wie Magen-Darm-Problemen, hormonellen Ungleichgewichten und Schilddrüsenerkrankungen zu identifizieren und zu behandeln. Katrin Bartusch legt großen Wert auf individuelle Therapiepläne, die langfristig in den Alltag der Patientinnen integriert werden können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "darm",
+    "schilddruese",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Schönhauser Allee 84",

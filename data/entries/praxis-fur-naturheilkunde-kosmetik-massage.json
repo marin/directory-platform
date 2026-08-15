@@ -3,13 +3,16 @@
   "slug": "praxis-fur-naturheilkunde-kosmetik-massage",
   "name": "Praxis für Naturheilkunde, Kosmetik & Massage",
   "description": "Die Praxis für Naturheilkunde, Kosmetik & Massage in Berlin-Lichtenberg bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen sowie kosmetischen Anwendungen. Zu den angebotenen Therapien zählen unter anderem medizinische Massagen, Colon-Hydro-Therapie und verschiedene Gesichtsbehandlungen. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Förderung von Gesundheit und Wohlbefinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "lichtenberg"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Am Carlsgarten 14 A",

@@ -3,13 +3,17 @@
   "slug": "sascha-rieck-osteopathie-craniosacrale-therapie-in-berlin-friedrichshagen",
   "name": "Sascha Rieck - Osteopathie & Craniosacrale Therapie in Berlin Friedrichshagen",
   "description": "Sascha Rieck bietet in seiner Praxis für Osteopathie und Craniosacrale Therapie in Berlin Friedrichshagen eine ganzheitliche Behandlung für Menschen jeden Alters an. Die Praxis richtet sich an Erwachsene mit Rückenschmerzen, Personen mit Schlafstörungen sowie Eltern von Babys, die häufig unruhig sind. Interessierte können sich auf der Website über die angebotenen Therapien informieren und einen Termin für ein ausführliches Anamnesegespräch vereinbaren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "schlafstoerungen",
+    "ruecken"
   ],
   "address": {
     "street": "Scharnweberstraße 2",

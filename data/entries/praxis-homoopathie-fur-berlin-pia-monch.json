@@ -3,7 +3,7 @@
   "slug": "praxis-homoopathie-fur-berlin-pia-monch",
   "name": "Praxis Homöopathie für Berlin Pia Mönch",
   "description": "Die Praxis Homöopathie für Berlin, geleitet von Heilpraktikerin Pia Mönch, bietet seit 24 Jahren klassische Homöopathie sowie ergänzende Therapien wie Massagen und Fußreflexzonentherapie an. Ein besonderer Fokus liegt auf der Behandlung von Kindern, wobei sowohl akute als auch chronische Beschwerden behandelt werden. Die Praxis befindet sich in der Böckhstraße 45 in Berlin und bietet eine offene Sprechstunde sowie individuelle Beratungen an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,13 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "migraene",
+    "hautprobleme",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Böckhstraße 45",

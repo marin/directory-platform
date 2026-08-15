@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-psychotherapie-naturheilkunde-sarah-luge-heilpraktikerin",
   "name": "Heilpraxis für Psychotherapie & Naturheilkunde Sarah Luge - Heilpraktikerin",
   "description": "Die Heilpraxis für Psychotherapie & Naturheilkunde von Sarah Luge befindet sich in Berlin-Spandau und bietet individuelle Begleitung für Frauen und Mütter, die unter innerer Anspannung, Erschöpfung oder Schlafproblemen leiden. Durch eine Kombination aus psychotherapeutischen Ansätzen, insbesondere integrativer Gestalt- und Körpertherapie, sowie naturheilkundlichen Methoden, werden die zugrunde liegenden Ursachen der Beschwerden erarbeitet. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Lebenssituation und bietet flexible Unterstützung ohne lange Wartezeiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "spandau"
+  ],
+  "indicationIds": [
+    "burnout",
+    "schlafstoerungen"
   ],
   "address": {
     "street": "Ruppiner Ch 141",

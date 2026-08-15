@@ -3,13 +3,18 @@
   "slug": "naturheilpraxis-wiebke-hermsdorf",
   "name": "Naturheilpraxis Wiebke Hermsdorf",
   "description": "Die Naturheilpraxis Wiebke Hermsdorf in Berlin-Friedrichshain bietet eine ganzheitliche Begleitung für Mütter und Kinder auf sanfte und natürliche Weise. Schwerpunkte der Praxis sind die Behandlung von Unruhe, Schlafproblemen, Verdauungsbeschwerden sowie die Unterstützung während der Schwangerschaft und nach der Geburt. Die Praxis richtet sich an Selbstzahler und bietet individuelle Lösungen zur Förderung des Wohlbefindens.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "darm",
+    "schlafstoerungen",
+    "hautprobleme"
   ],
   "address": {
     "street": "Manteuffelstraße 67",

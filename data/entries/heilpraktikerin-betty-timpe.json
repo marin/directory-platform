@@ -3,13 +3,17 @@
   "slug": "heilpraktikerin-betty-timpe",
   "name": "Heilpraktikerin Betty Timpe",
   "description": "Heilpraktikerin Betty Timpe bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg ein ganzheitliches und individuelles Therapiekonzept an. Ihre Schwerpunkte liegen in der natürlichen Frauenheilkunde, Hautgesundheit, Stoffwechseloptimierung und Darmgesundheit. Sie unterstützt ihre Patienten bei hormonellen Beschwerden, Hautproblemen sowie in der gesunden und nachhaltigen Gewichtsabnahme.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "darm",
+    "abnehmen"
   ],
   "address": {
     "street": "Marburger Str. 3",

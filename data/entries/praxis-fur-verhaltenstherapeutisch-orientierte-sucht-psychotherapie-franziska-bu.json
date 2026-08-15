@@ -3,7 +3,7 @@
   "slug": "praxis-fur-verhaltenstherapeutisch-orientierte-sucht-psychotherapie-franziska-bu",
   "name": "Praxis für verhaltenstherapeutisch orientierte Sucht- & Psychotherapie| Franziska Bude, Heilpraktikerin für Psychotherapie",
   "description": "In der Praxis für verhaltenstherapeutisch orientierte Sucht- und Psychotherapie von Franziska Bude in Berlin-Friedrichshain stehen die Unterstützung und Begleitung von Menschen in herausfordernden Lebenssituationen im Mittelpunkt. Die Praxis bietet Suchttherapie, Psychotherapie sowie Kriseninterventionen auf Selbstzahlerbasis an. Die Sitzungen können sowohl vor Ort als auch online durchgeführt werden, um individuelle Bedürfnisse bestmöglich zu berücksichtigen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Gubener Str. 6",

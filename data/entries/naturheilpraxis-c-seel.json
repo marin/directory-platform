@@ -3,13 +3,17 @@
   "slug": "naturheilpraxis-c-seel",
   "name": "Naturheilpraxis C. Seel",
   "description": "Die Naturheilpraxis C. Seel in Berlin-Niederschönhausen bietet eine ganzheitliche, naturheilkundliche Behandlung mit einem besonderen Fokus auf Neurodermitis, Allergien und Nahrungsmittelunverträglichkeiten. Heilpraktikerin Cordula Seel verfolgt das Ziel, die tiefer liegenden Ursachen von Beschwerden zu identifizieren und ein individuelles Therapiekonzept zu entwickeln. Zu den angebotenen Methoden zählen unter anderem Homöopathie, EFT, Yoga-Therapie und Gong-Therapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien",
+    "hautprobleme"
   ],
   "address": {
     "street": "Waldstraße 52",

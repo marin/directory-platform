@@ -3,13 +3,16 @@
   "slug": "massagenberlin-heilpraktiker-martin-grutz",
   "name": "Massagenberlin - Heilpraktiker Martin Grütz",
   "description": "In der Praxis von Martin Grütz in Berlin-Pankow stehen die Ursachen von Schmerzen im Mittelpunkt. Durch einen integrativen Ansatz, der Massage, Sportmassage und Faszientherapie kombiniert, werden unbewusste Haltungsmuster und Verspannungen analysiert und behandelt. Ziel ist es, den Körper in ein harmonisches Gleichgewicht zu bringen und die Lebensqualität der Patienten zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Driesener Str. 5",

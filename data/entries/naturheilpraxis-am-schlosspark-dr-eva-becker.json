@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-am-schlosspark-dr-eva-becker",
   "name": "Naturheilpraxis am Schlosspark Dr. Eva Becker",
   "description": "Die Naturheilpraxis am Schlosspark unter der Leitung von Dr. Eva Becker in Berlin-Pankow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Akupunktur, Psychotherapie und traditionelle chinesische Medizin. Schwerpunkte der Praxis sind unter anderem die Unterstützung bei Kinderwunsch, Schwangerenbegleitung sowie die Behandlung von Kindern. Darüber hinaus werden auch traumatherapeutische Ansätze und innovative Methoden wie die Bemer®-Therapie zur Förderung der Gesundheit eingesetzt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,11 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "schlafstoerungen",
+    "kinderwunsch",
+    "depression"
   ],
   "address": {
     "street": "Pestalozzistraße 12",

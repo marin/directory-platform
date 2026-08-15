@@ -3,13 +3,18 @@
   "slug": "heilpraktikerin-petra-gundacker",
   "name": "Heilpraktikerin Petra Gundacker",
   "description": "Heilpraktikerin Petra Gundacker bietet in ihrer Praxis für Angewandte Kinesiologie und Homöopathie in Berlin umfassende naturheilkundliche Behandlungen an. Zu ihren Therapie-Konzepten gehören die Angewandte Kinesiologie, Bioenergetische Regulationstherapie, Homöopathie sowie die Arbeit mit Bachblüten und Schüssler-Salzen. Sie behandelt sowohl Erwachsene als auch Kinder und legt großen Wert auf eine individuelle, auf die Bedürfnisse ihrer Patienten abgestimmte Therapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "hautprobleme"
   ],
   "address": {
     "street": "Schliemannstraße 40",

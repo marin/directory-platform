@@ -3,7 +3,7 @@
   "slug": "akupunktur-tcm-thetahealing-praxis-verena-szewczyk",
   "name": "Akupunktur, TCM & ThetaHealing , Praxis Verena Szewczyk,",
   "description": "In der Praxis für Akupunktur, TCM und ThetaHealing von Verena Szewczyk in Berlin Kreuzberg werden Menschen mit akuten und chronischen Beschwerden ganzheitlich unterstützt. Die Schwerpunkte liegen auf Frauenheilkunde, Kinderwunsch, Endometriose sowie der Behandlung von Schmerzen und Allergien. Durch die Kombination von Traditioneller Chinesischer Medizin, Akupunktur und energetischen Methoden wird Körper, Seele und Geist in Einklang gebracht.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,13 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "migraene",
+    "kinderwunsch",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Böckhstraße 45",

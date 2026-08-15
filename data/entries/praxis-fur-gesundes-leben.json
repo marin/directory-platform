@@ -3,13 +3,17 @@
   "slug": "praxis-fur-gesundes-leben",
   "name": "Praxis für gesundes Leben",
   "description": "In der Praxis für gesundes Leben in der Kastanienallee 4 in Berlin-Prenzlauer Berg bietet Heilpraktiker Philipp Nedelmann eine Vielzahl von naturheilkundlichen Behandlungen an. Die Praxis ist auf die Diagnostik und Therapie von Beschwerden wie Reizdarm, Burnout und Immunschwäche spezialisiert. Neben persönlichen Beratungen vor Ort sind auch Erstgespräche und Therapiefortsetzungen per Videokonferenz oder Telefon möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm"
   ],
   "address": {
     "street": "Kastanienallee 4",

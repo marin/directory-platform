@@ -3,7 +3,7 @@
   "slug": "impuls-raume-fur-wohlbefinden-und-heilkunst",
   "name": "Impuls - Räume für Wohlbefinden und Heilkunst",
   "description": "Wir bei IMPULS bieten Ihnen verschiedene Therapien und Gesundheitsdienstleistungen an. Schauen Sie hier, bei wem Sie mit Ihrem Anliegen richtig sind. Bei Fragen sprechen sie uns gerne an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "neukoelln"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Weichselstraße 53",

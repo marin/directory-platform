@@ -3,13 +3,19 @@
   "slug": "heilpraktikerin-christin-franke",
   "name": "Heilpraktikerin Christin Franke",
   "description": "Heilpraktikerin Christin Franke in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Hypnose-Therapie, Akupunktur, Ohrakupunktur und Klangmeditationen. Ihr Ansatz zielt darauf ab, Klienten bei der Bewältigung von Stress, Schlafstörungen und unerwünschten Gewohnheiten zu unterstützen. In einer einfühlsamen und professionellen Atmosphäre stehen die individuellen Bedürfnisse der Patienten im Vordergrund.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "migraene",
+    "schlafstoerungen",
+    "abnehmen"
   ],
   "address": {
     "street": "Bleibtreustraße 17",

@@ -3,13 +3,16 @@
   "slug": "heilpraxis-wolfgang-runge",
   "name": "Heilpraxis Wolfgang Runge",
   "description": "Die Heilpraxis Wolfgang Runge in Berlin bietet umfassende naturheilkundliche Behandlungen an, mit einem Fokus auf Psychokinesiologie, Regulationsdiagnostik und MFT nach Dr. Klinghardt sowie Mindflow-Techniken nach Tom Mögele. Hier werden individuelle Lösungswege zur Auflösung psychischer Konflikte und energetischer Blockaden erarbeitet, um die Selbstregulation und Selbstheilung des Körpers zu fördern. Die Praxis legt großen Wert auf eine vertrauensvolle Atmosphäre und die persönliche Betreuung ihrer Klienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Kaulbachstraße 10A",

@@ -3,7 +3,7 @@
   "slug": "heilpraktische-psychotherapie-scholz-emdr-traumatherapie-begleitung-in-adlershof",
   "name": "Heilpraktische Psychotherapie Scholz | EMDR Traumatherapie & Begleitung in Adlershof (Treptow Köpenick)",
   "description": "Die Heilpraktische Psychotherapie Scholz in Berlin-Adlershof bietet spezialisierte Unterstützung in der EMDR-Traumatherapie sowie traumasensibler Beratung an. Der Fokus liegt auf der Behandlung von posttraumatischen Belastungsstörungen (PTBS) und deren Folgestörungen, wie stressbedingte Depressionen und Angststörungen. In einer einfühlsamen und vertrauensvollen Umgebung werden Klienten bei der Bewältigung ihrer emotionalen Probleme begleitet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "burnout",
+    "depression"
   ],
   "address": {
     "street": "Genossenschaftsstraße 70",

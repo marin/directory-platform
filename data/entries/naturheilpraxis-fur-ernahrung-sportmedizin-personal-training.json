@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-fur-ernahrung-sportmedizin-personal-training",
   "name": "Naturheilpraxis für Ernährung, Sportmedizin & Personal Training",
   "description": "In der Naturheilpraxis für Ernährung, Sportmedizin und Personal Training in Berlin bietet Martina Minnich eine ganzheitliche Betreuung zur Förderung von Gesundheit und Wohlbefinden. Die Praxis spezialisiert sich auf Ernährungsberatung, Bewegungstherapie sowie Gewichtsreduktion und richtet sich an Menschen, die ihre körperliche und geistige Balance wiederherstellen möchten. Durch individuelle Therapieansätze werden sowohl präventive Maßnahmen als auch spezifische Beschwerden behandelt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -11,6 +11,12 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "schlafstoerungen",
+    "abnehmen"
   ],
   "address": {
     "street": "Pritstabelstraße 11",

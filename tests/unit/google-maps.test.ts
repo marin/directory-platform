@@ -192,4 +192,44 @@ describe("buildListingJsonLd", () => {
     const business = graph.find((node) => node["@type"] === "MedicalBusiness");
     expect(business?.image).toBe("https://naturav.com/images/entries/test/0.webp");
   });
+
+  it("includes knowsAbout for tagged indications", () => {
+    const jsonLd = buildListingJsonLd(
+      {
+        id: "test",
+        slug: "test",
+        name: "Test Praxis",
+        description: "Test description.",
+        lastUpdated: "2026-08-15",
+        status: "open",
+        categories: ["naturheilkunde"],
+        areaIds: [],
+        indicationIds: ["kinderwunsch", "allergien"],
+        openingHours: [],
+        offers: [],
+        images: [],
+        faq: [],
+        isOpen: true,
+        nap: {
+          name: "Test Praxis",
+          phone: undefined,
+          formattedPhone: undefined,
+          formattedAddress: undefined,
+        },
+      },
+      { id: "naturheilkunde", slug: "naturheilkunde", name: "Naturheilkunde" },
+      undefined,
+      [
+        { id: "allergien", name: "Allergien", slug: "allergien", synonyms: ["allergien"] },
+        { id: "kinderwunsch", name: "Kinderwunsch", slug: "kinderwunsch", synonyms: ["kinderwunsch"] },
+      ],
+    );
+
+    const graph = (jsonLd as { "@graph": Record<string, unknown>[] })["@graph"];
+    const business = graph.find((node) => node["@type"] === "MedicalBusiness");
+    expect(business?.knowsAbout).toEqual([
+      { "@type": "MedicalCondition", name: "Allergien" },
+      { "@type": "MedicalCondition", name: "Kinderwunsch" },
+    ]);
+  });
 });

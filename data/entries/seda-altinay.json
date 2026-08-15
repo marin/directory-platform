@@ -3,13 +3,19 @@
   "slug": "seda-altinay",
   "name": "Seda Altinay",
   "description": "Seda Altinay ist eine ganzheitliche Heilpraktikerin in Berlin-Neukölln, die sich auf die sanfte und nachhaltige Behandlung chronischer und wiederkehrender Beschwerden spezialisiert hat. Ihr Therapieansatz kombiniert bewährte Naturheilkunde mit moderner Diagnostik und umfasst Methoden wie Pflanzenheilkunde, Aromatherapie, Darmsanierung und hochdosierte Vitamin-C-Infusionen. In ihrer Praxis legt sie großen Wert auf individuelle Beratung und Behandlung, um das Wohlbefinden und die Gesundheit ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "neukoelln"
+  ],
+  "indicationIds": [
+    "burnout",
+    "darm",
+    "schlafstoerungen",
+    "hautprobleme"
   ],
   "address": {
     "street": "Nansenstraße 31",

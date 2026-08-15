@@ -3,13 +3,16 @@
   "slug": "heilpraxis-christa-polking",
   "name": "Heilpraxis Christa Pölking",
   "description": "Die Heilpraxis Christa Pölking in Berlin-Neukölln bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Homöopathie, CranioSacralTherapie sowie Stressbewältigung und Burnout-Prophylaxe. Als Heilpraktikerin verfolgt Christa Pölking einen ganzheitlichen Therapieansatz und bietet sowohl Einzelsitzungen als auch Präventionskurse an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "neukoelln"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Weichselstraße 53",

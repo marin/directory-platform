@@ -3,7 +3,7 @@
   "slug": "praxis-fur-psychotherapie-arne-fahsig-heilpraktiker-fur-psychotherapie-paarthera",
   "name": "Praxis für Psychotherapie - Arne Fahsig (Heilpraktiker für Psychotherapie) Paartherapie, Coaching, Eltern & Familienberatung",
   "description": "In der Praxis für Psychotherapie von Arne Fahsig in Berlin-Reinickendorf werden Einzelpersonen, Paare sowie Familien umfassend beraten und therapeutisch begleitet. Die Schwerpunkte liegen auf Themen wie Beziehung, Partnerschaft, psychischen Belastungen, Krisen und Trauma. Zudem bietet die Praxis Unterstützung für Kinder und Jugendliche ab 6 Jahren sowie Elternberatung an. Die Therapie erfolgt nach dem Heilpraktikergesetz und umfasst Methoden der Gestalttherapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "reinickendorf"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Oraniendamm 68",

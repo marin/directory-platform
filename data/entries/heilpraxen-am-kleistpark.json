@@ -3,13 +3,17 @@
   "slug": "heilpraxen-am-kleistpark",
   "name": "Heilpraxen am Kleistpark",
   "description": "Die Heilpraxen am Kleistpark in Berlin-Schöneberg bieten ein ganzheitliches Therapieangebot, das Heilpraktiker, Physiotherapeuten und Psychotherapeuten vereint. In einem einladenden Ambiente wird Raum für individuelle Diagnosen, Behandlungen und präventive Maßnahmen geschaffen. Die Praxis legt besonderen Wert auf die Verbindung von Körper, Geist und Seele und unterstützt ihre Klienten bei der Bewältigung von akuten und chronischen Erkrankungen sowie Lebenskrisen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "burnout",
+    "abnehmen"
   ],
   "address": {
     "street": "Crellestraße 27",

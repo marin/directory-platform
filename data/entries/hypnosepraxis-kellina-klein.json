@@ -3,7 +3,7 @@
   "slug": "hypnosepraxis-kellina-klein",
   "name": "Hypnosepraxis Kellina Klein",
   "description": "Die Hypnosepraxis Kellina Klein in Berlin-Treptow-Köpenick bietet eine spezialisierte Behandlung durch die staatlich zugelassene Heilpraktikerin für Psychotherapie Kellina Klein an. Ihr Fokus liegt auf der ursachenauflösenden Hypnoanalyse, die es ermöglicht, emotionale Probleme in oft nur 1-4 Sitzungen zu behandeln. Die Praxis richtet sich an Menschen, die Unterstützung bei Themen wie Ängsten, Depressionen, Schlafstörungen oder Suchtverhalten suchen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,11 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "schlafstoerungen",
+    "depression",
+    "abnehmen"
   ],
   "address": {
     "street": "Rosenstraße 15",

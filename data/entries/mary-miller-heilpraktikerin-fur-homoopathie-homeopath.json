@@ -3,7 +3,7 @@
   "slug": "mary-miller-heilpraktikerin-fur-homoopathie-homeopath",
   "name": "Mary Miller - Heilpraktikerin für Homöopathie, Homeopath",
   "description": "Mary Miller ist eine erfahrene Heilpraktikerin für Homöopathie mit einer Praxis in der Stargarder Straße 63 in Berlin-Pankow. Sie bietet individuelle homöopathische Behandlungen für Frauen, insbesondere in den Bereichen Menstruationsbeschwerden, Schwangerschaft und Stillzeit, sowie für Kinder bei Entwicklungsstörungen und akuten Erkrankungen an. Ihre Praxis legt Wert auf natürliche und nicht-toxische Heilmittel, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Stargarder Str. 63",

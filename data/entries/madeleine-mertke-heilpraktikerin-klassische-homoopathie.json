@@ -3,7 +3,7 @@
   "slug": "madeleine-mertke-heilpraktikerin-klassische-homoopathie",
   "name": "Madeleine Mertke ~ Heilpraktikerin ~ klassische Homöopathie",
   "description": "Madeleine Mertke ist eine erfahrene Heilpraktikerin in Berlin, die sich auf klassische Homöopathie und Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie eine ganzheitliche Behandlungsmethode an, die darauf abzielt, die Selbstheilungskräfte ihrer Patienten zu aktivieren und eine innere Balance zu fördern. Neben der Homöopathie umfasst ihr Angebot auch Heilfasten, Ernährung und Bewegungstherapie, um individuelle Gesundheitsziele zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout"
   ],
   "address": {
     "street": "Zwinglistraße 39",

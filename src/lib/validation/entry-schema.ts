@@ -53,6 +53,7 @@ export const entrySchema = z.object({
   status: z.enum(["open", "closed"]).optional().default("open"),
   categories: z.array(z.string().min(1)).min(1),
   areaIds: z.array(z.string().min(1)).optional().default([]),
+  indicationIds: z.array(z.string().min(1)).optional().default([]),
   address: addressSchema.optional(),
   geo: geoSchema.optional(),
   phone: z.string().optional(),

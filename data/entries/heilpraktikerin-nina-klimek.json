@@ -3,13 +3,16 @@
   "slug": "heilpraktikerin-nina-klimek",
   "name": "Heilpraktikerin Nina Klimek",
   "description": "Heilpraktikerin Nina Klimek ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Buckower Damm 95",
@@ -26,6 +29,9 @@
   "email": "n.d.klimek@gmail.com",
   "website": "https://www.heilpraxis-klimek.com/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/nina-klimek",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJraiq7TpFqEcRE8uUeMbEiZ4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 55,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -144,8 +150,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJraiq7TpFqEcRE8uUeMbEiZ4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 55
+  "faq": []
 }

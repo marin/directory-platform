@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-petra-butschko-amerikanische-chiropraktik-akupunktur-schmerzther",
   "name": "Heilpraktikerin Petra Butschko - Amerikanische Chiropraktik - Akupunktur - Schmerztherapie - Umweltmedizin | Berlin",
   "description": "Die Heilpraktikerin Petra Butschko in Berlin-Charlottenburg bietet eine ganzheitliche Praxis für Gesundheit, die sich auf amerikanische Chiropraktik, Akupunktur, Schmerztherapie und Umweltmedizin spezialisiert hat. Ihr Ansatz verbindet moderne naturheilkundliche Methoden mit einem individuellen Blick auf die Patienten, um deren Lebensqualität nachhaltig zu verbessern. In einer ruhigen und freundlichen Atmosphäre werden persönliche Geschichten und Symptome ernst genommen, um maßgeschneiderte Behandlungskonzepte zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,12 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "burnout",
+    "migraene",
+    "schlafstoerungen",
+    "depression"
   ],
   "address": {
     "street": "Philippistraße 11",

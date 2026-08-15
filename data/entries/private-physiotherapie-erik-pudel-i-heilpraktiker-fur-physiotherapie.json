@@ -3,13 +3,16 @@
   "slug": "private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie",
   "name": "Private Physiotherapie Erik Pudel I Heilpraktiker für Physiotherapie",
   "description": "Private Physiotherapie Erik Pudel in Berlin-Pankow bietet umfassende physiotherapeutische Behandlungen an, die auf individuelle Bedürfnisse abgestimmt sind. Der Heilpraktiker für Physiotherapie, Erik Pudel, bringt über 35.000 Behandlungen Erfahrung mit und legt besonderen Wert auf eine ganzheitliche Untersuchung sowie eine gezielte Schmerztherapie. Die Praxis ermöglicht auch eine Therapie ohne Rezept und bietet eine schnelle Terminvergabe über Doctolib.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Seegerstraße 17",

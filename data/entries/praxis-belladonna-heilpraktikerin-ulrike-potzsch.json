@@ -3,13 +3,17 @@
   "slug": "praxis-belladonna-heilpraktikerin-ulrike-potzsch",
   "name": "PRAXIS BELLADONNA / Heilpraktikerin Ulrike Pötzsch",
   "description": "Die PRAXIS BELLADONNA, geleitet von der Heilpraktikerin Ulrike Pötzsch, befindet sich in Berlin-Charlottenburg und hat sich auf die Wiederherstellung eines gesunden Darmmilieus sowie die Behandlung von Allergien spezialisiert. Zu den angebotenen Therapien zählen die Trikombin-Frequenztherapie, Akupunktur, vitOrgan-Therapie und Darmreinigungskuren. Die Praxis lädt Patienten ein, sich über die verschiedenen Behandlungsmöglichkeiten zu informieren und bei Fragen ein kostenloses Informationsgespräch zu vereinbaren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm"
   ],
   "address": {
     "street": "Olympische Str. 14",

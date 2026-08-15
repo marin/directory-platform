@@ -3,7 +3,7 @@
   "slug": "massage-und-schmerzbehandlung-heilpraktiker-deniz-stitz",
   "name": "Massage und Schmerzbehandlung | Heilpraktiker Deniz Stitz",
   "description": "Heilpraktiker Deniz Stitz bietet in seiner Praxis in Berlin-Pankow umfassende Leistungen im Bereich der Massage und Schmerzbehandlung an. Mit einem ganzheitlichen Ansatz kombiniert er klassische Massagetechniken mit manuellen Schmerzbehandlungen, um individuelle Beschwerden wie Rückenschmerzen, Schulterverspannungen und andere Beschwerden gezielt zu behandeln. Die Praxis legt großen Wert auf eine entspannte Atmosphäre, in der die Patienten zur Regeneration und Entspannung kommen können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "migraene",
+    "ruecken"
   ],
   "address": {
     "street": "Erich-Weinert-Straße 138",
@@ -27,6 +31,9 @@
   "email": "deniz.stitz@gmx.de",
   "website": "https://www.heilpraktiker-deniz-stitz.de/",
   "bookingUrl": "https://heilpraktiker-deniz-stitz.de/termin-buchen",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwUUWNXtFYm8RCeAcOHMEJFs",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -160,8 +167,5 @@
       "question": "Mit welchen Beschwerden kommen Patienten häufig zu Heilpraktiker Deniz Stitz?",
       "answer": "Patienten kommen häufig mit Beschwerden wie Rückenschmerzen, Schulter- und Nackenverspannungen, Kopfschmerzen, Knie- oder Hüftschmerzen sowie Fersensporn und Fußschmerzen zu Heilpraktiker Deniz Stitz."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwUUWNXtFYm8RCeAcOHMEJFs",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  ]
 }

@@ -3,7 +3,7 @@
   "slug": "sonja-priwitzer-heilpraktikerin",
   "name": "Sonja Priwitzer Heilpraktikerin",
   "description": "Sonja Priwitzer ist eine erfahrene Heilpraktikerin in Berlin-Tempelhof, die sich auf Akupunktur, Hypnose und Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie eine Vielzahl von Therapien an, darunter Dorntherapie, Schmerzbehandlung und verschiedene Massagetechniken. Ihr ganzheitlicher Ansatz berücksichtigt sowohl körperliche als auch seelische Aspekte, um das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "tempelhof-schoeneberg"
+  ],
+  "indicationIds": [
+    "migraene"
   ],
   "address": {
     "street": "Friedrich-Wilhelm-Straße 28",

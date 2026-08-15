@@ -3,13 +3,17 @@
   "slug": "mamaveda-heilpraktikerin-fur-ganzheitliche-frauenheilkunde-und-schwangerenbeglei",
   "name": "MAMAVEDA Heilpraktikerin für ganzheitliche Frauenheilkunde und Schwangerenbegleitung in Berlin",
   "description": "MAMAVEDA ist eine Heilpraktikerin für ganzheitliche Frauenheilkunde und Schwangerenbegleitung in Berlin, die sich auf die verschiedenen Lebensphasen von Frauen spezialisiert hat. Ihr Ansatz umfasst die Behandlung von hormonellen Ungleichgewichten, Menstruationsproblemen sowie die Unterstützung während der Schwangerschaft und der Menopause. Durch sanfte, aber effektive Methoden aus der Naturheilkunde bietet sie individuelle Unterstützung und Beratung, um das Wohlbefinden ihrer Patientinnen zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "wechseljahre",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Dirschauer Str. 1",

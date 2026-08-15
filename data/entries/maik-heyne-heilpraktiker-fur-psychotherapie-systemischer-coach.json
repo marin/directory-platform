@@ -3,7 +3,7 @@
   "slug": "maik-heyne-heilpraktiker-fur-psychotherapie-systemischer-coach",
   "name": "Maik Heyne Heilpraktiker für Psychotherapie & Systemischer Coach",
   "description": "Maik Heyne ist Heilpraktiker für Psychotherapie und Systemischer Coach in Berlin. Seit 2008 begleitet er Klienten in Einzel- und Paartherapien sowie in Gruppen, um persönliche Themen zu bearbeiten und innere Wandlungen zu fördern. Seine Praxis bietet verschiedene Therapieansätze, darunter systemische Aufstellungsarbeit und Sexualtherapie, um Klienten bei der Bewältigung von Herausforderungen und der Wiederentdeckung von Lebensfreude zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Heinrich-Heine-Straße 21",

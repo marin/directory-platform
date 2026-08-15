@@ -3,7 +3,7 @@
   "slug": "michael-grauer-vormals-meliani-praxis-am-hansaplatz-heilpraktiker-chinesische-ch",
   "name": "Michael Grauer vormals Meliani, Praxis am Hansaplatz, Heilpraktiker, Chinesische Chiropraktik",
   "description": "Michael Grauer, vormals Meliani, ist Heilpraktiker in Berlin und bietet eine Praxis für traditionelle chinesische Medizin, insbesondere Tieh Ta Tuina, Akupressur und Osteopathie an. Die Behandlungsmethoden zielen darauf ab, Verklebungen und Verhärtungen im Gewebe zu lösen, die Durchblutung zu fördern und die Selbstheilungskräfte des Körpers zu aktivieren. Mögliche Anwendungsgebiete sind unter anderem Rückenschmerzen, Nackenverspannungen sowie Sportverletzungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Flensburger Str. 27",

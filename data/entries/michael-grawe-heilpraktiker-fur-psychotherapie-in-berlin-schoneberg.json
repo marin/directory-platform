@@ -3,7 +3,7 @@
   "slug": "michael-grawe-heilpraktiker-fur-psychotherapie-in-berlin-schoneberg",
   "name": "Michael Gräwe - Heilpraktiker für Psychotherapie in Berlin Schöneberg",
   "description": "Michael Gräwe ist Heilpraktiker für Psychotherapie in Berlin-Schöneberg und bietet umfassende Unterstützung bei psychischen Herausforderungen. In seiner Praxis werden Einzel- und Paartherapien, Hypnose, Telefoncoaching sowie Coaching angeboten. Ziel seiner Arbeit ist es, gemeinsam mit den Klienten Lösungen zu erarbeiten und ein Gefühl von Sicherheit und Wohlbefinden zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Regensburger Str. 6",

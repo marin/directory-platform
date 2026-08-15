@@ -3,13 +3,16 @@
   "slug": "sabine-redmann-heilpraktikerin",
   "name": "Sabine Redmann, Heilpraktikerin",
   "description": "Sabine Redmann ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf integrativer und ästhetischer Medizin in Berlin. Sie bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Hautästhetik, Darmgesundheit und Ernährungstherapie. Mit über 25 Jahren Erfahrung in der Hautästhetik legt sie großen Wert auf individuelle Therapieansätze und ganzheitliche Gesundheitsförderung. In ihrer Praxis nimmt sie sich Zeit für eine ausführliche Anamnese, um die Ursachen von Gesundheitsstörungen zu identifizieren und gezielt zu behandeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Friedbergstraße 29",

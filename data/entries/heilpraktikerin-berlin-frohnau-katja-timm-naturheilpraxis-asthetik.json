@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-berlin-frohnau-katja-timm-naturheilpraxis-asthetik",
   "name": "Heilpraktikerin Berlin-Frohnau Katja Timm - Naturheilpraxis & Ästhetik",
   "description": "Heilpraktikerin Katja Timm bietet in ihrer Naturheilpraxis in Berlin-Frohnau ganzheitliche Gesundheitslösungen für Frauen an. Ihr Fokus liegt auf Schmerztherapie, Magen-Darm-Beschwerden, Zyklusstörungen sowie der Unterstützung des Immunsystems und der ästhetischen Behandlungen. Durch individuelle Diagnostik und eine empathische Betreuung begleitet sie ihre Patientinnen auf dem Weg zu mehr Vitalität und Wohlbefinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -11,6 +11,10 @@
   ],
   "areaIds": [
     "reinickendorf"
+  ],
+  "indicationIds": [
+    "darm",
+    "wechseljahre"
   ],
   "address": {
     "street": "Gralsburgsteig 1",

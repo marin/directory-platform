@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-kopenick-alexandra-naujeck-thomas",
   "name": "Naturheilpraxis Köpenick Alexandra Naujeck-Thomas",
   "description": "Alexandra Naujeck-Thomas ist Heilpraktikerin und führt ihre Naturheilpraxis Köpenick in der Hackenbergstraße 7 in Berlin. Nach einer ausführlichen Anamnese erstellt sie individuelle Therapiepläne für akute und chronische Beschwerden. Zu ihrem Angebot zählen unter anderem Unterstützung bei Kinderwunsch und Schwangerschaft, manuelle Therapien, Ohrakupunktur und Ernährungsberatung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Hackenbergstraße 7",

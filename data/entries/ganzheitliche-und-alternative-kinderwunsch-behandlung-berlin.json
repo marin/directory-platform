@@ -3,7 +3,7 @@
   "slug": "ganzheitliche-und-alternative-kinderwunsch-behandlung-berlin",
   "name": "Ganzheitliche und alternative Kinderwunsch Behandlung Berlin",
   "description": "Ganzheitliche und alternative Kinderwunsch Behandlung Berlin ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "kinderwunsch"
   ],
   "address": {
     "street": "Mainzer Str. 23",
@@ -27,6 +30,9 @@
   "phone": "0308329027",
   "website": "https://praxis-kinderwunsch-berlin.de/",
   "bookingUrl": "https://praxis-kinderwunsch-berlin.de/termin-buchen-kinderwunsch-berlin",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoZLEwYlQqEcRiEWyJyambAU",
+  "googleMapsRating": 4.5,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,8 +62,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJoZLEwYlQqEcRiEWyJyambAU",
-  "googleMapsRating": 4.5,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

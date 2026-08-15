@@ -3,7 +3,7 @@
   "slug": "annette-leidig-heilpraktiker-fur-psychotherapie",
   "name": "Annette Leidig, Heilpraktiker für Psychotherapie",
   "description": "Annette Leidig ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet individuelle psychotherapeutische Behandlungen an, die auf die Bedürfnisse ihrer Patienten abgestimmt sind. Neben klassischen Therapieformen berücksichtigt sie auch interkulturelle Aspekte und bietet Therapien in englischer Sprache an. Bei Bedarf sind auch Videosprechstunden und flexible Terminvereinbarungen möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Wundtstraße 16",

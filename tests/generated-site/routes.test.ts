@@ -85,6 +85,20 @@ describe("generated site", () => {
     expect(linkCount).toBe(multiCategoryEntry.categories.length);
   });
 
+  it("renders indication tags when entries are tagged", () => {
+    const taggedEntry = dataset.entries.find(
+      (entry) => entry.isOpen && (entry.indicationIds ?? []).length > 0,
+    );
+    if (!taggedEntry) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${taggedEntry.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="entry-indications"');
+    expect(html).toContain("Behandelt unter anderem");
+    expect(html).toContain('"@type":"MedicalCondition"');
+  });
+
   it("renders booking CTA when bookingUrl is set", () => {
     const entryWithBooking = dataset.entries.find(
       (entry) => entry.isOpen && entry.bookingUrl,

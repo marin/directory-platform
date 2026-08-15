@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-jung-berlin-mitte-heilpraktikerin-chiropraktikerin",
   "name": "Naturheilpraxis Jung Berlin Mitte Heilpraktikerin Chiropraktikerin",
   "description": "In der Naturheilpraxis Jung in Berlin Mitte bietet Heilpraktikerin Claudia Jung eine ganzheitliche Betrachtung gesundheitlicher Beschwerden. Die Praxis kombiniert naturwissenschaftlich fundierte Diagnostik mit naturheilkundlichen Behandlungen, darunter Akupunktur, Homöopathie und Chiropraktik. Ziel ist es, individuelle Therapieansätze zu entwickeln, die auf die Bedürfnisse der Patienten abgestimmt sind. Weitere Angebote umfassen Mikroimmuntherapie, Infusionstherapie und Schmerztherapien.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Gormannstraße 18 A",

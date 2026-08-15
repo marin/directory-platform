@@ -3,7 +3,7 @@
   "slug": "steffi-krause-heilpraktikerin-fur-psychotherapie-praxis-fur-hypnose-yager-code-b",
   "name": "Steffi Krause, Heilpraktikerin für Psychotherapie, Praxis für Hypnose & Yager-Code Berlin",
   "description": "Steffi Krause ist Heilpraktikerin für Psychotherapie und bietet in ihrer Praxis in Berlin Hypnosetherapie sowie die Yager-Code-Therapie an. Ihr Ansatz richtet sich an Menschen mit psychischen und psychosomatischen Problemen, wie Ängsten, Essstörungen und chronischen Schmerzen. Durch gezielte Methoden unterstützt sie ihre Klienten dabei, emotionale Blockaden zu lösen und ein selbstbestimmtes Leben zu führen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Haeckelstraße 11",

@@ -3,7 +3,7 @@
   "slug": "akupunktur-berlin-kreuzberg-dagmar-amtmann",
   "name": "Akupunktur Berlin Kreuzberg Dagmar Amtmann",
   "description": "Dagmar Amtmann ist eine erfahrene Heilpraktikerin in Berlin-Kreuzberg, spezialisiert auf Akupunktur und Traditionelle Chinesische Medizin (TCM). Ihre Praxis bietet individuelle Behandlungen in einem geschützten Rahmen, um eine vertrauensvolle Atmosphäre zu schaffen. Neben Akupunktur umfasst ihr Therapieangebot auch Schmerztherapie, Heilkräuteranwendungen und verschiedene naturheilkundliche Methoden zur Unterstützung bei einer Vielzahl von Beschwerden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,12 @@
   ],
   "areaIds": [
     "friedrichshain-kreuzberg"
+  ],
+  "indicationIds": [
+    "allergien",
+    "darm",
+    "schlafstoerungen",
+    "ruecken"
   ],
   "address": {
     "street": "Nostitzstraße 15",

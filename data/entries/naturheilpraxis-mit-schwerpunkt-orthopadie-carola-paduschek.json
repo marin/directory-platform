@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-mit-schwerpunkt-orthopadie-carola-paduschek",
   "name": "Naturheilpraxis mit Schwerpunkt Orthopädie - Carola Paduschek",
   "description": "Die Naturheilpraxis von Carola Paduschek in Berlin-Pankow spezialisiert sich auf die Behandlung von orthopädischen Beschwerden, insbesondere Rückenschmerzen und deren funktionellen Ursachen. Durch eine Kombination aus chiropraktischen Techniken und modifizierter Neuraltherapie werden Verspannungen gelöst und die Beweglichkeit der Gelenke verbessert. Die Praxis nutzt sowohl schulmedizinische als auch fernöstliche Behandlungsmethoden, um eine nachhaltige Schmerzlinderung zu erreichen. Aktuell bleibt die Praxis aus gesundheitlichen Gründen geschlossen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "ruecken"
   ],
   "address": {
     "street": "Hufelandstraße 32",
@@ -26,6 +29,9 @@
   "phone": "03040577360",
   "email": "info@carola-paduschek.de",
   "website": "http://www.carola-paduschek.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc1F8cA5OqEcREXNUq-IGPfk",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 8,
   "openingHours": [
     {
       "day": "Monday",
@@ -66,8 +72,5 @@
       "question": "Ist die Praxis derzeit geöffnet?",
       "answer": "Die Praxis bleibt aus gesundheitlichen Gründen vorerst geschlossen. Interessierte können sich per E-Mail über den aktuellen Status zur Wiedereröffnung informieren."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJc1F8cA5OqEcREXNUq-IGPfk",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 8
+  ]
 }

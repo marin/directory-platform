@@ -3,13 +3,18 @@
   "slug": "naturheilpraxis-dr-phil-elke-meergans",
   "name": "Naturheilpraxis Dr. phil. Elke Meergans",
   "description": "In der Naturheilpraxis Dr. phil. Elke Meergans in Berlin werden verschiedene traditionelle und moderne ganzheitliche Therapien angeboten, mit einem Schwerpunkt auf Schwingungsmedizin. Zu den Behandlungsschwerpunkten zählen unter anderem Unverträglichkeiten, Darmprobleme, Frauengesundheit, Burnout sowie Erkrankungen des Bewegungsapparates. Die Praxis verfolgt einen ursachenorientierten Therapieansatz und bietet individuelle Diagnosen und Therapien an, um die Gesundheit der Patienten ganzheitlich zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "mitte"
+  ],
+  "indicationIds": [
+    "allergien",
+    "burnout",
+    "wechseljahre"
   ],
   "address": {
     "street": "Christinenstraße 7",

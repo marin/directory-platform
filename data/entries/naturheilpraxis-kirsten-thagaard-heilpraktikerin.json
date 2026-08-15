@@ -3,13 +3,16 @@
   "slug": "naturheilpraxis-kirsten-thagaard-heilpraktikerin",
   "name": "Naturheilpraxis Kirsten Thagaard, Heilpraktikerin",
   "description": "Die Naturheilpraxis Kirsten Thagaard befindet sich in Berlin Zehlendorf und bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Zu den Leistungen zählen unter anderem ganzheitliche Laboranalysen, Sauerstofftherapie, Vitamin-Infusionen, Colon-Hydro Therapie, Stoffwechseltherapie und Bioresonanz. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Gesundheitsförderung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "darm"
   ],
   "address": {
     "street": "Fischerhüttenstraße 83",

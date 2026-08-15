@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde",
   "name": "Naturheilpraxis Lebensweise - Heilpraktikerin Nicola Cordes Frauenheilkunde",
   "description": "In der Naturheilpraxis Lebensweise in Berlin-Pankow bietet Heilpraktikerin Nicola Cordes eine umfassende Betreuung für Frauen in verschiedenen Lebensphasen. Mit einem Fokus auf Homöopathie, Pflanzenheilkunde und systemischer Therapie unterstützt sie ihre Klientinnen bei Themen wie Regelschmerzen, Kinderwunsch, Wechseljahre und psychischen Belastungen. Die Praxis schafft einen geschützten Raum, um individuelle Herausforderungen zu besprechen und gemeinsam neue Wege zu entdecken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,12 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "burnout",
+    "kinderwunsch",
+    "wechseljahre",
+    "zyklus-hormone"
   ],
   "address": {
     "street": "Marienburger Str. 5A",

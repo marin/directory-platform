@@ -3,13 +3,16 @@
   "slug": "barbara-naur-heilpraktikerin-coaching-malama-praxis-fur-regenerative-lebensenerg",
   "name": "Barbara Naur - Heilpraktikerin Coaching - Malama_Praxis für regenerative Lebensenergie",
   "description": "Barbara Naur ist Heilpraktikerin in Berlin-Wilmersdorf und bietet in ihrer Praxis \"Malama - Praxis für regenerative Lebensenergie\" eine Vielzahl von naturheilkundlichen Behandlungen an. Ihr Schwerpunkt liegt auf Shiatsu, Körperpsychotherapie und Akupunktur, um Klienten bei der Bewältigung von Stress, Erschöpfung und körperlichen Beschwerden zu unterstützen. Durch individuelle Therapieansätze fördert sie das Wohlbefinden und die Selbstwahrnehmung ihrer Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "burnout"
   ],
   "address": {
     "street": "Holsteinische Str. 1",

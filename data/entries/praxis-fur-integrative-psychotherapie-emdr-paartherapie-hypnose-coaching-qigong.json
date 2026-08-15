@@ -3,7 +3,7 @@
   "slug": "praxis-fur-integrative-psychotherapie-emdr-paartherapie-hypnose-coaching-qigong",
   "name": "Praxis für Integrative Psychotherapie • EMDR • Paartherapie • Hypnose • Coaching • Qigong",
   "description": "Die Praxis für Integrative Psychotherapie von Astrid Pogrzeba in Berlin-Köpenick bietet professionelle Unterstützung in verschiedenen Bereichen der psychischen Gesundheit, darunter EMDR-Traumatherapie, Hypnose, Paartherapie und Qigong. Die Heilpraktikerin für Psychotherapie begleitet ihre Klienten auf ihrem individuellen Weg zu gewünschten Veränderungen und hilft bei Themen wie Angst- und Panikstörungen, Depressionen, Stress sowie psychosomatischen Beschwerden. Ein kostenloses Erstgespräch ist möglich, um die passende Unterstützung zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "treptow-koepenick"
+  ],
+  "indicationIds": [
+    "depression"
   ],
   "address": {
     "street": "Scharnweberstraße 25",

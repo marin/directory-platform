@@ -3,7 +3,7 @@
   "slug": "artemisia-heilpraxis-heilpraktiker-in-berlin-pankow-u-a-darmsanierung-schropfen-",
   "name": "Artemisia Heilpraxis - Heilpraktiker in Berlin/Pankow [u.a. Darmsanierung, Schröpfen, Blutegeltherapie]",
   "description": "Artemisia Heilpraxis - Heilpraktiker in Berlin/Pankow [u.a. Darmsanierung, Schröpfen, Blutegeltherapie] ist ein Heilpraktiker in Berlin mit Schwerpunkt homoeopathie. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,10 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "darm",
+    "migraene"
   ],
   "address": {
     "street": "Florastraße 43",
@@ -26,6 +30,9 @@
   },
   "phone": "03062933311",
   "website": "http://www.artemisia-heilpraxis.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=kontakt-link",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJyUH23w1TqEcRECftab3FL4Q",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -123,8 +130,5 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJyUH23w1TqEcRECftab3FL4Q",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 18
+  "faq": []
 }

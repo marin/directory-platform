@@ -3,7 +3,7 @@
   "slug": "carolin-leidecker-heilpraktikerin-fur-bioresonanztherapie-und-akupunktur",
   "name": "Carolin Leidecker Heilpraktikerin für Bioresonanztherapie und Akupunktur",
   "description": "Carolin Leidecker ist Heilpraktikerin für Bioresonanztherapie und Akupunktur in Berlin, spezialisiert auf die Behandlung von Schilddrüsenerkrankungen und Hormonstörungen. In ihrer Praxis kombiniert sie naturheilkundliche Verfahren mit individuellen Entgiftungskonzepten, um die Leberfunktion zu unterstützen und die Selbstheilungskräfte des Körpers zu aktivieren. Ihr Ziel ist es, für jede Patientin und jeden Patienten ein ganzheitliches und auf ihre speziellen Bedürfnisse abgestimmtes Behandlungskonzept zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "pankow"
+  ],
+  "indicationIds": [
+    "allergien"
   ],
   "address": {
     "street": "Metzer Str. 40",

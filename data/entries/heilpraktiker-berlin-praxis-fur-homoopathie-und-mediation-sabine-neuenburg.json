@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-berlin-praxis-fur-homoopathie-und-mediation-sabine-neuenburg",
   "name": "Heilpraktiker Berlin | Praxis für Homöopathie und Mediation | Sabine Neuenburg",
   "description": "Sabine Neuenburg ist eine erfahrene Heilpraktikerin in Berlin Charlottenburg, die sich auf Homöopathie und Mediation spezialisiert hat. In ihrer Praxis bietet sie individuelle Behandlungen an, die auf die Bedürfnisse ihrer Klienten abgestimmt sind, und legt besonderen Wert auf die psychologischen Aspekte der Heilung. Zu ihren Angeboten zählen unter anderem Familienaufstellungen, intuitives Malen und Paarmediation.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -11,6 +11,9 @@
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "wechseljahre"
   ],
   "address": {
     "street": "Schillerstraße 40",

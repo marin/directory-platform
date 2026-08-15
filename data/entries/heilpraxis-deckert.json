@@ -3,13 +3,17 @@
   "slug": "heilpraxis-deckert",
   "name": "Heilpraxis Deckert",
   "description": "Die Heilpraxis Deckert in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Chinesische Medizin, Homöopathie, Phytotherapie und Blutegel-Therapie. Schwerpunkte der Praxis sind die Behandlung von unerfülltem Kinderwunsch, gynäkologischen Störungen sowie Beschwerden wie Migräne und Rückenprobleme. Tamara Deckert, die Heilpraktikerin, legt großen Wert auf eine ganzheitliche Betreuung ihrer Patienten und kombiniert westliche und asiatische Heilmethoden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
   ],
   "areaIds": [
     "charlottenburg-wilmersdorf"
+  ],
+  "indicationIds": [
+    "migraene",
+    "kinderwunsch"
   ],
   "address": {
     "street": "Witzlebenstraße 15",

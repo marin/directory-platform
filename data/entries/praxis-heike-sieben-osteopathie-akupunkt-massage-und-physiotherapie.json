@@ -3,7 +3,7 @@
   "slug": "praxis-heike-sieben-osteopathie-akupunkt-massage-und-physiotherapie",
   "name": "Praxis Heike Sieben, Osteopathie, Akupunkt-Massage und Physiotherapie",
   "description": "In der Praxis Heike Sieben in Berlin-Tegel werden umfassende Behandlungen in den Bereichen Osteopathie, Akupunkt-Massage nach Penzel und Physiotherapie angeboten. Die Heilpraktikerin Heike Sieben legt besonderen Wert auf die Aktivierung der Selbstheilungskräfte des Körpers und die ganzheitliche Behandlung von Beschwerden. Neben der klassischen Physiotherapie werden auch spezialisierte Therapien wie die Skoliosetherapie nach Schroth angeboten, die sowohl für Kinder als auch für Erwachsene geeignet ist.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,9 @@
   ],
   "areaIds": [
     "spandau"
+  ],
+  "indicationIds": [
+    "migraene"
   ],
   "address": {
     "street": "Alt-Tegel 16",

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-christiana-purol",
   "name": "Naturheilpraxis Christiana Purol",
   "description": "Die Naturheilpraxis Christiana Purol in Berlin bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Akupunktur, Dorntherapie und Mesotherapie. Die Praxis legt besonderen Wert auf eine individuelle Patientenbetreuung und betrachtet jeden Patienten in seiner Ganzheit. Zu den Behandlungsschwerpunkten zählen Atemwegserkrankungen, Hauterkrankungen sowie Erkrankungen des Stütz- und Bewegungssystems.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -11,6 +11,11 @@
   ],
   "areaIds": [
     "steglitz-zehlendorf"
+  ],
+  "indicationIds": [
+    "darm",
+    "hautprobleme",
+    "wechseljahre"
   ],
   "address": {
     "street": "Wismarer Str. 44",
