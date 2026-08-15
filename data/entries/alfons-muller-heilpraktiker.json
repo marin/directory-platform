@@ -3,7 +3,7 @@
   "slug": "alfons-muller-heilpraktiker",
   "name": "Alfons Müller, Heilpraktiker",
   "description": "Alfons Müller ist ein erfahrener Heilpraktiker in Berlin, spezialisiert auf die Traditionelle Chinesische Medizin (TCM). In seiner Praxis in der Wiesbadener Str. 24 bietet er individuelle Therapiekonzepte an, die auf einer ganzheitlichen Betrachtung der Gesundheit basieren. Zu seinen Behandlungsmethoden gehören Akupunktur und Phytotherapie, die darauf abzielen, den freien Fluss der Lebensenergie wiederherzustellen und die Lebensqualität seiner Patienten zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wiesbadener Str. 24",
     "locality": "Berlin",
@@ -104,24 +105,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsansätze bietet Alfons Müller an?",
-      "answer": "Alfons Müller spezialisiert sich auf die Traditionelle Chinesische Medizin (TCM), einschließlich Phytotherapie und Akupunktur, um chronische und akute Erkrankungen zu behandeln."
+      "question": "Was kostet der Ersttermin bei Alfons Müller, Heilpraktiker?",
+      "answer": "Der Ersttermin kostet 70 € für die Schmerztherapie und 120 € für die TCM-Ernstanamnese und Akupunktur."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Praxis von Alfons Müller?",
-      "answer": "Die Praxis ist von Montag bis Freitag geöffnet, jeweils von 09:00 bis 13:00 Uhr und von 14:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Alfons Müller?",
-      "answer": "Die Praxis befindet sich in der Wiesbadener Str. 24, 14197 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Alfons Müller buchen?",
-      "answer": "Sie können einen Termin über die Website jameda.de buchen."
-    },
-    {
-      "question": "Welche Zahlungsmethoden akzeptiert Alfons Müller?",
-      "answer": "Es werden private Besuche angeboten, die Zahlungsmodalitäten können direkt mit der Praxis besprochen werden."
+      "question": "Werden die Kosten für Selbstzahler:innen erstattet?",
+      "answer": "Die Praxis stellt nach dem Termin eine detaillierte Rechnung aus, in der eventuelle Vorauszahlungen als Guthaben ausgewiesen sind."
     }
   ]
 }

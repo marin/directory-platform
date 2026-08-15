@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-christine-drieske",
   "name": "Heilpraktikerin Christine Drieske",
   "description": "Heilpraktikerin Christine Drieske bietet in ihrer Praxis in Berlin-Schöneberg umfassende Schmerztherapie und Physiotherapie an. Seit 1992 behandelt sie sowohl akute als auch chronische Schmerzen sowie orthopädische, chirurgische und neurologische Erkrankungen. Ihr ganzheitlicher Ansatz umfasst eine ausführliche Anamnese und individuell abgestimmte Therapiepläne, die klassische und alternative Behandlungsmethoden wie Akupunktur, Schröpfen und Faszientherapie kombinieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Innsbrucker Str. 2",
     "locality": "Berlin",
@@ -71,24 +72,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsschwerpunkte hat Heilpraktikerin Christine Drieske?",
-      "answer": "Die Behandlungsschwerpunkte liegen auf akuten und chronischen Störungen des gesamten Bewegungsapparates, Organbeschwerden aufgrund von Störungen des Energieflusses sowie Störfeldbehandlungen mit Neuraltherapie und Akupunktur."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Christine Drieske vereinbaren?",
-      "answer": "Termine können telefonisch unter der Nummer 0176 5514 9760 oder persönlich vereinbart werden."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis von Christine Drieske?",
-      "answer": "Die Öffnungszeiten sind Montag von 09:00 bis 18:00 Uhr, Dienstag von 08:00 bis 15:00 Uhr, Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 08:00 bis 15:00 Uhr und Freitag von 08:00 bis 13:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Christine Drieske?",
-      "answer": "Die Praxis befindet sich in der Innsbrucker Str. 2, 10825 Berlin."
-    },
-    {
-      "question": "Welche Therapieformen bietet Christine Drieske an?",
-      "answer": "Christine Drieske bietet verschiedene Therapieformen an, darunter Chiropraktik, Mesotherapie, manuelle Therapie, Kinesiotape, Akupunktur, Schröpfen, cranio-sakrale Therapie, Neuraltherapie und viele weitere."
+      "question": "Wie läuft der Ersttermin bei Heilpraktikerin Christine Drieske ab?",
+      "answer": "Der Patient steht in seiner Gesamt­heit im Mittel­punkt der Behand­lung. Es erfolgt eine aus­führliche Anamnese und die Erarbeitung eines individuell abgestimmten therapeutischen Konzepts."
     }
   ]
 }

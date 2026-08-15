@@ -3,7 +3,7 @@
   "slug": "reinhard-clemens-heilpraktiker",
   "name": "Reinhard Clemens| Heilpraktiker",
   "description": "Ich bin leidenschaftlicher Heilpraktiker und studierter Pädagoge (B.A.). Ich wurde am 14. Dezember 1973 in Saarburg, Rheinland-Pfalz, geboren. Neben meiner Praxistätigkeit in ganzheitlicher Medizin war ich viele Jahre in der Aus- und Weiterbildung im Gesundheitswesen sowie als Seminarleiter in der betrieblichen Gesundheitsbildung tätig. Seit 2017 habe ich meine Dozententätigkeit beendet und widme mich vollständig meinen Patienten und meiner Praxis. Vereinzelt halte ich Vorträge auf Fachkongressen und nehme als Interviewpartner bei Online-Kongressen teil. 2024 habe ich mein erstes Buch herausgebracht. Wenn ich die Zeit finde, schreibe ich Fachartikel und teile mein Wissen auf Social Media. Ich arbeite als Heilpraktiker für funktionelle Medizin in Berlin-Schöneberg mit dem Schwerpunkt auf laborgestützter Diagnostik, Mikronährstoffmedizin und mitochondrialer Therapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Lokdepot 9",
     "locality": "Berlin",
@@ -81,5 +82,10 @@
     "/images/entries/reinhard-clemens-heilpraktiker/3.webp",
     "/images/entries/reinhard-clemens-heilpraktiker/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Du lernst, wie Du langfristig gesund, leistungsstark und erfüllt leben kannst."
+    }
+  ]
 }

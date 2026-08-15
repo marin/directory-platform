@@ -3,7 +3,7 @@
   "slug": "wiebke-kossecki-heilpraktikerin-fur-psychotherapie",
   "name": "Wiebke Kossecki, Heilpraktikerin für Psychotherapie",
   "description": "Wiebke Kossecki ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet professionelle und einfühlsame Unterstützung in der psychologischen Beratung und Psychotherapie an, mit Schwerpunkten in der Einzel- und Paarberatung sowie Biografiearbeit und Life-Coaching. Ziel ihrer Arbeit ist es, gemeinsam mit den Klienten Lösungsmöglichkeiten und Perspektiven zu erarbeiten, um mehr Zufriedenheit und Lebensfreude zu erreichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Uhlandstraße 145",
     "locality": "Berlin",
@@ -53,24 +54,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Wiebke Kossecki an?",
-      "answer": "Wiebke Kossecki bietet Einzelberatung, Paarberatung, Biografiearbeit, Life-Coaching und Lebensrückblicks-Gespräche an."
+      "question": "Wie lange dauert ein Erstgespräch bei Wiebke Kossecki?",
+      "answer": "Das Erstgespräch dauert ca. 30 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Wiebke Kossecki buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Wiebke Kossecki buchen, indem Sie die Kontaktseite besuchen: https://www.wiebke-kossecki.de/kontakt/."
+      "question": "Wie lange dauert eine Einzelberatung?",
+      "answer": "Eine Einzelberatung dauert 60 Minuten."
     },
     {
-      "question": "Wo befindet sich die Praxis von Wiebke Kossecki?",
-      "answer": "Die Praxis von Wiebke Kossecki befindet sich in der Uhlandstraße 145, 10719 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Sitzung?",
-      "answer": "Die Kosten für eine Sitzung betragen 100,-€ für 60 Minuten und 225,-€ für eine Paarberatung von 90 Minuten."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Öffnungszeiten sind nicht angegeben, jedoch werden Termine nach 18 Uhr und am Wochenende angeboten."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Behandlung?",
+      "answer": "Die Kosten für Heilpraktikerbehandlungen werden in der Regel nicht von den gesetzlichen Krankenkassen übernommen, können aber steuerlich abgesetzt werden."
     }
   ]
 }

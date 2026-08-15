@@ -74,24 +74,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Schwerpunkte hat die Praxis Health within?",
-      "answer": "Die Praxis Health within hat Schwerpunkte in der Darmgesundheit, Stoffwechselstörungen und Nährstofftherapie."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags von 15:00 bis 20:00 Uhr und freitags von 08:00 bis 13:30 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis per E-Mail unter mail@health-within.com kontaktieren."
-    },
-    {
-      "question": "Bietet die Praxis ein kostenloses Vorgespräch an?",
-      "answer": "Ja, die Praxis bietet ein kostenloses Vorgespräch von 10 Minuten an, das über die Buchungsseite auf Doctolib vereinbart werden kann."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Eine ausführliche Erstanamnese ist die Grundlage für die maßgeschneiderte Gestaltung wirkungsvoller therapeutischer Interventionen. Der gesamte Prozess nimmt üblicherweise 60 bis 90 Minuten in Anspruch."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "jessica-dittrich-praxis-fur-beziehungs-und-sexualtherapie-paartherapie-hypnose-h",
   "name": "Jessica Dittrich | Praxis für Beziehungs - und Sexualtherapie | Paartherapie | Hypnose | Heilpraktikerin für Psychotherapie",
   "description": "Jessica Dittrich ist Heilpraktikerin für Psychotherapie und bietet in ihrer Praxis in Berlin eine Vielzahl von Therapieansätzen an, darunter Beziehungs- und Sexualtherapie sowie Hypnosetherapie. Ihr ganzheitlicher, individueller und wertschätzender Ansatz richtet sich an Paare und Einzelpersonen, die Unterstützung bei Themen wie Kommunikation, sexuelle Unzufriedenheit und Identitätsfragen suchen. In einem offenen und sicheren Raum sind alle Lebensformen und sexuellen Orientierungen willkommen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Beckerstraße 2",
     "locality": "Berlin",
@@ -116,24 +117,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet Jessica Dittrich an?",
-      "answer": "Jessica Dittrich bietet Beziehungs- und Sexualtherapie, Paartherapie sowie Hypnosetherapie an."
+      "question": "Was passiert im Ersttermin bei Jessica Dittrich?",
+      "answer": "Zu Beginn vereinbaren wir ein Erstgespräch, in dem wir Ihr Anliegen, Ihre aktuellen Schwierigkeiten und Ihre Wünsche an die Therapie klären. Hier können Sie mich und meine Arbeitsweise kennenlernen."
     },
     {
-      "question": "Wo befindet sich die Praxis von Jessica Dittrich?",
-      "answer": "Die Praxis befindet sich in der Beckerstraße 2, 12157 Berlin, im Stadtteil Tempelhof-Schöneberg."
+      "question": "Wie lange dauert eine Sitzung in der Praxis?",
+      "answer": "Die Einzeltherapie dauert 60 Minuten, die Paartherapie 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Jessica Dittrich buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link buchen: https://doctolib.de/heilpraktiker-fur-psychotherapie/berlin/jessica-dittrich-berlin?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Dienstag von 10:00 bis 16:00 Uhr, Mittwoch von 15:00 bis 19:00 Uhr, Donnerstag von 16:30 bis 20:30 Uhr und Freitag von 08:00 bis 15:00 Uhr."
-    },
-    {
-      "question": "An wen richtet sich das Angebot von Jessica Dittrich?",
-      "answer": "Das Angebot richtet sich an alle, unabhängig von sexueller Orientierung, Beziehungsform oder Lebensweise, einschließlich heterosexueller und queerer Paare sowie neurodiversen Personen."
+      "question": "Werden die Kosten für die Therapie von den Krankenkassen übernommen?",
+      "answer": "Meine Leistungen werden nicht von den gesetzlichen Krankenkassen übernommen. Dies hat jedoch den Vorteil, dass die Sitzungen diskret durchgeführt werden können."
     }
   ]
 }

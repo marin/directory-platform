@@ -42,26 +42,5 @@
     "/images/entries/heilpraxis-deckert/3.webp",
     "/images/entries/heilpraxis-deckert/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis Deckert?",
-      "answer": "Die Heilpraxis Deckert befindet sich in der Witzlebenstraße 15, 14057 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Welche Therapien bietet die Heilpraxis Deckert an?",
-      "answer": "Die Heilpraxis Deckert bietet verschiedene Therapien an, darunter Chinesische Medizin, Homöopathie, Phytotherapie, Lymphdrainage, Blutegel-Therapie, Massage und Thailändische Physiotherapie."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Deckert buchen?",
-      "answer": "Sie können einen Termin in der Heilpraxis Deckert über die Webseite unter folgendem Link buchen: http://www.heilverfahren-berlin.de/heilpraxis/termine_und_vereinbarungen.html."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Deckert kontaktieren?",
-      "answer": "Sie können die Heilpraxis Deckert telefonisch unter 03033008640 oder per E-Mail an kontakt@heilverfahren-berlin.de kontaktieren."
-    },
-    {
-      "question": "Gibt es Informationen über die Öffnungszeiten der Heilpraxis Deckert?",
-      "answer": "Im aktuellen Kontext sind keine spezifischen Öffnungszeiten für die Heilpraxis Deckert angegeben."
-    }
-  ]
+  "faq": []
 }

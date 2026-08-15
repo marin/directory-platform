@@ -3,7 +3,7 @@
   "slug": "ulla-blum-heilpraktikerin",
   "name": "Ulla Blum - Heilpraktikerin",
   "description": "Ulla Blum ist eine erfahrene Heilpraktikerin in Berlin-Charlottenburg, die sich auf Akupunktur und Traditionelle Chinesische Medizin (TCM) spezialisiert hat. Neben ihrer Praxistätigkeit bietet sie auch Qigong-Aus- und Weiterbildungen an, die sowohl theoretische als auch praktische Aspekte umfassen. Ulla Blum ist Mitglied in verschiedenen Berufsverbänden, darunter der DH Fachverband Deutscher Heilpraktiker und die AGTCM.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Leibnizstraße 33",
     "locality": "Berlin",
@@ -35,22 +36,5 @@
     "/images/entries/ulla-blum-heilpraktikerin/0.webp",
     "/images/entries/ulla-blum-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Ulla Blum?",
-      "answer": "Die Praxis von Ulla Blum befindet sich in der Leibnizstraße 33, 10625 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Ulla Blum an?",
-      "answer": "Ulla Blum bietet Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich Ulla Blum kontaktieren?",
-      "answer": "Sie können Ulla Blum telefonisch unter 03031807808 oder per E-Mail an tcm.qigong@ulla-blum.de kontaktieren."
-    },
-    {
-      "question": "Bietet Ulla Blum auch Qigong-Kurse an?",
-      "answer": "Ja, Ulla Blum bietet wöchentliche Qigong-Kurse in Charlottenburg und an der Berliner VHS an."
-    }
-  ]
+  "faq": []
 }

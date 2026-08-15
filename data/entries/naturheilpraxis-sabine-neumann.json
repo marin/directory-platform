@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-sabine-neumann",
   "name": "Naturheilpraxis Sabine Neumann",
   "description": "In der Naturheilpraxis Sabine Neumann in Berlin-Charlottenburg-Wilmersdorf stehen ganzheitliche Gesundheitsansätze im Mittelpunkt. Die Praxis bietet individuelle Therapien, die auf die speziellen Bedürfnisse der Patienten abgestimmt sind, einschließlich Homöopathie, Akupunktur, Phytotherapie und Ernährungsberatung. Ziel ist es, das Wohlbefinden durch natürliche Heilmethoden nachhaltig zu steigern und die Selbstheilungskräfte des Körpers zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Contessaweg 36",
     "locality": "Berlin",
@@ -60,20 +61,16 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Behandlungen bieten Sie an?",
-      "answer": "Wir bieten Homöopathie, Akupunktur, Phytotherapie und Ernährungsberatung an."
+      "question": "Wie läuft der Ersttermin in der Naturheilpraxis Sabine Neumann ab?",
+      "answer": "Im Erstgespräch analysieren wir Ihre Krankengeschichte, Lebensgewohnheiten und emotionalen Zustand. Darauf basierend entwickeln wir Ihr persönliches Therapieprogramm."
     },
     {
-      "question": "Wie lange dauert eine Behandlung?",
+      "question": "Wie lange dauert eine Behandlung in der Naturheilpraxis Sabine Neumann?",
       "answer": "Die Dauer der Behandlung variiert je nach Methode und individuellen Bedürfnissen. In der Regel zwischen 30 und 90 Minuten."
     },
     {
-      "question": "Sind die Therapien auch für Kinder geeignet?",
-      "answer": "Ja, viele unserer Behandlungsmethoden sind auch für Kinder geeignet. Sprechen Sie uns an für weitere Informationen."
-    },
-    {
-      "question": "Brauche ich eine Überweisung vom Arzt?",
-      "answer": "Nein, für unsere naturheilkundlichen Behandlungen benötigen Sie keine Überweisung."
+      "question": "Sind die Therapien in der Naturheilpraxis Sabine Neumann auch für Kinder geeignet?",
+      "answer": "Ja, viele unserer Behandlungsmethoden sind auch für Kinder geeignet."
     }
   ]
 }

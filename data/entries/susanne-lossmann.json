@@ -3,7 +3,7 @@
   "slug": "susanne-lossmann",
   "name": "Susanne Loßmann",
   "description": "Die Praxis von Susanne Loßmann in Berlin-Charlottenburg bietet eine Anlaufstelle für Alternativmedizin und ganzheitliche Behandlungen. Hier stehen individuelle, ressourcenorientierte Ansätze im Vordergrund, um körperliche und seelische Beschwerden zu lindern. Die Schwerpunkte liegen auf sanfter Körperarbeit und therapeutischen Maßnahmen zur Stabilisierung des Wohlbefindens. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und persönliche Betreuung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dernburgstraße 59",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03064499660",
   "website": "http://susannelossmann.info/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6Tfe7kZWqEcRaHqMVUcRV64",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -56,29 +60,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Susanne Loßmann?",
-      "answer": "Die Praxis von Susanne Loßmann befindet sich in der Dernburgstraße 59, 14057 Berlin, Deutschland."
-    },
-    {
-      "question": "Welche Behandlungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet Behandlungen an, die auf Entspannung, Schmerzlinderung und psychischem Ausgleich abzielen, darunter sanfte Körpertherapien und Massagen, die auf individuelle Bedürfnisse abgestimmt sind."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Interessierte können einen Termin vereinbaren, indem sie die Praxis direkt kontaktieren. Die Telefonnummer lautet 03064499660."
-    },
-    {
-      "question": "Welche Schwerpunkte hat die Praxis von Susanne Loßmann?",
-      "answer": "Die Schwerpunkte der Praxis liegen auf ganzheitlichen Behandlungen, die körperliches und geistiges Gleichgewicht fördern, sowie auf sanfter Körperarbeit und begleitenden therapeutischen Maßnahmen zur Stabilisierung von Körper und Psyche."
-    },
-    {
-      "question": "Was berichten Kunden über ihre Erfahrungen in der Praxis?",
-      "answer": "Kunden berichten von einer schnellen Terminvergabe und spürbaren Verbesserungen ihrer Befindlichkeit. Viele schätzen die fachliche Kompetenz und die freundliche, engagierte Betreuung der Behandlerin."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ6Tfe7kZWqEcRaHqMVUcRV64",
-  "googleMapsRating": 3.7,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-kirsten-kaufmann",
   "name": "Heilpraktikerin Kirsten Kaufmann",
   "description": "Heilpraktikerin Kirsten Kaufmann bietet in ihrer Naturheilpraxis in Berlin Wilmersdorf-Charlottenburg umfassende Unterstützung zur Entwicklung und Erhaltung von Vitalität und Wohlbefinden. Zu ihren Behandlungsschwerpunkten zählen die Linderung akuter und chronischer Schmerzen, die Verbesserung funktioneller und allergischer Beschwerden sowie der Ausgleich von Erschöpfungszuständen und Stress-Symptomen. Weitere Angebote umfassen die Behandlung von Menstruationsstörungen und die Förderung von Beweglichkeit und Körperbewusstsein.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ettaler Str. 12",
     "locality": "Berlin",
@@ -94,24 +95,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Heilpraktikerin Kirsten Kaufmann an?",
-      "answer": "Heilpraktikerin Kirsten Kaufmann bietet Behandlungen zur Entwicklung und Erhalt von Vitalität und Wohlbefinden, zur Linderung akuter und chronischer Schmerzen, zur Verbesserung funktioneller und allergischer Beschwerden, zum Abbau von Menstruationsstörungen und anderen Frauenthemen sowie zum Ausgleich von Erschöpfungszuständen und Stress-Symptomen an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Kirsten Kaufmann?",
-      "answer": "Die Praxis von Kirsten Kaufmann befindet sich in der Ettaler Str. 12, 10777 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist dienstags bis freitags von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 0170 8306375."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis per E-Mail unter info@die-akupunktur-praxis.de oder telefonisch unter 0170 8306375 kontaktieren."
+      "question": "Übernehmen die Krankenkassen die Kosten?",
+      "answer": "Heilpraktiker-Leistungen werden nicht von den gesetzlichen Krankenkassen übernommen."
     }
   ]
 }

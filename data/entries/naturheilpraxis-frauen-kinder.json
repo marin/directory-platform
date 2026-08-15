@@ -61,26 +61,5 @@
   "images": [
     "/images/entries/naturheilpraxis-frauen-kinder/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Frauen & Kinder?",
-      "answer": "Die Naturheilpraxis Frauen & Kinder befindet sich in der Otto-Nagel-Straße 122, 12683 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis an?",
-      "answer": "Die Naturheilpraxis Frauen & Kinder bietet naturheilkundliche Behandlungen an, die sich auf Frauen und Kinder konzentrieren."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Frauen & Kinder telefonisch unter 03023938221 erreichen oder die Website unter https://naturheilpraxis-frauen-und-kinder.de/ besuchen."
-    },
-    {
-      "question": "Welche Zielgruppen werden in der Praxis angesprochen?",
-      "answer": "In der Naturheilpraxis Frauen & Kinder werden insbesondere Frauen und Kinder angesprochen, die Unterstützung in verschiedenen gesundheitlichen Belangen suchen."
-    }
-  ]
+  "faq": []
 }

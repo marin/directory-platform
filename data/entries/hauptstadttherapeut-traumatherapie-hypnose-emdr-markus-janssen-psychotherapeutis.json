@@ -3,7 +3,7 @@
   "slug": "hauptstadttherapeut-traumatherapie-hypnose-emdr-markus-janssen-psychotherapeutis",
   "name": "#Hauptstadttherapeut | Traumatherapie ° Hypnose, EMDR ° MARKUS JANSSEN, Psychotherapeutischer Heilpraktiker",
   "description": "Markus Janssen ist als psychotherapeutischer Heilpraktiker in Berlin tätig und bietet eine Vielzahl von Therapieansätzen an, darunter Traumatherapie, Hypnose und EMDR. In seiner Praxis legt er großen Wert auf eine individuelle und einfühlsame Begleitung seiner Klienten, um deren persönliche Bedürfnisse zu erfüllen. Neben der psychologischen Beratung unterstützt er auch bei Krisenbewältigung und Veränderungsprozessen, sowohl für Einzelpersonen als auch für Paare und Familien.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Tegel 13",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Markus Janssen an?",
-      "answer": "Markus Janssen bietet Traumatherapie, Hypnose, EMDR sowie systemisches Coaching an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Hauptstadttherapeut?",
-      "answer": "Die Praxis befindet sich in Berlin, Alt-Tegel 13, 13507 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie direkt über die Website unter https://www.hauptstadttherapeut.de/termindirekt buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Dienstag und Mittwoch von 09:00 bis 20:00 Uhr, Donnerstag von 09:00 bis 19:00 Uhr und Freitag von 09:30 bis 16:30 Uhr."
-    },
-    {
-      "question": "Wie kann ich Markus Janssen kontaktieren?",
-      "answer": "Sie können Markus Janssen telefonisch unter 03012085959 oder per E-Mail an hallo@hauptstadttherapeut.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

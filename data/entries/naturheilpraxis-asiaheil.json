@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-asiaheil",
   "name": "Naturheilpraxis 'asiaheil'",
   "description": "Die Naturheilpraxis 'asiaheil' in Berlin-Pankow bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Akupunktur, chinesische Medizin, Kräutertherapie und Hypnotherapie. Zudem werden spezielle Behandlungen wie Shonishin (Kinderakupunktur), Bioresonanztherapie und Massagen angeboten. Die Praxis legt Wert auf individuelle Therapieansätze zur Förderung der Gesundheit und des Wohlbefindens.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bornholmer Str. 73",
     "locality": "Berlin",
@@ -35,22 +36,5 @@
   "images": [
     "/images/entries/naturheilpraxis-asiaheil/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis 'asiaheil'?",
-      "answer": "Die Naturheilpraxis 'asiaheil' befindet sich in der Bornholmer Str. 73, 10439 Berlin, Deutschland."
-    },
-    {
-      "question": "Welche Therapien werden in der Naturheilpraxis 'asiaheil' angeboten?",
-      "answer": "In der Naturheilpraxis 'asiaheil' werden verschiedene Therapien angeboten, darunter Akupunktur, chinesische Medizin, Kräutertherapie, Hypnotherapie, Massagen, Bioresonanztherapie und viele weitere."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis 'asiaheil' buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis 'asiaheil' bequem über die Buchungsseite auf Treatwell buchen: Termin buchen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis 'asiaheil' kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis 'asiaheil' telefonisch unter 03044328086 oder per E-Mail an e-mail-an@asiaheil.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -116,24 +116,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet Frauke Hopf an?",
-      "answer": "Frauke Hopf bietet klassische Homöopathie, systemisches Coaching und Psychotherapie an. Ihre Praxis umfasst auch spezielle Themen wie Frauenheilkunde, hormonelle Herausforderungen und die Behandlung von Kindern."
+      "question": "Wie läuft der Ersttermin in der Heilpraxis ab?",
+      "answer": "Der Ersttermin umfasst eine individuelle Anamnese, in der akute Symptome, chronische Beschwerden und seelische Begleitung besprochen werden."
     },
     {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03061209921 oder per E-Mail an info@heilpraxis-hopf.de vereinbaren. Außerdem gibt es die Möglichkeit eines kostenfreien Kennenlerngesprächs."
+      "question": "Wie lange dauert eine Sitzung in der Heilpraxis?",
+      "answer": "Die Dauer einer Sitzung beträgt in der Regel 60 Minuten."
     },
     {
-      "question": "Wo befindet sich die Heilpraxis von Frauke Hopf?",
-      "answer": "Die Heilpraxis von Frauke Hopf befindet sich in der Graefestraße 3, 10967 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Bietet die Praxis auch Unterstützung bei Kinderwunsch an?",
-      "answer": "Ja, Frauke Hopf bietet Unterstützung bei Kinderwunsch an und betrachtet alternative Behandlungsmöglichkeiten zu Hormonbehandlungen oder künstlicher Befruchtung."
+      "question": "Bietet die Heilpraxis auch Behandlungen für Kinder an?",
+      "answer": "Ja, es wird Homöopathie für Kinder angeboten."
     }
   ]
 }

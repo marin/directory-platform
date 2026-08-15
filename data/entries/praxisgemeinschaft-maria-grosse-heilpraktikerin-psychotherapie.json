@@ -3,7 +3,7 @@
   "slug": "praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie",
   "name": "Praxisgemeinschaft Maria Große (Heilpraktikerin Psychotherapie)",
   "description": "In der Praxisgemeinschaft von Maria Große, Heilpraktikerin für Psychotherapie in Berlin-Adlershof, werden psychotherapeutische und coachingbasierte Angebote bereitgestellt. Die Schwerpunkte liegen auf ganzheitlich-integrativer Traumaarbeit, EMDR sowie systemischem Coaching. Die Praxis bietet Unterstützung für Menschen in belastenden Lebenssituationen, einschließlich Traumafolgestörungen und Sinnkrisen, und fördert individuelle Wege zu mehr Stabilität und Selbstwirksamkeit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Genossenschaftsstraße 70/2. OG",
     "locality": "Berlin",
@@ -103,26 +104,5 @@
     "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/3.webp",
     "/images/entries/praxisgemeinschaft-maria-grosse-heilpraktikerin-psychotherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxisgemeinschaft Maria Große an?",
-      "answer": "Die Praxisgemeinschaft Maria Große bietet Psychotherapie, Coaching, EMDR-Therapie sowie Beratungen für Erwachsene, Kinder, Jugendliche, Paare und Familien an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 21:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Termine können über die Website der Praxis oder direkt über den Buchungslink auf Doctolib gebucht werden."
-    },
-    {
-      "question": "Wo befindet sich die Praxisgemeinschaft Maria Große?",
-      "answer": "Die Praxis befindet sich in der Genossenschaftsstraße 70/2. OG, 12489 Berlin, im Stadtteil Adlershof."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01722882018 oder per E-Mail an maria_grosse@gmx.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

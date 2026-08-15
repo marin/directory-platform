@@ -138,26 +138,5 @@
     "/images/entries/eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde/0.webp",
     "/images/entries/eumunys-praxis-fur-komplementare-medizin-und-naturheilkunde/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis eumunys an?",
-      "answer": "Die Praxis eumunys bietet eine Vielzahl von Dienstleistungen an, darunter Prävention, Ernährungsberatung, Beratung zur Darmgesundheit, Immuntherapie, psychologische Unterstützung und Yoga. Zudem wird Hilfe bei der Ernährungsumstellung sowie Beratung zu gesundheitsschädlichen Lebensgewohnheiten angeboten."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Praxis eumunys sind von Montag bis Donnerstag von 08:00 bis 16:00 Uhr und am Freitag von 08:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis eumunys?",
-      "answer": "Die Praxis eumunys befindet sich in der Alten Jakobstraße 93, 10179 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Praxis eumunys telefonisch unter 017634201642 vereinbaren."
-    },
-    {
-      "question": "Bietet die Praxis auch Unterstützung bei psychischen Problemen an?",
-      "answer": "Ja, die Praxis eumunys bietet psychologische Unterstützung an, um eine ganzheitliche Therapie zu gewährleisten."
-    }
-  ]
+  "faq": []
 }

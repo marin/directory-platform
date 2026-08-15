@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-sarah-brussow-osteopathie",
   "name": "Heilpraktikerin Sarah Brüssow Osteopathie",
   "description": "Heilpraktikerin Sarah Brüssow bietet in ihrer Praxis in Berlin-Pankow umfassende osteopathische Behandlungen und naturheilkundliche Therapien an. Nach ihrer Ausbildung zur Physiotherapeutin an der Charité Berlin und einer Weiterbildung zur Osteopathin ist sie Mitglied im Verband freier Osteopathen. Ihr Leistungsspektrum umfasst unter anderem manuelle Techniken, spezielle Narbenbehandlungen sowie Mikronährstofftherapien.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kastanienallee 2",
     "locality": "Berlin",
@@ -52,24 +53,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Heilpraktikerin Sarah Brüssow an?",
-      "answer": "Sarah Brüssow bietet unter anderem Osteopathie, Cranio-sacral Osteopathie, spezifische Narbenbehandlungen, Lymphdrainage, sowie Injektionen von Vitaminen und medizinisch-kosmetische Behandlungen an."
+      "question": "Wie lange dauert eine Sitzung bei Heilpraktikerin Sarah Brüssow?",
+      "answer": "Eine Sitzung dauert entweder 75 Minuten, 90 Minuten oder 100 Minuten."
     },
     {
-      "question": "Wo befindet sich die Praxis von Sarah Brüssow?",
-      "answer": "Die Praxis von Sarah Brüssow befindet sich in der Kastanienallee 2, 10435 Berlin."
-    },
-    {
-      "question": "Wie kann ich Sarah Brüssow kontaktieren?",
-      "answer": "Sie können Sarah Brüssow per E-Mail unter sarah.bruessow@googlemail.com erreichen."
-    },
-    {
-      "question": "Bietet Sarah Brüssow Hausbesuche an?",
-      "answer": "Ja, Hausbesuche sind möglich, jedoch mit einem Aufpreis. Es wird empfohlen, dies im Voraus zu erfragen."
-    },
-    {
-      "question": "Sind die Behandlungen von Sarah Brüssow privat abrechenbar?",
-      "answer": "Ja, die Behandlungen sind komplementärmedizinische Angebote und können privat abgerechnet werden. Es ist ratsam, sich vorher bei der eigenen Versicherung zu erkundigen."
+      "question": "Werden die Kosten für die Behandlungen von der Krankenkasse übernommen?",
+      "answer": "Alle Behandlungen sind private Leistungen. Eine Rechnung kann erstellt werden, die von privaten Krankenversicherungen erstattet werden kann."
     }
   ]
 }

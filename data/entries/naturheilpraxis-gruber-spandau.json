@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-gruber-spandau",
   "name": "Naturheilpraxis Gruber - Spandau",
   "description": "In der Naturheilpraxis Gruber in Berlin-Spandau steht die Gesundheit der Patienten im Mittelpunkt einer ganzheitlichen Therapie. Heilpraktikerin Gabriele Gruber bietet professionelle Anwendungen, die traditionelle Naturheilkunde mit modernen Methoden verbinden, um langfristige Behandlungserfolge zu erzielen. Zu den Schwerpunkten der Praxis gehören unter anderem Schmerztherapie, biologische Krebstherapie und Umweltmedizin, wobei stets die individuelle Ursachensuche und Prävention im Vordergrund stehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Zeppelinstraße 27",
     "locality": "Berlin",
@@ -76,26 +77,5 @@
     "/images/entries/naturheilpraxis-gruber-spandau/0.webp",
     "/images/entries/naturheilpraxis-gruber-spandau/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieschwerpunkte bietet die Naturheilpraxis Gruber an?",
-      "answer": "Die Naturheilpraxis Gruber bietet verschiedene Therapieschwerpunkte an, darunter Schmerztherapie, biologische Krebstherapie, Umweltmedizin und Sub Health Coaching."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Gruber vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Gruber über die Webseite wir-sind-gesund.de vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Gruber?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Gruber sind Montag bis Mittwoch von 10:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Gruber?",
-      "answer": "Die Naturheilpraxis Gruber befindet sich in der Zeppelinstraße 27, 13583 Berlin, Spandau."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Gruber kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Gruber telefonisch unter 03039793766 oder per E-Mail an praxis@wir-sind-gesund.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

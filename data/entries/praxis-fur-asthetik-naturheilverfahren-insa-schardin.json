@@ -3,7 +3,7 @@
   "slug": "praxis-fur-asthetik-naturheilverfahren-insa-schardin",
   "name": "Praxis für Ästhetik & Naturheilverfahren Insa Schardin",
   "description": "Die Praxis für Ästhetik & Naturheilverfahren Insa Schardin befindet sich am Kurfürstendamm 137 in Berlin. Hier werden natürliche Heilmethoden und ästhetische Behandlungen angeboten, darunter Mesotherapie, Akupunktur und verschiedene naturkosmetische Verfahren. Ziel der Praxis ist es, die Gesundheit und das Wohlbefinden der Klienten zu fördern und ihnen zu einer frischen Ausstrahlung zu verhelfen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kurfürstendamm 137",
     "locality": "Berlin",
@@ -74,24 +75,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Ästhetik & Naturheilverfahren Insa Schardin?",
-      "answer": "Die Praxis befindet sich am Kurfürstendamm 137, 10711 Berlin."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin direkt über die Website buchen, indem Sie das Kontaktformular nutzen oder telefonisch unter 030 89009674 anrufen."
-    },
-    {
-      "question": "Welche Behandlungen werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden verschiedene naturheilkundliche Behandlungen angeboten, darunter Mesotherapie, Akupunktur, Carboxytherapie und viele weitere Methoden."
-    },
-    {
-      "question": "Übernimmt die Versicherung die Kosten für die Behandlungen?",
-      "answer": "Viele Privat- und Zusatzversicherungen übernehmen die Kosten für die angebotenen naturheilkundlichen Behandlungen."
+      "question": "Werden die Behandlungen von Krankenkassen übernommen?",
+      "answer": "Diese Behandlungsmethoden werden von vielen Privat– und Zusatzversicherungen übernommen."
     }
   ]
 }

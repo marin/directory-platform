@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fenske",
   "name": "Heilpraxis Fenske",
   "description": "Die Heilpraxis Fenske in Berlin bietet ein breites Spektrum an ganzheitlichen Therapien, darunter Akupunktur, Chiropraktik und verschiedene psychotherapeutische Ansätze wie Gestalttherapie und Traumatherapie. Das Team um Markus und Juliane Fenske legt großen Wert auf die Förderung des körperlichen und seelischen Wohlbefindens seiner Patienten. In einer vertrauensvollen Atmosphäre werden individuelle Behandlungskonzepte entwickelt, die sowohl vor Ort als auch digital durchgeführt werden können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Lankwitz 96",
     "locality": "Berlin",
@@ -165,22 +166,5 @@
   "images": [
     "/images/entries/heilpraxis-fenske/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Heilpraxis Fenske an?",
-      "answer": "Die Heilpraxis Fenske bietet unter anderem Gestalttherapie, Chiropraktik, Hypnose, Traumatherapie, Hormonberatung und Akupunkt-Massage an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis Fenske?",
-      "answer": "Die Öffnungszeiten der Heilpraxis Fenske sind: Montag von 10:00 bis 18:00 Uhr, Dienstag von 12:00 bis 19:00 Uhr, Mittwoch von 10:00 bis 19:00 Uhr, Donnerstag von 10:00 bis 19:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Fenske?",
-      "answer": "Die Heilpraxis Fenske befindet sich in Berlin, Alt-Lankwitz 96, 12247 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Fenske kontaktieren?",
-      "answer": "Sie können die Heilpraxis Fenske telefonisch unter 01727960577 oder per E-Mail an info@heilpraxis-fenske.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

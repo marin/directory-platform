@@ -3,7 +3,7 @@
   "slug": "wandelwege-praxis-fur-familie-und-trauma-heilpraktiker-fur-psychotherapie",
   "name": "WandelWege - Praxis für Familie und Trauma - Heilpraktiker für Psychotherapie",
   "description": "In der Praxis WandelWege in Berlin bieten Yvonne und Dr. Frank-Oliver Heemeyer therapeutische Unterstützung für Familien und Personen mit traumatischen Erfahrungen. Mit einem Fokus auf EMDR und Hypnosetherapie helfen sie Klienten, innere Blockaden zu lösen und neue Perspektiven zu entwickeln. Die Praxis schafft einen geschützten Raum, in dem Vertrauen und Empathie im Mittelpunkt stehen, um nachhaltige Veränderungen zu ermöglichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pfalzburger Str. 87",
     "locality": "Berlin",
@@ -88,24 +89,8 @@
   ],
   "faq": [
     {
-      "question": "Welche therapeutischen Ansätze bietet die Praxis WandelWege an?",
-      "answer": "Die Praxis WandelWege bietet verschiedene therapeutische Ansätze an, darunter EMDR (Eye Movement Desensitization and Reprocessing) zur effektiven Verarbeitung traumatischer Erlebnisse und Hypnosetherapie, um Zugang zu inneren Ressourcen zu erhalten."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis WandelWege buchen?",
-      "answer": "Sie können einen Termin in der Praxis WandelWege über die Buchungsseite unter https://calendly.com/yvonne-wandelwege/orientierungsgesprach buchen."
-    },
-    {
-      "question": "Wann hat die Praxis WandelWege geöffnet?",
-      "answer": "Die Praxis WandelWege hat folgende Öffnungszeiten: Montag von 09:00 bis 18:00, Dienstag bis Donnerstag von 09:00 bis 19:00, Freitag von 09:00 bis 18:00 und Samstag von 13:00 bis 15:00."
-    },
-    {
-      "question": "Wo befindet sich die Praxis WandelWege?",
-      "answer": "Die Praxis WandelWege befindet sich in der Pfalzburger Str. 87, 10719 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Was ist das Ziel der Therapie in der Praxis WandelWege?",
-      "answer": "Das Ziel der Therapie in der Praxis WandelWege ist es, tiefgreifende Verletzungen zu heilen und den Klienten zu einem erfüllten Leben zu verhelfen, indem innere Blockaden gelöst und neue Perspektiven entwickelt werden."
+      "question": "Wie läuft ein Ersttermin in der Praxis ab?",
+      "answer": "Im Erstgespräch dürfen Sie sich angenommen fühlen. Therapie ist ein Dialog auf Augenhöhe – mit Empathie, Klarheit und Respekt für Ihre individuellen Erfahrungen."
     }
   ]
 }

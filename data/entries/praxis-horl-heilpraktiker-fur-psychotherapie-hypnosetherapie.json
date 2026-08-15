@@ -3,7 +3,7 @@
   "slug": "praxis-horl-heilpraktiker-fur-psychotherapie-hypnosetherapie",
   "name": "Praxis Hörl - Heilpraktiker für Psychotherapie & Hypnosetherapie",
   "description": "Die Praxis Hörl in Berlin Kreuzberg bietet professionelle Hypnosetherapie und Psychotherapie an, geleitet von Ksymena Hörl, einer erfahrenen Heilpraktikerin. Mit einem wissenschaftlich fundierten Ansatz nach Milton H. Erickson unterstützt sie Klient:innen dabei, Veränderungen im Alltag zu erreichen und emotionale sowie verhaltensbezogene Herausforderungen zu bewältigen. Die Praxis legt Wert auf individuelle Begleitung und eine vertrauensvolle Atmosphäre.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hagelberger Str. 12",
     "locality": "Berlin",
@@ -83,24 +84,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Praxis Hörl an?",
-      "answer": "Die Praxis Hörl bietet Hypnose und Hypnotherapie nach Erickson an, die wissenschaftlich fundiert und individuell begleitet werden."
+      "question": "Was kann ich beim Ersttermin in der Praxis Hörl erwarten?",
+      "answer": "Ein ausführliches Erstgespräch und die erste hypnotische Trance. Es erfolgt eine individuelle Planung deiner Behandlung und eine vertiefte Hypnotherapie."
     },
     {
-      "question": "Wo befindet sich die Praxis Hörl?",
-      "answer": "Die Praxis Hörl befindet sich in der Hagelberger Str. 12, 10965 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis Hörl buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link vereinbaren: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/ksymena-hoerl?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis Hörl?",
-      "answer": "Die Praxis Hörl hat am Mittwoch von 08:00 bis 15:00 Uhr, am Donnerstag von 10:00 bis 21:00 Uhr und am Freitag von 10:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann Hypnose helfen?",
-      "answer": "Hypnose hilft, indem sie einen Zustand tiefer Entspannung (Trance) schafft, der den Zugang zum Unbewussten öffnet, wo Emotionen, Denk- und Verhaltensmuster angesiedelt sind und beeinflussbar werden."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Therapie?",
+      "answer": "Nein, die Kosten werden nicht von der gesetzlichen Krankenkasse übernommen. Nur private Krankenkassen und manche Zusatzversicherungen übernehmen die Kosten."
     }
   ]
 }

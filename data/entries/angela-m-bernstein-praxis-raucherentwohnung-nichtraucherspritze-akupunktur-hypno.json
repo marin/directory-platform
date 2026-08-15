@@ -3,7 +3,7 @@
   "slug": "angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno",
   "name": "Angela M. Bernstein Praxis Raucherentwöhnung/Nichtraucherspritze/Akupunktur/Hypnose",
   "description": "Die Praxis von Angela M. Bernstein in Berlin-Pankow bietet spezialisierte Behandlungen zur Raucherentwöhnung, Akupunktur und Hypnose an. Mit einer biologisch-veganen Behandlungsmethode unterstützen wir Sie effektiv dabei, Nichtraucher zu werden. Zudem setzen wir die Bicom® Therapie ein, die bei allergischen Erkrankungen hohe Erfolgsraten aufweist. Vertrauen Sie auf unsere 30-jährige Erfahrung als Heilpraktikerin für eine gesunde Veränderung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -13,6 +13,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Storkower Str. 158",
     "locality": "Berlin",
@@ -80,26 +81,5 @@
     "/images/entries/angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno/1.webp",
     "/images/entries/angela-m-bernstein-praxis-raucherentwohnung-nichtraucherspritze-akupunktur-hypno/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Praxis von Angela M. Bernstein an?",
-      "answer": "Die Praxis bietet Behandlungen zur Raucherentwöhnung, Akupunktur, Hypnose und Bicom® Therapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Angela M. Bernstein?",
-      "answer": "Die Praxis befindet sich in der Storkower Str. 158, 10407 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich die Praxis erreichen?",
-      "answer": "Sie können die Praxis telefonisch unter 017670282950 oder per E-Mail an info@praxis-hahlweg.de erreichen."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag und Freitag von 09:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie funktioniert die Raucherentwöhnung in der Praxis?",
-      "answer": "Die Raucherentwöhnung erfolgt in der Regel mit einer einmaligen Micro-Injektion eines biologisch-veganen Mittelkomplexes, Lubidum®, der effektiv unterstützen soll, Nichtraucher zu werden."
-    }
-  ]
+  "faq": []
 }

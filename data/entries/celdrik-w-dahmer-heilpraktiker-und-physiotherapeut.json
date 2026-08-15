@@ -3,7 +3,7 @@
   "slug": "celdrik-w-dahmer-heilpraktiker-und-physiotherapeut",
   "name": "Celdrik W. Dahmer Heilpraktiker und Physiotherapeut",
   "description": "Celdrik W. Dahmer ist Heilpraktiker und Physiotherapeut in Berlin, im Stadtteil Tempelhof-Schöneberg. Seine Praxis befindet sich in der Fregestraße 15 und bietet naturheilkundliche Behandlungen an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fregestraße 15",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03033914233",
   "website": "https://www.jameda.de/celdrik-w-mette/heilpraktiker-physiotherapeut/berlin",
   "bookingUrl": "https://www.jameda.de/celdrik-w-mette/heilpraktiker/berlin#address-id=%5B453350%5D&filters%5Bservices%5D%5B%5D=293",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgafmHbpPqEcRT7N9kAHoYBc",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Monday",
@@ -54,29 +58,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Celdrik W. Dahmer?",
-      "answer": "Die Praxis von Celdrik W. Dahmer befindet sich in der Fregestraße 15, 12159 Berlin, im Bezirk Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Celdrik W. Dahmer an?",
-      "answer": "Celdrik W. Dahmer ist Heilpraktiker und Physiotherapeut und bietet Dienstleistungen im Bereich der Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Celdrik W. Dahmer buchen?",
-      "answer": "Sie können einen Termin bei Celdrik W. Dahmer über die Buchungsseite auf Jameda buchen: Termin buchen."
-    },
-    {
-      "question": "Wann hat die Praxis von Celdrik W. Dahmer geöffnet?",
-      "answer": "Die Praxis hat montags, dienstags, donnerstags und freitags von 09:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Celdrik W. Dahmer telefonisch erreichen?",
-      "answer": "Sie können Celdrik W. Dahmer unter der Telefonnummer 03033914233 erreichen."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJgafmHbpPqEcRT7N9kAHoYBc",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 16
+  "faq": []
 }

@@ -83,26 +83,5 @@
     "/images/entries/akupunktur-by-dr-yunes-m-mones/3.webp",
     "/images/entries/akupunktur-by-dr-yunes-m-mones/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Dr. Yunes M. Mones?",
-      "answer": "Die Praxis von Dr. Yunes M. Mones befindet sich am Weißenseer Weg 111 in Berlin, 10369."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Samstag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Website oder direkt über diesen Link: https://www.doctolib.de/heilpraktiker/berlin/dr-yunes-mohammed-mones vereinbaren."
-    },
-    {
-      "question": "Welche Beschwerden behandelt Dr. Yunes M. Mones?",
-      "answer": "Dr. Yunes M. Mones behandelt unter anderem Rückenschmerzen, Schulter- und Nackenbeschwerden, Haltungsprobleme, Stress, Verspannungen, Schlafstörungen sowie Kopfschmerzen und Migräne."
-    },
-    {
-      "question": "Wie kann ich Dr. Yunes M. Mones kontaktieren?",
-      "answer": "Sie können Dr. Yunes M. Mones telefonisch unter 017645736282 oder per E-Mail an yunesmones@yahoo.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

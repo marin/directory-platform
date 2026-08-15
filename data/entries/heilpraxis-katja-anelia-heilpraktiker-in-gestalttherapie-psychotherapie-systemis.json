@@ -3,7 +3,7 @@
   "slug": "heilpraxis-katja-anelia-heilpraktiker-in-gestalttherapie-psychotherapie-systemis",
   "name": "Heilpraxis Katja Anelia - Heilpraktiker:in | Gestalttherapie | Psychotherapie | Systemisches Coaching | Berlin & online",
   "description": "Die Heilpraxis Katja Anelia in Berlin bietet eine Vielzahl von therapeutischen Ansätzen, darunter Gestalttherapie, systemisches Coaching und Ayurveda. Die Praxis legt Wert auf ganzheitliche Gesundheit und unterstützt Klienten dabei, ein tieferes Verständnis für sich selbst und ihre Lebensumstände zu entwickeln. Neben psychotherapeutischen Methoden kommen auch körperorientierte Heilverfahren und spirituelle Praktiken zum Einsatz, um emotionale Blockaden zu lösen und das Wohlbefinden zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Zeppelinstraße 79",
     "locality": "Berlin",
@@ -134,24 +135,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Heilpraxis Katja Anelia an?",
-      "answer": "Die Heilpraxis Katja Anelia bietet Gestalttherapie, systemisches Coaching und Ayurveda an."
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Beim Ersttermin erfolgt eine ausführliche Anamnese inkl. Konstitutionsbestimmung, Feststellung von bestehendem Ungleichgewicht, Puls- und Zungendiagnose sowie Antlitzdiagnose."
     },
     {
-      "question": "Wo befindet sich die Heilpraxis Katja Anelia?",
-      "answer": "Die Heilpraxis befindet sich in der Zeppelinstraße 79, 12459 Berlin, im Stadtteil Treptow-Köpenick."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 60 bis 120 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin buchen, indem Sie den folgenden Link nutzen: https://calendly.com/katjaanelia/free-intro-call."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Heilpraxis?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag, jeweils von 09:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wie hoch sind die Preise für die Behandlungen?",
-      "answer": "Die Preise für die Behandlungen variieren, zum Beispiel kostet eine 60-minütige Sitzung 80 Euro."
+      "question": "Wie werden die Kosten für die Behandlungen abgerechnet?",
+      "answer": "Die Behandlungen sind Privatleistungen. Private Krankenversicherungen und Zusatzversicherungen übernehmen die Kosten teilweise oder ganz."
     }
   ]
 }

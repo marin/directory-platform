@@ -3,7 +3,7 @@
   "slug": "heilpraxis-limberg-traumatherapie",
   "name": "Heilpraxis Limberg Traumatherapie",
   "description": "Die Heilpraxis Limberg in Berlin bietet eine ganzheitliche Behandlung, die Körper, Geist und Seele anspricht. Schwerpunkte der Praxis sind Traumatherapie nach dem somatischen Ansatz, Akupunktur, Shiatsu sowie verschiedene Bewegungskurse zur Förderung der Gesundheit und Entspannung. Ziel ist es, die Selbstheilungskräfte der Patienten zu aktivieren und ein Wohlbefinden zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Streustraße 121",
     "locality": "Berlin",
@@ -54,26 +55,5 @@
   "images": [
     "/images/entries/heilpraxis-limberg-traumatherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis Limberg Traumatherapie?",
-      "answer": "Die Heilpraxis Limberg Traumatherapie befindet sich in der Streustraße 121, 13086 Berlin, Deutschland."
-    },
-    {
-      "question": "Welche Therapiemethoden werden in der Heilpraxis angeboten?",
-      "answer": "In der Heilpraxis werden verschiedene Therapiemethoden angeboten, darunter Traumatherapie, Akupunktur, Shiatsu, Schmerztherapie nach Liebscher & Bracht sowie Bewegungskurse wie DehnKraft und Chan Mi Gong."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
-      "answer": "Die Heilpraxis ist zu folgenden Zeiten geöffnet: Dienstag von 10:00 bis 18:30 Uhr, Mittwoch von 10:30 bis 19:00 Uhr, Donnerstag von 13:00 bis 18:30 Uhr und Freitag von 09:30 bis 15:30 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Heilpraxis Limberg über die Webseite buchen: Termin anfragen."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Limberg kontaktieren?",
-      "answer": "Sie können die Heilpraxis Limberg telefonisch unter 03045310954 erreichen oder die Webseite heilpraxis-limberg.de besuchen."
-    }
-  ]
+  "faq": []
 }

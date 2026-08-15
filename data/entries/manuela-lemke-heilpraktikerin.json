@@ -65,26 +65,5 @@
     "/images/entries/manuela-lemke-heilpraktikerin/0.webp",
     "/images/entries/manuela-lemke-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Manuela Lemke an?",
-      "answer": "Manuela Lemke bietet Dienstleistungen in den Bereichen Ernährungsberatung und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Manuela Lemke?",
-      "answer": "Die Praxis von Manuela Lemke befindet sich in der Dernburgstraße 59, 14057 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Manuela Lemke buchen?",
-      "answer": "Sie können einen Termin bei Manuela Lemke über die Buchungsseite auf Jameda buchen: https://www.jameda.de/berlin/heilpraktiker/colon-hydro-therapie/manuela-lemke/uebersicht/81362070_1/?utm_medium=GMB_APPOINTMENT&utm_source=GMB_APPOINTMENT&utm_campaign=GMB_APPOINTMENT."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag jeweils von 10:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Manuela Lemke kontaktieren?",
-      "answer": "Sie können Manuela Lemke telefonisch unter 03058905691 oder per E-Mail an info@manu-lemke.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

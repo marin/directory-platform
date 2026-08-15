@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-elju-vita-physioherapie-osteoatipathie",
   "name": "Naturheilpraxis Elju-Vita Physioherapie & Osteoatipathie",
   "description": "Die Naturheilpraxis Elju-Vita in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Behandlungen, einschließlich Osteopathie, Physiotherapie und Kinesiologie. Die Praxis legt Wert auf ganzheitliche Ansätze zur Gesundheitsförderung und Stressbewältigung. Durch individuelle Behandlungen und Techniken, wie den Muskeltest in der Kinesiologie, werden Blockaden erkannt und gezielt gelöst.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wilhelmsaue 131",
     "locality": "Berlin",
@@ -77,22 +78,5 @@
   "images": [
     "/images/entries/naturheilpraxis-elju-vita-physioherapie-osteoatipathie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Elju-Vita an?",
-      "answer": "Die Naturheilpraxis Elju-Vita bietet Physiotherapie, Osteopathie, Kinesiologie und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Elju-Vita?",
-      "answer": "Die Naturheilpraxis Elju-Vita befindet sich in der Wilhelmsaue 131, 10715 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Elju-Vita sind von Montag bis Freitag, jeweils von 07:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Elju-Vita kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Elju-Vita telefonisch unter 0173 2482805 oder per E-Mail an elju-vita@gmail.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

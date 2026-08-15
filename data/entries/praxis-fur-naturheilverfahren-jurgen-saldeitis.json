@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilverfahren-jurgen-saldeitis",
   "name": "Praxis für Naturheilverfahren, Jürgen Saldeitis",
   "description": "Die Praxis für Naturheilverfahren von Jürgen Saldeitis in Berlin bietet innovative Ansätze der regulativen Schwingungsmedizin an. Durch die von ihm entwickelte CBT-2000 Frequenztherapie wird die Kommunikation zwischen Zellen gefördert, um die natürlichen Selbstheilungskräfte des Körpers zu aktivieren. Die Praxis legt besonderen Wert auf individuelle Behandlungsansätze und die Förderung der Energiebalance im Organismus.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bahnhofstraße 4",
     "locality": "Berlin",
@@ -86,22 +87,5 @@
     "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/3.webp",
     "/images/entries/praxis-fur-naturheilverfahren-jurgen-saldeitis/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis für Naturheilverfahren an?",
-      "answer": "Die Praxis bietet unter anderem regulative Schwingungsmedizin, Frequenztherapie, Wundheilung und weitere Behandlungen an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags, dienstags, donnerstags und freitags von 09:00 bis 18:00 Uhr und mittwochs von 09:00 bis 14:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilverfahren?",
-      "answer": "Die Praxis befindet sich in der Bahnhofstraße 4, 12305 Berlin, im Bezirk Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0307443001 erreichen oder die Website http://www.cbt2000.de/ besuchen."
-    }
-  ]
+  "faq": []
 }

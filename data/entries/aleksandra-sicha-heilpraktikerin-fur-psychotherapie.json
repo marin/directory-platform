@@ -3,7 +3,7 @@
   "slug": "aleksandra-sicha-heilpraktikerin-fur-psychotherapie",
   "name": "Aleksandra Sicha - Heilpraktikerin für Psychotherapie",
   "description": "Aleksandra Sicha ist Heilpraktikerin für Psychotherapie in Berlin-Pankow und bietet eine ganzheitliche Therapie, die Gesprächstherapie mit EMDR, Hypnotherapie und körperorientierten Ansätzen kombiniert. Ihr Schwerpunkt liegt auf der Begleitung von Menschen, deren Erleben durch belastende Kindheits-, Bindungs- oder Verlusterfahrungen geprägt ist. In ihrer Praxis unterstützt sie Klienten dabei, innere Sicherheit und Stabilität zu entwickeln und belastende Erinnerungen zu verarbeiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schliemannstraße 41/2.3.26 Umzug",
     "locality": "Berlin",
@@ -174,24 +175,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet Aleksandra Sicha an?",
-      "answer": "Aleksandra Sicha bietet EMDR-Therapie, Hypnotherapie und körperorientierte Ansätze in ihrer Praxis für Psychotherapie und Traumatherapie an."
+      "question": "Biete ich ein Erstgespräch an?",
+      "answer": "Ja, ich biete ein kostenfreies Telefonat von etwa 15 Minuten an, um erste organisatorische Fragen zu klären. Das erste persönliche Gespräch dauert 90 Minuten und ist ein vollwertiger Termin."
     },
     {
-      "question": "Wo befindet sich die Praxis von Aleksandra Sicha?",
-      "answer": "Die Praxis von Aleksandra Sicha befindet sich in der Schliemannstraße 41/2.3.26, 10437 Berlin, im Stadtteil Pankow."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung in meiner Praxis dauert 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Aleksandra Sicha buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link buchen: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/aleksandra-sicha."
-    },
-    {
-      "question": "Wann hat die Praxis von Aleksandra Sicha geöffnet?",
-      "answer": "Die Praxis hat montags und mittwochs von 16:00 bis 21:00 Uhr, donnerstags von 10:00 bis 14:00 Uhr und von 15:00 bis 21:00 Uhr sowie freitags von 10:00 bis 14:00 Uhr und von 15:00 bis 21:00 Uhr geöffnet. Samstags ist die Praxis von 12:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann EMDR-Therapie hilfreich sein?",
-      "answer": "EMDR-Therapie kann hilfreich sein, um belastende Erfahrungen zu verarbeiten, den Alarmmodus des Körpers zu beruhigen und stärkende innere Überzeugungen zu entwickeln."
+      "question": "Muss ich die Therapie selbst bezahlen?",
+      "answer": "Ja, die Abrechnung erfolgt nach jedem Termin. Als Selbstzahler*in entscheiden Sie selbst über die Dauer der Therapie."
     }
   ]
 }

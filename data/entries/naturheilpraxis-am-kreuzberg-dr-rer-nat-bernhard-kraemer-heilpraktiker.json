@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-am-kreuzberg-dr-rer-nat-bernhard-kraemer-heilpraktiker",
   "name": "Naturheilpraxis am Kreuzberg Dr. rer. nat. Bernhard Kraemer Heilpraktiker",
   "description": "Die Naturheilpraxis am Kreuzberg, geleitet von Dr. rer. nat. Bernhard Kraemer und Claudia Krämer-Emke, bietet in Berlin-Kreuzberg ein breites Spektrum an naturheilkundlichen Therapien an. In einer angenehmen Umgebung werden verschiedene Behandlungsmethoden wie Fußreflexzonentherapie, Homöopathie, Shiatsu und mehr angeboten, um individuelle gesundheitliche Beschwerden zu behandeln. Die Praxis verfolgt einen ganzheitlichen Ansatz, der körperliche und gesprächsorientierte Elemente kombiniert und bei Bedarf durch moderne Labordiagnostik und naturheilkundliche Medikation ergänzt wird.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Solmsstraße 36",
     "locality": "Berlin",
@@ -67,24 +68,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis am Kreuzberg an?",
-      "answer": "Die Naturheilpraxis am Kreuzberg bietet unter anderem Fußreflexzonentherapie, Homöopathie, Shiatsu, Heilende Berührung, Ki-Motion, Integrative Massage und Dynamische Wirbelsäulentherapie nach Popp® an."
+      "question": "Wie lange dauert die Erstbehandlung?",
+      "answer": "Die Erstbehandlung dauert 60 Minuten."
     },
     {
-      "question": "Wie viel kostet eine Erstbehandlung in der Naturheilpraxis?",
-      "answer": "Eine Erstbehandlung dauert 60 Minuten und kostet 80 €."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis am Kreuzberg?",
-      "answer": "Die Praxis befindet sich in der Solmsstraße 36, 10961 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03084115135 oder über die Website der Praxis vereinbaren."
-    },
-    {
-      "question": "Gibt es spezielle Angebote für Folgebehandlungen?",
-      "answer": "Ja, Folgebehandlungen dauern 45 Minuten und kosten 60 €."
+      "question": "Übernehmen die Krankenkassen die Kosten für die Behandlung?",
+      "answer": "Privatkassen und Beihilfestellen übernehmen im Allgemeinen die (Teil-) Kosten der Behandlung."
     }
   ]
 }

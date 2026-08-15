@@ -3,7 +3,7 @@
   "slug": "naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke",
   "name": "Naturheilkunde, TCM und Akupuntur in Berlin-Steglitz - Praxis Golombeck-Peschke",
   "description": "Die Praxis Golombeck-Peschke in Berlin-Steglitz bietet umfassende Behandlungen in den Bereichen Naturheilkunde, Traditionelle Chinesische Medizin (TCM) und Akupunktur an. Unter der Leitung von Beate Golombek-Peschke, Heilpraktikerin und staatlich anerkannter Physiotherapeutin, werden ganzheitliche Therapiekonzepte entwickelt, die Körper, Geist und Seele in Einklang bringen. Die Praxis befindet sich in der Lauenburger Str. 21 und ist auf die Anwendung von Akupunktur sowie weitere TCM-Methoden spezialisiert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lauenburger Str. 21",
     "locality": "Berlin",
@@ -35,22 +36,5 @@
     "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/2.webp",
     "/images/entries/naturheilkunde-tcm-und-akupuntur-in-berlin-steglitz-praxis-golombeck-peschke/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis Golombeck-Peschke?",
-      "answer": "Die Praxis befindet sich in der Lauenburger Str. 21, 12157 Berlin-Steglitz."
-    },
-    {
-      "question": "Welche Therapien werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde angeboten."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Website der Praxis buchen: Termine buchen."
-    },
-    {
-      "question": "Wie kann ich die Praxis telefonisch erreichen?",
-      "answer": "Die Praxis ist telefonisch unter der Nummer 03079744692 erreichbar."
-    }
-  ]
+  "faq": []
 }

@@ -87,24 +87,20 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet Annette Leidig an?",
-      "answer": "Annette Leidig bietet Psychotherapie an und hat Behandlungsschwerpunkte in Lebenskrisen, Depressionen, Anpassungsstörungen, Panikstörungen und Angststörungen."
+      "question": "Was passiert beim Ersttermin bei Annette Leidig?",
+      "answer": "Im Ersttermin wird besprochen, welche Art Therapie für Sie in Frage kommt und wie ein möglicher Behandlungsplan aussehen kann."
     },
     {
-      "question": "Wie kann ich einen Termin bei Annette Leidig vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie eine Nachricht senden oder direkt über den Buchungslink auf ihrer Website gehen: Termin buchen."
+      "question": "Wie lange dauert eine Sitzung bei Annette Leidig?",
+      "answer": "Eine Einzeltherapie dauert 50 Minuten."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Therapie bei Annette Leidig?",
-      "answer": "Die Kosten für eine Einzeltherapie betragen 90 € für 50 Minuten. Eine Paarberatung kostet 110 € für 50 Minuten. Ermäßigte Preise sind nach Absprache möglich."
+      "question": "Rechnet Annette Leidig mit den gesetzlichen Krankenkassen ab?",
+      "answer": "Als Heilpraktikerin für Psychotherapie rechnet sie nicht mit den gesetzlichen Krankenkassen ab."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis von Annette Leidig?",
-      "answer": "Die Praxis ist von Montag bis Samstag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Bietet Annette Leidig auch Videosprechstunden an?",
-      "answer": "Ja, nach der 3. Therapiestunde bietet Annette Leidig Videosprechstunden an, falls ein Termin vor Ort nicht möglich ist."
+      "question": "In welchen Sprachen bietet Annette Leidig Therapie an?",
+      "answer": "Sie bietet Therapien in englischer Sprache an."
     }
   ]
 }

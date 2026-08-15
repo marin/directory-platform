@@ -3,7 +3,7 @@
   "slug": "larissa-schmidt-c-o-praxis-atemtherapie",
   "name": "Larissa Schmidt c/o Praxis Atemtherapie",
   "description": "Vermutlich suchst du meine Website auf, weil deine Gesundheit außer Balance geraten ist und du mit den üblichen Wegen in unserem Gesundheitssystem nicht weiter kommst. Vielleicht gibt es (noch) keine klare Diagnose, oder eine \"mit der du dich einfach abfinden sollst\". So ging es zumindest mir, als ich mit Anfang zwanzig die Diagnosen Reizmagen und PCOS erhalten habe - ohne Aussicht auf Besserung. Rückblickend war dies einer der Schlüsselmomente in meinem Leben, denn er brauchte mich zur Naturheilkunde. Plötzlich gab es so viele neue Ansatzpunkte und ich begann meinen Körper und meine Psyche immer besser zu verstehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heerstraße 9",
     "locality": "Berlin",
@@ -69,5 +70,10 @@
     "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/3.webp",
     "/images/entries/larissa-schmidt-c-o-praxis-atemtherapie/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Gemeinsam verschaffen wir uns einen Überblick über deine Ausgangslage. Ich erarbeite auf Basis der Anamnese und Laborbefunde einen individuellen Therapieplan, der in dein Leben passt."
+    }
+  ]
 }

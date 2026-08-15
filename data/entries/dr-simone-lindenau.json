@@ -3,7 +3,7 @@
   "slug": "dr-simone-lindenau",
   "name": "Dr. Simone Lindenau",
   "description": "Dr. Simone Lindenau ist Heilpraktikerin in Berlin-Steglitz-Zehlendorf und bietet eine integrative Gesundheitsversorgung, die Naturheilkunde und konventionelle Medizin vereint. Mit über 30 Jahren Erfahrung und einer fundierten Ausbildung als Biologin legt sie besonderen Wert auf individuelle Beratung und Behandlung. Zu ihren Leistungen gehören unter anderem Haus- und Krankenhausbesuche, Telemedizin sowie eine spezielle Kindersprechstunde.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Drakestraße 16A",
     "locality": "Berlin",
@@ -26,32 +27,11 @@
   "email": "info@praxis-lindenau.com",
   "website": "http://www.homoeopathen.com/",
   "bookingUrl": "http://www.praxis-lindenau.com/KONTAKT/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt5V-d1haqEcR1QioAup501k",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Dr. Simone Lindenau?",
-      "answer": "Die Praxis von Dr. Simone Lindenau befindet sich in der Drakestraße 16A, 12205 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Dr. Simone Lindenau buchen?",
-      "answer": "Sie können einen Termin bei Dr. Simone Lindenau über die Webseite buchen, indem Sie den folgenden Link verwenden: Termin buchen."
-    },
-    {
-      "question": "Welche besonderen Leistungen bietet Dr. Simone Lindenau an?",
-      "answer": "Dr. Simone Lindenau bietet unter anderem Haus- und Krankenhausbesuche, Telemedizin, eine Kindersprechstunde, einen 24 Stunden telefonischen Notdienst sowie die Zusammenstellung von individuellen Hausapotheken an."
-    },
-    {
-      "question": "Wie kann ich Dr. Simone Lindenau kontaktieren?",
-      "answer": "Sie können Dr. Simone Lindenau telefonisch unter 0308330475 oder per E-Mail an info@praxis-lindenau.com kontaktieren."
-    },
-    {
-      "question": "Welche Therapieangebote werden in der Praxis von Dr. Simone Lindenau angeboten?",
-      "answer": "In der Praxis von Dr. Simone Lindenau werden verschiedene Therapieangebote im Bereich der Naturheilkunde angeboten."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJt5V-d1haqEcR1QioAup501k",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

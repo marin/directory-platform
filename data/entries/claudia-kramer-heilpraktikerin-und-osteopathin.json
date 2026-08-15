@@ -3,7 +3,7 @@
   "slug": "claudia-kramer-heilpraktikerin-und-osteopathin",
   "name": "Claudia Krämer - Heilpraktikerin und Osteopathin",
   "description": "Claudia Krämer ist eine erfahrene Heilpraktikerin und Osteopathin mit einer Praxis in Berlin-Kladow. Sie bietet osteopathische Behandlungen an, die darauf abzielen, die Selbstheilungskräfte des Körpers zu aktivieren und die Beweglichkeit aller Körperstrukturen zu fördern. Ihre Leistungen richten sich an Patienten jeden Alters, einschließlich Neugeborener, und können auch präventiv eingesetzt werden. Bei Bedarf ist sie bereit, Hausbesuche durchzuführen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Elsbeerenweg 3",
     "locality": "Berlin",
@@ -43,24 +44,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Claudia Krämer?",
-      "answer": "Die Praxis von Claudia Krämer befindet sich im Elsbeerenweg 3, 14089 Berlin-Kladow."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Claudia Krämer vereinbaren?",
-      "answer": "Sie können einen Termin bei Claudia Krämer telefonisch unter 0178 - 365 36 88 oder per E-Mail an claudia@osteopathie-kladow.de vereinbaren."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Claudia Krämer an?",
-      "answer": "Claudia Krämer bietet Osteopathie und Naturheilkunde an, wobei sie sanfte manuelle Techniken zur Anregung der Selbstheilungskräfte des Körpers einsetzt."
-    },
-    {
-      "question": "Bietet Claudia Krämer auch Hausbesuche an?",
-      "answer": "Ja, Claudia Krämer kommt auch zu Ihnen, falls Sie nicht in die Praxis kommen können oder wollen."
-    },
-    {
-      "question": "An wen richtet sich die osteopathische Behandlung?",
-      "answer": "Die osteopathische Behandlung richtet sich an Patienten jeden Alters, einschließlich Neugeborenen, und kann auch vorbeugend angewendet werden."
+      "question": "Bieten Sie spezielle Behandlungen für Kinder an?",
+      "answer": "Ja, es gibt einen Bereich für Kinderosteopathie."
     }
   ]
 }

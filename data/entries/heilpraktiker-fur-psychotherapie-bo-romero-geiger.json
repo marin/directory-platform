@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-psychotherapie-bo-romero-geiger",
   "name": "Heilpraktiker für Psychotherapie Bo Romero Geiger",
   "description": "Bo Romero Geiger ist Heilpraktiker für Psychotherapie mit Sitz in Berlin-Pankow. Er bietet psychologische Beratung in Form von Online-Sitzungen an, die sich auf die Stärkung der individuellen Ressourcen und die persönliche Entwicklung konzentrieren. Sein Ansatz berücksichtigt die einzigartigen Bedürfnisse jedes Einzelnen und zielt darauf ab, positive Veränderungen im Leben der Klienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Käthe-Niederkirchner-Straße",
     "locality": "Berlin",
@@ -61,24 +62,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Bo Romero Geiger an?",
-      "answer": "Bo Romero Geiger bietet psychologische Beratung in Form von Online-Sitzungen an, die auf die Stärkung der persönlichen Ressourcen und die Förderung positiver Veränderungen im Leben der Klienten ausgerichtet sind."
+      "question": "Wie kann ich einen Ersttermin bei Bo Romero Geiger vereinbaren?",
+      "answer": "Für ein Erstgespräch buchen Sie direkt über Doctolib oder schreiben bitte eine Email an kontakt@boromerogeiger.com."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite von Bo Romero Geiger auf Doctolib buchen: Termin Online buchen."
+      "question": "Wie lange dauert eine Sitzung bei Bo Romero Geiger?",
+      "answer": "In 45 minütigen Online-Sitzungen unterstütze ich Sie auf Ihrem Weg hin zu mehr Wohlbefinden."
     },
     {
-      "question": "Was sind die Öffnungszeiten von Bo Romero Geiger?",
-      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie viel kosten die Online-Sitzungen?",
-      "answer": "Die 45-minütigen Online-Sitzungen kosten 90€."
-    },
-    {
-      "question": "Wie kann ich Bo Romero Geiger kontaktieren?",
-      "answer": "Sie können Bo Romero Geiger per E-Mail unter kontakt@boromerogeiger.com erreichen."
+      "question": "Muss ich die Sitzungen bei Bo Romero Geiger selbst bezahlen?",
+      "answer": "Die Sitzungen sind nur für SelbstzahlerInnen."
     }
   ]
 }

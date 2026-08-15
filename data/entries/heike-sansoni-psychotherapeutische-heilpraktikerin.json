@@ -3,7 +3,7 @@
   "slug": "heike-sansoni-psychotherapeutische-heilpraktikerin",
   "name": "Heike Sansoni, Psychotherapeutische Heilpraktikerin",
   "description": "Heike Sansoni ist eine psychotherapeutische Heilpraktikerin mit Sitz in Berlin-Schöneberg. Sie bietet Synergetik-Therapie, Familienaufstellungen und CQM an, um Klienten bei der Entfaltung ihres Potentials zu unterstützen. Mit über 23 Jahren Erfahrung in der Begleitung von Innenweltreisen schafft sie einen Raum für Heilung und Kommunikation.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bamberger Str. 48a",
     "locality": "Berlin",
@@ -69,24 +70,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Heike Sansoni an?",
-      "answer": "Heike Sansoni bietet Synergetik-Therapie, Familienaufstellungen und CQM (Chinesische Quantum Methode) an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten von Heike Sansoni?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 10:00 bis 21:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Heike Sansoni?",
-      "answer": "Die Praxis befindet sich in der Bamberger Str. 48a, 10779 Berlin, im Stadtteil Schöneberg."
-    },
-    {
-      "question": "Wie kann ich Heike Sansoni kontaktieren?",
-      "answer": "Sie können Heike Sansoni telefonisch unter 01772404257 oder per E-Mail an heike.sansoni@synergetik-berlin.de kontaktieren."
-    },
-    {
-      "question": "Gibt es Parkmöglichkeiten in der Nähe der Praxis?",
-      "answer": "Ja, es gibt kostenloses Parken in der Nähe der Praxis."
+      "question": "Wie lange dauert eine Sitzung bei Heike Sansoni?",
+      "answer": "Der Radiobeitrag über Methoden alternativer Krebstherapien dauert 25 Minuten."
     }
   ]
 }

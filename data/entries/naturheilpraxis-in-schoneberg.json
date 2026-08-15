@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-in-schoneberg",
   "name": "Naturheilpraxis in Schöneberg",
   "description": "Die Naturheilpraxis in Schöneberg, geleitet von Heilpraktikerin Sabine Gowik, bietet ein breites Spektrum an naturheilkundlichen Therapieverfahren, darunter Akupunktur, Tuina und Fußreflexzonentherapie. In der Praxis haben Sie die Möglichkeit, sich ausführlich über die angebotenen Methoden und die Therapeutin zu informieren. Bei Fragen steht Ihnen Frau Gowik gerne für eine persönliche Beratung zur Verfügung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gustav-Müller-Straße 39",
     "locality": "Berlin",
@@ -33,22 +34,5 @@
   "images": [
     "/images/entries/naturheilpraxis-in-schoneberg/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieverfahren werden in der Naturheilpraxis in Schöneberg angeboten?",
-      "answer": "In der Naturheilpraxis in Schöneberg werden Akupunktur, Tuina und Fußreflexzonentherapie angeboten."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis in Schöneberg kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis in Schöneberg telefonisch unter 03021754815 oder per E-Mail an kontakt@naturheilpraxis-in-schoeneberg.de kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis in Schöneberg?",
-      "answer": "Die Naturheilpraxis befindet sich in der Gustav-Müller-Straße 39, 10829 Berlin."
-    },
-    {
-      "question": "Wer ist die Heilpraktikerin der Naturheilpraxis in Schöneberg?",
-      "answer": "Die Heilpraktikerin der Naturheilpraxis in Schöneberg ist Sabine Gowik."
-    }
-  ]
+  "faq": []
 }

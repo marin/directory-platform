@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-in-berlin-omnia-praxis",
   "name": "Heilpraktiker in Berlin - Omnia Praxis",
   "description": "Die Omnia Praxis in Berlin bietet eine umfassende naturheilkundliche Betreuung mit einem Fokus auf klassische Naturheilverfahren und Wellness-Behandlungen. Die Praxis verfolgt einen ganzheitlichen Ansatz, der den Menschen als Einheit von Körper und Seele betrachtet. Ziel ist es, die Selbstheilungskräfte zu aktivieren und die Lebensqualität der Patienten zu steigern. Zu den angebotenen Behandlungen zählen unter anderem Akupunktur, Fußreflexzonenmassage und Reiki.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Parchwitzer Str. 50",
     "locality": "Berlin",
@@ -78,24 +79,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Omnia Praxis in Berlin?",
-      "answer": "Die Omnia Praxis befindet sich in der Parchwitzer Str. 50, 12526 Berlin."
+      "question": "Was passiert beim Ersttermin in der Omnia Praxis?",
+      "answer": "In einem Erstgespräch gehen wir auf Ihre gesundheitliche Geschichte ein. Wir erörtern, was bestimmte Beschwerden verursacht haben könnte und entwickeln gemeinsam einen Behandlungsansatz."
     },
     {
-      "question": "Welche Behandlungen bietet die Omnia Praxis an?",
-      "answer": "Die Omnia Praxis bietet klassische Naturheilverfahren und Wellness-Behandlungen an, darunter Akupunktur, Fußreflexzonenmassage, Reiki, Ohrakupunktur und Schröpfen."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Omnia Praxis buchen?",
-      "answer": "Sie können einen Termin online über die Webseite der Omnia Praxis buchen: Online-Termin."
-    },
-    {
-      "question": "Wie kann ich die Omnia Praxis kontaktieren?",
-      "answer": "Sie können die Omnia Praxis telefonisch unter 015565998959 oder per E-Mail an omnia.naturheilpraxis@gmail.com kontaktieren."
-    },
-    {
-      "question": "Was ist das Ziel der Naturheilkunde in der Omnia Praxis?",
-      "answer": "Das Ziel der Naturheilkunde in der Omnia Praxis ist es, Krankheit vorzubeugen und die Selbstfürsorge zu fördern, indem die Reize gesetzt werden, die der Körper benötigt, um sich selbst zu heilen."
+      "question": "Wie lange dauert eine Sitzung in der Omnia Praxis?",
+      "answer": "Die genaue Dauer einer Sitzung wird nicht spezifiziert."
     }
   ]
 }

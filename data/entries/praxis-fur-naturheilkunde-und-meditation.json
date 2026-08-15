@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-und-meditation",
   "name": "Praxis für Naturheilkunde und Meditation",
   "description": "Die Praxis für Naturheilkunde und Meditation in Berlin, gelegen in der Aßmannstraße 48, hat zum 01. März 2023 geschlossen. Der Heilpraktiker plant, im Sommer 2023 eine neue Praxis im Raum Woltersdorf/Schöneiche zu eröffnen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Aßmannstraße 48",
     "locality": "Berlin",
@@ -28,22 +29,5 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wann hat die Praxis für Naturheilkunde und Meditation geschlossen?",
-      "answer": "Die Praxis hat zum 01. März 2023 geschlossen."
-    },
-    {
-      "question": "Wo wird die neue Praxis eröffnet?",
-      "answer": "Die neue Praxis wird voraussichtlich im Sommer 2023 im Raum Woltersdorf/Schöneiche eröffnet."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 033627277802 kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die alte Praxis?",
-      "answer": "Die alte Praxis befand sich in der Aßmannstraße 48, 12587 Berlin."
-    }
-  ]
+  "faq": []
 }

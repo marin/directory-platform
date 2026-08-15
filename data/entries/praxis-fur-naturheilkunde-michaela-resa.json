@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-michaela-resa",
   "name": "Praxis für Naturheilkunde Michaela Resa",
   "description": "Die Praxis für Naturheilkunde Michaela Resa befindet sich in Berlin-Spandau und bietet ein breites Spektrum an Therapieangeboten, darunter osteopathische Behandlungen und Physiotherapie. Die Philosophie der Praxis basiert auf der Behandlung der Ursachen von Beschwerden, nicht nur der Symptome. Durch eine ausführliche Anamnese und individuelle Betreuung wird darauf abgezielt, die Wurzel der Probleme zu identifizieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Königsweg 24",
     "locality": "Berlin",
@@ -43,24 +44,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet die Praxis für Naturheilkunde Michaela Resa an?",
-      "answer": "Die Praxis bietet osteopathische Behandlungen, Physiotherapie und weitere Therapieangebote an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer (030) 897 44 915 vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde Michaela Resa?",
-      "answer": "Die Praxis befindet sich in Berlin, Königsweg 24, 13507 Berlin."
-    },
-    {
-      "question": "Gibt es Gruppenangebote in der Praxis?",
-      "answer": "Ja, die Praxis bietet Gruppen an, die keine Massenveranstaltungen oder wöchentliche Teilnahme erfordern."
-    },
-    {
-      "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
-      "answer": "Die Praxis ist erreichbar über den U-Bahnhof Alt-Tegel, den S-Bahnhof Tegel sowie die Bushaltestellen Buddestraße und U-Bahnhof Alt-Tegel."
+      "question": "Wie läuft der Ersttermin in der Praxis für Naturheilkunde Michaela Resa ab?",
+      "answer": "Der Ersttermin beginnt mit einer ausführlichen Anamnese und Befunderhebung. Ihre Mitarbeit ist wichtig, um die Ursache Ihrer Beschwerden zu identifizieren."
     }
   ]
 }

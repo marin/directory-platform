@@ -3,7 +3,7 @@
   "slug": "herr-dr-phil-thomas-scholze",
   "name": "Herr Dr. phil. Thomas Scholze",
   "description": "Herr Dr. phil. Thomas Scholze bietet in seiner Naturheilpraxis in Berlin-Treptow-Köpenick innovative Behandlungen im Bereich der Implantat-Akupunktur an. Diese moderne Therapieform nutzt winzige Nadeln, die an spezifischen Akupunkturpunkten im Ohr eingesetzt werden, um die Selbstheilkräfte des Körpers zu aktivieren. Die Praxis legt großen Wert auf individuelle Beratung und Behandlung, um auf die spezifischen Bedürfnisse jedes Patienten einzugehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Eichbergstraße 23",
     "locality": "Berlin",
@@ -103,24 +104,12 @@
   ],
   "faq": [
     {
-      "question": "Was ist Implantat-Akupunktur?",
-      "answer": "Die Implantat-Akupunktur ist ein modernes Behandlungsverfahren der Naturheilkunde, bei dem winzige Nadeln an den Akupunkturpunkten des Gewebes der Ohrmuschel eingesetzt werden. Diese Methode stimuliert kontinuierlich das zentrale Nervensystem."
+      "question": "Wie lange dauert eine Sitzung bei Dr. phil. Thomas Scholze?",
+      "answer": "Die Dauer einer Sitzung wird in den Belegen nicht konkretisiert."
     },
     {
-      "question": "Bei welchen Krankheitsbildern hilft die Implantat-Akupunktur?",
-      "answer": "Die Implantat-Akupunktur hilft sowohl bei chronischen als auch bei akuten Zuständen und Krankheiten, einschließlich neurologischer Erkrankungen wie Parkinson, Ataxie, Multiple Sklerose, nach einem Schlaganfall, Restless-Legs-Syndrom und Tinnitus."
-    },
-    {
-      "question": "Wie lange dauert eine Sitzung der Implantat-Akupunktur?",
-      "answer": "Eine Sitzung der Implantat-Akupunktur dauert etwa zwei Stunden, in denen um die 20 Nadeln eingesetzt werden können, abhängig von der individuellen Therapie."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Dr. Thomas Scholze buchen?",
-      "answer": "Sie können einen Termin bei Dr. Thomas Scholze über die Buchungsseite auf seiner Website unter https://www.implantat-akupunktur.berlin/#Kontakt buchen oder ihn telefonisch unter 0306485447 kontaktieren."
-    },
-    {
-      "question": "Wann sind die Sprechzeiten von Dr. Thomas Scholze?",
-      "answer": "Die Sprechzeiten sind Dienstag, Mittwoch und Donnerstag von 09:00 bis 17:00 Uhr."
+      "question": "Muss ich die Behandlungskosten selbst zahlen?",
+      "answer": "Gesetzlich Versicherte können eine private Zusatzversicherung abschließen. Vor Beginn einer Therapie kann eine Beratung zu den entstehenden Kosten und Absicherungsmöglichkeiten erfolgen."
     }
   ]
 }

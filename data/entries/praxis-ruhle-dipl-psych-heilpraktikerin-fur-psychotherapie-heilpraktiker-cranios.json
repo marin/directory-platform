@@ -3,7 +3,7 @@
   "slug": "praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios",
   "name": "Praxis Rühle - Dipl.-Psych. Heilpraktikerin für Psychotherapie, Heilpraktiker Craniosacraltherapie",
   "description": "Gemeinschaftspraxis Hedda und Wolfgang Rühle Aufgrund jahrelanger Erfahrung mit dem Familienstellen in meiner Praxis habe ich ein leicht erlernbares Verfahren des Familienstellens mit Einzelklienten entwickelt. Es ist für Klienten geeignet, die ihre Problematik mit Hilfe einer Familienaufstellung bearbeiten möchten, sich aber keinem Gruppenprozess aussetzen wollen oder können. Dieses Verfahren lässt sich sehr gut in die Beratung oder Psychotherapie integrieren, kann aber auch als einmalige Sitzung durchgeführt werden. In einer Einzelsitzung, in der die Familienmitglieder durch Symbole dargestellt werden, können familiäre Verstrickungen aufgedeckt, aktiv wirkungsvolle Lösungsansätze erarbeitet und Heilungsprozesse eingeleitet werden. Im Jahrestraining wird dieses Verfahren theoretisch und mit vielen Übungen praktisch vermittelt, so dass die Teilnehmer nach Abschluss des Trainings siche…",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Sybelstraße 13",
     "locality": "Berlin",
@@ -125,5 +126,10 @@
     "/images/entries/praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios/3.webp",
     "/images/entries/praxis-ruhle-dipl-psych-heilpraktikerin-fur-psychotherapie-heilpraktiker-cranios/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie lange dauert eine Sitzung in der Praxis Rühle?",
+      "answer": "Eine Sitzung umfasst in der Regel etwa fünf einstündige Sitzungen im wöchentlichen Abstand."
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "slug": "frau-krone-heilpraktikerin-fur-psychotherapie",
   "name": "Frau Krone Heilpraktikerin für Psychotherapie",
   "description": "Frau Krone ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Marzahn. Sie bietet traumasensible und ressourcenorientierte Einzeltherapie an, um Klienten in einem geschützten Raum bei der Bewältigung von emotionalen Herausforderungen zu unterstützen. Ihr Ansatz zielt darauf ab, alte Muster zu erkennen und persönliche Entwicklung zu fördern, damit Klienten ein zufriedenes Leben führen können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heinrich-Grüber-Straße 8",
     "locality": "Berlin",
@@ -171,24 +172,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Frau Krone an?",
-      "answer": "Frau Krone bietet Psychotherapie an, die traumasensibel und ressourcenorientiert ist. Es handelt sich um Einzeltherapie, die als Selbstzahlerleistung für gesetzliche und private Krankenkassenversicherte verfügbar ist."
+      "question": "Wie lange dauert eine Sitzung bei Frau Krone?",
+      "answer": "Eine Sitzung dauert 60 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Frau Krone vereinbaren?",
-      "answer": "Sie können einen Termin online über Doctolib buchen oder Frau Krone direkt eine E-Mail mit Ihren Wunschterminen senden."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 08:00 bis 18:00 Uhr, Mittwoch von 08:00 bis 19:00 Uhr, Donnerstag und Freitag von 08:00 bis 18:00 Uhr sowie Sonntag von 15:00 bis 17:00 Uhr. Die Praxis ist am Samstag geschlossen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Frau Krone?",
-      "answer": "Die Praxis von Frau Krone befindet sich in der Heinrich-Grüber-Straße 8, 12621 Berlin."
-    },
-    {
-      "question": "Wie kann ich Frau Krone kontaktieren?",
-      "answer": "Sie können Frau Krone telefonisch unter 017685048318 oder per E-Mail an info@frau-krone.de kontaktieren."
+      "question": "Bietet Frau Krone Selbstzahlerleistungen an?",
+      "answer": "Ja, Frau Krone bietet Einzeltherapie als Selbstzahlerleistung für gesetzliche und private Krankenkassenversicherte an."
     }
   ]
 }

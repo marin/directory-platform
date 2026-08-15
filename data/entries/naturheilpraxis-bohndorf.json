@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-bohndorf",
   "name": "Naturheilpraxis Bohndorf",
   "description": "Die Naturheilpraxis Bohndorf in Berlin-Charlottenburg bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Die Schwerpunkte der Praxis liegen in der Homöopathie, Traumatherapie, Ohrakupunktur, Phytotherapie und Körpertherapie. Heilpraktikerin Cornelia Bohndorf verfolgt einen ganzheitlichen Ansatz, um ihre Patienten individuell zu unterstützen und zu begleiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Marco-Polo-Straße 1",
     "locality": "Berlin",
@@ -88,26 +89,5 @@
     "/images/entries/naturheilpraxis-bohndorf/0.webp",
     "/images/entries/naturheilpraxis-bohndorf/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Bohndorf an?",
-      "answer": "Die Naturheilpraxis Bohndorf bietet folgende Therapien an: Homöopathie, Traumatherapie, Ohrakupunktur, Phytotherapie und Körpertherapie."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Bohndorf?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag von 10:00 bis 18:00 Uhr und am Samstag von 14:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Bohndorf buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Naturheilpraxis Bohndorf buchen, indem Sie den Kontaktlink nutzen: https://conny-bohndorf.de/kontakt/."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Bohndorf?",
-      "answer": "Die Naturheilpraxis Bohndorf befindet sich in der Marco-Polo-Straße 1, 14089 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Bohndorf telefonisch erreichen?",
-      "answer": "Sie können die Naturheilpraxis Bohndorf unter der Telefonnummer 015786421292 erreichen."
-    }
-  ]
+  "faq": []
 }

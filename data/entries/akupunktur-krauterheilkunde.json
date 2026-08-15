@@ -70,26 +70,5 @@
     "/images/entries/akupunktur-krauterheilkunde/3.webp",
     "/images/entries/akupunktur-krauterheilkunde/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden werden in der Praxis für Akupunktur & Kräuterheilkunde angeboten?",
-      "answer": "In der Praxis werden Akupunktur, chinesische und westliche Arzneimitteltherapie, Moxibustion, Schröpfen, Hinweise zur Ernährung nach der TCM, Entspannungsübungen, Stressmanagement, Mykotherapie, Homöopathie und Coaching angeboten."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 616 43 831 oder 0172 901 74 29 vereinbaren oder per E-Mail an info@natur-praxisberlin.de."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 21:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Akupunktur & Kräuterheilkunde?",
-      "answer": "Die Praxis befindet sich in der Bötzowstraße 41, 10407 Berlin – Prenzlauer Berg."
-    },
-    {
-      "question": "Welche Beschwerden können in der Praxis behandelt werden?",
-      "answer": "Zu den Schwerpunkten der Praxis gehören Allergien, Schmerzsyndrome, Frauenheilkunde, Kinderwunsch, Stress, Schlafstörungen, Müdigkeit und wiederkehrende Infekte."
-    }
-  ]
+  "faq": []
 }

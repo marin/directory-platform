@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-psychotherapie-steglitz",
   "name": "Heilpraktikerin Psychotherapie Steglitz",
   "description": "Heilpraktikerin Nadja Schlichting bietet in ihrer Praxis in Berlin-Steglitz psychotherapeutische Unterstützung und naturheilkundliche Ansätze an. Ihr Ziel ist es, Klienten bei der Förderung ihrer seelischen Lebensqualität zu begleiten und individuelle Entwicklungsmöglichkeiten aufzuzeigen. Durch einfühlsame Gespräche und gezielte Einzelgespräche werden neue Perspektiven eröffnet, die zu mehr Achtsamkeit und Lebensfreude führen können.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Klingsorstraße 122",
     "locality": "Berlin",
@@ -52,24 +53,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraktikerin Psychotherapie Steglitz?",
-      "answer": "Die Heilpraktikerin Psychotherapie Steglitz befindet sich in der Klingsorstraße 122, 12203 Berlin."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Dauer einer Sitzung beträgt 45 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin über die Webseite unter folgendem Link buchen: https://heilpraktiker-in-psychotherapie.de/termine."
-    },
-    {
-      "question": "Was kostet ein Einzelgespräch?",
-      "answer": "Ein Einzelgespräch kostet 80 €."
-    },
-    {
-      "question": "Wie kann ich die Heilpraktikerin kontaktieren?",
-      "answer": "Sie können die Heilpraktikerin telefonisch unter 0174 45 188 92 oder per E-Mail an info@hpp-schlichting.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraktikerin an?",
-      "answer": "Die Heilpraktikerin bietet Einzelgespräche im Bereich Psychotherapie und Naturheilkunde an."
+      "question": "Was kostet eine Sitzung für Selbstzahler?",
+      "answer": "Das Honorar für Einzelgespräche beträgt 80 €."
     }
   ]
 }

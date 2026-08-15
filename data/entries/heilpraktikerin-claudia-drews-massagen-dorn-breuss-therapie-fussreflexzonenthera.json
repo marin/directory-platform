@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-claudia-drews-massagen-dorn-breuss-therapie-fussreflexzonenthera",
   "name": "Heilpraktikerin Claudia Drews-Massagen-Dorn Breuss Therapie-Fußreflexzonentherapie-Homöopathie-Phytotherapie",
   "description": "Heilpraktikerin Claudia Drews bietet in ihrer Praxis für Naturheilkunde in Berlin eine Vielzahl von Therapien an, darunter Massagen, Dorn Breuss Therapie, dynamische Wirbelsäulentherapie nach Popp, Fußreflexzonentherapie, Phytotherapie sowie prozessorientierte Homöopathie. Ihre ganzheitlichen Ansätze zielen darauf ab, das Wohlbefinden ihrer Patienten zu fördern und die Selbstheilungskräfte zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Cranachstraße 59",
     "locality": "Berlin",
@@ -40,24 +41,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Heilpraktikerin Claudia Drews an?",
-      "answer": "Heilpraktikerin Claudia Drews bietet folgende Therapien an: Massagen, Dorn Breuss Therapie, Dynamische Wirbelsäulentherapie nach Popp®, Fußreflexzonen Therapie, Phytotherapie, prozessorientierte Homöopathie und Bach-Blüten Therapie."
+      "question": "Was passiert beim Ersttermin bei Claudia Drews?",
+      "answer": "Beim Ersttermin beginnt Claudia Drews mit einer ausführlichen Anamnese, um viel über Sie und Ihre Krankengeschichte zu erfahren. Sie bezieht auch Labor-, Blutwerte und Arztbriefe mit ein und erstellt ein individuelles Therapiekonzept."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Erst-Anamnese?",
-      "answer": "Die Kosten für eine Erst-Anamnese liegen bei 110 Euro, abhängig von der Dauer."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Claudia Drews?",
-      "answer": "Die Praxis von Claudia Drews befindet sich in der Cranachstraße 59, 12157 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich Claudia Drews erreichen?",
-      "answer": "Sie können Claudia Drews telefonisch unter 01746641260 oder per E-Mail an naturheilkunde-drews@gmx.de erreichen."
-    },
-    {
-      "question": "Ist die Praxis derzeit geöffnet?",
-      "answer": "Die Praxis von Claudia Drews ist vorübergehend geschlossen."
+      "question": "Wie funktioniert die Kostenübernahme für Selbstzahler?",
+      "answer": "Die Kosten für naturheilkundliche Behandlungen werden teilweise von privaten Krankenkassen und Zusatzversicherungen ganz oder anteilig übernommen. Unabhängig davon ist das Honorar in voller Höhe zu begleichen."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-u-heilkunstwerkstatt-regenbogen-ingeborg-wilkus",
   "name": "Naturheilpraxis u. Heilkunstwerkstatt Regenbogen Ingeborg Wilkus",
   "description": "Die Naturheilpraxis und Heilkunstwerkstatt Regenbogen, geleitet von Ingeborg Wilkus, befindet sich in Berlin-Spandau. Hier werden verschiedene naturheilkundliche Behandlungen angeboten, darunter Lichtkörperaktivierungen, Schwangerschafts- und Geburtsbegleitungen sowie Tierheilbehandlungen. Die Praxis verbindet traditionelle Heilmethoden mit modernen Ansätzen und fördert ein ganzheitliches Bewusstsein für Mensch und Natur.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schöllkrautstraße 24",
     "locality": "Berlin",
@@ -68,26 +69,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Regenbogen an?",
-      "answer": "Die Naturheilpraxis Regenbogen bietet eine Vielzahl von Dienstleistungen an, darunter Lichtkörperaktivierung, Schwangerschafts- und Geburtsbegleitung, Shirodhara Stirnguß, Naturheilkunde, Psychologie, Heilgesänge, Tierheilbehandlung und Fernheilbehandlung."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Regenbogen?",
-      "answer": "Die Naturheilpraxis Regenbogen befindet sich in der Schöllkrautstraße 24, 13503 Berlin, im Stadtteil Spandau."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Regenbogen buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Regenbogen über die Webseite buchen, indem Sie den Kontaktbereich aufrufen: Termin buchen."
-    },
-    {
-      "question": "Bietet die Praxis auch Seminare an?",
-      "answer": "Ja, die Naturheilpraxis Regenbogen bietet auch Seminare an, die sich mit verschiedenen Themen der Heilkunst und Naturheilkunde beschäftigen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Regenbogen kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Regenbogen telefonisch unter 03025097527 oder über die Webseite www.regenbogensonne.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

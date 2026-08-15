@@ -3,7 +3,7 @@
   "slug": "homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin",
   "name": "Homöopathie & Akupunktur Praxis Berlin Wilmersdorf Alternativmedizin",
   "description": "Die Homöopathie & Akupunktur Praxis Berlin Wilmersdorf bietet ganzheitliche Gesundheitslösungen und seelische Balance unter der Leitung von Julia Nitzsche, einer erfahrenen Heilpraktikerin mit über 30 Jahren Praxiserfahrung. Die Praxis spezialisiert sich auf Homöopathie, Akupunktur und Naturheilkunde und befindet sich in der Mainzer Str. 23 in Berlin. Hier werden individuelle Heilmethoden angewendet, um die Gesundheit der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mainzer Str. 23",
     "locality": "Berlin",
@@ -75,26 +76,5 @@
     "/images/entries/homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin/0.webp",
     "/images/entries/homoopathie-akupunktur-praxis-berlin-wilmersdorf-alternativmedizin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis an?",
-      "answer": "Die Praxis bietet Homöopathie, Akupunktur (TCM) und Naturheilkunde an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag, Dienstag und Donnerstag von 10:00 bis 18:30 Uhr, Mittwoch von 11:30 bis 16:30 Uhr und Freitag von 10:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Mainzer Str. 23, 10715 Berlin, im Stadtteil Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0308329027 oder per E-Mail an julia.nitzsche@gmx.de kontaktieren."
-    },
-    {
-      "question": "Wer ist die Heilpraktikerin der Praxis?",
-      "answer": "Die Heilpraktikerin der Praxis ist Julia Nitzsche, die über 30 Jahre Praxiserfahrung in individueller Heilkunde verfügt."
-    }
-  ]
+  "faq": []
 }

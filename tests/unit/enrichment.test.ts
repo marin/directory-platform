@@ -1,6 +1,8 @@
 import { describe, it, expect } from "vitest";
 import { buildGroundingContext, stripMarkdownForPrompt } from "../../src/lib/data/build-grounding-context.ts";
 import { checkGrounding } from "../../src/lib/data/grounding.ts";
+import { isNapFaqItem } from "../../src/lib/data/extract-about.ts";
+import { buildFixtureFaq, extractFaqTopics } from "../../src/lib/data/extract-faq-topics.ts";
 import { entrySchema } from "../../src/lib/validation/entry-schema.ts";
 
 describe("buildGroundingContext", () => {
@@ -98,5 +100,25 @@ describe("checkGrounding EUR", () => {
       websiteExcerpt: "Mittwochs von 10-13 Uhr biete ich eine offene Sprechstunde an.",
     });
     expect(result.passed).toBe(true);
+  });
+});
+
+describe("fixture FAQ from website topics", () => {
+  it("writes topic questions from snippets and skips NAP", () => {
+    const topics = extractFaqTopics({
+      markdown:
+        "Die Anamnese dauert 60 Minuten. Ich rechne ausschließlich auf Privatrechnung ab. Treatment in English is possible.",
+    });
+    const faq = buildFixtureFaq(topics);
+
+    expect(faq.length).toBeGreaterThan(0);
+    expect(faq.every((item) => !isNapFaqItem(item))).toBe(true);
+    expect(faq.some((item) => item.question.includes("Ersttermin") || item.answer.includes("Anamnese"))).toBe(true);
+
+    const grounding = checkGrounding(
+      faq.map((item) => `${item.question} ${item.answer}`).join("\n"),
+      { topics },
+    );
+    expect(grounding.passed).toBe(true);
   });
 });

@@ -3,7 +3,7 @@
   "slug": "martina-merlander-osteopathie-in-berlin",
   "name": "Martina Merländer - OSTEOPATHIE in Berlin",
   "description": "Martina Merländer bietet in ihrer Praxis für Osteopathie und Naturheilkunde in Berlin-Charlottenburg eine ganzheitliche Behandlung an, die Körper, Geist und Seele als untrennbare Einheit betrachtet. Mit langjähriger Erfahrung und Offenheit gegenüber verschiedenen medizinischen Richtungen verfolgt sie individuelle Lösungsansätze für gesundheitliche Probleme. Ihre Praxis befindet sich in ruhigen und niveauvollen Räumlichkeiten in der Reichsstraße 93.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Reichsstraße 93",
     "locality": "Berlin",
@@ -63,22 +64,5 @@
   "images": [
     "/images/entries/martina-merlander-osteopathie-in-berlin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Martina Merländer an?",
-      "answer": "Martina Merländer bietet Osteopathie, Naturheilkunde und Musikermedizin an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Martina Merländer?",
-      "answer": "Die Praxis befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Montag von 10:00 bis 18:30 Uhr, Dienstag von 09:30 bis 19:00 Uhr, Donnerstag von 09:30 bis 19:00 Uhr und Freitag von 10:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Martina Merländer kontaktieren?",
-      "answer": "Sie können Martina Merländer telefonisch unter 0303015772 oder per E-Mail an info@chisanatura.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

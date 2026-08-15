@@ -129,24 +129,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraxis Christa Pölking?",
-      "answer": "Die Heilpraxis Christa Pölking befindet sich in der Weichselstraße 53, 12045 Berlin, im Stadtteil Neukölln."
+      "question": "Wie lange dauert ein Ersttermin bei Christa Pölking?",
+      "answer": "Ein Ersttermin dauert ca. 90 - 120 Minuten."
     },
     {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis an?",
-      "answer": "Die Heilpraxis bietet verschiedene Dienstleistungen an, darunter Homöopathie, CranioSacralTherapie, Stressbewältigung, Burnout-Prophylaxe, Autogenes Training und Progressive Muskelrelaxation."
+      "question": "Wie lange dauert eine homöopathische Folgebehandlung?",
+      "answer": "Eine homöopathische Folgebehandlung dauert 50 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite der Heilpraxis unter https://www.christapoelking.de/kontakt oder telefonisch unter 030-25056041 vereinbaren."
-    },
-    {
-      "question": "Welche Preise gelten für die angebotenen Behandlungen?",
-      "answer": "Die Preise für die Behandlungen variieren, z.B. kostet eine 60-minütige Sitzung 75,- €, eine 50-minütige Sitzung 65,- € und eine 90-minütige Sitzung 150,- €."
-    },
-    {
-      "question": "Bietet die Heilpraxis auch Kurse an?",
-      "answer": "Ja, die Heilpraxis bietet Kurse wie Autogenes Training (8 x 90 min. für 139,- €) und Progressive Muskelrelaxation (8 x 60 min. für 129,- €) an."
+      "question": "Wie werden die Behandlungen abgerechnet, wenn ich Selbstzahler bin?",
+      "answer": "Die Behandlungen können über eine private Krankenversicherung oder eine Zusatzversicherung für Heilpraktikerleistungen abgerechnet werden."
     }
   ]
 }

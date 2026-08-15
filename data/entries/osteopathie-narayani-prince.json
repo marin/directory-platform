@@ -3,7 +3,7 @@
   "slug": "osteopathie-narayani-prince",
   "name": "Osteopathie Narayani Prince",
   "description": "ZKO® – Zentrum für Kinderosteopathie in der DAOM e. V., Münster Dresden Int. University und Osteopathie Schule Deutschland, Berlin",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fürstenwalder Allee 254",
     "locality": "Berlin",
@@ -65,5 +66,22 @@
     "/images/entries/osteopathie-narayani-prince/0.webp",
     "/images/entries/osteopathie-narayani-prince/1.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was passiert beim Ersttermin in der Praxis?",
+      "answer": "In der osteopathischen Sitzung erfolgt eine Anamnese, eine gründliche Untersuchung und eine gezielte Behandlung, die individuell auf das jeweilige Beschwerdebild abgestimmt ist."
+    },
+    {
+      "question": "Wie lange dauert eine Behandlung?",
+      "answer": "Die Dauer der Erstbehandlung beträgt 65-75 Minuten, die der Folgebehandlung 45-55 Minuten."
+    },
+    {
+      "question": "Wie werden die Kosten für die Behandlungen geregelt?",
+      "answer": "Die Kosten für die Erstbehandlung liegen bei ca. 110 €, die Folgebehandlung bei ca. 95 €. Die Abrechnung erfolgt nach der Gebührenordnung für Heilpraktiker (GeBüH)."
+    },
+    {
+      "question": "Bietet die Praxis Behandlungen für Kinder an?",
+      "answer": "Ja, es werden osteopathische Behandlungen für Säuglinge und Kinder angeboten."
+    }
+  ]
 }

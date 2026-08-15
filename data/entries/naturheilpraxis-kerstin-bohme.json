@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-kerstin-bohme",
   "name": "Naturheilpraxis Kerstin Böhme",
   "description": "Die Naturheilpraxis Kerstin Böhme in Berlin bietet individuelle Behandlungen auf Basis von Naturheilverfahren an. Ziel der Praxis ist es, die Gesundheit und Unabhängigkeit der Patienten sowie deren Familien zu fördern, wobei sowohl traditionelle als auch moderne Methoden berücksichtigt werden. Die Heilpraktikerin nimmt sich Zeit, um auf die Bedürfnisse der Patienten einzugehen und maßgeschneiderte Behandlungskonzepte zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lindenstraße 20",
     "locality": "Berlin",
@@ -25,28 +26,11 @@
   "phone": "03064169177",
   "email": "nhboehme@web.de",
   "website": "http://nh-boehme.info/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIToHrFM3qEcRFn3HH0SNIFU",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Kerstin Böhme?",
-      "answer": "Die Naturheilpraxis Kerstin Böhme befindet sich in der Lindenstraße 20, 12589 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Kerstin Böhme kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Kerstin Böhme telefonisch unter 03064169177 oder per E-Mail an nhboehme@web.de kontaktieren."
-    },
-    {
-      "question": "Welche Behandlungsansätze bietet die Naturheilpraxis Kerstin Böhme an?",
-      "answer": "Die Naturheilpraxis Kerstin Böhme bietet individuelle Behandlungskonzepte an, die alte und neue Naturheilverfahren kombinieren, ohne die klassische Medizin außer Acht zu lassen."
-    },
-    {
-      "question": "Wie wichtig ist die individuelle Behandlung in der Naturheilpraxis Kerstin Böhme?",
-      "answer": "In der Naturheilpraxis Kerstin Böhme wird großen Wert auf individuelle Behandlungskonzepte gelegt, die genau auf die Bedürfnisse der Patienten abgestimmt sind."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJIToHrFM3qEcRFn3HH0SNIFU",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

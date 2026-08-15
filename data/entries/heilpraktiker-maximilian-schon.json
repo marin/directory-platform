@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-maximilian-schon",
   "name": "Heilpraktiker Maximilian Schön",
   "description": "Heilpraktiker Maximilian Schön in Berlin bietet eine ganzheitliche Schmerztherapie nach dem Liebscher & Bracht Konzept an. Sein Ziel ist es, Patienten ein schmerzfreies Leben zu ermöglichen, ohne den Einsatz von Medikamenten oder Operationen. In seiner Praxis in Friedrichshain-Kreuzberg werden individuelle Schmerzbehandlungen angeboten, die auf die spezifischen Bedürfnisse der Patienten abgestimmt sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gubener Str. 29",
     "locality": "Berlin",
@@ -93,26 +94,5 @@
     "/images/entries/heilpraktiker-maximilian-schon/3.webp",
     "/images/entries/heilpraktiker-maximilian-schon/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Maximilian Schön?",
-      "answer": "Die Praxis von Maximilian Schön befindet sich in der Gubener Str. 29, 10243 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Maximilian Schön buchen?",
-      "answer": "Sie können einen Termin bei Maximilian Schön über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 21:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Maximilian Schön kontaktieren?",
-      "answer": "Sie können Maximilian Schön telefonisch unter 017630478143 oder per E-Mail an info@hp-schoen.com kontaktieren."
-    },
-    {
-      "question": "Was ist das Ziel der Therapie bei Maximilian Schön?",
-      "answer": "Das Ziel der Therapie bei Maximilian Schön ist es, jedem Menschen ein schmerzfreies Leben zu ermöglichen."
-    }
-  ]
+  "faq": []
 }

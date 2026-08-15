@@ -3,7 +3,7 @@
   "slug": "cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi",
   "name": "Cognitive Behavioral Therapy (CBT) - Maxim Makhankov, Heilpraktiker für Psychotherapie",
   "description": "Therapy, for me, is a shared journey. I see my role as a witness and companion in your process of change. Drawing from cognitive-behavioral, humanistic, and psychodynamic traditions, I adapt my approach to fit your individual needs. My work is informed by self-compassion, radical acceptance, and mindfulness-based techniques. I believe therapy should be both structured and flexible. Some clients seek guidance and practical tools; others need a space to be heard and understood without pressure. I adjust my role based on your needs — whether that means taking an active, structured approach or creating a reflective space for exploration.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Straßmannstraße 39",
     "locality": "Berlin",
@@ -75,5 +76,10 @@
     "/images/entries/cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi/0.webp",
     "/images/entries/cognitive-behavioral-therapy-cbt-maxim-makhankov-heilpraktiker-fur-psychotherapi/1.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "In welchen Sprachen wird die Therapie angeboten?",
+      "answer": "Die Therapie kann auf Englisch, Deutsch oder Russisch durchgeführt werden."
+    }
+  ]
 }

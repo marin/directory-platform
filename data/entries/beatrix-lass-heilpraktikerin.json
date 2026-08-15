@@ -3,7 +3,7 @@
   "slug": "beatrix-lass-heilpraktikerin",
   "name": "Beatrix Laß Heilpraktikerin",
   "description": "In der Naturheilpraxis von Beatrix Laß in Berlin-Zehlendorf stehen ganzheitliche Heilmethoden im Mittelpunkt, die eine wirkungsvolle Alternative zur symptomatischen Behandlung bieten. Die Heilpraktikerin unterstützt ihre Patienten dabei, ihre Leistungsfähigkeit und ihr Wohlbefinden zu fördern, insbesondere für stressgeplagte Menschen. Mit einer umfangreichen Ausbildung und verschiedenen Zertifikaten in Akupunktur, Homöopathie und weiteren naturheilkundlichen Verfahren bringt sie fundiertes Wissen in ihre Praxis ein.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Beerenstraße 23A",
     "locality": "Berlin",
@@ -36,26 +37,5 @@
     "/images/entries/beatrix-lass-heilpraktikerin/3.webp",
     "/images/entries/beatrix-lass-heilpraktikerin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Beatrix Laß?",
-      "answer": "Die Naturheilpraxis von Beatrix Laß befindet sich in der Beerenstraße 23A, 14163 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich Beatrix Laß kontaktieren?",
-      "answer": "Sie können Beatrix Laß telefonisch unter 03081054130 oder per E-Mail an mail@naturheilpraxis-lass.de kontaktieren."
-    },
-    {
-      "question": "Bietet Beatrix Laß Online-Terminbuchungen an?",
-      "answer": "Ja, Sie können einen Termin online buchen, indem Sie die Webseite besuchen und den entsprechenden Link zur Kontaktseite nutzen: https://www.naturheilpraxis-lass.de/kontakt.html."
-    },
-    {
-      "question": "Welche Heilmethoden bietet Beatrix Laß an?",
-      "answer": "Beatrix Laß bietet ganzheitliche Heilmethoden an, die eine Alternative zur gängigen symptomatischen Behandlungsweise darstellen."
-    },
-    {
-      "question": "Gibt es Informationen über die Öffnungszeiten der Praxis?",
-      "answer": "Im aktuellen Eintrag sind keine Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-effner",
   "name": "Naturheilpraxis Effner",
   "description": "Die Naturheilpraxis Effner in Berlin-Pankow bietet eine ganzheitliche Behandlung von akuten und chronischen Erkrankungen. Heilpraktiker André Effner kombiniert jahrzehntelange Erfahrung mit einem individuellen Ansatz, der sowohl naturheilkundliche als auch schulmedizinische Methoden umfasst. Die Praxis legt besonderen Wert auf Ursachenbehandlung und nimmt sich Zeit für eine ausführliche Anamnese, um maßgeschneiderte Therapiekonzepte zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hauptstraße 18",
     "locality": "Berlin",
@@ -129,24 +130,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieverfahren bietet die Naturheilpraxis Effner an?",
-      "answer": "Die Naturheilpraxis Effner bietet verschiedene Therapieverfahren an, darunter Homöopathie, Akupunktur (TCM) und Naturheilkunde."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Effner buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Effner über die Webseite buchen. Hier ist der Link zur Terminbuchung: Termin vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Naturheilpraxis Effner?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Effner sind von Montag bis Donnerstag von 09:00 bis 19:00 Uhr und am Freitag von 09:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Effner?",
-      "answer": "Die Naturheilpraxis Effner befindet sich in der Hauptstraße 18, 13158 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Effner kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Effner telefonisch unter 0304529538 oder per E-Mail an hello.blite@gmail.com kontaktieren."
+      "question": "Wie läuft der Ersttermin in der Naturheilpraxis Effner ab?",
+      "answer": "Wir finden gemeinsam heraus, ob und wie ich Ihnen helfen kann. Wenn alles passt, machen wir einen Termin zur Anamnese aus."
     }
   ]
 }

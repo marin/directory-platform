@@ -3,7 +3,7 @@
   "slug": "augendiagnose-berlin-heilpraktikerin",
   "name": "Augendiagnose Berlin / Heilpraktikerin",
   "description": "In der Naturheilpraxis Krohn in Berlin Spandau liegt der Schwerpunkt auf der Augendiagnose, auch bekannt als Iridologie. Diese Methode betrachtet die Iris des Auges als Spiegelbild des gesamten Organismus und ermöglicht Einblicke in die Konstitution und Disposition des Menschen. Neben der Augendiagnose werden auch Verfahren wie die Fußreflexzonendiagnose und Antlitzdiagnose angeboten. Die Praxis befindet sich am Grimnitzsee und bietet eine ganzheitliche Herangehensweise an die Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Tharsanderweg 46",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
     "/images/entries/augendiagnose-berlin-heilpraktikerin/1.webp",
     "/images/entries/augendiagnose-berlin-heilpraktikerin/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Was ist Augendiagnose und wie funktioniert sie?",
-      "answer": "Die Augendiagnose, auch Iridologie genannt, geht davon aus, dass die Regenbogenhaut (Iris) des Auges das Geschehen im gesamten Organismus widerspiegelt. Bei der Augendiagnose wird das gesamte Auge betrachtet, einschließlich der Iris, Sklera, Bindehaut und Anhangsgebilde, um Rückschlüsse auf die Konstitution und Disposition des Menschen zu ziehen."
-    },
-    {
-      "question": "Wie viel kostet eine Augendiagnose in Berlin?",
-      "answer": "Der Preis für eine Augendiagnose in Berlin beträgt 60,00 €."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Heilpraktikerin in Berlin Spandau?",
-      "answer": "Die Heilpraktikerin hat von Montag bis Donnerstag von 10:00 bis 18:00 Uhr und am Freitag von 10:00 bis 14:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin für eine Augendiagnose vereinbaren?",
-      "answer": "Sie können einen Termin für eine Augendiagnose telefonisch unter 03026329999 oder per E-Mail an info@naturheilpraxis-krohn.de vereinbaren."
-    },
-    {
-      "question": "Welche weiteren Angebote gibt es in der Naturheilpraxis Krohn?",
-      "answer": "Neben der Augendiagnose bietet die Naturheilpraxis Krohn auch Fußreflexzonendiagnose und Antlitzdiagnose an."
-    }
-  ]
+  "faq": []
 }

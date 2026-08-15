@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapie-kerstin-bolze",
   "name": "Heilpraktikerin für Psychotherapie, Kerstin Bolze",
   "description": "Kerstin Bolze ist Heilpraktikerin für Psychotherapie und Astrologin in Berlin. Sie bietet ganzheitliche Unterstützung bei emotionalen Blockaden und Lebenskrisen, unter anderem durch Klopfakupressur und klientenzentrierte Gesprächstherapie. In ihrer Praxis werden auch homöopathische Ansätze sowie angewandte Astrologie zur Förderung des Wohlbefindens eingesetzt. Interessierte können ein kostenfreies Kennenlerngespräch vereinbaren, um individuelle Begleitmöglichkeiten zu besprechen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Meyerbeerstraße 113",
     "locality": "Berlin",
@@ -69,24 +70,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Kerstin Bolze an?",
-      "answer": "Kerstin Bolze bietet unter anderem Meridian-Energie-Klopftherapie (MET), Klientenzentrierte Gesprächstherapie nach C. Rogers sowie Homöopathie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Kerstin Bolze buchen?",
-      "answer": "Sie können einen Termin über die Website von Kerstin Bolze buchen. Der direkte Link zur Terminbuchung ist: https://kerstinbolze.de/termin/."
-    },
-    {
-      "question": "An welchen Tagen hat die Praxis geöffnet?",
-      "answer": "Die Praxis von Kerstin Bolze hat von Montag bis Donnerstag geöffnet, jeweils von 09:30 bis 17:30 Uhr."
-    },
-    {
-      "question": "Bietet Kerstin Bolze auch Beratungen für Kinder und Jugendliche an?",
-      "answer": "Ja, Kerstin Bolze bietet ihre Therapien auch für Erwachsene, Kinder und Jugendliche an."
-    },
-    {
-      "question": "Wie kann ich Kerstin Bolze kontaktieren?",
-      "answer": "Sie können Kerstin Bolze telefonisch unter 01724274655 oder per E-Mail an kontakt@kerstinbolze.de erreichen."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 75 Minuten."
     }
   ]
 }

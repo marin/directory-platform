@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-anne-meisenbach",
   "name": "Heilpraktikerin Anne Meisenbach",
   "description": "Heilpraktikerin Anne Meisenbach bietet in ihrer Praxis in Berlin-Prenzlauer Berg ganzheitliche Körpertherapie an. Ihr Schwerpunkt liegt auf Darmanalyse, Labordiagnostik und Frequenztherapie, um die Selbstregulation der Patienten zu unterstützen. Durch individuelle Therapieansätze, die Ernährungsanpassungen und gezielte Labortests umfassen, wird der Ursprung körperlicher Beschwerden ermittelt und behandelt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Naugarder Str. 12",
     "locality": "Berlin",
@@ -107,24 +108,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Anne Meisenbach?",
-      "answer": "Die Praxis von Heilpraktikerin Anne Meisenbach befindet sich in der Naugarder Str. 12, 10409 Berlin-Prenzlauer Berg."
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Sie erhalten weitere Informationen zu den Frequenzgeräten, wie z.B. die Rife-Tech Plasmatherapie und deren Behandlungsmöglichkeiten. Es wird eine ganzheitliche Analyse Ihrer Beschwerden durchgeführt."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 20:00 Uhr."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Sitzungen dauern 30 Minuten, 45 Minuten oder 60 Minuten."
     },
     {
-      "question": "Welche Therapien bietet Heilpraktikerin Anne Meisenbach an?",
-      "answer": "Heilpraktikerin Anne Meisenbach bietet unter anderem Darmanalyse, Labordiagnostik und Frequenztherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite deine-naturheilkraft.de vereinbaren."
-    },
-    {
-      "question": "Was kostet eine Erstananalyse bei Heilpraktikerin Anne Meisenbach?",
-      "answer": "Die Erstananalyse dauert 90-100 Minuten und kostet 150,00 EUR."
+      "question": "Wer trägt die Kosten für die Behandlung?",
+      "answer": "Gesetzliche Krankenkassen erstatten grundsätzlich keine Kosten, die beim Besuch eines Heilpraktikers oder einer Heilpraktikerin entstehen. Der Heilpraktiker kann keine Rezepte zur Abrechnung mit einer gesetzlichen Krankenkasse ausschreiben."
     }
   ]
 }

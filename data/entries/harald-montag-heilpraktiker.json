@@ -95,24 +95,20 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Harald Montag als Heilpraktiker an?",
-      "answer": "Harald Montag bietet unter anderem Ernährungsberatung, Cranio-Sacral-Therapie zur Schmerzlinderung und eine umfassende Ursachenforschung für den Heilerfolg an."
+      "question": "Wie läuft der Ersttermin bei Harald Montag ab?",
+      "answer": "Im Erstgespräch nehme ich mir Zeit, Ihre Symptome und Beschwerden genau aufzunehmen. Es findet eine Erstanamnese statt, und wir entscheiden gemeinsam, welchen Behandlungsweg wir gehen wollen."
     },
     {
-      "question": "Wo befindet sich die Praxis von Harald Montag?",
-      "answer": "Die Praxis von Harald Montag befindet sich in der Ilmenauer Str. 11, 14193 Berlin, im Stadtteil Steglitz-Zehlendorf."
+      "question": "Wie lange dauert eine Behandlung bei Harald Montag?",
+      "answer": "Eine Basis-Behandlung von 60 Minuten kostet 120 Euro, eine Behandlungs-Doppelstunde von 120 Minuten 160 Euro."
     },
     {
-      "question": "Wie kann ich einen Termin bei Harald Montag buchen?",
-      "answer": "Sie können einen Termin bei Harald Montag über die Buchungsseite unter https://koalendar.com/u/HaraldMontag buchen."
+      "question": "Werden die Kosten für die Behandlungen von den Krankenkassen übernommen?",
+      "answer": "Die gesetzlichen Krankenkassen übernehmen die Kosten für Heilpraktikerleistungen in der Regel nicht. Mit einer privaten Krankenversicherung oder einer Heilpraktiker-Zusatzversicherung werden die Kosten je nach Tarif ganz oder teilweise erstattet."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis von Harald Montag?",
-      "answer": "Die Praxis hat von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Harald Montag kontaktieren?",
-      "answer": "Sie können Harald Montag telefonisch unter 0308262753 oder per E-Mail an kontakt@praxis-montag.de kontaktieren."
+      "question": "Bietet Harald Montag Behandlungen für Kinder an?",
+      "answer": "Ja, ich biete unter anderem die Cranio-Sacral-Therapie für Erwachsene und Kinder an."
     }
   ]
 }

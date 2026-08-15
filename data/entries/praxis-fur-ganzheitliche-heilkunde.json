@@ -3,7 +3,7 @@
   "slug": "praxis-fur-ganzheitliche-heilkunde",
   "name": "Praxis für ganzheitliche Heilkunde",
   "description": "Die Praxis für ganzheitliche Heilkunde in Berlin-Lichtenberg bietet eine integrative Therapie, die Körper, Geist und Seele miteinander verbindet. Heilpraktikerin Jenny begleitet Erwachsene und Kinder von Geburt an mit verschiedenen körpertherapeutischen Verfahren, darunter Cranio-Sacrale Therapie, Faszientechniken und homöopathische Behandlungen. Zudem werden individuelle Gespräche und Empfehlungen zu natürlichen Heilmitteln angeboten, um das Wohlbefinden der Patienten zu fördern. Besondere Aufmerksamkeit gilt der Begleitung von Familien und der Behandlung rund um die Geburt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Münsterlandstraße 33",
     "locality": "Berlin",
@@ -146,26 +147,5 @@
     "/images/entries/praxis-fur-ganzheitliche-heilkunde/0.webp",
     "/images/entries/praxis-fur-ganzheitliche-heilkunde/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapiemethoden bietet die Praxis für ganzheitliche Heilkunde an?",
-      "answer": "Die Praxis bietet eine Vielzahl von Therapiemethoden an, darunter osteopathische und homöopathische Verfahren, Cranio Sacrale Therapie, Faszientechniken, Massagen, Akupressur sowie reflexologische Techniken."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Dienstag von 09:00 bis 17:00 Uhr, Mittwoch, Donnerstag und Freitag von 09:00 bis 15:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für ganzheitliche Heilkunde?",
-      "answer": "Die Praxis befindet sich in der Münsterlandstraße 33, 10317 Berlin, im Stadtteil Lichtenberg."
-    },
-    {
-      "question": "Bietet die Praxis auch Hausbesuche an?",
-      "answer": "Ja, die Praxis bietet Hausbesuche für Familien mit neugeborenen Kindern an."
-    },
-    {
-      "question": "In welchen Sprachen werden die Behandlungen angeboten?",
-      "answer": "Die Behandlungen werden in Deutsch, Englisch und Französisch angeboten."
-    }
-  ]
+  "faq": []
 }

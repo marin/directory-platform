@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-sandra-roszewski-heilpraktikerin-b-sc-psychologie-psychotherapie",
   "name": "Naturheilpraxis Sandra Roszewski. Heilpraktikerin & B.Sc. Psychologie. Psychotherapie, Schilddrüsensprechstunde, Coaching",
   "description": "In der Naturheilpraxis von Sandra Roszewski in Berlin-Neukölln stehen Psychotherapie, Naturheilkunde und individuelle Gesundheitsberatung im Mittelpunkt. Die Heilpraktikerin und Psychologin bietet unter anderem eine spezielle Schilddrüsensprechstunde sowie ganzheitliche Frauenheilkunde an. Ihr Ansatz kombiniert psychotherapeutische Verfahren mit naturheilkundlichen Methoden, um die individuellen Bedürfnisse der Patienten zu berücksichtigen und ganzheitliche Lösungen zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Nansenstraße 2",
     "locality": "Berlin",
@@ -76,24 +77,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Sandra Roszewski an?",
-      "answer": "Die Naturheilpraxis Sandra Roszewski bietet Psychotherapie, Schilddrüsensprechstunden, Coaching sowie verschiedene naturheilkundliche Verfahren wie Homöopathie und Akupunktur an."
+      "question": "Was muss ich zum Ersttermin in der Naturheilpraxis Sandra Roszewski wissen?",
+      "answer": "Für einen Ersttermin zur ganzheitlichen Frauenheilkunde, Coaching oder Psychotherapie wird eine 60-minütige Erstanamnese gebucht."
     },
     {
-      "question": "Wo befindet sich die Naturheilpraxis Sandra Roszewski?",
-      "answer": "Die Naturheilpraxis befindet sich in der Nansenstraße 2, 12047 Berlin, Neukölln."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
-      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Webseite unter dem Abschnitt \"Kontakt und Termine\" buchen: hier klicken."
-    },
-    {
-      "question": "Was kostet eine Sitzung in der Naturheilpraxis?",
-      "answer": "Die Kosten für eine Sitzung in der Naturheilpraxis betragen im Schnitt 40 Euro pro angefangene Viertelstunde, während Folgetermine 30 Euro pro angefangene Viertelstunde kosten."
-    },
-    {
-      "question": "Bietet die Praxis auch Online-Kurse an?",
-      "answer": "Ja, die Naturheilpraxis bietet auch Onlinekurse und E-Books an."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Behandlungen in der Naturheilpraxis?",
+      "answer": "Die Praxis ist eine Privatpraxis. Gesetzliche Krankenversicherungen übernehmen die Kosten für Heilpraktikerleistungen nicht, es sei denn, es wurde eine entsprechende Zusatzversicherung abgeschlossen."
     }
   ]
 }

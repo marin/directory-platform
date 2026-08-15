@@ -3,7 +3,7 @@
   "slug": "frau-andrea-mayr-gasper",
   "name": "Frau Andrea Mayr-Gasper",
   "description": "Frau Andrea Mayr-Gasper ist Heilpraktikerin in Berlin-Treptow-Köpenick und bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Ihre Praxis befindet sich in der Salvador-Allende-Straße 2-8, wo sie individuelle Therapiekonzepte entwickelt, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Salvador-Allende-Straße 2-8",
     "locality": "Berlin",
@@ -57,20 +58,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraxis von Frau Andrea Mayr-Gasper?",
-      "answer": "Die Heilpraxis von Frau Andrea Mayr-Gasper befindet sich in der Salvador-Allende-Straße 2-8, 12559 Berlin."
+      "question": "Wie lange dauert ein Ersttermin?",
+      "answer": "Die Dauer eines Ersttermins ist nicht spezifiziert."
     },
     {
-      "question": "Wie kann ich Frau Andrea Mayr-Gasper kontaktieren?",
-      "answer": "Sie können Frau Andrea Mayr-Gasper telefonisch unter der Nummer 03061674798 kontaktieren."
-    },
-    {
-      "question": "Welche Kategorien deckt die Heilpraxis ab?",
-      "answer": "Die Heilpraxis von Frau Andrea Mayr-Gasper deckt die Kategorie Naturheilkunde ab."
-    },
-    {
-      "question": "Welche Behandlungsschwerpunkte bietet die Heilpraxis an?",
-      "answer": "Die Heilpraxis bietet ein breites Leistungsspektrum an, welches verschiedene naturheilkundliche Verfahren umfasst."
+      "question": "Bietet die Praxis Behandlungen für Kinder an?",
+      "answer": "Ja, es werden Behandlungen wie Kinderheilkunde, Kinder-Massage und Kinder-Yoga angeboten."
     }
   ]
 }

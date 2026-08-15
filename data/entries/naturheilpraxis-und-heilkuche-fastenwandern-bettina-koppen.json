@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-und-heilkuche-fastenwandern-bettina-koppen",
   "name": "Naturheilpraxis und Heilküche, Fastenwandern Bettina Köppen",
   "description": "In der Naturheilpraxis und Heilküche von Bettina Köppen in Berlin-Pankow stehen Pflanzenheilkunde und verschiedene Ausleitungsverfahren im Mittelpunkt. Die Praxis bietet eine Vielzahl von naturheilkundlichen Behandlungen, darunter Homöopathie, Massagen sowie Heilfasten und Blutegeltherapie, um die Gesundheit zu fördern und das Gleichgewicht des Organismus wiederherzustellen. Ziel ist es, die natürliche Regulationsfähigkeit des Körpers zu unterstützen und akuten sowie chronischen Erkrankungen präventiv entgegenzuwirken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Raabestraße 13",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "01775906976",
   "email": "bettina.koeppen@gmx.net",
   "website": "http://www.naturheilpraxis-koeppen.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQAc7QROqEcRYXYmYzBxU6w",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -44,25 +48,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Bettina Köppen an?",
-      "answer": "Die Naturheilpraxis Bettina Köppen bietet Dienstleistungen in der Pflanzenheilkunde, Ernährungsheilkunde, Homöopathie, Massagen sowie Ausleitungsverfahren wie Schröpfen, Blutegeltherapie und Heilfasten an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Bettina Köppen?",
-      "answer": "Die Naturheilpraxis Bettina Köppen befindet sich in der Raabestraße 13, 10405 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis sind Montag und Mittwoch von 09:00 bis 20:00 Uhr sowie Freitag von 09:00 bis 21:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Bettina Köppen kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Bettina Köppen telefonisch unter 01775906976 oder per E-Mail an bettina.koeppen@gmx.net kontaktieren."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJAQAc7QROqEcRYXYmYzBxU6w",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

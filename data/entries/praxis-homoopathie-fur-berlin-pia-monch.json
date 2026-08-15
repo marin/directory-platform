@@ -107,24 +107,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet die Praxis Homöopathie für Berlin an?",
-      "answer": "Die Praxis bietet klassische Homöopathie, Massagen, Fußreflexzonentherapie und Pflanzenheilkunde an."
+      "question": "Was passiert beim Ersttermin in der Praxis?",
+      "answer": "Die homöopathische Anamnese bei Kindern und Erwachsenen wird durchgeführt."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie das Kontaktformular auf der Webseite ausfüllen oder die Praxis telefonisch unter 03069001727 kontaktieren."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Öffnungszeiten sind: Montag von 09:00 bis 14:00, Dienstag von 14:00 bis 19:00, Mittwoch von 10:00 bis 14:00, Donnerstag von 15:00 bis 18:00 und Freitag von 09:00 bis 14:00."
-    },
-    {
-      "question": "Bietet die Praxis eine offene Sprechstunde an?",
-      "answer": "Ja, mittwochs von 10:00 bis 13:00 Uhr gibt es eine offene Sprechstunde, für die keine Terminvereinbarung nötig ist."
-    },
-    {
-      "question": "Was sind häufige Beschwerden, die in der Praxis behandelt werden?",
-      "answer": "Häufige Beschwerden sind Allergien, Hauterkrankungen, akute Infekte, Kopfschmerzen, Nahrungsmittelunverträglichkeiten, Menstruationsbeschwerden und seelische Probleme."
+      "question": "Wie wird die Homöopathie für Kinder angewendet?",
+      "answer": "Ich behandle Kinder mit klassischer Homöopathie."
     }
   ]
 }

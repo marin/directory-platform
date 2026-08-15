@@ -3,7 +3,7 @@
   "slug": "praxis-fur-ernahrung-sport-und-psychotherapie-heilpraktiker",
   "name": "Praxis für Ernährung, Sport und Psychotherapie (Heilpraktiker)",
   "description": "Die Praxis für Ernährung, Sport und Psychotherapie von Oliver Tonndorf befindet sich in Berlin-Zehlendorf und bietet ein integratives Therapieangebot in den Bereichen Ernährungsberatung, Bewegungstherapie und psychische Gesundheit. Mit langjähriger Erfahrung und einem ganzheitlichen Ansatz unterstützt Herr Tonndorf seine Klienten dabei, ihre Gesundheit und ihr Wohlbefinden nachhaltig zu fördern. Die Praxis kombiniert evidenzbasierte Methoden mit individueller Beratung, um maßgeschneiderte Lösungen für die Bedürfnisse jedes Einzelnen zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Düppelstraße 21 A",
     "locality": "Berlin",
@@ -94,24 +95,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Praxis für Ernährung, Sport und Psychotherapie an?",
-      "answer": "Die Praxis bietet Dienstleistungen in den Bereichen Ernährung, Sport & Bewegung sowie Psychotherapie an. Dazu gehören Ernährungsberatung, Sport- & Bewegungstherapie, integrative Psychotherapie, Entspannungsverfahren und mehr."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer 015222178080 oder per E-Mail an mail@oliver-tonndorf.de vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Düppelstraße 21 A, 14163 Berlin, im Bezirk Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Welche Preise gelten für die angebotenen Leistungen?",
-      "answer": "Die Preise für die angebotenen Leistungen liegen bei 90 € pro Stunde und 140 € für 120 Minuten."
+      "question": "Wie lange dauert eine Sitzung in der Praxis?",
+      "answer": "Eine Beratung, Sitzung bzw. Anwendung dauert in der Regel 50 Minuten."
     }
   ]
 }

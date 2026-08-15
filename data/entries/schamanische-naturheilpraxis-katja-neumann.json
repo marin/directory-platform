@@ -3,7 +3,7 @@
   "slug": "schamanische-naturheilpraxis-katja-neumann",
   "name": "Schamanische Naturheilpraxis Katja Neumann",
   "description": "In der schamanischen Naturheilpraxis Katja Neumann in Berlin-Pankow werden verschiedene Formen der schamanischen Heilarbeit angeboten, darunter Seelenreisen, Krafttierfindung und Paarberatung. Die Praxis richtet sich an Menschen jeden Alters sowie an Tiere und bietet auch Workshops und Seminare zu Themen wie schamanische Ausbildung und Selbstfindung an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Stargarder Str. 12A",
     "locality": "Berlin",
@@ -71,22 +72,5 @@
     "/images/entries/schamanische-naturheilpraxis-katja-neumann/1.webp",
     "/images/entries/schamanische-naturheilpraxis-katja-neumann/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Schamanische Naturheilpraxis Katja Neumann an?",
-      "answer": "Die Praxis bietet schamanische Heilarbeit, schamanische Reisen, Lebensberatung, Paarberatung, Rückholung von verlorenen Seelenanteilen, Aufarbeiten von Traumata, und Workshops zu schamanischen Themen an."
-    },
-    {
-      "question": "Wann hat die Schamanische Naturheilpraxis geöffnet?",
-      "answer": "Die Öffnungszeiten sind Montag von 10:00 bis 17:00 Uhr, Dienstag von 10:00 bis 18:00 Uhr, Mittwoch von 10:00 bis 16:30 Uhr, Donnerstag von 10:00 bis 18:00 Uhr und Freitag von 10:30 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Schamanische Naturheilpraxis Katja Neumann?",
-      "answer": "Die Praxis befindet sich in der Stargarder Str. 12A, 10437 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Was ist eine schamanische Reise?",
-      "answer": "Eine schamanische Reise ist eine Form der schamanischen Heilarbeit, bei der Klienten in einen tranceähnlichen Zustand versetzt werden, um Kontakt zu ihrem Krafttier oder zu anderen spirituellen Ebenen aufzunehmen."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "elida-mansuroglu-heilpraktiker",
   "name": "Elida Mansuroglu, Heilpraktiker",
   "description": "Elida Mansuroglu ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin-Lichtenberg, die sich auf Naturheilkunde spezialisiert hat. Sie bietet eine Vielzahl von therapeutischen Leistungen an, darunter Elektroakupunktur nach Dr. Voll, elektromagnetische Bluttests sowie verschiedene Laboruntersuchungen. In ihrer Praxis legt sie großen Wert auf individuelle Beratung und ganzheitliche Behandlungsmethoden, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Köpenicker Ch 3-4",
     "locality": "Berlin",
@@ -108,26 +109,5 @@
     "/images/entries/elida-mansuroglu-heilpraktiker/3.webp",
     "/images/entries/elida-mansuroglu-heilpraktiker/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Elida Mansuroglu in ihrer Heilpraxis an?",
-      "answer": "Elida Mansuroglu bietet verschiedene Behandlungen an, darunter EAV - Elektroakupunktur nach Dr. Voll, EMBT elektromagnetischer Bluttest, Laboruntersuchungen (Blut und Stuhl), Bio Scan, Fußreflexzonenmassage, funktionelle Stressmedizin, Entgiftung/Ausleitung und Nosodentherapie."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Mansuroglu buchen?",
-      "answer": "Sie können einen Termin über die Website der Heilpraxis buchen, indem Sie den Kontakt-Link nutzen: Termin buchen."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten der Heilpraxis Mansuroglu?",
-      "answer": "Die Öffnungszeiten sind Montag, Dienstag und Freitag von 10:00 bis 17:00 Uhr sowie Donnerstag von 10:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis von Elida Mansuroglu?",
-      "answer": "Die Heilpraxis befindet sich in der Köpenicker Ch 3-4, 10317 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich Elida Mansuroglu telefonisch erreichen?",
-      "answer": "Sie können Elida Mansuroglu unter der Telefonnummer 017663099211 erreichen."
-    }
-  ]
+  "faq": []
 }

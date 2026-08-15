@@ -3,7 +3,7 @@
   "slug": "chisanatura-osteopathie-naturheilkunde",
   "name": "ChiSaNatura - Osteopathie & Naturheilkunde",
   "description": "ChiSaNatura - Osteopathie & Naturheilkunde in Berlin Charlottenburg bietet eine ganzheitliche Behandlung, die Körper, Geist und Seele als untrennbare Einheit betrachtet. Unter der Leitung von Martina Merländer, einer erfahrenen Osteopathin und Heilpraktikerin, werden individuelle Therapieansätze in den Bereichen Osteopathie, Naturheilkunde und Musikermedizin verfolgt. Die Praxis befindet sich in ruhigen und niveauvollen Räumlichkeiten in der Reichsstraße 93 und legt Wert auf eine ergänzende Betrachtung verschiedener medizinischer Richtungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Reichsstraße 93",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
   "images": [
     "/images/entries/chisanatura-osteopathie-naturheilkunde/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet ChiSaNatura an?",
-      "answer": "ChiSaNatura bietet Osteopathie, Naturheilkunde und Musikermedizin an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags, dienstags und freitags von 10:00 bis 18:00 Uhr sowie donnerstags von 10:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von ChiSaNatura?",
-      "answer": "Die Praxis befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie kann ich ChiSaNatura kontaktieren?",
-      "answer": "Sie können ChiSaNatura telefonisch unter 0303015772 oder per E-Mail an info@chisanatura.com kontaktieren."
-    },
-    {
-      "question": "Wer ist die behandelnde Therapeutin bei ChiSaNatura?",
-      "answer": "Die behandelnde Therapeutin ist Martina Merländer, die auf Osteopathie und Naturheilkunde spezialisiert ist."
-    }
-  ]
+  "faq": []
 }

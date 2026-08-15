@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-christian-leppla-zei",
   "name": "Heilpraktiker Christian Leppla-Zei",
   "description": "Heilpraktiker Christian Leppla-Zei bietet in seiner Praxis in Berlin-Pankow eine ganzheitliche naturheilkundliche Behandlung an. Mit einem Schwerpunkt auf Blutegeltherapie und Pflanzenheilkunde verfolgt er das Ziel, die Gesundheit seiner Patienten durch individuelle Therapieansätze zu fördern. Seit 2007 kombiniert er traditionelles und modernes Wissen, um die physiologischen Vorgänge des Körpers zu unterstützen und die individuelle Konstitution zu berücksichtigen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schönfließer Str. 16/EG",
     "locality": "Berlin",
@@ -61,26 +62,5 @@
     "/images/entries/heilpraktiker-christian-leppla-zei/1.webp",
     "/images/entries/heilpraktiker-christian-leppla-zei/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Heilpraktiker Christian Leppla-Zei an?",
-      "answer": "Heilpraktiker Christian Leppla-Zei bietet Blutegeltherapie und Pflanzenheilkunde an, sowie eine Vielzahl von naturheilkundlichen Behandlungen für verschiedene Beschwerden."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Christian Leppla-Zei buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen. Hier ist der Link: Termin buchen."
-    },
-    {
-      "question": "Wann hat die Praxis von Christian Leppla-Zei geöffnet?",
-      "answer": "Die Praxis hat montags von 13:00 bis 19:00 Uhr und freitags von 08:00 bis 12:00 Uhr sowie von 13:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christian Leppla-Zei?",
-      "answer": "Die Praxis befindet sich in der Schönfließer Str. 16/EG, 10439 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich Christian Leppla-Zei kontaktieren?",
-      "answer": "Sie können Christian Leppla-Zei telefonisch unter 015159211162 oder per E-Mail an clz.heilpflanzen@gmail.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

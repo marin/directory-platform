@@ -3,7 +3,7 @@
   "slug": "elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit",
   "name": "Elissavet Thalhofer Heilpraktikerin - Praxis Zsoma - Ganzheitliche Körperarbeit",
   "description": "Elissavet Thalhofer ist eine erfahrene Heilpraktikerin in Berlin, die sich auf ganzheitliche Körperarbeit spezialisiert hat. In ihrer Praxis Zsoma bietet sie prozessorientierte Körpertherapie, Schmerzbehandlung und Aufmerksamkeitstraining an. Ziel ihrer Arbeit ist es, Klienten zu helfen, ein besseres Bewusstsein für ihren Körper zu entwickeln und dadurch die eigenen Gefühle klar wahrzunehmen und fundierte Entscheidungen zu treffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ohlauer Str. 3 Erdgeschoss",
     "locality": "Berlin",
@@ -69,26 +70,5 @@
     "/images/entries/elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit/0.webp",
     "/images/entries/elissavet-thalhofer-heilpraktikerin-praxis-zsoma-ganzheitliche-korperarbeit/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Elissavet Thalhofer in ihrer Praxis an?",
-      "answer": "Elissavet Thalhofer bietet prozessorientierte Körpertherapie, Körperarbeit, Schmerzbehandlung und Aufmerksamkeitstraining an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Zsoma?",
-      "answer": "Die Praxis Zsoma befindet sich in der Ohlauer Str. 3 Erdgeschoss, 10999 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Sonntag von 09:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich die Praxis Zsoma kontaktieren?",
-      "answer": "Sie können die Praxis Zsoma telefonisch unter 03089563563 oder über die Website http://zsoma.de/ kontaktieren."
-    },
-    {
-      "question": "Was ist das Ziel der Körperarbeit in der Praxis Zsoma?",
-      "answer": "Das Ziel der Körperarbeit in der Praxis Zsoma ist es, ein gutes Bewusstsein für den eigenen Körper zu entwickeln, um Gefühle klar wahrzunehmen und die richtigen Entscheidungen zu treffen."
-    }
-  ]
+  "faq": []
 }

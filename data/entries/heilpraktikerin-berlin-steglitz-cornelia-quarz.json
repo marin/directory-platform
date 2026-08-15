@@ -66,26 +66,5 @@
   "images": [
     "/images/entries/heilpraktikerin-berlin-steglitz-cornelia-quarz/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Schwerpunkte hat die Heilpraktikerin Cornelia Quarz?",
-      "answer": "Die drei zentralen Schwerpunkte von Heilpraktikerin Cornelia Quarz sind Darm- und Verdauungsprobleme, Belastungen durch Stoffwechsel- und Entgiftungsprozesse sowie Schmerzen und Funktionsstörungen des Bewegungsapparates."
-    },
-    {
-      "question": "Wie lange ist Cornelia Quarz bereits als Heilpraktikerin tätig?",
-      "answer": "Cornelia Quarz hat 25 Jahre Erfahrung in der Naturheilkunde."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Steglitz?",
-      "answer": "Die Naturheilpraxis Steglitz befindet sich in der Lacknerstraße 6, 12167 Berlin."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Praxis sind von Montag bis Freitag, jeweils von 09:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können ein persönliches Telefon-Vorgespräch vereinbaren, indem Sie die Telefonnummer 030 – 79782727 anrufen."
-    }
-  ]
+  "faq": []
 }

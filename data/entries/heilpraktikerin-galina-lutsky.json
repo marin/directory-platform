@@ -34,22 +34,5 @@
   "images": [
     "/images/entries/heilpraktikerin-galina-lutsky/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraktikerin Galina Lutsky?",
-      "answer": "Die Heilpraktikerin Galina Lutsky befindet sich in der Lentzeallee 82, 14195 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich Galina Lutsky kontaktieren?",
-      "answer": "Sie können Galina Lutsky telefonisch unter 01723669989 kontaktieren."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Um einen Termin zu buchen, können Sie die Buchungsseite unter http://www.sanguinum.com/kontakt/ besuchen."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Galina Lutsky an?",
-      "answer": "Galina Lutsky bietet Dienstleistungen im Bereich der Naturheilkunde an."
-    }
-  ]
+  "faq": []
 }

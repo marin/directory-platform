@@ -3,7 +3,7 @@
   "slug": "claudia-feher-kurek-heilpraktikerin-fur-klassische-homoopathie-bewegungstherapie",
   "name": "Claudia Fehér-Kurek Heilpraktikerin für Klassische Homöopathie & Bewegungstherapie",
   "description": "Claudia Fehér-Kurek ist Heilpraktikerin für Klassische Homöopathie und Bewegungstherapie in Berlin-Pankow. In ihrer Praxis bietet sie individuelle homöopathische Behandlungen an, die auf die einzigartigen Erfahrungen und Bedürfnisse ihrer Patienten abgestimmt sind. Zudem unterstützt sie durch Bewegungstherapie das Körperbewusstsein und die Gesundheit ihrer Klienten. Die Praxis befindet sich in der Greifenhagener Straße 50 und ist auf die ganzheitliche Heilung von körperlichen und psychischen Beschwerden spezialisiert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Greifenhagener Str. 50",
     "locality": "Berlin",
@@ -67,20 +68,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Claudia Fehér-Kurek an?",
-      "answer": "Claudia Fehér-Kurek bietet klassische Homöopathie und Bewegungstherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Claudia Fehér-Kurek?",
-      "answer": "Die Praxis befindet sich in der Greifenhagener Str. 50, 10437 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Montag von 15:00 bis 20:00, Dienstag von 09:00 bis 18:00, Mittwoch von 10:00 bis 20:00, Donnerstag von 10:00 bis 20:00, Freitag von 09:00 bis 18:00 und Samstag von 09:00 bis 17:00."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite unter https://feherkurekhomoeopathieberlin.simplybook.it/ buchen."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Nach einer ausführlichen ersten Anamnese finde ich für Sie oder Ihr Kind eine passende Arznei, die den Heilungsprozess anregt und langfristig unterstützt."
     }
   ]
 }

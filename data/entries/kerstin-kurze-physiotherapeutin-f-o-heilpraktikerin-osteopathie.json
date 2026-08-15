@@ -3,7 +3,7 @@
   "slug": "kerstin-kurze-physiotherapeutin-f-o-heilpraktikerin-osteopathie",
   "name": "Kerstin Kurze - Physiotherapeutin F.O. Heilpraktikerin/Osteopathie",
   "description": "Kerstin Kurze ist als Physiotherapeutin und Heilpraktikerin für Osteopathie in Berlin tätig. In ihrer Praxis am Minzeweg 38 bietet sie ein breites Spektrum an Behandlungen an, darunter Osteopathie, craniosacrale Therapie, Physiotherapie und dermatologische Behandlungen. Ihr Ansatz basiert auf der Philosophie, dass ganzheitliches Wohlbefinden die Harmonie von Körper, Geist und Seele erfordert, und sie setzt verschiedene Techniken ein, um die Selbstheilungskräfte ihrer Patienten zu aktivieren und das körperliche Gleichgewicht wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Minzeweg 38",
     "locality": "Berlin",
@@ -79,24 +80,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Kerstin Kurze an?",
-      "answer": "Kerstin Kurze bietet verschiedene Behandlungen an, darunter Osteopathie, Craniosacrale Therapie, Physiotherapie und dermatologische Behandlungen."
+      "question": "Was muss ich zu meinem ersten Termin mitbringen?",
+      "answer": "Zu Ihrem ersten Termin bringen Sie bitte vorhandene Röntgenbilder, MRT-Befunde und alle weiteren ärztlichen Befunde mit."
     },
     {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Ihren ersten Termin können Sie am besten telefonisch unter der Nummer 030/60970117 vereinbaren."
+      "question": "Wie lange dauert eine Behandlung?",
+      "answer": "Die Behandlungszeit beträgt ca. 60 Minuten für osteopathische Behandlungen und dermatologische Behandlungen, sowie ca. 30 Minuten für physiotherapeutische Behandlungen."
     },
     {
-      "question": "Was sollte ich zu meinem ersten Termin mitbringen?",
-      "answer": "Bitte bringen Sie vorhandene Röntgenbilder, MRT-Befunde und alle weiteren ärztlichen Befunde mit."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für die Behandlungen?",
-      "answer": "Die Kosten für Behandlungen variieren. Für genauere Informationen können Sie die Webseite besuchen oder direkt Kontakt aufnehmen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Kerstin Kurze?",
-      "answer": "Die Praxis befindet sich im Minzeweg 38, 12357 Berlin, im Bezirk Steglitz-Zehlendorf."
+      "question": "Wie erfolgt die Abrechnung für Selbstzahler?",
+      "answer": "Als Heilpraktikerin bin ich zur Diagnosestellung und zur Erstbehandlung berechtigt. Die Abrechnung erfolgt über das GebüH (Gebührenverzeichnis der Heilpraktiker)."
     }
   ]
 }

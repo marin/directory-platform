@@ -3,7 +3,7 @@
   "slug": "agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother",
   "name": "AGAPE - ganzheitliche Traumatherapie, Susanne Stauch, Heilpraktikerin für Psychotherapie",
   "description": "If it is your first time with me, please book a 20 minute free video call so we can clarify how I can support you best. Our first session lasts 100 minutes with getting to know each other, initial interview, planning the therapy and other formalities. If there is enough time, I will give a first introduction to an intervention.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Allerstraße 18",
     "locality": "Berlin",
@@ -56,5 +57,10 @@
     "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/2.webp",
     "/images/entries/agape-ganzheitliche-traumatherapie-susanne-stauch-heilpraktikerin-fur-psychother/3.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Sitzungen dauern 50 oder 75 Minuten."
+    }
+  ]
 }

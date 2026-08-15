@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-tanja-ullrich-schmerztherapie-n-liebscher-bracht-angsttherapie-p",
   "name": "Heilpraktikerin Tanja Ullrich, Schmerztherapie n. Liebscher & Bracht, Angsttherapie/ Psychotherapie, Schröpfen Rudow/Berlin",
   "description": "Heilpraktikerin Tanja Ullrich bietet in ihrer ganzheitlichen Heilpraxis in Berlin-Rudow individuelle Therapieansätze zur Linderung von körperlichen und seelischen Schmerzen an. Zu den Behandlungsmethoden gehören die Schmerztherapie nach Liebscher & Bracht, Angsttherapie mit der Bernhardt-Methode sowie Schröpfen und Ohrakupunktur. Ziel der Praxis ist es, Körper und Seele wieder in Einklang zu bringen und den Patienten auf ihrem Weg zu mehr Gesundheit und Lebensfreude zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ampferweg 10",
     "locality": "Berlin",
@@ -67,22 +68,5 @@
   "images": [
     "/images/entries/heilpraktikerin-tanja-ullrich-schmerztherapie-n-liebscher-bracht-angsttherapie-p/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieansätze bietet Heilpraktikerin Tanja Ullrich an?",
-      "answer": "Heilpraktikerin Tanja Ullrich bietet Angsttherapie mit der Bernhardt-Methode, Schmerztherapie nach Liebscher & Bracht, Schröpfen, Ohrakupunktur sowie Homöopathie mit Komplexmitteln an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Tanja Ullrich?",
-      "answer": "Die Praxis von Tanja Ullrich befindet sich in Berlin-Rudow, Ampferweg 10, 12357 Berlin."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Tanja Ullrich kontaktieren?",
-      "answer": "Sie können Tanja Ullrich telefonisch unter 03081691658 oder per E-Mail an praxis@hp-ullrich.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

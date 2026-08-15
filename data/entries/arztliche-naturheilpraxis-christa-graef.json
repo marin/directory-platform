@@ -3,7 +3,7 @@
   "slug": "arztliche-naturheilpraxis-christa-graef",
   "name": "Ärztliche Naturheilpraxis Christa Graef",
   "description": "Die Ärztliche Naturheilpraxis Christa Graef befindet sich in Berlin-Schöneberg und bietet eine Vielzahl von naturheilkundlichen Behandlungen an. Die Praxis spezialisiert sich auf klassische Homöopathie, Akupunktur und Umweltmedizin. Christa Graef ist praktische Ärztin und legt großen Wert auf individuelle Therapieansätze zur Förderung der Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Vorbergstraße 8",
     "locality": "Berlin",
@@ -39,18 +40,5 @@
     "/images/entries/arztliche-naturheilpraxis-christa-graef/3.webp",
     "/images/entries/arztliche-naturheilpraxis-christa-graef/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Ärztliche Naturheilpraxis Christa Graef?",
-      "answer": "Die Praxis befindet sich in der Vorbergstraße 8, 10823 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet die Praxis an?",
-      "answer": "Die Praxis bietet klassische Homöopathie, Akupunktur und Umweltmedizin an."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0307829379 oder per E-Mail an tawi42@gmx.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -95,24 +95,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet die Heilbaum-Praxis an?",
-      "answer": "Die Heilbaum-Praxis bietet Einzeltherapie für Erwachsene, Gruppentherapie und Paartherapie an."
-    },
-    {
-      "question": "Welche Schwerpunkte hat die Praxis in der Behandlung?",
-      "answer": "Die Behandlungs-Schwerpunkte umfassen unter anderem ADHS, Angst- und Essstörungen, Depression, Psychosomatik, Stress, Sucht, Trauer und Trauma."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 13:30 bis 20:00 Uhr, Mittwoch von 09:00 bis 12:00 Uhr, sowie Donnerstag und Freitag von 09:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Bietet die Praxis auch Kurse oder Seminare an?",
-      "answer": "Ja, die Praxis bietet Seminare zu Yoga und Naturerfahrung sowie regelmäßige Kurse an."
-    },
-    {
-      "question": "Gibt es freie Plätze oder Wartezeiten für Termine?",
-      "answer": "Es sind freie Plätze vorhanden, und in dringenden Fällen sind auch kurzfristige Termine möglich."
+      "question": "Kann ich die Behandlung selbst zahlen?",
+      "answer": "Ja, die Behandlung erfolgt auf Selbstzahlerbasis. Es kann ein Zuschuss von den gesetzlichen Krankenkassen geleistet werden."
     }
   ]
 }

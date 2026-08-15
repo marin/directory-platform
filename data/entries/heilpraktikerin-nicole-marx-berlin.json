@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-nicole-marx-berlin",
   "name": "Heilpraktikerin Nicole Marx Berlin",
   "description": "Heilpraktikerin Nicole Marx in Berlin bietet eine ganzheitliche Praxis, die Bewegung, Entspannung, Ernährung und Naturheilkunde vereint. Ihr Ziel ist es, die Gesundheit ihrer Patienten zu fördern und zu erhalten, indem sie gemeinsam die Ursachen von Beschwerden erarbeitet. Neben individuellen Behandlungen stehen auch spezielle Angebote wie Beckenbodenbehandlungen und Yogatherapie zur Verfügung, um das körperliche und seelische Wohlbefinden zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Salierstraße 15",
     "locality": "Berlin",
@@ -64,24 +65,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraktikerin Nicole Marx?",
-      "answer": "Die Heilpraktikerin Nicole Marx befindet sich in der Salierstraße 15, 12524 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Nicole Marx buchen?",
-      "answer": "Sie können einen Termin bei Nicole Marx über die Webseite buchen: heilpraxis-marx.de oder direkt über diesen Link: Termin vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Heilpraktikerin Nicole Marx sind: Montag von 08:00 bis 19:00 Uhr, Dienstag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 16:00 Uhr, Donnerstag von 08:00 bis 18:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Bietet Nicole Marx ein Erstgespräch an?",
-      "answer": "Ja, Nicole Marx bietet ein kostenfreies, telefonisches Erstgespräch an, um die Anliegen der Patienten zu besprechen."
-    },
-    {
-      "question": "Welche Therapieangebote gibt es bei Nicole Marx?",
-      "answer": "Nicole Marx bietet eine Kombination aus Bewegung, Entspannung, Ernährung und Naturheilkunde an, einschließlich Beckenbodenbehandlungen und Yogatherapie."
+      "question": "Wie kann ich einen Ersttermin bei Heilpraktikerin Nicole Marx buchen?",
+      "answer": "Buche gern ein kostenfreies, telefonisches Erstgespräch."
     }
   ]
 }

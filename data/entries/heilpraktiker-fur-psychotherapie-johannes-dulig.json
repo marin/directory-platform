@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-psychotherapie-johannes-dulig",
   "name": "Heilpraktiker für Psychotherapie Johannes Dulig",
   "description": "Heilpraktiker für Psychotherapie Johannes Dulig bietet in seiner Praxis in Berlin-Pankow umfassende psychotherapeutische Leistungen nach dem Heilpraktikergesetz an. Zu den Angeboten zählen Psychotherapie, Hypnose, Klopftechnik sowie Raucherentwöhnung. Zusätzlich werden Entspannungskurse mit Krankenkassenanerkennung und spezielle Kursangebote wie Progressive Muskelrelaxation und Autogenes Training angeboten. Termine sind sowohl vor Ort als auch online verfügbar.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Schloßpark 26",
     "locality": "Berlin",
@@ -76,22 +77,5 @@
     "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/3.webp",
     "/images/entries/heilpraktiker-fur-psychotherapie-johannes-dulig/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Heilpraktiker Johannes Dulig an?",
-      "answer": "Johannes Dulig bietet Psychotherapie, Hypnose, Klopftechnik, Raucherentwöhnung sowie Entspannungskurse mit Krankenkassenanerkennung an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Johannes Dulig?",
-      "answer": "Die Praxis befindet sich in Berlin, Am Schloßpark 26, 13187 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag von 09:00 bis 18:00 Uhr, Dienstag bis Donnerstag von 09:00 bis 19:00 Uhr und Freitag von 09:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Bietet Johannes Dulig auch Online-Termine an?",
-      "answer": "Ja, Johannes Dulig bietet Termine sowohl vor Ort als auch online an."
-    }
-  ]
+  "faq": []
 }

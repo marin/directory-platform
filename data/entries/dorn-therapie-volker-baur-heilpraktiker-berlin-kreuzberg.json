@@ -53,24 +53,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Volker Baur in seiner Praxis an?",
-      "answer": "Volker Baur bietet verschiedene Therapien an, darunter Dorntherapie und Körperstatik, Darmgesundheit und Ernährung sowie Krisenbegleitung, Stress und Orientierung."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Es erfolgt eine körperliche Untersuchung, laborgestützte Analysen und ergänzende Testverfahren, um Beschwerden differenzierter einordnen zu können. Dazu gehören Anamnese, körperliche Untersuchung, Stuhl- und Blutanalysen sowie kinesiologische Testung."
     },
     {
-      "question": "Wo befindet sich die Praxis von Dorn-Therapie Volker Baur?",
-      "answer": "Die Praxis befindet sich in der Lindenstraße 16, 10969 Berlin, im Stadtteil Kreuzberg."
+      "question": "Wie lange dauern die Behandlungen?",
+      "answer": "Die Behandlungs- und Gesprächstermine dauern 30, 60 oder 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Volker Baur buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Volker Baur buchen, indem Sie den Kontaktbereich aufrufen: https://heilpraxis-baur.de/Kontakt-Impressum/."
-    },
-    {
-      "question": "Welche Schwerpunkte hat Volker Baur in seiner Arbeit?",
-      "answer": "Die Schwerpunkte von Volker Baur sind Dorntherapie und Körperstatik, Darmgesundheit und Ernährung sowie Krisenbegleitung und Stressmanagement."
-    },
-    {
-      "question": "Wie kann ich Volker Baur kontaktieren?",
-      "answer": "Sie können Volker Baur telefonisch unter 03022396582 oder per E-Mail an info@heilpraxis-baur.de kontaktieren."
+      "question": "Was ist der Sozialtarif für Selbstzahler?",
+      "answer": "Für Menschen in finanziell belastenden Situationen wird ein reduzierter Sozialtarif angeboten. Privatversicherte erhalten auf Wunsch eine Rechnung nach Gebührenordnung für Heilpraktiker."
     }
   ]
 }

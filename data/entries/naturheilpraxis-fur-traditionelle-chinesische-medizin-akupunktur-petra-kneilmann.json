@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-fur-traditionelle-chinesische-medizin-akupunktur-petra-kneilmann",
   "name": "Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur Petra Kneilmann",
   "description": "In der Naturheilpraxis für Traditionelle Chinesische Medizin & Akupunktur von Petra Kneilmann in Berlin Friedrichshain stehen ganzheitliche Therapieansätze im Mittelpunkt. Die Praxis bietet eine Vielzahl bewährter Methoden der Naturheilkunde, darunter Akupunktur, Kräuterheilkunde und Moxibustion, um die Selbstheilungskräfte des Körpers zu aktivieren und das Wohlbefinden zu fördern. Individuelle Behandlungspläne werden in einer ruhigen und vertrauensvollen Atmosphäre entwickelt, um den einzigartigen Bedürfnissen jedes Patienten gerecht zu werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kadiner Str. 23",
     "locality": "Berlin",
@@ -75,24 +76,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieverfahren werden in der Naturheilpraxis Petra Kneilmann angeboten?",
-      "answer": "In der Naturheilpraxis Petra Kneilmann werden verschiedene Therapieverfahren angeboten, darunter Traditionelle Chinesische Medizin, Akupunktur, Ohrakupunktur, Kräuterheilkunde, Moxibustion, Gua Sha, Schröpfen und Ernährungsberatung."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Petra Kneilmann?",
-      "answer": "Die Praxis von Petra Kneilmann befindet sich in der Kadiner Str. 23, 10243 Berlin, im Stadtteil Friedrichshain."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
-      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Webseite buchen, indem Sie den folgenden Link nutzen: https://www.tcm-akupunktur-berlin.de/kontakt-termin/."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis?",
-      "answer": "Die Naturheilpraxis hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Petra Kneilmann kontaktieren?",
-      "answer": "Sie können Petra Kneilmann telefonisch unter 017665791942 oder per E-Mail an pk.akupunktur@gmail.com kontaktieren."
+      "question": "Wie läuft der Ersttermin in der Naturheilpraxis ab?",
+      "answer": "Ich nehme mir Zeit für eine ausführliche Anamnese und entwickle darauf basierend ein individuell abgestimmtes Behandlungskonzept."
     }
   ]
 }

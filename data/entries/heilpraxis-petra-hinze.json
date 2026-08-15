@@ -3,7 +3,7 @@
   "slug": "heilpraxis-petra-hinze",
   "name": "Heilpraxis Petra Hinze",
   "description": "Die Heilpraxis Petra Hinze in Berlin-Pankow bietet naturheilkundliche Unterstützung zur Aktivierung der Selbstheilungskräfte und zur Förderung der Eigenverantwortung. Im Mittelpunkt der Arbeit stehen die Wiederherstellung der Verbindung zu den Rhythmen der Natur sowie die Entfaltung individueller Fähigkeiten und Potenziale. Das Angebot umfasst Einzelsitzungen sowie offene Gruppen, Rituale, Seminare und Reisen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pasteurstraße 3",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "03042806948",
   "email": "hinzepetra@web.de",
   "website": "http://www.petra-hinze.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj6wIpw5OqEcRRspfBjVjOvw",
+  "googleMapsRating": 3,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -83,29 +87,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis Petra Hinze an?",
-      "answer": "Die Heilpraxis Petra Hinze bietet Unterstützung im Genesungsprozess, Erhalt und Aktivierung der Selbstheilungskräfte, Eigenverantwortung übernehmen, Fähigkeiten und Potentiale wecken, erkennen und entfalten sowie Harmonie und Ganzheitlichkeit. Zudem werden Einzelsitzungen, offene Gruppen, Rituale, Seminare und Reisen angeboten."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis Petra Hinze?",
-      "answer": "Die Heilpraxis Petra Hinze hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Petra Hinze?",
-      "answer": "Die Heilpraxis Petra Hinze befindet sich in der Pasteurstraße 3, 10407 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Petra Hinze kontaktieren?",
-      "answer": "Sie können die Heilpraxis Petra Hinze telefonisch unter 03042806948 oder per E-Mail an hinzepetra@web.de kontaktieren."
-    },
-    {
-      "question": "Was ist das Hauptziel der Arbeit in der Heilpraxis Petra Hinze?",
-      "answer": "Das Hauptziel der Arbeit in der Heilpraxis Petra Hinze ist es, die Zusammenhänge zwischen den Rhythmen der Natur und dem Menschen wiederherzustellen und die tiefere Bedeutung von körperlichen und seelischen Manifestationen zu vermitteln."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJj6wIpw5OqEcRRspfBjVjOvw",
-  "googleMapsRating": 3,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

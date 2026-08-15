@@ -51,26 +51,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Carola Paduschek in ihrer Naturheilpraxis an?",
-      "answer": "Carola Paduschek bietet eine Kombination aus muskel- und bänderschonender Chiropraktik, modifizierter Neuraltherapie sowie Akupunktur an. Sie verwendet auch japanische Schädel-Akupunktur nach Dr. Toshikatsu Yamamoto, die besonders effizient bei Beschwerden des Bewegungsapparates ist."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis von Carola Paduschek geöffnet?",
-      "answer": "Die Praxis ist montags, mittwochs und freitags von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Carola Paduschek?",
-      "answer": "Die Praxis befindet sich in der Hufelandstraße 32, 10407 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich Carola Paduschek kontaktieren?",
-      "answer": "Sie können Carola Paduschek telefonisch unter 03040577360 oder per E-Mail an info@carola-paduschek.de kontaktieren."
-    },
-    {
-      "question": "Ist die Praxis derzeit geöffnet?",
-      "answer": "Die Praxis bleibt aus gesundheitlichen Gründen vorerst geschlossen. Interessierte können sich per E-Mail über den aktuellen Status zur Wiedereröffnung informieren."
-    }
-  ]
+  "faq": []
 }

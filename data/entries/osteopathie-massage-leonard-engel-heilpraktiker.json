@@ -3,7 +3,7 @@
   "slug": "osteopathie-massage-leonard-engel-heilpraktiker",
   "name": "Osteopathie & Massage - Léonard Engel, Heilpraktiker",
   "description": "Léonard Engel ist Heilpraktiker für Osteopathie und Massage in Berlin-Neukölln. Mit über 20 Jahren Erfahrung als professioneller Tänzer und Choreograf kombiniert er anatomisches Wissen mit einem tiefen Verständnis für Bewegung und Gesundheit. In seiner Praxis bietet er individuelle, ganzheitliche Behandlungen an, die auf die Aktivierung der Selbstheilungskräfte des Körpers abzielen und sowohl osteopathische Techniken als auch entspannende Massagen umfassen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Weichselpl. 3",
     "locality": "Berlin",
@@ -72,24 +73,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Léonard Engel an?",
-      "answer": "Léonard Engel bietet osteopathische Behandlungen sowie verschiedene Massagen an, darunter Ganzkörpermassagen, Tiefengewebsmassagen und Rücken-, Schulter- und Nackenmassagen."
-    },
-    {
-      "question": "Wie lange dauert eine osteopathische Behandlung?",
-      "answer": "Eine osteopathische Behandlung dauert etwa 60 Minuten, wobei die erste Sitzung etwas länger sein kann."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie Léonard Engel per E-Mail unter info@osteopathie-leonardengel.de kontaktieren oder ihn telefonisch unter 015731726000 erreichen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Léonard Engel?",
-      "answer": "Die Praxis befindet sich in Berlin-Neukölln, am Weichselplatz 3, 12045 Berlin."
+      "question": "Wie läuft ein Ersttermin in der Praxis ab?",
+      "answer": "Zu Beginn führen wir eine Anamnese durch, in der ich mir ein Bild von Ihrer aktuellen gesundheitlichen Situation, Ihren Beschwerden, Erwartungen und Ihrer medizinischen Vorgeschichte mache. Darauf folgt eine gründliche körperliche Untersuchung."
     },
     {
       "question": "Welche Sprachen werden in der Praxis gesprochen?",
-      "answer": "In der Praxis werden Deutsch, Englisch, Französisch und Spanisch gesprochen."
+      "answer": "Ich spreche Deutsch, Englisch, Französisch und Spanisch."
     }
   ]
 }

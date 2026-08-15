@@ -3,7 +3,7 @@
   "slug": "herr-thorsten-haack",
   "name": "Herr Thorsten Haack",
   "description": "Herr Thorsten Haack ist Heilpraktiker in Berlin und spezialisiert auf die Methode Tieh Ta Tuina, eine Form der chinesischen Chiropraktik zur Behandlung von Schlag- und Fallverletzungen. In seiner Praxis bietet er Unterstützung bei akuten und chronischen Verletzungen des Bewegungsapparates an und berücksichtigt dabei die gesamte Statik des Körpers. Die Behandlung erfolgt in einer angenehmen Praxisgemeinschaft im Sprengelkiez, wo auch eine Kollegin mit einer anderen Methode tätig ist.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Tegeler Str. 38",
     "locality": "Berlin",
@@ -68,24 +69,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethode bietet Herr Thorsten Haack an?",
-      "answer": "Herr Thorsten Haack bietet die Heilmethode Tieh Ta Tuina an, die aus der chinesischen Chiropraktik stammt und verschiedene Massagetechniken wie Drücken, Ziehen und Reiben umfasst."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Herrn Haack?",
-      "answer": "Die Praxis von Herrn Thorsten Haack befindet sich in der Tegeler Straße 38, 13353 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag und Mittwoch von 10:00 bis 17:00 Uhr, Dienstag und Donnerstag von 14:00 bis 19:00 Uhr sowie Freitag von 10:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wer kann die Angebote von Herrn Haack in Anspruch nehmen?",
-      "answer": "Jeder kann die Angebote von Herrn Thorsten Haack in Anspruch nehmen, insbesondere Personen mit akuten oder chronischen Verletzungen im Bewegungsapparat."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Herrn Haack vereinbaren?",
-      "answer": "Sie können einen Termin bei Herrn Thorsten Haack telefonisch unter der Nummer 03062737678 vereinbaren."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "In der Anamnese klären wir Ihr Anliegen, Ihre Krankengeschichte, die Ursachen für Ihre Verletzung und Schmerzen und sprechen darüber, wo Sie aktuell im Leben stehen."
     }
   ]
 }

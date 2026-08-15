@@ -3,7 +3,7 @@
   "slug": "praxis-fur-kognitive-verhaltenstherapie-luise-bomke-heilpraktikerin-fur-psychoth",
   "name": "Praxis für kognitive Verhaltenstherapie | Luise Bomke - Heilpraktikerin für Psychotherapie",
   "description": "Die Praxis für kognitive Verhaltenstherapie von Luise Bomke befindet sich in Berlin-Friedrichshain und bietet Unterstützung für Menschen, die sich innerlich erschöpft oder unter Druck fühlen, obwohl sie nach außen hin erfolgreich wirken. Als Heilpraktikerin für Psychotherapie mit dem Schwerpunkt auf Kognitiver Verhaltenstherapie (KVT) verfolgt sie einen lösungsorientierten Ansatz, der individuelle Therapieformen wie Einzeltherapie und Walk and Talk umfasst. Die Praxis legt Wert auf eine transparente und vertrauensvolle Zusammenarbeit, um neue Perspektiven und Strategien für den Alltag zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ebelingstraße 14A",
     "locality": "Berlin",
@@ -101,24 +102,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet Luise Bomke an?",
-      "answer": "Luise Bomke bietet Einzeltherapie und Walk and Talk an, wobei Walk and Talk therapeutische Gespräche mit Bewegung in der Natur kombiniert."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine reguläre Sitzung dauert 50 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis für kognitive Verhaltenstherapie vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite luisebomke.de vereinbaren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat montags von 09:00 bis 15:00 Uhr, dienstags von 09:00 bis 16:00 Uhr und donnerstags von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Bietet die Praxis auch ein kostenloses Kennenlerngespräch an?",
-      "answer": "Ja, die Praxis bietet ein kostenfreies und unverbindliches Kennenlerngespräch von 30 Minuten an."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine reguläre Sitzung?",
-      "answer": "Eine reguläre Sitzung in der Praxis kostet 90,00 € und dauert 50 Minuten."
+      "question": "Wie wird die Therapie für Selbstzahler abgerechnet?",
+      "answer": "Die Kosten werden in der Regel von Selbstzahler:innen getragen oder von Ihrer privaten Krankenversicherung erstattet."
     }
   ]
 }

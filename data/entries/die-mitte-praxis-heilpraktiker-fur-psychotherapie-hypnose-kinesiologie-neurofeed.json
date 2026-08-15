@@ -3,7 +3,7 @@
   "slug": "die-mitte-praxis-heilpraktiker-fur-psychotherapie-hypnose-kinesiologie-neurofeed",
   "name": "Die Mitte Praxis - Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie, Neurofeedback in Berlin Mitte",
   "description": "Die Mitte Praxis in Berlin Mitte bietet umfassende therapeutische Unterstützung durch Heilpraktiker für Psychotherapie, Hypnose, Kinesiologie und Neurofeedback. Das Team, bestehend aus Dr. Caroline Böttiger und Andreas Weller, verfolgt einen lösungsfokussierten Ansatz und nutzt eine Vielzahl von Methoden, darunter Hypnotherapie, Traumatherapie und Familienstellen, um Klienten bei Stress, Ängsten und psychosomatischen Beschwerden zu helfen. Die Praxis ist zentral gelegen und gut erreichbar, um eine angenehme und einladende Atmosphäre für die Therapie zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Linienstraße 130/2. Hinterhof",
     "locality": "Berlin",
@@ -113,24 +114,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieansätze bietet die Mitte Praxis an?",
-      "answer": "Die Mitte Praxis bietet ein breites Spektrum an Therapieansätzen an, darunter Psychotherapie, Traumatherapie, Kinesiologie nach Dr. Klinghardt, Neurofeedback, Hypnose, WingWave, TRE (Trauma Releasing Exercise), Paartherapie und Familienstellen."
+      "question": "Wie verläuft der Ersttermin in der Mitte Praxis?",
+      "answer": "Der Ersttermin wird mit viel Fingerspitzengefühl und Empathie gestaltet. Der Therapeut hört gewissenhaft zu und überlegt, wie er situativ unterstützen kann. Es wird auf die allgemeine energetische Situation und mögliche Überforderungen eingegangen."
     },
     {
-      "question": "Wie kann ich einen Termin in der Mitte Praxis buchen?",
-      "answer": "Sie können einen Termin in der Mitte Praxis über die Website buchen. Der direkte Buchungslink lautet: https://www.etermin.net/carolineboettiger1?calendarid=48279."
+      "question": "Wie lange dauert eine Sitzung in der Mitte Praxis?",
+      "answer": "Eine Sitzung dauert entweder 60 Minuten oder 90 Minuten."
     },
     {
-      "question": "Wann sind die Öffnungszeiten der Mitte Praxis?",
-      "answer": "Die Mitte Praxis hat folgende Öffnungszeiten: Montag bis Donnerstag von 09:30 bis 12:00 Uhr und von 14:00 bis 20:00 Uhr, sowie Freitag von 09:30 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Mitte Praxis?",
-      "answer": "Die Mitte Praxis befindet sich in der Linienstraße 130/2, Hinterhof, in Berlin Mitte, 10115 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Mitte Praxis kontaktieren?",
-      "answer": "Sie können die Mitte Praxis telefonisch unter 03027583216 oder per E-Mail an kontakt@mitte-praxis.de kontaktieren."
+      "question": "Sind die Therapien auch für Kinder geeignet?",
+      "answer": "Ja, Neurofeedbacktraining ist geeignet für Erwachsene und Kinder, insbesondere bei ADS, ADHS und Konzentrationsschwierigkeiten."
     }
   ]
 }

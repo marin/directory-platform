@@ -3,7 +3,7 @@
   "slug": "akupunkturpraxis-hui-zhang-sievers",
   "name": "Akupunkturpraxis Hui Zhang-Sievers",
   "description": "Die Akupunkturpraxis Hui Zhang-Sievers in Berlin-Friedenau bietet umfassende Behandlungen im Bereich der Traditionellen Chinesischen Medizin (TCM) an. Unter der Leitung von Heilpraktikerin Hui Zhang-Sievers, die über 30 Jahre klinische Erfahrung verfügt, wird ein ganzheitlicher Ansatz verfolgt, der Akupunktur, chinesische Kräutermedizin, Tuina-Therapie, Ernährungstherapie und Bewegungstherapien umfasst. Die Praxis legt großen Wert auf individuelle Betreuung und die Förderung des natürlichen Gleichgewichts der Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Südwestkorso 8",
     "locality": "Berlin",
@@ -78,24 +79,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Akupunkturpraxis Hui Zhang-Sievers an?",
-      "answer": "Die Praxis bietet verschiedene Therapien der Traditionellen Chinesischen Medizin (TCM) an, darunter Akupunktur, Chinesische Kräutermedizin, Tuina-Therapie, Ernährungstherapie nach den fünf Elementen und Bewegungstherapien wie Qi Gong."
+      "question": "Was passiert beim Ersttermin in der Akupunkturpraxis Hui Zhang-Sievers?",
+      "answer": "Beim Ersttermin erfolgt eine kurze, aber eindeutige Untersuchung (Anamnese). Dabei werden Art und Umfang der Beschwerden geklärt."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin direkt über Doctolib buchen oder die Praxis telefonisch unter 03047393735 kontaktieren."
-    },
-    {
-      "question": "Wann hat die Akupunkturpraxis geöffnet?",
-      "answer": "Die Praxis hat dienstags bis freitags von 10:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Akupunkturpraxis Hui Zhang-Sievers?",
-      "answer": "Die Praxis befindet sich in Berlin-Friedenau, Südwestkorso 8, 12161 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis per E-Mail unter info@huizhang.de oder telefonisch unter 03047393735 erreichen."
+      "question": "Wie lange dauert eine Sitzung in der Akupunkturpraxis?",
+      "answer": "Die Dauer einer Sitzung wird in den Snippets nicht konkret angegeben."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraxis-yoga-nele-schluter",
   "name": "Heilpraxis & Yoga Nele Schlüter",
   "description": "In der Heilpraxis & Yoga Nele Schlüter in Berlin-Reinickendorf wird ein ganzheitlicher Ansatz zur Förderung von Gesundheit und Wohlbefinden angeboten. Die Praxis spezialisiert sich auf verschiedene Bereiche der Naturheilkunde, darunter klassische und prozessorientierte Homöopathie, Schmerztherapie nach Liebscher & Bracht, ganzheitliche Massagen sowie systemische Aufstellungen. Zusätzlich werden Yoga- und Meditationskurse angeboten, die individuell angepasst werden können, um den Bedürfnissen der Klienten gerecht zu werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Martin-Luther-Straße 15",
     "locality": "Berlin",
@@ -174,24 +175,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis & Yoga Nele Schlüter an?",
-      "answer": "Die Heilpraxis & Yoga Nele Schlüter bietet eine Vielzahl von Dienstleistungen an, darunter klassische und prozessorientierte Homöopathie, Schmerztherapie nach Liebscher & Bracht, ganzheitliche Massage, systemische Aufstellungen und Yoga & Meditation."
+      "question": "Was kostet der Ersttermin in der Heilpraxis Nele Schlüter?",
+      "answer": "Die Erstanamnese in der Homöopathie kostet 180 € und dauert 120 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
-      "answer": "Sie können einen Termin in der Heilpraxis buchen, indem Sie die Webseite besuchen und das Kontaktformular ausfüllen oder direkt anrufen unter der Telefonnummer 030-28873439."
+      "question": "Wie lange dauert eine Sitzung in der Heilpraxis Nele Schlüter?",
+      "answer": "Die Sitzungen dauern zwischen 60 und 120 Minuten."
     },
     {
-      "question": "Wann hat die Heilpraxis geöffnet?",
-      "answer": "Die Heilpraxis ist von Montag bis Freitag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis & Yoga Nele Schlüter?",
-      "answer": "Die Heilpraxis & Yoga Nele Schlüter befindet sich in der Martin-Luther-Straße 15, 13467 Berlin, Reinickendorf."
-    },
-    {
-      "question": "Welche Preise gelten für die Behandlungen in der Heilpraxis?",
-      "answer": "Die Preise für Behandlungen in der Heilpraxis variieren je nach Dauer und Art der Behandlung. Beispielsweise kostet eine 60-minütige Sitzung 90 €, eine 90-minütige Sitzung 135 € und eine 120-minütige Sitzung 180 €."
+      "question": "Was gilt für Selbstzahler in der Heilpraxis Nele Schlüter?",
+      "answer": "Für Selbstzahler gelten spezifische Preise, die je nach Behandlung variieren."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-raimond-stohr",
   "name": "Heilpraktiker Raimond Stöhr",
   "description": "Heilpraktiker Raimond Stöhr ist ein Heilpraktiker in Berlin mit Schwerpunkt Naturheilkunde und ganzheitliche Behandlungen. Kontakt, Adresse und Öffnungszeiten finden Sie in diesem Verzeichniseintrag.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Brunnenstraße 29",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   "phone": "03076743272",
   "email": "ramonazhou02@gmail.com",
   "website": "http://alternative-krebs-aidstherapie.12hp.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8VLjHblPqEcRUNcJ-nhP6sA",
   "openingHours": [
     {
       "day": "Friday",
@@ -39,6 +41,10 @@
     }
   ],
   "images": [],
-  "faq": [],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ8VLjHblPqEcRUNcJ-nhP6sA"
+  "faq": [
+    {
+      "question": "Wie lange dauert eine Sitzung bei Heilpraktiker Raimond Stöhr?",
+      "answer": "Die Dauer einer Sitzung beträgt 00 Stunden 00 Minuten."
+    }
+  ]
 }

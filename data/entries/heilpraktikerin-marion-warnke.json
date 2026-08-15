@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-marion-warnke",
   "name": "Heilpraktikerin Marion Warnke",
   "description": "Heilpraktikerin Marion Warnke bietet in ihrer Naturheilpraxis in Berlin-Pankow individuelle Beratung und Behandlung im Bereich der Naturheilkunde an. Der Fokus liegt auf ganzheitlichen Therapiekonzepten, die auf die Bedürfnisse der Patienten abgestimmt sind. Aktuell sind keine Termine buchbar, jedoch können Interessierte über die Webseite Kontakt aufnehmen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kuglerstraße 26",
     "locality": "Berlin",
@@ -37,22 +38,5 @@
   "images": [
     "/images/entries/heilpraktikerin-marion-warnke/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Marion Warnke?",
-      "answer": "Die Naturheilpraxis von Marion Warnke befindet sich in der Kuglerstraße 26, 10439 Berlin."
-    },
-    {
-      "question": "Wie kann ich Marion Warnke kontaktieren?",
-      "answer": "Sie können Marion Warnke telefonisch unter 015735255774 oder per E-Mail an info@naturheilpraxis-warnke.de kontaktieren."
-    },
-    {
-      "question": "Sind derzeit Termine in der Naturheilpraxis buchbar?",
-      "answer": "Momentan sind keine Termine buchbar. Bitte beachten Sie die aktuelle Mitteilung auf der Webseite."
-    },
-    {
-      "question": "Wie kann ich eine Kontaktanfrage stellen?",
-      "answer": "Sie können eine Kontaktanfrage über das Kontaktformular auf der Webseite stellen. Ich bemühe mich um eine schnellstmögliche Bearbeitung Ihrer Nachricht."
-    }
-  ]
+  "faq": []
 }

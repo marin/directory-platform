@@ -3,7 +3,7 @@
   "slug": "heilpraxis-christiane-brischke",
   "name": "Heilpraxis Christiane Brischke",
   "description": "Die Heilpraxis Christiane Brischke befindet sich im Süden von Berlin, in Lichtenrade, und bietet eine ganzheitliche Betreuung durch erfahrene Heilpraktikerin Christiane Brischke. Sie ist spezialisiert auf klassische Homöopathie, Akupunktur und Quantec und verfolgt das Ziel, das körperliche und seelische Wohlbefinden ihrer Patienten zu fördern. Neben bewährten Naturheilverfahren bietet sie auch innovative Behandlungen wie Biosoftlaser und kreative Aufstellungsarbeit an, um die Selbstheilungskräfte des Körpers zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Griembergweg 35",
     "locality": "Berlin",
@@ -80,26 +81,5 @@
     "/images/entries/heilpraxis-christiane-brischke/3.webp",
     "/images/entries/heilpraxis-christiane-brischke/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet die Heilpraxis Christiane Brischke an?",
-      "answer": "Die Heilpraxis Christiane Brischke bietet unter anderem Homöopathie, Akupunktur, Biosoftlaserbehandlungen, Ohrakupunktur, Fußreflexzonenmassage, Reiki und pulsierende Magnetfeldtherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Christiane Brischke buchen?",
-      "answer": "Sie können einen Termin über die Website der Heilpraxis buchen, indem Sie den Kontaktlink nutzen: Termin buchen."
-    },
-    {
-      "question": "Wann hat die Heilpraxis Christiane Brischke geöffnet?",
-      "answer": "Die Öffnungszeiten der Heilpraxis sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Christiane Brischke?",
-      "answer": "Die Heilpraxis Christiane Brischke befindet sich im Griembergweg 35, 12305 Berlin, im Stadtteil Lichtenrade."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Christiane Brischke kontaktieren?",
-      "answer": "Sie können die Heilpraxis telefonisch unter 03070768426 oder per E-Mail an praxis@heilpraxis-brischke.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

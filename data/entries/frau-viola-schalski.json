@@ -3,7 +3,7 @@
   "slug": "frau-viola-schalski",
   "name": "Frau Viola Schalski",
   "description": "Frau Viola Schalski ist Heilpraktikerin in ihrer Naturheilpraxis in der Altstadt Spandau, Berlin. Ihr Anliegen ist es, Gesundheit auf allen Ebenen des Daseins – körperlich, seelisch und geistig – zu bewahren, zu fördern und bei der Wiederherstellung zu unterstützen. Zu ihren Angeboten zählen unter anderem Pflanzenheilkunde, Strömungs-Massage, Reflexzonentherapie sowie Ohr-Akupunktur.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ritterstraße 12",
     "locality": "Berlin",
@@ -73,26 +74,5 @@
   "images": [
     "/images/entries/frau-viola-schalski/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Frau Viola Schalski an?",
-      "answer": "Frau Viola Schalski bietet unter anderem Pflanzenheilkunde, Strömungs-Massage, Reflexzonentherapie an Händen, Füßen und Ohren, Ohr-Akupunktur sowie verschiedene naturheilkundliche Verfahren an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Frau Viola Schalski?",
-      "answer": "Die Naturheilpraxis von Frau Viola Schalski befindet sich in der Ritterstraße 12, 13597 Berlin, im Stadtteil Altstadt Spandau."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Frau Viola Schalski vereinbaren?",
-      "answer": "Termine können nach Vereinbarung unter der Telefonnummer 030 35303653 oder per E-Mail an vi.schalski@gmx.de vereinbart werden."
-    },
-    {
-      "question": "Bietet Frau Viola Schalski auch Lebensberatung an?",
-      "answer": "Ja, Frau Viola Schalski bietet Lebensberatung als Teil ihrer Dienstleistungen an."
-    },
-    {
-      "question": "Gibt es spezielle Veranstaltungen oder Kurse in der Praxis?",
-      "answer": "Ja, Frau Viola Schalski bietet Heilpflanzen-Kurse, Wildkräuter-Wanderungen und Vorträge zur Anwendung von Naturheilmitteln an."
-    }
-  ]
+  "faq": []
 }

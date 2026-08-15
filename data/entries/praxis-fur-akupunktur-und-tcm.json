@@ -183,24 +183,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden werden in der Praxis für Akupunktur und TCM angeboten?",
-      "answer": "In der Praxis werden verschiedene Heilmethoden angeboten, darunter Akupunktur, Kräuterheilkunde, Ernährungsberatung, Tuina, Qigong, Coaching und Nährstoffberatung."
+      "question": "Was passiert beim Ersttermin in der Praxis?",
+      "answer": "Beim Ersttermin wird eine Schmerzanalyse durchgeführt, die Akupunktur und Tuina umfasst. Die Sitzung dauert etwa 60-80 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin online buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Akupunktur und TCM?",
-      "answer": "Die Praxis befindet sich in der Wiesbadener Str. 24, 14197 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Praxis telefonisch erreichen?",
-      "answer": "Sie können die Praxis unter der Telefonnummer 017631787227 kontaktieren."
+      "question": "Wie lange dauert eine Sitzung in der Praxis?",
+      "answer": "Eine Sitzung dauert etwa 20-40 Minuten."
     }
   ]
 }

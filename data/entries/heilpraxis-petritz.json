@@ -60,26 +60,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Öffnungszeiten hat die Heilpraxis Petritz?",
-      "answer": "Die Heilpraxis Petritz hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Petritz?",
-      "answer": "Die Heilpraxis Petritz befindet sich in der Glienicker Str. 6B, 13467 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Petritz buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Heilpraxis Petritz buchen, indem Sie das Kontaktformular auf der Seite https://heilpraxis-petritz.de/praxis/kontakt-und-anfahrt ausfüllen."
-    },
-    {
-      "question": "Welche Beschwerden behandelt die Heilpraxis Petritz?",
-      "answer": "Die Heilpraxis Petritz behandelt unter anderem Schmerzen, Allergien, Verdauungsprobleme, Immunsystemschwäche und chronische Beschwerden."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Petritz kontaktieren?",
-      "answer": "Sie können die Heilpraxis Petritz telefonisch unter 03035518128 oder per E-Mail an mail@heilpraxis-petritz.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

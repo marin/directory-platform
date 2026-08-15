@@ -3,7 +3,7 @@
   "slug": "osteo-akupunkt-praxis-yelva-nickel",
   "name": "Osteo Akupunkt Praxis Yelva Nickel",
   "description": "Die Osteo Akupunkt Praxis Yelva Nickel befindet sich in Berlin-Mitte und bietet umfassende Behandlungen in den Bereichen Osteopathie, Akupunktur und Frauenheilkunde an. Die Praxis legt großen Wert auf individuelle Betreuung und ganzheitliche Ansätze zur Förderung der Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Novalisstraße 8",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03028046900",
   "website": "https://www.o-a-p.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/yelva-nickel?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzQuhdJhRqEcR_vS77YoGNk4",
+  "googleMapsRating": 4,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Wednesday",
@@ -45,29 +49,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Osteo Akupunkt Praxis Yelva Nickel?",
-      "answer": "Die Praxis befindet sich in der Novalisstraße 8, 10115 Berlin-Mitte."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis ist mittwochs und donnerstags von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Termine können über die Buchungsseite auf Doctolib gebucht werden: Termin buchen."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet Osteopathie-Akupunktur und Frauenheilkunde an."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Die Praxis kann per E-Mail unter nickel@o-a-p.de kontaktiert werden. Telefonische Kontaktaufnahme ist derzeit nicht möglich."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzQuhdJhRqEcR_vS77YoGNk4",
-  "googleMapsRating": 4,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraxis-heidorn",
   "name": "Heilpraxis Heidorn",
   "description": "Die Heilpraxis Heidorn in Berlin-Zehlendorf bietet eine ganzheitliche Betrachtung von individuellen Beschwerden durch verschiedene naturheilkundliche Ansätze. Zu den angebotenen Leistungen zählen unter anderem Metavital- und Dunkelfeld-Diagnostik sowie Faszien-Behandlungen. Heilpraktikerin Marie-Carolin Heidorn legt großen Wert auf eine ausführliche Erstberatung, um gemeinsam mit den Patienten geeignete Therapiewege zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Herbergerweg 11",
     "locality": "Berlin",
@@ -63,26 +64,5 @@
     "/images/entries/heilpraxis-heidorn/3.webp",
     "/images/entries/heilpraxis-heidorn/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Heilpraxis Heidorn an?",
-      "answer": "Die Heilpraxis Heidorn bietet unter anderem Metavital-Diagnostik, Dunkelfeld-Diagnostik, Faszien-Behandlung und weitere Behandlungen an."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Heidorn?",
-      "answer": "Die Heilpraxis Heidorn befindet sich im Herbergerweg 11, 14167 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Heidorn buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf der Website der Heilpraxis Heidorn buchen: https://heilpraxis-heidorn.de/wp/index.php/kontakt/."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Heidorn kontaktieren?",
-      "answer": "Sie können die Heilpraxis Heidorn telefonisch unter 015234096778 oder per E-Mail an info@heilpraxis-heidorn.de kontaktieren."
-    },
-    {
-      "question": "Hat die Heilpraxis Heidorn feste Öffnungszeiten?",
-      "answer": "Im Moment sind keine festen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

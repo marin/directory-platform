@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-henriette-scharfenberg",
   "name": "Heilpraktikerin Henriette Scharfenberg",
   "description": "Heilpraktikerin Henriette Scharfenberg bietet in ihrer Naturheilpraxis in Berlin-Steglitz-Zehlendorf eine Vielzahl von Therapien an, die auf sanfte und nachhaltige Heilung abzielen. Zu den Behandlungsmethoden gehören klassische Homöopathie, Gelenkmobilisation sowie verschiedene Massagetechniken, darunter die Breußmassage. Ihr Ansatz fokussiert sich darauf, die zugrunde liegenden Ursachen von Beschwerden zu erkennen und zu behandeln, um die Lebenskraft und Vitalität ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Fichtenberg 17",
     "locality": "Berlin",
@@ -79,22 +80,5 @@
     "/images/entries/heilpraktikerin-henriette-scharfenberg/3.webp",
     "/images/entries/heilpraktikerin-henriette-scharfenberg/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Henriette Scharfenberg?",
-      "answer": "Die Naturheilpraxis von Henriette Scharfenberg befindet sich in der Am Fichtenberg 17, 14195 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Henriette Scharfenberg vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 – 31 56 08 61 oder per E-Mail an kontakt@heilpraktiker-scharfenberg.de vereinbaren."
-    },
-    {
-      "question": "Welche Therapien bietet Heilpraktikerin Henriette Scharfenberg an?",
-      "answer": "Heilpraktikerin Henriette Scharfenberg bietet unter anderem klassische Homöopathie, Gelenkmobilisation, ganzheitliche Massagen sowie Breußmassagen an."
-    },
-    {
-      "question": "Kann ich auch mein Tier in der Praxis behandeln lassen?",
-      "answer": "Ja, für die naturheilkundliche Behandlung von Tieren gibt es eine separate Tierheilpraxis, die unter www.thp-scharfenberg.de erreichbar ist."
-    }
-  ]
+  "faq": []
 }

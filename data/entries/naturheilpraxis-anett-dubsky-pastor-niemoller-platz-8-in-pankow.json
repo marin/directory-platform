@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow",
   "name": "Naturheilpraxis Anett Dubsky Pastor-Niemöller-Platz 8 in Pankow",
   "description": "In der Naturheilpraxis Anett Dubsky in Berlin Pankow steht der Mensch als Ganzes im Mittelpunkt. Die Praxis bietet individuelle naturheilkundliche und diagnostische Therapieansätze, die auf die spezifischen Beschwerden und Ziele der Patienten abgestimmt sind. Mit einem ganzheitlichen Blick werden Ursachen von Beschwerden analysiert, um gezielte Lösungen zu finden und die Selbstregulation des Körpers zu unterstützen. Die Praxis legt Wert auf eine umfassende Begleitung und arbeitet eng mit verschiedenen Fachleuten aus der Medizin und Naturheilkunde zusammen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pastor-Niemöller-Platz 8",
     "locality": "Berlin",
@@ -67,26 +68,5 @@
     "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/3.webp",
     "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Anett Dubsky?",
-      "answer": "Die Naturheilpraxis Anett Dubsky befindet sich am Pastor-Niemöller-Platz 8 in Berlin Pankow, 13156."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis telefonisch unter 015566330663 kontaktieren oder das Kontaktformular auf der Webseite nutzen: https://naturheilpraxis-in-berlin.com/kontakt/."
-    },
-    {
-      "question": "Welche Therapieansätze werden in der Naturheilpraxis angeboten?",
-      "answer": "In der Naturheilpraxis stehen verschiedene naturheilkundliche und diagnostische Therapieansätze zur Verfügung, die individuell auf die Beschwerden und Ziele der Patienten abgestimmt werden."
-    },
-    {
-      "question": "Wie lange praktiziert Anett Dubsky bereits als Heilpraktikerin?",
-      "answer": "Anett Dubsky begleitet Menschen seit 17 Jahren mit Erfahrung, Sorgfalt und einem ganzheitlichen Blick."
-    },
-    {
-      "question": "Wie kann ich Anett Dubsky kontaktieren?",
-      "answer": "Sie können Anett Dubsky per E-Mail unter kontakt@naturheilpraxis-in-berlin.com oder telefonisch unter 015566330663 erreichen."
-    }
-  ]
+  "faq": []
 }

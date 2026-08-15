@@ -226,24 +226,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Heilpraktikerin Petra Butschko an?",
-      "answer": "Heilpraktikerin Petra Butschko bietet Amerikanische Chiropraktik, Akupunktur, Schmerztherapie und Umweltmedizin an."
+      "question": "Brauche ich eine ärztliche Überweisung für den ersten Termin?",
+      "answer": "Nein. Sie können jederzeit direkt einen Termin in unserer Praxis vereinbaren."
     },
     {
-      "question": "Wo befindet sich die Praxis von Petra Butschko?",
-      "answer": "Die Praxis von Petra Butschko befindet sich in der Philippistraße 11, 14059 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags bis donnerstags von 09:00 bis 18:00 Uhr und freitags von 09:00 bis 14:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Petra Butschko buchen?",
-      "answer": "Sie können einen Termin online über den folgenden Link buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Ansätze verfolgt die Praxis in der Umweltmedizin?",
-      "answer": "In der Umweltmedizin wird auf die Identifikation belastender Umweltfaktoren geachtet und deren Auswirkungen werden reduziert, um Beschwerden wie Schlafprobleme, Kopfschmerzen und Erschöpfung zu behandeln."
+      "question": "Werden die Kosten von der Krankenkasse übernommen?",
+      "answer": "Private Krankenkassen und Zusatzversicherungen erstatten häufig einen Teil der Kosten. Gesetzliche Krankenkassen übernehmen die Leistungen in der Regel nicht."
     }
   ]
 }

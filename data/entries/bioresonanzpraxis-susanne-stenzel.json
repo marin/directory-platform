@@ -3,7 +3,7 @@
   "slug": "bioresonanzpraxis-susanne-stenzel",
   "name": "Bioresonanzpraxis Susanne Stenzel",
   "description": "Die Bioresonanzpraxis Susanne Stenzel befindet sich in Berlin-Zehlendorf und bietet naturheilkundliche Behandlungen mit dem Schwerpunkt auf Bioresonanztherapie an. In einem kostenlosen Kennenlerngespräch können Interessierte mehr über die Methode und den Therapieablauf erfahren. Die Praxis legt Wert auf individuelle Betreuung und eine vertrauensvolle Atmosphäre.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Machnower Str. 19A",
     "locality": "Berlin",
@@ -41,24 +42,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Bioresonanzpraxis Susanne Stenzel?",
-      "answer": "Die Bioresonanzpraxis Susanne Stenzel befindet sich in der Machnower Str. 19A, 14165 Berlin, im Bezirk Steglitz-Zehlendorf."
+      "question": "Was kostet mich die Therapie?",
+      "answer": "Ich rechne nach Heilpraktikergebührenordnung (GebüH) ab."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Bioresonanzpraxis Susanne Stenzel über die Webseite unter folgendem Link buchen: Terminbuchung."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Therapiesitzung incl. Testung für Erwachsene dauert ca. 60 Minuten."
     },
     {
-      "question": "Welche Therapieform wird in der Praxis angeboten?",
-      "answer": "In der Bioresonanzpraxis Susanne Stenzel wird die Bioresonanztherapie angeboten."
-    },
-    {
-      "question": "Gibt es ein Kennlerngespräch, bevor ich eine Behandlung beginne?",
-      "answer": "Ja, es gibt ein kostenloses Kennlerngespräch, in dem Sie alle Fragen zur Bioresonanzmethode und zum Therapieablauf stellen können."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Bioresonanzpraxis Susanne Stenzel telefonisch unter der Nummer 033284289746 kontaktieren."
+      "question": "Bietet die Praxis Behandlungen für Kinder an?",
+      "answer": "Ja, es gibt Anamnesegespräche incl. großem Test für Kinder bis 16 Jahre."
     }
   ]
 }

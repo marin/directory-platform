@@ -3,7 +3,7 @@
   "slug": "ursula-jendrek-heilpraktikerin",
   "name": "Ursula Jendrek, Heilpraktikerin",
   "description": "Ursula Jendrek ist eine erfahrene Heilpraktikerin mit einer Naturheilpraxis im Kräuterlab in Berlin-Spandau. Sie bietet klassische Homöopathie für Kinder und Erwachsene an und legt großen Wert auf individuelle Behandlungsansätze. Ihre Praxis befindet sich in der Jacobsenweg 56, 13509 Berlin.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Jacobsenweg 56",
     "locality": "Berlin",
@@ -46,20 +47,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis von Ursula Jendrek?",
-      "answer": "Die Naturheilpraxis von Ursula Jendrek befindet sich im Jacobsenweg 56, 13509 Berlin, Spandau."
-    },
-    {
-      "question": "Welche Behandlungen bietet Ursula Jendrek an?",
-      "answer": "Ursula Jendrek bietet klassische Homöopathie für Kinder und Erwachsene an."
-    },
-    {
-      "question": "Wie kann ich Ursula Jendrek kontaktieren?",
-      "answer": "Sie können Ursula Jendrek telefonisch unter 033056224355 oder per E-Mail an info@homoeopathie-berlin-praxis.de kontaktieren."
-    },
-    {
-      "question": "Hat die Praxis von Ursula Jendrek spezielle Öffnungszeiten?",
-      "answer": "Im Moment sind keine Öffnungszeiten angegeben."
+      "question": "Bietet Ursula Jendrek Behandlungen für Kinder an?",
+      "answer": "Ja, Ursula Jendrek bietet klassische Homöopathie für Kinder an."
     }
   ]
 }

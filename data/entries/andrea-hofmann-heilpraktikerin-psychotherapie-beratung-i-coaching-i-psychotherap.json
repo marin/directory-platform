@@ -3,7 +3,7 @@
   "slug": "andrea-hofmann-heilpraktikerin-psychotherapie-beratung-i-coaching-i-psychotherap",
   "name": "Andrea Hofmann, Heilpraktikerin Psychotherapie – Beratung I Coaching I Psychotherapie",
   "description": "Andrea Hofmann ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Neukölln. Sie bietet individuelle Beratung, Coaching und Psychotherapie an, wobei sie verschiedene Methoden wie Traumatherapie, EMDR und systemische Aufstellungen einsetzt. Ihr Ansatz zielt darauf ab, nachhaltige Lösungen für die Anliegen ihrer Klienten zu finden und eine vertrauensvolle Atmosphäre zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heidelberger Str. 37a",
     "locality": "Berlin",
@@ -123,24 +124,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Andrea Hofmann an?",
-      "answer": "Andrea Hofmann bietet Beratung, Coaching und Psychotherapie an. Sie arbeitet mit verschiedenen Methoden wie Traumatherapie, EMDR, Inneres Kind und systemischer Aufstellung."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Andrea Hofmann buchen?",
-      "answer": "Sie können einen Termin direkt über die Webseite von Andrea Hofmann buchen: Termin buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten von Andrea Hofmanns Praxis?",
-      "answer": "Die Öffnungszeiten sind Dienstag von 10:00 bis 21:00 Uhr, Mittwoch von 15:00 bis 21:00 Uhr, Donnerstag von 10:00 bis 21:00 Uhr und Freitag von 10:00 bis 21:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Andrea Hofmann?",
-      "answer": "Die Praxis von Andrea Hofmann befindet sich in der Heidelberger Str. 37a, 12059 Berlin, im Stadtteil Neukölln."
-    },
-    {
-      "question": "Welche Preise gelten für die Sitzungen bei Andrea Hofmann?",
-      "answer": "Die Preise für die Sitzungen beginnen bei 73,15€ für 40 Minuten und reichen bis zu 171,00€ für 120 Minuten, jeweils inklusive 5% Rabatt."
+      "question": "Wie lange dauern die Sitzungen?",
+      "answer": "Die Sitzungen dauern 40 Minuten, 60 Minuten oder 75 Minuten."
     }
   ]
 }

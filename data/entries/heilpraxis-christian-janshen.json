@@ -3,7 +3,7 @@
   "slug": "heilpraxis-christian-janshen",
   "name": "Heilpraxis Christian Janshen",
   "description": "Die Heilpraxis Christian Janshen befindet sich in Berlin-Tempelhof und bietet ein breites Spektrum an naturheilkundlichen Therapien an. Unter der Leitung von Heilpraktiker und Qigong-Lehrer Christian Janshen werden verschiedene Behandlungen, darunter Akupunktur und Qigong-Kurse, angeboten. Die Praxis legt Wert auf individuelle Betreuung und fördert das Wohlbefinden ihrer Patienten durch ganzheitliche Ansätze.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schönburgstraße 9",
     "locality": "Berlin",
@@ -39,20 +40,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraxis Christian Janshen?",
-      "answer": "Die Heilpraxis Christian Janshen befindet sich in der Schönburgstraße 9, 12103 Berlin, im Bezirk Tempelhof-Schöneberg."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Dauer einer Sitzung variiert: Energetische Massagen und Lymphdrainagen dauern 30, 45 oder 60 Minuten."
     },
     {
-      "question": "Welche Therapieangebote bietet die Heilpraxis an?",
-      "answer": "Die Heilpraxis Christian Janshen bietet unter anderem Qigong, Akupunktur und verschiedene Kurse an."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis kontaktieren?",
-      "answer": "Sie können die Heilpraxis telefonisch unter 030 755 15 952 oder per E-Mail an mail@heilpraxis-janshen.de kontaktieren."
-    },
-    {
-      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
-      "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben. Für Terminwünsche können Sie die Praxis direkt kontaktieren."
+      "question": "Werden die Kosten von der Krankenkasse übernommen?",
+      "answer": "Heilpraktiker-Leistungen werden normalerweise nicht von den gesetzlichen Krankenkassen erstattet. Private Krankenversicherungen oder Beihilfestellen übernehmen je nach Vertrag teilweise oder in voller Höhe."
     }
   ]
 }

@@ -123,24 +123,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Homöopathie und Ayurveda in Berlin?",
-      "answer": "Die Praxis befindet sich in der Droysenstraße 6, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+      "question": "Was kostet ein Ersttermin in der Praxis für Homöopathie und Ayurveda in Berlin?",
+      "answer": "Die Erstanamnese für Erwachsene kostet ca. 200 €. Für Kinder bis 14 Jahren liegt der Preis bei 160 €."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag sowie am Sonntag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin direkt über die Website der Praxis buchen: Termin Buchen."
-    },
-    {
-      "question": "Welche Behandlungen werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden Behandlungen in Homöopathie und Ayurveda angeboten, darunter Erstanamnesen, verschiedene Massagen und Ernährungsberatung."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Erstanamnese?",
-      "answer": "Die Kosten für eine Erstanamnese für Erwachsene betragen 200 € und für Kinder bis 14 Jahren 160 €, jeweils abhängig vom Zeitaufwand."
+      "question": "Werden die Behandlungskosten von der Versicherung übernommen?",
+      "answer": "Privatversicherten und beihilfeberechtigten Patienten werden die Behandlungskosten in der Regel zu einem großen Teil von ihrer Versicherung zurückerstattet. Gesetzlich versicherte Patienten können eine Zusatzversicherung für Heilpraktiker abschließen."
     }
   ]
 }

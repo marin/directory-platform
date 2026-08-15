@@ -3,7 +3,7 @@
   "slug": "dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he",
   "name": "Dana Stechow - Heilpraktikerin, Heilkünstlerin, Homöopathie, Gestalttherapie, Theta Healing, Gong-Healing Sessions",
   "description": "Dana Stechow ist eine erfahrene Heilpraktikerin in Berlin, die Menschen in Übergangsphasen begleitet und sie durch innere Wandlungsprozesse unterstützt. Ihr Angebot umfasst verschiedene Methoden wie Homöopathie, Gestalttherapie, Theta Healing und Gong-Healing Sessions. In Einzel-Sessions und Gruppenveranstaltungen hilft sie, persönliche und berufliche Herausforderungen zu bewältigen und das innere Gleichgewicht wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Zwinglistraße 8",
     "locality": "Berlin",
@@ -72,22 +73,5 @@
     "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/3.webp",
     "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Dana Stechow an?",
-      "answer": "Dana Stechow bietet unter anderem Homöopathie, Gestalttherapie, Theta Healing und Gong-Healing Sessions an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Dana Stechow?",
-      "answer": "Die Praxis von Dana Stechow befindet sich in der Zwinglistraße 8, 10555 Berlin."
-    },
-    {
-      "question": "Bietet Dana Stechow auch Online-Kurse an?",
-      "answer": "Ja, Dana Stechow bietet einen Onlinekurs zu mehr innerer Freiheit an, der verschiedene Energiezentren behandelt."
-    },
-    {
-      "question": "Wie kann ich Dana Stechow kontaktieren?",
-      "answer": "Sie können Dana Stechow telefonisch unter 017634680612 oder per E-Mail an praxis@danastechow.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

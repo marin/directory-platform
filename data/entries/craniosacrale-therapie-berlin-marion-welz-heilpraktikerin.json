@@ -3,7 +3,7 @@
   "slug": "craniosacrale-therapie-berlin-marion-welz-heilpraktikerin",
   "name": "Craniosacrale Therapie Berlin Marion Welz (Heilpraktikerin)",
   "description": "In der Praxis von Marion Welz in Berlin Pankow wird biodynamische Craniosacral Therapie angeboten, die sich an Erwachsene, Familien und Kinder richtet. Die Therapie unterstützt die Selbstregulation des Körpers und fördert die Heilung von Stress, Trauma und emotionalen Belastungen. Durch eine individuelle und achtsame Begleitung wird auf die einzigartigen Bedürfnisse jedes Klienten eingegangen, um Körper, Geist und Seele in Einklang zu bringen. Weitere therapeutische Ansätze wie Trauma- und Psychotherapie sowie Coaching können ebenfalls in den Prozess integriert werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Goethestraße 54",
     "locality": "Berlin",
@@ -167,24 +168,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet Marion Welz an?",
-      "answer": "Marion Welz bietet biodynamische Craniosacral Therapie für Erwachsene, Familien und Kinder an. Die Behandlungen dauern zwischen 60 und 120 Minuten und variieren in den Preisen von 60 EUR bis 180 EUR."
+      "question": "Was kostet der Ersttermin bei Marion Welz?",
+      "answer": "Der Erstbesuch mit Anamneseerhebung kostet 120 EUR für Kinder und 150-180 EUR für Familien oder Erwachsene."
     },
     {
-      "question": "Wie kann ich einen Termin bei Marion Welz buchen?",
-      "answer": "Termine können telefonisch unter 01723233352, per E-Mail an marion@craniosacral-biodynamik-berlin.de oder bequem über die Online-Terminbuchung auf der Website http://cranio-pankow-reinickendorf.de/ vereinbart werden."
+      "question": "Wie lange dauert eine Sitzung für Kinder?",
+      "answer": "Die Dauer für Kinder beträgt ca. 90 Minuten."
     },
     {
-      "question": "Wann hat die Praxis von Marion Welz geöffnet?",
-      "answer": "Die Praxis hat montags bis freitags von 10:00 bis 21:00 Uhr und samstags von 12:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Marion Welz?",
-      "answer": "Die Praxis befindet sich in der Goethestraße 54, 13158 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Was ist biodynamische Craniosacral Therapie?",
-      "answer": "Die biodynamische Craniosacral Therapie ist eine körperorientierte Therapieform, die darauf abzielt, das Nervensystem zur Ruhe zu bringen und die natürlichen Selbstregulationskräfte des Körpers zu aktivieren."
+      "question": "Werden die Kosten für die Craniosacrale Therapie von Krankenkassen erstattet?",
+      "answer": "Einige gesetzliche Krankenkassen erstatten die Kosten teilweise, wenn eine Empfehlung eines Arztes vorliegt."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "frau-margot-schlemender-mischo",
   "name": "Frau Margot Schlemender-Mischo",
   "description": "Frau Margot Schlemender-Mischo ist eine erfahrene Heilpraktikerin mit eigener Praxis in Berlin-Mitte, die seit 1991 tätig ist. Ihre Schwerpunkte liegen in der traditionellen chinesischen Medizin (TCM), Akupunktur sowie in der chinesischen und westlichen Kräuterheilkunde. Die Praxis befindet sich in der Tucholskystraße 22, 10117 Berlin, im Akupunkturzentrum.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Tucholskystraße 22",
     "locality": "Berlin",
@@ -33,26 +34,5 @@
     "/images/entries/frau-margot-schlemender-mischo/0.webp",
     "/images/entries/frau-margot-schlemender-mischo/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Frau Margot Schlemender-Mischo?",
-      "answer": "Die Praxis befindet sich in der Tucholskystraße 22, 10117 Berlin, im Akupunkturzentrum in Berlin Mitte."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Frau Schlemender-Mischo an?",
-      "answer": "Frau Schlemender-Mischo bietet Behandlungen in traditioneller chinesischer Medizin (TCM), Akupunktur sowie chinesischer und westlicher Kräuterheilkunde an."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030-28046234 oder per E-Mail an praxis@akupunktur-mitte.de vereinbaren."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat täglich geöffnet. Ausnahmen erfahren Sie auf dem Anrufbeantworter."
-    },
-    {
-      "question": "Wie lange praktiziert Frau Margot Schlemender-Mischo bereits als Heilpraktikerin?",
-      "answer": "Frau Margot Schlemender-Mischo praktiziert seit 1991 als Heilpraktikerin."
-    }
-  ]
+  "faq": []
 }

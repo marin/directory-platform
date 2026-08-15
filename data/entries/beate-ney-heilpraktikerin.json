@@ -3,7 +3,7 @@
   "slug": "beate-ney-heilpraktikerin",
   "name": "Beate Ney - Heilpraktikerin",
   "description": "Beate Ney ist eine erfahrene Heilpraktikerin mit Sitz in Berlin-Neukölln. Sie bietet klassische Homöopathie sowie Fußreflexzonentherapie nach Hanne Marquardt an. In ihrer Praxis legt sie Wert auf individuelle Beratung und umfassende Informationen zu den angebotenen Therapien.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Jonasstraße 25",
     "locality": "Berlin",
@@ -35,18 +36,5 @@
     "/images/entries/beate-ney-heilpraktikerin/3.webp",
     "/images/entries/beate-ney-heilpraktikerin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Beate Ney als Heilpraktikerin an?",
-      "answer": "Beate Ney bietet die Klassische Homöopathie und die Fußreflexzonentherapie nach Hanne Marquardt© an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Beate Ney?",
-      "answer": "Die Praxis von Beate Ney befindet sich in der Jonasstraße 25, 12053 Berlin, Neukölln."
-    },
-    {
-      "question": "Wie kann ich Beate Ney kontaktieren?",
-      "answer": "Sie können Beate Ney telefonisch unter 054019186 oder per E-Mail an beateney@web.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

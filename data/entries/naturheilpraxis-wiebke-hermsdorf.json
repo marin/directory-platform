@@ -138,24 +138,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Wiebke Hermsdorf an?",
-      "answer": "Die Naturheilpraxis Wiebke Hermsdorf bietet eine ganzheitliche Behandlung für Mütter und Kinder an, einschließlich Unterstützung bei Unruhe, Schlafproblemen, Verdauungsbeschwerden, häufigen Infekten, Hautproblemen und mehr. Zudem werden auch emotionale und mentale Begleitungen während der Schwangerschaft und nach der Geburt angeboten."
+      "question": "Richtet sich das Angebot der Naturheilpraxis an Selbstzahler?",
+      "answer": "Ja, das Angebot richtet sich an Selbstzahler. Zusatzversicherungen übernehmen teilweise die Kosten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Wiebke Hermsdorf vereinbaren?",
-      "answer": "Es wird empfohlen, auf den Anrufbeantworter zu sprechen, falls niemand erreichbar ist."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Wiebke Hermsdorf?",
-      "answer": "Die Praxis hat von Montag bis Freitag von 08:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Werden die Kosten für die Behandlungen von der Krankenkasse übernommen?",
-      "answer": "Das Angebot richtet sich an Selbstzahler. Einige Zusatzversicherungen übernehmen möglicherweise teilweise die Kosten. Es wird empfohlen, dies im Vorfeld zu klären."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Wiebke Hermsdorf?",
-      "answer": "Die Naturheilpraxis Wiebke Hermsdorf befindet sich in der Manteuffelstraße 67, 10999 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+      "question": "Bietet die Naturheilpraxis auch Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis bietet Behandlungen für Babys, Kinder und Mütter an."
     }
   ]
 }

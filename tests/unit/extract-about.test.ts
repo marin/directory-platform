@@ -4,6 +4,7 @@ import {
   extractAboutFromMarkdown,
   isBoilerplateDescription,
   isTemplateDescription,
+  isNapFaqItem,
   sanitizeDirectoryText,
   sanitizeFaqItems,
   stripCookieSentences,
@@ -117,5 +118,30 @@ describe("sanitizeFaqItems", () => {
     ]);
     expect(faq[1]?.answer).toContain("telefonisch");
     expect(faq[1]?.answer).not.toContain("](");
+  });
+});
+
+describe("isNapFaqItem", () => {
+  it("flags address, phone, hours, booking and therapy-list questions", () => {
+    expect(isNapFaqItem({ question: "Wo befindet sich die Praxis?", answer: "In der Dickhardtstraße 48." })).toBe(true);
+    expect(isNapFaqItem({ question: "Wie kann ich Jan Dunkel kontaktieren?", answer: "Telefonisch unter 030 123." })).toBe(true);
+    expect(isNapFaqItem({ question: "Wie lauten die Öffnungszeiten der Praxis?", answer: "Montag bis Freitag." })).toBe(true);
+    expect(isNapFaqItem({ question: "Wie kann ich einen Termin buchen?", answer: "Über Doctolib." })).toBe(true);
+    expect(
+      isNapFaqItem({
+        question: "Welche Behandlungen werden angeboten?",
+        answer: "Akupunktur und Shiatsu.",
+      }),
+    ).toBe(true);
+    expect(isNapFaqItem({ question: "Wie kann ich einen Termin bei Günter Böwing buchen?", answer: "Über die Kontaktseite." })).toBe(true);
+    expect(isNapFaqItem({ question: "Wann sind die Sprechzeiten von Peter Krauss?", answer: "Montag bis Donnerstag." })).toBe(true);
+  });
+
+  it("keeps first-appointment, duration, payer, language and children questions", () => {
+    expect(isNapFaqItem({ question: "Wie läuft der Ersttermin ab?", answer: "Die Anamnese dauert eine Stunde." })).toBe(false);
+    expect(isNapFaqItem({ question: "Wie lange dauert eine Behandlung?", answer: "60 Minuten." })).toBe(false);
+    expect(isNapFaqItem({ question: "Übernimmt die Krankenkasse die Kosten?", answer: "Nein, Selbstzahler." })).toBe(false);
+    expect(isNapFaqItem({ question: "Welche Sprachen werden in der Praxis gesprochen?", answer: "Deutsch und Englisch." })).toBe(false);
+    expect(isNapFaqItem({ question: "Werden auch Kinder behandelt?", answer: "Ja, auch Säuglinge." })).toBe(false);
   });
 });

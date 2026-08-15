@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-und-gesundheitscoach-berlin-susan-schubert",
   "name": "Heilpraktiker und Gesundheitscoach Berlin Susan Schubert",
   "description": "Heilpraktikerin Susan Schubert bietet in ihrer Praxis in Berlin-Friedrichshain ganzheitliche Gesundheitsberatung und naturheilkundliche Therapien an. Ihr Ansatz zielt darauf ab, Körper, Geist und Seele in Einklang zu bringen und individuelle Wege zur Wiederherstellung der inneren Balance zu finden. Neben persönlichen Beratungsgesprächen werden auch energetische Heilmethoden und Heilspaziergänge in der Natur angeboten, um die Verbindung zur eigenen Natur zu stärken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Grünberger Str. 20",
     "locality": "Berlin",
@@ -127,26 +128,5 @@
   "images": [
     "/images/entries/heilpraktiker-und-gesundheitscoach-berlin-susan-schubert/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Susan Schubert?",
-      "answer": "Die Praxis von Susan Schubert befindet sich in der Grünberger Str. 20, 10243 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Susan Schubert buchen?",
-      "answer": "Sie können einen Termin bei Susan Schubert über die Buchungsseite calendly.com buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Freitag von 10:00 bis 20:00 Uhr und Samstag von 12:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Welche Angebote bietet Susan Schubert an?",
-      "answer": "Susan Schubert bietet verschiedene Angebote an, darunter heilsame Gespräche, Energiearbeit und Heilspaziergänge in der Natur."
-    },
-    {
-      "question": "Wie kann ich mehr über die Methoden von Susan Schubert erfahren?",
-      "answer": "Sie können mehr über die Methoden und Ansätze von Susan Schubert auf ihrer Website heilweg.de erfahren."
-    }
-  ]
+  "faq": []
 }

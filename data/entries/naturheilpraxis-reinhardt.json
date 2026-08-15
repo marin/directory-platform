@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-reinhardt",
   "name": "Naturheilpraxis Reinhardt",
   "description": "Die Naturheilpraxis Reinhardt in Berlin bietet eine Vielzahl von klassischen Heilverfahren aus der Naturheilkunde an, darunter Akupunktur, Blutegeltherapie und verschiedene Massagetechniken. Zudem werden psychotherapeutische Methoden wie Verhaltenstherapie und Gesprächstherapie angeboten. Die Praxis legt großen Wert auf individuelle Diagnosen und maßgeschneiderte Therapieansätze, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alte Potsdamer Str. 11",
     "locality": "Berlin",
@@ -258,24 +259,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Naturheilpraxis Reinhardt an?",
-      "answer": "Die Naturheilpraxis Reinhardt bietet eine Vielzahl von Therapien an, darunter Akupunktur, Blutegeltherapie, Schröpftherapie, medizinische Massagen, Bioresonanztherapie und verschiedene Formen der Psychotherapie."
+      "question": "Wie läuft der Ersttermin in der Naturheilpraxis Reinhardt ab?",
+      "answer": "Vor jeder Erstbehandlung findet eine Anamnese statt, die ca. 25 Minuten dauert."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Reinhardt buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Reinhardt über die Webseite buchen. Besuchen Sie dazu den Kontaktbereich unter https://www.naturheilpraxis-potsdamer-platz.com/kontakt-naturheilpraxis-berlin.html."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Reinhardt geöffnet?",
-      "answer": "Die Naturheilpraxis Reinhardt hat von Montag bis Freitag von 08:00 bis 20:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Reinhardt?",
-      "answer": "Die Naturheilpraxis Reinhardt befindet sich in der Alten Potsdamer Str. 11, 10785 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Reinhardt kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Reinhardt telefonisch unter 03025935849 oder per E-Mail an info@naturheilpraxis-potsdamer-platz.com kontaktieren."
+      "question": "Übernimmt die Krankenkasse die Kosten für Behandlungen in der Naturheilpraxis Reinhardt?",
+      "answer": "Gesetzliche Krankenkassen übernehmen die Kosten für Heilpraktikerbehandlungen nicht. Private Krankenkassen decken jedoch eine Reihe naturheilkundlicher Therapiemethoden ab."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "brigita-bakmaz-heilpraktikerin-fur-klassische-homoopathie",
   "name": "Brigita Bakmaz, Heilpraktikerin für klassische Homöopathie",
   "description": "Brigita Bakmaz ist Heilpraktikerin für klassische Homöopathie in Berlin-Pankow. Seit 2001 führt sie ihre eigene Praxis und hat sich intensiv mit der Homöopathie beschäftigt, nachdem sie eine dreijährige Ausbildung an der Samuel-Hahnemann-Schule in Berlin abgeschlossen hat. In ihrer Arbeit legt sie großen Wert darauf, die individuellen Beschwerden ihrer Patienten umfassend zu verstehen und mit passenden homöopathischen Mitteln zu behandeln. Sie betreut Patienten jeden Alters, von Säuglingen bis zu Erwachsenen, und schätzt die sanfte Wirkung der Homöopathie bei akuten und chronischen Erkrankungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Raumerstraße 18",
     "locality": "Berlin",
@@ -90,24 +91,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Brigita Bakmaz an?",
-      "answer": "Brigita Bakmaz bietet klassische Homöopathie an und behandelt sowohl akute als auch chronische Erkrankungen sowie psychosomatische Beschwerden."
+      "question": "Wie lange dauert der Ersttermin bei Brigita Bakmaz?",
+      "answer": "Der Ersttermin dauert mindestens zwei Stunden."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Behandlung?",
-      "answer": "Die Kosten für eine Behandlung betragen 90 € für Erwachsene und 70 € für Kinder, Schüler, Studenten und Hartz-IV-Empfänger. Die Kosten für Arzneimittel liegen bei etwa 20 € für einen Zeitraum von vier bis acht Wochen."
+      "question": "Muss ich die Behandlungskosten selbst bezahlen?",
+      "answer": "Ja, alle Patienten sind Selbstzahler und erhalten eine Rechnung, die sie selbst bezahlen müssen."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Dienstag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 14:00 Uhr, Donnerstag von 12:00 bis 20:00 Uhr und Freitag von 08:30 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Brigita Bakmaz?",
-      "answer": "Die Praxis befindet sich in der Raumerstraße 18, 10437 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Website von Brigita Bakmaz unter http://www.bakmaz.de/kontakt oder telefonisch unter 030 44327617 vereinbaren."
+      "question": "Behandelt Brigita Bakmaz auch Kinder?",
+      "answer": "Ja, sie behandelt Säuglinge, Kinder und Jugendliche gerne."
     }
   ]
 }

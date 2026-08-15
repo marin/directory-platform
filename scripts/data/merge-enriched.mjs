@@ -7,6 +7,7 @@ import { ROOT } from "../lib/work-utils.mjs";
 
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
+const faqOnly = args.includes("--faq-only");
 const slugArg = args.find((a) => a.startsWith("--slug="))?.split("=")[1]
   ?? (args.includes("--slug") ? args[args.indexOf("--slug") + 1] : undefined);
 
@@ -22,7 +23,9 @@ function listStagingSlugs() {
       const metaPath = join(STAGING_DIR, `${slug}.meta.json`);
       if (!existsSync(metaPath)) return true;
       const meta = JSON.parse(readFileSync(metaPath, "utf-8"));
-      return meta.mode !== "fixture";
+      if (meta.mode === "fixture") return false;
+      if (faqOnly && !Array.isArray(meta.topics)) return false;
+      return true;
     });
 }
 
@@ -44,12 +47,18 @@ for (const slug of slugs) {
   }
 
   const current = entrySchema.parse(JSON.parse(readFileSync(entryPath, "utf-8")));
-  const finalProposed = {
-    ...current,
-    description: proposed.description,
-    faq: proposed.faq ?? current.faq,
-    lastUpdated: today,
-  };
+  const finalProposed = faqOnly
+    ? {
+        ...current,
+        faq: proposed.faq ?? [],
+        lastUpdated: today,
+      }
+    : {
+        ...current,
+        description: proposed.description,
+        faq: proposed.faq ?? current.faq,
+        lastUpdated: today,
+      };
 
   const substantive = hasSubstantiveChange(current, finalProposed);
   const final = {

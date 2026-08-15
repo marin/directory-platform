@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-und-massage-silvia-von-buttlar",
   "name": "Praxis für Naturheilkunde und Massage Silvia von Buttlar",
   "description": "Die Praxis für Naturheilkunde und Massage Silvia von Buttlar in Berlin bietet integrales Coaching und Heilen nach Georg Meier an. Diese ganzheitliche Methode zielt darauf ab, die Selbstheilungskräfte der Patienten zu aktivieren, indem sie auf emotionale und seelische Faktoren eingeht. In einem ersten Kennenlerngespräch können Interessierte mehr über die Vorgehensweise und die angebotenen Therapieformen erfahren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Zur Holzoper 11",
     "locality": "Berlin",
@@ -59,26 +60,5 @@
   "images": [
     "/images/entries/praxis-fur-naturheilkunde-und-massage-silvia-von-buttlar/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis für Naturheilkunde und Massage Silvia von Buttlar an?",
-      "answer": "Die Praxis bietet Integrales Coaching und Heilen nach Georg Meier an, eine ganzheitliche Methode zur Freilegung der Selbstheilungskräfte."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde und Massage Silvia von Buttlar?",
-      "answer": "Die Praxis befindet sich in Berlin, Zur Holzoper 11, 12489 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag von 09:00 bis 20:00 Uhr, Dienstag, Mittwoch und Freitag von 16:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Kann ich ein Kennenlerngespräch vereinbaren?",
-      "answer": "Ja, Sie können ein unentgeltliches Kennenlerngespräch vereinbaren, entweder in der Praxis oder telefonisch."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03081829323 oder per E-Mail an praxis-buttlar@web.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -4,7 +4,13 @@ import { join } from "node:path";
 import siteConfig from "../../config/site.config.ts";
 import { buildGroundingContext } from "../../src/lib/data/build-grounding-context.ts";
 import { checkGrounding } from "../../src/lib/data/grounding.ts";
-import { isBoilerplateDescription, sanitizeDirectoryText, sanitizeFaqItems } from "../../src/lib/data/extract-about.ts";
+import {
+  dropNapFaqItems,
+  isBoilerplateDescription,
+  sanitizeDirectoryText,
+  sanitizeFaqItems,
+} from "../../src/lib/data/extract-about.ts";
+import { buildFixtureFaq, extractFaqTopics, keepTopicFaqs } from "../../src/lib/data/extract-faq-topics.ts";
 import { entrySchema, faqItemSchema } from "../../src/lib/validation/entry-schema.ts";
 import { loadEnv } from "../lib/load-env.mjs";
 import { ROOT, ensureWorkDir, hashFile } from "../lib/work-utils.mjs";
@@ -14,6 +20,7 @@ loadEnv();
 
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
+const faqOnly = args.includes("--faq-only");
 const useFixture = !process.env.OPENAI_API_KEY || args.includes("--fixture");
 const skipExisting = args.includes("--skip-existing");
 const limitArg = args.find((a) => a.startsWith("--limit="))?.split("=")[1]
@@ -56,7 +63,23 @@ function loadHomepageBundle(slug) {
   return { markdown, manifest, extracted };
 }
 
-function listCandidates() {
+function loadScrapeBundle(slug) {
+  const parts = [];
+  for (const file of ["homepage.md", "about.md", "prices.md"]) {
+    const path = join(SCRAPES_DIR, slug, file);
+    if (existsSync(path)) parts.push(readFileSync(path, "utf-8"));
+  }
+  if (!parts.length) return null;
+
+  const homepage = loadHomepageBundle(slug);
+  return {
+    markdown: parts.join("\n\n"),
+    manifest: homepage?.manifest ?? null,
+    extracted: homepage?.extracted ?? null,
+  };
+}
+
+function listDescriptionCandidates() {
   const slugs = slugArg
     ? [slugArg]
     : readdirSync(SCRAPES_DIR, { withFileTypes: true })
@@ -84,6 +107,34 @@ function listCandidates() {
   return typeof limit === "number" ? candidates.slice(0, limit) : candidates;
 }
 
+function listFaqOnlyCandidates() {
+  const files = slugArg
+    ? [`${slugArg}.json`]
+    : readdirSync(ENTRIES_DIR).filter((file) => file.endsWith(".json"));
+
+  const candidates = [];
+  for (const file of files) {
+    const entry = entrySchema.parse(JSON.parse(readFileSync(join(ENTRIES_DIR, file), "utf-8")));
+    if (skipExisting && existsSync(join(STAGING_DIR, `${entry.slug}.json`))) continue;
+
+    const bundle = loadScrapeBundle(entry.slug);
+    if (bundle?.extracted?.flags?.spam) {
+      candidates.push({ slug: entry.slug, entry, markdown: null, manifest: null, extracted: null });
+      continue;
+    }
+
+    candidates.push({
+      slug: entry.slug,
+      entry,
+      markdown: bundle?.markdown ?? null,
+      manifest: bundle?.manifest ?? null,
+      extracted: bundle?.extracted ?? null,
+    });
+  }
+
+  return typeof limit === "number" ? candidates.slice(0, limit) : candidates;
+}
+
 const BOILERPLATE_RE =
   /cookie|consent|datenschutz|technische speicherung|rechtmäßigen zweck|abonnenten oder nutzer|akzeptieren|ablehnen|einstellungen speichern/i;
 
@@ -103,30 +154,17 @@ function fixtureDescription(context) {
   return lead.slice(0, 500);
 }
 
-function fixtureFaq(context) {
-  const offers = context.offers.slice(0, 3).map((offer) => offer.name);
-  const faq = [
-    {
-      question: "Welche Behandlungen werden angeboten?",
-      answer:
-        offers.length > 0
-          ? `Laut Website werden unter anderem ${offers.join(", ")} angeboten.`
-          : "Die Website nennt verschiedene naturheilkundliche Behandlungsangebote.",
-    },
-    {
-      question: "Wo befindet sich die Praxis?",
-      answer: context.address
-        ? `Die Praxis liegt in ${context.address.locality}${context.address.postalCode ? ` (${context.address.postalCode})` : ""}, ${context.address.street}.`
-        : "Die Praxis befindet sich in Berlin.",
-    },
-  ];
-  if (context.bookingUrl) {
-    faq.push({
-      question: "Wie kann ich einen Termin vereinbaren?",
-      answer: "Termine können über die auf der Website verlinkte Kontakt- oder Buchungsseite angefragt werden.",
-    });
-  }
-  return faq;
+function topicsForEntry(entry, markdown) {
+  return extractFaqTopics({
+    markdown: markdown ?? "",
+    description: entry.description,
+    offers: entry.offers,
+  });
+}
+
+function finalizeFaq(items, topics = []) {
+  const allowed = topics.map((topic) => topic.topic);
+  return keepTopicFaqs(dropNapFaqItems(sanitizeFaqItems(items)), allowed);
 }
 
 async function generateDescription(context, promptTemplate) {
@@ -146,15 +184,17 @@ async function generateDescription(context, promptTemplate) {
   })).trim();
 }
 
-async function generateFaq(context, promptTemplate) {
-  if (useFixture) return fixtureFaq(context);
+async function generateFaq(topics, promptTemplate, name) {
+  if (!topics.length) return [];
+  if (useFixture) return buildFixtureFaq(topics);
 
   const prompt = renderTemplate(promptTemplate, {
-    contextJson: JSON.stringify(context, null, 2),
+    name,
+    topicsJson: JSON.stringify(topics, null, 2),
   });
 
   const raw = await chatCompletion({
-    system: "Du erstellst FAQ-Inhalte für ein Heilpraktiker-Verzeichnis.",
+    system: "Du erstellst FAQ-Inhalte für ein Heilpraktiker-Verzeichnis. Nur Fakten aus den Belegen.",
     user: prompt,
     json: true,
   });
@@ -165,7 +205,21 @@ async function generateFaq(context, promptTemplate) {
     throw new Error("FAQ response is not an array");
   }
 
-  return items.map((item) => faqItemSchema.parse(item));
+  return items
+    .filter((item) => item?.question?.trim() && item?.answer?.trim())
+    .map((item) =>
+      faqItemSchema.parse({
+        question: String(item.question).trim(),
+        answer: String(item.answer).trim(),
+      }),
+    );
+}
+
+function writeStaging(entry, extras, meta) {
+  const enriched = { ...entry, ...extras };
+  entrySchema.parse(enriched);
+  writeFileSync(join(STAGING_DIR, `${entry.slug}.json`), JSON.stringify(enriched, null, 2) + "\n");
+  writeFileSync(join(STAGING_DIR, `${entry.slug}.meta.json`), JSON.stringify(meta, null, 2) + "\n");
 }
 
 const descriptionPrompt = loadPrompt("description");
@@ -173,23 +227,26 @@ const faqPrompt = loadPrompt("faq");
 const descriptionPromptHash = hashFile(join(ROOT, "config/prompts/description.md"));
 const faqPromptHash = hashFile(join(ROOT, "config/prompts/faq.md"));
 
-const candidates = listCandidates();
+const candidates = faqOnly ? listFaqOnlyCandidates() : listDescriptionCandidates();
 console.log(
   `Enrichment candidates: ${candidates.length}` +
+    (faqOnly ? " (faq-only)" : "") +
     (useFixture ? " (fixture mode)" : "") +
     (dryRun ? " (dry-run)" : ""),
 );
 
 if (dryRun) {
   for (const job of candidates.slice(0, 20)) {
-    console.log(`  ${job.slug}`);
+    const topics = job.markdown ? topicsForEntry(job.entry, job.markdown) : [];
+    const mode = job.markdown ? (topics.length ? topics.map((t) => t.topic).join(",") : "empty") : "nap-strip";
+    console.log(`  ${job.slug}  ${mode}`);
   }
   if (candidates.length > 20) console.log(`  ... and ${candidates.length - 20} more`);
   process.exit(0);
 }
 
 if (!args.includes("--yes") && !useFixture) {
-  console.error("Usage: data:generate:enrichment -- --yes [--limit N] [--slug <slug>] [--fixture] [--dry-run]");
+  console.error("Usage: data:generate:enrichment -- --yes [--faq-only] [--limit N] [--slug <slug>] [--fixture] [--dry-run]");
   process.exit(1);
 }
 
@@ -202,41 +259,78 @@ for (let i = 0; i < candidates.length; i += 1) {
   const n = i + 1;
 
   try {
-    const context = buildGroundingContext(job.entry, {
-      markdown: job.markdown,
-      extracted: job.extracted,
-      manifest: job.manifest,
-    });
+    if (faqOnly) {
+      const topics = job.markdown ? topicsForEntry(job.entry, job.markdown) : [];
+      let faq;
+      let faqMode;
 
-    const description = sanitizeDirectoryText(
-      await generateDescription(context, descriptionPrompt),
-    );
-    if (!description) {
-      throw new Error("description empty after sanitizing website pointers");
-    }
-    const descriptionGrounding = checkGrounding(description, context);
-    if (!descriptionGrounding.passed) {
-      throw new Error(`description grounding failed: ${descriptionGrounding.violations.join("; ")}`);
-    }
+      if (!job.markdown) {
+        faq = dropNapFaqItems(sanitizeFaqItems(job.entry.faq ?? []));
+        faqMode = "nap-strip";
+      } else if (!topics.length) {
+        faq = [];
+        faqMode = "topics-empty";
+      } else {
+        faq = finalizeFaq(await generateFaq(topics, faqPrompt, job.entry.name), topics);
+        const faqText = faq.map((item) => `${item.question} ${item.answer}`).join("\n");
+        const faqGrounding = checkGrounding(faqText, { topics, offers: job.entry.offers ?? [] });
+        if (!faqGrounding.passed) {
+          throw new Error(`faq grounding failed: ${faqGrounding.violations.join("; ")}`);
+        }
+        faqMode = useFixture ? "fixture" : "openai";
+      }
 
-    const faq = sanitizeFaqItems(await generateFaq(context, faqPrompt));
-    const faqText = faq.map((item) => `${item.question} ${item.answer}`).join("\n");
-    const faqGrounding = checkGrounding(faqText, context);
-    if (!faqGrounding.passed) {
-      throw new Error(`faq grounding failed: ${faqGrounding.violations.join("; ")}`);
-    }
+      writeStaging(
+        job.entry,
+        { faq },
+        {
+          slug: job.slug,
+          generatedAt: new Date().toISOString(),
+          faqPromptHash,
+          mode: faqMode,
+          topics: topics.map((topic) => topic.topic),
+          websiteUrl: job.manifest?.url ?? job.entry.website,
+        },
+      );
 
-    const enriched = {
-      ...job.entry,
-      description,
-      faq,
-    };
+      ok += 1;
+      summary.push({ slug: job.slug, status: "ok", faq: faq.length, faqMode, topics: topics.map((t) => t.topic) });
+      console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${faqMode}, ${faq.length} faq)`);
+      if (faqMode === "openai" && i < candidates.length - 1) {
+        await sleep(DELAY_MS);
+      }
+      continue;
+    } else {
+      const context = buildGroundingContext(job.entry, {
+        markdown: job.markdown,
+        extracted: job.extracted,
+        manifest: job.manifest,
+      });
 
-    entrySchema.parse(enriched);
-    writeFileSync(join(STAGING_DIR, `${job.slug}.json`), JSON.stringify(enriched, null, 2) + "\n");
-    writeFileSync(
-      join(STAGING_DIR, `${job.slug}.meta.json`),
-      JSON.stringify(
+      const description = sanitizeDirectoryText(
+        await generateDescription(context, descriptionPrompt),
+      );
+      if (!description) {
+        throw new Error("description empty after sanitizing website pointers");
+      }
+      const descriptionGrounding = checkGrounding(description, context);
+      if (!descriptionGrounding.passed) {
+        throw new Error(`description grounding failed: ${descriptionGrounding.violations.join("; ")}`);
+      }
+
+      const topics = topicsForEntry(job.entry, job.markdown);
+      const faq = finalizeFaq(await generateFaq(topics, faqPrompt, job.entry.name), topics);
+      if (faq.length) {
+        const faqText = faq.map((item) => `${item.question} ${item.answer}`).join("\n");
+        const faqGrounding = checkGrounding(faqText, { topics, offers: job.entry.offers ?? [] });
+        if (!faqGrounding.passed) {
+          throw new Error(`faq grounding failed: ${faqGrounding.violations.join("; ")}`);
+        }
+      }
+
+      writeStaging(
+        job.entry,
+        { description, faq },
         {
           slug: job.slug,
           generatedAt: new Date().toISOString(),
@@ -245,14 +339,12 @@ for (let i = 0; i < candidates.length; i += 1) {
           mode: useFixture ? "fixture" : "openai",
           websiteUrl: context.websiteUrl,
         },
-        null,
-        2,
-      ) + "\n",
-    );
+      );
 
-    ok += 1;
-    summary.push({ slug: job.slug, status: "ok", faq: faq.length, descriptionLength: description.length });
-    console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${description.length} chars, ${faq.length} faq)`);
+      ok += 1;
+      summary.push({ slug: job.slug, status: "ok", faq: faq.length, descriptionLength: description.length });
+      console.log(`[${n}/${candidates.length}] ok  ${job.slug} (${description.length} chars, ${faq.length} faq)`);
+    }
   } catch (err) {
     fail += 1;
     console.error(`[${n}/${candidates.length}] FAIL ${job.slug}: ${err.message ?? err}`);
@@ -272,6 +364,7 @@ writeFileSync(
       generatedAt: new Date().toISOString(),
       ok,
       fail,
+      faqOnly,
       mode: useFixture ? "fixture" : "openai",
       summary,
     },

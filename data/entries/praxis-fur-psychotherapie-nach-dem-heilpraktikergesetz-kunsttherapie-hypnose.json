@@ -182,24 +182,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet die Praxis für Psychotherapie nach dem Heilpraktikergesetz an?",
-      "answer": "Die Praxis bietet verschiedene Therapieangebote an, darunter Kunsttherapie, Hypnosetherapie, Ego-State-Therapie, EMDR, Brainspotting und therapeutisches Arbeiten mit Verhaltenstherapie-Strukturen."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Es gibt eine telefonische Beratung von 15 Minuten, die kostenfrei ist. Ein Kennenlerngespräch online dauert ebenfalls 15 Minuten und ist kostenfrei. Das Erstgespräch dauert 60 Minuten und kostet 85,00 €."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Therapiestunde?",
-      "answer": "Die Kosten für eine Therapiestunde von 60 Minuten betragen 117,00 €."
+      "question": "Wie lange dauert eine Therapiestunde?",
+      "answer": "Eine Therapiestunde dauert 60 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie das Kontaktformular auf dieser Seite ausfüllen."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat von Montag bis Freitag von 10:00 bis 16:30 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in Berlin, Minzeweg 50, 12357 Berlin."
+      "question": "Werden die Kosten von Krankenkassen übernommen?",
+      "answer": "Die Kosten der Praxisleistung werden in der Regel von den Krankenkassen oder Beihilfestellen nicht ersetzt, da es sich um eine Heilbehandlung nach § 1 des Heilpraktiker Gesetzes handelt."
     }
   ]
 }

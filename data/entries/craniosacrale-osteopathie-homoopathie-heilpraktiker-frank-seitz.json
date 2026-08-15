@@ -3,7 +3,7 @@
   "slug": "craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz",
   "name": "Craniosacrale Osteopathie & Homöopathie | Heilpraktiker Frank Seitz",
   "description": "Die Praxis \"Craniosacrale Osteopathie & Homöopathie\" von Heilpraktiker Frank Seitz befindet sich in Berlin-Kreuzberg, nahe dem Park Hasenheide. Seit 2007 bietet Herr Seitz ganzheitliche Behandlungen in den Bereichen Osteopathie, Craniosacrale Therapie, Homöopathie und Phytotherapie an. Ziel seiner Arbeit ist es, die Selbstheilungskräfte der Patienten zu aktivieren und sie auf dem Weg zu körperlicher und seelischer Gesundheit zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hasenheide 92",
     "locality": "Berlin",
@@ -73,26 +74,5 @@
     "/images/entries/craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz/0.webp",
     "/images/entries/craniosacrale-osteopathie-homoopathie-heilpraktiker-frank-seitz/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Frank Seitz in seiner Praxis an?",
-      "answer": "Frank Seitz bietet Craniosacrale Osteopathie, Homöopathie, Phytotherapie sowie psychotherapeutische Interventionen wie Gestalttherapie, Focussing, Hypnose und Psychosynthese an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Frank Seitz?",
-      "answer": "Die Praxis befindet sich in der Hasenheide 92, 10967 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin direkt über die Online-Terminvergabe auf der Website buchen oder telefonisch unter 03063226812 einen Termin vereinbaren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag 10:00 - 18:30, Dienstag 09:00 - 19:30, Mittwoch 08:00 - 18:30, Donnerstag 09:00 - 18:30, Freitag 09:00 - 15:30 und Samstag 10:00 - 14:30."
-    },
-    {
-      "question": "Für welche Beschwerden kann ich die Praxis aufsuchen?",
-      "answer": "Die Praxis unterstützt Menschen mit Schmerzen, stressbedingten Beschwerden und chronischen Erkrankungen, einschließlich Rücken- und Nackenschmerzen, Bandscheibenproblemen, Kieferbeschwerden, Tinnitus, Kopfschmerzen, Migräne, Schwindel, Schlafstörungen und Stress."
-    }
-  ]
+  "faq": []
 }

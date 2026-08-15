@@ -3,7 +3,7 @@
   "slug": "praxis-fur-ganzheitliche-medizin-colette-monch-urna",
   "name": "Praxis für Ganzheitliche Medizin Colette Mönch-Urna",
   "description": "Die Praxis für Ganzheitliche Medizin Colette Mönch-Urna in Berlin Charlottenburg bietet eine umfassende Betrachtung des Patienten, bei der nicht nur die Symptome, sondern auch die individuelle Lebensweise, das persönliche Befinden und zwischenmenschliche Beziehungen in den Fokus rücken. Durch ausführliche Anamnese und Diagnostik wird gezielt nach den Ursachen von Erkrankungen gesucht, um eine ganzheitliche Behandlung zu ermöglichen. Die Praxis legt Wert auf Prävention, gesunden Lebensstil sowie die Verbindung von Körper, Geist und Seele.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Grolmanstraße 36",
     "locality": "Berlin",
@@ -55,24 +56,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Ganzheitliche Medizin Colette Mönch-Urna?",
-      "answer": "Die Praxis befindet sich in der Grolmanstraße 36, 10623 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag geöffnet, jeweils von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03081702831 erreichen oder die Website unter https://www.naturheilpraxis-colettemoench.de/ besuchen."
-    },
-    {
-      "question": "Was bietet die Praxis an?",
-      "answer": "Die Praxis bietet ganzheitliche Medizin, gesunden Lebensstil, Prävention, Epigenetik und Longevity an."
-    },
-    {
-      "question": "Wie wird in der Praxis mit Patienten umgegangen?",
-      "answer": "In der Praxis wird der Patient als Ganzes betrachtet, wobei individuelle Lebensweise, persönliches Befinden und zwischenmenschliche Beziehungen in die Behandlung einfließen."
+      "question": "Was passiert beim Ersttermin in der Praxis für Ganzheitliche Medizin?",
+      "answer": "Bei einem Ersttermin wird eine ausführliche Anamnese und Diagnostik durchgeführt. Dabei werden der Körper, Geist und Seele sowie zwischenmenschliche Beziehungen betrachtet, um die Ursachen einer Erkrankung zu finden."
     }
   ]
 }

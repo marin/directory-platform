@@ -3,7 +3,7 @@
   "slug": "heilpraxis-weissensee-heilpraktikerin-regine-eichhorn",
   "name": "Heilpraxis Weissensee - Heilpraktikerin Regine Eichhorn",
   "description": "Die Heilpraxis Weissensee wird von der Heilpraktikerin Regine Eichhorn geleitet und befindet sich in der Streustraße 121 in Berlin. In der Praxis werden verschiedene naturheilkundliche Behandlungen angeboten, die auf die individuellen Bedürfnisse der Patienten abgestimmt sind. Ziel ist es, die Gesundheit und das Wohlbefinden der Klienten durch alternative Heilmethoden zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Streustraße 121",
     "locality": "Berlin",
@@ -55,22 +56,5 @@
     "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/3.webp",
     "/images/entries/heilpraxis-weissensee-heilpraktikerin-regine-eichhorn/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis Weissensee?",
-      "answer": "Die Heilpraxis Weissensee befindet sich in der Streustraße 121, 13086 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich die Heilpraktikerin Regine Eichhorn kontaktieren?",
-      "answer": "Sie können die Heilpraktikerin Regine Eichhorn telefonisch unter 03092402157 kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis Weissensee an?",
-      "answer": "Die Heilpraxis Weissensee bietet eine Vielzahl von Dienstleistungen im Bereich Naturheilkunde an."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Heilpraxis Weissensee?",
-      "answer": "Die Öffnungszeiten der Heilpraxis Weissensee sind im Kontext nicht angegeben."
-    }
-  ]
+  "faq": []
 }

@@ -85,22 +85,5 @@
   "images": [
     "/images/entries/bisping-jutta-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Jutta Bisping an?",
-      "answer": "Jutta Bisping bietet verschiedene Therapien an, darunter Homöopathie, Hypnotherapie und CranioSacrale Therapie."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Jutta Bisping?",
-      "answer": "Die Praxis von Jutta Bisping befindet sich in der Niebuhrstraße 66, 10629 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie kann ich Jutta Bisping kontaktieren?",
-      "answer": "Sie können Jutta Bisping telefonisch unter 03085726534 oder per E-Mail an info@jutta-bisping.de kontaktieren."
-    },
-    {
-      "question": "Welche Beschwerden werden in der Praxis behandelt?",
-      "answer": "In der Praxis werden unter anderem akute und chronische Kopf- und Rückenschmerzen, Wirbelsäulenprobleme, Tinnitus, Schwindel, Schlafstörungen sowie Erschöpfungszustände und Stress behandelt."
-    }
-  ]
+  "faq": []
 }

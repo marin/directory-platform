@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-anne-feuker-heilpraktikerin-homoopathin",
   "name": "NATURHEILPRAXIS ANNE FEUKER, Heilpraktikerin, Homöopathin",
   "description": "Die Naturheilpraxis Anne Feuker in Berlin bietet eine ganzheitliche Behandlung durch Homöopathie und vedische Astrologie an. Die Praxis legt Wert auf die individuelle Betreuung von Patienten und betrachtet sowohl körperliche als auch seelische Aspekte der Gesundheit. Neben klassischen homöopathischen Behandlungen werden auch verschiedene Veranstaltungen und Workshops angeboten, die zur persönlichen Entwicklung und Selbsterkenntnis beitragen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hasenheide 93",
     "locality": "Berlin",
@@ -91,24 +92,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Anne Feuker an?",
-      "answer": "Die Naturheilpraxis Anne Feuker bietet unter anderem Homöopathie, vedische Astrologie, Beratungen, offene Singkreise sowie Veranstaltungen an."
+      "question": "Wie hoch sind die Kosten für den Ersttermin?",
+      "answer": "Mein Honorar richtet sich nach Zeitaufwand: 95 € je 60 Minuten (inkl. Erstanamnese/Fallaufnahme und Repertorisation)."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Anne Feuker sind von Montag bis Freitag, jeweils von 08:00 bis 19:00 Uhr."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Sitzungen dauern 60 Minuten."
     },
     {
-      "question": "Wo befindet sich die Naturheilpraxis Anne Feuker?",
-      "answer": "Die Naturheilpraxis Anne Feuker befindet sich in der Hasenheide 93, 10967 Berlin, im Stadtteil Kreuzberg/Neukölln."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Webseite der Praxis buchen: Termin buchen."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Behandlung?",
-      "answer": "Das Honorar der Naturheilpraxis Anne Feuker richtet sich nach dem Zeitaufwand und beträgt 95 € je 60 Minuten, inklusive Erstanamnese und Repertorisation."
+      "question": "Erstatten die Krankenkassen die Kosten für die Behandlung?",
+      "answer": "Private Krankenversicherungen und Beihilfe erstatten Heilpraktikerleistungen je nach Tarif ganz oder teilweise. Für gesetzlich Versicherte gibt es private Zusatzversicherungen, die Heilpraktikerleistungen häufig zu 80–100 % übernehmen."
     }
   ]
 }

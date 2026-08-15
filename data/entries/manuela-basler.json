@@ -3,7 +3,7 @@
   "slug": "manuela-basler",
   "name": "Manuela Bäsler",
   "description": "Die Naturheilpraxis von Manuela Bäsler in Berlin bietet ganzheitliche Behandlungsansätze, die sowohl naturheilkundliche als auch schulmedizinische Methoden berücksichtigen. Im Mittelpunkt der Therapie steht der Mensch als individuelle Persönlichkeit mit seinen spezifischen gesundheitlichen Bedürfnissen. Mit umfangreichen Kenntnissen und Erfahrungen unterstützt die Heilpraktikerin ihre Patienten auf dem Weg zu Gesundheit und Wohlbefinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ortolfstraße 183",
     "locality": "Berlin",
@@ -37,26 +38,5 @@
     "/images/entries/manuela-basler/3.webp",
     "/images/entries/manuela-basler/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Manuela Bäsler?",
-      "answer": "Die Praxis von Manuela Bäsler befindet sich in der Ortolfstraße 183, 12524 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Manuela Bäsler buchen?",
-      "answer": "Sie können einen Termin bei Manuela Bäsler über die Buchungsseite auf ihrer Website buchen: https://naturheilpraxis-baesler.de/kontakt.htm."
-    },
-    {
-      "question": "Welche Therapiemöglichkeiten bietet Manuela Bäsler an?",
-      "answer": "Manuela Bäsler bietet eine Vielzahl von Therapiemöglichkeiten an, die auf ganzheitliche Gesundheit und die individuellen Bedürfnisse ihrer Patienten ausgerichtet sind."
-    },
-    {
-      "question": "Wie kann ich Manuela Bäsler telefonisch erreichen?",
-      "answer": "Sie können Manuela Bäsler unter der Telefonnummer 03067826871 erreichen."
-    },
-    {
-      "question": "Gibt es Öffnungszeiten für die Praxis von Manuela Bäsler?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

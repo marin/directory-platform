@@ -3,7 +3,7 @@
   "slug": "katrin-klauke",
   "name": "Katrin Klauke",
   "description": "Katrin Klauke ist Heilpraktikerin mit einer Naturheilpraxis in Berlin-Friedrichshagen. Sie bietet ein breites Spektrum an naturheilkundlichen Behandlungen und Therapien an, darunter Einzeltherapien, Gruppenkurse sowie spezielle Anwendungen wie Ohrakupunktur und Bachblütenberatung. Die Praxis befindet sich in der Bölschestraße 80 und ist auf individuelle Gesundheitsbedürfnisse ausgerichtet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bölschestraße 80",
     "locality": "Berlin",
@@ -83,24 +84,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Katrin Klauke?",
-      "answer": "Die Praxis von Katrin Klauke befindet sich in der Bölschestraße 80, 12587 Berlin - Friedrichshagen (Köpenick)."
+      "question": "Was kostet der erste Termin bei Katrin Klauke?",
+      "answer": "Der erste Termin mit Anamnese und körperlicher Untersuchung kostet 40 Euro."
     },
     {
-      "question": "Wie kann ich einen Termin bei Katrin Klauke buchen?",
-      "answer": "Sie können einen Termin bei Katrin Klauke buchen, indem Sie die Website besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 030 92251978."
+      "question": "Gilt die Preisliste auch für Selbstzahler?",
+      "answer": "Alle unten aufgeführten Kosten beziehen sich auf Selbstzahler bzw. gesetzlich Krankenversicherte, ohne Zusatzversicherung für Heilpraktikerleistungen."
     },
     {
-      "question": "Welche Behandlungsmethoden bietet Katrin Klauke an?",
-      "answer": "Katrin Klauke bietet verschiedene Behandlungsmethoden an, darunter Einzeltherapien, Gruppenkurse, Bachblütenberatung, Dorn-Breuss-Behandlungen und Ohrakupunktur."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Erstberatung bei Katrin Klauke?",
-      "answer": "Die Kosten für einen ersten Termin mit Anamnese und körperlicher Untersuchung betragen 40 € und dauern 60 Minuten."
-    },
-    {
-      "question": "Gibt es spezielle Kurse, die Katrin Klauke anbietet?",
-      "answer": "Ja, Katrin Klauke bietet Gruppenkurse in Berlin Friedrichshagen und Karlshorst an, die jeweils 10 Termine à 1,5 Stunden umfassen."
+      "question": "Was kostet die Einzeltherapie für Kinder?",
+      "answer": "Die Einzeltherapie für Kinder kostet 20 Euro."
     }
   ]
 }

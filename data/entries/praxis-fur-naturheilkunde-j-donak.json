@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-j-donak",
   "name": "Praxis für Naturheilkunde J. Donak",
   "description": "Die Praxis für Naturheilkunde J. Donak befindet sich in der Hilbertstraße 9 in Berlin und bietet individuelle therapeutische Lösungen zur Förderung der Gesundheit an. Der Heilpraktiker Jörg Donak verfolgt einen ganzheitlichen Ansatz, der sowohl körperliche als auch psychische Aspekte berücksichtigt. Zu den Schwerpunkten der Praxis zählen Regenerationsmedizin, die Behandlung chronischer Erkrankungen sowie Psychosomatik und Psychotherapie. Patienten können sich auf eine seriöse und vertrauensvolle Atmosphäre freuen, in der auch Haus- und Klinikbesuche angeboten werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hilbertstraße 9",
     "locality": "Berlin",
@@ -124,24 +125,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde J. Donak?",
-      "answer": "Die Praxis befindet sich in der Hilbertstraße 9, 12307 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 - 992 56 810 oder 0177 - 31 31 117 vereinbaren."
-    },
-    {
-      "question": "Welche Sprechzeiten hat die Praxis?",
-      "answer": "Die Sprechzeiten sind Montag, Dienstag und Donnerstag von 09:00 bis 12:00 Uhr und 15:00 bis 18:00 Uhr, Mittwoch und Freitag von 09:00 bis 12:00 Uhr sowie Samstag von 09:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Bietet die Praxis auch Hausbesuche an?",
-      "answer": "Ja, die Praxis bietet auch Haus- und Klinikbesuche an."
-    },
-    {
-      "question": "Gibt es eine kostenfreie Erstberatung?",
-      "answer": "Ja, die Praxis bietet ein kostenfreies und unverbindliches Informationsgespräch an."
+      "question": "Was kann ich beim Ersttermin in der Praxis für Naturheilkunde J. Donak erwarten?",
+      "answer": "Sie können erwarten, dass sich der Heilpraktiker Zeit für Sie nimmt und Ihnen zuhört. Es wird eine umfassende Anamnese durchgeführt, um das Krankheitsbild bis zu dessen Entstehung zu verstehen. Ihr Leiden und Ihre Krankheit werden betrachtet, nicht nur die Symptome."
     }
   ]
 }

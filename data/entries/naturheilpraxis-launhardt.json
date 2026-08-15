@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-launhardt",
   "name": "Naturheilpraxis Launhardt",
   "description": "Die Naturheilpraxis Launhardt in Berlin-Charlottenburg bietet ganzheitliche Therapien, die sich auf die Verbesserung der Selbstheilungskräfte und die Stärkung der Gesundheit konzentrieren. Seit 1996 widmet sich der Heilpraktiker der Naturheilkunde und legt besonderen Wert auf die Ermittlung der tieferen Ursachen von Beschwerden. Interessierte finden auf der Website umfassende Informationen zu verschiedenen Therapieverfahren sowie die Möglichkeit, Termine für Behandlungen oder Beratungen zu vereinbaren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Darmstädter Str. 8",
     "locality": "Berlin",
@@ -47,26 +48,5 @@
   "images": [
     "/images/entries/naturheilpraxis-launhardt/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Launhardt?",
-      "answer": "Die Naturheilpraxis Launhardt befindet sich in der Darmstädter Str. 8, 10707 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Launhardt vereinbaren?",
-      "answer": "Sie können einen Termin für eine Behandlung oder Beratung in der Naturheilpraxis Launhardt über die Kontaktseite auf der Website vereinbaren: https://www.naturheilpraxis-launhardt.de/kontakt/."
-    },
-    {
-      "question": "Welche Kontaktmöglichkeiten gibt es für die Naturheilpraxis Launhardt?",
-      "answer": "Sie können die Naturheilpraxis Launhardt telefonisch unter +49 30 889 247 83 oder per E-Mail an praxis@naturheilpraxis-launhardt.de erreichen."
-    },
-    {
-      "question": "Welche Therapieverfahren werden in der Naturheilpraxis Launhardt angeboten?",
-      "answer": "In der Naturheilpraxis Launhardt werden verschiedene naturheilkundliche Therapieverfahren angeboten."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Launhardt geöffnet?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Launhardt sind im Kontext nicht angegeben. Bitte kontaktieren Sie die Praxis direkt für Informationen zu den Öffnungszeiten."
-    }
-  ]
+  "faq": []
 }

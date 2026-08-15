@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-fur-physiotherapie-erik-oswald",
   "name": "Heilpraktiker für Physiotherapie, Erik Oswald",
   "description": "Erik Oswald ist Heilpraktiker für Physiotherapie in Berlin-Friedrichshain und bietet individuelle, auf die Bedürfnisse seiner Patienten abgestimmte Behandlungen an. Mit über 20 Jahren Erfahrung spezialisiert er sich auf komplexe Fälle und entwickelt ganzheitliche Therapiepläne. Zu seinen Qualifikationen gehören unter anderem Manualtherapie, Neurotherapie und Rückenschulunterricht.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bölschestraße 44",
     "locality": "Berlin",
@@ -69,24 +70,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Erik Oswald als Heilpraktiker für Physiotherapie an?",
-      "answer": "Erik Oswald bietet eine individuelle Behandlung, die Anamnese, aktive und passive Behandlung sowie einen Trainingsplan zur Eigenübung umfasst."
+      "question": "Wie gestaltet sich der Ersttermin bei Erik Oswald?",
+      "answer": "Der Ersttermin besteht in 3 Teilen: Anamnese, Behandlung (aktiv/passiv) und Überprüfung der Behandlungsthese."
     },
     {
-      "question": "Wie kann ich einen Termin bei Erik Oswald buchen?",
-      "answer": "Sie können einen Termin über die Website Doctolib buchen oder direkt per E-Mail an pt-oswald@gmx.de."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Behandlungseinheit dauert 55 Minuten."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis von Erik Oswald?",
-      "answer": "Die Praxis ist montags und donnerstags von 08:00 bis 21:00 Uhr sowie freitags von 16:00 bis 21:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Erik Oswald?",
-      "answer": "Die Praxis befindet sich in der Bölschestraße 44, 12587 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Werden die Behandlungen von gesetzlichen Krankenkassen übernommen?",
-      "answer": "Eine Abrechnung über die gesetzliche Krankenkasse ist leider nicht möglich. Privatpatienten können die Kosten über ein gültiges Rezept abrechnen."
+      "question": "Wie erfolgt die Kostenabrechnung für Selbstzahler?",
+      "answer": "Selbstzahler zahlen für einen Erstbefund und eine Behandlung 100 Euro."
     }
   ]
 }

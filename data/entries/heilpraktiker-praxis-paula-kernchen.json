@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-praxis-paula-kernchen",
   "name": "Heilpraktiker Praxis - Paula Kernchen",
   "description": "Die Heilpraktiker Praxis von Paula Kernchen befindet sich in der Busonistraße 47 in Berlin-Pankow. Sie bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen, darunter manuelle Therapie, klassische Massagen und weitere physiotherapeutische Leistungen. Die Praxis legt Wert auf individuelle Betreuung und sucht derzeit nach Unterstützung für ihr Team.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Busonistraße 47",
     "locality": "Berlin",
@@ -54,26 +55,5 @@
     "/images/entries/heilpraktiker-praxis-paula-kernchen/3.webp",
     "/images/entries/heilpraktiker-praxis-paula-kernchen/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Heilpraktiker Praxis Paula Kernchen an?",
-      "answer": "Die Heilpraktiker Praxis Paula Kernchen bietet ein breites physiotherapeutisches Behandlungsspektrum an, darunter klassische Massage, Krankengymnastik, manuelle Therapie, manuelle Lymphdrainage, Osteopathie, Elektrotherapie, Ultraschalltherapie, Wärmetherapie, Schröpfen, Fußreflexzonenmassage, Taping, Schlingentischtherapie, HIVAMAT und das ORTHO-konzept©."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Für Terminanfragen senden Sie bitte eine SMS oder kontaktieren Sie die Praxis per WhatsApp auf dem Praxishandy. So erhalten wir Ihre Anfrage auch, wenn wir mal nicht erreichbar sind."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraktiker Praxis Paula Kernchen?",
-      "answer": "Die Praxis befindet sich in der Busonistraße 47, 13125 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0175 1537035 oder per E-Mail an info@physio-in-karow.de kontaktieren."
-    },
-    {
-      "question": "Suchen Sie Unterstützung in Ihrer Praxis?",
-      "answer": "Ja, die Heilpraktiker Praxis Paula Kernchen sucht eine freundliche und ausgeglichene Verstärkung für ihr Team."
-    }
-  ]
+  "faq": []
 }

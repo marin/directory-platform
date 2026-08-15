@@ -3,7 +3,7 @@
   "slug": "m-a-martin-van-de-loo-heilpraktiker-fur-psychotherapie",
   "name": "M.A. Martin van de Loo, Heilpraktiker für Psychotherapie",
   "description": "M.A. Martin van de Loo ist Heilpraktiker für Psychotherapie mit einer Praxis in der Solmsstraße 30 in Berlin, Kreuzberg. Er bietet queere, körperorientierte Traumatherapie an und ist spezialisiert auf Methoden wie Somatic Experiencing, NARM sowie Hypnose und Ego-State Therapy. Sein therapeutisches Angebot richtet sich insbesondere an Menschen mit Schock- und Entwicklungstraumata und zielt darauf ab, die emotionale Stabilität und Selbstregulation des autonomen Nervensystems zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Solmsstraße 30",
     "locality": "Berlin",
@@ -111,24 +112,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Martin van de Loo?",
-      "answer": "Die Praxis befindet sich in der Solmsstraße 30 im Bergmannkiez in Berlin Kreuzberg."
+      "question": "Bietest Du ein kostenloses Erstgespräch an?",
+      "answer": "Ich biete statt eines kostenlosen Erstgespräches an, die erste Stunde kostenfrei etwas zu verlängern, um offene Fragen zu klären und eine Anamnese zu machen."
     },
     {
-      "question": "Welche Therapiemethoden bietet Martin van de Loo an?",
-      "answer": "Martin van de Loo bietet unter anderem Somatic Experiencing Therapie, Behandlung von Schock- und Entwicklungstraumata sowie Methoden wie Ego State und Hypnose an."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Du kannst einen Termin über die Webseite von Martin van de Loo buchen. Der Link dazu ist: https://www.martinvandeloo.de/termine-und-kontakt/."
-    },
-    {
-      "question": "An welchen Tagen hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat am Freitag von 08:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Welche Zielgruppe spricht Martin van de Loo an?",
-      "answer": "Martin van de Loo bietet queere Traumatherapie und Coaching an und richtet sich somit insbesondere an die LGBTIQ+ Community."
+      "question": "Wird die Therapie von der gesetzlichen Krankenkasse übernommen?",
+      "answer": "Mein Angebot richtet sich an volljährige Selbstzahler\\*innen. Ggf. kannst Du die Rechnung auf eigenes Risiko bei Deiner privaten Kranken(zusatz)versicherung oder bei anderen Stellen einreichen."
     }
   ]
 }

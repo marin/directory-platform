@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-andrea-ballschuh",
   "name": "Naturheilpraxis Andrea Ballschuh",
   "description": "Die Naturheilpraxis Andrea Ballschuh in Berlin Köpenick bietet eine ganzheitliche Behandlung, die uralte Heilmethoden mit modernen Therapieformen kombiniert. Ziel ist es, eine gesunde Lebensführung in der heutigen Zeit zu fördern. Die Praxis legt Wert auf einfühlsame und respektvolle Begleitung auf dem Weg zu einer natürlichen und selbstbestimmten Lebensweise.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Freiheit 12 a/b",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03065488925",
   "website": "http://naturheilpraxis-ballschuh.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrapaGm5IqEcR1RFsb_7_NCs",
+  "googleMapsRating": 4.8,
+  "googleMapsRatingsCount": 5,
   "openingHours": [],
   "offers": [
     {
@@ -32,25 +36,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Andrea Ballschuh?",
-      "answer": "Die Naturheilpraxis Andrea Ballschuh befindet sich in der Freiheit 12 a/b, 12555 Berlin, im Stadtteil Köpenick."
-    },
-    {
-      "question": "Welche Therapieformen bietet die Naturheilpraxis an?",
-      "answer": "Die Naturheilpraxis vereint uralte Heilmethoden und moderne Therapieformen, um eine gesunde Lebensführung in der heutigen Zeit zu unterstützen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Andrea Ballschuh kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Andrea Ballschuh telefonisch unter 03065488925 erreichen."
-    },
-    {
-      "question": "Was ist das Ziel der Naturheilpraxis Andrea Ballschuh?",
-      "answer": "Das Ziel der Naturheilpraxis ist es, die Patienten einfühlsam und respektvoll auf ihrem Weg zu einer natürlichen und selbstbestimmten Lebensweise zu unterstützen."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJrapaGm5IqEcR1RFsb_7_NCs",
-  "googleMapsRating": 4.8,
-  "googleMapsRatingsCount": 5
+  "faq": []
 }

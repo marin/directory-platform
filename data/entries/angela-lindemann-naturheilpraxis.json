@@ -3,7 +3,7 @@
   "slug": "angela-lindemann-naturheilpraxis",
   "name": "Angela Lindemann Naturheilpraxis",
   "description": "Die Angela Lindemann Naturheilpraxis befindet sich in Berlin-Lichtenrade und bietet eine ganzheitliche Herangehensweise an die Gesundheit. Ziel der Heilpraktik ist es, Körper, Geist und Seele in Einklang zu bringen, um mehr Vitalität und Ausgeglichenheit zu erreichen. Die Praxis legt Wert auf das Zusammenspiel dieser drei Elemente und unterstützt ihre Patienten auf dem Weg zu einem gesunden und wohlfühlenden Leben.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Franziusweg 127",
     "locality": "Berlin",
@@ -31,22 +32,5 @@
     "/images/entries/angela-lindemann-naturheilpraxis/0.webp",
     "/images/entries/angela-lindemann-naturheilpraxis/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Angela Lindemann?",
-      "answer": "Die Naturheilpraxis von Angela Lindemann befindet sich in Berlin, im Franziusweg 127, 12307 Berlin."
-    },
-    {
-      "question": "Wie kann ich Angela Lindemann Naturheilpraxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis telefonisch unter 03070072238 erreichen."
-    },
-    {
-      "question": "Welche Angebote gibt es in der Naturheilpraxis von Angela Lindemann?",
-      "answer": "In der Naturheilpraxis von Angela Lindemann wird ein herzliches Willkommen angeboten, das darauf abzielt, Körper, Geist und Seele in Einklang zu bringen."
-    },
-    {
-      "question": "Welche Philosophie verfolgt die Naturheilpraxis von Angela Lindemann?",
-      "answer": "Die Naturheilpraxis verfolgt die Philosophie, das Zusammenspiel von Körper, Geist und Seele zu verbessern, um mehr Vitalität und Ausgeglichenheit zu erreichen."
-    }
-  ]
+  "faq": []
 }

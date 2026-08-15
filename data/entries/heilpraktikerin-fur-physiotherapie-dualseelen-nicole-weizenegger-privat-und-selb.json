@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-physiotherapie-dualseelen-nicole-weizenegger-privat-und-selb",
   "name": "Heilpraktikerin für Physiotherapie & Dualseelen Nicole Weizenegger - Privat- und Selbstzahlerpraxis",
   "description": "Die Heilpraktikerin für Physiotherapie und Schmerztherapie, Nicole Weizenegger, bietet in ihrer Privat- und Selbstzahlerpraxis in Berlin-Steglitz-Zehlendorf individuelle physiotherapeutische Behandlungen mit einem besonderen Fokus auf Frauen an. Ihre Schwerpunkte liegen in der Schmerztherapie, Manuellen Therapie, Akupressur und Fußreflexzonentherapie. Ziel ihrer Arbeit ist es, den Heilungsprozess der verletzten Weiblichkeit zu unterstützen und die Energien zwischen weiblicher und männlicher Energie ins Gleichgewicht zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lowise-Reuter-Ring 33",
     "locality": "Berlin",
@@ -53,24 +54,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsschwerpunkte bietet die Heilpraktikerin Nicole Weizenegger an?",
-      "answer": "Die Heilpraktikerin Nicole Weizenegger bietet Behandlungsschwerpunkte in Schmerztherapie, Manueller Therapie, Akupressur und Fußreflexzonentherapie an."
-    },
-    {
-      "question": "An wen richtet sich die Praxis von Nicole Weizenegger?",
-      "answer": "Die Praxis von Nicole Weizenegger richtet sich bewusst an Frauen und bietet einen geschützten und ruhigen Rahmen für individuelle physiotherapeutische Behandlungen."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Praxis über die Online-Terminbuchung auf der Website buchen: Terminbuchung."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 11:00 bis 18:15 Uhr, Dienstag von 11:00 bis 19:15 Uhr und Mittwoch von 12:00 bis 18:15 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Nicole Weizenegger?",
-      "answer": "Die Praxis befindet sich in Berlin, Lowise-Reuter-Ring 33, 12359 Berlin."
+      "question": "Was bedeutet Selbstzahlerpraxis?",
+      "answer": "Die Praxis von Nicole Weizenegger ist eine Privat- und Selbstzahlerpraxis."
     }
   ]
 }

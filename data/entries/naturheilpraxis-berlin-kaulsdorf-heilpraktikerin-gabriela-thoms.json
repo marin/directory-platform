@@ -126,22 +126,5 @@
     "/images/entries/naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms/0.webp",
     "/images/entries/naturheilpraxis-berlin-kaulsdorf-heilpraktikerin-gabriela-thoms/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Berlin-Kaulsdorf an?",
-      "answer": "Die Naturheilpraxis Berlin-Kaulsdorf bietet unter anderem Stressabbau, Reflexzonentherapie am Fuß, Ohrakupunktur und Homöopathie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Gabriela Thoms?",
-      "answer": "Die Praxis befindet sich in der Myslowitzer Str. 29, 12621 Berlin, im Stadtteil Kaulsdorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis telefonisch unter 0305676227 oder per E-Mail an info@gabriela-thoms.de kontaktieren."
-    },
-    {
-      "question": "Welche Beschwerden werden in der Praxis behandelt?",
-      "answer": "In der Praxis werden unter anderem Kopfschmerzen, Migräne, Nacken-, Schulter- und Rückenbeschwerden, Asthma, sowie Reizdarm und viele weitere Beschwerden behandelt."
-    }
-  ]
+  "faq": []
 }

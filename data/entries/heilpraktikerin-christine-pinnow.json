@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-christine-pinnow",
   "name": "Heilpraktikerin Christine Pinnow",
   "description": "Heilpraktikerin Christine Pinnow bietet in ihrer Praxis in Berlin-Köpenick ganzheitliche Therapieansätze, die Körper, Geist und Seele in den Mittelpunkt stellen. Mit einem fundierten Wissen aus traditioneller europäischer Medizin und modernen naturheilkundlichen Methoden begleitet sie ihre Patienten individuell auf dem Weg zu mehr Gesundheit und innerem Gleichgewicht. Durch ausführliche Anamnesegespräche und ganzheitliche Untersuchungen schafft sie eine vertrauensvolle Basis, um die Selbstheilungskräfte zu aktivieren und die Lebensqualität zu steigern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hackenbergstraße 7",
     "locality": "Berlin",
@@ -82,24 +83,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktikerin Christine Pinnow?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 15:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christine Pinnow?",
-      "answer": "Die Praxis befindet sich in der Hackenbergstraße 7, 12489 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich Christine Pinnow kontaktieren?",
-      "answer": "Sie können Christine Pinnow telefonisch unter 015678195455 oder per E-Mail an kontakt@praxispinnow.de erreichen."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Christine Pinnow an?",
-      "answer": "Christine Pinnow bietet eine ganzheitliche Therapie an, die manuelle Therapie, osteopathische Techniken, therapeutische Gespräche sowie Atemarbeit und Haltungsanpassungen umfasst."
-    },
-    {
-      "question": "Was ist das Ziel der Behandlungen bei Christine Pinnow?",
-      "answer": "Das Ziel der Behandlungen ist es, die Selbstheilungskräfte des Körpers zu aktivieren und den Patienten auf dem Weg zu mehr Stabilität, Beweglichkeit und Wohlbefinden zu begleiten."
+      "question": "Wie läuft der Ersttermin bei Heilpraktikerin Christine Pinnow ab?",
+      "answer": "Zu Beginn jeder Behandlung steht ein ausführliches Anamnesegespräch. Christine Pinnow nimmt sich Zeit, Ihre Geschichte, Ihre Beschwerden und Ihre Lebensumstände kennenzulernen. Darauf folgt eine ganzheitliche Untersuchung von Kopf bis Fuß – aufmerksam, respektvoll und ohne Zeitdruck."
     }
   ]
 }

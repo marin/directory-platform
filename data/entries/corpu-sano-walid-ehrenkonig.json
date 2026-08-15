@@ -3,7 +3,7 @@
   "slug": "corpu-sano-walid-ehrenkonig",
   "name": "Corpu Sano - Walid Ehrenkönig",
   "description": "Corpu Sano - Walid Ehrenkönig ist eine Heilpraktikerpraxis in Berlin-Charlottenburg, die sich auf Psychotherapie und Naturheilkunde spezialisiert hat. Unter der Leitung von Walid Temiaa werden individuelle Therapieansätze angeboten, die Ernährung, Körper und Psyche in den Fokus stellen. Ziel ist es, die Gesundheit der Patienten durch natürliche Heilmittel und gezielte Therapien zu fördern und ein neues Lebensgefühl zu schaffen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Eisenzahnstraße 11-14",
     "locality": "Berlin",
@@ -94,26 +95,5 @@
   "images": [
     "/images/entries/corpu-sano-walid-ehrenkonig/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieformen bietet Corpu Sano an?",
-      "answer": "Corpu Sano bietet verschiedene Therapieformen an, darunter Psychotherapie, Naturheilkunde, Ernährung, Körpertherapie, psychologische Unterstützung und die Anwendung natürlicher Heilmittel."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten von Corpu Sano?",
-      "answer": "Corpu Sano hat von Montag bis Sonntag geöffnet, jeweils von 09:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Walid Ehrenkönig?",
-      "answer": "Die Praxis von Walid Ehrenkönig befindet sich in der Eisenzahnstraße 11-14, 10709 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Corpu Sano vereinbaren?",
-      "answer": "Termine bei Corpu Sano können nach Vereinbarung vereinbart werden. Sie können die Praxis telefonisch oder per E-Mail kontaktieren."
-    },
-    {
-      "question": "Wie kann ich Walid Ehrenkönig kontaktieren?",
-      "answer": "Sie können Walid Ehrenkönig per E-Mail unter w.temiaa@corpusano.de oder telefonisch unter +49 30 25581187 erreichen."
-    }
-  ]
+  "faq": []
 }

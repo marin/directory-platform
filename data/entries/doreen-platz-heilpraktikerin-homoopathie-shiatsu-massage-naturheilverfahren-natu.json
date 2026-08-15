@@ -3,7 +3,7 @@
   "slug": "doreen-platz-heilpraktikerin-homoopathie-shiatsu-massage-naturheilverfahren-natu",
   "name": "Doreen Platz, Heilpraktikerin. Homöopathie - Shiatsu & Massage – Naturheilverfahren, Naturheilpraxis für Kinder & Erwachsene.",
   "description": "Doreen Platz ist eine erfahrene Heilpraktikerin in Berlin-Neukölln, die sich auf klassische Homöopathie, Shiatsu und verschiedene Naturheilverfahren spezialisiert hat. Ihre Naturheilpraxis bietet Behandlungen für Kinder und Erwachsene an und legt großen Wert auf einen ganzheitlichen Ansatz, der körperliche, emotionale und geistige Aspekte berücksichtigt. Neben individuellen Behandlungen werden auch Kindersprechstunden und Hausbesuche angeboten, um eine umfassende Betreuung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Weichselstraße 53",
     "locality": "Berlin",
@@ -100,24 +101,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet Doreen Platz an?",
-      "answer": "Doreen Platz bietet klassische Homöopathie, Shiatsu, Massage und verschiedene Naturheilverfahren an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin online buchen über die Webseite: https://app.cituro.com/booking/heilpraktikerin-doreen-platz."
-    },
-    {
-      "question": "Welche Altersgruppen werden in der Naturheilpraxis behandelt?",
-      "answer": "In der Naturheilpraxis werden sowohl Kinder als auch Erwachsene behandelt."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:30 bis 19:30 Uhr und am Freitag von 08:30 bis 14:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Doreen Platz?",
-      "answer": "Die Praxis befindet sich in der Weichselstraße 53, 12045 Berlin, im Stadtteil Neukölln."
+      "question": "Bietet Doreen Platz Behandlungen für Kinder an?",
+      "answer": "Ja, Doreen Platz bietet Homöopathie und Naturheilverfahren für Kinder an."
     }
   ]
 }

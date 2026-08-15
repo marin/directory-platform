@@ -3,7 +3,7 @@
   "slug": "liebscher-und-bracht-schmerztherapie-sabrina-braun",
   "name": "Liebscher und Bracht - Schmerztherapie Sabrina Braun",
   "description": "In der Naturheilpraxis Sabrina Braun in Berlin-Friedrichshagen steht die individuelle Schmerztherapie im Fokus. Als zertifizierte Liebscher & Bracht Therapeutin bietet Sabrina Braun ganzheitliche Behandlungsansätze, die auf Osteopressur und Engpassdehnungen basieren. Die Praxis legt Wert auf fundierte Beratung und eine einfühlsame Betreuung, um den Patienten auf ihrem Weg zur Schmerzfreiheit zu unterstützen. Weitere Therapieangebote wie Heilmassagen, Lymphdrainage und Neuraltherapie runden das Angebot ab.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Weg zur Quelle 12",
     "locality": "Berlin",
@@ -141,24 +142,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Naturheilpraxis Sabrina Braun an?",
-      "answer": "Die Naturheilpraxis Sabrina Braun bietet eine Vielzahl von Therapien an, darunter Osteopressur, Engpassdehnungen, Heilmassagen, Lymphdrainage, Vitamin-C-Hochdosis-Therapie, Schröpfen, Neuraltherapie, Gua Sha und Ohr-Akupunktur."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Sabrina Braun vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite der Naturheilpraxis Sabrina Braun vereinbaren, indem Sie das Kontaktformular auf der Seite nutzen: Jetzt Termin vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Naturheilpraxis Sabrina Braun hat von Montag bis Samstag geöffnet, jeweils von 08:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Sabrina Braun?",
-      "answer": "Die Naturheilpraxis Sabrina Braun befindet sich in Berlin, in der Weg zur Quelle 12, 12587 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Sabrina Braun kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Sabrina Braun telefonisch unter 01722402707 oder per E-Mail unter heilpraxis-sabrinabraun@gmx.de kontaktieren."
+      "question": "Wie läuft der Ersttermin bei Liebscher und Bracht - Schmerztherapie Sabrina Braun ab?",
+      "answer": "Der Ersttermin beginnt mit einem Beratungsgespräch, um ein vollständiges Bild über die Beschwerden und Vorerkrankungen zu erhalten. Die Behandlung dauert in der Regel eine Stunde."
     }
   ]
 }

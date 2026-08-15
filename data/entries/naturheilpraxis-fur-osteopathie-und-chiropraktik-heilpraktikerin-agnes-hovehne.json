@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne",
   "name": "Naturheilpraxis für Osteopathie und Chiropraktik Heilpraktikerin Agnes Hovehne",
   "description": "\\[timeline type=“solid“\\]\\[timeline\\_sep sep\\_text=“Physiotherapie & Naturheilpraxis“ sep\\_color=“4E5B6D“ sep\\_text\\_color=“FFFFFF“\\]\\[timeline\\_item position=“right“ date=“1990″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Ausgebildete Physiotherapeutin“\\]Abschluss der Ausbildung zur Physiotherapeutin in Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“right“ date=“1992″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Ausgebildete Heilpraktikerin“\\]Erteilung der Berufsbezeichnung Heilpraktikerin durch das Bezirksamt Charlottenburg von Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“left“ date=“1993–1996″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Tätigkeit als Heilpraktikerin“\\]in der Praxis von Yashi Kunz in Berlin\\[/timeline\\_item\\]\\[timeline\\_item position=“left“ date=“1992–1997″ date\\_color=“4E5B6D“ date\\_text\\_color=“FFFFFF“ title=“Fußreflexzo…",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Borsigwalder Weg 65",
     "locality": "Berlin",
@@ -73,5 +74,10 @@
     "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/3.webp",
     "/images/entries/naturheilpraxis-fur-osteopathie-und-chiropraktik-heilpraktikerin-agnes-hovehne/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie lange dauert eine Sitzung bei Agnes Hovehne?",
+      "answer": "Eine Sitzung dauert 90 Minuten."
+    }
+  ]
 }

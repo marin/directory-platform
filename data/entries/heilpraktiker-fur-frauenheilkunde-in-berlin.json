@@ -133,24 +133,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet der Heilpraktiker für Frauenheilkunde in Berlin an?",
-      "answer": "Der Heilpraktiker bietet eine Vielzahl von Dienstleistungen an, darunter die Erstanamnese (90 Minuten), Folgetermine (60 Minuten), ein Paket aus Erstanamnese und drei Folgeterminen sowie Hormontests für Cortisol, Progesteron, Östradiol, Testosteron und DHEA."
+      "question": "Was passiert beim Ersttermin bei einem Heilpraktiker für Frauenheilkunde?",
+      "answer": "Der Ersttermin dauert ca. 90 Minuten und beinhaltet eine ausführliche Anamnese zu Zyklus, Hormonen, Darm, Ernährung, Stress und Lebenssituation."
     },
     {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Website des Heilpraktikers vereinbaren, indem Sie den folgenden Link nutzen: Termin vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 09:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Scharnweberstraße 25, 12587 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Bietet der Heilpraktiker auch Online-Termine an?",
-      "answer": "Ja, der Heilpraktiker bietet sowohl persönliche Termine als auch Online-Meetings an, oder eine hybride Form aus beidem."
+      "question": "Werden die Kosten von den Krankenkassen übernommen?",
+      "answer": "Die gesetzlichen Krankenkassen übernehmen leider keine Kosten, aber es gibt zahlreiche Zusatzversicherungen, die bis zu 80 % der Kosten übernehmen."
     }
   ]
 }

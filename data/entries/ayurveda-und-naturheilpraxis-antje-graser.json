@@ -3,7 +3,7 @@
   "slug": "ayurveda-und-naturheilpraxis-antje-graser",
   "name": "Ayurveda- und Naturheilpraxis Antje Gräser",
   "description": "Die Ayurveda- und Naturheilpraxis Antje Gräser in Berlin-Rahnsdorf bietet eine ganzheitliche Herangehensweise an Gesundheit und Wohlbefinden. Hier steht die individuelle Beratung im Vordergrund, um die Ursachen von Erkrankungen zu erkennen und geeignete Maßnahmen zur Wiederherstellung des Gleichgewichts zu finden. Neben typgerechter Ernährung und präventiven Maßnahmen werden auch entspannende Massagen angeboten, um eine Auszeit vom Alltag zu ermöglichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Schonungsberg 36",
     "locality": "Berlin",
@@ -51,26 +52,5 @@
   "images": [
     "/images/entries/ayurveda-und-naturheilpraxis-antje-graser/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Ayurveda- und Naturheilpraxis Antje Gräser?",
-      "answer": "Die Praxis befindet sich in Berlin-Rahnsdorf, Am Schonungsberg 36, 12589 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag, Dienstag und Donnerstag von 14:30 bis 20:00 Uhr sowie Freitag von 10:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Ayurveda- und Naturheilpraxis Antje Gräser kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03064169047 erreichen oder die Website http://www.ayurveda-rahnsdorf.de/ besuchen."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet Unterstützung bei der Suche nach den Ursachen von Erkrankungen, typgerechte Ernährung sowie verwöhnende Massagen zur Entspannung an."
-    },
-    {
-      "question": "Was ist das Ziel der Ayurveda- und Naturheilpraxis Antje Gräser?",
-      "answer": "Das Ziel der Praxis ist es, den Patienten einen Zugang zum Ayurveda zu vermitteln und ihnen zu helfen, ein tieferes Verständnis für die erforderlichen Schritte zur Vorbeugung oder Behandlung von Krankheiten zu erlangen."
-    }
-  ]
+  "faq": []
 }

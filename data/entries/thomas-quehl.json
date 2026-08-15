@@ -3,7 +3,7 @@
   "slug": "thomas-quehl",
   "name": "Thomas Quehl",
   "description": "Heilpraktiker Thomas Quehl bietet in seiner Naturheilpraxis in Berlin Friedrichshain-Kreuzberg umfassende Therapien an, die auf den Prinzipien der traditionellen chinesischen Medizin basieren. Mit einer fundierten Ausbildung in Akupunktur, Kräutermedizin, Tuina-Massage und Dieda-Behandlung kombiniert er jahrzehntelange Erfahrung im Kung Fu mit seinem medizinischen Wissen. Zu seinen Leistungen gehören auch Atem- und Bewegungstherapie sowie Ernährungsberatung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pfuelstraße 3",
     "locality": "Berlin",
@@ -38,26 +39,5 @@
     "/images/entries/thomas-quehl/0.webp",
     "/images/entries/thomas-quehl/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieformen bietet Heilpraktiker Thomas Quehl an?",
-      "answer": "Heilpraktiker Thomas Quehl bietet folgende Therapieformen an: Akupunktur, Tuina-Massage, Chinesische Kräutermedizin, Dieda-Behandlung, Atem- und Bewegungstherapie (Qi Gong, Kung Fu), Ernährung und Beratung sowie Tipps und Informationen zur Selbsthilfe."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Thomas Quehl?",
-      "answer": "Die Praxis von Thomas Quehl befindet sich in der Pfuelstraße 3, 10997 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich Thomas Quehl kontaktieren?",
-      "answer": "Sie können Thomas Quehl telefonisch unter der Nummer 0306212489 kontaktieren oder seine Website unter http://tcmpraxis-quehl.de/ besuchen."
-    },
-    {
-      "question": "Hat die Praxis von Thomas Quehl Öffnungszeiten?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben. Bei Fragen zu den Öffnungszeiten wenden Sie sich bitte direkt an die Praxis."
-    },
-    {
-      "question": "Was ist die Philosophie von Heilpraktiker Thomas Quehl?",
-      "answer": "Thomas Quehl sieht sich in einer Tradition von Kampfkünstlern, die ihr Wissen zur Heilung einsetzen. Er orientiert sich in seiner Praxis und in seinem Leben am Wirken berühmter Kampfkünstler."
-    }
-  ]
+  "faq": []
 }

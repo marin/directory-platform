@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-anja-hubner",
   "name": "Heilpraktikerin Anja Hübner",
   "description": "Heilpraktikerin Anja Hübner bietet in ihrer Praxis in Berlin-Treptow-Köpenick eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Schmerztherapie, Psychotherapie, Traumatherapie und Ohrakupunktur. Ihr Ansatz zielt darauf ab, das individuelle Wohlbefinden zu fördern und die Balance im Leben ihrer Patienten zu unterstützen. In einem einfühlsamen Umfeld erhalten die Patienten fundierte Beratung zu den Signalen, die der Körper in Form von Schmerzen und anderen Beschwerden sendet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mahlsdorfer Str. 94",
     "locality": "Berlin",
@@ -64,22 +65,5 @@
     "/images/entries/heilpraktikerin-anja-hubner/1.webp",
     "/images/entries/heilpraktikerin-anja-hubner/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Anja Hübner an?",
-      "answer": "Heilpraktikerin Anja Hübner bietet unter anderem Schmerztherapie, Psychotherapie, Traumatherapie und Ohrakupunktur an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet, sowie nach Vereinbarung."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 0151 28883378 oder per E-Mail an post@heilpraktiker-huebner.de vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Anja Hübner?",
-      "answer": "Die Praxis befindet sich in der Mahlsdorfer Str. 94, 12555 Berlin, im Stadtteil Treptow-Köpenick."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-petra-laeske",
   "name": "Naturheilpraxis Petra Laeske",
   "description": "Die Naturheilpraxis von Petra Laeske in Berlin bietet eine schnelle Diagnose und Therapien ohne den Einsatz von Medikamenten an. Als erfahrene Heilpraktikerin legt sie großen Wert auf individuelle Behandlungsansätze und alternative Heilmethoden. Die Praxis befindet sich in der Am Falkenberg 117 und ist auch per E-Mail erreichbar.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Falkenberg 117",
     "locality": "Berlin",
@@ -44,22 +45,5 @@
     "/images/entries/naturheilpraxis-petra-laeske/0.webp",
     "/images/entries/naturheilpraxis-petra-laeske/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Petra Laeske?",
-      "answer": "Die Naturheilpraxis Petra Laeske befindet sich in Berlin, Am Falkenberg 117, 12524 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Petra Laeske kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Petra Laeske telefonisch unter 03023887522 erreichen oder per E-Mail an mail@petra-laeske.de schreiben."
-    },
-    {
-      "question": "Welche Therapieangebote bietet die Naturheilpraxis an?",
-      "answer": "Die Naturheilpraxis Petra Laeske bietet unter anderem eine schnelle Diagnose und eine Therapie ohne Medikamente an."
-    },
-    {
-      "question": "Welche Kategorie deckt die Naturheilpraxis Petra Laeske ab?",
-      "answer": "Die Naturheilpraxis Petra Laeske ist in der Kategorie Naturheilkunde tätig."
-    }
-  ]
+  "faq": []
 }

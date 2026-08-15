@@ -3,7 +3,7 @@
   "slug": "klaus-gmach-heilpraktiker",
   "name": "Klaus Gmach Heilpraktiker",
   "description": "Klaus Gmach ist Heilpraktiker in Berlin und bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Massagen, chinesische Heilmassage (Tuina), Akupressur, Fußreflexzonen-Massagen, Akupunktur sowie Heilpflanzentherapie und Hypnose. In seiner Praxis in der Fichtestraße 31 können Klienten sowohl individuelle Gesundheitsmassagen als auch Firmenmassagen in Anspruch nehmen. Ein kostenfreies Erstgespräch ermöglicht es Interessierten, sich über die angebotenen Therapien zu informieren und den passenden Behandlungsansatz zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fichtestraße 31",
     "locality": "Berlin",
@@ -40,24 +41,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Klaus Gmach Heilpraktiker?",
-      "answer": "Die Praxis von Klaus Gmach Heilpraktiker befindet sich in der Fichtestraße 31, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Klaus Gmach an?",
-      "answer": "Klaus Gmach bietet verschiedene Dienstleistungen an, darunter klassische Massagen, chinesische Heilmassagen (Tuina), Akupressur, Fußreflexzonen-Massagen, Akupunktur, Heilpflanzentherapie, Hypnose und Einzelcoaching."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Klaus Gmach buchen?",
-      "answer": "Sie können einen Termin bei Klaus Gmach buchen, indem Sie die Website besuchen und den Buchungslink auf Doctolib nutzen."
-    },
-    {
       "question": "Ist das Erstgespräch kostenfrei?",
-      "answer": "Ja, das Erstgespräch bei Klaus Gmach ist kostenfrei."
-    },
-    {
-      "question": "Wie kann ich Klaus Gmach erreichen?",
-      "answer": "Sie können Klaus Gmach telefonisch unter 01757439083 oder per E-Mail unter klaus.gmach@gmx.de erreichen."
+      "answer": "Ja, das Erstgespräch ist kostenfrei."
     }
   ]
 }

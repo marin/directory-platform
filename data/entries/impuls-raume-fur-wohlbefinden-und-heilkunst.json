@@ -57,5 +57,14 @@
     "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/3.webp",
     "/images/entries/impuls-raume-fur-wohlbefinden-und-heilkunst/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Muss ich die Kosten selbst tragen?",
+      "answer": "Christa Pölking bietet zweitägige Kompaktkurse an, die von den gesetzlichen Krankenkassen als Präventionskurse bezuschusst werden."
+    },
+    {
+      "question": "In welchen Sprachen werden die Angebote angeboten?",
+      "answer": "Es gibt Yoga-Kurse, die auf Englisch angeboten werden."
+    }
+  ]
 }

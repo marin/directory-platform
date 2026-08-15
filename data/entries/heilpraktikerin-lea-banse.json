@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-lea-banse",
   "name": "Heilpraktikerin Lea Banse",
   "description": "Heilpraktikerin Lea Banse bietet in ihrer Praxis in Berlin Tempelhof-Schöneberg umfassende Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Ihr Leistungsspektrum umfasst unter anderem die Osteopathie für Säuglinge sowie die Cranio-Sacral-Therapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fregestraße 36",
     "locality": "Berlin",
@@ -38,20 +39,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Lea Banse?",
-      "answer": "Die Praxis befindet sich in der Fregestraße 36, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Lea Banse an?",
-      "answer": "Heilpraktikerin Lea Banse bietet Osteopathie und Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Lea Banse kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Lea Banse telefonisch unter 015738996860 oder per E-Mail unter heilpraktikerin.banse@gmail.com kontaktieren."
-    },
-    {
-      "question": "Bietet die Praxis Öffnungszeiten an?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+      "question": "Bietet Heilpraktikerin Lea Banse Behandlungen für Kinder an?",
+      "answer": "Ja, sie bietet Osteopathie für Säuglinge und Cranio-Sacral-Therapie an."
     }
   ]
 }

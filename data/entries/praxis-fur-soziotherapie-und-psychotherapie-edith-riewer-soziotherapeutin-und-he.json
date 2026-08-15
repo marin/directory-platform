@@ -3,7 +3,7 @@
   "slug": "praxis-fur-soziotherapie-und-psychotherapie-edith-riewer-soziotherapeutin-und-he",
   "name": "Praxis für Soziotherapie und Psychotherapie, Edith Riewer Soziotherapeutin und Heilpraktikerin für Psychotherapie",
   "description": "Die Praxis für Soziotherapie und Psychotherapie von Edith Riewer befindet sich in der Kochhannstraße 21 in Berlin-Friedrichshain. Als erfahrene Soziotherapeutin und Heilpraktikerin für Psychotherapie bietet sie individuelle Beratungen und Gespräche an, um Klienten bei der Bewältigung ihrer Herausforderungen zu unterstützen. Die Praxis legt Wert auf eine vertrauensvolle Atmosphäre und eine ganzheitliche Herangehensweise an psychische Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kochhannstraße 21",
     "locality": "Berlin",
@@ -66,26 +67,5 @@
     "/images/entries/praxis-fur-soziotherapie-und-psychotherapie-edith-riewer-soziotherapeutin-und-he/0.webp",
     "/images/entries/praxis-fur-soziotherapie-und-psychotherapie-edith-riewer-soziotherapeutin-und-he/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis für Soziotherapie und Psychotherapie von Edith Riewer?",
-      "answer": "Die Praxis befindet sich in der Kochhannstraße 21, 10249 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker-fur-psychotherapie/berlin/edith-riewer?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag 09:00 - 17:00, Dienstag bis Donnerstag 09:00 - 18:00, und Freitag 10:00 - 17:00."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet Soziotherapie und Psychotherapie an."
-    },
-    {
-      "question": "Wie kann ich die Praxis telefonisch erreichen?",
-      "answer": "Sie können die Praxis unter der Telefonnummer 015224026308 erreichen."
-    }
-  ]
+  "faq": []
 }

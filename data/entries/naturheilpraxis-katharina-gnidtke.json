@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-katharina-gnidtke",
   "name": "Naturheilpraxis Katharina Gnidtke",
   "description": "Die Naturheilpraxis Katharina Gnidtke in Berlin-Pankow bietet ein ganzheitliches Behandlungskonzept, das traditionelle Heilweisen mit modernen alternativen Methoden kombiniert. Zu den Therapieangeboten zählen unter anderem Bodyscan, Schröpfen, Breuss-Wirbelsäulenmassage, Akupressur sowie Klangschalenmassage. Die Praxis legt besonderen Wert auf die Arbeit mit dem Unterbewusstsein und bietet Unterstützung bei psychosomatischen Erkrankungen sowie als Begleittherapie bei schweren und chronischen Erkrankungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Naturheilpraxis Katharina Gnidtke",
     "locality": "Berlin",
@@ -67,26 +68,5 @@
   "images": [
     "/images/entries/naturheilpraxis-katharina-gnidtke/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Katharina Gnidtke an?",
-      "answer": "Die Naturheilpraxis Katharina Gnidtke bietet ein breites Behandlungsspektrum an, darunter Therapien wie Bodyscan, einen Mix aus Schröpfen, Breuss-Wirbelsäulenmassage und Akupressur, Fußreflexzonenmassage, Klangschalenmassage sowie psychotherapeutische Ansätze auf der Grundlage von Milton Erickson und C. G. Jung."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Katharina Gnidtke?",
-      "answer": "Die Naturheilpraxis Katharina Gnidtke befindet sich in Berlin, im Stadtteil Pankow, mit der Adresse: Naturheilpraxis Katharina Gnidtke, 13156 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Katharina Gnidtke über die Webseite buchen. Besuchen Sie dazu den Kontaktbereich unter http://www.gnidtke.de/kontakt/kontakt.html."
-    },
-    {
-      "question": "Welche Zielgruppen werden in der Praxis angesprochen?",
-      "answer": "Die Naturheilpraxis Katharina Gnidtke bietet Behandlungen, die gut einsetzbar sind als Begleittherapie bei schweren und chronischen Erkrankungen sowie bei psychosomatischen Erkrankungen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Katharina Gnidtke kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Katharina Gnidtke telefonisch unter 03047599257 oder per E-Mail an info@gnidtke.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

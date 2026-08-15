@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-thuma",
   "name": "Naturheilpraxis Thuma",
   "description": "Die Naturheilpraxis Thuma in Berlin-Reinickendorf bietet umfassende Beratung und Behandlung für akute sowie chronische Beschwerden an. Der Heilpraktiker, seit 1971 in der Praxis tätig, verfolgt einen ganzheitlichen Ansatz, der die Wurzel der Beschwerden identifiziert und behandelt. Die Praxis kombiniert traditionelle Naturheilkunde mit modernen medizinischen Erkenntnissen, um eine nachhaltige Verbesserung der Lebensqualität zu erreichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kopenhagener Str. 2",
     "locality": "Berlin",
@@ -74,26 +75,5 @@
     "/images/entries/naturheilpraxis-thuma/0.webp",
     "/images/entries/naturheilpraxis-thuma/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Thuma?",
-      "answer": "Die Naturheilpraxis Thuma befindet sich in der Kopenhagener Str. 2, 13407 Berlin, im Stadtteil Reinickendorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Thuma kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Thuma telefonisch unter 0304953806 oder per E-Mail an naturheilpraxis.thuma@gmx.de kontaktieren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Thuma?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Thuma sind: Montag von 09:00 bis 11:00 und 15:00 bis 17:00, Dienstag und Freitag von 09:00 bis 11:00, sowie Donnerstag von 09:00 bis 11:00 und 15:00 bis 17:00."
-    },
-    {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Thuma an?",
-      "answer": "Die Naturheilpraxis Thuma bietet umfassende Beratungen und Behandlungen bei akuten sowie chronischen Beschwerden an, mit dem Ziel, die Wurzel der Probleme zu finden und zu behandeln."
-    },
-    {
-      "question": "Wie lange praktiziert der Heilpraktiker in der Naturheilpraxis Thuma?",
-      "answer": "Der Heilpraktiker in der Naturheilpraxis Thuma ist seit 1971 niedergelassen und bringt somit viele Jahre Erfahrung in der Naturheilkunde mit."
-    }
-  ]
+  "faq": []
 }

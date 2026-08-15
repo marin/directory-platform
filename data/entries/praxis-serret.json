@@ -3,7 +3,7 @@
   "slug": "praxis-serret",
   "name": "PRAXIS SERRET",
   "description": "Die PRAXIS SERRET in Berlin-Lichtenberg wird von den Heilpraktikerinnen Melanie und Sina Serret geleitet. Das Angebot umfasst Osteopathie, Homöopathie und Naturheilkunde, wobei individuelle Therapiekonzepte für die Patienten im Vordergrund stehen. Die Praxis legt Wert auf eine ganzheitliche Betrachtung der Gesundheit und bietet verschiedene therapeutische Ansätze an, um die Selbstheilungskräfte zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pfarrstraße 104",
     "locality": "Berlin",
@@ -63,24 +64,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die PRAXIS SERRET an?",
-      "answer": "Die PRAXIS SERRET bietet Osteopathie, Homöopathie und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die PRAXIS SERRET?",
-      "answer": "Die PRAXIS SERRET befindet sich in der Pfarrstraße 104, 10317 Berlin, im Stadtteil Lichtenberg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der PRAXIS SERRET?",
-      "answer": "Die Öffnungszeiten der PRAXIS SERRET sind von Montag bis Freitag, jeweils von 08:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die PRAXIS SERRET kontaktieren?",
-      "answer": "Sie können die PRAXIS SERRET telefonisch unter 017661853140 erreichen oder die Website https://www.praxis-serret.de/ besuchen."
-    },
-    {
-      "question": "Wer sind die Heilpraktikerinnen in der PRAXIS SERRET?",
-      "answer": "Die Heilpraktikerinnen in der PRAXIS SERRET sind Melanie und Sina Serret."
+      "question": "Bietet die PRAXIS SERRET Behandlungen für Kinder an?",
+      "answer": "Das Angebot umfasst Osteopathie, und die PRAXIS SERRET wird von Melanie und Sina Serret geleitet."
     }
   ]
 }

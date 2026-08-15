@@ -3,7 +3,7 @@
   "slug": "kerstin-beiersdorfer-heilpraktiker-berlin",
   "name": "Kerstin Beiersdorfer, Heilpraktiker Berlin",
   "description": "Kerstin Beiersdorfer ist Heilpraktikerin in Berlin-Charlottenburg und bietet in ihrer Naturheilpraxis am Kurfürstendamm eine Vielzahl von naturheilkundlichen Behandlungen an. Ihr Ansatz berücksichtigt psychosomatische Zusammenhänge und zielt darauf ab, die Ursachen von Erkrankungen ganzheitlich zu erfassen. Zu den angebotenen Therapien gehören unter anderem Ozon-Sauerstofftherapie, Hypnosetherapie und ästhetische Medizin wie Faltenunterspritzung und Microneedling.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kurfürstendamm 137",
     "locality": "Berlin",
@@ -33,22 +34,5 @@
   "images": [
     "/images/entries/kerstin-beiersdorfer-heilpraktiker-berlin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Kerstin Beiersdorfer?",
-      "answer": "Die Naturheilpraxis von Kerstin Beiersdorfer befindet sich am Kurfürstendamm 137, 10711 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Kerstin Beiersdorfer an?",
-      "answer": "Kerstin Beiersdorfer bietet verschiedene naturheilkundliche Verfahren an, darunter Ozon-Sauerstofftherapie, Hypnosetherapie, Neuraltherapie, Hochfrequenztherapie und Biolasertherapie."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Kerstin Beiersdorfer vereinbaren?",
-      "answer": "Termine bei Kerstin Beiersdorfer können nach individueller Vereinbarung vereinbart werden. Sie können sie telefonisch unter 0171 / 899 28 06 oder per E-Mail an beiersdorfer@gmx.com kontaktieren."
-    },
-    {
-      "question": "Bietet Kerstin Beiersdorfer auch ästhetische Behandlungen an?",
-      "answer": "Ja, Kerstin Beiersdorfer bietet auch ästhetische Behandlungen an, darunter Faltenunterspritzung, Fadenlifting und Microneedling."
-    }
-  ]
+  "faq": []
 }

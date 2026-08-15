@@ -3,7 +3,7 @@
   "slug": "ashara-kuckuck-heilpraktikerin",
   "name": "Ashara Kuckuck, Heilpraktikerin",
   "description": "Ashara Kuckuck ist eine erfahrene Heilpraktikerin in Berlin, die seit 1995 in Schöneberg und anderen Bezirken tätig ist. Ihre Praxis spezialisiert sich auf energiemedizinische Behandlungsmethoden, insbesondere Reiki, und bietet individuelle Beratungen sowie Ausbildungen in diesem Bereich an. Die Praxis legt großen Wert auf eine persönliche Betreuung und die Entwicklung maßgeschneiderter Therapiepläne für ihre Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Erdmannstraße 6",
     "locality": "Berlin",
@@ -53,20 +54,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis von Ashara Kuckuck?",
-      "answer": "Die Naturheilpraxis von Ashara Kuckuck befindet sich in der Erdmannstraße 6, 10827 Berlin, im Bezirk Tempelhof-Schöneberg."
+      "question": "Wie läuft der Ersttermin bei Ashara Kuckuck ab?",
+      "answer": "Das Erstgespräch findet telefonisch oder persönlich statt. Wir klären ab, ob und wie wir Ihnen helfen können."
     },
     {
-      "question": "Welche Therapieansätze bietet Ashara Kuckuck an?",
-      "answer": "Ashara Kuckuck bietet unter anderem Reiki, Meditation, Atemtherapie, Systena®, Fußreflexzonenmassage und traditionelles Besprechen an."
-    },
-    {
-      "question": "Bietet Ashara Kuckuck auch Ausbildungen an?",
-      "answer": "Ja, Ashara Kuckuck bietet Ausbildungen im traditionellen Reiki nach Dr. Usui an, einschließlich der Grade I, II, III und der Meisterstufe."
-    },
-    {
-      "question": "Wie kann ich Ashara Kuckuck kontaktieren?",
-      "answer": "Sie können Ashara Kuckuck per E-Mail unter info@asharakuckuck.de oder telefonisch unter 0307883645 kontaktieren."
+      "question": "Welche Sprachen werden bei Ashara Kuckuck angeboten?",
+      "answer": "Es wird Türkischsprachige Beratung, Behandlung und Ausbildung angeboten."
     }
   ]
 }

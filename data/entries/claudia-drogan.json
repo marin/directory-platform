@@ -3,7 +3,7 @@
   "slug": "claudia-drogan",
   "name": "Claudia Drogan",
   "description": "Claudia Drogan ist Heilpraktikerin in Berlin-Reinickendorf und bietet eine Vielzahl von naturheilkundlichen Methoden an, um Menschen auf ihrer persönlichen Lebensreise zu begleiten. Ihr Ansatz umfasst unter anderem prozessorientierte Homöopathie, systemische Aufstellungen, Ohrakupunktur und spirituelle Lebensberatung. Ziel ihrer Praxis ist es, individuelle Wege zu Gesundheit und persönlichem Wohlbefinden zu finden, wobei sie auf die Bedürfnisse jedes Einzelnen eingeht.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wachsmuthstraße 14",
     "locality": "Berlin",
@@ -23,6 +24,9 @@
     "lng": 13.3152194
   },
   "website": "https://nawaygo.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpZuxaphUqEcRo_4D6xFEk3o",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -91,25 +95,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Was sind die Hauptangebote von Claudia Drogan?",
-      "answer": "Claudia Drogan bietet eine Vielzahl von Angeboten an, darunter persönliche Lebensberatung, prozessorientierte Homöopathie, systemische Aufstellungen, Ohrakupunktur, schamanische Praktiken und die Faszien-Meridian-Massage®. Zudem unterstützt sie Menschen bei der Suche nach ihrer persönlichen Medizin und begleitet sie auf ihrer Lebensreise."
-    },
-    {
-      "question": "In welchem Stadtteil von Berlin befindet sich die Praxis von Claudia Drogan?",
-      "answer": "Die Praxis von Claudia Drogan befindet sich in Reinickendorf, Berlin, in der Wachsmuthstraße 14."
-    },
-    {
-      "question": "Welche Zielgruppe spricht Claudia Drogan an?",
-      "answer": "Claudia Drogan richtet ihr Angebot an Menschen jeden Alters und bietet Unterstützung für Einzelpersonen, Paare und Familien an."
-    },
-    {
-      "question": "Was versteht Claudia Drogan unter 'Symptome als Wegweiser'?",
-      "answer": "Claudia Drogan betrachtet Symptome wie körperliche Schmerzen und seelische Probleme als Wegweiser für die persönliche Entwicklung und Gesundheit, die auf einen Weg in Richtung Leichtigkeit und Freiheit hinweisen."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJpZuxaphUqEcRo_4D6xFEk3o",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

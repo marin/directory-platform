@@ -3,7 +3,7 @@
   "slug": "besprechen-akupunktur-und-coaching-dr-med-vet-karola-lahrmann-heilpraktikerin",
   "name": "Besprechen, Akupunktur und Coaching Dr. med. vet. Karola Lahrmann, Heilpraktikerin",
   "description": "Dr. med. vet. Karola Lahrmann ist Heilpraktikerin in Berlin und bietet in ihrer Praxis Behandlungen auf Basis traditioneller chinesischer Medizin an, darunter Akupunktur, Moxibustion, Schröpfen und Gua Sha. Neben der Schmerztherapie liegt ein weiterer Schwerpunkt auf Coaching, um Klienten bei der Bewältigung von Stress, Lebensproblemen und der persönlichen Weiterentwicklung zu unterstützen. Ihre Praxis befindet sich in der Knesebeckstraße 27, und sie betreut Patienten aus Berlin und Brandenburg.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Knesebeckstraße 27",
     "locality": "Berlin",
@@ -57,24 +58,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Dr. med. vet. Karola Lahrmann an?",
-      "answer": "Dr. med. vet. Karola Lahrmann bietet Behandlungen in den Bereichen Akupunktur, Besprechen, Coaching sowie verschiedene Verfahren der Chinesischen Medizin an."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Zu Beginn einer Behandlung wird die Krankengeschichte (Anamnese) durch eine umfangreiche Befragung aufgenommen und durch Zungen-, Puls- und Bauchdiagnostik ergänzt. Dies dauert insgesamt circa 2 Stunden."
     },
     {
-      "question": "Wo befindet sich die Praxis von Dr. med. vet. Karola Lahrmann?",
-      "answer": "Die Praxis befindet sich in der Knesebeckstraße 27, 10623 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Dr. med. vet. Karola Lahrmann buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite unter https://www.besprechen-berlin.de/#Terminformular vereinbaren."
-    },
-    {
-      "question": "Welche Lebensbereiche werden im Coaching von Dr. med. vet. Karola Lahrmann behandelt?",
-      "answer": "Im Coaching werden Themen wie Stressbewältigung, persönliche Weiterentwicklung, neue Lebensstrategien und Paar-Mediation behandelt."
-    },
-    {
-      "question": "Welche Methoden der Chinesischen Medizin werden in der Praxis angewendet?",
-      "answer": "In der Praxis werden Methoden wie Akupunktur, Moxibustion, Schröpfen und Gua Sha angewendet."
+      "question": "Wie funktioniert die Kostenübernahme für Selbstzahler?",
+      "answer": "Gesetzliche Krankenkassen übernehmen in der Regel keine Kosten für Heilpraktikerbehandlungen. Heilpraktikerzusatzversicherungen decken, je nach Versicherungsumfang, im Regelfall bis zu 80% der Kosten ab. Private Krankenkassen erstatten meistens die Heilpraktikerkosten."
     }
   ]
 }

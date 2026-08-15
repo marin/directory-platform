@@ -3,7 +3,7 @@
   "slug": "zeit-fur-gesundheit-sophia-broggi",
   "name": "Zeit für Gesundheit - Sophia Broggi",
   "description": "In der Naturheilpraxis \"Zeit für Gesundheit\" von Sophia Broggi in Berlin-Pankow stehen ganzheitliche Ansätze der Naturheilkunde im Mittelpunkt. Die Praxis bietet eine Vielzahl von Behandlungen an, darunter Akupunktur, klassische Massagen und individuelle Therapieplanerstellungen. Sophia Broggi kombiniert ihre Expertise als Heilpraktikerin und Physiotherapeutin, um Patienten auf ihrem Weg zu mehr Gesundheit und Lebensqualität zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Buchholzer Str. 1",
     "locality": "Berlin",
@@ -121,24 +122,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Sophia Broggi in ihrer Naturheilpraxis an?",
-      "answer": "Sophia Broggi bietet verschiedene Behandlungen an, darunter Akupunktur, Infusionen, Injektionen, Baunscheidtieren oder Schröpfen, klassische Massagen und Lymphdrainage sowie Laborauswertungen und Therapieplanerstellungen."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Es gibt ein kostenloses Erstgespräch, das ca. 15 Minuten per Telefon oder Videocall dauert. Dabei besprechen wir, ob deine Beschwerden bei mir an der richtigen Adresse sind."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin über die Website naturheilpraxis-zfg.de oder direkt über den Buchungslink hier vereinbaren."
+      "question": "Wie lange dauern die Behandlungen?",
+      "answer": "Die Dauer der klassischen Massagen und Lymphdrainage beträgt 60 Minuten. Akupunktur dauert 40 Minuten."
     },
     {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind wie folgt: Montag von 09:00 bis 12:00, Dienstag von 09:00 bis 17:00, Mittwoch von 09:00 bis 14:00, Donnerstag von 09:00 bis 19:00 und Freitag von 09:00 bis 12:00."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für die Behandlungen?",
-      "answer": "Die Kosten für die Behandlungen variieren. Zum Beispiel kostet eine Behandlung 30€, Akupunktur 40€, und klassische Massagen 100€ für 60 Minuten. Für Kinder und Jugendliche bis zum 25. Lebensjahr werden 20€ pro angefangene Viertelstunde berechnet."
-    },
-    {
-      "question": "Kann ich ein Kennenlerngespräch vereinbaren?",
-      "answer": "Ja, Sie können ein 15-minütiges Kennenlerngespräch mit Sophia Broggi vereinbaren."
+      "question": "Gibt es spezielle Preise für Kinder?",
+      "answer": "Für Kinder und Jugendliche bis zum 25. Lebensjahr werden 20 Euro pro angefangene Viertelstunde berechnet."
     }
   ]
 }

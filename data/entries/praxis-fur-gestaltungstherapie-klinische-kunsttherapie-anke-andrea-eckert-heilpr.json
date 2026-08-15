@@ -3,7 +3,7 @@
   "slug": "praxis-fur-gestaltungstherapie-klinische-kunsttherapie-anke-andrea-eckert-heilpr",
   "name": "Praxis für Gestaltungstherapie / Klinische Kunsttherapie Anke Andrea Eckert Heilpraktikerin Psychotherapie (HeilprG)",
   "description": "Die Praxis für Gestaltungstherapie und Klinische Kunsttherapie von Anke Andrea Eckert befindet sich in Berlin-Köpenick. Als Heilpraktikerin für Psychotherapie bietet sie eine Vielzahl von therapeutischen Angeboten an, die auf kreativen Methoden basieren. Die Praxis legt Wert auf eine individuelle und einfühlsame Betreuung, um die psychische Gesundheit ihrer Klienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Peter-Hille-Straße 121 B",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   },
   "phone": "0306412144",
   "website": "https://www.eckert-kunsttherapie.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF7RqKOI3qEcRExZFl6_8CGc",
   "openingHours": [
     {
       "day": "Monday",
@@ -99,25 +101,12 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Therapieangebote bietet die Praxis für Gestaltungstherapie an?",
-      "answer": "Die Praxis bietet verschiedene Therapieangebote an, darunter Sitzungen von 75 Minuten für 50,50 €, 90 Minuten für 66,50 €, sowie eine 120-minütige Sitzung für 34,00 €. Es gibt auch spezielle Angebote für zwei Personen über zwei Tage, wobei jede Person 125,50 € kostet."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Sie zahlen direkt vor der Behandlung in bar gegen eine Quittung. Eine Rechnung erhalten Sie nach der Schnupperstunde, dem Anamnesegespräch / der Befundbehandlung und den 5 Probeterminen."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Donnerstag von 08:00 bis 19:00 Uhr und am Freitag von 08:00 bis 16:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Gestaltungstherapie?",
-      "answer": "Die Praxis befindet sich in der Peter-Hille-Straße 121 B, 12587 Berlin, im Stadtteil Köpenick."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Praxis telefonisch unter 0306412144 vereinbaren oder die Website der Praxis besuchen."
-    },
-    {
-      "question": "Ist die Heilpraktikerin Mitglied in einem Verband?",
-      "answer": "Ja, Anke Andrea Eckert ist Mitglied im VFP e.V."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Sitzungen dauern 75 Minuten, 90 Minuten oder 120 Minuten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJF7RqKOI3qEcRExZFl6_8CGc"
+  ]
 }

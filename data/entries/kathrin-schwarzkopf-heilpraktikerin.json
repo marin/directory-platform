@@ -3,7 +3,7 @@
   "slug": "kathrin-schwarzkopf-heilpraktikerin",
   "name": "kathrin schwarzkopf heilpraktikerin",
   "description": "Kathrin Schwarzkopf ist eine erfahrene Heilpraktikerin mit einer Praxis in Berlin-Pankow, die sich auf Naturheilkunde spezialisiert hat. Ihr Therapieangebot umfasst verschiedene Methoden, darunter Stressregulation, Lebensenergie-Heilung und Sensitive Radionik. Darüber hinaus bietet sie Workshops und Seminare an, um das Wissen über alternative Heilmethoden zu erweitern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heilpraxen an der Schönhauser Allee",
     "locality": "Berlin",
@@ -66,26 +67,5 @@
   "images": [
     "/images/entries/kathrin-schwarzkopf-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Kathrin Schwarzkopf?",
-      "answer": "Die Praxis von Kathrin Schwarzkopf befindet sich in der Heilpraxen an der Schönhauser Allee, 10439 Berlin."
-    },
-    {
-      "question": "Welche Therapieangebote bietet Kathrin Schwarzkopf an?",
-      "answer": "Kathrin Schwarzkopf bietet verschiedene Therapieangebote an, darunter Naturheilkunde, Stressregulation, Lebensenergie-Heilung, Sensitive Radionik, Ernährungstyp-Beratung und Heilgymnastik."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Kathrin Schwarzkopf buchen?",
-      "answer": "Sie können einen Termin bei Kathrin Schwarzkopf über die Webseite buchen, indem Sie das Kontaktformular auf https://www.heilpraxis-schwarzkopf.de/kontakt/ ausfüllen."
-    },
-    {
-      "question": "Wie kann ich Kathrin Schwarzkopf kontaktieren?",
-      "answer": "Sie können Kathrin Schwarzkopf telefonisch unter 01729295355 oder über das Kontaktformular auf ihrer Webseite kontaktieren."
-    },
-    {
-      "question": "Bietet Kathrin Schwarzkopf auch Workshops oder Seminare an?",
-      "answer": "Ja, Kathrin Schwarzkopf bietet Workshops und Seminare an."
-    }
-  ]
+  "faq": []
 }

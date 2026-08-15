@@ -78,22 +78,5 @@
     "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/3.webp",
     "/images/entries/klinik-plus-naturheilkunde-und-asthetische-medizin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Klinik Plus an?",
-      "answer": "Die Klinik Plus bietet modernste ästhetische Behandlungen für natürliche Schönheit, ganzheitliche Naturheiltherapien für inneres Wohlbefinden und eine Stoffwechselkur zur Gewichtsreduktion an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Klinik Plus?",
-      "answer": "Die Klinik Plus hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Klinik Plus?",
-      "answer": "Die Klinik Plus befindet sich in der Würzburger Str. 2, 10789 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Klinik Plus kontaktieren?",
-      "answer": "Sie können die Klinik Plus telefonisch unter 030 688 100 46 erreichen."
-    }
-  ]
+  "faq": []
 }

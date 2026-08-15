@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-osteopathie",
   "name": "Heilpraxis für Osteopathie",
   "description": "Die Heilpraxis für Osteopathie befindet sich in der Fürstenwalder Allee 128 in Berlin-Rahnsdorf. Hier werden individuelle osteopathische Behandlungen angeboten, die auf die Bedürfnisse der Patienten abgestimmt sind. Die Praxis ist gut erreichbar, mit einer Bushaltestelle in der Nähe und Parkmöglichkeiten direkt vor dem Haus.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fürstenwalder Allee 128",
     "locality": "Berlin",
@@ -37,26 +38,5 @@
     "/images/entries/heilpraxis-fur-osteopathie/0.webp",
     "/images/entries/heilpraxis-fur-osteopathie/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis für Osteopathie?",
-      "answer": "Die Heilpraxis für Osteopathie befindet sich in der Fürstenwalder Allee 128, 12589 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie die Webseite besuchen und das Kontaktformular ausfüllen oder uns telefonisch unter +49 30 588 99 195 kontaktieren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat mittwochs von 14.00 bis 20.00 Uhr und freitags von 08.00 bis 14.00 Uhr geöffnet, sowie nach Vereinbarung."
-    },
-    {
-      "question": "Gibt es Parkmöglichkeiten in der Nähe der Praxis?",
-      "answer": "Ja, es gibt Parkmöglichkeiten direkt vor dem Haus."
-    },
-    {
-      "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
-      "answer": "Die Bushaltestelle \"Grünheider Weg\" der Linie 161, die die S-Bahnhöfe Rahnsdorf, Wilhelmshagen und Erkner bedient, befindet sich unweit der Praxis."
-    }
-  ]
+  "faq": []
 }

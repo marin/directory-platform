@@ -3,7 +3,7 @@
   "slug": "akupunktur-praxis-anja-auster",
   "name": "Akupunktur Praxis Anja Auster",
   "description": "Die Akupunktur Praxis Anja Auster in Berlin bietet eine umfassende Behandlung nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM). Hier werden individuelle Therapien, einschließlich Akupunktur, Kräuterheilkunde und chinesischer Diätetik, zur Förderung der Gesundheit und des Wohlbefindens eingesetzt. Die Praxis legt großen Wert auf eine ganzheitliche Betrachtung des Patienten und die Wiederherstellung des Gleichgewichts von Yin und Yang.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wünsdorfer Str. 107",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "akupunktur.auster@gmail.com",
   "website": "https://akupunkturpraxis-auster.de/",
   "bookingUrl": "mailto: akupunktur.auster@gmail.com \"",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm-tOMNRFqEcRZt2skt1Omak",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -41,27 +45,8 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Behandlungen werden in der Akupunktur Praxis Anja Auster angeboten?",
-      "answer": "In der Akupunktur Praxis Anja Auster werden verschiedene Behandlungen der Traditionellen Chinesischen Medizin (TCM) angeboten, darunter Akupunktur, chinesische Kräutertherapie und chinesische Diätetik."
-    },
-    {
-      "question": "Wo befindet sich die Akupunktur Praxis Anja Auster?",
-      "answer": "Die Akupunktur Praxis Anja Auster befindet sich in der Wünsdorfer Str. 107, 12307 Berlin, im Bezirk Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Akupunktur Praxis Anja Auster per E-Mail unter akupunktur.auster@gmail.com vereinbaren."
-    },
-    {
-      "question": "Welche Philosophie steckt hinter der Traditionellen Chinesischen Medizin?",
-      "answer": "Die Traditionelle Chinesische Medizin betrachtet den Menschen und seine Energie (Qi) als Ganzes. Sie zielt darauf ab, das Gleichgewicht von Yin und Yang zu erhalten, um Gesundheit zu fördern und Krankheiten vorzubeugen."
-    },
-    {
-      "question": "Bietet die Praxis auch andere Therapien neben Akupunktur an?",
-      "answer": "Ja, neben Akupunktur werden in der Praxis auch andere Therapien wie Neuraltherapie, Schröpfen, Kräuterbehandlungen und Gua Sha angeboten."
+      "question": "Wie läuft der Ersttermin in der Akupunktur Praxis Anja Auster ab?",
+      "answer": "Patienten werden individuell abgestimmt. Die geeignete Therapie für akute und chronische Erkrankungen wird durch ein ausführliches Gespräch, die Anamnese und eine Untersuchung festgelegt."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJm-tOMNRFqEcRZt2skt1Omak",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

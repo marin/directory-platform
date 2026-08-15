@@ -77,22 +77,5 @@
     "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/2.webp",
     "/images/entries/praxis-fur-chinesische-medizin-und-akupunktur-lynda-wieloch/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Praxis für Chinesische Medizin und Akupunktur an?",
-      "answer": "Die Praxis bietet Akupunktur, Chinesische Medizin, Ernährungsberatung sowie verschiedene Verfahren wie Kräutertherapie, Schröpfen, Gua Sha und Moxibustion an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags, dienstags und mittwochs von 10:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Lynda Wieloch?",
-      "answer": "Die Praxis befindet sich in der Johanniterstraße 10, 10961 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "In welchen Bereichen kann ich Unterstützung in der Praxis erwarten?",
-      "answer": "Die Praxis bietet Unterstützung in Bereichen wie Gynäkologie und Kinderwunsch, Schmerzen aller Art sowie Magen- und Darmprobleme."
-    }
-  ]
+  "faq": []
 }

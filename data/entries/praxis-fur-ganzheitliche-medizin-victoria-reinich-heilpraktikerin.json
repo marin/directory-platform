@@ -138,24 +138,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet die Praxis für Ganzheitliche Medizin an?",
-      "answer": "Die Praxis bietet verschiedene ganzheitliche Behandlungsmethoden an, darunter Akupunktur, IV-Behandlungen, Phytotherapie (Kräutermedizin) und natürliche Heilmethoden."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung kann 20 bis 60 Minuten dauern."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin direkt über die Webseite der Praxis buchen: Termin buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag geöffnet, jeweils von 08:30 bis 17:30 Uhr."
-    },
-    {
-      "question": "Bietet die Praxis eine kostenlose Erstberatung an?",
-      "answer": "Ja, die Praxis bietet ein kostenloses Kennenlerngespräch an, das maximal 15 Minuten dauert und dazu dient, sich gegenseitig kennenzulernen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Ganzheitliche Medizin?",
-      "answer": "Die Praxis befindet sich in der Bennigsenstraße 13, 12159 Berlin, im Stadtteil Friedenau."
+      "question": "Kann ich die Behandlung selbst zahlen?",
+      "answer": "Ja, es wird eine Rechnung basierend auf der Gebührenordnung für Heilpraktiker ausgestellt."
     }
   ]
 }

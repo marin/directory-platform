@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-hp-amrita-choudhuri",
   "name": "Praxis für Naturheilkunde HP Amrita Choudhuri",
   "description": "Die Praxis für Naturheilkunde HP Amrita Choudhuri befindet sich in Berlin-Steglitz-Zehlendorf und bietet ein ganzheitliches Behandlungskonzept zur Verbesserung des Wohlbefindens. Im Mittelpunkt der Therapie stehen individuelle Anamnesen, die durch Anlitz- und Augendiagnose ergänzt werden. Das Angebot umfasst verschiedene naturheilkundliche Verfahren wie Homöopathie, Bachblütentherapie und Ohrakupunktur.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Tietjenstraße 38",
     "locality": "Berlin",
@@ -80,24 +81,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Praxis für Naturheilkunde HP Amrita Choudhuri an?",
-      "answer": "Die Praxis bietet eine Vielzahl von Therapien an, darunter Homöopathie, Bachblütentherapie, Therapie nach Dr. Schüßler, Aufstellungsarbeit, Leibarbeit, Bewegungs- und Körperarbeit, Ohrakupunktur und Gesprächstherapie."
+      "question": "Was passiert beim Ersttermin in der Praxis für Naturheilkunde HP Amrita Choudhuri?",
+      "answer": "Am Anfang jeder Behandlung steht eine ausführliche Anamnese. Diese umfasst Anlitzdiagnostik, Augendiagnose und das Zuhören der von Ihnen beschriebenen Beschwerden."
     },
     {
-      "question": "Wie lange dauert eine homöopathische Erstanamnese und was kostet sie?",
-      "answer": "Eine homöopathische Erstanamnese dauert 2-3 Stunden und kostet 150€."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Was passiert, wenn ich einen Termin nicht wahrnehmen kann?",
-      "answer": "Wenn Sie einen Termin nicht wahrnehmen können, geben Sie bitte mindestens 24 Stunden vorher Bescheid. Andernfalls wird eine Gebühr von 25€ fällig."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin telefonisch unter 03070767007 oder über die Buchungsseite auf der Website http://www.hp-amrita.com/index.php?inhalt=6 buchen."
+      "question": "Wie lange dauert eine Sitzung in der Praxis?",
+      "answer": "Die erste Stunde kostet 60€ und jede weitere angefangene viertel Stunde 15€. Eine Breuss-Massage ist auf ca. 40 Minuten ausgelegt."
     }
   ]
 }

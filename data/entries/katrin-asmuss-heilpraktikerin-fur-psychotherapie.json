@@ -3,7 +3,7 @@
   "slug": "katrin-asmuss-heilpraktikerin-fur-psychotherapie",
   "name": "Katrin Asmuß, Heilpraktikerin für Psychotherapie",
   "description": "Katrin Asmuß ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Adlershof. Sie bietet psychotherapeutische Behandlungen und Coaching an, die auch per Videosprechstunde möglich sind. Ihre Praxis verfolgt einen ganzheitlichen Ansatz, der Elemente der Naturheilkunde integriert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Waldstraße 42",
     "locality": "Berlin",
@@ -40,26 +41,5 @@
     "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/2.webp",
     "/images/entries/katrin-asmuss-heilpraktikerin-fur-psychotherapie/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis von Katrin Asmuß?",
-      "answer": "Die Heilpraxis von Katrin Asmuß befindet sich in der Waldstraße 42, 12489 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Katrin Asmuß an?",
-      "answer": "Katrin Asmuß bietet Psychotherapie und Coaching an, auch in Form von Videosprechstunden."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Katrin Asmuß buchen?",
-      "answer": "Sie können einen Termin bei Katrin Asmuß über die Buchungsseite unter https://katrinasmuss.wordpress.com/kontakt/ buchen."
-    },
-    {
-      "question": "Wie kann ich Katrin Asmuß kontaktieren?",
-      "answer": "Sie können Katrin Asmuß telefonisch unter 015115766322 erreichen."
-    },
-    {
-      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
-      "answer": "Im Moment sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

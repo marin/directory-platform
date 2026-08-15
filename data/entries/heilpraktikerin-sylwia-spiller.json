@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-sylwia-spiller",
   "name": "Heilpraktikerin Sylwia Spiller",
   "description": "Heilpraktikerin Sylwia Spiller bietet in ihrer Praxis für Naturheilkunde in Berlin-Steglitz-Zehlendorf individuelle und ganzheitliche Behandlungsmethoden an. Ihr Ansatz zielt darauf ab, Körper, Geist und Seele in Einklang zu bringen und die Selbstheilungskräfte zu aktivieren. Zu den angebotenen Leistungen gehören unter anderem Ohrakupunktur, Infusionen und Injektionen sowie Reflexzonentherapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Riemeisterstraße 39 a",
     "locality": "Berlin",
@@ -57,26 +58,5 @@
   "images": [
     "/images/entries/heilpraktikerin-sylwia-spiller/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Leistungen bietet Heilpraktikerin Sylwia Spiller an?",
-      "answer": "Heilpraktikerin Sylwia Spiller bietet unter anderem Ohrakupunktur, Infusionen & Injektionen sowie Reflexzonentherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sylwia Spiller?",
-      "answer": "Die Praxis befindet sich in der Riemeisterstraße 39 a, 14169 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Sylwia Spiller vereinbaren?",
-      "answer": "Sie können einen Termin über die Website heilpraxis-spiller.de vereinbaren."
-    },
-    {
-      "question": "Wann hat die Praxis von Sylwia Spiller geöffnet?",
-      "answer": "Die Praxis hat dienstags und mittwochs von 13:00 bis 19:00 Uhr sowie freitags und samstags von 08:30 bis 14:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Sylwia Spiller kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Sylwia Spiller telefonisch unter 015560759736 erreichen."
-    }
-  ]
+  "faq": []
 }

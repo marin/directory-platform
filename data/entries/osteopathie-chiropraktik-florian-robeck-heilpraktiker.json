@@ -3,7 +3,7 @@
   "slug": "osteopathie-chiropraktik-florian-robeck-heilpraktiker",
   "name": "Osteopathie & Chiropraktik - Florian Robeck (Heilpraktiker)",
   "description": "Florian Robeck ist Heilpraktiker mit Schwerpunkt auf Osteopathie und Chiropraktik in Berlin-Charlottenburg. In seiner Praxis bietet er individuelle naturheilkundliche Behandlungen an, die auf die Bedürfnisse seiner Patienten abgestimmt sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Clausewitzstraße 2",
     "locality": "Berlin",
@@ -72,26 +73,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Florian Robeck an?",
-      "answer": "Florian Robeck bietet Behandlungen in den Bereichen Osteopathie und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Florian Robeck?",
-      "answer": "Die Praxis befindet sich in der Clausewitzstraße 2, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Florian Robeck buchen?",
-      "answer": "Sie können einen Termin über die Website https://www.praxis-robeck.de/ oder direkt über diesen Link buchen: https://www.doctolib.de/osteopath/berlin/florian-robeck."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag von 08:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 15:00 Uhr, Donnerstag von 16:00 bis 20:00 Uhr, Freitag von 08:00 bis 16:00 Uhr und Samstag von 10:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Florian Robeck kontaktieren?",
-      "answer": "Sie können Florian Robeck telefonisch unter 015561097799 oder per E-Mail an ocflorian.robeck@gmail.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

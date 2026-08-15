@@ -3,7 +3,7 @@
   "slug": "ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker",
   "name": "ANANDA Therapiezentrum (Physiotherapie Ergotherapie Logopädie Heilpraktiker)",
   "description": "Das ANANDA Therapiezentrum in Berlin bietet ein umfassendes Spektrum an naturheilkundlichen Behandlungen, darunter Physiotherapie, Ergotherapie und Logopädie. In einer interdisziplinären Praxisgemeinschaft arbeiten erfahrene Therapeuten zusammen, um individuelle Gesundheitslösungen zu entwickeln. Das Zentrum legt großen Wert auf ganzheitliche Ansätze und die Förderung des Wohlbefindens seiner Patienten. Für eine persönliche Behandlung wird um vorherige Terminvereinbarung gebeten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Erdgeschoss links",
     "locality": "Berlin",
@@ -66,26 +67,5 @@
   "images": [
     "/images/entries/ananda-therapiezentrum-physiotherapie-ergotherapie-logopadie-heilpraktiker/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet das ANANDA Therapiezentrum an?",
-      "answer": "Das ANANDA Therapiezentrum bietet Physiotherapie, Ergotherapie, Logopädie und Heilpraktiker-Dienstleistungen an."
-    },
-    {
-      "question": "Wie kann ich einen Termin im ANANDA Therapiezentrum vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030-66625452 oder per E-Mail an atz@gmail.com vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten des ANANDA Therapiezentrums?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag von 08:00 bis 16:00 Uhr und am Freitag von 11:00 bis 12:30 Uhr."
-    },
-    {
-      "question": "Wo befindet sich das ANANDA Therapiezentrum?",
-      "answer": "Das ANANDA Therapiezentrum befindet sich in der Teterower Str. 7, 12359 Berlin - Neukölln."
-    },
-    {
-      "question": "Wie erreiche ich das ANANDA Therapiezentrum mit öffentlichen Verkehrsmitteln?",
-      "answer": "Das ANANDA Therapiezentrum ist 50 Meter von der U7 Blaschkoallee entfernt."
-    }
-  ]
+  "faq": []
 }

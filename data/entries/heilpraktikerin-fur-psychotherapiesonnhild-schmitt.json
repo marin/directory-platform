@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapiesonnhild-schmitt",
   "name": "Heilpraktikerin für PsychotherapieSonnhild Schmitt",
   "description": "Heilpraktikerin für Psychotherapie Sonnhild Schmitt bietet in Berlin-Spandau Unterstützung bei psychischen Konflikten im Alltag, in der Partnerschaft und im Beruf. Ihr Ansatz basiert auf individueller Beratung und der Entwicklung maßgeschneiderter Behandlungskonzepte, um Klienten auf ihrem Weg zu mehr Zufriedenheit und Unabhängigkeit zu begleiten. Interessierte können ein kostenloses Informationsgespräch vereinbaren, um mehr über die angebotenen Leistungen zu erfahren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mittelstraße 16",
     "locality": "Berlin",
@@ -32,22 +33,5 @@
   "images": [
     "/images/entries/heilpraktikerin-fur-psychotherapiesonnhild-schmitt/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Sonnhild Schmitt?",
-      "answer": "Die Praxis befindet sich in der Mittelstraße 16, 13585 Berlin, Spandau."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Sonnhild Schmitt kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Sonnhild Schmitt telefonisch unter 03027015976 oder per E-Mail unter kontakt@hp-psych-spandau.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Sonnhild Schmitt an?",
-      "answer": "Sonnhild Schmitt bietet psychotherapeutische Unterstützung und individuelle Behandlungskonzepte an, um neue Perspektiven bei Konflikten im Alltag, in der Partnerschaft und im Beruf zu finden."
-    },
-    {
-      "question": "Gibt es die Möglichkeit, ein kostenloses Informationsgespräch zu vereinbaren?",
-      "answer": "Ja, Sie können einen Termin für ein kostenloses Informationsgespräch vereinbaren, um mehr über die angebotenen Dienstleistungen zu erfahren."
-    }
-  ]
+  "faq": []
 }

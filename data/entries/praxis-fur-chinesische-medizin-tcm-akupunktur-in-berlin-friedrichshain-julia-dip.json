@@ -3,7 +3,7 @@
   "slug": "praxis-fur-chinesische-medizin-tcm-akupunktur-in-berlin-friedrichshain-julia-dip",
   "name": "Praxis für Chinesische Medizin (TCM, Akupunktur) in Berlin Friedrichshain - Julia Dippl",
   "description": "Die Praxis für Chinesische Medizin (TCM, Akupunktur) in Berlin Friedrichshain, geleitet von Julia Dippl, bietet Frauen eine ganzheitliche Behandlung durch die Kombination traditioneller asiatischer Heilmethoden mit modernen medizinischen Erkenntnissen. Als Expertin für Traditionelle Chinesische Medizin und Japanische Akupunktur verfolgt sie das Ziel, individuelle und nachhaltige Behandlungserfolge zu erzielen. Die Praxis befindet sich in der Auerstraße 26 und legt besonderen Wert auf das Wohlbefinden ihrer Patientinnen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -13,6 +13,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Auerstraße 26",
     "locality": "Berlin",
@@ -60,26 +61,5 @@
   "images": [
     "/images/entries/praxis-fur-chinesische-medizin-tcm-akupunktur-in-berlin-friedrichshain-julia-dip/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Julia Dippl?",
-      "answer": "Die Praxis für Chinesische Medizin befindet sich in der Auerstraße 26, 10249 Berlin, Friedrichshain."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Julia Dippl an?",
-      "answer": "Julia Dippl bietet Behandlungsmethoden der Traditionellen Chinesischen Medizin (TCM), Japanischen Akupunktur sowie Ernährungsberatung und Naturheilkunde an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Praxis buchen, indem Sie die Website https://juliadippl.de/ besuchen oder die Telefonnummer 03098294875 anrufen."
-    },
-    {
-      "question": "Was ist das besondere an der Behandlung bei Julia Dippl?",
-      "answer": "Julia Dippl verbindet traditionelle asiatische Heilmethoden mit modernen medizinischen Erkenntnissen, um Frauen ganzheitlich zu behandeln."
-    }
-  ]
+  "faq": []
 }

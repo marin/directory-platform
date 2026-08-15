@@ -3,7 +3,7 @@
   "slug": "heike-rohl-heilpraktiker-praxisschwerpunkt-kinesiologie",
   "name": "Heike Röhl Heilpraktiker Praxisschwerpunkt Kinesiologie",
   "description": "Heike Röhl ist eine erfahrene Heilpraktikerin mit dem Schwerpunkt Kinesiologie, die seit fast 25 Jahren in Berlin tätig ist. In ihrer Praxis bietet sie verschiedene naturheilkundliche Therapien an, darunter die Klinghardt Methode, Dentosophie und Ozon-Sauerstofftherapie. Ihr Ansatz zielt darauf ab, die Ursachen von Symptomen zu identifizieren und die Selbstheilungskräfte der Patienten zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Nollendorfstraße 15",
     "locality": "Berlin",
@@ -129,24 +130,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Heike Röhl in ihrer Praxis an?",
-      "answer": "Heike Röhl bietet verschiedene Therapien an, darunter Kinesiologie (ART-Methode nach Dr. D. Klinghardt), Dentosophie, autonome Haltungsregulation (AHNF), Neuraltherapie und Ozon-Sauerstofftherapie."
+      "question": "Wie lange dauert eine Sitzung in der Kinesiologie?",
+      "answer": "Die Behandlungsdauer beträgt 1,5 Stunden."
     },
     {
-      "question": "Wie kann ich einen Termin bei Heike Röhl buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Heike Röhl buchen, indem Sie das Kontaktformular auf dieser Seite ausfüllen."
-    },
-    {
-      "question": "Wann hat die Praxis von Heike Röhl geöffnet?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag von 09:00 bis 18:30 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Heike Röhl?",
-      "answer": "Die Praxis befindet sich in der Nollendorfstraße 15, 10777 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich Heike Röhl telefonisch erreichen?",
-      "answer": "Sie können Heike Röhl unter der Telefonnummer 03063211957 erreichen."
+      "question": "Wie lange dauert die Behandlung für Kinder?",
+      "answer": "Für Kinder beträgt die Begleitungsdauer 12 Monate mit ca. 6-10 Terminen."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "sabine-schadow-osteopathie-psychosomatik-schoneberg",
   "name": "Sabine Schadow, Osteopathie & Psychosomatik Schöneberg",
   "description": "Sabine Schadow ist Heilpraktikerin mit Schwerpunkt auf Osteopathie und Psychosomatik in Berlin-Schöneberg. In ihrer Praxis bietet sie einen ganzheitlichen Ansatz zur Behandlung von Beschwerden, der das myofasziale System, die Organebene und das Nervensystem einbezieht. Sie begleitet Erwachsene in verschiedenen Lebenssituationen, darunter nach Unfällen oder bei chronischen Schmerzen, und legt Wert auf eine vertrauensvolle Beziehung zu ihren Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Akazienstraße 19",
     "locality": "Berlin",
@@ -62,26 +63,5 @@
     "/images/entries/sabine-schadow-osteopathie-psychosomatik-schoneberg/0.webp",
     "/images/entries/sabine-schadow-osteopathie-psychosomatik-schoneberg/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Leistungen bietet Sabine Schadow an?",
-      "answer": "Sabine Schadow bietet Osteopathie, Psychotherapie und Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Termine können über die Plattform Doctolib gebucht werden. Hier ist der Link zur Buchung: https://www.doctolib.de/einzelpraxis/berlin/praxis-fuer-osteopathie-und-psychosomatik."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sabine Schadow?",
-      "answer": "Die Praxis befindet sich in der Akazienstraße 19, 10823 Berlin, im Stadtteil Schöneberg."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Montag von 08:00 bis 13:00 Uhr, Donnerstag von 13:00 bis 20:00 Uhr und Freitag von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Sabine Schadow kontaktieren?",
-      "answer": "Sie können Sabine Schadow telefonisch unter 03020986355 oder per E-Mail an info@sabine-schadow.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

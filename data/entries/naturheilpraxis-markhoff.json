@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-markhoff",
   "name": "Naturheilpraxis Markhoff",
   "description": "Die Naturheilpraxis Markhoff in Berlin bietet eine ganzheitliche Betreuung durch Heilpraktikerin Mirjam Markhoff. In der Praxis werden verschiedene therapeutische Anwendungen, Massagen sowie Bewegungsprogramme und Ernährungsberatung angeboten, um die Gesundheit und das Wohlbefinden der Patienten zu fördern. Der Fokus liegt auf der Harmonisierung von körperlichem und seelischem Befinden, wobei individuelle Unterstützung auf dem Weg zur Gesundung und Vorbeugung im Vordergrund steht.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bugenhagenstraße 16",
     "locality": "Berlin",
@@ -25,6 +26,9 @@
   "phone": "017648314224",
   "email": "praxis@miriammarkhoff.de",
   "website": "http://miriammarkhoff.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_zQ2qQxRqEcRSJDTacoqFEw",
+  "googleMapsRating": 4.6,
+  "googleMapsRatingsCount": 18,
   "openingHours": [
     {
       "day": "Monday",
@@ -73,27 +77,8 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche therapeutischen Anwendungen bietet die Naturheilpraxis Markhoff an?",
-      "answer": "In der Naturheilpraxis Markhoff werden verschiedene therapeutische Anwendungen angeboten, darunter Craniosacrale Therapie, manuelle Lymphdrainage, Triggerpointbehandlung, Aromatherapie und Ohrakupunktur."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Markhoff?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Markhoff sind wie folgt: Montag von 12:00 bis 21:00 Uhr, Dienstag von 13:00 bis 21:00 Uhr, Mittwoch und Donnerstag von 09:00 bis 21:00 Uhr, und Freitag von 09:00 bis 13:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Markhoff?",
-      "answer": "Die Naturheilpraxis Markhoff befindet sich in der Bugenhagenstraße 16, 10551 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Markhoff vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Markhoff telefonisch unter 017648314224 oder per E-Mail an praxis@miriammarkhoff.de vereinbaren."
-    },
-    {
-      "question": "Welche Angebote zur Ernährung bietet die Naturheilpraxis Markhoff an?",
-      "answer": "Die Naturheilpraxis Markhoff bietet Ernährungsanamnese, Beratung und Analyse sowie Ernährungsprotokollanalyse und einen Ernährungsplan für eine Woche an. Zudem gibt es einen abgeschlossenen vierwöchigen Kurs zum gemeinsamen Abnehmen in der Gruppe."
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Es gibt Programme wie Faszientraining, Funktionsgymnastik, Pilates, Reha, Rückenfit und Wirbelsäulengymnastik. Zudem wird eine Ernährungsanamnese, Beratung und Analyse angeboten."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ_zQ2qQxRqEcRSJDTacoqFEw",
-  "googleMapsRating": 4.6,
-  "googleMapsRatingsCount": 18
+  ]
 }

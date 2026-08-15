@@ -3,7 +3,7 @@
   "slug": "praxis-susanne-dennert-gries-heilpraktikerin",
   "name": "Praxis Susanne Dennert-Gries Heilpraktikerin",
   "description": "Die Praxis Susanne Dennert-Gries in Berlin-Zehlendorf bietet umfassende naturheilkundliche Behandlungen an. Zu den Schwerpunkten der Praxis gehören Akupunktur, Guasha, Schröpfen sowie individuelle Diätetik und Massagen. Die Heilpraktikerin legt großen Wert auf eine ganzheitliche Behandlung und die Erreichung der Behandlungsziele in einem vertrauensvollen Umfeld.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gardeschützenweg 96",
     "locality": "Berlin",
@@ -72,22 +73,5 @@
     "/images/entries/praxis-susanne-dennert-gries-heilpraktikerin/3.webp",
     "/images/entries/praxis-susanne-dennert-gries-heilpraktikerin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Susanne Dennert-Gries?",
-      "answer": "Die Praxis befindet sich im Gardeschützenweg 96, 12203 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag geöffnet, jeweils von 08:30 bis 18:30 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01723803844 oder per E-Mail an info@heilpraxis-lichterfelde.com kontaktieren."
-    },
-    {
-      "question": "Welche Behandlungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet verschiedene naturheilkundliche Behandlungen an, darunter Akupunktur, Guasha, Schröpfen und Diätetik."
-    }
-  ]
+  "faq": []
 }

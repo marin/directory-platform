@@ -3,7 +3,7 @@
   "slug": "friedemann-vopel-heilpraktiker-fur-psychotherapie",
   "name": "♥️ Friedemann Vopel - Heilpraktiker für Psychotherapie",
   "description": "Friedemann Vopel ist Heilpraktiker für Psychotherapie in Berlin-Mitte und bietet einen geschützten Raum für persönliche Entwicklung. Seine Praxis richtet sich an Menschen, die an emotionalen Belastungen, Beziehungsthemen oder Lebenskrisen arbeiten möchten. Neben Psychotherapie werden auch Coaching-Angebote bereitgestellt, um individuelle Ziele zu erreichen und persönliche Herausforderungen zu meistern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Malplaquetstraße",
     "locality": "Berlin",
@@ -115,24 +116,20 @@
   ],
   "faq": [
     {
-      "question": "Wie schnell bekomme ich einen Termin bei Friedemann Vopel?",
-      "answer": "Oft innerhalb weniger Tage."
+      "question": "Wie läuft ein Ersttermin ab?",
+      "answer": "Eine kurze Nachricht genügt zur Kontaktaufnahme. Es gibt ein kostenfreies Erstgespräch von 40 Minuten, in dem Anliegen, Rahmen und Passung geklärt werden."
     },
     {
-      "question": "Was kostet eine Sitzung bei Friedemann Vopel?",
-      "answer": "Die Kosten für Psychotherapie betragen 120 € für 60 Minuten, mit einem begrenzten Sozialtarif von 95 €. Coaching kostet 140 € für 60 Minuten."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 60 Minuten."
     },
     {
-      "question": "Wo findet die Therapie statt?",
-      "answer": "Die Therapie ist online oder vor Ort in der Praxis möglich."
+      "question": "Wie funktioniert die Bezahlung?",
+      "answer": "Die Praxis richtet sich an Selbstzahler und arbeitet unabhängig von gesetzlichen Krankenkassen."
     },
     {
-      "question": "Bietet Friedemann Vopel auch Coaching an?",
-      "answer": "Ja, Friedemann Vopel bietet Coaching für Menschen an, die konkrete berufliche oder persönliche Ziele erreichen möchten."
-    },
-    {
-      "question": "Wie kann ich ein kostenfreies Erstgespräch vereinbaren?",
-      "answer": "Du kannst ein kostenfreies Erstgespräch über die Website von Friedemann Vopel unter https://friedemannvopel.de/kontakt/ vereinbaren."
+      "question": "In welchen Sprachen wird die Therapie angeboten?",
+      "answer": "Die Therapie wird auf Deutsch und Englisch angeboten."
     }
   ]
 }

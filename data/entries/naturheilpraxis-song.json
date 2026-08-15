@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-song",
   "name": "Naturheilpraxis Song",
   "description": "Die Naturheilpraxis Song in Berlin-Steglitz-Zehlendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Osteopathie, Homöopathie und Akupunktur nach TCM. Die Praxis legt Wert auf individuelle Therapieansätze und ganzheitliche Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Rotkehlchenweg 15b",
     "locality": "Berlin",
@@ -65,26 +66,5 @@
   "images": [
     "/images/entries/naturheilpraxis-song/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Song an?",
-      "answer": "Die Naturheilpraxis Song bietet Therapien in den Bereichen Osteopathie, Homöopathie, Akupunktur (TCM) und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Song?",
-      "answer": "Die Naturheilpraxis Song befindet sich im Rotkehlchenweg 15b, 12351 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie lauten die Öffnungszeiten der Naturheilpraxis Song?",
-      "answer": "Die Öffnungszeiten sind Montag und Mittwoch von 11:00 bis 17:00 Uhr sowie Freitag von 11:15 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Song buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Song über die Buchungsseite unter https://www.timify.com/de-de/profile/naturheilpraxis-song/ buchen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Song kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Song telefonisch unter 0306610006 erreichen."
-    }
-  ]
+  "faq": []
 }

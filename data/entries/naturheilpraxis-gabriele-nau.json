@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-gabriele-nau",
   "name": "Naturheilpraxis Gabriele Nau",
   "description": "Die Naturheilpraxis Gabriele Nau in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Reiki, Akupunktur, Ohrkerzen-Behandlungen und Homöopathie. Als erfahrene Reiki-Meisterin und Heilpraktikerin legt Gabriele Nau besonderen Wert auf ganzheitliche Heilmethoden, die Körper und Geist in Einklang bringen. Die Praxis befindet sich in der Zoppoter Straße 7 und ist darauf ausgerichtet, Patienten in ihrer Gesundheit und ihrem Wohlbefinden zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Zoppoter Str. 7",
     "locality": "Berlin",
@@ -58,26 +59,5 @@
     "/images/entries/naturheilpraxis-gabriele-nau/3.webp",
     "/images/entries/naturheilpraxis-gabriele-nau/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Gabriele Nau an?",
-      "answer": "Die Naturheilpraxis Gabriele Nau bietet Behandlungen in den Bereichen Reiki, Akupunktur, Ohrkerzen-Behandlung und Homöopathie an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Gabriele Nau?",
-      "answer": "Die Naturheilpraxis Gabriele Nau befindet sich in der Zoppoter Str. 7, 14199 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Gabriele Nau kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Gabriele Nau telefonisch unter 0302143458 oder per E-Mail an reiki.nau@t-online.de kontaktieren."
-    },
-    {
-      "question": "Was ist Reiki und wie funktioniert es?",
-      "answer": "Reiki ist eine alte Heilkunst, die mit Lebensenergie arbeitet. Es sorgt für Entspannung und stellt dem Körper neue Lebenskraft zur Verfügung."
-    },
-    {
-      "question": "Was ist Ohrakupunktur und welche Vorteile hat sie?",
-      "answer": "Ohrakupunktur ist eine Reflexzonentherapie, die sehr wirksam ist und keine Nebenwirkungen erzeugt. Sie kann schnell und präzise in der Notfallmedizin, z.B. bei Schmerzbehandlung, eingesetzt werden."
-    }
-  ]
+  "faq": []
 }

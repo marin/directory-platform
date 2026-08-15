@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-werden",
   "name": "Heilpraktiker Werden",
   "description": "Heilpraktiker Werden in Berlin bietet umfassende Unterstützung für angehende Heilpraktiker. Die Praxis legt besonderen Wert auf die Aus- und Weiterbildung ihrer Mitglieder und stellt kostenlose Prüfungsfragen sowie Originalprüfungsfragen der letzten fünf Jahre zur Verfügung. Ziel ist es, die berufliche Selbstständigkeit zu fördern und die Interessen der Heilpraktiker zu stärken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Anton-Wilhelm-Amo-Straße 18",
     "locality": "Berlin",
@@ -67,22 +68,5 @@
   "images": [
     "/images/entries/heilpraktiker-werden/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Heilpraktiker Werden an?",
-      "answer": "Heilpraktiker Werden bietet verschiedene Dienstleistungen an, darunter Unterstützung von der Ausbildung in die Selbstständigkeit, kostenlose Prüfungsfragen für angehende Heilpraktiker, sowie Original Prüfungsfragen der letzten 5 Jahre."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten von Heilpraktiker Werden?",
-      "answer": "Die Öffnungszeiten von Heilpraktiker Werden sind Montag bis Donnerstag von 09:00 bis 16:00 Uhr und Freitag von 09:00 bis 13:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich Heilpraktiker Werden?",
-      "answer": "Heilpraktiker Werden befindet sich in der Anton-Wilhelm-Amo-Straße 18, 10117 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich Heilpraktiker Werden kontaktieren?",
-      "answer": "Sie können Heilpraktiker Werden telefonisch unter 0307668375112 erreichen oder die Website http://heilpraktiker-werden.org/ besuchen."
-    }
-  ]
+  "faq": []
 }

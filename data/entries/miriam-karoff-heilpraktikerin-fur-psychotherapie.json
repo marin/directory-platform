@@ -117,26 +117,5 @@
   "images": [
     "/images/entries/miriam-karoff-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieverfahren bietet Miriam Karoff an?",
-      "answer": "Miriam Karoff bietet verschiedene Therapieverfahren an, darunter Traumatherapie, klientenzentrierte Therapie, ressourcenorientierte Psychotherapie, EMDR (Eye Movement Desensitization and Reprocessing) und psychologische Unterstützung im Sport."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Miriam Karoff buchen?",
-      "answer": "Sie können einen Termin bei Miriam Karoff über die Buchungsseite auf ihrer Website buchen: https://hp-psychotherapie-karoff.de/praxis-kontakt."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis von Miriam Karoff?",
-      "answer": "Die Praxis von Miriam Karoff hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "In welchem Bereich bietet Miriam Karoff ihre Dienstleistungen an?",
-      "answer": "Miriam Karoff bietet ihre Dienstleistungen in der Psychotherapie und Naturheilkunde an, speziell in Berlin, im Stadtteil Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich Miriam Karoff kontaktieren?",
-      "answer": "Sie können Miriam Karoff telefonisch unter 017645623874 oder per E-Mail an miriam.karoff@hp-psychotherapie-karoff.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

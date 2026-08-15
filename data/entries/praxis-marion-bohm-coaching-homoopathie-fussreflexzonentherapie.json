@@ -3,7 +3,7 @@
   "slug": "praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie",
   "name": "Praxis Marion Böhm - Coaching, Homöopathie & Fußreflexzonentherapie",
   "description": "In der Praxis Marion Böhm in Berlin-Charlottenburg werden Coaching, klassische Homöopathie und Fußreflexzonentherapie angeboten. Die Heilpraktikerin Marion Böhm behandelt sowohl Kinder als auch Erwachsene bei akuten und chronischen Erkrankungen und legt besonderen Wert auf eine sanfte, nebenwirkungsfreie Therapie. Neben persönlichen Beratungen sind auch homöopathische Sitzungen via Zoom möglich, um eine flexible Betreuung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pestalozzistraße 99",
     "locality": "Berlin",
@@ -69,26 +70,5 @@
     "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/3.webp",
     "/images/entries/praxis-marion-bohm-coaching-homoopathie-fussreflexzonentherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis Marion Böhm an?",
-      "answer": "Die Praxis Marion Böhm bietet Coaching, Homöopathie und Fußreflexzonentherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Marion Böhm?",
-      "answer": "Die Praxis befindet sich in der Pestalozzistraße 99, 10625 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Bietet die Praxis auch Online-Sitzungen an?",
-      "answer": "Ja, die Praxis bietet homöopathische Beratungen sowohl in der Praxis als auch als Zoom-Sitzungen an."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03023180255 oder per E-Mail an info@marion-boehm.de vereinbaren."
-    }
-  ]
+  "faq": []
 }

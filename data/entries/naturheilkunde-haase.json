@@ -3,7 +3,7 @@
   "slug": "naturheilkunde-haase",
   "name": "Naturheilkunde-Haase",
   "description": "Naturheilkunde-Haase in Berlin-Pankow bietet eine umfassende Betreuung durch Heilpraktiker Volker Haase, der auf 25 Jahre Erfahrung im Bereich der Traditionellen Chinesischen Medizin (TCM) und Naturheilkunde zurückblickt. Die Praxis verfolgt einen ganzheitlichen Ansatz, der moderne Erkenntnisse mit bewährten Methoden kombiniert, um das Wohlbefinden der Patienten zu fördern. Zu den angebotenen Therapien zählen Akupunktur, Neuro-Training, Infusionen sowie Beratungs- und Coaching-Dienstleistungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pestalozzistraße 12",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
     "/images/entries/naturheilkunde-haase/2.webp",
     "/images/entries/naturheilkunde-haase/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Naturheilkunde-Haase an?",
-      "answer": "Naturheilkunde-Haase bietet Therapien in der Traditionellen Chinesischen Medizin (TCM), Neuro-Training®, Infusionen sowie Beratung und Coaching an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten von Naturheilkunde-Haase?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 09:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Naturheilkunde-Haase buchen?",
-      "answer": "Sie können einen Termin direkt über die Website buchen: https://www.naturheilkunde-haase.de/."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Naturheilkunde-Haase?",
-      "answer": "Die Praxis befindet sich in der Pestalozzistraße 12, 13187 Berlin."
-    },
-    {
-      "question": "Wie kann ich Naturheilkunde-Haase kontaktieren?",
-      "answer": "Sie können Naturheilkunde-Haase telefonisch unter 01799738292 oder per E-Mail an info@naturheilkunde-haase.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

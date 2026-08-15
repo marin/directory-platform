@@ -3,7 +3,7 @@
   "slug": "guido-paul-zorner-praxis-fur-kybernetische-medizin",
   "name": "Guido Paul Zörner - Praxis für kybernetische Medizin",
   "description": "Guido Paul Zörner betreibt eine Praxis für kybernetische Medizin in Berlin-Charlottenburg, die sich auf Osteopathie, Akupunktur nach Traditioneller Chinesischer Medizin und Hypnose spezialisiert hat. Neben der Behandlung von Schmerzen und chronischen Erschöpfungszuständen bietet er auch sportmedizinische Leistungen an, die auf Prävention, Rehabilitation und Leistungsoptimierung abzielen. Als lizenzierter Fachübungsleiter leitet er Rehasportgruppen und kombiniert medizinische Ansätze mit sporttherapeutischen Programmen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dernburgstr. 59",
     "locality": "Berlin",
@@ -83,26 +84,5 @@
     "/images/entries/guido-paul-zorner-praxis-fur-kybernetische-medizin/3.webp",
     "/images/entries/guido-paul-zorner-praxis-fur-kybernetische-medizin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Guido Paul Zörner in seiner Praxis an?",
-      "answer": "Guido Paul Zörner bietet in seiner Praxis Osteopathie, Akupunktur, Hypnose und Sportmedizin an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Guido Paul Zörner?",
-      "answer": "Die Praxis befindet sich in der Dernburgstr. 59, 14057 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind wie folgt: Montag von 09:00 bis 18:00 Uhr, Dienstag von 09:00 bis 13:00 Uhr, Mittwoch von 14:00 bis 20:00 Uhr, Donnerstag von 09:00 bis 18:00 Uhr und Freitag von 09:00 bis 13:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link buchen: https://www.doctolib.de/osteopath/berlin/guido-paul-zoerner?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Wie kann ich Guido Paul Zörner kontaktieren?",
-      "answer": "Sie können Guido Paul Zörner telefonisch unter 03081816111 oder per E-Mail an join@cybernetic.life kontaktieren."
-    }
-  ]
+  "faq": []
 }

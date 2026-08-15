@@ -3,7 +3,7 @@
   "slug": "kerstin-loss-heilpraktikerin",
   "name": "Kerstin Loss, Heilpraktikerin",
   "description": "Mit der Umstellung auf gesunde Ernährung allein ist es nicht getan. Unser Körper freut sich darüber schon sehr, aber es braucht schon noch ein wenig mehr, um sein Gewicht zu reduzieren und fit und vital den Alltag und das Alter zu erleben. Ganz massgeblich trägt regelmäßige Bewegung dazu bei, seinen Allgemeinzustand zu optimieren. Hier werden die gespeicherten Fette verbrannt, der Kreislauf in Schwung gebracht und obendrauf bekommt auch Ihre Laune einen Stups, da Bewegung auch in unserem Gehirn begrüßt wird.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kavalierstraße 21",
     "locality": "Berlin",
@@ -63,5 +64,14 @@
     "/images/entries/kerstin-loss-heilpraktikerin/3.webp",
     "/images/entries/kerstin-loss-heilpraktikerin/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie läuft der Ersttermin bei Kerstin Loss ab?",
+      "answer": "Im Ersttermin erfolgt eine ausführliche Anamnese. Gemeinsam mit dem Patienten wird entschieden, welchen Weg man zusammen gehen möchte und welches Ziel erreicht werden soll."
+    },
+    {
+      "question": "Bietet Kerstin Loss Behandlungen für Kinder an?",
+      "answer": "Ja, Kerstin Loss macht Hausbesuche bei Familien übergewichtiger Kinder und steht Menschen mit Rat und Tat zur Seite, wenn es um gesunde Ernährung geht."
+    }
+  ]
 }

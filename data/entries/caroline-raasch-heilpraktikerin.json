@@ -3,7 +3,7 @@
   "slug": "caroline-raasch-heilpraktikerin",
   "name": "Caroline Raasch Heilpraktikerin",
   "description": "Caroline Raasch ist Heilpraktikerin mit einer Praxis für Naturheilkunde in Berlin-Steglitz-Zehlendorf. Ihr Ansatz kombiniert Elemente der Astrologie und Homöopathie, um die Ganzheitlichkeit des Menschen zu fördern. Die Praxis befindet sich im HAUS UNVERDORBEN und bietet einen Raum für individuelle Beratung und Therapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "HAUS UNVERDORBEN",
     "locality": "Berlin",
@@ -33,22 +34,5 @@
     "/images/entries/caroline-raasch-heilpraktikerin/0.webp",
     "/images/entries/caroline-raasch-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Caroline Raasch?",
-      "answer": "Die Praxis von Caroline Raasch befindet sich in der Straße HAUS UNVERDORBEN, 12207 Berlin, im Bezirk Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Caroline Raasch an?",
-      "answer": "Caroline Raasch bietet Dienstleistungen in den Bereichen Astrologie und Homöopathie an."
-    },
-    {
-      "question": "Wie kann ich Caroline Raasch kontaktieren?",
-      "answer": "Sie können Caroline Raasch telefonisch unter der Nummer 03084724739 erreichen oder ihre Website unter http://www.caroline-raasch.de/ besuchen."
-    },
-    {
-      "question": "Hat die Praxis von Caroline Raasch spezielle Öffnungszeiten?",
-      "answer": "Im Kontext sind keine speziellen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

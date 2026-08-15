@@ -3,7 +3,7 @@
   "slug": "physiotherapie-naturheilkunde-melanie-ehegartner",
   "name": "Physiotherapie & Naturheilkunde | Melanie Ehegartner",
   "description": "Du bist unter 16 Jahre alt? Dann kannst du nicht in optionale Services einwilligen. Du kannst deine Eltern oder Erziehungsberechtigten bitten, mit dir in diese Services einzuwilligen. Mit über 10 Jahren Erfahrung in der Physiotherapie habe ich mich auf verschiedene Behandlungsmethoden spezialisiert, darunter Krankengymnastik, manuelle Lymphdrainage und Triggerpunkttherapie. Jeder Schmerz und jede Verspannung sind einzigartig, und ich betrachte den ganzen Menschen, um die bestmögliche Therapie zu bieten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bornimer Str. 6",
     "locality": "Berlin",
@@ -98,5 +99,10 @@
     "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/3.webp",
     "/images/entries/physiotherapie-naturheilkunde-melanie-ehegartner/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Wie war der Ersttermin bei Melanie Ehegartner?",
+      "answer": "Ich hatte von meinen vorherigen Behandlungen bei Physiotherapeuten nie wirklich eine Verbesserung verspürt. Bei Melanie hingegen, merkte ich schon nach dem ersten Termin eine DEUTLICHE Verbesserung. Die Behandlung selbst war angenehm und selten schmerzhaft."
+    }
+  ]
 }

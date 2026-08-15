@@ -3,7 +3,7 @@
   "slug": "victualis-naturheilpraxis-heilpraktikerin-anne-becker",
   "name": "Victualis Naturheilpraxis - Heilpraktikerin Anne Becker",
   "description": "Die Victualis Naturheilpraxis in Berlin-Schöneberg wird von Heilpraktikerin Anne Becker geleitet. Nach 12 Jahren engagierter Tätigkeit hat sie sich eine kreative Pause gegönnt, um neue Projekte zu entwickeln. Die Praxis bleibt vorerst geschlossen, und es sind keine Termine buchbar. Die Webseite dient lediglich der Information.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hauptstraße 121",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "email": "info@victualis-naturheilpraxis.de",
   "website": "https://www.victualis-naturheilpraxis.de/",
   "bookingUrl": "https://www.doctolib.de/einzelpraxis/berlin/becker-anne?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCTo2PWpQqEcR8kXJW-lev-s",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 6,
   "openingHours": [
     {
       "day": "Monday",
@@ -60,25 +64,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Victualis Naturheilpraxis?",
-      "answer": "Die Victualis Naturheilpraxis befindet sich in der Hauptstraße 121, 10827 Berlin, im Stadtteil Schöneberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Anne Becker buchen?",
-      "answer": "Derzeit sind keine Termine buchbar, da die Praxis auf Weiteres geschlossen ist. Die Internetseite dient nur der Information."
-    },
-    {
-      "question": "Wie kann ich die Victualis Naturheilpraxis kontaktieren?",
-      "answer": "Sie können die Victualis Naturheilpraxis telefonisch unter 03058884081 oder per E-Mail an info@victualis-naturheilpraxis.de kontaktieren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Öffnungszeiten der Praxis sind wie folgt: Montag von 07:30 bis 14:30, Dienstag von 09:00 bis 14:30, Mittwoch von 09:00 bis 14:30 und von 15:00 bis 21:15, Donnerstag von 07:30 bis 14:30 und Freitag von 09:00 bis 14:30."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCTo2PWpQqEcR8kXJW-lev-s",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 6
+  "faq": []
 }

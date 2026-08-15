@@ -3,7 +3,7 @@
   "slug": "marlies-zymara-heilpraktikerin",
   "name": "Marlies Zymara - Heilpraktikerin",
   "description": "Marlies Zymara ist eine erfahrene Heilpraktikerin in Berlin-Schöneberg, die sich auf ganzheitliche Heilmethoden spezialisiert hat. In ihrer Praxis in der Hauptstraße 58 bietet sie eine Vielzahl von Therapien an, die Körper, Geist und Seele ansprechen. Mit über 20 Jahren Erfahrung unterstützt sie ihre Patienten durch individuelle Beratung und verschiedene Heilverfahren, darunter Familienaufstellungen und systemorientierte Psychotherapie.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hauptstraße 58",
     "locality": "Berlin",
@@ -44,24 +45,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Marlies Zymara?",
-      "answer": "Die Praxis von Marlies Zymara befindet sich in der Hauptstraße 58, Berlin-Schöneberg, 10827 Berlin."
-    },
-    {
-      "question": "Wie kann ich Marlies Zymara kontaktieren?",
-      "answer": "Sie können Marlies Zymara telefonisch unter 03070074800 oder per E-Mail an marlies@heilpraktikerin-zymara.de kontaktieren."
-    },
-    {
-      "question": "Welche Heilmethoden bietet Marlies Zymara an?",
-      "answer": "Marlies Zymara bietet ganzheitliche Heilung an, einschließlich Familienaufstellungen und systemorientierter Psychotherapie."
-    },
-    {
-      "question": "Bietet Marlies Zymara auch telefonische Beratungen an?",
-      "answer": "Ja, Marlies Zymara bietet flexible telefonische Beratungen an, zusätzlich zu den persönlichen Terminen in der Praxis."
-    },
-    {
-      "question": "Wie lange praktiziert Marlies Zymara bereits?",
-      "answer": "Marlies Zymara praktiziert seit mehr als 20 Jahren in der Naturheilkunde."
+      "question": "Wie läuft der Ersttermin bei Marlies Zymara ab?",
+      "answer": "Ich berate Sie gerne ganz individuell und kostenlos bei einem kurzen Kennenlern- und Anamnesetermin, ob und welche Therapien für Ihre persönliche Situation sinnvoll sein können."
     }
   ]
 }

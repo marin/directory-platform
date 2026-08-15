@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-burghammer-heilpraktikerin",
   "name": "Naturheilpraxis Burghammer - Heilpraktikerin",
   "description": "Die Naturheilpraxis Burghammer in Berlin bietet eine Vielzahl von Therapie- und Beratungsmöglichkeiten im Bereich der Naturheilkunde an. Die Praxis legt Wert auf individuelle Betreuung und informiert ihre Patienten über verschiedene Themen und Fortbildungsmöglichkeiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Parkstraße 14",
     "locality": "Berlin",
@@ -34,18 +35,5 @@
     "/images/entries/naturheilpraxis-burghammer-heilpraktikerin/0.webp",
     "/images/entries/naturheilpraxis-burghammer-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Burghammer?",
-      "answer": "Die Naturheilpraxis Burghammer befindet sich in der Parkstraße 14, 13086 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Burghammer kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Burghammer telefonisch unter 03065835113 oder per E-Mail an info@denise-burghammer.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Burghammer an?",
-      "answer": "Die Naturheilpraxis Burghammer bietet Therapie- und Beratungsmöglichkeiten im Bereich der Naturheilkunde an."
-    }
-  ]
+  "faq": []
 }

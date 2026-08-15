@@ -3,7 +3,7 @@
   "slug": "marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald",
   "name": "Marta Steigerwald-Ihre Naturheilpraxis Charlottenburg Marta Steigerwald",
   "description": "Marta Steigerwald-Ihre Naturheilpraxis in Berlin-Charlottenburg ist auf medizinische Ästhetik und Anti Aging spezialisiert. Die mehrfach zertifizierte Expertin bietet ein breites Behandlungsspektrum, darunter Faltenunterspritzung, Kollagenaufbau, Fadenlifting und Microneedling. In der Praxis wird großer Wert auf individuelle Beratung und maßgeschneiderte Behandlungen gelegt, um den Patienten zu einem strahlenden Erscheinungsbild zu verhelfen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heerstraße 2",
     "locality": "Berlin",
@@ -66,22 +67,5 @@
     "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/2.webp",
     "/images/entries/marta-steigerwald-ihre-naturheilpraxis-charlottenburg-marta-steigerwald/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis von Marta Steigerwald an?",
-      "answer": "Die Praxis bietet ein breites Behandlungsspektrum im Bereich der medizinischen Ästhetik und Anti Aging an, darunter Faltenunterspritzung mit Hyaluronsäure, Vampirlifting, Fadenlifting, Kollagenaufbau und Microneedling."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Marta Steigerwald?",
-      "answer": "Die Praxis befindet sich in der Heerstraße 2, 14052 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 015233805057 oder per E-Mail an info@steigerwald-beauty.de kontaktieren."
-    },
-    {
-      "question": "Was sagen Kunden über die Behandlungen in der Praxis?",
-      "answer": "Kunden berichten von einer sehr netten und kompetenten Beratung sowie von positiven Behandlungsergebnissen, die sie in der Praxis erfahren haben."
-    }
-  ]
+  "faq": []
 }

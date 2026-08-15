@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz",
   "name": "Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz",
   "description": "Die Praxis für Osteopathie und Naturheilkunde in Berlin Steglitz, geleitet von Dagmar Duve, bietet ein umfassendes Behandlungsspektrum, das Osteopathie, Homöopathie und energetische Arbeit umfasst. Mit über 20 Jahren Erfahrung unterstützt die Heilpraktikerin ihre Patienten in der Stärkung der Selbstheilungskräfte und der Behandlung von physischen sowie psychischen Beschwerden. Die Praxis befindet sich in der Muthesiusstraße 14 und ist gut erreichbar.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Muthesiusstraße 14",
     "locality": "Berlin",
@@ -76,26 +77,5 @@
     "/images/entries/praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz/0.webp",
     "/images/entries/praxis-fur-osteopathie-und-naturheilkunde-in-berlin-steglitz/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis für Osteopathie und Naturheilkunde an?",
-      "answer": "Die Praxis bietet Osteopathie, Homöopathie, Energiearbeit sowie psychotherapeutische Unterstützung an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin direkt online über diesen Link buchen oder die Praxis telefonisch unter 03041990247 kontaktieren."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat montags und dienstags von 10:00 bis 19:00 Uhr, donnerstags von 10:00 bis 18:00 Uhr und freitags von 10:00 bis 15:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Muthesiusstraße 14, 12163 Berlin, im Stadtteil Steglitz."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03041990247 oder per E-Mail an info@praxis-duve.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

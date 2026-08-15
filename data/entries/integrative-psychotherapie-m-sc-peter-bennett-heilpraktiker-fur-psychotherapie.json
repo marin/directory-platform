@@ -3,7 +3,7 @@
   "slug": "integrative-psychotherapie-m-sc-peter-bennett-heilpraktiker-fur-psychotherapie",
   "name": "Integrative Psychotherapie - M.Sc Peter Bennett (Heilpraktiker für Psychotherapie)",
   "description": "Integrative Psychotherapie - M.Sc Peter Bennett bietet in Berlin eine individuelle und ganzheitliche psychotherapeutische Behandlung an. Der Ansatz kombiniert verschiedene therapeutische Schulen, darunter Verhaltenstherapie, systemische Therapie und Körperpsychotherapie, um auf die spezifischen Bedürfnisse der Klienten einzugehen. Die Praxis legt besonderen Wert auf die Verbindung zwischen Körper und Geist und nutzt Achtsamkeit sowie somatische Übungen, um ein tiefes Verständnis der eigenen Emotionen und Verhaltensweisen zu fördern. Sitzungen sind sowohl vor Ort in der Waisenstraße 28 als auch online möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Waisenstraße 28",
     "locality": "Berlin",
@@ -70,24 +71,20 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieansätze verwendet Peter Bennett in seiner Praxis?",
-      "answer": "Peter Bennett nutzt einen schulenübergreifenden Ansatz, der Verhaltenstherapie, Systemische Therapie, Tiefenpsychologie und Körperpsychotherapie umfasst."
+      "question": "Was kostet ein Erstgespräch bei Peter Bennett?",
+      "answer": "Das Erstgespräch kostet 50 € für 60 Minuten."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Sitzung bei Peter Bennett?",
-      "answer": "Die Kosten für die Sitzungen liegen zwischen 90 € und 120 € pro 60 Minuten, gestaffelt nach Einkommen. Das Erstgespräch kostet 50 € für 60 Minuten."
+      "question": "Wie lange dauert eine Sitzung bei Peter Bennett?",
+      "answer": "Eine Sitzung dauert 60 Minuten."
     },
     {
-      "question": "Wo befindet sich die Praxis von Peter Bennett?",
-      "answer": "Die Praxis befindet sich in der Waisenstraße 28, 10179 Berlin."
+      "question": "Wer übernimmt die Kosten für die Sitzungen?",
+      "answer": "Die Kosten werden nicht von den gesetzlichen Krankenkassen übernommen. Eine Erstattung durch private Kranken- oder Zusatzversicherungen ist je nach Tarif möglich."
     },
     {
-      "question": "Bietet Peter Bennett auch Online-Sitzungen an?",
-      "answer": "Ja, die Sitzungen können sowohl vor Ort in der Praxis als auch online stattfinden."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Peter Bennett vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie Peter Bennett per E-Mail unter peterbennett@berlinpsychotherapy.com oder telefonisch unter +49 (0) 176 380 70 203 kontaktieren."
+      "question": "In welchen Sprachen bietet Peter Bennett Psychotherapie an?",
+      "answer": "Peter Bennett bietet Psychotherapie-Sitzungen auf Englisch oder Deutsch an."
     }
   ]
 }

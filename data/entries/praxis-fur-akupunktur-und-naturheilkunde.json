@@ -3,7 +3,7 @@
   "slug": "praxis-fur-akupunktur-und-naturheilkunde",
   "name": "Praxis für Akupunktur und Naturheilkunde",
   "description": "Die Praxis für Akupunktur und Naturheilkunde von Andrea Hoffmann-Bliso befindet sich in Berlin-Pankow und bietet individuelle Therapieansätze, die auf einer ganzheitlichen Betrachtung des Patienten basieren. Durch präzise Anamnese sowie Puls- und Zungendiagnostik werden maßgeschneiderte Therapiekonzepte entwickelt. Die Praxis legt großen Wert auf ein offenes und einfühlsames Patientengespräch, um die gesundheitliche Situation umfassend zu erfassen und eine erfolgreiche Therapieplanung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bahnhofstraße 1",
     "locality": "Berlin",
@@ -57,24 +58,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Akupunktur und Naturheilkunde?",
-      "answer": "Die Praxis befindet sich in der Bahnhofstraße 1, 13125 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag jeweils von 09:00 bis 12:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03091142001 oder per E-Mail an info@akupunktur-karow.de erreichen."
-    },
-    {
-      "question": "Bietet die Praxis aktuell neue Patienten an?",
-      "answer": "Leider ist bis auf weiteres die Neuaufnahme von Patienten nicht möglich."
-    },
-    {
-      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden Akupunktur und Naturheilkunde angeboten, wobei ein individueller Therapieansatz für jeden Patienten entwickelt wird."
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Die Praxis betrachtet den Menschen in seiner Ganzheit und entwickelt für jeden Patienten ein individuell zugeschnittenes Therapiekonzept. Dies erfolgt durch genaue Anamnese, Puls- und Zungendiagnostik."
     }
   ]
 }

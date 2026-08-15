@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-am-ludwigkirchplatz-heilpraktiker-fur-psychotherapie",
   "name": "Praxis für Osteopathie am Ludwigkirchplatz & Heilpraktiker für Psychotherapie",
   "description": "In der Praxis für Osteopathie am Ludwigkirchplatz in Berlin bieten wir spezialisierte osteopathische Behandlungen für Babys, Kinder und Erwachsene an. Unser ganzheitlicher Ansatz betrachtet den Menschen als Einheit und zielt darauf ab, die natürliche Heilung des Körpers zu unterstützen sowie Beschwerden nachhaltig zu lindern. Neben osteopathischen Therapien bieten wir auch psychotherapeutische Beratung an, um das körperliche und emotionale Wohlbefinden unserer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pfalzburger Str. 81",
     "locality": "Berlin",
@@ -88,24 +89,20 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Praxis für Osteopathie am Ludwigkirchplatz an?",
-      "answer": "Die Praxis bietet spezialisierte osteopathische Behandlungen für Babys, Kinder und Erwachsene an, einschließlich ganzheitlicher Therapieansätze, Osteopathie für Erwachsene und Osteopathie für Babys."
+      "question": "Wie lange dauert der Ersttermin in der Praxis für Osteopathie am Ludwigkirchplatz?",
+      "answer": "Die Erstbehandlung dauert in der Regel 55-60 Minuten."
     },
     {
-      "question": "Wie lange dauert eine Erstbehandlung in der Praxis?",
-      "answer": "Die Erstbehandlung dauert in der Regel 55-60 Minuten und umfasst eine gründliche Anamnese sowie eine individuelle Behandlung."
+      "question": "Wie lange dauern die Folgebehandlungen?",
+      "answer": "Folgebehandlungen dauern jeweils 45 – 50 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03088778484 oder per E-Mail an osteopathie.jk@gmail.com vereinbaren."
+      "question": "Muss ich die Behandlung selbst bezahlen?",
+      "answer": "Die Behandlung mittels osteopathischer Techniken gehört der Komplementärmedizin an und ist eine Selbstzahlerleistung."
     },
     {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat Montag und Dienstag von 09:00 bis 15:00 Uhr, Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 09:00 bis 16:00 Uhr und Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Ersetzt die osteopathische Behandlung die Schulmedizin?",
-      "answer": "Die Behandlung mittels osteopathischer Techniken gehört zur Komplementärmedizin und ersetzt keine klassische Schulmedizin. Es handelt sich um eine Selbstzahlerleistung."
+      "question": "Bieten Sie Behandlungen für Kinder an?",
+      "answer": "Ja, es werden spezialisierte osteopathische Behandlungen für Babys, Kinder und Erwachsene angeboten."
     }
   ]
 }

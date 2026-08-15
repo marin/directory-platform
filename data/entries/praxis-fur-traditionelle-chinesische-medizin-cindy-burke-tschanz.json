@@ -64,26 +64,5 @@
   "images": [
     "/images/entries/praxis-fur-traditionelle-chinesische-medizin-cindy-burke-tschanz/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis für Traditionelle Chinesische Medizin von Cindy Burke-Tschanz?",
-      "answer": "Die Praxis befindet sich in der Nansenstraße 38, 12047 Berlin, im Reuterkiez in Neukölln."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet die Praxis an?",
-      "answer": "Die Praxis ist spezialisiert auf Traditionelle Chinesische Medizin (TCM), mit einem Schwerpunkt auf Akupunktur und Chinesischen Heilkräutern."
-    },
-    {
-      "question": "An welchen Tagen hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat am Dienstag, Mittwoch und Freitag von 08:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 015150820485 erreichen."
-    },
-    {
-      "question": "Welche Beschwerden können mit TCM behandelt werden?",
-      "answer": "Die TCM kann bei Verdauungsbeschwerden, Menstruationsstörungen, Hautproblemen, Allergien, Schmerzbehandlung, muskulären Verspannungen, seelisch-geistigen Verstimmungen, Schlafstörungen und vielen weiteren Beschwerden helfen."
-    }
-  ]
+  "faq": []
 }

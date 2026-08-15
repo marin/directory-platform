@@ -3,7 +3,7 @@
   "slug": "musik-und-naturheilpraxis-cordula-klotz",
   "name": "Musik- und Naturheilpraxis Cordula Klotz",
   "description": "Die Musik- und Naturheilpraxis Cordula Klotz in Berlin-Neukölln bietet eine vielfältige Vernetzung von Heilmethoden für Körper, Seele und Geist. Zu den angebotenen Therapien gehören Atemtherapie, Stimmtherapie, Musiktherapie, Meditation, Körperarbeit, Massage, Gestalttherapie und Resilienztraining. In einem kostenfreien Vorgespräch werden die individuellen Bedürfnisse und Ziele der Klienten berücksichtigt, um ein passendes Therapieangebot zu erstellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Weisestraße 4",
     "locality": "Berlin",
@@ -89,26 +90,5 @@
   "images": [
     "/images/entries/musik-und-naturheilpraxis-cordula-klotz/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Heilmethoden werden in der Musik- und Naturheilpraxis Cordula Klotz angeboten?",
-      "answer": "In der Praxis werden verschiedene Heilmethoden wie Atemtherapie, Stimmtherapie, Musiktherapie, Meditation, Körperarbeit, Massage, Gestalttherapie und Resilienztraining angeboten."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Du kannst einen Termin in der Praxis vereinbaren, indem du die Telefonnummer 015153756789 anrufst oder die Website http://www.musik-heil-praxis.de/ besuchst."
-    },
-    {
-      "question": "Wann hat die Musik- und Naturheilpraxis geöffnet?",
-      "answer": "Die Praxis hat von Montag bis Sonntag täglich von 10:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Bietet die Praxis ein kostenfreies Vorgespräch an?",
-      "answer": "Ja, in der Praxis wird ein kostenfreies Vorgespräch angeboten, um die verschiedenen Ansätze nach den Bedürfnissen und Zielen des Klienten zusammenzustellen."
-    },
-    {
-      "question": "Wo befindet sich die Musik- und Naturheilpraxis Cordula Klotz?",
-      "answer": "Die Praxis befindet sich in der Weisestraße 4, 12049 Berlin, im Stadtteil Neukölln."
-    }
-  ]
+  "faq": []
 }

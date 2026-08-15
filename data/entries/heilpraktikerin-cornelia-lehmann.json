@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-cornelia-lehmann",
   "name": "Heilpraktikerin Cornelia Lehmann",
   "description": "Heilpraktikerin Cornelia Lehmann bietet in ihrer Praxis in Berlin-Pankow individuelle, ganzheitliche Beratungen und Behandlungen an, die sich auf körperlich-seelische sowie geistig-spirituelle Entwicklungsprozesse konzentrieren. Ihre Methoden umfassen unter anderem Energiearbeit, Aromatherapie und die hermetische Weisheitslehre, um Klienten bei der Selbstveränderung und Heilung zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Uhlenweg 33",
     "locality": "Berlin",
@@ -44,26 +45,5 @@
     "/images/entries/heilpraktikerin-cornelia-lehmann/3.webp",
     "/images/entries/heilpraktikerin-cornelia-lehmann/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Heilpraktikerin Cornelia Lehmann an?",
-      "answer": "Cornelia Lehmann bietet individuelle, ganzheitliche Beratungen an, die sich auf körperlich-seelische und geistig-spirituelle Entwicklungsprozesse konzentrieren. Zu ihren Angeboten gehören unter anderem die hermetische Sichtweise, aromatherapeutische Massagen, neurologische Integration, Darmtherapie und energetische Körperheilarbeit."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Cornelia Lehmann?",
-      "answer": "Die Praxis von Heilpraktikerin Cornelia Lehmann befindet sich im Uhlenweg 33, 13125 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Cornelia Lehmann vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03024617132 oder per E-Mail an cornelialehmann@icloud.com vereinbaren."
-    },
-    {
-      "question": "Bietet Cornelia Lehmann auch Behandlungen über die Ferne an?",
-      "answer": "Ja, die Energiearbeit von Cornelia Lehmann wirkt auch über die Ferne, sodass es nicht zwingend notwendig ist, physisch anwesend zu sein."
-    },
-    {
-      "question": "Welche Philosophie verfolgt Cornelia Lehmann in ihrer Praxis?",
-      "answer": "Cornelia Lehmann verfolgt eine ganzheitliche und lösungsorientierte Philosophie, bei der sie als Übersetzerin für das individuelle Energiesystem ihrer Klienten agiert, um Energieungleichgewichte aufzudecken und Heilungsprozesse anzustoßen."
-    }
-  ]
+  "faq": []
 }

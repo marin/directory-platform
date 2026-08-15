@@ -3,7 +3,7 @@
   "slug": "herr-jean-francois-fraval",
   "name": "Herr Jean-François Fraval",
   "description": "Herr Jean-François Fraval ist Heilpraktiker in Berlin-Friedrichshain und bietet naturheilkundliche Therapien an, die auf einer ganzheitlichen Betrachtung des Menschen basieren. In seiner Praxis werden Patienten aktiv in den Heilungsprozess einbezogen, wobei sowohl präventive als auch kurative Ansätze verfolgt werden. Die Behandlung erfolgt in deutscher und französischer Sprache, um eine individuelle Betreuung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Waldeyerstraße 2",
     "locality": "Berlin",
@@ -36,24 +37,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Herrn Jean-François Fraval?",
-      "answer": "Die Praxis befindet sich in der Waldeyerstraße 2, 10247 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Welche Sprachen werden in der Praxis angeboten?",
-      "answer": "In der Praxis können die Behandlungen auf Deutsch und Französisch durchgeführt werden."
-    },
-    {
-      "question": "Wie kann ich Herrn Fraval kontaktieren?",
-      "answer": "Sie können Herrn Fraval telefonisch unter 01732176819 oder per E-Mail an info@heilpraktiker-fraval.de kontaktieren."
-    },
-    {
-      "question": "Was ist das Hauptanliegen von Herrn Fraval als Heilpraktiker?",
-      "answer": "Herr Fraval sieht seine Aufgabe sowohl auf der präventiven als auch kurativen Ebene und bezieht die Patienten aktiv in den Heilungsprozess ein."
-    },
-    {
-      "question": "Gibt es Öffnungszeiten für die Praxis von Herrn Fraval?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
+      "question": "In welchen Sprachen werden die Behandlungen angeboten?",
+      "answer": "Die Behandlung erfolgt in deutscher und französischer Sprache."
     }
   ]
 }

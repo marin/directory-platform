@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-korperpsychotherapie-und-coaching",
   "name": "Praxis für Osteopathie, Körperpsychotherapie und Coaching",
   "description": "Die Praxis für Osteopathie, Körperpsychotherapie und Coaching in Berlin-Lichterfelde wird von Susanne Hake geleitet. Sie bietet umfassende Behandlungen für körperliche, seelische und psychosomatische Beschwerden an. Neben Osteopathie und craniosacraler Therapie umfasst das Angebot auch integrative Körperpsychotherapie und Coaching, um Klient:innen auf ihrem Weg zu mehr Wohlbefinden zu unterstützen. Die Praxis ist Mitglied im Verband der Osteopathen Deutschland und bietet eine individuelle, einfühlsame Begleitung in einem vertrauensvollen Umfeld.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heinersdorfer Str. 3",
     "locality": "Berlin",
@@ -93,26 +94,5 @@
     "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/3.webp",
     "/images/entries/praxis-fur-osteopathie-korperpsychotherapie-und-coaching/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis für Osteopathie, Körperpsychotherapie und Coaching an?",
-      "answer": "Die Praxis bietet Osteopathie, craniosacrale Osteopathie, Körperpsychotherapie und Coaching an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Susanne Hake?",
-      "answer": "Die Praxis befindet sich in der Heinersdorfer Str. 3, Berlin, 12209."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat dienstags, mittwochs und donnerstags von 12:00 bis 19:00 Uhr sowie freitags von 12:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Susanne Hake kontaktieren?",
-      "answer": "Sie können Susanne Hake telefonisch unter 01726144020 oder per E-Mail an susanne@susannehake.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

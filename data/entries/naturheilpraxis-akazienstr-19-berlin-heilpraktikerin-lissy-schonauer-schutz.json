@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-akazienstr-19-berlin-heilpraktikerin-lissy-schonauer-schutz",
   "name": "Naturheilpraxis Akazienstr. 19 Berlin Heilpraktikerin Lissy Schonauer-Schütz",
   "description": "Die Naturheilpraxis Akazienstraße 19 in Berlin Schöneberg bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Akupunktur, Pflanzenheilkunde, Osteopathie und Fußreflexzonentherapie. Seit ihrer Gründung im Jahr 1996 arbeiten hier erfahrene Heilpraktikerinnen, die individuell auf die Bedürfnisse ihrer Patienten eingehen. Die Praxis legt großen Wert auf eine ganzheitliche Betreuung und bietet auch spezielle Behandlungen für Kinder sowie Schwangerschaftsbegleitungen an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Akazienstraße 19",
     "locality": "Berlin",
@@ -37,24 +38,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis Akazienstraße?",
-      "answer": "Die Naturheilpraxis Akazienstraße befindet sich in der Akazienstraße 19, 10823 Berlin, im Stadtteil Schöneberg."
-    },
-    {
-      "question": "Welche Behandlungsmethoden werden in der Naturheilpraxis angeboten?",
-      "answer": "In der Naturheilpraxis werden verschiedene Behandlungsmethoden angeboten, darunter Akupunktur, Pflanzenheilkunde, Osteopathie, Fußreflexzonentherapie, Kinesiotape und die Behandlung von Kindern."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
-      "answer": "Einen Termin in der Naturheilpraxis können Sie über die Buchungsseite auf der Webseite buchen: Termin buchen."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis telefonisch unter 0307813373 oder per E-Mail an info@naturheilpraxis-akazienstr.de kontaktieren."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis geöffnet?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis sind im Kontext nicht angegeben. Bitte kontaktieren Sie die Praxis direkt für Informationen zu den Öffnungszeiten."
+      "question": "Bietet die Praxis spezielle Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis bietet spezielle Behandlungen für Kinder sowie Schwangerschaftsbegleitungen an."
     }
   ]
 }

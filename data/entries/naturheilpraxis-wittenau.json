@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-wittenau",
   "name": "Naturheilpraxis Wittenau",
   "description": "Die Naturheilpraxis Wittenau in Berlin-Reinickendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter Homöopathie, Wirbelsäulentherapie nach Dorn und Pflanzenheilkunde. Zudem werden individuelles Fitnesstraining sowie Meditation und Achtsamkeitstraining angeboten. Die Praxis legt großen Wert auf die Stärkung des Immunsystems und ermöglicht Behandlungen auch online.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Engelroder Weg 3",
     "locality": "Berlin",
@@ -61,26 +62,5 @@
   "images": [
     "/images/entries/naturheilpraxis-wittenau/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Wittenau an?",
-      "answer": "Die Naturheilpraxis Wittenau bietet unter anderem Homöopathie, individuelles Fitnesstraining, Wirbelsäulentherapie nach Dorn, Bachblütentherapie, Meditation und Achtsamkeitstraining sowie Pflanzenheilkunde an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Wittenau?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Wittenau sind von Montag bis Freitag, jeweils von 10:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Wittenau?",
-      "answer": "Die Naturheilpraxis Wittenau befindet sich am Engelroder Weg 3, 13435 Berlin, im Stadtteil Reinickendorf."
-    },
-    {
-      "question": "Kann ich auch online Behandlungen in der Naturheilpraxis Wittenau erhalten?",
-      "answer": "Ja, Behandlungen und Sport sind zur Zeit auch online möglich in der Naturheilpraxis Wittenau."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Wittenau kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Wittenau telefonisch unter 03025584494 erreichen oder die Website unter http://www.naturheilpraxis-wittenau.de/ besuchen."
-    }
-  ]
+  "faq": []
 }

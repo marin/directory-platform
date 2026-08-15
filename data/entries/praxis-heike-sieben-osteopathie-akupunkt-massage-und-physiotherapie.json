@@ -141,24 +141,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Praxis Heike Sieben an?",
-      "answer": "Die Praxis Heike Sieben bietet Osteopathie, Akupunkt-Massage nach Penzel, Physiotherapie sowie Skoliose-Therapie an."
+      "question": "Bietet die Praxis Heike Sieben Behandlungen für Selbstzahler an?",
+      "answer": "Ja, die Praxis bietet Osteopathie und Akupunkt-Massage für Selbstzahler und Privatpatienten an."
     },
     {
-      "question": "Wo befindet sich die Praxis Heike Sieben?",
-      "answer": "Die Praxis befindet sich in der Alt-Tegel 16, 13507 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis Heike Sieben vereinbaren?",
-      "answer": "Termine können über die Webseite der Praxis unter https://www.physio-sieben.de/kontakt.php vereinbart werden."
-    },
-    {
-      "question": "Bietet die Praxis auch Notdienste an?",
-      "answer": "Ja, die Praxis bietet einen Notdienst an."
-    },
-    {
-      "question": "Wer ist die Inhaberin der Praxis?",
-      "answer": "Die Inhaberin der Praxis ist Heike Sieben."
+      "question": "Bietet die Praxis Heike Sieben Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis bietet spezialisierte Therapien wie die Skoliosetherapie nach Schroth an, die sowohl für Kinder als auch für Erwachsene geeignet ist."
     }
   ]
 }

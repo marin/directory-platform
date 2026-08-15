@@ -3,7 +3,7 @@
   "slug": "berit-julie-friz-supervision-aufstellungen-homoopathie",
   "name": "Berit Julie Friz | Supervision | Aufstellungen | Homöopathie",
   "description": "Berit Julie Friz bietet in ihrer Praxis in Berlin-Schöneberg eine ganzheitliche Behandlung, die Homöopathie, Supervision und systemische Aufstellungen umfasst. Sie unterstützt ihre Klienten dabei, psychische und körperliche Beschwerden zu erkennen und zu bearbeiten, um zu mehr innerer Stabilität und Selbstverständnis zu gelangen. Ihr Ansatz fördert die Selbstreflexion und die Entwicklung neuer Perspektiven in persönlichen sowie beruflichen Kontexten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gotenstraße 12",
     "locality": "Berlin",
@@ -112,24 +113,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet Berit Julie Friz an?",
-      "answer": "Berit Julie Friz bietet eine Kombination aus Homöopathie, Supervision, systemischen Aufstellungen und Leibarbeit an."
+      "question": "Wie läuft ein Ersttermin ab?",
+      "answer": "Ein Erstgespräch zum Kennenlernen und zur Absprache von Behandlung und Therapieform, Supervision oder Coaching ist kostenfrei."
     },
     {
-      "question": "Wie kann ich einen Termin bei Berit Julie Friz buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf der Website von Berit Julie Friz buchen: https://www.beritjuliefriz.de/#kontakt."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags, mittwochs, donnerstags und freitags von 09:00 bis 17:00 Uhr und dienstags von 09:00 bis 22:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Berit Julie Friz?",
-      "answer": "Die Praxis befindet sich in der Gotenstraße 12, 10829 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich Berit Julie Friz kontaktieren?",
-      "answer": "Sie können Berit Julie Friz telefonisch unter 03035053190 oder per E-Mail an info@beritjuliefriz.de kontaktieren."
+      "question": "Wer kann die Angebote in Anspruch nehmen?",
+      "answer": "Mein Angebot richtet sich an Selbstzahler:innen."
     }
   ]
 }

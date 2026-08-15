@@ -3,7 +3,7 @@
   "slug": "osteopathie-barbara-rudisch",
   "name": "Osteopathie Barbara Rudisch",
   "description": "Die Osteopathiepraxis von Barbara Rudisch befindet sich in Berlin-Friedrichshagen und bietet eine ganzheitliche Heilmethode zur Förderung von Gesundheit und Wohlbefinden. Mit über 20 Jahren Erfahrung in der Osteopathie behandelt sie Patienten jeden Alters, von Säuglingen bis zu Erwachsenen, und konzentriert sich auf die Identifikation und Lösung von Bewegungseinschränkungen. Die Behandlung erfolgt ausschließlich manuell und zielt darauf ab, die Selbstheilungskräfte des Körpers zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Scharnweberstraße 11",
     "locality": "Berlin",
@@ -89,24 +90,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Barbara Rudisch in ihrer Praxis an?",
-      "answer": "Barbara Rudisch bietet Osteopathie-Behandlungen für Säuglinge, Schwangere, Kinder und Erwachsene an."
+      "question": "Wie lange dauert eine Behandlungseinheit bei Osteopathie Barbara Rudisch?",
+      "answer": "Eine Behandlungseinheit dauert 45 Minuten."
     },
     {
-      "question": "Wie lange dauert eine Behandlungseinheit?",
-      "answer": "Eine Behandlungseinheit dauert etwa 45 Minuten."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Behandlung?",
-      "answer": "Die Kosten für eine Behandlung betragen in etwa 95,- EUR, abhängig von der Diagnose."
-    },
-    {
-      "question": "Benötige ich eine Überweisung für die Behandlung?",
-      "answer": "Privatversicherte und Selbstzahler benötigen keine Überweisung vom Arzt. Gesetzliche Krankenkassen, die Osteopathie bezuschussen, fordern in der Regel eine formlose Empfehlung eines Arztes."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 - 23 48 07 97 vereinbaren oder über die Webseite hier eine Anfrage senden."
+      "question": "Wer kann von der Osteopathie profitieren?",
+      "answer": "Die Osteopathie wird für Klein-Kinder, Kinder, Jugendliche und Erwachsene jeden Alters angeboten."
     }
   ]
 }

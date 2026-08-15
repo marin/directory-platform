@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-ulrich-christen",
   "name": "Heilpraktiker Ulrich Christen",
   "description": "Heilpraktiker Ulrich Christen in Berlin bietet eine ganzheitliche Augentherapie, die auf der Chinesischen Medizin basiert. Sein Ansatz umfasst individuelle Behandlungen, die sowohl die Augen als auch den gesamten Menschen berücksichtigen. Neben Akupunktur und Tuina-Massage werden auch Sehtraining und Beratungen zu augenrelevanten Themen angeboten. Die Praxis befindet sich in Friedrichshain-Kreuzberg und richtet sich an Erwachsene sowie Kinder und Jugendliche.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Tempelhofer Berg 7d",
     "locality": "Berlin",
@@ -72,24 +73,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Heilpraktiker Ulrich Christen an?",
-      "answer": "Heilpraktiker Ulrich Christen bietet individuelle, ganzheitliche Behandlungen auf der Grundlage der Chinesischen Medizin an. Dazu gehören Tuina-Massagen, Akupunktur, Sehtraining und weitere Techniken zur optimalen Versorgung der Augen und zum Ausgleich der Energie."
+      "question": "Wie lange dauert eine Behandlung bei Heilpraktiker Ulrich Christen?",
+      "answer": "Die Behandlungen dauern zwischen 60 und 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Heilpraktiker Ulrich Christen buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf der Website von Ulrich Christen buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis von Ulrich Christen?",
-      "answer": "Die Praxis von Heilpraktiker Ulrich Christen hat von Montag bis Freitag geöffnet, jeweils von 08:30 bis 20:00 Uhr."
-    },
-    {
-      "question": "Bietet Ulrich Christen auch Onlineberatungen an?",
-      "answer": "Ja, Ulrich Christen bietet datensichere Onlineberatungen an."
-    },
-    {
-      "question": "Wie kann ich Kontakt zu Heilpraktiker Ulrich Christen aufnehmen?",
-      "answer": "Sie können Heilpraktiker Ulrich Christen telefonisch unter 030201693093 oder per E-Mail an post@ulrichchristen.de kontaktieren."
+      "question": "Bietet Heilpraktiker Ulrich Christen Behandlungen für Kinder an?",
+      "answer": "Ja, auch für Kinder und Jugendliche gibt es Behandlungen."
     }
   ]
 }

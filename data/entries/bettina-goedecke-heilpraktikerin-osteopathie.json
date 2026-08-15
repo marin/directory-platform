@@ -3,7 +3,7 @@
   "slug": "bettina-goedecke-heilpraktikerin-osteopathie",
   "name": "Bettina Goedecke, Heilpraktikerin | Osteopathie",
   "description": "Bettina Goedecke ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf Osteopathie, Homöopathie, Akupunktur und Naturheilkunde. Ihre Praxis befindet sich in der Reichsstraße 93 in Berlin-Charlottenburg, wo sie eine individuelle und kompetente Betreuung bietet. Mit regelmäßigen Weiterbildungen und langjähriger Erfahrung in der Osteopathie und Physiotherapie gewährleistet sie eine umfassende Behandlung nach neuesten wissenschaftlichen Standards.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Reichsstraße 93",
     "locality": "Berlin",
@@ -73,24 +74,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsformen bietet Bettina Goedecke an?",
-      "answer": "Bettina Goedecke bietet Behandlungen in Osteopathie, Homöopathie, Pflanzenheilkunde, Ohrakupunktur und Orthomolekularer Medizin an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Bettina Goedecke vereinbaren?",
-      "answer": "Die Terminvergabe erfolgt ausschließlich nach telefonischer Vereinbarung. Sie können Bettina Goedecke unter der Telefonnummer 0303337788 kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Bettina Goedecke?",
-      "answer": "Die Praxis von Bettina Goedecke befindet sich in der Reichsstraße 93, 14052 Berlin, im Stadtteil Charlottenburg."
-    },
-    {
-      "question": "Werden die Behandlungen von gesetzlichen Krankenkassen übernommen?",
-      "answer": "Die Behandlungen werden zum Teil von gesetzlichen Krankenkassen übernommen, jedoch hauptsächlich von privaten Krankenkassen."
-    },
-    {
-      "question": "Gibt es Sprechzeiten in der Praxis?",
-      "answer": "Die Sprechzeiten sind nicht festgelegt, da die Terminvergabe ausschließlich nach telefonischer Vereinbarung erfolgt."
+      "question": "Muss ich die Behandlung selbst zahlen?",
+      "answer": "Die Behandlung erfolgt als Selbstzahler. Privatkassen und zum Teil gesetzliche Krankenkassen werden akzeptiert."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-allermunde",
   "name": "Naturheilpraxis AllerMunde",
   "description": "Die Naturheilpraxis AllerMunde in Berlin-Kreuzberg bietet seit über 20 Jahren eine ganzheitliche Behandlung für Erwachsene und Kinder an. Das Team von Heilpraktiker*innen betrachtet Gesundheit als ein Gleichgewicht von Körper und Geist und integriert verschiedene Therapieansätze wie klassische Homöopathie, Pflanzenheilkunde, Akupunktur sowie Massagen. In der Praxis finden regelmäßig offene Sprechstunden und Vorbereitungskurse für die mündliche Heilpraktikerprüfung statt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Böckhstraße 45",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03069503234",
   "website": "http://www.aller-munde.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzf-akstPqEcRsyMqAtl3bC0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [],
   "offers": [
     {
@@ -38,27 +42,8 @@
   "images": [],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis AllerMunde?",
-      "answer": "Die Naturheilpraxis AllerMunde befindet sich in der Böckhstraße 45, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Welche Therapien werden in der Naturheilpraxis AllerMunde angeboten?",
-      "answer": "In der Naturheilpraxis AllerMunde werden verschiedene Therapien angeboten, darunter klassische Homöopathie, Pflanzenheilkunde, Akupunktur, traditionelle chinesische Medizin (TCM), Shonishin (Kinderakupunktur), Thetahealing, klassische Massage und Fußreflexzonenmassage."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis AllerMunde vereinbaren?",
-      "answer": "Termine in der Naturheilpraxis AllerMunde können nur nach Vereinbarung unter der Telefonnummer 030 69503234 oder per E-Mail an info@aller-munde.de vereinbart werden."
-    },
-    {
-      "question": "Wann findet die offene Sprechstunde in der Naturheilpraxis AllerMunde statt?",
-      "answer": "Die offene Sprechstunde in der Naturheilpraxis AllerMunde findet mittwochs von 10 bis 13 Uhr statt."
-    },
-    {
-      "question": "Wie lange besteht die Naturheilpraxis AllerMunde bereits?",
-      "answer": "Die Naturheilpraxis AllerMunde besteht seit über 20 Jahren im Graefekiez in Berlin-Kreuzberg."
+      "question": "Bietet die Naturheilpraxis AllerMunde Behandlungen für Kinder an?",
+      "answer": "Ja, die Naturheilpraxis AllerMunde bietet seit über 20 Jahren eine ganzheitliche Behandlung für Kinder an."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJzf-akstPqEcRsyMqAtl3bC0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  ]
 }

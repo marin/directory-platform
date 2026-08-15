@@ -3,7 +3,7 @@
   "slug": "mathias-onnen-heilpraktiker",
   "name": "Mathias Onnen – Heilpraktiker",
   "description": "Mathias Onnen ist ein erfahrener Heilpraktiker in Berlin-Friedenau, der sich auf die Bereiche Ernährungsberatung und Naturheilkunde spezialisiert hat. In seiner Praxis bietet er individuelle Coaching- und Beratungsgespräche an, um das psychische und körperliche Wohlbefinden seiner Klienten zu fördern. Mit einem ganzheitlichen Ansatz betrachtet er die Gesundheit seiner Patienten und unterstützt sie dabei, eigene Ressourcen zu aktivieren und Lösungen für ihre Beschwerden zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "ernaehrungsberatung",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Niedstraße 16",
     "locality": "Berlin",
@@ -71,26 +72,5 @@
   "images": [
     "/images/entries/mathias-onnen-heilpraktiker/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Mathias Onnen an?",
-      "answer": "Mathias Onnen bietet psychologische Beratung, Coaching für Persönlichkeitsentwicklung und Selbstverwirklichung sowie ganzheitliche medizinische Beratung und Behandlung an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Mathias Onnen?",
-      "answer": "Die Praxis von Mathias Onnen befindet sich in der Niedstraße 16, 12159 Berlin-Friedenau."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Mathias Onnen buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf der Website herr-onnen.de vereinbaren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag bis Freitag von 10:00 bis 17:00 Uhr und Samstag von 15:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Mathias Onnen kontaktieren?",
-      "answer": "Sie können Mathias Onnen telefonisch unter 0178 – 696 79 21 oder per E-Mail an info@praxis-onnen.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

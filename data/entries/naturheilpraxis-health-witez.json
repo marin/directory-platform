@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-health-witez",
   "name": "Naturheilpraxis - health.witez",
   "description": "Die Naturheilpraxis health.witez in Berlin bietet umfassende naturheilkundliche Behandlungen mit einem Schwerpunkt auf der Angewandten Neurobiologie nach Dr. Klinghardt. Durch kinesiologische Muskeltests werden Krankheitsursachen auf körperlicher, energetischer und mentaler Ebene identifiziert. Die Praxis legt großen Wert auf eine ausführliche Anamnese, Diagnostik und individuelle Therapieansätze, um die Regulationsfähigkeit von Körper und Geist wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Südwestkorso 60",
     "locality": "Berlin",
@@ -103,24 +104,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis health.witez?",
-      "answer": "Die Naturheilpraxis health.witez befindet sich in Berlin, Südwestkorso 60, 12161 Berlin."
-    },
-    {
-      "question": "Welche Therapieansätze werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden verschiedene Therapieansätze angeboten, darunter Störfeldbehandlung, Ernährung, Mentalfeldtechniken (MFT) und Psychokinesiologie."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis health.witez telefonisch unter 03028502911 vereinbaren."
-    },
-    {
-      "question": "Welche diagnostischen Verfahren werden in der Praxis eingesetzt?",
-      "answer": "In der Praxis werden verschiedene diagnostische Verfahren eingesetzt, darunter Anamnese, Befunde, körperliche Untersuchung und der Autonome Response Test."
-    },
-    {
-      "question": "Gibt es Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln?",
-      "answer": "Ja, die Praxis bietet Informationen zur Anfahrt mit öffentlichen Verkehrsmitteln, die auf der Webseite verfügbar sind."
+      "question": "Was passiert beim Ersttermin in der Naturheilpraxis?",
+      "answer": "Die Diagnose ist die Grundlage einer erfolgreichen Therapie. Es erfolgt ein ausführliches Patientengespräch, ein Fragebogen wird ausgefüllt und es werden Befunde wie Laborberichte und Röntgenbilder betrachtet. Körperliche Untersuchungen werden ebenfalls durchgeführt."
     }
   ]
 }

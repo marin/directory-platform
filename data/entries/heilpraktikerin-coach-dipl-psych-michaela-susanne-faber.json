@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-coach-dipl-psych-michaela-susanne-faber",
   "name": "Heilpraktikerin & Coach Dipl.-Psych. Michaela Susanne Faber",
   "description": "Heilpraktikerin und Coach Dipl.-Psych. Michaela Susanne Faber bietet in ihrer Praxis in Berlin-Pankow eine Kombination aus Psychotherapie und naturheilkundlichen Ansätzen an. Ihr Schwerpunkt liegt auf medialer Psychologie und Channeling, wobei sie Klienten dabei unterstützt, ihre inneren Blockaden zu erkennen und zu überwinden. Durch individuelle Sitzungen, die auch online stattfinden, fördert sie die persönliche Entwicklung und hilft dabei, das eigene Potenzial zu entfalten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hauptstraße 52",
     "locality": "Berlin",
@@ -97,24 +98,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Heilpraktikerin Michaela Susanne Faber an?",
-      "answer": "Heilpraktikerin Michaela Susanne Faber bietet Mediale Psychologie & Channeling, psychologische Beratung, Hypnose, Familienaufstellungen und Trance-Meditationen an."
-    },
-    {
-      "question": "Wie kann ich ein kostenloses Vorgespräch buchen?",
-      "answer": "Sie können ein kostenloses Vorgespräch buchen, indem Sie auf den folgenden Link klicken: Kostenloses Vorgespräch Buchen."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten von Frau Faber?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 08:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Michaela Susanne Faber?",
-      "answer": "Die Praxis befindet sich in der Hauptstraße 52, 13159 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich Frau Faber kontaktieren?",
-      "answer": "Sie können Frau Faber telefonisch unter 015771337518 oder über ihre Website www.fraufaber.de kontaktieren."
+      "question": "Wie lange dauert eine Sitzung bei Frau Faber?",
+      "answer": "Eine Sitzung dauert 90 Minuten."
     }
   ]
 }

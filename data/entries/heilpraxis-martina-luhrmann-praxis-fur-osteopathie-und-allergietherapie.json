@@ -3,7 +3,7 @@
   "slug": "heilpraxis-martina-luhrmann-praxis-fur-osteopathie-und-allergietherapie",
   "name": "Heilpraxis-Martina Lührmann, Praxis für Osteopathie und Allergietherapie",
   "description": "Die Heilpraxis-Martina Lührmann in Berlin bietet umfassende Behandlungen in den Bereichen Osteopathie und Allergietherapie an. Die Praxis legt Wert auf individuelle Therapieansätze und eine ganzheitliche Betrachtung der Gesundheit. Neben Osteopathie werden auch Methoden wie psychosomatische Energetik, Horvi Enzymtherapie und Traditionelle Chinesische Medizin (TCM) angeboten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Helgolandstraße 1",
     "locality": "Berlin",
@@ -60,26 +61,5 @@
   "images": [
     "/images/entries/heilpraxis-martina-luhrmann-praxis-fur-osteopathie-und-allergietherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Heilpraxis-Martina Lührmann an?",
-      "answer": "Die Heilpraxis-Martina Lührmann bietet Therapien in den Bereichen Osteopathie und Allergietherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis-Martina Lührmann vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite der Heilpraxis unter folgendem Link vereinbaren: https://heilpraxis-wurm.de/Terminvereinbarung."
-    },
-    {
-      "question": "Wann hat die Heilpraxis-Martina Lührmann geöffnet?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag von 09:00 bis 18:00 Uhr und am Freitag von 09:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis-Martina Lührmann?",
-      "answer": "Die Heilpraxis-Martina Lührmann befindet sich in der Helgolandstraße 1, 14199 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis-Martina Lührmann telefonisch erreichen?",
-      "answer": "Sie können die Heilpraxis-Martina Lührmann unter der Telefonnummer 03036752262 erreichen."
-    }
-  ]
+  "faq": []
 }

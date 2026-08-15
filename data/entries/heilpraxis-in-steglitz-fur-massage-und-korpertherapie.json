@@ -3,7 +3,7 @@
   "slug": "heilpraxis-in-steglitz-fur-massage-und-korpertherapie",
   "name": "Heilpraxis in Steglitz für Massage und Körpertherapie",
   "description": "Die Heilpraxis in Steglitz für Massage und Körpertherapie, geleitet von Heilpraktikerin Franziska Valenti Clari, befindet sich in Berlin-Friedenau, nahe dem S-Bahnhof Bundesplatz. In der Praxis werden verschiedene Techniken der Körpertherapie angeboten, um das körperliche Gleichgewicht zu fördern und das Wohlbefinden zu steigern. Die Behandlungen sind darauf ausgerichtet, den Klienten durch achtsame Berührung und tiefes Hineinspüren in Kontakt mit ihrem Körper zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Isoldestraße 10",
     "locality": "Berlin",
@@ -103,24 +104,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Heilpraxis in Steglitz?",
-      "answer": "Die Heilpraxis befindet sich in der Isoldestraße 10, 12159 Berlin, im Stadtteil Friedenau."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 10:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Welche Arten von Massagen werden angeboten?",
-      "answer": "Es werden verschiedene Massagen angeboten, darunter 60 Min, 75 Min, 90 Min Massagen sowie spezielle Massagen wie Nacken-Relax und Massagen zur Erholung und Regeneration."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Webseite der Heilpraxis buchen: Termin buchen."
-    },
-    {
-      "question": "Wie viel kosten die Massagen?",
-      "answer": "Die Preise für die Massagen liegen zwischen 75,00 EUR für 60 Minuten und 100,00 EUR für 90 Minuten."
+      "question": "Wie lange dauert eine Sitzung in der Heilpraxis?",
+      "answer": "Die Sitzungen dauern 60 Minuten, 75 Minuten oder 90 Minuten."
     }
   ]
 }

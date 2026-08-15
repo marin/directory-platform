@@ -107,26 +107,5 @@
     "/images/entries/daniela-dumann/3.webp",
     "/images/entries/daniela-dumann/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapie bietet Daniela Dumann an?",
-      "answer": "Daniela Dumann bietet unter anderem die Aderlasstherapie nach Hildegard von Bingen an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Daniela Dumann?",
-      "answer": "Die Praxis von Daniela Dumann befindet sich in der Nithackstraße 24, 10585 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Daniela Dumann buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite http://my.lemniscus.de/pss/21c5c780-26ba-4f11-8885-9a1d09a0c241 buchen."
-    },
-    {
-      "question": "Wie kann ich Daniela Dumann kontaktieren?",
-      "answer": "Sie können Daniela Dumann telefonisch unter 03036430358 oder per E-Mail an praxis@danieladumann.de kontaktieren."
-    },
-    {
-      "question": "Für welche Beschwerden ist die Aderlasstherapie sinnvoll?",
-      "answer": "Die Aderlasstherapie ist sinnvoll bei Beschwerden wie Rheuma, Gicht, Arthritis, Diabetes, Bluthochdruck, Kopfschmerzen, Migräne, Tinnitus und Hauterkrankungen wie Ekzem und Neurodermitis."
-    }
-  ]
+  "faq": []
 }

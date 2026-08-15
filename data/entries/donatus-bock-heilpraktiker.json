@@ -3,7 +3,7 @@
   "slug": "donatus-bock-heilpraktiker",
   "name": "Donatus Bock Heilpraktiker",
   "description": "Donatus Bock ist ein erfahrener Heilpraktiker in Berlin-Lichterfelde, der sich auf Naturheilverfahren und Akupunktur spezialisiert hat. Seit über 35 Jahren bietet er individuelle Behandlungen an, wobei der Fokus auf der Bioresonanzanalyse und -therapie nach Paul Schmidt liegt. In seiner Praxis legt er großen Wert auf eine ganzheitliche Herangehensweise und nimmt sich Zeit für die Anliegen seiner Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ostpreußendamm 151 A",
     "locality": "Berlin",
@@ -64,24 +65,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungsmethoden bietet Donatus Bock an?",
-      "answer": "Donatus Bock bietet Behandlungsmethoden in den Bereichen Akupunktur, TCM und Naturheilkunde an, mit einem besonderen Fokus auf Bioresonanzanalyse und -therapie."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Donatus Bock?",
-      "answer": "Die Praxis von Donatus Bock befindet sich am Ostpreußendamm 151 A, 12207 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Donatus Bock vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer 030 – 77 395 000 vereinbaren oder direkt über den Online-Terminkalender auf der Website buchen."
-    },
-    {
-      "question": "Wann hat die Praxis von Donatus Bock geöffnet?",
-      "answer": "Die Praxis hat montags, dienstags und freitags von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Donatus Bock per E-Mail kontaktieren?",
-      "answer": "Sie können Donatus Bock per E-Mail unter donatus.bock@gmx.de kontaktieren."
+      "question": "Wie läuft der Ersttermin bei Donatus Bock ab?",
+      "answer": "Herr Bock nimmt sich viel Zeit für die Anamnese und Diagnose, um den Ursachen auf die Spur zu kommen."
     }
   ]
 }

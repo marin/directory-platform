@@ -3,7 +3,7 @@
   "slug": "akupunktur-reiki-heilpraktiker-berlin-prenzlauer-berg-bernd-monecke",
   "name": "Akupunktur & Reiki | Heilpraktiker Berlin Prenzlauer Berg - Bernd Monecke",
   "description": "Die Praxis im Bambusgarten, geleitet von Heilpraktiker Bernd Monecke, bietet seit 2003 eine Vielzahl von naturheilkundlichen Behandlungen in Berlin Prenzlauer Berg an. Schwerpunkte sind die Traditionelle Chinesische Medizin (TCM), Akupunktur, Reiki sowie ganzheitliche Physiotherapie. In einer individuellen und ganzheitlichen Herangehensweise werden Behandlungskonzepte für Menschen aller Altersgruppen entwickelt, die auf die persönlichen Lebenssituationen abgestimmt sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Diedenhofer Str. 4",
     "locality": "Berlin",
@@ -49,24 +50,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Bernd Monecke in seiner Praxis an?",
-      "answer": "Bernd Monecke bietet in seiner Praxis Akupunktur, Traditionelle Chinesische Medizin (TCM), Reiki, Shiatsu, Qi Gong, Phytotherapie, Ernährungsberatung und Gesundheitscoaching an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Bernd Monecke?",
-      "answer": "Die Praxis von Bernd Monecke befindet sich in der Diedenhofer Str. 4, 10405 Berlin, im Stadtteil Prenzlauer Berg."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Praxis über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Welche besonderen Angebote gibt es in der Praxis?",
-      "answer": "In der Praxis gibt es aktuelle Qi Gong-Kurse mit Chris Saleski sowie Gruppenangebote in Berlin und außerhalb in der Natur bei Kursen, Seminaren und Ausbildungen."
-    },
-    {
-      "question": "Wie lange ist Bernd Monecke bereits als Heilpraktiker tätig?",
-      "answer": "Bernd Monecke ist seit 2000 als Heilpraktiker tätig."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Nach einer gründlichen Anamnese beginnt die Behandlung. Die individuelle Person steht im Mittelpunkt, und der Genesungsprozess wird auf sie abgestimmt."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "stephanie-rochow-heilpraktikerin-fur-psychotherapie-in-friedrichshain",
   "name": "Stephanie Rochow Heilpraktikerin für Psychotherapie in Friedrichshain",
   "description": "Stephanie Rochow ist Heilpraktikerin für Psychotherapie in Berlin-Friedrichshain. In ihrer Praxis bietet sie Paar- und Einzeltherapie sowie Hypnotherapie und Neurofeedback-Training an. Ihr Ansatz kombiniert verschiedene therapeutische Methoden, um individuelle Ziele und Bedürfnisse der Klienten in den Mittelpunkt zu stellen. Die Praxis ist darauf ausgerichtet, Menschen in Krisensituationen zu unterstützen und ihnen zu helfen, wieder Freude am Leben zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Simplonstraße 11",
     "locality": "Berlin",
@@ -82,24 +83,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Stephanie Rochow an?",
-      "answer": "Stephanie Rochow bietet Paar- und Einzeltherapie, Hypnotherapie und Neurofeedback-Training an."
+      "question": "Wie lange dauert eine Sitzung bei Stephanie Rochow?",
+      "answer": "Eine Sitzung dauert 50 Minuten oder 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin ganz bequem über die Online-Buchungsplattform buchen. Hier ist der Link: Termin buchen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Stephanie Rochow?",
-      "answer": "Die Praxis von Stephanie Rochow befindet sich in der Simplonstraße 11, 10245 Berlin, Friedrichshain."
-    },
-    {
-      "question": "Welche Preise gelten für die Therapiesitzungen?",
-      "answer": "Die Preise für die Therapiesitzungen variieren: 50 Minuten kosten zwischen 70 € und 135 €, während 90 Minuten 200 € kosten."
-    },
-    {
-      "question": "Welche Methoden verwendet Stephanie Rochow in der Psychotherapie?",
-      "answer": "Stephanie Rochow kombiniert verschiedene Methoden, darunter Verhaltens- und systemische Therapie sowie die klientenorientierte Gesprächsführung nach Carl Rogers."
+      "question": "Ist Neurofeedback für Kinder geeignet?",
+      "answer": "Neurofeedback ist für Kinder ab ca. 8 Jahren geeignet und wird häufig bei Aufmerksamkeitsdefizit (ADHS und ADS) angewandt."
     }
   ]
 }

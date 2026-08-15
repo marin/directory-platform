@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-psychotherapie-julia-kleinen",
   "name": "Heilpraktikerin für Psychotherapie // Julia Kleinen",
   "description": "In meiner Arbeit schaffe ich einen Raum nur für Sie. Einen Raum, in dem sein darf, was ist und in dem sich zeigen darf, was gesehen werden möchte. Wenn wir Konflikten, Ängsten und Sorgen mit offenem Interesse und Mitgefühl begegnen, entstehen neue Handlungsmöglichkeiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Jungstraße 3",
     "locality": "Berlin",
@@ -73,5 +74,14 @@
     "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/3.webp",
     "/images/entries/heilpraktikerin-fur-psychotherapie-julia-kleinen/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was passiert im Ersttermin bei Julia Kleinen?",
+      "answer": "Im kostenlosen und unverbindlichen Erstgespräch lernen wir uns zunächst ein wenig kennen. Ich stelle Ihnen einige Fragen, um Ihre Anliegen zu klären. Sensible Inhalte werden wir im Erstgespräch noch nicht besprechen."
+    },
+    {
+      "question": "In welchen Sprachen bietet Julia Kleinen ihre Sitzungen an?",
+      "answer": "Ich biete Termine auf Deutsch und auf Englisch an."
+    }
+  ]
 }

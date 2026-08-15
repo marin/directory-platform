@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-am-ufer-shima-saeedi",
   "name": "Naturheilpraxis am Ufer : Shima Saeedi",
   "description": "In der Naturheilpraxis am Ufer in Berlin-Kreuzberg bietet Shima Saeedi, eine erfahrene Heilpraktikerin mit Schwerpunkt auf Akupunktur, individuelle Behandlungen an. Die Praxis legt Wert auf eine umfassende Anamnese, die durch chinesische Zungen- und Pulsdiagnose ergänzt wird. Die Behandlungen können in Deutsch, Englisch oder Farsi durchgeführt werden und richten sich nach den Bedürfnissen der Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lausitzer Str. 26A",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "email": "contact@shimasaeedi.de",
   "website": "http://www.shimasaeedi.de/",
   "bookingUrl": "https://www.doctolib.de/heilpraktiker/berlin/shima-saeedi?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOzAocLVPqEcRE5EFIQ4PukM",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 21,
   "openingHours": [
     {
       "day": "Friday",
@@ -50,27 +54,16 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis am Ufer an?",
-      "answer": "Die Naturheilpraxis am Ufer unter der Leitung von Shima Saeedi bietet Behandlungen mit Schwerpunkt auf Akupunktur und Traditioneller Chinesischer Medizin (TCM) an."
+      "question": "Was passiert beim Ersttermin in der Naturheilpraxis am Ufer?",
+      "answer": "In der ersten Sitzung findet ein ausführliches Gespräch statt, aus dem ein Therapieplan erarbeitet wird. Außerdem findet eine erste Akupunktur statt."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin direkt über die Website Doctolib buchen oder Sie kontaktieren Shima Saeedi per E-Mail unter contact@shimasaeedi.de oder telefonisch unter 015736627724."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis am Ufer?",
+      "answer": "Die Behandlungsdauer beträgt 50-90 Minuten."
     },
     {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat am Freitag von 13:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis am Ufer?",
-      "answer": "Die Naturheilpraxis am Ufer befindet sich in der Lausitzer Straße 26A, 10999 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "In welchen Sprachen können die Gespräche geführt werden?",
-      "answer": "Die Gespräche können auf Deutsch, Englisch oder Farsi geführt werden."
+      "question": "In welchen Sprachen werden die Behandlungen angeboten?",
+      "answer": "Die Behandlungen können in Deutsch, Englisch oder Farsi durchgeführt werden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJOzAocLVPqEcRE5EFIQ4PukM",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 21
+  ]
 }

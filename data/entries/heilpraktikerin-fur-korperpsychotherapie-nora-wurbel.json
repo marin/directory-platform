@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-fur-korperpsychotherapie-nora-wurbel",
   "name": "Heilpraktikerin für KörperPsychoTherapie - Nora Würbel",
   "description": "Heilpraktikerin Nora Würbel bietet in ihrer Praxis in Berlin-Lichtenberg professionelle Körperpsychotherapie an. Ihr Ansatz kombiniert psychotherapeutische Methoden mit naturheilkundlichen Ansätzen, um das Wohlbefinden, Selbstbewusstsein und die Authentizität ihrer Klienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pfarrstraße 120",
     "locality": "Berlin",
@@ -72,22 +73,5 @@
     "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/3.webp",
     "/images/entries/heilpraktikerin-fur-korperpsychotherapie-nora-wurbel/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Nora Würbel an?",
-      "answer": "Nora Würbel bietet Dienstleistungen in den Bereichen Körperpsychotherapie und Naturheilkunde an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten von Nora Würbel?",
-      "answer": "Die Öffnungszeiten sind Montag von 14:00 bis 20:00 Uhr, Dienstag von 16:00 bis 20:00 Uhr, Freitag und Samstag jeweils von 08:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Nora Würbel?",
-      "answer": "Die Praxis befindet sich in der Pfarrstraße 120, 10317 Berlin."
-    },
-    {
-      "question": "Wie kann ich Nora Würbel kontaktieren?",
-      "answer": "Sie können Nora Würbel telefonisch unter 017630589505 oder per E-Mail an norawuerbel@gmx.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-corina-jersabek",
   "name": "Heilpraktikerin Corina Jersabek",
   "description": "Heilpraktikerin Corina Jersabek bietet in ihrer Praxis in Berlin-Charlottenburg umfassende naturheilkundliche Behandlungen an. Nach ihrer Ausbildung im Jahr 2010 und wertvollen Erfahrungen in Spanien und Italien, hat sie sich auf verschiedene Heilmethoden spezialisiert, darunter Schmerztherapie nach Liebscher & Bracht, Blutegeltherapie und strukturelle Osteopathie. Ihr ganzheitlicher Ansatz zielt darauf ab, Patienten auf dem Weg zur Selbstheilung und Schmerzfreiheit zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bundesallee 28",
     "locality": "Berlin",
@@ -109,24 +110,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Heilmethoden bietet Heilpraktikerin Corina Jersabek an?",
-      "answer": "Corina Jersabek bietet verschiedene Heilmethoden an, darunter Schmerztherapie nach Liebscher & Bracht, medizinische Kräftigungstherapie, Blutegeltherapie, strukturelle Osteopathie und sanfte Chiropraktik nach Dr. Ackermann sowie craniale Osteopathie (Freeing) und Faltenunterspritzung mit Hyaloron."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis von Corina Jersabek ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Corina Jersabek?",
-      "answer": "Die Praxis befindet sich in der Bundesallee 28, 10717 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Kosten entstehen für die Behandlungen?",
-      "answer": "Die Preise für die Behandlungen beginnen bei 129,- € und es können zusätzliche Kosten für Blutegel oder andere spezifische Behandlungen anfallen."
+      "question": "Was kostet der Ersttermin bei Heilpraktikerin Corina Jersabek?",
+      "answer": "Der Ersttermin kostet 129,-€."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "helene-lange-heilpraktikerin",
   "name": "Helene Lange | Heilpraktikerin",
   "description": "Helene Lange ist eine erfahrene Heilpraktikerin in Berlin Kreuzberg, die sich auf Akupunktur und traditionelle chinesische Medizin spezialisiert hat. In ihrer Praxis bietet sie eine ganzheitliche Diagnostik sowie manualtherapeutische Verfahren wie Akupressur, Massagen, Schröpfen und Gua Sha an. Mit einem fundierten medizinischen Hintergrund und einer empathischen Herangehensweise unterstützt sie ihre Patienten auf ihrem individuellen Genesungsweg.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Weidenweg 62",
     "locality": "Berlin",
@@ -70,26 +71,5 @@
     "/images/entries/helene-lange-heilpraktikerin/3.webp",
     "/images/entries/helene-lange-heilpraktikerin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Helene Lange an?",
-      "answer": "Helene Lange bietet Akupunktur, manualtherapeutische Verfahren wie Akupressur, Massagen, Schröpfen und Gua Sha sowie ganzheitliche Diagnostik an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Helene Lange?",
-      "answer": "Die Praxis von Helene Lange befindet sich im Weidenweg 62, 10247 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Helene Lange buchen?",
-      "answer": "Einen Termin bei Helene Lange können Sie über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker/berlin/helene-magdalena-lange."
-    },
-    {
-      "question": "Wann hat die Praxis von Helene Lange geöffnet?",
-      "answer": "Die Praxis hat am Dienstag von 09:00 bis 22:00 Uhr und am Mittwoch von 08:00 bis 21:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Helene Lange kontaktieren?",
-      "answer": "Sie können Helene Lange telefonisch unter 015756379500 oder per E-Mail an praxis@helene-lange.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "simon-matthias-heilpraktiker-fur-psychotherapie-coaching-therapie-supervision",
   "name": "Simon Matthias - Heilpraktiker für Psychotherapie - Coaching | Therapie | Supervision",
   "description": "Simon Matthias ist Heilpraktiker für Psychotherapie mit einer Praxis in Berlin-Neukölln (Britz). Seit 2015 bietet er individuelles Coaching, Psychotherapie und Supervision an, wobei er verschiedene Methoden, einschließlich NLP und Hypnotherapie, integriert. Seine Arbeit fokussiert sich auf nachhaltige und tiefgehende Veränderungsprozesse, die im Einklang mit den Werten und dem Wesen seiner Klienten stehen. Online- und Vor-Ort-Sitzungen sind möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mohriner Allee 98",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "abc@xyz.com",
   "website": "http://www.simon-matthias.de/",
   "bookingUrl": "https://www.simon-matthias.de/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK8ILhIFFqEcRwgEpwWOMLY0",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 20,
   "openingHours": [
     {
       "day": "Monday",
@@ -85,29 +89,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Simon Matthias an?",
-      "answer": "Simon Matthias bietet Psychotherapie, Coaching und Supervision an. Er arbeitet sowohl online als auch vor Ort in seiner Praxis in Berlin-Neukölln."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Simon Matthias buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Simon Matthias buchen, indem Sie den Kontaktbereich aufrufen: Termin buchen."
-    },
-    {
-      "question": "Wann hat die Praxis von Simon Matthias geöffnet?",
-      "answer": "Die Praxis hat von Montag bis Freitag von 09:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Simon Matthias?",
-      "answer": "Die Praxis befindet sich in der Mohriner Allee 98, 12347 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Seit wann ist Simon Matthias als Heilpraktiker tätig?",
-      "answer": "Simon Matthias ist seit 2015 in eigener Praxis tätig."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJK8ILhIFFqEcRwgEpwWOMLY0",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 20
+  "faq": []
 }

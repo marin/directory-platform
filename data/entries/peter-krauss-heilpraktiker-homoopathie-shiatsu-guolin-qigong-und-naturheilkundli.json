@@ -3,7 +3,7 @@
   "slug": "peter-krauss-heilpraktiker-homoopathie-shiatsu-guolin-qigong-und-naturheilkundli",
   "name": "Peter Krauss Heilpraktiker, Homöopathie, Shiatsu, GuoLin QiGong und naturheilkundliche biologische Krebstherapie in Berlin .",
   "description": "Peter Krauss ist Heilpraktiker in Berlin und bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter klassische Homöopathie, Shiatsu, craniosacrale Therapie und GuoLin QiGong. Seine Praxis befindet sich in der Gleditschstraße 44 in Schöneberg. Mit einem ganzheitlichen Ansatz unterstützt er seine Patienten auf ihrem Weg zu mehr Gesundheit und Wohlbefinden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gleditschstraße 44 Eingang 2 li",
     "locality": "Berlin",
@@ -68,22 +69,5 @@
     "/images/entries/peter-krauss-heilpraktiker-homoopathie-shiatsu-guolin-qigong-und-naturheilkundli/0.webp",
     "/images/entries/peter-krauss-heilpraktiker-homoopathie-shiatsu-guolin-qigong-und-naturheilkundli/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Peter Krauss an?",
-      "answer": "Peter Krauss bietet klassische Homöopathie, Shiatsu, craniosacrale Therapie und GuoLin QiGong an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Peter Krauss?",
-      "answer": "Die Praxis befindet sich in der Gleditschstraße 44, Eingang 2 li, 10781 Berlin, Schöneberg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Peter Krauss kontaktieren?",
-      "answer": "Sie können Peter Krauss telefonisch unter 030/216 900 6 oder per E-Mail an peter@heilpraktiker-krauss.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

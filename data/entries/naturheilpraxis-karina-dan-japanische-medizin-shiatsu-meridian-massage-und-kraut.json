@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut",
   "name": "Naturheilpraxis Karina Dan - Japanische Medizin, Shiatsu, Meridian-Massage und Kräuterheilkunde",
   "description": "Die Naturheilpraxis Karina Dan in Berlin bietet ein breites Spektrum an Therapien, die auf japanischer Medizin basieren, darunter Shiatsu, Meridian-Massage und Kräuterheilkunde. Die Praxis legt besonderen Wert auf individuelle Behandlungen, die auf den Prinzipien der traditionellen chinesischen Medizin beruhen. Neben der Schmerztherapie und speziellen Kinderbehandlungen werden auch maßgeschneiderte Kräutermischungen zur Unterstützung der Gesundheit angeboten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lütticher Str. 6",
     "locality": "Berlin",
@@ -86,26 +87,5 @@
     "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/3.webp",
     "/images/entries/naturheilpraxis-karina-dan-japanische-medizin-shiatsu-meridian-massage-und-kraut/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet die Naturheilpraxis Karina Dan an?",
-      "answer": "Die Naturheilpraxis Karina Dan bietet verschiedene Behandlungsmethoden an, darunter Toyohari- und Meridian-Therapie, Shonishin für Kinder, Schmerztherapie, Balanceakupunktur, Shiatsu und Pflanzenheilkunde."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Karina Dan?",
-      "answer": "Die Naturheilpraxis Karina Dan befindet sich in der Lütticher Str. 6, 13353 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Karina Dan sind Montag und Dienstag von 10:00 bis 13:00 und 14:00 bis 17:00 sowie Donnerstag und Freitag von 10:00 bis 13:00 und 14:00 bis 17:00."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Karina Dan telefonisch unter 017680009547 oder per E-Mail an info@der-gelbe-kaiser.com kontaktieren."
-    },
-    {
-      "question": "Welche Philosophie verfolgt die Naturheilpraxis Karina Dan?",
-      "answer": "Die Naturheilpraxis Karina Dan verfolgt die Philosophie, dass Gesundheit das höchste Gut ist und legt Wert darauf, die individuellen Bedürfnisse der Patienten zu erkennen und zu behandeln."
-    }
-  ]
+  "faq": []
 }

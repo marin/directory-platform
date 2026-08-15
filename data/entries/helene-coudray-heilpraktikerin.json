@@ -3,7 +3,7 @@
   "slug": "helene-coudray-heilpraktikerin",
   "name": "Hélène Coudray - Heilpraktikerin",
   "description": "Hélène Coudray ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Pflanzenheilkunde, Massage und Homöopathie spezialisiert hat. In ihrer Naturheilpraxis am Britzer Damm 92 bietet sie individuelle Behandlungen an, die auf einer gründlichen Anamnese basieren. Neben der Verschreibung von Teerezepte und homöopathischen Mitteln umfasst ihr Angebot auch Körperarbeit wie klassische Massagen und Fußreflextherapie, um die Gesundheit ihrer Patienten ganzheitlich zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Britzer Damm 92",
     "locality": "Berlin",
@@ -44,24 +45,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Hélène Coudray in ihrer Heilpraxis an?",
-      "answer": "Hélène Coudray bietet Behandlungen in Pflanzenheilkunde, Massage und Homöopathie an. Dazu gehören eine gründliche Anamnese, individuelle Teerezepte, Tinkturen, homöopathische Mittel sowie Körperarbeit wie klassische Massage, Fußreflextherapie und Dorn-Breuss-Therapie."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis von Hélène Coudray?",
-      "answer": "Die Heilpraxis von Hélène Coudray befindet sich am Britzer Damm 92, 12347 Berlin/Neukölln."
-    },
-    {
-      "question": "Wie hoch sind die Behandlungskosten in der Praxis?",
-      "answer": "Die Kosten für eine Stunde Behandlung betragen 90€. Die Erst-Anamnese, die etwa 2 bis 3 Stunden dauert, kostet 180€."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Hélène Coudray vereinbaren?",
-      "answer": "Einen Termin können Sie per E-Mail an h.coudray76@gmail.com oder telefonisch unter 030-40795925 vereinbaren."
-    },
-    {
-      "question": "Wann hat die Heilpraxis geöffnet?",
-      "answer": "Die Heilpraxis ist von Montag bis Freitag geöffnet und Termine sind auch nach Vereinbarung möglich."
+      "question": "Was kann ich bei meinem Ersttermin erwarten?",
+      "answer": "Ich biete eine gründliche Anamnese mit Augendiagnose an. Danach verschreibe ich konstitutionelle Teerezepte und Tinkturen oder ein konstitutionelles homöopathisches Mittel."
     }
   ]
 }

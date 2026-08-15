@@ -3,7 +3,7 @@
   "slug": "gesprachstherapie-klangtherapie-knut-rauter-heilpraktiker-fur-psychotherapie",
   "name": "Gesprächstherapie & Klangtherapie, Knut Rauter - Heilpraktiker für Psychotherapie",
   "description": "Knut Rauter ist Heilpraktiker für Psychotherapie in Berlin und bietet eine Kombination aus Gesprächstherapie und Klangtherapie an. In seiner Praxis unterstützt er Klienten dabei, Erlebtes zu verarbeiten, alte Muster zu erkennen und neue Perspektiven zu entwickeln. Neben der Psychotherapie umfasst sein Angebot auch Paartherapie und Energiearbeit, um Körper, Geist und Seele in Einklang zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pariser Str. 52",
     "locality": "Berlin",
@@ -62,24 +63,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Knut Rauter an?",
-      "answer": "Knut Rauter bietet Gesprächstherapie, Paartherapie, Klangtherapie und Energiearbeit an."
+      "question": "Wie läuft ein Ersttermin in der Gesprächstherapie ab?",
+      "answer": "Der Ersttermin ist ein kostenloses telefonisches Gespräch von 20 Minuten, um sich kennenzulernen."
     },
     {
-      "question": "Wo befindet sich die Praxis von Knut Rauter?",
-      "answer": "Die Praxis befindet sich in der Pariser Str. 52, 10719 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+      "question": "Wie lange dauert eine Sitzung in der Gesprächstherapie?",
+      "answer": "Eine Sitzung in der Gesprächstherapie dauert 60 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Knut Rauter buchen?",
-      "answer": "Sie können einen Termin über die Webseite buchen: Termin buchen."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat mittwochs, donnerstags und freitags von 10:30 bis 19:00 Uhr sowie samstags von 11:00 bis 16:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Knut Rauter telefonisch erreichen?",
-      "answer": "Sie können Knut Rauter unter der Telefonnummer 01702817711 erreichen."
+      "question": "Werden die Kosten für die Therapie von der Krankenkasse übernommen?",
+      "answer": "Die Therapie ist nur für Selbstzahler verfügbar."
     }
   ]
 }

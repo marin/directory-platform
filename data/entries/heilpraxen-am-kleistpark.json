@@ -129,22 +129,5 @@
   "images": [
     "/images/entries/heilpraxen-am-kleistpark/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis am Kleistpark?",
-      "answer": "Die Heilpraxis am Kleistpark befindet sich in der Crellestraße 27, 10827 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxen am Kleistpark kontaktieren?",
-      "answer": "Sie können die Heilpraxen am Kleistpark telefonisch unter 030 32663888 oder per E-Mail an kleistpark@die-therapeuten-berlin.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen werden in der Heilpraxis angeboten?",
-      "answer": "In der Heilpraxis am Kleistpark werden verschiedene Dienstleistungen im Bereich der Naturheilkunde angeboten, darunter Therapie für chronische und akute Erkrankungen sowie Unterstützung bei Lebenskrisen und Veränderungen von Gedanken- und Handlungsmustern."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
-      "answer": "Sie können einen Termin in der Heilpraxis am Kleistpark über die Buchungsseite unter https://die-therapeuten-berlin.de/kontakt buchen."
-    }
-  ]
+  "faq": []
 }

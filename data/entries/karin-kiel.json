@@ -3,7 +3,7 @@
   "slug": "karin-kiel",
   "name": "Karin Kiel",
   "description": "Karin Kiel ist Heilpraktikerin in Berlin-Spandau und bietet eine Praxis für Naturheilkunde an. Sie legt besonderen Wert auf eine ganzheitliche Diagnose und die Behandlung des gesamten Menschen, um dauerhafte Verbesserungen im Gesundheitszustand zu erreichen. Ihre Praxis ist gut mit öffentlichen Verkehrsmitteln erreichbar und bietet ausreichend Parkmöglichkeiten. Kurzfristige Termine sind nach telefonischer Absprache in der Regel möglich.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Sollingzeile 1A",
     "locality": "Berlin",
@@ -41,26 +42,5 @@
   "images": [
     "/images/entries/karin-kiel/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Karin Kiel?",
-      "answer": "Die Praxis von Karin Kiel befindet sich in der Sollingzeile 1A, 13589 Berlin, Spandau."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Karin Kiel buchen?",
-      "answer": "Sie können einen Termin bei Karin Kiel buchen, indem Sie die Praxis telefonisch unter 030 305 4400 kontaktieren."
-    },
-    {
-      "question": "Welche Therapieverfahren bietet Karin Kiel an?",
-      "answer": "Karin Kiel bietet eine Vielzahl von Therapieverfahren im Bereich der Naturheilkunde an, die auf einer ganzheitlichen Diagnose basieren."
-    },
-    {
-      "question": "Gibt es Parkmöglichkeiten vor der Praxis?",
-      "answer": "Ja, es gibt genügend Parkmöglichkeiten vor der Tür der Praxis."
-    },
-    {
-      "question": "Wie kann ich Karin Kiel kontaktieren?",
-      "answer": "Sie können Karin Kiel per E-Mail an info@karin-kiel.de oder telefonisch unter 030 305 4400 kontaktieren."
-    }
-  ]
+  "faq": []
 }

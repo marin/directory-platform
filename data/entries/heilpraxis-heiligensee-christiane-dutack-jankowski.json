@@ -3,7 +3,7 @@
   "slug": "heilpraxis-heiligensee-christiane-dutack-jankowski",
   "name": "Heilpraxis Heiligensee Christiane Dutack-Jankowski",
   "description": "Die Heilpraxis Heiligensee unter der Leitung von Christiane Dutack-Jankowski bietet ein breites Spektrum an naturheilkundlichen Therapien an. Zu den Schwerpunkten zählen unter anderem die Behandlung hormoneller Veränderungen, Stressmanagement sowie die Fußreflexzonentherapie. Die Praxis legt großen Wert auf eine individuelle Unterstützung der Patienten und betrachtet die ganzheitliche Gesundheit von Körper und Seele.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bläßhuhnweg 15",
     "locality": "Berlin",
@@ -33,24 +34,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapiemethoden bietet die Heilpraxis Heiligensee an?",
-      "answer": "Die Heilpraxis Heiligensee bietet verschiedene Therapiemethoden an, darunter Naturheilverfahren, Irisdiagnose, klassische Massage, (Fuß-)Reflexzonentherapie, Wirbelsäulentherapie nach Dorn, sanfte Chirotherapie, Antlitzdiagnose nach Hickethier, Heilhypnose, Tiefenentspannung, Psychotherapie (HPG), NLP und Coaching sowie Klang- und Musiktherapie."
-    },
-    {
-      "question": "Was ist das Ziel der Arbeit von Christiane Dutack-Jankowski?",
-      "answer": "Christiane Dutack-Jankowski versteht ihre Arbeit als gemeinsamen Prozess, der von individueller Unterstützung und liebevoller Achtung getragen wird. Ziel ist es, die Ursachen für gesundheitliche und energetische Blockierungen zu finden und ein individuelles Konzept zu erarbeiten, das die Patienten auf ihrem Weg zu Gesundheit und Wohlbefinden unterstützt."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Heiligensee?",
-      "answer": "Die Heilpraxis Heiligensee befindet sich im Bläßhuhnweg 15, 13503 Berlin, im Stadtteil Heiligensee."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Heiligensee kontaktieren?",
-      "answer": "Sie können die Heilpraxis Heiligensee telefonisch unter 03034508838 oder per E-Mail an info@heilpraxis-charlottenburg.de kontaktieren."
-    },
-    {
-      "question": "Gibt es spezielle Angebote für Frauen in der Heilpraxis Heiligensee?",
-      "answer": "Ja, die Heilpraxis Heiligensee bietet spezielle Angebote für Frauen an."
+      "question": "Werden die Behandlungskosten erstattet?",
+      "answer": "Die Behandlungskosten beim Heilpraktiker werden in den meisten Fällen durch private Krankenversicherungen und auch durch private Zusatzversicherungen erstattet. Beamte haben Anspruch auf Erstattung der Kosten durch die Beihilfe."
     }
   ]
 }

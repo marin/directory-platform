@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-m-reutgen-akupunktur-chinesische-medizin",
   "name": "Heilpraktikerin M. Reutgen, Akupunktur, Chinesische Medizin",
   "description": "Heilpraktikerin M. Reutgen bietet in der Wollankstraße 133 in Berlin-Pankow umfassende Behandlungen in den Bereichen Akupunktur und Chinesische Medizin an. Seit 1999 ist das Therapiezentrum Pankow eine Praxisgemeinschaft, die fachübergreifend von Heilpraktikern und Physiotherapeuten betrieben wird. Ab Januar 2026 wird die Praxis in die Maximilianstraße 2 umziehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wollankstraße 133",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "01749412358",
   "email": "post@therapiezentrum-pankow.de",
   "website": "https://therapiezentrum-pankow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9fNb2pSqEcR2XvkNXnaZFI",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 3,
   "openingHours": [],
   "offers": [
     {
@@ -42,29 +46,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin M. Reutgen?",
-      "answer": "Die Praxis von Heilpraktikerin M. Reutgen befindet sich in der Wollankstraße 133, 13187 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Welche Therapien bietet Heilpraktikerin M. Reutgen an?",
-      "answer": "Heilpraktikerin M. Reutgen bietet Akupunktur und Chinesische Medizin an."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin M. Reutgen kontaktieren?",
-      "answer": "Sie können Heilpraktikerin M. Reutgen telefonisch unter 01749412358 oder per E-Mail an post@therapiezentrum-pankow.de kontaktieren."
-    },
-    {
-      "question": "Wann wird das Therapiezentrum Pankow umziehen?",
-      "answer": "Das Therapiezentrum Pankow wird im Januar 2026 umziehen."
-    },
-    {
-      "question": "Wie lange ist das Therapiezentrum Pankow bereits tätig?",
-      "answer": "Das Therapiezentrum Pankow ist seit 1999 im Herzen von Pankow tätig."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ9fNb2pSqEcR2XvkNXnaZFI",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

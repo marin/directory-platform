@@ -3,7 +3,7 @@
   "slug": "gesundheitspraxis-berlin-renata-pelizaeus",
   "name": "Gesundheitspraxis Berlin, Renata Pelizaeus",
   "description": "Die Gesundheitspraxis Berlin, geleitet von Heilpraktikerin Renata Pelizaeus, bietet einen ganzheitlichen Ansatz zur Gesundheitsförderung, der Körper, Seele und Geist in Einklang bringt. Durch die Kombination traditioneller Naturheilverfahren mit modernen Diagnosemethoden werden sowohl organische als auch funktionelle Störungen erfasst. Die Praxis legt besonderen Wert auf präventive Maßnahmen wie Entsäuerung, Entgiftung und Ernährungsberatung, um die Selbstheilungskräfte des Körpers zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Riehlstraße 2",
     "locality": "Berlin",
@@ -38,26 +39,5 @@
     "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/3.webp",
     "/images/entries/gesundheitspraxis-berlin-renata-pelizaeus/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Gesundheitspraxis Berlin von Renata Pelizaeus?",
-      "answer": "Die Gesundheitspraxis Berlin befindet sich in der Riehlstraße 2, 14057 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Gesundheitspraxis Berlin vereinbaren?",
-      "answer": "Sie können einen Termin in der Gesundheitspraxis Berlin telefonisch unter 030-32603676 oder über die Website gesundheitspraxis-berlin.de vereinbaren."
-    },
-    {
-      "question": "Welche Therapieansätze werden in der Gesundheitspraxis Berlin angeboten?",
-      "answer": "In der Gesundheitspraxis Berlin werden homöopathische Behandlungen sowie ganzheitliche Ansätze zur Gesundheitsprophylaxe angeboten."
-    },
-    {
-      "question": "Wie kann ich die Gesundheitspraxis Berlin kontaktieren?",
-      "answer": "Sie können die Gesundheitspraxis Berlin per E-Mail unter renateholst@aol.com oder telefonisch unter 030-32603676 kontaktieren."
-    },
-    {
-      "question": "Gibt es Informationen zu den Öffnungszeiten der Gesundheitspraxis Berlin?",
-      "answer": "Im aktuellen Eintrag sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

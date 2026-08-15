@@ -57,26 +57,5 @@
     "/images/entries/heilpraktiker-dr-marcus-schutz/2.webp",
     "/images/entries/heilpraktiker-dr-marcus-schutz/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktiker Dr. Marcus Schütz an?",
-      "answer": "Dr. Marcus Schütz behandelt Erkrankungen des Bewegungsapparates mit der Manualtherapie nach Prof. Werner, einer Mischtherapie aus Chiropraxis, Osteopathie und manueller Therapie. Zudem bietet er die Schlangengift-Enzym-Therapie zur Behandlung von Allergien, Asthma, Neurodermitis, Migräne, Arthrosen sowie rheumatischen und autoimmunen Erkrankungen an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Dr. Marcus Schütz vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 01713541463 oder per E-Mail an chiropraxis@hotmail.de vereinbaren."
-    },
-    {
-      "question": "Wann hat die Praxis von Dr. Marcus Schütz geöffnet?",
-      "answer": "Die Praxis hat montags und dienstags von 14:00 bis 18:00 Uhr sowie mittwochs von 09:00 bis 13:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Dr. Marcus Schütz?",
-      "answer": "Die Praxis befindet sich in Berlin, im Stadtteil Tempelhof-Schöneberg, an der Adresse Dr. Marcus Schütz, 12161 Berlin, Deutschland."
-    },
-    {
-      "question": "Welche zusätzlichen Therapien bietet Dr. Marcus Schütz an?",
-      "answer": "Zusätzlich zur Manualtherapie bietet Dr. Marcus Schütz Vitamin-Aufbauspritzen an, um das Immunsystem, die Blutbildung, die Nerven- und Muskeltätigkeit sowie die Stresstoleranz zu stärken."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "duygu-duran-firat-m-a-heilpraktikerin-psychotherapie-musiktherapeutin-traumapada",
   "name": "Duygu Duran-Firat M.A., Heilpraktikerin (Psychotherapie), Musiktherapeutin, Traumapädagogin, Traumazentrierte Fachberaterin",
   "description": "Duygu Duran-Firat M.A. ist eine erfahrene Heilpraktikerin für Psychotherapie, Musiktherapeutin und Traumapädagogin mit einer Praxis in Berlin-Neukölln. Sie bietet eine einfühlsame Begleitung in der Psychotherapie und Musiktherapie an, um Klient*innen bei der Entdeckung und Nutzung ihrer eigenen Ressourcen zu unterstützen. In ihrer Praxis werden sowohl Einzel- als auch Gruppentherapien sowie Online-Psychotherapie angeboten, wobei der Fokus auf ressourcen- und lösungsorientierten Ansätzen liegt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Sonnenallee 90",
     "locality": "Berlin",
@@ -92,24 +93,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Duygu Duran-Firat an?",
-      "answer": "Duygu Duran-Firat bietet Psychotherapie, Musiktherapie, Einzeltherapie, Gruppentherapie und Online-Psychotherapie an."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Im Ersttermin findet ein Aufnahmegespräch und eine Diagnostik statt. Dieses Gespräch dauert zwei Stunden und klärt die Sachlage."
     },
     {
       "question": "Wie lange dauert eine Therapiesitzung?",
-      "answer": "Eine Therapiesitzung dauert in der Regel 50 bis 60 Minuten."
+      "answer": "Eine Therapiesitzung dauert 50 bis 60 Minuten."
     },
     {
-      "question": "Wie hoch sind die Kosten für eine Therapiesitzung?",
-      "answer": "Die Kosten für eine Einzeltherapie betragen 90 Euro, für eine Gruppentherapie 35 Euro pro Person und die Erstberatung kostet 120 Euro."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite duyguduran.com vereinbaren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis ist montags von 09:00 bis 19:00 Uhr und freitags von 09:00 bis 18:00 Uhr geöffnet."
+      "question": "Übernehmen die Krankenkassen die Kosten für die Therapie?",
+      "answer": "Als Heilpraktikerin für Psychotherapie erstelle ich keine Abrechnungen mit den gesetzlichen Krankenkassen. Private Krankenkassen oder Zusatzversicherungen übernehmen die Kosten ganz oder teilweise, abhängig vom Versicherungsvertrag."
     }
   ]
 }

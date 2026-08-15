@@ -3,7 +3,7 @@
   "slug": "praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin",
   "name": "Praxis für Psychotherapie & Traumatherapie – Pia Götz. Heilpraktikerin",
   "description": "Die folgenden Hinweise geben einen Überblick darüber, welche personenbezogenen Daten auf dieser Website erfasst und wie sie verarbeitet werden. Heilpraktikerin (Psychotherapie, Chinesische Medizin)",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "@ Praxis Gaca",
     "locality": "Berlin",
@@ -92,5 +93,18 @@
     "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/3.webp",
     "/images/entries/praxis-fur-psychotherapie-traumatherapie-pia-gotz-heilpraktikerin/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was erwartet mich beim Ersttermin in der Praxis für Psychotherapie & Traumatherapie?",
+      "answer": "Sie haben ein kostenfreies Vorabgespräch (20–30 Minuten) für ein erstes Kennenlernen und Ihre Fragen. Danach folgt ein Erstgespräch (60–90 Minuten), um Ihr Anliegen ausführlicher zu besprechen und die Zusammenarbeit zu klären."
+    },
+    {
+      "question": "Wie lange dauern die Sitzungen in der Praxis?",
+      "answer": "Die Sitzungen dauern entweder 60 Minuten oder 90 Minuten."
+    },
+    {
+      "question": "Werden die Sitzungen von gesetzlichen Krankenkassen übernommen?",
+      "answer": "Die Sitzungen sind eine Selbstzahlerleistung. Es erfolgt keine Abrechnung über gesetzliche Krankenkassen."
+    }
+  ]
 }

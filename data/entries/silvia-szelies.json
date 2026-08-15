@@ -3,7 +3,7 @@
   "slug": "silvia-szelies",
   "name": "Silvia Szelies",
   "description": "Silvia Szelies ist eine erfahrene Heilpraktikerin in Berlin-Reinickendorf, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis, der Familienpraxis Lebenskraft, bietet sie individuelle Beratung und Behandlung in einer freundlichen Atmosphäre, die nach Feng-Shui-Prinzipien gestaltet ist. Neben klassischer Homöopathie umfasst ihr Angebot auch Familienbegleitung sowie pränatale und geburtsvorbereitende Unterstützung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Wittenau 25",
     "locality": "Berlin",
@@ -49,24 +50,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Silvia Szelies?",
-      "answer": "Die Praxis befindet sich in Berlin, Alt-Wittenau 25, 13437 Berlin."
+      "question": "Was passiert beim Ersttermin?",
+      "answer": "Einer homöopathischen Behandlung sollte eine eingehende Anamnese des Patienten vorausgehen. Die individuelle gründliche Fallaufnahme ist eine wichtige Basis. Patienten merken, dass ihre Selbstwahrnehmung durch das Beobachten und Beschreiben ihrer Symptomatik zunimmt."
     },
     {
-      "question": "Welche Leistungen bietet Silvia Szelies an?",
-      "answer": "Silvia Szelies bietet unter anderem Termine, Familienbegleitung, pränatale und Geburtsarbeit an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Silvia Szelies buchen: lebenskraft-berlin.de."
-    },
-    {
-      "question": "Wie sind die Sprechzeiten der Praxis?",
-      "answer": "Die Sprechzeiten sind Montag und Donnerstag von 14:00 bis 18:00 Uhr sowie Dienstag und Freitag von 09:00 bis 13:00 Uhr, und nach Vereinbarung."
-    },
-    {
-      "question": "Wie kann ich Silvia Szelies kontaktieren?",
-      "answer": "Sie können Silvia Szelies telefonisch unter 03043774849 oder per E-Mail an silviaszelies@web.de kontaktieren."
+      "question": "Bieten Sie etwas für Kinder an?",
+      "answer": "Die Schmetterlingsmassage ist eine sanfte liebevolle Form der Körperarbeit für Säuglinge und Erwachsene. Sie besteht aus leichten Streichungen, sanftem Schütteln der Muskulatur und zarten Berührungen von Körperpunkten."
     }
   ]
 }

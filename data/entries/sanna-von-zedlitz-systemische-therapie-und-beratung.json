@@ -3,7 +3,7 @@
   "slug": "sanna-von-zedlitz-systemische-therapie-und-beratung",
   "name": "Sanna von Zedlitz - Systemische Therapie und Beratung",
   "description": "Sanna von Zedlitz bietet in ihrer Praxis in Berlin-Systemische Therapie und Beratung an. Als Heilpraktikerin für Psychotherapie unterstützt sie ihre Klienten dabei, selbstbestimmt Ziele zu setzen und hinderliche Muster zu durchbrechen. Mit einem ganzheitlichen Ansatz geht sie auf individuelle Herausforderungen ein und fördert die Selbsthilfe durch Methoden wie autogenes Training.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "hypnose"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Rubensstraße 40",
     "locality": "Berlin",
@@ -36,24 +37,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet Sanna von Zedlitz an?",
-      "answer": "Sanna von Zedlitz bietet Systemische Therapie und Beratung an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sanna von Zedlitz?",
-      "answer": "Die Praxis befindet sich in der Rubensstraße 40, 12159 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Sanna von Zedlitz vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer 01771950689 oder über die Webseite hypnotherapie-friedenau.de vereinbaren."
-    },
-    {
-      "question": "Was ist das Ziel der systemischen Therapie bei Sanna von Zedlitz?",
-      "answer": "Das Ziel der systemischen Therapie ist es, dass Sie selbstbestimmt Ihre Ziele festlegen und verfolgen sowie alte, hinderliche Muster durchbrechen."
-    },
-    {
-      "question": "Bietet Sanna von Zedlitz auch Selbsthilfe-Methoden an?",
-      "answer": "Ja, Sanna von Zedlitz bietet autogenes Training als eine Art Selbsthilfe to go an."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 13 Minuten."
     }
   ]
 }

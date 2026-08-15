@@ -3,7 +3,7 @@
   "slug": "kathleen-hilsing-heilpraktiker",
   "name": "Kathleen Hilsing, Heilpraktiker",
   "description": "Kathleen Hilsing ist eine erfahrene Heilpraktikerin mit Schwerpunkt auf Akupunktur und traditioneller chinesischer Medizin (TCM). Ihre Praxis befindet sich in der Mommsenstraße 3 in Berlin-Charlottenburg. Auf ihrer Website bietet sie Einblicke in ihre Arbeit und die verschiedenen Behandlungsmethoden an, die sie anwendet, um das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mommsenstraße 3",
     "locality": "Berlin",
@@ -35,22 +36,5 @@
     "/images/entries/kathleen-hilsing-heilpraktiker/0.webp",
     "/images/entries/kathleen-hilsing-heilpraktiker/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Kathleen Hilsing?",
-      "answer": "Die Praxis von Kathleen Hilsing befindet sich in der Mommsenstraße 3, 10629 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Kathleen Hilsing an?",
-      "answer": "Kathleen Hilsing bietet Behandlungen in den Bereichen Akupunktur, Traditionelle Chinesische Medizin (TCM) und Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Kathleen Hilsing buchen?",
-      "answer": "Sie können einen Termin über die Website von Kathleen Hilsing buchen, indem Sie den folgenden Link nutzen: http://www.akupunkturpraxis-hilsing.de/kontakt-termine/."
-    },
-    {
-      "question": "Wie kann ich Kathleen Hilsing telefonisch erreichen?",
-      "answer": "Sie können Kathleen Hilsing unter der Telefonnummer 01776433824 erreichen."
-    }
-  ]
+  "faq": []
 }

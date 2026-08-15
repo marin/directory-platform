@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-sibylle-kramer",
   "name": "Heilpraktikerin Sibylle Kramer",
   "description": "Heilpraktikerin Sibylle Kramer bietet in ihrer Praxis in Berlin-Neukölln umfassende Behandlungen in den Bereichen Osteopathie, Akupunktur (TCM) und Naturheilkunde an. Mit einem ganzheitlichen Ansatz unterstützt sie ihre Patienten dabei, ihre Gesundheit zu fördern und Beschwerden zu lindern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Friedrich-Wilhelm-Straße 85",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "phone": "03072012222",
   "email": "sibylle.kramer@berlin.de",
   "website": "https://www.heilpraktikerin-sibylle-kramer-berlin.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbS9vGFZFqEcRbSS1VPgaU5E",
+  "googleMapsRating": 3.7,
+  "googleMapsRatingsCount": 3,
   "openingHours": [
     {
       "day": "Monday",
@@ -56,25 +60,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Sibylle Kramer an?",
-      "answer": "Heilpraktikerin Sibylle Kramer bietet Behandlungen in den Bereichen Osteopathie, Akupunktur (TCM) und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sibylle Kramer?",
-      "answer": "Die Praxis von Heilpraktikerin Sibylle Kramer befindet sich in der Friedrich-Wilhelm-Straße 85, 12099 Berlin, Neukölln."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 08:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Sibylle Kramer kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Sibylle Kramer telefonisch unter 03072012222 oder per E-Mail unter sibylle.kramer@berlin.de kontaktieren."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJbS9vGFZFqEcRbSS1VPgaU5E",
-  "googleMapsRating": 3.7,
-  "googleMapsRatingsCount": 3
+  "faq": []
 }

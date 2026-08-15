@@ -3,7 +3,7 @@
   "slug": "marcel-hermkes-psychotherapeutische-praxis-fur-gestalttherapie-coaching-heilprak",
   "name": "Marcel Hermkes - Psychotherapeutische Praxis für Gestalttherapie & Coaching | Heilpraktiker für Psychotherapie",
   "description": "In der psychotherapeutischen Praxis von Marcel Hermkes in Berlin-Friedenau werden Gestalttherapie, traumainformierte Begleitung und Coaching angeboten. Der Heilpraktiker für Psychotherapie schafft einen geschützten Raum, in dem Klienten emotionale Herausforderungen bewältigen und persönliche sowie berufliche Veränderungsprozesse unterstützen können. Durch einen ganzheitlichen und integrativen Ansatz wird der Zugang zu Selbsterfahrung und Heilung gefördert.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wielandstraße 9",
     "locality": "Berlin",
@@ -115,24 +116,8 @@
   ],
   "faq": [
     {
-      "question": "Welche therapeutischen Ansätze bietet Marcel Hermkes an?",
-      "answer": "Marcel Hermkes bietet Gestalttherapie, traumainformierte Begleitung und Coaching an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Marcel Hermkes?",
-      "answer": "Die Praxis befindet sich in der Wielandstraße 9, 12159 Berlin, im Stadtteil Friedenau."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite gestalttherapie-hermkes.de buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 19:00 Uhr, am Freitag von 08:00 bis 20:00 Uhr und am Samstag von 08:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Marcel Hermkes kontaktieren?",
-      "answer": "Sie können Marcel Hermkes telefonisch unter 017674584935 oder per E-Mail an gestaltpraxis-hermkes@posteo.de kontaktieren."
+      "question": "Wie kann ich einen Ersttermin vereinbaren?",
+      "answer": "Melden Sie sich gerne telefonisch, per E-Mail oder über das Kontaktformular. Ich werde dann mit Ihnen zeitnah einen Termin für ein kostenloses Erstgespräch vereinbaren."
     }
   ]
 }

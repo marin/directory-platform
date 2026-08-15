@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-quaschning",
   "name": "Naturheilpraxis Quaschning",
   "description": "Die Naturheilpraxis Quaschning in Berlin-Treptow-Köpenick bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Traditionelle Chinesische Medizin (TCM), Klopfakupressur und Hypnose. Heilpraktikerin Cornelia Quaschning legt besonderen Wert auf eine ganzheitliche Betrachtung der Patienten und unterstützt sie bei der Regulierung ihrer Mitte, um Beschwerden und seelisches Ungleichgewicht zu behandeln. Die Praxis bietet auch kostenlose Kennenlern- und Infogespräche an, um individuelle Anliegen zu besprechen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bahnhofstraße 41",
     "locality": "Berlin",
@@ -117,26 +118,5 @@
     "/images/entries/naturheilpraxis-quaschning/3.webp",
     "/images/entries/naturheilpraxis-quaschning/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Quaschning an?",
-      "answer": "Die Naturheilpraxis Quaschning bietet verschiedene Therapien an, darunter Traditionelle Chinesische Medizin (TCM), Klopfakupressur, Hypnose, Dorn-/Breuss-Therapie und viele weitere Methoden zur Behandlung von Schmerzen und zur Förderung des Wohlbefindens."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Quaschning buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Quaschning telefonisch unter 0151/56681944 vereinbaren oder über die Webseite im Kontaktbereich einen Termin anfragen."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Quaschning geöffnet?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Quaschning sind: Dienstag bis Donnerstag von 09:00 bis 21:00 Uhr, Freitag von 10:00 bis 19:00 Uhr und Samstag von 09:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Bietet die Naturheilpraxis Quaschning ein kostenloses Kennenlern- und Infogespräch an?",
-      "answer": "Ja, die Naturheilpraxis Quaschning bietet ein kostenloses Kennenlern- und Infogespräch an, in dem Sie über Ihr Anliegen sprechen können und erfahren, wie Ihnen geholfen werden kann."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Quaschning?",
-      "answer": "Die Naturheilpraxis Quaschning befindet sich in der Bahnhofstraße 41, 12555 Berlin, im Stadtteil Treptow-Köpenick."
-    }
-  ]
+  "faq": []
 }

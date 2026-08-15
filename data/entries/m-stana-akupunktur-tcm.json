@@ -3,7 +3,7 @@
   "slug": "m-stana-akupunktur-tcm",
   "name": "M.Stana - Akupunktur & TCM",
   "description": "M.Stana - Akupunktur & TCM ist eine Naturheilpraxis in Berlin-Steglitz, die sich auf Akupunktur und Traditionelle Chinesische Medizin (TCM) spezialisiert hat. Die Praxis bietet zudem medizinisches Qigong und Taiji an, um das körperliche und geistige Wohlbefinden zu fördern. Unter der Leitung von Heilpraktikerin Marzena Stana werden individuelle Behandlungen angeboten, die darauf abzielen, die eigenen Heilungskräfte des Körpers zu aktivieren und den harmonischen Qi-Fluss wiederherzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Muthesiusstraße 14",
     "locality": "Berlin",
@@ -63,26 +64,5 @@
     "/images/entries/m-stana-akupunktur-tcm/3.webp",
     "/images/entries/m-stana-akupunktur-tcm/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von M.Stana - Akupunktur & TCM?",
-      "answer": "Die Praxis befindet sich in der Muthesiusstraße 14, 12163 Berlin, im Bezirk Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Welche Behandlungen bietet M.Stana an?",
-      "answer": "M.Stana bietet Behandlungen in den Bereichen Akupunktur, Traditionelle Chinesische Medizin (TCM), medizinisches Qigong und Taiji an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Website unter https://www.mstana-tcm.de/kontakt buchen."
-    },
-    {
-      "question": "Welche Kontaktmöglichkeiten gibt es für die Praxis?",
-      "answer": "Sie können die Praxis telefonisch unter 017656010027 erreichen oder die Website http://www.mstana-tcm.de/ besuchen."
-    },
-    {
-      "question": "Was ist das Ziel der Akupunktur in der Praxis von M.Stana?",
-      "answer": "Das Ziel der Akupunktur in der Praxis von M.Stana ist es, das Gesundheitspotenzial des Körpers zu entfalten und den harmonischen Qi-Fluss wiederherzustellen."
-    }
-  ]
+  "faq": []
 }

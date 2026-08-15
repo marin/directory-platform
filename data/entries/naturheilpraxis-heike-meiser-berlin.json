@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-heike-meiser-berlin",
   "name": "Naturheilpraxis Heike Meiser, Berlin",
   "description": "Die Naturheilpraxis Heike Meiser in Berlin bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Reiki, Homöopathie und die Breuß-Massage. Ziel der Praxis ist es, den Patienten zu helfen, ihr persönliches Gleichgewicht zu finden und ihre Gesundheit zu fördern. Heike Meiser, die Inhaberin, legt großen Wert auf eine individuelle und einfühlsame Betreuung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Teltower Damm 207",
     "locality": "Berlin",
@@ -37,22 +38,5 @@
     "/images/entries/naturheilpraxis-heike-meiser-berlin/3.webp",
     "/images/entries/naturheilpraxis-heike-meiser-berlin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Heike Meiser?",
-      "answer": "Die Naturheilpraxis Heike Meiser befindet sich am Teltower Damm 207, 14167 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Heike Meiser kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Heike Meiser telefonisch unter 03084721788 oder per E-Mail an info@meiser-berlin.de kontaktieren."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Heike Meiser an?",
-      "answer": "Heike Meiser bietet verschiedene Behandlungsmethoden an, darunter Reiki, Homöopathie und die Breuß-Massage."
-    },
-    {
-      "question": "Welche Philosophie verfolgt Heike Meiser in ihrer Praxis?",
-      "answer": "Heike Meiser verfolgt die Philosophie, dass die Gesundheit in der Balance des Körpers zu finden ist und hilft ihren Patienten, ihr persönliches Gleichgewicht wiederherzustellen."
-    }
-  ]
+  "faq": []
 }

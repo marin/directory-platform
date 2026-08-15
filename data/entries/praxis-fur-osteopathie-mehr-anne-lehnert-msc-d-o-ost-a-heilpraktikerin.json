@@ -201,22 +201,5 @@
   "images": [
     "/images/entries/praxis-fur-osteopathie-mehr-anne-lehnert-msc-d-o-ost-a-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien werden in der Praxis für Osteopathie & mehr angeboten?",
-      "answer": "In der Praxis werden verschiedene Therapien angeboten, darunter Osteopathie, manuelle Therapie, Krankengymnastik und Bewegungstherapie."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Anne Lehnert?",
-      "answer": "Die Praxis befindet sich in der Bölschestraße 101, 12587 Berlin, im Stadtteil Friedrichshagen."
-    },
-    {
-      "question": "Welche Beschwerden werden in der Praxis behandelt?",
-      "answer": "In der Praxis werden unter anderem Rückenbeschwerden, Ischiasschmerzen, Gelenkbeschwerden, Kopfschmerzen, Verdauungsstörungen und stressbedingte Verspannungen behandelt."
-    },
-    {
-      "question": "Gibt es Öffnungszeiten für die Praxis?",
-      "answer": "Die Praxis führt eine reine Bestellpraxis ohne Rezeption, daher sind keine festen Öffnungszeiten angegeben. Terminabsprachen sind nur telefonisch oder per SMS möglich."
-    }
-  ]
+  "faq": []
 }

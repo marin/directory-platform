@@ -3,7 +3,7 @@
   "slug": "arztpraxis-fur-naturheilkunde",
   "name": "Arztpraxis für Naturheilkunde",
   "description": "Die Arztpraxis für Naturheilkunde in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen für Kinder, Jugendliche und Erwachsene an. Die Praxis spezialisiert sich auf klassische Homöopathie, Akupunktur, Pflanzenheilkunde sowie Ernährungsmedizin und weitere Naturheilverfahren. Jede Behandlung beginnt mit einer gründlichen Anamnese, um das passende Heilverfahren für die individuellen Bedürfnisse der Patienten zu wählen. Ergänzend zur schulmedizinischen Therapie werden auch alternative Ansätze angeboten, um die Gesundheit zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Börnestraße 28",
     "locality": "Berlin",
@@ -36,24 +37,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Arztpraxis für Naturheilkunde an?",
-      "answer": "Die Praxis bietet klassische Homöopathie, Akupunktur, Pflanzenheilkunde, Ernährungsmedizin sowie andere Naturheilverfahren wie Neuraltherapie, Schröpfen, Bachblüten, Eigenbluttherapie, Blutegel und Vitamininfusionen an."
+      "question": "Wie läuft der Ersttermin in der Arztpraxis für Naturheilkunde ab?",
+      "answer": "Der Ersttermin beginnt mit einer gründlichen Befragung (Anamnese) Ihrer derzeitigen Beschwerden und Vorerkrankungen. Gemeinsam wird das passende Heilverfahren ausgewählt."
     },
     {
-      "question": "Wo befindet sich die Arztpraxis für Naturheilkunde?",
-      "answer": "Die Praxis befindet sich in der Börnestraße 28, 13088 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den Kontaktbereich besuchen: https://www.naturheilkunde-in-weissensee.de/kontakt/."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03091147582 oder per E-Mail an kerstin.wolf@naturheilkunde-in-weissensee.de kontaktieren."
-    },
-    {
-      "question": "Für welche Altersgruppen sind die Behandlungen geeignet?",
-      "answer": "Die Behandlungen in der Praxis sind für Kinder, Jugendliche und Erwachsene geeignet."
+      "question": "Bietet die Arztpraxis für Naturheilkunde Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis bietet ein breites Spektrum an naturheilkundlichen Behandlungen für Kinder, Jugendliche und Erwachsene an."
     }
   ]
 }

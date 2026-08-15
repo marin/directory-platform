@@ -66,6 +66,24 @@ export function isWebsiteOnlyFaq(item: { question: string; answer: string }): bo
   return false;
 }
 
+const NAP_FAQ_RE =
+  /wo (befindet|liegt|ist)( sich)? die (naturheil)?praxis|wie lautet die adresse|welche adresse|telefonnummer|wie (lautet|ist) (die |ihre )?telefon|wie kann ich .*(erreichen|anrufen|kontaktieren|buchen|vereinbaren)|welche (therapien|behandlungen|behandlungsangebote|leistungen|fachgebiete|preise)|öffnungszeiten|sprechzeiten|wann (hat|ist|sind) (die praxis |die sprech|geöffnet)|termin .{0,60}(buchen|vereinbaren)|wie (buche|vereinbare) ich einen termin|rückruf|telefonische beratung/i;
+
+const TOPIC_FAQ_RE =
+  /ersttermin|erstgespräch|anamnese|selbstzahler|gebü|krankenkasse|sprache|englisch|kinder|säugling|behandlungsdauer|wie lange dauert/i;
+
+export function isNapFaqItem(item: { question: string; answer: string }): boolean {
+  const question = item.question.trim();
+  if (TOPIC_FAQ_RE.test(question)) return false;
+  return NAP_FAQ_RE.test(question);
+}
+
+export function dropNapFaqItems(
+  items: Array<{ question: string; answer: string }>,
+): Array<{ question: string; answer: string }> {
+  return items.filter((item) => !isNapFaqItem(item));
+}
+
 export function sanitizeFaqItems(
   items: Array<{ question: string; answer: string }>,
 ): Array<{ question: string; answer: string }> {

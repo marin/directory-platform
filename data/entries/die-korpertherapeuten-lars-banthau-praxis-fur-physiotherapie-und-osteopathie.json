@@ -3,7 +3,7 @@
   "slug": "die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie",
   "name": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie",
   "description": "Die Körpertherapeuten Lars Banthau Praxis für Physiotherapie und Osteopathie in Berlin bietet eine ganzheitliche Betrachtung des Körpers und kombiniert fundierte Physiotherapie mit osteopathischem Denken. Das Team aus spezialisierten Therapeuten verfolgt das Ziel, nicht nur Symptome zu behandeln, sondern die Ursachen von Beschwerden zu identifizieren und zu beheben. Zu den Leistungen gehören unter anderem manuelle Therapie, Krankengymnastik, Sportphysiotherapie und Osteopathie, um die Bewegungsfreiheit der Patienten nachhaltig zu sichern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Heerstraße 24/26",
     "locality": "Berlin",
@@ -120,26 +121,5 @@
     "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/3.webp",
     "/images/entries/die-korpertherapeuten-lars-banthau-praxis-fur-physiotherapie-und-osteopathie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet verschiedene Therapieleistungen an, darunter Manuelle Therapie, Krankengymnastik (KGG), Sportphysiotherapie, Lymphdrainage, CMD Therapie und Massage."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Praxis über die Webseite buchen, indem Sie den folgenden Link nutzen: Jetzt Hilfe anfragen."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Heerstraße 24/26, 14052 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie erreiche ich die Praxis telefonisch?",
-      "answer": "Sie können die Praxis telefonisch unter der Nummer 03048820820 erreichen."
-    }
-  ]
+  "faq": []
 }

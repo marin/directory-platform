@@ -92,26 +92,5 @@
     "/images/entries/naturheilpraxis-kirsten-thagaard-heilpraktikerin/3.webp",
     "/images/entries/naturheilpraxis-kirsten-thagaard-heilpraktikerin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Kirsten Thagaard an?",
-      "answer": "Die Naturheilpraxis Kirsten Thagaard bietet unter anderem ganzheitliche Laboranalysen, Sauerstofftherapie, Vitamin-Infusionen, Colon-Hydro Therapie, Stoffwechseltherapie und Bioresonanz an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis sind wie folgt: Montag bis Dienstag von 09:00 bis 17:00 Uhr, Mittwoch von 09:00 bis 19:00 Uhr, Donnerstag von 09:00 bis 17:00 Uhr, Freitag und Samstag von 09:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Kirsten Thagaard?",
-      "answer": "Die Naturheilpraxis Kirsten Thagaard befindet sich in der Fischerhüttenstraße 83, 14163 Berlin, im Stadtteil Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie direkt über die Website der Naturheilpraxis buchen: Termin buchen."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Kirsten Thagaard telefonisch unter 015104011620 oder per E-Mail an info@kirsten-thagaard.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

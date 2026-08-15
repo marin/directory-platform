@@ -3,7 +3,7 @@
   "slug": "jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps",
   "name": "Jördis Friedl - Heilpraktikerin für Psychotherapie und Coaching - Spezialisierung Psychoonkologie",
   "description": "Jördis Friedl ist Heilpraktikerin für Psychotherapie und Coaching mit einer Spezialisierung auf Psychoonkologie in Berlin. Sie bietet einfühlsame Begleitung für Menschen in belastenden Lebenssituationen, insbesondere für Betroffene und Angehörige von Krebserkrankungen. In ihrer Praxis kombiniert sie professionelle Qualifikationen mit persönlicher Erfahrung und verfolgt einen ganzheitlichen Ansatz, der Körper, Seele und Geist in den Fokus stellt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gemeinschaftspraxis Erdgeschoss links",
     "locality": "Berlin",
@@ -109,26 +110,5 @@
     "/images/entries/jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps/1.webp",
     "/images/entries/jordis-friedl-heilpraktikerin-fur-psychotherapie-und-coaching-spezialisierung-ps/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche speziellen Leistungen bietet Jördis Friedl an?",
-      "answer": "Jördis Friedl bietet unter anderem Psychoonkologische Beratung und Therapie, Hypnotherapie sowie LifeCoaching an. Ihre Arbeit konzentriert sich auf Menschen in belastenden Lebenssituationen, insbesondere Betroffene und Angehörige von Krebserkrankungen."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Jördis Friedl buchen?",
-      "answer": "Sie können einen Termin online buchen, indem Sie auf den folgenden Link klicken: Termin buchen. Alternativ können Sie auch die Website heilpraxis-friedl.de besuchen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Jördis Friedl?",
-      "answer": "Die Praxis von Jördis Friedl befindet sich in der Gemeinschaftspraxis im Erdgeschoss links, in Berlin, Friedrichshain-Kreuzberg, mit der Postleitzahl 10967."
-    },
-    {
-      "question": "Wie kann ich Jördis Friedl kontaktieren?",
-      "answer": "Sie können Jördis Friedl telefonisch unter 017663160322 oder per E-Mail an info@heilpraxis-friedl.de kontaktieren."
-    },
-    {
-      "question": "Was unterscheidet Jördis Friedl von anderen Heilpraktikern?",
-      "answer": "Jördis Friedl kombiniert professionelle Qualifikationen mit persönlicher Erfahrung, insbesondere durch eigene Herausforderungen wie eine Krebsdiagnose. Sie verfolgt einen ganzheitlichen Ansatz, der den Menschen als Einheit von Körper, Seele und Geist betrachtet."
-    }
-  ]
+  "faq": []
 }

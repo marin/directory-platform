@@ -3,7 +3,7 @@
   "slug": "carolin-kleinmann-heilpraktikerin-fur-traumatherapie-und-stressbewaltigung",
   "name": "Carolin Kleinmann - Heilpraktikerin für Traumatherapie und Stressbewältigung",
   "description": "Carolin Kleinmann ist Heilpraktikerin für Traumatherapie und Stressbewältigung in Berlin-Pankow. In ihrer Praxis bietet sie Unterstützung bei der Bewältigung von emotionalen Herausforderungen, wie posttraumatischen Belastungsstörungen und chronischem Stress, an. Durch eine Kombination aus körperorientierten, kognitiven und emotionalen Methoden fördert sie die Selbstregulations- und Bindungsfähigkeiten ihrer Klienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Christburger Str. 9",
     "locality": "Berlin",
@@ -76,24 +77,16 @@
   ],
   "faq": [
     {
-      "question": "Wie kann ich einen Termin bei Carolin Kleinmann buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin Online buchen."
+      "question": "Kann ich ein Erstgespräch buchen?",
+      "answer": "Ja, du kannst ein Erstgespräch buchen, um die Möglichkeit zu haben, die Heilpraktikerin und ihre Arbeitsweise kennenzulernen."
     },
     {
-      "question": "Bietet Carolin Kleinmann auch Online-Sitzungen an?",
-      "answer": "Ja, Carolin Kleinmann bietet auch Online-Sitzungen an. Bitte kontaktieren Sie sie für weitere Informationen."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 90 Minuten."
     },
     {
-      "question": "Welche Behandlungsmethoden bietet Carolin Kleinmann an?",
-      "answer": "Carolin Kleinmann bietet Traumatherapie, EMDR, Somatic Experiencing und Methoden zur Stressbewältigung an."
-    },
-    {
-      "question": "Wie viele Sitzungen benötige ich in der Regel?",
-      "answer": "Die Anzahl der benötigten Sitzungen kann variieren. Carolin Kleinmann wird dies in einem ersten Gespräch mit Ihnen besprechen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Carolin Kleinmann?",
-      "answer": "Die Praxis befindet sich in der Christburger Str. 9, 10405 Berlin, Pankow."
+      "question": "Sind auch englische Sitzungen möglich?",
+      "answer": "Ja, Sitzungen auf Englisch sind möglich."
     }
   ]
 }

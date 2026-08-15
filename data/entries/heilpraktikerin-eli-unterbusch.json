@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-eli-unterbusch",
   "name": "Heilpraktikerin Eli Unterbusch",
   "description": "Heilpraktikerin Eli Unterbusch in Berlin bietet eine ganzheitliche Behandlung, die Körper, Geist und Seele in den Fokus stellt. Mit einer Ausbildung in Kinesiologie und langjähriger Erfahrung in der Arbeit mit Frauen, die an Brustkrebs erkrankt sind, verfolgt sie einen komplementären Ansatz, der alternative Methoden mit schulmedizinischen Verfahren kombiniert. Ihre Vision ist es, Menschen zu stärken und sie dazu anzuregen, ihre Denkmuster zu überdenken.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Rathenower Str. 50",
     "locality": "Berlin",
@@ -38,22 +39,5 @@
   "images": [
     "/images/entries/heilpraktikerin-eli-unterbusch/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Eli Unterbusch?",
-      "answer": "Die Praxis von Heilpraktikerin Eli Unterbusch befindet sich in der Rathenower Str. 50, 10559 Berlin."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Eli Unterbusch kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Eli Unterbusch telefonisch unter 01723283889 oder per E-Mail an info@eliunterbusch.de kontaktieren."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktikerin Eli Unterbusch an?",
-      "answer": "Heilpraktikerin Eli Unterbusch bietet unter anderem kinesiologische Sitzungen an und verfolgt einen komplementären Ansatz, der alternative Behandlungsmethoden mit schulmedizinischen Verfahren kombiniert."
-    },
-    {
-      "question": "Hat die Praxis von Heilpraktikerin Eli Unterbusch feste Öffnungszeiten?",
-      "answer": "Im Kontext sind keine festen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

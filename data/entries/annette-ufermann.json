@@ -69,22 +69,5 @@
     "/images/entries/annette-ufermann/0.webp",
     "/images/entries/annette-ufermann/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis von Annette Ufermann?",
-      "answer": "Die Praxis hat von Montag bis Freitag geöffnet, jeweils von 11:00 bis 21:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Annette Ufermann?",
-      "answer": "Die Praxis befindet sich in Berlin, Tegeler Weg 104, 10589 Berlin."
-    },
-    {
-      "question": "Wie kann ich Annette Ufermann kontaktieren?",
-      "answer": "Sie können Annette Ufermann telefonisch unter 03034501644 oder per E-Mail an annette_ufermann@gmx.de kontaktieren."
-    },
-    {
-      "question": "Welche Schwerpunkte hat die Praxis von Annette Ufermann?",
-      "answer": "Die Schwerpunkte der Praxis sind Tinnitus, Allergien, Sportverletzungen, Probleme des Bewegungsapparats, Depressionen/Burn Out, Panikattacken/Prüfungsangst, unerfüllter Kinderwunsch, Raucherentwöhnung, Hauterkrankungen und Übergewicht/Adipositas."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "praxis-finne",
   "name": "Praxis Finné",
   "description": "Die Praxis Finné in Berlin-Wilmersdorf bietet alternative, ganzheitliche Gesundheitsleistungen, die auf der Einheit von Körper, Geist und Seele basieren. Zu den angebotenen Therapien zählen Chiropraktik, medizinische Massagen, Photobiomodulation sowie individuelle Heilmethoden, die darauf abzielen, die Ursachen von Beschwerden zu behandeln und das Wohlbefinden der Patienten zu fördern. Die Praxis ist eine Oase der Ruhe und lädt dazu ein, sich von den Belastungen des Alltags zu erholen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mainzer Str. 23",
     "locality": "Berlin",
@@ -59,26 +60,5 @@
     "/images/entries/praxis-finne/3.webp",
     "/images/entries/praxis-finne/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis Finné an?",
-      "answer": "Die Praxis Finné bietet verschiedene Therapien an, darunter Therapie und Heilung, Chiropraktik, medizinische Massagen und Photobiomodulation."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Finné?",
-      "answer": "Die Praxis Finné befindet sich in der Mainzer Str. 23, 10715 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis Finné vereinbaren?",
-      "answer": "Um einen Termin in der Praxis Finné zu vereinbaren, können Sie die Webseite besuchen und das Kontaktformular nutzen oder direkt anrufen unter der Telefonnummer 03027019964."
-    },
-    {
-      "question": "Was ist Photobiomodulation und wie funktioniert sie?",
-      "answer": "Photobiomodulation ist eine Therapie, die durch Stimulation von Akupunkturpunkten den Energiefluss im Körper beeinflusst. Dabei werden Biophotonenpflaster an den entsprechenden Akupunkturpunkten platziert, um die Selbstregulierung der Zellen zu fördern."
-    },
-    {
-      "question": "Bietet die Praxis Finné auch Unterstützung bei Stress und Angstgefühlen an?",
-      "answer": "Ja, die Chiropraktik in der Praxis Finné hilft unter anderem dabei, Stress und Angstgefühle zu reduzieren."
-    }
-  ]
+  "faq": []
 }

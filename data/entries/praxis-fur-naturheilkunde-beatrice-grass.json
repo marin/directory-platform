@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-beatrice-grass",
   "name": "Praxis für Naturheilkunde Beatrice Grass",
   "description": "Die Praxis für Naturheilkunde Beatrice Grass befindet sich in der Niedstraße 13 in Berlin, im Stadtteil Tempelhof-Schöneberg. Hier werden verschiedene naturheilkundliche Behandlungsmethoden angeboten, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Niedstraße 13",
     "locality": "Berlin",
@@ -24,26 +25,9 @@
   },
   "phone": "03085401309",
   "website": "http://www.beatricegrass.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ58UyqHtQqEcRp3mrOFC0VQU",
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde Beatrice Grass?",
-      "answer": "Die Praxis befindet sich in der Niedstraße 13, 12159 Berlin, im Bezirk Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich die Praxis für Naturheilkunde Beatrice Grass kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter der Nummer 03085401309 kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Im Kontext sind keine spezifischen Dienstleistungen aufgeführt."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten der Praxis für Naturheilkunde Beatrice Grass?",
-      "answer": "Im Kontext sind keine Öffnungszeiten angegeben."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ58UyqHtQqEcRp3mrOFC0VQU"
+  "faq": []
 }

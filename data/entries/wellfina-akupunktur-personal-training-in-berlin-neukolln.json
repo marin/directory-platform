@@ -3,7 +3,7 @@
   "slug": "wellfina-akupunktur-personal-training-in-berlin-neukolln",
   "name": "Wellfina - Akupunktur & Personal Training in Berlin Neukölln",
   "description": "Wellfina in Berlin Neukölln bietet eine Kombination aus Akupunktur, Personal Training und Ernährungsberatung an. Die Praxis legt Wert auf individuelle Betreuung und unterstützt ihre Klienten dabei, ihre Lebensqualität zu verbessern und gesundheitliche Herausforderungen zu bewältigen. Neben klassischen Therapien werden auch spezielle Büro-Mini-Workouts angeboten, um Verspannungen zu lösen und die Haltung zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -13,6 +13,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Emser Str. 128",
     "locality": "Berlin",
@@ -53,26 +54,5 @@
     "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/3.webp",
     "/images/entries/wellfina-akupunktur-personal-training-in-berlin-neukolln/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich Wellfina in Berlin Neukölln?",
-      "answer": "Wellfina befindet sich in der Emser Str. 128, 12051 Berlin."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Wellfina an?",
-      "answer": "Wellfina bietet Akupunktur, Personal Training, Ernährungsberatung und Büro-Mini-Workouts an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Wellfina buchen?",
-      "answer": "Sie können einen Termin bei Wellfina über die Buchungsseite auf Doctolib buchen: https://www.doctolib.de/heilpraktiker/berlin/stefanie-kerbusch?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Wie kann ich Wellfina kontaktieren?",
-      "answer": "Sie können Wellfina telefonisch unter 01723292622 oder per E-Mail an info@wellfina.de kontaktieren."
-    },
-    {
-      "question": "Gibt es Informationen zu den Öffnungszeiten von Wellfina?",
-      "answer": "Aktuell sind keine Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

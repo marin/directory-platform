@@ -3,7 +3,7 @@
   "slug": "korpertherapie-rolfing-pilates-heilpraktikerin-fur-physiotherapie-faszientherapi",
   "name": "Körpertherapie Rolfing&Pilates - Heilpraktikerin für Physiotherapie - Faszientherapie - Prenzlauer Berg- Pia Schulze Brock",
   "description": "Pia Schulze Brock ist eine erfahrene Heilpraktikerin für Physiotherapie mit einer spezialisierten Praxis für Körpertherapie im Prenzlauer Berg, Berlin. Ihr Angebot umfasst Rolfing, eine Form der strukturellen Integration, sowie Pilates und Faszientherapie. Die Praxis legt Wert auf individuelle Therapieansätze zur Förderung der körperlichen Gesundheit und des Wohlbefindens.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Winsviertel",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   "phone": "017699263948",
   "email": "rolfing@posteo.de",
   "website": "http://koerpertherapie-rolfing.com/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwWBZnnVTqEcRqCrbiv4uUg8",
   "openingHours": [
     {
       "day": "Monday",
@@ -66,23 +68,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Therapieangebote bietet Pia Schulze Brock an?",
-      "answer": "Pia Schulze Brock bietet Körpertherapie durch Rolfing, Pilates und Faszientherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Körpertherapie Rolfing&Pilates?",
-      "answer": "Die Praxis befindet sich im Winsviertel, 10405 Berlin, Prenzlauer Berg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag, Mittwoch und Freitag von 08:00 bis 20:00 Uhr sowie Samstag von 09:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Pia Schulze Brock kontaktieren?",
-      "answer": "Sie können Pia Schulze Brock telefonisch unter 0176 99263948 oder per E-Mail an rolfing@posteo.de kontaktieren."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJwWBZnnVTqEcRqCrbiv4uUg8"
+  "faq": []
 }

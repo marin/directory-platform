@@ -3,7 +3,7 @@
   "slug": "osteopathie-friedrichshagen",
   "name": "Osteopathie Friedrichshagen",
   "description": "Osteopathie Friedrichshagen in Berlin bietet umfassende osteopathische Behandlungen sowie naturheilkundliche Therapien an. Die Praxis befindet sich in der Aßmannstraße 48 und wird von Jochen Wendel geleitet. Hier steht die ganzheitliche Gesundheit im Fokus, wobei individuelle Therapieansätze zur Förderung des Wohlbefindens entwickelt werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Aßmannstraße 48",
     "locality": "Berlin",
@@ -64,22 +65,5 @@
   "images": [
     "/images/entries/osteopathie-friedrichshagen/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis Osteopathie Friedrichshagen?",
-      "answer": "Die Praxis befindet sich in der Aßmannstraße 48, 12587 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 09:00 bis 18:30 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01785513691 erreichen."
-    },
-    {
-      "question": "Bietet die Praxis spezielle Dienstleistungen an?",
-      "answer": "Aktuell wird auf der Website ein Angebot mit dem Titel 'Coming soon' angezeigt."
-    }
-  ]
+  "faq": []
 }

@@ -46,26 +46,5 @@
     "/images/entries/manuela-jeske-heilpraktikerin/0.webp",
     "/images/entries/manuela-jeske-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Manuela Jeske?",
-      "answer": "Die Praxis von Manuela Jeske befindet sich in der George-Caylay-Straße 13, 14089 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Welche Behandlungen bietet Manuela Jeske an?",
-      "answer": "Manuela Jeske bietet verschiedene Behandlungen an, darunter Heilpraktikerleistungen, Darmsanierung, Erfahrungsheilkunde und Datenschutz in der Praxis."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Manuela Jeske buchen?",
-      "answer": "Sie können einen Termin bei Manuela Jeske über die Webseite buchen: Termin buchen."
-    },
-    {
-      "question": "Was ist das Ziel der Behandlung bei Manuela Jeske?",
-      "answer": "Das Ziel der Behandlung bei Manuela Jeske ist es, den Patienten zu helfen, ihre eigene Weisheit zu entdecken und die Ursachen ihrer Symptome zu ergründen, um Körper, Geist und Seele wieder ins Gleichgewicht zu bringen."
-    },
-    {
-      "question": "Wie schützt Manuela Jeske die Daten ihrer Patienten?",
-      "answer": "Die Daten der Patienten werden auf der Grundlage der Datenschutzverordnung vom 26.5.2018 (EU DS_GVO) sowie des aktuellen Bundesdatenschutzgesetzes geschützt."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "universanus-zentrum-fur-alternative-ganzheitliche-medizin-heilkunde",
   "name": "Universanus - Zentrum für alternative ganzheitliche Medizin & Heilkunde",
   "description": "Im Universanus Gesundheitszentrum in Berlin Mitte vereinen sich alternative ganzheitliche Medizin und Heilkunde. Das Team aus erfahrenen Heilpraktikern, Ärzten und Therapeuten bietet individuelle Behandlungspläne in den Bereichen Osteopathie, Naturheilkunde und Physiotherapie an. Ziel ist es, die Selbstheilungskräfte des Körpers zu fördern und die Gesundheit auf allen Ebenen zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Torstraße 177",
     "locality": "Berlin",
@@ -132,24 +133,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet das Universanus Gesundheitszentrum an?",
-      "answer": "Das Universanus Gesundheitszentrum bietet Osteopathie, Kinderosteopathie, ärztliche Naturheilverfahren und Physiotherapie an."
+      "question": "Wie kann ich einen Ersttermin vereinbaren?",
+      "answer": "Kontaktieren Sie uns, um den ersten Termin mit einem unserer erfahrenen Therapeuten zu vereinbaren. Nutzen Sie unsere Online-Terminbuchung für eine schnelle und unkomplizierte Vereinbarung."
     },
     {
-      "question": "Wie kann ich einen Termin im Universanus Gesundheitszentrum vereinbaren?",
-      "answer": "Sie können einen Termin online über die Webseite unter https://universanus.de/termine-vereinbaren/ vereinbaren."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Dauer einer Sitzung beträgt in der Regel nicht länger als 5 Minuten Wartezeit."
     },
     {
-      "question": "Welche Öffnungszeiten hat das Universanus Gesundheitszentrum?",
-      "answer": "Das Universanus Gesundheitszentrum hat von Montag bis Donnerstag von 08:00 bis 20:00 Uhr und am Freitag von 08:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Gibt es eine Erstberatung für Osteopathie?",
-      "answer": "Ja, das Universanus Gesundheitszentrum bietet eine kostenlose osteopathische Erstberatung für Erwachsene und Kinder an."
-    },
-    {
-      "question": "Wo befindet sich das Universanus Gesundheitszentrum?",
-      "answer": "Das Universanus Gesundheitszentrum befindet sich in der Torstraße 177, 10115 Berlin."
+      "question": "Bieten Sie Behandlungen für Kinder an?",
+      "answer": "Ja, Kinderosteopathie ist eine spezialisierte, sanfte Behandlung für Säuglinge, Kinder und Jugendliche."
     }
   ]
 }

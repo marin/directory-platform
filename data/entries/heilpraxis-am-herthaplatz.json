@@ -3,7 +3,7 @@
   "slug": "heilpraxis-am-herthaplatz",
   "name": "Heilpraxis am Herthaplatz",
   "description": "Die Heilpraxis am Herthaplatz in Berlin-Pankow bietet ganzheitliche Körpertherapien an, darunter osteopathische und craniosacrale Techniken sowie Fußreflextherapie und Massagen. Die Praxis verfügt über drei ruhige und einladende Räume, die jeweils einer Pflanze gewidmet sind: der Birke, der Thuja und dem Ahorn. Hier wird Wert auf eine individuelle Betreuung gelegt, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Herthapl. 9",
     "locality": "Berlin",
@@ -40,22 +41,5 @@
     "/images/entries/heilpraxis-am-herthaplatz/3.webp",
     "/images/entries/heilpraxis-am-herthaplatz/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis am Herthaplatz?",
-      "answer": "Die Heilpraxis am Herthaplatz befindet sich in der Herthapl. 9, 13156 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Welche Therapien werden in der Heilpraxis angeboten?",
-      "answer": "In der Heilpraxis am Herthaplatz werden ganzheitliche Körpertherapien angeboten, darunter osteopathische und craniosacrale Techniken, Fußreflextherapie und Massagen."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis am Herthaplatz kontaktieren?",
-      "answer": "Sie können die Heilpraxis am Herthaplatz telefonisch unter 03047488740 oder per E-Mail an info@physiotherapie-am-herthaplatz.de kontaktieren."
-    },
-    {
-      "question": "Welche speziellen Angebote gibt es in der Heilpraxis?",
-      "answer": "Ein spezielles Angebot in der Heilpraxis am Herthaplatz sind die sogenannten \"Blitzlichter\"."
-    }
-  ]
+  "faq": []
 }

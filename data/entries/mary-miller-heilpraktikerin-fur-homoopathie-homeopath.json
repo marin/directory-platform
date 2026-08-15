@@ -66,24 +66,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Mary Miller an?",
-      "answer": "Mary Miller ist Heilpraktikerin für Homöopathie und bietet Behandlungen für Frauenheilkunde, Schwangerschaftsprobleme, sowie pädiatrische Anliegen an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Mary Miller buchen?",
-      "answer": "Sie können einen Termin online buchen, indem Sie diesen Link verwenden: Termin buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag, Mittwoch, Donnerstag und Freitag von 09:00 bis 16:00 Uhr und Dienstag von 15:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Mary Miller?",
-      "answer": "Die Praxis befindet sich in der Stargarder Str. 63, 10437 Berlin, im Stadtteil Prenzlauer Berg."
-    },
-    {
-      "question": "Wie kann ich Mary Miller kontaktieren?",
-      "answer": "Sie können Mary Miller telefonisch unter 03030136945 oder per E-Mail an info@marymiller.de kontaktieren."
+      "question": "Bietet Mary Miller Behandlungen für Kinder an?",
+      "answer": "Ja, sie bietet Behandlungen für Kinder bei Entwicklungsstörungen und akuten Erkrankungen an."
     }
   ]
 }

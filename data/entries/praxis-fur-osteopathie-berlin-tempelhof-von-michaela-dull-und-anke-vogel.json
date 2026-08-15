@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-berlin-tempelhof-von-michaela-dull-und-anke-vogel",
   "name": "Praxis für Osteopathie Berlin-Tempelhof von Michaela Düll und Anke Vogel",
   "description": "Die Praxis für Osteopathie Berlin-Tempelhof, geleitet von Michaela Düll und Anke Vogel, bietet eine ganzheitliche Behandlung, die auf einem tiefen Verständnis der menschlichen Körpersysteme basiert. Mit langjähriger Erfahrung und Empathie arbeiten die Therapeuten daran, die Balance zwischen den verschiedenen Geweben und Strukturen des Körpers wiederherzustellen, um die Selbstheilungskräfte zu aktivieren. Die Praxis befindet sich in der Parkstraße 10 in Berlin und legt großen Wert auf individuelle Behandlungsansätze, da jeder Mensch einzigartig ist.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Parkstraße 10",
     "locality": "Berlin",
@@ -26,32 +27,11 @@
   "phone": "03072014871",
   "website": "http://www.osteopathie-parkstrasse.de/",
   "bookingUrl": "http://www.osteopathie-parkstrasse.de/kontakt/index.php/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM5-DXf5PqEcR9H3uBCDsSYc",
+  "googleMapsRating": 4.1,
+  "googleMapsRatingsCount": 8,
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis für Osteopathie von Michaela Düll und Anke Vogel?",
-      "answer": "Die Praxis befindet sich in der Parkstraße 10, 12103 Berlin, im Stadtteil Tempelhof."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite buchen, indem Sie den folgenden Link nutzen: http://www.osteopathie-parkstrasse.de/kontakt/index.php/."
-    },
-    {
-      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
-      "answer": "In der Praxis wird Osteopathie als Behandlungsmethode angeboten, die auf einem tiefen Verständnis aller Systeme im menschlichen Organismus basiert."
-    },
-    {
-      "question": "Wie kann ich die Praxis telefonisch erreichen?",
-      "answer": "Sie können die Praxis unter der Telefonnummer 03072014871 erreichen."
-    },
-    {
-      "question": "Gibt es Informationen zu den Öffnungszeiten der Praxis?",
-      "answer": "Aktuell sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJM5-DXf5PqEcR9H3uBCDsSYc",
-  "googleMapsRating": 4.1,
-  "googleMapsRatingsCount": 8
+  "faq": []
 }

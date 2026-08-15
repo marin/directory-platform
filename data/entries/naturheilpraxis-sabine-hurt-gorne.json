@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-sabine-hurt-gorne",
   "name": "Naturheilpraxis Sabine Hurt-Görne",
   "description": "Die Naturheilpraxis Sabine Hurt-Görne in Berlin-Pankow bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter klassische Homöopathie und psychosoziale Begleitung. Die Praxis legt Wert auf eine individuelle und ganzheitliche Betrachtung der Patienten, um deren Selbstheilungskräfte zu aktivieren und sie in ihrer Selbstbestimmung zu unterstützen. Durch fundierte medizinische Kenntnisse werden Diagnosen und Behandlungsmöglichkeiten verständlich gemacht und gemeinsam erarbeitet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Suderoder Str. 65",
     "locality": "Berlin",
@@ -24,6 +25,9 @@
   },
   "phone": "03034715888",
   "website": "http://xn--homopathiepankow-owb.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCdEUHGVNqEcR5U4jza-mqEg",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 1,
   "openingHours": [
     {
       "day": "Monday",
@@ -58,29 +62,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Sabine Hurt-Görne an?",
-      "answer": "Die Naturheilpraxis bietet Beratung, Coaching, klassische Homöopathie und Vegatest als diagnostisches Instrument an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 10:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis?",
-      "answer": "Die Praxis befindet sich in der Suderoder Str. 65, 13129 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03034715888 erreichen oder die Website http://xn--homopathiepankow-owb.de/ besuchen."
-    },
-    {
-      "question": "Bietet die Praxis auch Unterstützung bei psychischen Belastungen an?",
-      "answer": "Ja, die Praxis unterstützt bei Alltagsproblemen, Übergängen von Lebensabschnitten, Krisen und psychischen Belastungen."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJCdEUHGVNqEcR5U4jza-mqEg",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 1
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene",
   "name": "Frauke Banz - Heilpraktikerin für Homöopathie, Naturheilkunde, Kinder- und Erwachsenensprechstunde",
   "description": "Frauke Banz ist eine erfahrene Heilpraktikerin in Berlin-Pankow, die sich auf Homöopathie und Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie sowohl Kinder- als auch Erwachsenensprechstunden an und legt großen Wert auf die heilenden Kräfte der Natur. Ihre Philosophie basiert auf Mitgefühl und der Beobachtung des Menschseins, was sich in ihrem ganzheitlichen Ansatz zur Gesundheitsförderung widerspiegelt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Käthe-Niederkirchner-Straße 23",
     "locality": "Berlin",
@@ -37,26 +38,5 @@
     "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/3.webp",
     "/images/entries/frauke-banz-heilpraktikerin-fur-homoopathie-naturheilkunde-kinder-und-erwachsene/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Frauke Banz an?",
-      "answer": "Frauke Banz ist Heilpraktikerin für Homöopathie und Naturheilkunde und bietet sowohl Kinder- als auch Erwachsenensprechstunden an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Frauke Banz?",
-      "answer": "Die Praxis befindet sich in der Käthe-Niederkirchner-Straße 23, 10407 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich Frauke Banz kontaktieren?",
-      "answer": "Sie können Frauke Banz telefonisch unter 03042083441 erreichen oder ihre Website unter http://www.frauke-banz.de/ besuchen."
-    },
-    {
-      "question": "Bietet Frauke Banz auch Online-Konsultationen an?",
-      "answer": "Im bereitgestellten Kontext sind keine Informationen über Online-Konsultationen enthalten."
-    },
-    {
-      "question": "Gibt es spezielle Öffnungszeiten für die Praxis von Frauke Banz?",
-      "answer": "Im bereitgestellten Kontext sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

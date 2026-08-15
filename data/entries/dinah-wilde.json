@@ -3,7 +3,7 @@
   "slug": "dinah-wilde",
   "name": "Dinah Wilde",
   "description": "Dinah Wilde ist eine erfahrene Heilpraktikerin für Infusionstherapie und Akupunktur mit Sitz in Berlin-Weißensee. Ihr ganzheitlicher Ansatz verbindet fundiertes Wissen der Komplementärmedizin mit individueller Begleitung in körperlichen und seelischen Anliegen. Besonders spezialisiert ist sie auf die komplementärmedizinische Unterstützung von Brustkrebspatientinnen. In ihrer Praxis bietet sie zudem ergänzende Verfahren wie Massagen und Reiki an, um eine tiefgehende Entspannung und Regeneration zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "c/o Neocosmetic Berlin",
     "locality": "Berlin",
@@ -86,26 +87,5 @@
     "/images/entries/dinah-wilde/1.webp",
     "/images/entries/dinah-wilde/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Dinah Wilde an?",
-      "answer": "Dinah Wilde bietet Infusionstherapie, Drip Spa und Akupunktur an. Zudem umfasst ihr Angebot ergänzende Verfahren wie Massagen und Reiki."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Dinah Wilde?",
-      "answer": "Die Praxis von Dinah Wilde befindet sich in Berlin, c/o Neocosmetic Berlin, 13086 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Dinah Wilde buchen?",
-      "answer": "Sie können einen Termin bei Dinah Wilde über die Buchungsseite calendly.com/dinah-wilde/dripdrip buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Dienstag bis Donnerstag von 09:30 bis 20:00 Uhr und Freitag von 09:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich Dinah Wilde kontaktieren?",
-      "answer": "Sie können Dinah Wilde telefonisch unter 017684988678 oder per E-Mail an hallo@dinahwilde.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

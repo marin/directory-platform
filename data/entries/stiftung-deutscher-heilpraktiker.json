@@ -3,7 +3,7 @@
   "slug": "stiftung-deutscher-heilpraktiker",
   "name": "Stiftung Deutscher Heilpraktiker",
   "description": "Die Stiftung Deutscher Heilpraktiker befindet sich in der Mohriner Allee 88 in Berlin, im Stadtteil Steglitz-Zehlendorf. Sie bietet umfassende Informationen und Unterstützung im Bereich der Naturheilkunde. Interessierte können sich bei allgemeinen Anfragen an den 1. Vorsitzenden Arne Krüger wenden. Weitere Details sind auf der Website der Stiftung zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mohriner Allee 88",
     "locality": "Berlin",
@@ -34,22 +35,5 @@
     "/images/entries/stiftung-deutscher-heilpraktiker/1.webp",
     "/images/entries/stiftung-deutscher-heilpraktiker/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Stiftung Deutscher Heilpraktiker?",
-      "answer": "Die Stiftung Deutscher Heilpraktiker befindet sich in der Mohriner Allee 88, 12347 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Stiftung Deutscher Heilpraktiker kontaktieren?",
-      "answer": "Sie können die Stiftung Deutscher Heilpraktiker telefonisch unter 030 / 703 69 60 oder per E-Mail an homoeovet@t-online.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Stiftung Deutscher Heilpraktiker an?",
-      "answer": "Die Stiftung Deutscher Heilpraktiker bietet Informationen und Kontaktmöglichkeiten an, insbesondere für allgemeine Anfragen."
-    },
-    {
-      "question": "Wer ist der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker?",
-      "answer": "Der 1. Vorsitzende der Stiftung Deutscher Heilpraktiker ist Arne Krüger."
-    }
-  ]
+  "faq": []
 }

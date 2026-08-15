@@ -62,26 +62,5 @@
     "/images/entries/gunther-zimolong-heilpraktiker/3.webp",
     "/images/entries/gunther-zimolong-heilpraktiker/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieangebote bietet die Heilpraxis Zimolong an?",
-      "answer": "Die Heilpraxis Zimolong bietet verschiedene Therapieangebote an, darunter Anthroposophische Heilkunde, Akupunktur, Ausleitungsverfahren, Bachblüten Therapie, Colon-Hydro-Therapie, Darmsanierung, Gesundheitsvorsorge, Heilfasten, Homöopathie, Leibtherapie, Pflanzenheilkunde, Psychotherapie, Reflexzonentherapie, Sauerstoff Mehrschritt Therapie und Ultraschalltherapie."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis Zimolong?",
-      "answer": "Die Öffnungszeiten der Heilpraxis Zimolong sind wie folgt: Montag von 08:00 bis 16:00 Uhr, Dienstag von 08:00 bis 20:00 Uhr, Donnerstag von 08:00 bis 20:00 Uhr und Freitag von 08:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis Zimolong buchen?",
-      "answer": "Sie können einen Termin in der Heilpraxis Zimolong über die Buchungsseite auf der Website unter https://www.heilpraxis-zimolong.de/sprechzeiten.html vereinbaren."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Zimolong kontaktieren?",
-      "answer": "Sie können die Heilpraxis Zimolong telefonisch unter 03031953084 oder per E-Mail an gunther@heilpraxis-zimolong.de kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Zimolong?",
-      "answer": "Die Heilpraxis Zimolong befindet sich in Berlin, im Stadtteil Steglitz-Zehlendorf, in der Heilpraxis Zimolong im Innenhof, 14169 Berlin."
-    }
-  ]
+  "faq": []
 }

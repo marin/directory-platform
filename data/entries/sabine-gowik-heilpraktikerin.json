@@ -3,7 +3,7 @@
   "slug": "sabine-gowik-heilpraktikerin",
   "name": "Sabine Gowik Heilpraktikerin",
   "description": "In der Naturheilpraxis Schöneberg bietet Heilpraktikerin Sabine Gowik verschiedene naturheilkundliche Therapieverfahren an, darunter Akupunktur, Tuina und Fußreflexzonentherapie. Die Praxis befindet sich in der Gustav-Müller-Straße 39 in Berlin. Auf der Website können sich Interessierte umfassend über die angebotenen Methoden und die Heilpraktikerin selbst informieren. Bei Fragen steht Sabine Gowik gerne für persönliche Beratungen zur Verfügung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gustav-Müller-Straße 39",
     "locality": "Berlin",
@@ -33,22 +34,5 @@
   "images": [
     "/images/entries/sabine-gowik-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieverfahren bietet Sabine Gowik an?",
-      "answer": "Sabine Gowik bietet Akupunktur, Tuina und Fußreflexzonentherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Sabine Gowik?",
-      "answer": "Die Naturheilpraxis befindet sich in der Gustav-Müller-Straße 39, Berlin, 10829."
-    },
-    {
-      "question": "Wie kann ich Sabine Gowik kontaktieren?",
-      "answer": "Sie können Sabine Gowik telefonisch unter 03021754815 oder per E-Mail an kontakt@naturheilpraxis-in-schoeneberg.de kontaktieren."
-    },
-    {
-      "question": "Kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Ja, Sie können einen Termin vereinbaren, indem Sie Sabine Gowik anrufen oder eine E-Mail senden."
-    }
-  ]
+  "faq": []
 }

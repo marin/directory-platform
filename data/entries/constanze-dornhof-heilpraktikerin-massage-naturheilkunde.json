@@ -3,7 +3,7 @@
   "slug": "constanze-dornhof-heilpraktikerin-massage-naturheilkunde",
   "name": "Constanze Dornhof, Heilpraktikerin - Massage & Naturheilkunde",
   "description": "Constanze Dornhof ist eine erfahrene Heilpraktikerin in Berlin-Pankow, die sich auf ganzheitliche Naturheilkunde spezialisiert hat. In ihrer Praxis legt sie großen Wert auf die individuellen Bedürfnisse und die Aktivierung der Selbstheilungskräfte ihrer Patienten. Zu ihren Behandlungsschwerpunkten zählen Massagen, Pflanzenheilkunde, Augendiagnose sowie Kräuterspaziergänge. Durch eine umfassende Anamnese und persönliche Beratung entwickelt sie maßgeschneiderte Therapieansätze, die Körper, Geist und Seele in Einklang bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Florastraße 43",
     "locality": "Berlin",
@@ -191,24 +192,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Constanze Dornhof an?",
-      "answer": "Constanze Dornhof bietet eine Vielzahl von Behandlungen an, darunter Massagen für Erwachsene und Kinder, Pflanzenheilkunde, Augen­diagnose und Kräuterspaziergänge."
+      "question": "Was passiert beim Ersttermin bei Constanze Dornhof, Heilpraktikerin?",
+      "answer": "Bei Ihrem ersten Besuch findet ein ausführliches Gespräch (Anamnese) statt. Es werden eine gründliche Diagnostik und eine Augendiagnose durchgeführt, um wichtige Hinweise über Ihren Stoffwechsel, Hormon- und Nervensystem zu erhalten."
     },
     {
-      "question": "Wie viel kostet eine Massage bei Constanze Dornhof?",
-      "answer": "Die Preise für Massagen variieren je nach Dauer: 30 Minuten kosten 40 Eur, 40 Minuten 55 Eur, 60 Minuten 75 Eur und 90 Minuten 95 Eur."
+      "question": "Wie lange dauern die Massagen bei Constanze Dornhof?",
+      "answer": "Die Massagen dauern 40 Minuten, 60 Minuten oder 70 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Constanze Dornhof buchen?",
-      "answer": "Sie können einen Termin über die Webseite von Constanze Dornhof buchen, indem Sie den Kontaktbereich aufrufen: https://www.naturgesundheit-dornhof.de/kontakt/."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Constanze Dornhof?",
-      "answer": "Die Praxis von Constanze Dornhof befindet sich in der Florastraße 43, 13187 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich Constanze Dornhof kontaktieren?",
-      "answer": "Sie können Constanze Dornhof telefonisch unter 03047553495 oder per E-Mail an natur-dornhof@posteo.de kontaktieren."
+      "question": "Übernimmt die Krankenkasse die Kosten für Heilpraktikerbehandlungen?",
+      "answer": "Ein Teil der Kosten wird von privaten Krankenversicherungen und von Zusatzversicherungen der gesetzlichen Krankenkassen übernommen. Die Höhe der Übernahmekosten variiert."
     }
   ]
 }

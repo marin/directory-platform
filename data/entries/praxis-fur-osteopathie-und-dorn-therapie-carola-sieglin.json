@@ -3,7 +3,7 @@
   "slug": "praxis-fur-osteopathie-und-dorn-therapie-carola-sieglin",
   "name": "Praxis für Osteopathie und Dorn Therapie - Carola Sieglin",
   "description": "In der Praxis für Osteopathie und Dorn Therapie von Carola Sieglin in Berlin-Neukölln steht die ganzheitliche Betrachtung des Körpers im Mittelpunkt. Durch verschiedene Behandlungsmethoden wie parietale, viszerale, craniosacrale Osteopathie und die Behandlung der Faszien werden Dysbalancen im Körper aufgespürt und gezielt behandelt. Ziel ist es, die Selbstregulation des Körpers zu fördern und Beschwerden nachhaltig zu lindern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Richardstraße 108",
     "locality": "Berlin",
@@ -27,6 +28,9 @@
   "email": "kontakt@praxis-sieglin.de",
   "website": "http://www.praxis-sieglin.de/",
   "bookingUrl": "https://www.doctolib.de/osteopath/berlin/carola-sieglin?utm_source=google-maps&utm_campaign=google-maps",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4wKDvQ5PqEcRBxs0Rmp3va4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 16,
   "openingHours": [
     {
       "day": "Tuesday",
@@ -68,29 +72,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis für Osteopathie und Dorn Therapie an?",
-      "answer": "Die Praxis bietet parietale Behandlung, viszerale Osteopathie, craniosacrale Osteopathie und die Behandlung der Faszien an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Website doctolib.de buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Dienstag von 09:00 bis 15:00 Uhr, Mittwoch von 13:00 bis 18:00 Uhr, Donnerstag von 09:00 bis 15:00 Uhr und Freitag von 13:30 bis 19:15 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Osteopathie und Dorn Therapie?",
-      "answer": "Die Praxis befindet sich in der Richardstraße 108, 12043 Berlin, Neukölln."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 015159207074 oder per E-Mail an kontakt@praxis-sieglin.de erreichen."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ4wKDvQ5PqEcRBxs0Rmp3va4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 16
+  "faq": []
 }

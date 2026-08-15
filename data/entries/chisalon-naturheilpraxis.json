@@ -3,7 +3,7 @@
   "slug": "chisalon-naturheilpraxis",
   "name": "Chisalon Naturheilpraxis",
   "description": "Die Chisalon Naturheilpraxis in Berlin-Friedrichshain bietet ein breites Spektrum an naturheilkundlichen Behandlungen, darunter Akupunktur, Phonophorese und Klangtherapie. Die Praxis legt besonderen Wert auf ganzheitliche Ansätze zur Förderung von Gesundheit und Wohlbefinden. Das Team um Heike Brunner und Gregory Spoo kombiniert traditionelle Methoden mit modernen Therapieformen, um individuelle Lösungen für die Patienten zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lehmbruckstraße 26",
     "locality": "Berlin",
@@ -115,26 +116,5 @@
     "/images/entries/chisalon-naturheilpraxis/3.webp",
     "/images/entries/chisalon-naturheilpraxis/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Chisalon Naturheilpraxis?",
-      "answer": "Die Chisalon Naturheilpraxis befindet sich in der Lehmbruckstraße 26, 10245 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Welche Therapieangebote bietet die Chisalon Naturheilpraxis an?",
-      "answer": "Die Chisalon Naturheilpraxis bietet unter anderem Phonophorese, Klangtherapie mit Stimmgabeln, Massagen sowie verschiedene naturheilkundliche Behandlungen an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Chisalon Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Chisalon Naturheilpraxis über die Buchungsseite unter https://zeeg.me/chi-salon-heike vereinbaren."
-    },
-    {
-      "question": "Wie lange dauert eine klassische Phonophorese-Sitzung und was kostet sie?",
-      "answer": "Eine klassische Phonophorese-Sitzung dauert in der Regel 90 Minuten und kostet 120,- €."
-    },
-    {
-      "question": "Wer sind die Therapeuten in der Chisalon Naturheilpraxis?",
-      "answer": "Die Therapeuten in der Chisalon Naturheilpraxis sind Heike Brunner und Gregory Spoo, die verschiedene naturheilkundliche Behandlungen anbieten."
-    }
-  ]
+  "faq": []
 }

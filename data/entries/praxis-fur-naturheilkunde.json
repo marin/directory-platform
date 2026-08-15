@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde",
   "name": "Praxis für Naturheilkunde",
   "description": "Die Praxis für Naturheilkunde von Michael Lindemann befindet sich in Berlin und bietet eine ganzheitliche Betrachtung von Körper und Seele. Durch regelmäßigen Austausch mit Ärzten und anderen Heilpraktikern sowie kontinuierliche Fortbildung wird ein breites therapeutisches Spektrum abgedeckt. Die Praxis legt Wert auf individuelle Behandlungsansätze und berücksichtigt die Wechselwirkungen der Organe und Organsysteme. Unterstützung erhält Michael Lindemann dabei von seiner Frau.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hortensienstr. 29 Rechter",
     "locality": "Berlin",
@@ -43,22 +44,5 @@
   "images": [
     "/images/entries/praxis-fur-naturheilkunde/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde von Michael Lindemann?",
-      "answer": "Die Praxis befindet sich in der Hortensienstr. 29 Rechter, 12203 Berlin, Deutschland."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Terminabsprachen sind nach Vereinbarung möglich. Sie können die Praxis telefonisch unter 03060985488 kontaktieren."
-    },
-    {
-      "question": "Wann finden die Sprechstunden in Berlin statt?",
-      "answer": "Die Sprechstunden in Berlin finden einmal im Monat von Donnerstag bis Samstag statt."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet die Praxis an?",
-      "answer": "Die Praxis bietet ganzheitlich orientierte Behandlungsmethoden an, die die Wechselwirkungen von Körper und Seele sowie der Organe und Organsysteme berücksichtigen."
-    }
-  ]
+  "faq": []
 }

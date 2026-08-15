@@ -3,7 +3,7 @@
   "slug": "praxis-am-meer-korper-und-psychotherapie",
   "name": "Praxis am Meer: Körper- und Psychotherapie",
   "description": "In der Praxis am Meer in Berlin-Friedrichshain bietet die Heilpraktikerin Susanne Heil Körper- und Psychotherapie an. Ihr Ansatz kombiniert verschiedene Methoden wie Hakomi und Shiatsu, um Klienten dabei zu unterstützen, in Kontakt mit ihren inneren Antworten zu kommen und ein erfülltes Leben zu führen. Die Praxis legt Wert auf Achtsamkeit und individuelle Begleitung, um emotionale Prozesse und Verhaltensweisen zu erforschen und zu transformieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Skalitzer Str. 69",
     "locality": "Berlin",
@@ -51,26 +52,5 @@
     "/images/entries/praxis-am-meer-korper-und-psychotherapie/0.webp",
     "/images/entries/praxis-am-meer-korper-und-psychotherapie/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis am Meer an?",
-      "answer": "Die Praxis am Meer bietet Körper- und Psychotherapie an, einschließlich Shiatsu-Behandlungen und Hakomi-Sitzungen."
-    },
-    {
-      "question": "Wo befindet sich die Praxis am Meer?",
-      "answer": "Die Praxis befindet sich in der Skalitzer Str. 69, 10997 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin direkt telefonisch unter 017657372678 vereinbaren."
-    },
-    {
-      "question": "Gibt es Informationen zu Kursen und Workshops?",
-      "answer": "Ja, die Praxis bietet Kurse und Workshops an, die momentan online verfügbar sind."
-    },
-    {
-      "question": "Was sind die Schwerpunkte der Therapie in der Praxis?",
-      "answer": "Die Therapie in der Praxis fokussiert sich darauf, in Kontakt mit den eigenen Antworten zu kommen, emotionale Prozesse zu erkunden und Achtsamkeit für das innere Erleben zu fördern."
-    }
-  ]
+  "faq": []
 }

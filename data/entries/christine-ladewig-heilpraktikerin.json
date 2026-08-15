@@ -3,7 +3,7 @@
   "slug": "christine-ladewig-heilpraktikerin",
   "name": "Christine Ladewig Heilpraktikerin",
   "description": "Christine Ladewig ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis bietet sie verschiedene Therapieverfahren an, darunter EAV-Diagnostik, Bioresonanztherapie und Ernährungsberatung. Ihr Ansatz zielt darauf ab, die wahren Ursachen von Beschwerden zu identifizieren und eine individuelle Therapie zu entwickeln, um Gesundheit und Wohlbefinden zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Calvinstraße 2",
     "locality": "Berlin",
@@ -43,26 +44,5 @@
   "images": [
     "/images/entries/christine-ladewig-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Christine Ladewig als Heilpraktikerin an?",
-      "answer": "Christine Ladewig bietet Dienstleistungen in der Naturheilkunde an, darunter EAV-Diagnostik, Bioresonanztherapie, Ernährungsberatung, Schröpftherapie, Blutegeltherapie, Stoßwelle und Entgiftung."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christine Ladewig?",
-      "answer": "Die Praxis von Christine Ladewig befindet sich in der Calvinstraße 2, 10557 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Christine Ladewig buchen?",
-      "answer": "Sie können einen Termin bei Christine Ladewig über ihre Website buchen: https://www.christine-ladewig.de/"
-    },
-    {
-      "question": "Wie kann ich Christine Ladewig kontaktieren?",
-      "answer": "Sie können Christine Ladewig telefonisch unter 0303246074 oder per E-Mail an christineladewig@gmx.de kontaktieren."
-    },
-    {
-      "question": "Was ist EAV-Diagnostik?",
-      "answer": "EAV-Diagnostik ist eine Methode, die als Ergänzung zur schulmedizinischen Diagnostik und Therapie dient und viele Beschwerden behandelt, die durch klassische Heilkunde allein nicht heilbar sind."
-    }
-  ]
+  "faq": []
 }

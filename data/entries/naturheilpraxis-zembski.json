@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-zembski",
   "name": "Naturheilpraxis Zembski",
   "description": "Die Naturheilpraxis Zembski befindet sich in Berlin-Dahlem und bietet eine Vielzahl von naturheilkundlichen Therapien an, darunter Akupunktur, Homöopathie und Regena-Therapie. Heilpraktikerin Bettina Zembski legt großen Wert auf Aufklärung und Hilfe zur Selbsthilfe, um die Selbstheilungskräfte des Organismus zu aktivieren. Neue Patienten sind herzlich eingeladen, ein kostenloses Erstgespräch zu vereinbaren, um mehr über die angebotenen Therapien zu erfahren und individuelle Fragen zu klären.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Thielallee 12",
     "locality": "Berlin",
@@ -51,20 +52,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Naturheilpraxis Zembski an?",
-      "answer": "Die Naturheilpraxis Zembski bietet unter anderem Akupunktur, biologische Schmerztherapie, Neuraltherapie, Homöopathie und Regena-Therapie an."
-    },
-    {
-      "question": "Gibt es ein kostenloses Erstgespräch?",
-      "answer": "Ja, die Naturheilpraxis Zembski bietet jedem neuen Patienten ein ca. 30-minütiges kostenloses Gespräch an, um die Praxis und die Therapien kennenzulernen."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Zembski?",
-      "answer": "Die Naturheilpraxis Zembski befindet sich in der Thielallee 12, 14195 Berlin-Dahlem."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Zembski?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Zembski sind nach Vereinbarung."
+      "question": "Wie kann ich einen Ersttermin in der Naturheilpraxis Zembski vereinbaren?",
+      "answer": "Neue Patienten sind herzlich eingeladen, ein kostenloses Erstgespräch zu vereinbaren, um mehr über die angebotenen Therapien zu erfahren und individuelle Fragen zu klären."
     }
   ]
 }

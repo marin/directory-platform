@@ -3,7 +3,7 @@
   "slug": "union-deutscher-heilpraktiker-berlin-brandenburg",
   "name": "Union Deutscher Heilpraktiker Berlin-Brandenburg",
   "description": "Die Union Deutscher Heilpraktiker Berlin-Brandenburg ist ein Landesverband, der als Ansprechpartner für Heilpraktiker in den neuen Bundesländern fungiert. Die Praxis befindet sich in der Knesebeckstraße 27 in Berlin-Charlottenburg. Ziel des Verbandes ist es, die Mitglieder in ihrer beruflichen Entwicklung zu unterstützen und aktuelle Informationen aus der Naturheilkunde bereitzustellen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Knesebeckstraße 27",
     "locality": "Berlin",
@@ -65,22 +66,5 @@
     "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/3.webp",
     "/images/entries/union-deutscher-heilpraktiker-berlin-brandenburg/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Union Deutscher Heilpraktiker Berlin-Brandenburg?",
-      "answer": "Die Union Deutscher Heilpraktiker Berlin-Brandenburg befindet sich in der Knesebeckstraße 27, 10623 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Union Deutscher Heilpraktiker Berlin-Brandenburg kontaktieren?",
-      "answer": "Sie können die Union Deutscher Heilpraktiker Berlin-Brandenburg telefonisch unter 03312010958 oder per E-Mail an kontakt@udh-ost.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Union Deutscher Heilpraktiker an?",
-      "answer": "Die Union Deutscher Heilpraktiker bietet unter anderem die Dienstleistungen 'Empfangen • Bewahren • Lindern • Heilen' sowie die Möglichkeit, Mitglied zu werden."
-    },
-    {
-      "question": "Wie kann ich Mitglied bei der Union Deutscher Heilpraktiker werden?",
-      "answer": "Um Mitglied zu werden, können Sie die entsprechende Seite auf der Website der Union Deutscher Heilpraktiker besuchen und den Anweisungen folgen."
-    }
-  ]
+  "faq": []
 }

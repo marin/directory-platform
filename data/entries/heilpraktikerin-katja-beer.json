@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-katja-beer",
   "name": "Heilpraktikerin Katja Beer",
   "description": "Heilpraktikerin Katja Beer in Berlin-Charlottenburg bietet eine ganzheitliche Schmerztherapie sowie individuelle Infusionstherapien an. Mit einem einfühlsamen Ansatz hört sie ihren Patienten zu und geht gemeinsam mit ihnen auf die Suche nach Lösungen für verschiedene gesundheitliche Beschwerden. Ihr Ziel ist es, die Lebensqualität ihrer Klienten zu verbessern und sie auf dem Weg zu einer stabileren Gesundheit zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Goethestraße 58",
     "locality": "Berlin",
@@ -46,22 +47,5 @@
   "images": [
     "/images/entries/heilpraktikerin-katja-beer/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Heilpraktikerin Katja Beer an?",
-      "answer": "Heilpraktikerin Katja Beer bietet Schmerztherapie und Infusionstherapie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Katja Beer?",
-      "answer": "Die Praxis befindet sich in der Goethestraße 58, 10625 Berlin, im Stadtteil Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Katja Beer vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite unter https://www.schmerzbehandlung-berlin.de/kontakt/ vereinbaren."
-    },
-    {
-      "question": "Gibt es spezielle Hinweise zur COVID-19-Situation in der Praxis?",
-      "answer": "Ja, Behandlungen finden unter Gewährleistung der Hygiene- und Sicherheitsstandards statt."
-    }
-  ]
+  "faq": []
 }

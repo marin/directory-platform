@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-und-naturheilgarten-mahlsdorf-berlin",
   "name": "Naturheilpraxis und Naturheilgarten Mahlsdorf, Berlin",
   "description": "Die Naturheilpraxis und Naturheilgarten Mahlsdorf in Berlin bietet umfassende Unterstützung bei akuten und chronischen gesundheitlichen Problemen durch verschiedene Methoden der Energie- und Pflanzenmedizin, darunter Reiki, Besprechen, Phytotherapie und Homöopathie. Unter der Leitung von Janet Micas, einer erfahrenen Heilpraktikerin und Kunsttherapeutin, werden individuelle Behandlungs- und Therapiepläne erstellt, die auf die persönlichen Bedürfnisse der Patienten abgestimmt sind. Die Praxis richtet sich an Erwachsene und Kinder und legt großen Wert auf eine ausführliche Beratung und Anamnese als Grundlage für den Heilerfolg.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Summter Str. 47",
     "locality": "Berlin",
@@ -81,24 +82,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Naturheilpraxis Mahlsdorf an?",
-      "answer": "Die Naturheilpraxis Mahlsdorf bietet unter anderem Reiki, Besprechen, Phytotherapie, Homöopathie und die ArtNat®-Methode an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Naturheilpraxis ist von Montag bis Sonntag von 05:00 bis 22:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Mahlsdorf?",
-      "answer": "Die Praxis befindet sich in der Summter Str. 47, 12623 Berlin, im Bezirk Marzahn-Hellersdorf."
-    },
-    {
-      "question": "Wer ist die Inhaberin der Naturheilpraxis?",
-      "answer": "Die Inhaberin der Naturheilpraxis ist Janet Micas, die seit 1994 als Heilpraktikerin und Kunsttherapeutin tätig ist."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer 0307717309 oder über die Website http://www.artnat.de/ vereinbaren."
+      "question": "Wie läuft ein Ersttermin in der Naturheilpraxis Mahlsdorf ab?",
+      "answer": "In einem Erstgespräch klären wir, ob und wie wir Ihnen behilflich sein können. Wir beraten Sie basierend auf Ihrer gesundheitlichen und persönlichen Situation und erfragen auch medizinisch-relevante Informationen."
     }
   ]
 }

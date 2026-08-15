@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-rita-sertin",
   "name": "Heilpraktiker - Rita Sertin",
   "description": "Heilpraktiker Rita Sertin bietet in ihrer Praxis in Berlin-Reinickendorf naturheilkundliche Behandlungen an. Die Praxis befindet sich in der Residenzstraße 26A und legt Wert auf eine individuelle Betreuung ihrer Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Residenzstraße 26A",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   "phone": "0304952750",
   "website": "http://www.heilpraktiker-reinickendorf.de/",
   "bookingUrl": "https://www.united-domains.de/unternehmen/kontakt/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ73MCA8pTqEcRxuMiWZfKEgc",
   "openingHours": [
     {
       "day": "Monday",
@@ -59,27 +61,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktiker Rita Sertin?",
-      "answer": "Die Praxis von Heilpraktiker Rita Sertin befindet sich in der Residenzstraße 26A, 13409 Berlin, Reinickendorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktiker Rita Sertin buchen?",
-      "answer": "Sie können einen Termin bei Heilpraktiker Rita Sertin über die Buchungsseite unter https://www.united-domains.de/unternehmen/kontakt/ buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktiker Rita Sertin?",
-      "answer": "Die Öffnungszeiten sind wie folgt: Montag von 09:00 bis 11:00 und 15:00 bis 17:00, Dienstag von 09:00 bis 11:00, Donnerstag von 09:00 bis 11:00 und 15:00 bis 17:00, sowie Freitag von 09:00 bis 11:00."
-    },
-    {
-      "question": "Wie kann ich Heilpraktiker Rita Sertin telefonisch erreichen?",
-      "answer": "Sie können Heilpraktiker Rita Sertin telefonisch unter der Nummer 0304952750 erreichen."
-    },
-    {
-      "question": "Welche Art von Behandlungen bietet Heilpraktiker Rita Sertin an?",
-      "answer": "Heilpraktiker Rita Sertin ist auf Naturheilkunde spezialisiert."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ73MCA8pTqEcRxuMiWZfKEgc"
+  "faq": []
 }

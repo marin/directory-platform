@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-beate-king",
   "name": "Naturheilpraxis Beate King",
   "description": "Die Naturheilpraxis Beate King befindet sich in Berlin-Treptow-Köpenick und bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. Zu den Therapieangeboten zählen unter anderem Blutegeltherapie, Aderlass, Schröpfen, Pflanzenheilkunde sowie verschiedene Massageformen und alternative Heilmethoden wie die Raindrop Technique®. Die Praxis legt großen Wert auf individuelle Diagnostik und ganzheitliche Behandlungskonzepte.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Str. am Flugpl. 6A",
     "locality": "Berlin",
@@ -184,24 +185,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Beate King an?",
-      "answer": "Die Naturheilpraxis Beate King bietet unter anderem Blutegeltherapie, Aderlass, Schröpfen, Pflanzenheilkunde, Massagen, Raindrop Technique®, Vitamin C-Infusion, Ohrkerzentherapie, Reiki, Ohrakupunktur und NADA-Akupunktur an."
+      "question": "Wie hoch sind die Kosten für den Ersttermin in der Naturheilpraxis Beate King?",
+      "answer": "Die Behandlungskosten basieren auf einem Stundensatz von zur Zeit 60 Euro."
     },
     {
-      "question": "Wie hoch sind die Behandlungskosten in der Praxis?",
-      "answer": "Die Behandlungskosten in der Naturheilpraxis Beate King variieren zwischen 30 € und 90 €, abhängig von der Art der Behandlung."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis Beate King?",
+      "answer": "Die Dauer einer Sitzung variiert, z.B. bis zu 2 Stunden für die Blutegeltherapie oder ca. 75 Minuten für die Raindrop Technique."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Beate King buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Beate King über die Webseite unter https://naturheilpraxis-king.de/termine.html buchen."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Beate King geöffnet?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Beate King sind: Montag von 11:00 bis 19:00 Uhr, Dienstag von 10:00 bis 13:00 Uhr, Mittwoch bis Freitag von 10:30 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Beate King kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Beate King telefonisch unter 015121665893 oder per E-Mail an beateking@web.de kontaktieren."
+      "question": "Werden die Kosten für Behandlungen in der Naturheilpraxis Beate King von der Krankenkasse übernommen?",
+      "answer": "Die gesetzliche Krankenversicherung erstattet die Kosten der Behandlung in der Regel nicht. Private Krankenkassen oder Zusatz- und Beihilfeversicherungen erstatten die Kosten in der Regel bis zum vertraglich vereinbarten Satz."
     }
   ]
 }

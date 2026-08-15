@@ -3,7 +3,7 @@
   "slug": "praxis-nathanael-schwartz-heilpraktiker",
   "name": "Praxis Nathanael Schwartz Heilpraktiker",
   "description": "Die Praxis Nathanael Schwartz Heilpraktiker in Berlin bietet umfassende Leistungen in den Bereichen Homöopathie und Naturheilkunde an. Mit einem besonderen Fokus auf \"Living Homeopathy\" verfolgt die Praxis einen ganzheitlichen Ansatz zur Förderung der Gesundheit. Die Praxis befindet sich in der Charlottenbrunner Str. 2 im Stadtteil Steglitz-Zehlendorf und ist darauf ausgerichtet, individuelle Therapiekonzepte für ihre Patienten zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Charlottenbrunner Str. 2",
     "locality": "Berlin",
@@ -36,22 +37,5 @@
     "/images/entries/praxis-nathanael-schwartz-heilpraktiker/1.webp",
     "/images/entries/praxis-nathanael-schwartz-heilpraktiker/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Praxis Nathanael Schwartz an?",
-      "answer": "Die Praxis Nathanael Schwartz bietet unter anderem die Therapieform 'Living Homeopathy' an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Nathanael Schwartz?",
-      "answer": "Die Praxis befindet sich in der Charlottenbrunner Str. 2, 14193 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Praxis Nathanael Schwartz kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0308263753 oder per E-Mail an info@living-homeopathy.net kontaktieren."
-    },
-    {
-      "question": "Welche Kategorien deckt die Praxis ab?",
-      "answer": "Die Praxis Nathanael Schwartz deckt die Kategorien Homöopathie und Naturheilkunde ab."
-    }
-  ]
+  "faq": []
 }

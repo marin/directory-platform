@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-beate-brandt",
   "name": "Heilpraktikerin Beate Brandt",
   "description": "Heilpraktikerin Beate Brandt in Berlin-Zehlendorf bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Homöopathie, Ohrakupunktur und Ernährungsberatung. Ihr Ziel ist es, die Lebenskraft ihrer Patienten zu stärken und sowohl akute als auch chronische Beschwerden zu behandeln. In ihrer Praxis legt sie Wert auf individuelle Betreuung und lädt Interessierte zu einem kostenlosen, unverbindlichen Informationsgespräch ein.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Matterhornstraße 50A",
     "locality": "Berlin",
@@ -42,26 +43,5 @@
     "/images/entries/heilpraktikerin-beate-brandt/2.webp",
     "/images/entries/heilpraktikerin-beate-brandt/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Beate Brandt?",
-      "answer": "Die Praxis von Heilpraktikerin Beate Brandt befindet sich in der Matterhornstraße 50A, 14129 Berlin, im Stadtteil Zehlendorf."
-    },
-    {
-      "question": "Welche Behandlungen bietet Heilpraktikerin Beate Brandt an?",
-      "answer": "Heilpraktikerin Beate Brandt bietet unter anderem klassische Homöopathie, Ohrakupunktur, Ausleitungsverfahren, Ernährungsberatung sowie Heilfasten und Basenfasten an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis von Beate Brandt vereinbaren?",
-      "answer": "Sie können einen Termin in der Praxis von Beate Brandt über die Website unter https://www.heilpraktikerin-beate-brandt.de/?page_id=29 buchen oder telefonisch unter 0308055112 Kontakt aufnehmen."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Beate Brandt kontaktieren?",
-      "answer": "Sie können Heilpraktikerin Beate Brandt telefonisch unter 0308055112 oder per E-Mail an praxis@beate-brandt.de kontaktieren."
-    },
-    {
-      "question": "Bietet Beate Brandt ein kostenloses Informationsgespräch an?",
-      "answer": "Ja, Beate Brandt bietet ein kostenloses, unverbindliches Informationsgespräch an, um sich näher kennenzulernen."
-    }
-  ]
+  "faq": []
 }

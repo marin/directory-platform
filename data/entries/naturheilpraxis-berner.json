@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-berner",
   "name": "Naturheilpraxis Berner",
   "description": "Die Naturheilpraxis Berner in Berlin-Spandau bietet seit über 20 Jahren umfassende Dienstleistungen in den Bereichen Komplementärmedizin und Psychotherapie an. Zu den Therapieangeboten zählen unter anderem die Sauerstoff-Mehrschritt-Therapie, orthomolekulare Medikation sowie verschiedene psychotherapeutische Verfahren wie die klientzentrierte Gesprächspsychotherapie und Hypnotherapie. Darüber hinaus werden gerontopsychologische Dienste und individuelle Coaching- und Beratungsangebote bereitgestellt, um die Lebensqualität der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Groenerstraße 6",
     "locality": "Berlin",
@@ -26,6 +27,7 @@
   "phone": "03045095980",
   "email": "orthomed@gmail.com",
   "website": "https://praxis-berner.eu/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTXbVUaBXqEcR2yc4NDzjj-4",
   "openingHours": [
     {
       "day": "Monday",
@@ -73,27 +75,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Berner an?",
-      "answer": "Die Naturheilpraxis Berner bietet Komplementärmedizin, psychotherapeutische Verfahren, gerontopsychologische Dienste, Coaching und Beratung sowie aktuelle Fortbildungs- und Praxisseminare an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Berner?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag von 09:00 bis 18:00 Uhr, Freitag von 09:00 bis 16:00 Uhr und Samstag von 10:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Berner?",
-      "answer": "Die Naturheilpraxis Berner befindet sich in der Groenerstraße 6, 13585 Berlin, Spandau."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Berner kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Berner telefonisch unter 03045095980 oder per E-Mail an orthomed@gmail.com kontaktieren."
-    },
-    {
-      "question": "Welche psychotherapeutischen Verfahren werden in der Naturheilpraxis Berner angeboten?",
-      "answer": "In der Naturheilpraxis Berner werden klientzentrierte Gesprächspsychotherapie, kognitive Verhaltenstherapie sowie Hypnose und Hypnotherapie angeboten."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJTXbVUaBXqEcR2yc4NDzjj-4"
+  "faq": []
 }

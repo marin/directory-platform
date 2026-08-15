@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-tobias-christoph",
   "name": "Heilpraktiker Tobias Christoph",
   "description": "Heilpraktiker Tobias Christoph in Berlin-Reinickendorf bietet umfassende Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Mit einem ganzheitlichen Ansatz zielt er darauf ab, körperliche Dysbalancen zu erkennen und zu behandeln, um Schmerzen und Bewegungseinschränkungen zu lindern. Durch gezielte Therapien und funktionelles Training unterstützt er seine Patienten dabei, ihre Gesundheit und Lebensqualität zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Edelhofdamm 33",
     "locality": "Berlin",
@@ -39,26 +40,5 @@
     "/images/entries/heilpraktiker-tobias-christoph/3.webp",
     "/images/entries/heilpraktiker-tobias-christoph/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet Heilpraktiker Tobias Christoph an?",
-      "answer": "Heilpraktiker Tobias Christoph bietet Osteopathie und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Tobias Christoph?",
-      "answer": "Die Praxis von Tobias Christoph befindet sich am Edelhofdamm 33 in Berlin, 13465."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Tobias Christoph buchen?",
-      "answer": "Sie können einen Termin bei Tobias Christoph über die Buchungsseite auf seiner Website buchen: Buchungslink."
-    },
-    {
-      "question": "Wie kann ich Tobias Christoph kontaktieren?",
-      "answer": "Sie können Tobias Christoph telefonisch unter 017657078634 oder per E-Mail an info@tobias-christoph.de kontaktieren."
-    },
-    {
-      "question": "Bietet Tobias Christoph auch Personal Training an?",
-      "answer": "Ja, Tobias Christoph ist auch als Personal Trainer tätig."
-    }
-  ]
+  "faq": []
 }

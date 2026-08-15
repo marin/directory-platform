@@ -3,7 +3,7 @@
   "slug": "frank-h-e-hahn-gestalttherapie-heilpraktiker-fur-psychotherapie-hpg",
   "name": "Frank H.E.Hahn Gestalttherapie / Heilpraktiker für Psychotherapie (HPG)",
   "description": "Frank H.E. Hahn ist als Heilpraktiker für Psychotherapie in Berlin tätig und bietet Gestalttherapie an. In seiner Praxis unterstützt er Klienten bei der Bewältigung von Ängsten, depressiven Verstimmungen sowie bei der Überwindung eingefahrener Muster in Beziehungen und im Alltag. Sein Ansatz basiert auf einem dialogischen Verhältnis, in dem Klienten die Themen und das Tempo der Therapie bestimmen, während er empathisch und unterstützend zur Seite steht. Weitere Schwerpunkte seiner Arbeit sind Konflikte in Familie und Beruf, Biografiearbeit und Trauerbegleitung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bautzener Pl. 2",
     "locality": "Berlin",
@@ -67,24 +68,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieform bietet Frank H.E. Hahn an?",
-      "answer": "Frank H.E. Hahn bietet Gestalttherapie an und ist Heilpraktiker für Psychotherapie."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Frank H.E. Hahn?",
-      "answer": "Die Praxis befindet sich in der Bautzener Pl. 2, 10829 Berlin, im Bezirk Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Frank H.E. Hahn vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 015222860227 oder über die Website http://www.gestalttherapie-frank-hahn.de/ vereinbaren."
-    },
-    {
-      "question": "Welche Themen werden in der Gestalttherapie behandelt?",
-      "answer": "In der Gestalttherapie werden Themen wie der Umgang mit Ängsten, depressiven Verstimmungen, Trauer, Konflikten in Beziehungen sowie biografische Arbeit behandelt."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Das Erstgespräch dient dem gegenseitigen Kennenlernen und ist kostenlos. Danach können Sie entscheiden, ob Sie sich eine Zusammenarbeit vorstellen können."
     }
   ]
 }

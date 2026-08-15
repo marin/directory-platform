@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-am-elsensee",
   "name": "Naturheilpraxis Am Elsensee",
   "description": "Die Naturheilpraxis Am Elsensee in Berlin-Marzahn-Hellersdorf bietet ganzheitliche Heilkunde und Prävention an. Ziel der Praxis ist es, Patienten bei der Erhaltung ihrer Gesundheit zu unterstützen und Krankheiten schonend zu behandeln. Die Praxis arbeitet überwiegend nach Terminvereinbarung, um Wartezeiten zu vermeiden, und bietet auch Hausbesuche an, wenn notwendig.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Barnim 12 e",
     "locality": "Berlin",
@@ -36,26 +37,5 @@
   "images": [
     "/images/entries/naturheilpraxis-am-elsensee/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Am Elsensee?",
-      "answer": "Die Naturheilpraxis Am Elsensee befindet sich in Berlin, Am Barnim 12 e, 12623 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Am Elsensee vereinbaren?",
-      "answer": "Termine in der Naturheilpraxis Am Elsensee erfolgen ausschließlich nach vorheriger Terminabsprache. Sie können einen Termin über die Kontaktseite auf der Website buchen: https://www.naturheilpraxis-am-elsensee.de/kontakt/."
-    },
-    {
-      "question": "Welche Sprachen werden in der Naturheilpraxis Am Elsensee angeboten?",
-      "answer": "In der Naturheilpraxis Am Elsensee werden die Patienten in deutscher und englischer Sprache betreut."
-    },
-    {
-      "question": "Bietet die Naturheilpraxis Am Elsensee Hausbesuche an?",
-      "answer": "Ja, bei Notwendigkeit kann ein Besuch zu Hause vereinbart werden."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Am Elsensee erreichen?",
-      "answer": "Sie können die Naturheilpraxis Am Elsensee telefonisch unter 015750187543 erreichen. Bei Bedarf können Sie auch eine Nachricht auf dem Anrufbeantworter hinterlassen, und es wird zeitnah zurückgerufen."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-katrin-kelly-praxis-fur-craniosacral-und-korpertherapie",
   "name": "Heilpraktikerin Katrin Kelly - Praxis für Craniosacral - und Körpertherapie",
   "description": "Heilpraktikerin Katrin Kelly bietet in ihrer Praxis für Craniosacral- und Körpertherapie in Berlin-Friedrichshain ganzheitliche Therapien an, die auf individuelle Heilungsprozesse abzielen. Mit einem Fokus auf körperorientierte Trauma-Therapie und Leibarbeit unterstützt sie ihre Klienten dabei, eine tiefere Verbindung zu ihrem Körper und ihrer Lebensgeschichte herzustellen. Die Praxis richtet sich vorwiegend an Erwachsene und bietet auch spezielle Behandlungen für Kinder und Jugendliche an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bänschstraße 59",
     "locality": "Berlin",
@@ -41,20 +42,20 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Heilpraktikerin Katrin Kelly an?",
-      "answer": "Katrin Kelly bietet ganzheitliche Therapien für deinen Heilungsweg an, darunter Craniosacrale- und körperorientierte Trauma-Therapie sowie Leibarbeit."
+      "question": "Wie lange dauert eine Sitzung bei Katrin Kelly?",
+      "answer": "Eine körpertherapeutische Behandlung dauert in der Regel mindestens 90 Minuten. Bei bestimmten Themen kann eine Sitzung auch bis zu 2 Stunden dauern."
     },
     {
-      "question": "Wo befindet sich die Praxis von Katrin Kelly?",
-      "answer": "Die Praxis befindet sich in der Bänschstraße 59, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
+      "question": "Zahlt meine Krankenversicherung die Behandlungskosten?",
+      "answer": "Wenn Du bei einer Privatkasse versichert oder als Beamter beihilfefähig bist, kann ein großer Teil der Behandlungskosten übernommen werden. Erkundige Dich vorher bei Deiner Krankenkasse."
     },
     {
-      "question": "Bietet Katrin Kelly auch Behandlungen für Kinder an?",
-      "answer": "Ja, Katrin Kelly behandelt vorwiegend Erwachsene, bietet jedoch auch Behandlungen für Kinder und Jugendliche an."
+      "question": "Bietet Katrin Kelly Behandlungen in anderen Sprachen an?",
+      "answer": "Ja, Katrin Kelly bietet auch Behandlungen in Englisch an."
     },
     {
-      "question": "Kann ich auch auf Englisch behandelt werden?",
-      "answer": "Ja, Katrin Kelly bietet ihre Behandlungen auch auf Englisch an, falls dies für dich angenehmer ist."
+      "question": "Sind Behandlungen für Kinder verfügbar?",
+      "answer": "Die Praxis richtet sich vorwiegend an Erwachsene, bietet jedoch auch spezielle Behandlungen für Kinder und Jugendliche an."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "private-physiotherapie-sektorale-heilpraktikerin-heike-curseri",
   "name": "Private Physiotherapie & sektorale Heilpraktikerin Heike Curseri",
   "description": "Heike Curseri ist eine erfahrene Heilpraktikerin und Physiotherapeutin mit einer Praxis in Wendenschloss, Berlin. Sie bietet umfassende physiotherapeutische Behandlungen sowie energetische Körperarbeit und Coaching an. Ihr Ziel ist es, Menschen in ihrem Gesundungsprozess zu unterstützen, indem sie individuelle Befunde erstellt und innovative Techniken anwendet, um eine ganzheitliche Heilung zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "hinter Netto",
     "locality": "Berlin",
@@ -54,24 +55,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heike Curseri?",
-      "answer": "Die Praxis von Heike Curseri befindet sich in Berlin, genauer gesagt in Wendenschloss, hinter Netto, 12557 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heike Curseri vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter der Nummer 030 23541105 oder über die Website hier vereinbaren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Heike Curseri an?",
-      "answer": "Heike Curseri bietet unter anderem Physiotherapie, energetische Körperarbeit, Coaching sowie innovative Techniken in der Physiotherapie an."
-    },
-    {
-      "question": "Wie lange ist Heike Curseri bereits in der Physiotherapie tätig?",
-      "answer": "Heike Curseri ist seit vielen Jahren in der Physiotherapie tätig und hat über 30 Jahre Erfahrung."
-    },
-    {
-      "question": "Was ist das Ziel von Heike Curseri in ihrer Praxis?",
-      "answer": "Das Ziel von Heike Curseri ist es, Menschen in ihrem Gesundungsprozess zu begleiten und zu unterstützen, um sie in ihre dauerhafte Genesung zu führen."
+      "question": "Muss ich als Selbstzahler die Kosten selbst tragen?",
+      "answer": "Ja, die Praxis ist auf Selbstzahler ausgerichtet."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "tierheilpraxis-kreuzberg",
   "name": "Tierheilpraxis Kreuzberg",
   "description": "Die Tierheilpraxis Kreuzberg in Berlin bietet umfassende naturheilkundliche Behandlungen für Groß- und Kleintiere an. Die Praxis legt besonderen Wert darauf, die Ursachen von Beschwerden zu identifizieren und nicht nur die Symptome zu behandeln. Neben klassischen Therapien werden auch alternative Methoden wie Physiotherapie und Bioresonanz eingesetzt, um das Wohlbefinden der Tiere zu fördern. Haus- und Hofbesuche sind ebenfalls Teil des Angebots, um eine individuelle Betreuung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Warschauer Str. 29",
     "locality": "Berlin",
@@ -78,26 +79,5 @@
     "/images/entries/tierheilpraxis-kreuzberg/2.webp",
     "/images/entries/tierheilpraxis-kreuzberg/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Tierheilpraxis Kreuzberg an?",
-      "answer": "Die Tierheilpraxis Kreuzberg bietet unter anderem Physiotherapie für Tiere an."
-    },
-    {
-      "question": "Wo befindet sich die Tierheilpraxis Kreuzberg?",
-      "answer": "Die Tierheilpraxis Kreuzberg befindet sich in der Warschauer Str. 29, 10243 Berlin."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Tierheilpraxis Kreuzberg?",
-      "answer": "Die Öffnungszeiten sind: Montag und Mittwoch von 11:00 bis 17:00 Uhr, Dienstag und Donnerstag von 14:00 bis 20:00 Uhr, sowie Freitag von 11:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Tierheilpraxis Kreuzberg kontaktieren?",
-      "answer": "Sie können die Tierheilpraxis Kreuzberg telefonisch unter 017634384738 erreichen."
-    },
-    {
-      "question": "Bietet die Tierheilpraxis auch Hausbesuche an?",
-      "answer": "Ja, die Tierheilpraxis Kreuzberg bietet Haus- und Hofbesuche für Tiere an."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-koberle",
   "name": "Naturheilpraxis Köberle",
   "description": "Die Naturheilpraxis Köberle in Berlin bietet umfassende Behandlungen in den Bereichen Osteopathie und Naturheilkunde an. Unter der Leitung von Annikki Köberle, einer erfahrenen Osteopathin und Heilpraktikerin, liegt der Fokus auf der Wiederherstellung der Bewegungsfreiheit und der Aktivierung der Selbstheilungskräfte des Körpers. Die Praxis ist darauf spezialisiert, individuelle Beschwerden zu analysieren und gezielt zu behandeln, wobei auch spezielle Angebote für Schwangere und Neugeborene bereitstehen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gounodstraße 20",
     "locality": "Berlin",
@@ -98,24 +99,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Köberle an?",
-      "answer": "Die Naturheilpraxis Köberle bietet unter anderem Osteopathie, immunbiologische Therapie, Schröpfen und weitere Heilmethoden an."
+      "question": "Wie verläuft der Ersttermin in der Naturheilpraxis Köberle?",
+      "answer": "Beim ersten Besuch stehen das ausführliche Erstgespräch, die Anamnese und die genaue osteopathische Untersuchung im Vordergrund. Planen Sie für das Erstgespräch 1,5 Stunden ein und bringen Sie bitte vorhandene Laborbefunde, Röntgenbilder und Arztberichte mit."
     },
     {
-      "question": "Wie verläuft eine osteopathische Behandlung in der Naturheilpraxis Köberle?",
-      "answer": "Beim ersten Besuch findet ein ausführliches Erstgespräch und eine osteopathische Untersuchung statt, die etwa 1,5 Stunden dauert. Die darauf folgenden Behandlungen dauern etwa eine Stunde und sind individuell auf den Patienten abgestimmt."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Köberle geöffnet?",
-      "answer": "Die Öffnungszeiten sind Montag von 08:00 bis 16:00 Uhr, Dienstag und Donnerstag von 08:00 bis 20:00 Uhr sowie Freitag von 08:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Köberle?",
-      "answer": "Die Naturheilpraxis Köberle befindet sich in der Gounodstraße 20, 13088 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Köberle buchen?",
-      "answer": "Sie können einen Termin online buchen über die Webseite: https://my.lemniscus.de/pss/7ac3bc04-76c8-428f-8dcc-85a7d121519a oder telefonisch unter 017622019200."
+      "question": "Was muss ich als Selbstzahler in der Naturheilpraxis Köberle beachten?",
+      "answer": "Die meisten gesetzlichen Krankenkassen beteiligen sich an den Kosten einer osteopathischen Behandlung. Bitte informieren Sie sich vor Behandlungsbeginn, ob und unter welchen Bedingungen Ihre gesetzliche Krankenkasse diese Leistungen mit erstattet."
     }
   ]
 }

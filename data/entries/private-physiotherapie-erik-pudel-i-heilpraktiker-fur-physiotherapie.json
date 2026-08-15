@@ -83,26 +83,5 @@
     "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/3.webp",
     "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Erik Pudel?",
-      "answer": "Die Praxis von Erik Pudel befindet sich in der Seegerstraße 17, 13158 Berlin, Pankow."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Erik Pudel buchen?",
-      "answer": "Sie können einen Termin bequem online über Doctolib buchen. Hier ist der Link: Jetzt Termin sichern."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Öffnungszeiten sind: Montag von 08:00 bis 20:00 Uhr, Dienstag von 08:00 bis 18:30 Uhr, Mittwoch von 08:00 bis 14:30 Uhr und Donnerstag von 09:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Bietet Erik Pudel auch Behandlungen ohne Rezept an?",
-      "answer": "Ja, Erik Pudel bietet Therapie auch ohne Rezept an."
-    },
-    {
-      "question": "Welche Behandlungsschwerpunkte hat Erik Pudel?",
-      "answer": "Die Behandlungsschwerpunkte von Erik Pudel umfassen Rückenschmerzen, Nackenverspannungen, Hüft-, Knie-, Fuß-, Schulter- und Armschmerzen, Sportverletzungen sowie Bewegungseinschränkungen."
-    }
-  ]
+  "faq": []
 }

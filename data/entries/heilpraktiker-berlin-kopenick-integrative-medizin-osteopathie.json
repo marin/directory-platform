@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-berlin-kopenick-integrative-medizin-osteopathie",
   "name": "Heilpraktiker Berlin Köpenick - Integrative Medizin & Osteopathie",
   "description": "Heilpraktiker Stephan Plöger in Berlin Köpenick bietet eine ganzheitliche Behandlung aus den Bereichen Integrative Medizin und Osteopathie an. Mit einem Fokus auf individuelle Beratung und umfassende Labordiagnostik zielt er darauf ab, die Gesundheit seiner Patienten nachhaltig zu fördern. Zu seinen Schwerpunkten zählen unter anderem Mikrobiom, HRV-Messung, Mikroimmuntherapie und Kinderosteopathie. Die Praxis legt großen Wert auf eine verständliche Kommunikation und die Einbeziehung der Patienten in den Behandlungsprozess.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Grünauer Str. 14",
     "locality": "Berlin",
@@ -113,24 +114,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet der Heilpraktiker in Berlin Köpenick an?",
-      "answer": "Der Heilpraktiker in Berlin Köpenick bietet eine Vielzahl von Behandlungen an, darunter Osteopathie, Mikroimmuntherapie, HRV-Messung, Laboranalysen und Kinderosteopathie."
+      "question": "Was kann ich beim Ersttermin erwarten?",
+      "answer": "Hier wird man mit seinen körperlichen Beschwerden ernst genommen. Schon nach der ersten Sitzung spürte ich Verbesserungen."
     },
     {
-      "question": "Wann kann eine heilpraktische und osteopathische Behandlung sinnvoll sein?",
-      "answer": "Eine heilpraktische und osteopathische Behandlung kann sinnvoll sein bei Schmerzen, Verdauungsproblemen, vegetativen Beschwerden, Kopfbereichsproblemen, Immunsystemstörungen und Sehnenreizungen."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03058882808 oder per E-Mail an info@nature-practice.de vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Osteopathie und Integrative Medizin?",
-      "answer": "Die Praxis befindet sich in der Grünauer Str. 14, 12557 Berlin, im Stadtteil Köpenick."
-    },
-    {
-      "question": "Was sagen Patienten über die Behandlungen bei Herrn Plöger?",
-      "answer": "Patienten berichten von positiven Erfahrungen, insbesondere über die individuelle Betreuung, das umfangreiche Fachwissen und die erfolgreiche Behandlung von verschiedenen Beschwerden."
+      "question": "Wie wird mit Kindern in der Praxis umgegangen?",
+      "answer": "Die Kinderosteopathie hat 18 Jahre Berufserfahrung und es wurden bereits über 2300 Patienten behandelt."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "corinna-simpson-heilpraktikerin-fur-psychotherapie-einzel-paar-familientherapie-",
   "name": "Corinna Simpson Heilpraktikerin für Psychotherapie Einzel-, Paar- & Familientherapie nach Jesper Juul, EMDR, Kinesiologie",
   "description": "Corinna Simpson ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Steglitz. Sie bietet Einzel-, Paar- und Familientherapie nach den Grundsätzen von Jesper Juul an und nutzt Methoden wie EMDR und Kinesiologie. Ihr Ansatz fokussiert sich auf die Förderung von Beziehungen und echtem Kontakt, um Menschen in schwierigen Lebenssituationen zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Moltkestraße 46",
     "locality": "Berlin",
@@ -56,24 +57,8 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet Corinna Simpson an?",
-      "answer": "Corinna Simpson bietet Einzel-, Paar- und Familientherapie nach Jesper Juul, EMDR und Kinesiologie an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Corinna Simpson?",
-      "answer": "Die Praxis von Corinna Simpson befindet sich in der Moltkestraße 46, 12203 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Dienstag und Mittwoch von 09:00 bis 18:00 Uhr, Donnerstag von 09:00 bis 14:00 Uhr und Freitag von 10:00 bis 15:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Corinna Simpson buchen?",
-      "answer": "Einen Termin können Sie über die Webseite unter https://beratungspraxis-simpson.de/Kontakt/ buchen."
-    },
-    {
-      "question": "Wie kann ich Corinna Simpson kontaktieren?",
-      "answer": "Sie können Corinna Simpson telefonisch unter 03077206956 oder per E-Mail an mail@beratungspraxis-simpson.de kontaktieren."
+      "question": "Bieten Sie auch Therapie für Kinder an?",
+      "answer": "Ja, ich begleite Kinder."
     }
   ]
 }

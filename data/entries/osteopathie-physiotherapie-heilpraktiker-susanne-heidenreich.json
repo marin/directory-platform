@@ -3,7 +3,7 @@
   "slug": "osteopathie-physiotherapie-heilpraktiker-susanne-heidenreich",
   "name": "Osteopathie - Physiotherapie - Heilpraktiker - Susanne Heidenreich",
   "description": "Willkommen in der Praxis für Osteopathie, Heilkunde und Physiotherapie von Susanne Heidenreich in Berlin-Weißensee. Seit August 2012 bietet das Team einen ganzheitlichen Ansatz zur Behandlung von körperlichen Beschwerden, der auch Lebensgewohnheiten und Ernährung berücksichtigt. Ziel ist es, langfristige Erleichterungen für die Patienten zu erreichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Langhansstraße 66",
     "locality": "Berlin",
@@ -130,24 +131,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Susanne Heidenreich an?",
-      "answer": "Susanne Heidenreich bietet Behandlungen in den Bereichen Osteopathie, Physiotherapie und Naturheilkunde an."
+      "question": "Wie lange dauert eine Sitzung bei Susanne Heidenreich?",
+      "answer": "Die Dauer einer Sitzung beträgt ca. 50 Minuten für osteopathische Therapie und 20 Minuten für Krankengymnastik oder manuelle Therapie."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist Montag von 09:00 bis 19:00 Uhr, Dienstag und Mittwoch von 09:00 bis 20:00 Uhr, Donnerstag von 08:00 bis 20:00 Uhr und Freitag von 08:00 bis 15:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Susanne Heidenreich?",
-      "answer": "Die Praxis befindet sich in der Langhansstraße 66, Berlin, 13086."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Webseite unter https://osteopathie-heidenreich.de/kontakt/ buchen."
-    },
-    {
-      "question": "Wie hoch sind die Behandlungskosten?",
-      "answer": "Die Behandlungskosten variieren zwischen 15 € und 100 €, abhängig von der Art der Behandlung."
+      "question": "Werden die Behandlungen von der Krankenkasse übernommen?",
+      "answer": "Heilpraktikerbehandlungen werden entsprechend der Gebührenordnung für Heilpraktiker abgerechnet. Es empfiehlt sich, vorher mit der Krankenkasse zu sprechen."
     }
   ]
 }

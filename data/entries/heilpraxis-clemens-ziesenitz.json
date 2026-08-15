@@ -3,7 +3,7 @@
   "slug": "heilpraxis-clemens-ziesenitz",
   "name": "Heilpraxis Clemens Ziesenitz",
   "description": "Die Heilpraxis Clemens Ziesenitz in Berlin-Mitte bietet naturheilkundliche Behandlungen an, die auf den Prinzipien der Osteopathie basieren. Der Heilpraktiker und Physiotherapeut Clemens Ziesenitz legt großen Wert auf eine individuelle und ganzheitliche Betreuung seiner Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lübecker Str. 44",
     "locality": "Berlin",
@@ -37,22 +38,5 @@
     "/images/entries/heilpraxis-clemens-ziesenitz/3.webp",
     "/images/entries/heilpraxis-clemens-ziesenitz/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis Clemens Ziesenitz?",
-      "answer": "Die Heilpraxis Clemens Ziesenitz befindet sich in der Lübecker Str. 44, 10559 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis buchen?",
-      "answer": "Einen Termin in der Heilpraxis Clemens Ziesenitz können Sie über die Buchungsseite unter https://app.acuityscheduling.com/schedule.php?owner=14504307 buchen."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Clemens Ziesenitz an?",
-      "answer": "Clemens Ziesenitz bietet Dienstleistungen im Bereich der Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich Clemens Ziesenitz telefonisch erreichen?",
-      "answer": "Sie können Clemens Ziesenitz unter der Telefonnummer 017643164584 erreichen."
-    }
-  ]
+  "faq": []
 }

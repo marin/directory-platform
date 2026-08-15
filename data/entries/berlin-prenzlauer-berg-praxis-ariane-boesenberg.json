@@ -125,24 +125,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Ariane Boesenberg?",
-      "answer": "Die Praxis befindet sich in der Choriner Str. 20, 10435 Berlin, im Stadtteil Prenzlauer Berg."
+      "question": "Was passiert beim Ersttermin in der Praxis Ariane Boesenberg?",
+      "answer": "Im Erstgespräch lernen wir uns kennen und ich erfasse Ihre individuellen Bedürfnisse, Ziele und Herausforderungen."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
+      "question": "Wie lange dauert eine Therapiesitzung?",
+      "answer": "Eine reguläre Therapiesitzung dauert 50 Minuten. Je nach Therapiemethode und individuellen Bedürfnissen können auch längere Sitzungen von 80 oder 100 Minuten vereinbart werden."
     },
     {
-      "question": "Bietet Ariane Boesenberg Online-Therapie an?",
-      "answer": "Ja, alle Therapie- und Beratungsangebote sind auch online über sichere Videokonferenz möglich."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Ariane Boesenberg buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf Doctolib unter folgendem Link vereinbaren: https://www.doctolib.de/heilpraktiker/berlin/ariane-boesenberg?utm_source=google-maps&utm_campaign=google-maps."
-    },
-    {
-      "question": "Welche Therapieansätze bietet Ariane Boesenberg an?",
-      "answer": "Ariane Boesenberg bietet verschiedene Therapieansätze an, darunter Kinesiologie/Psychokinesiologie, Stressbewältigung, Burnout-Behandlung, Beziehungstherapie und Theta-Healing."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Therapie?",
+      "answer": "Als Heilpraktikerin für Psychotherapie arbeite ich auf privater Basis. Die gesetzlichen Krankenkassen übernehmen die Kosten in der Regel nicht. Private Krankenversicherungen und Zusatzversicherungen erstatten je nach Tarif und Versicherungsbedingungen die Behandlungskosten teilweise oder vollständig."
     }
   ]
 }

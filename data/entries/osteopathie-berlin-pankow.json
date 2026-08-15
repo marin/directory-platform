@@ -3,7 +3,7 @@
   "slug": "osteopathie-berlin-pankow",
   "name": "Osteopathie Berlin Pankow",
   "description": "Osteopathie Berlin Pankow bietet ganzheitliche Behandlungen unter der Leitung von Christine Vahl, Heilpraktikerin mit Schwerpunkt auf Osteopathie und miasmatischer Homöopathie. Die Praxis unterstützt Patienten bei akuten und chronischen Beschwerden sowie Funktionsstörungen und Schmerzzuständen. Ziel der Therapie ist es, die in jedem Menschen vorhandene Lebenskraft zu aktivieren und zu nutzen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Parkstraße 42",
     "locality": "Berlin",
@@ -26,6 +27,9 @@
   "phone": "03075635800",
   "email": "info@osteopathie-berlin-pankow.de",
   "website": "http://www.osteopathie-berlin-pankow.de/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU6EDGHJNqEcRstcOj1ThOCY",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 10,
   "openingHours": [
     {
       "day": "Monday",
@@ -55,29 +59,5 @@
   ],
   "offers": [],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungen werden in der Praxis Osteopathie Berlin Pankow angeboten?",
-      "answer": "In der Praxis werden akute und chronische Beschwerden, Funktionsstörungen und Schmerzzustände behandelt. Zudem werden Gesundheitsberatung und Gesundheitsprophylaxe angeboten."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03075635800 oder per E-Mail an info@osteopathie-berlin-pankow.de kontaktieren."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Osteopathie Berlin Pankow?",
-      "answer": "Die Praxis befindet sich in der Parkstraße 42, 13129 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Welche Therapieansätze werden in der Praxis verfolgt?",
-      "answer": "Die Praxis verfolgt die Ansätze der Osteopathie und der miasmatischen Homöopathie zur Aktivierung der Selbstheilungskräfte."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJU6EDGHJNqEcRstcOj1ThOCY",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 10
+  "faq": []
 }

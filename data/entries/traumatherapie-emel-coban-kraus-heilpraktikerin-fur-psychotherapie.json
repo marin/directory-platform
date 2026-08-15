@@ -3,7 +3,7 @@
   "slug": "traumatherapie-emel-coban-kraus-heilpraktikerin-fur-psychotherapie",
   "name": "Traumatherapie Emel Coban-Kraus, Heilpraktikerin für Psychotherapie",
   "description": "Emel Coban-Kraus ist Heilpraktikerin für Psychotherapie in Berlin und spezialisiert auf Traumatherapie. Sie bietet Unterstützung für Menschen, die unter stressbedingten Symptomen und Traumafolgestörungen wie PTBS leiden. In ihrer Praxis werden verschiedene therapeutische Ansätze, einschließlich körperorientierter Gesprächstherapie und traumasensitivem Yoga, eingesetzt, um Klienten zu helfen, ihre innere Stärke und Resilienz zu entwickeln. Die Angebote sind sowohl online als auch vor Ort in Berlin Charlottenburg verfügbar.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Haubachstraße 24",
     "locality": "Berlin",
@@ -59,24 +60,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieansätze bietet Emel Coban-Kraus an?",
-      "answer": "Emel Coban-Kraus bietet verschiedene Therapieansätze an, darunter körperorientierte Gesprächstherapie, traumasensitiven Yoga (TCTSY) und Embodiment-Übungen zur Förderung der Körperwahrnehmung."
+      "question": "Was kann ich im Ersttermin erwarten?",
+      "answer": "Im Erstgespräch können Sie alles mitbringen, was Ihnen wichtig ist. Es wird Wertschätzung, Transparenz und Partnerschaft auf Augenhöhe geboten. Sie haben jederzeit die Möglichkeit zu stoppen, wenn es zu viel wird."
     },
     {
-      "question": "Wie kann ich einen Termin bei Emel Coban-Kraus buchen?",
-      "answer": "Sie können einen Termin direkt über die Website von Emel Coban-Kraus buchen: Termin buchen."
-    },
-    {
-      "question": "In welcher Region ist die Praxis von Emel Coban-Kraus angesiedelt?",
-      "answer": "Die Praxis von Emel Coban-Kraus befindet sich in Berlin, genauer gesagt in der Haubachstraße 24, 10585 Berlin."
-    },
-    {
-      "question": "Für wen sind die Angebote von Emel Coban-Kraus geeignet?",
-      "answer": "Die Angebote richten sich insbesondere an Menschen, die unter den Folgen von traumatischen Ereignissen leiden, sowie an diejenigen, die ihre Selbstwirksamkeit, Zuversicht und innere Stärke wiederentdecken möchten."
-    },
-    {
-      "question": "Wie kann ich Emel Coban-Kraus kontaktieren?",
-      "answer": "Sie können Emel Coban-Kraus telefonisch unter 01702899819 erreichen oder ihre Website besuchen: emelcoban.de."
+      "question": "Muss ich die Therapie selbst zahlen?",
+      "answer": "Ja, Emel Coban-Kraus führt eine Privatpraxis für Selbstzahlerinnen."
     }
   ]
 }

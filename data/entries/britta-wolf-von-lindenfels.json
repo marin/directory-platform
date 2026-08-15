@@ -3,7 +3,7 @@
   "slug": "britta-wolf-von-lindenfels",
   "name": "Britta & Wolf von Lindenfels",
   "description": "Britta & Wolf von Lindenfels sind Heilpraktiker in Berlin-Charlottenburg, die sich auf klassische Homöopathie spezialisiert haben. Ihre Praxis bietet individuelle Behandlungen an, die darauf abzielen, die Balance zwischen Körper und Seele wiederherzustellen. Neben homöopathischen Therapien bieten sie auch Paargespräche und Feng-Shui-Beratung an, um Klienten in verschiedenen Lebensbereichen zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kantstraße 108",
     "locality": "Berlin",
@@ -37,26 +38,5 @@
     "/images/entries/britta-wolf-von-lindenfels/3.webp",
     "/images/entries/britta-wolf-von-lindenfels/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Britta & Wolf von Lindenfels?",
-      "answer": "Die Praxis befindet sich in der Kantstraße 108, 10627 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bieten Britta & Wolf von Lindenfels an?",
-      "answer": "Britta & Wolf von Lindenfels bieten klassische Homöopathie an und unterstützen auch bei Feng-Shui-Anliegen."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Britta & Wolf von Lindenfels buchen?",
-      "answer": "Sie können einen Termin über die Website buchen, indem Sie den folgenden Link verwenden: https://www.xn--restlos-glcklich-szb.de/#Kontakt."
-    },
-    {
-      "question": "Wie kann ich Britta & Wolf von Lindenfels kontaktieren?",
-      "answer": "Sie können Britta & Wolf von Lindenfels telefonisch unter 030-83106806 oder per E-Mail unter britta@restlos-guecklich.de bzw. wolf@restlos-guecklich.de kontaktieren."
-    },
-    {
-      "question": "Gibt es spezielle Öffnungszeiten für die Praxis?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

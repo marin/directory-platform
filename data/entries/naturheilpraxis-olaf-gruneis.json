@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-olaf-gruneis",
   "name": "Naturheilpraxis Olaf Grüneis",
   "description": "Die Naturheilpraxis Olaf Grüneis in Berlin-Kreuzberg bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Homöopathie, Pflanzenheilkunde, Terlusollogie®, physikalische Therapie und Ozon-Therapie. Herr Grüneis legt großen Wert auf eine individuelle Diagnostik und Behandlung, um die Gesundheit seiner Patienten ganzheitlich zu fördern. Die Praxis ist ein Ort, an dem sowohl körperliche als auch geistige Werte geschätzt werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Solmsstraße 36",
     "locality": "Berlin",
@@ -71,22 +72,5 @@
   "images": [
     "/images/entries/naturheilpraxis-olaf-gruneis/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Olaf Grüneis an?",
-      "answer": "Die Naturheilpraxis Olaf Grüneis bietet verschiedene Therapien an, darunter Homöopathie, Pflanzenheilkunde, Terlusollogie®, physikalische Therapie, Blutegel, Ernährung, Neuraltherapie und Ozon-Therapie."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Olaf Grüneis?",
-      "answer": "Die Naturheilpraxis Olaf Grüneis befindet sich in der Solmsstraße 36, 10961 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Olaf Grüneis kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Olaf Grüneis telefonisch unter 0306878934 erreichen."
-    },
-    {
-      "question": "Welche Diagnostik wird in der Naturheilpraxis Olaf Grüneis angeboten?",
-      "answer": "In der Naturheilpraxis Olaf Grüneis wird eine umfassende Diagnostik angeboten, die auf die individuellen Bedürfnisse der Patienten abgestimmt ist."
-    }
-  ]
+  "faq": []
 }

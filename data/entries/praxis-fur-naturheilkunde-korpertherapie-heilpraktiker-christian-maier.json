@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier",
   "name": "Praxis für Naturheilkunde & Körpertherapie Heilpraktiker Christian Maier",
   "description": "Die Praxis für Naturheilkunde & Körpertherapie von Heilpraktiker Christian Maier befindet sich seit 2010 in Berlin Prenzlauer Berg. Mit über 15 Jahren Erfahrung in Naturheilverfahren, Pflanzenheilkunde und Massagen bietet die Praxis seit 2024 auch osteopathische Behandlungen an. Die Kombination von Osteopathie und Naturheilkunde ermöglicht eine individuelle Therapie für akute und chronische Erkrankungen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Liselotte-Herrmann-Straße 3",
     "locality": "Berlin",
@@ -81,26 +82,5 @@
     "/images/entries/praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier/0.webp",
     "/images/entries/praxis-fur-naturheilkunde-korpertherapie-heilpraktiker-christian-maier/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Heilpraktiker Christian Maier an?",
-      "answer": "Heilpraktiker Christian Maier bietet Naturheilverfahren, Pflanzenheilkunde, Massagen sowie osteopathische Behandlungen an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christian Maier?",
-      "answer": "Die Praxis für Naturheilkunde & Körpertherapie befindet sich in der Liselotte-Herrmann-Straße 3, 10407 Berlin, im Stadtteil Prenzlauer Berg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat montags von 09:00 bis 13:00 und von 14:30 bis 19:00 Uhr sowie donnerstags von 09:00 bis 13:00 und von 14:30 bis 19:00 Uhr geöffnet. Samstags ist die Praxis von 10:00 bis 16:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03096512942 oder per E-Mail an info@naturheilkundepraxis-berlin.de vereinbaren."
-    },
-    {
-      "question": "Welche neuen Angebote gibt es in der Praxis?",
-      "answer": "Neu in der Praxis sind osteopathische Behandlungen, die seit 2024 angeboten werden."
-    }
-  ]
+  "faq": []
 }

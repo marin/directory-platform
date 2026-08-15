@@ -3,7 +3,7 @@
   "slug": "hans-nagel-sanjiao-naturheilpraxis",
   "name": "Hans Nagel - Sanjiao Naturheilpraxis",
   "description": "Hans Nagel betreibt die Sanjiao Naturheilpraxis in Berlin-Neukölln und ist spezialisiert auf die Behandlung chronischer Schmerzen sowie Muskel- und Gelenkbeschwerden. In seiner Praxis kommen vor allem Akupunktur und die manuelle Medizin nach Dr. Furter zum Einsatz, um gezielt Verspannungen und Schmerzpunkte zu behandeln. Er legt großen Wert auf eine ganzheitliche Betrachtung seiner Patienten und bietet eine respektvolle und individuelle Betreuung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Richardstraße 108",
     "locality": "Berlin",
@@ -62,26 +63,5 @@
     "/images/entries/hans-nagel-sanjiao-naturheilpraxis/3.webp",
     "/images/entries/hans-nagel-sanjiao-naturheilpraxis/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Hans Nagel in der Sanjiao Naturheilpraxis an?",
-      "answer": "Hans Nagel bietet hauptsächlich Akupunktur und manuelle Medizin nach Dr. Furter an, um chronische Schmerzen sowie Muskel- und Gelenkbeschwerden zu behandeln."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Sanjiao Naturheilpraxis buchen?",
-      "answer": "Sie können einen Termin online über die Website der Sanjiao Naturheilpraxis buchen: Termin buchen."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten der Sanjiao Naturheilpraxis?",
-      "answer": "Die Öffnungszeiten sind Montag und Dienstag von 15:00 bis 21:00 Uhr sowie Mittwoch von 08:00 bis 15:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Sanjiao Naturheilpraxis?",
-      "answer": "Die Sanjiao Naturheilpraxis befindet sich in der Richardstraße 108, 12043 Berlin."
-    },
-    {
-      "question": "Wie kann ich Hans Nagel kontaktieren?",
-      "answer": "Sie können Hans Nagel per E-Mail unter hans.sanjiao@posteo.de kontaktieren, wenn Sie Fragen zur Praxis haben."
-    }
-  ]
+  "faq": []
 }

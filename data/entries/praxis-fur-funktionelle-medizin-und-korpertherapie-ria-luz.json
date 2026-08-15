@@ -3,7 +3,7 @@
   "slug": "praxis-fur-funktionelle-medizin-und-korpertherapie-ria-luz",
   "name": "Praxis für Funktionelle Medizin und Körpertherapie Ria Luz",
   "description": "Die Praxis für Funktionelle Medizin und Körpertherapie Ria Luz befindet sich in Berlin-Steglitz-Zehlendorf. Hier werden individuelle Therapiekonzepte entwickelt, die auf den Prinzipien der Funktionellen Medizin basieren. Neben persönlichen Beratungen werden auch Erstgespräche und Beratungen online angeboten, um eine flexible Betreuung zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Cunostraße 64",
     "locality": "Berlin",
@@ -72,24 +73,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Praxis für Funktionelle Medizin und Körpertherapie Ria Luz an?",
-      "answer": "Die Praxis bietet Dienstleistungen im Bereich der Funktionellen Medizin und Körpertherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin online über die Website der Praxis buchen oder direkt über Doctolib."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Öffnungszeiten sind Montag von 08:00 bis 14:00, Dienstag von 08:00 bis 13:00 und 15:00 bis 20:00, Donnerstag von 08:00 bis 13:00 und 15:00 bis 20:00, sowie Freitag von 08:00 bis 12:00."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Funktionelle Medizin und Körpertherapie Ria Luz?",
-      "answer": "Die Praxis befindet sich in der Cunostraße 64, 14193 Berlin, im Bezirk Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01738008251 oder per E-Mail an ria.luz@naturheilpraxis-luz.de kontaktieren."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Es werden individuelle Therapiekonzepte entwickelt, die auf den Prinzipien der Funktionellen Medizin basieren. Erstgespräche und Beratungen werden auch online angeboten."
     }
   ]
 }

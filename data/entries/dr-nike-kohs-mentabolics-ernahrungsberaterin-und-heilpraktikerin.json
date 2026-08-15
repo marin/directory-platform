@@ -3,7 +3,7 @@
   "slug": "dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin",
   "name": "Dr. Nike Kohs | mentabolics Ernährungsberaterin und Heilpraktikerin",
   "description": "Studium mit den Schwerpunkten Human Ressources und Fortbildung: Betriebliches Gesundheitsmanagement",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "HAUS UNVERDORBEN",
     "locality": "Berlin",
@@ -57,5 +58,14 @@
     "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/3.webp",
     "/images/entries/dr-nike-kohs-mentabolics-ernahrungsberaterin-und-heilpraktikerin/4.webp"
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Was passiert beim Ersttermin bei Dr. Nike Kohs?",
+      "answer": "Wir legen großen Wert auf eine ausführliche Anamnese."
+    },
+    {
+      "question": "In welchen Sprachen bietet Dr. Nike Kohs ihre Dienstleistungen an?",
+      "answer": "Die Dienstleistungen werden in deutscher und englischer Sprache angeboten."
+    }
+  ]
 }

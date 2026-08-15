@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-dipl-schmerztherapeut-maximilian-schon",
   "name": "Heilpraktiker & Dipl. Schmerztherapeut Maximilian Schön",
   "description": "Maximilian Schön ist ein zertifizierter Heilpraktiker und Dipl. Schmerztherapeut in Berlin, spezialisiert auf die Schmerztherapie nach dem Liebscher & Bracht Konzept. In seiner Praxis in der Wilhelmshöher Str. 2 bietet er eine umfassende und natürliche Schmerzbehandlung an, die ohne Medikamente oder Operationen auskommt. Ziel seiner Therapie ist es, den Patienten zu helfen, ihre Schmerzen selbst zu lindern und ihre Lebensqualität zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wilhelmshöher Str. 2",
     "locality": "Berlin",
@@ -56,26 +57,5 @@
     "/images/entries/heilpraktiker-dipl-schmerztherapeut-maximilian-schon/3.webp",
     "/images/entries/heilpraktiker-dipl-schmerztherapeut-maximilian-schon/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Maximilian Schön?",
-      "answer": "Die Praxis von Maximilian Schön befindet sich in der Wilhelmshöher Str. 2, 12161 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Maximilian Schön buchen?",
-      "answer": "Sie können einen Termin bei Maximilian Schön über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Therapieformen bietet Maximilian Schön an?",
-      "answer": "Maximilian Schön ist spezialisiert auf Schmerztherapie und Naturheilkunde, insbesondere die Therapie nach Liebscher & Bracht."
-    },
-    {
-      "question": "Wie kann ich Maximilian Schön kontaktieren?",
-      "answer": "Sie können Maximilian Schön telefonisch unter 017630478143 oder per E-Mail an info@hp-schoen.com kontaktieren."
-    },
-    {
-      "question": "Was ist das Ziel der Therapie nach Liebscher & Bracht?",
-      "answer": "Das Ziel der Therapie nach Liebscher & Bracht ist es, Patienten zu helfen, sich bei Schmerzen selbst zu helfen — ohne Schmerzmittel, Spritzen oder Operationen."
-    }
-  ]
+  "faq": []
 }

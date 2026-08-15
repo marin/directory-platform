@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-anja-kayser",
   "name": "Heilpraktikerin Anja Kayser",
   "description": "Heilpraktikerin Anja Kayser in Berlin Zehlendorf bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter Traumaarbeit, Craniosacrale Körperarbeit und Familienaufstellungen. Ihr Ansatz zielt darauf ab, verborgene Emotionen zu erkennen und zu transformieren, um Lebensfreude und innere Stabilität zu fördern. In einer einfühlsamen Atmosphäre unterstützt sie ihre Klienten dabei, ihre individuellen Herausforderungen zu bewältigen und ein erfülltes Leben zu führen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Onkel-Tom-Straße 3a",
     "locality": "Berlin",
@@ -79,26 +80,5 @@
     "/images/entries/heilpraktikerin-anja-kayser/3.webp",
     "/images/entries/heilpraktikerin-anja-kayser/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Heilpraktikerin Anja Kayser an?",
-      "answer": "Heilpraktikerin Anja Kayser bietet Traumaarbeit, Craniosacrale Körperarbeit und Familienaufstellung an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Anja Kayser?",
-      "answer": "Die Praxis von Anja Kayser befindet sich in der Onkel-Tom-Straße 3a, 14169 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind: Montag von 09:00 bis 18:00, Dienstag von 10:00 bis 20:00, Mittwoch von 08:00 bis 16:00, Donnerstag von 12:00 bis 20:00 und Freitag von 10:00 bis 18:00."
-    },
-    {
-      "question": "Wie kann ich Anja Kayser kontaktieren?",
-      "answer": "Sie können Anja Kayser telefonisch unter 01723853623 oder über ihre Website http://www.kayseranja.de/ kontaktieren."
-    },
-    {
-      "question": "Was ist das Ziel der Traumaarbeit bei Anja Kayser?",
-      "answer": "Das Ziel der Traumaarbeit bei Anja Kayser ist es, überwältigende Erlebnisse zu erlösen und zu transformieren, sodass Gefühle von Geborgenheit und Sicherheit verankert werden und Lebensfreude zurückkehrt."
-    }
-  ]
+  "faq": []
 }

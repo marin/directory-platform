@@ -3,7 +3,7 @@
   "slug": "elke-wiget",
   "name": "Elke Wiget",
   "description": "Elke Wiget ist eine erfahrene Heilpraktikerin und Coach mit Sitz in Berlin-Zehlendorf. Sie bietet eine Vielzahl von naturheilkundlichen Behandlungen und Workshops an, die auf den vier Elementen Feuer, Wasser, Erde und Luft basieren. Ihr Ansatz zielt darauf ab, Klienten in ihren persönlichen Wachstumsprozessen zu unterstützen und ihnen zu helfen, ihre innere Essenz zu entfalten. Zu den Angeboten gehören Einzelsessions, Retreats sowie Teambuilding-Events für Firmen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Hohenzollerndamm 94",
     "locality": "Berlin",
@@ -70,26 +71,5 @@
     "/images/entries/elke-wiget/3.webp",
     "/images/entries/elke-wiget/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Elke Wiget an?",
-      "answer": "Elke Wiget bietet Einzelsessions, Workshops, Teambuilding für Firmen, Retreats und Ausbildungen an. Zu den spezifischen Angeboten gehören Feuerlauf, Colon Hydro Therapie, Atemarbeit und verschiedene Workshops."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Elke Wiget?",
-      "answer": "Die Praxis von Elke Wiget befindet sich am Hohenzollerndamm 94, 14199 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Wie kann ich Elke Wiget kontaktieren?",
-      "answer": "Sie können Elke Wiget telefonisch unter 03064327202 oder per E-Mail an fokus@elkewiget.com kontaktieren."
-    },
-    {
-      "question": "Was ist das Konzept hinter den Angeboten von Elke Wiget?",
-      "answer": "Das Konzept von Elke Wiget basiert auf der Begleitung ihrer Klienten in die heilsamen Kräfte der vier Elemente: Feuer, Wasser, Erde und Luft, um Klarheit, Reinigung, Erdung und Transformation zu fördern."
-    },
-    {
-      "question": "Bietet Elke Wiget auch Ausbildungen an?",
-      "answer": "Ja, Elke Wiget bietet Ausbildungen an, darunter SUNDOOR Firewalk Instructor und Colon Hydro Therapeut."
-    }
-  ]
+  "faq": []
 }

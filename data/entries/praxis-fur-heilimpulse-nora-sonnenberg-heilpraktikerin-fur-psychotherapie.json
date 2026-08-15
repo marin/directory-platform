@@ -3,7 +3,7 @@
   "slug": "praxis-fur-heilimpulse-nora-sonnenberg-heilpraktikerin-fur-psychotherapie",
   "name": "Praxis für Heilimpulse Nora Sonnenberg - Heilpraktikerin für Psychotherapie",
   "description": "Die Praxis für Heilimpulse von Nora Sonnenberg in Berlin-Wedding bietet ganzheitliche Psychotherapie mit einem traumasensiblen und nervensystem-orientierten Ansatz. Seit 2014 begleitet die Heilpraktikerin überwiegend Frauen und Mädchen ab 16 Jahren in schwierigen Lebensphasen, bei Ängsten, depressiven Verstimmungen und belastenden Beziehungserfahrungen. Die Therapieformen umfassen unter anderem Integrative Gestalttherapie, polyvagal-informierte Therapie und Klopftherapie, ergänzt durch Rituale in besonderen Übergangsprozessen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Schwedenstraße 15a",
     "locality": "Berlin",
@@ -112,24 +113,12 @@
   ],
   "faq": [
     {
-      "question": "Welche therapeutischen Ansätze bietet Nora Sonnenberg in ihrer Praxis an?",
-      "answer": "Nora Sonnenberg bietet in ihrer Praxis Integrative Gestalttherapie, polyvagal-informierte Therapie und Klopftherapie an."
+      "question": "Wie lange dauert eine Sitzung bei Nora Sonnenberg?",
+      "answer": "Eine Sitzung dauert 55 Minuten. Ein Vorgespräch dauert 60 Minuten, gefolgt von einem 90-minütigen Ritual."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis für Heilimpulse buchen?",
-      "answer": "Sie können einen Termin über die Webseite buchen, indem Sie diesem Link folgen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat von Montag bis Donnerstag von 09:00 bis 16:00 Uhr und am Freitag von 10:00 bis 13:00 Uhr geöffnet."
-    },
-    {
-      "question": "Bietet die Praxis ein Kennenlerngespräch an?",
-      "answer": "Ja, es wird ein unverbindliches und kostenfreies halbstündiges Kennenlerngespräch angeboten."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Heilimpulse?",
-      "answer": "Die Praxis befindet sich in der Schwedenstraße 15a, 13357 Berlin."
+      "question": "Gibt es Ermäßigungen für bestimmte Personengruppen?",
+      "answer": "Ja, Ermäßigungen sind nach Absprache möglich für Empfänger/Innen von Bürgergeld, Alleinerziehende, Studenten/Innen, Auszubildende und Geringverdiener/Innen ohne Zusatzversicherung."
     }
   ]
 }

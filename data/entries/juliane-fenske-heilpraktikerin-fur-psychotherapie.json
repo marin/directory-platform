@@ -3,7 +3,7 @@
   "slug": "juliane-fenske-heilpraktikerin-fur-psychotherapie",
   "name": "Juliane Fenske, Heilpraktikerin für Psychotherapie",
   "description": "Juliane Fenske ist eine erfahrene Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Lankwitz. Sie bietet ein breites Spektrum an therapeutischen Leistungen an, darunter Hypnose, Traumatherapie, systemische Aufstellungen und Anti-Stress Coaching. Ihr Ansatz zielt darauf ab, das körperliche und seelische Wohlbefinden ihrer Klienten zu fördern und individuelle Behandlungskonzepte zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Lankwitz 96",
     "locality": "Berlin",
@@ -75,26 +76,5 @@
   "images": [
     "/images/entries/juliane-fenske-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Juliane Fenske an?",
-      "answer": "Juliane Fenske bietet eine Vielzahl von Therapien an, darunter Chiropraktik, Hormonberatung, Hypnose, Anti-Stress Coaching, Traumatherapie, Akupunkt-Massage nach Penzel, systemische Aufstellung und Rückführungstherapie."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Fenske?",
-      "answer": "Die Heilpraxis Fenske befindet sich in Berlin, Alt-Lankwitz 96, 12247 Berlin."
-    },
-    {
-      "question": "Wie kann ich Juliane Fenske kontaktieren?",
-      "answer": "Sie können Juliane Fenske telefonisch unter 017662104219 oder per E-Mail an info@heilpraxis-fenske.de kontaktieren."
-    },
-    {
-      "question": "Bietet die Heilpraxis Fenske auch Online-Termine an?",
-      "answer": "Ja, Sie können entscheiden, ob die Behandlungen vor Ort oder digital stattfinden."
-    },
-    {
-      "question": "Was ist das Ziel der Therapien bei Juliane Fenske?",
-      "answer": "Das Ziel der Therapien bei Juliane Fenske ist es, das körperliche und seelische Wohlbefinden der Patienten zu fördern und ihnen zu helfen, ihr inneres Gleichgewicht wiederzufinden."
-    }
-  ]
+  "faq": []
 }

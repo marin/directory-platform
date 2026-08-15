@@ -3,7 +3,7 @@
   "slug": "hypnose-westend-charlottenburg-physiotherapie-michaela-chakraborty-pokorny",
   "name": "Hypnose Westend Charlottenburg | Physiotherapie | Michaela Chakraborty-Pokorny",
   "description": "In der Heilpraxis Westend in Berlin-Charlottenburg bietet Michaela Chakraborty-Pokorny umfassende Therapien in den Bereichen Physiotherapie und Psychotherapie an. Mit über 40 Jahren Erfahrung als Physiotherapeutin und einer Spezialisierung auf Hypnotherapie, EMDR und Yager-Code Therapie verfolgt sie einen ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt. Die Praxis befindet sich in der Marathonallee 11 und ist gut erreichbar.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Marathonallee 11",
     "locality": "Berlin",
@@ -69,24 +70,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapiemethoden bietet Michaela Chakraborty-Pokorny an?",
-      "answer": "Michaela Chakraborty-Pokorny bietet Physiotherapie, Psychotherapie, Hypnotherapie, EMDR und Yager-Code Therapie an."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Sitzungen dauern 120 Minuten."
     },
     {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis Westend?",
-      "answer": "Die Heilpraxis Westend ist von Montag bis Donnerstag von 09:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Westend?",
-      "answer": "Die Heilpraxis Westend befindet sich in der Marathonallee 11, 14052 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie Michaela Chakraborty-Pokorny eine E-Mail an mikalinacp@t-online.de senden oder sie telefonisch unter 0303928851 kontaktieren."
-    },
-    {
-      "question": "Was kostet eine Sitzung in der Heilpraxis Westend?",
-      "answer": "Die Kosten betragen 120 € pro Stunde für Physiotherapie und 360 € für zwei Stunden Hypnotherapie. EMDR und Yager-Code Therapie kosten 130 € pro Stunde."
+      "question": "Wie viel kostet eine Sitzung für Selbstzahler?",
+      "answer": "Die Hypnotherapie kostet 360 € für zwei Stunden."
     }
   ]
 }

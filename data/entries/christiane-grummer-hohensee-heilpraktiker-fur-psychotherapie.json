@@ -3,7 +3,7 @@
   "slug": "christiane-grummer-hohensee-heilpraktiker-fur-psychotherapie",
   "name": "Christiane Grümmer-Hohensee, Heilpraktiker für Psychotherapie",
   "description": "Christiane Grümmer-Hohensee ist Heilpraktikerin für Psychotherapie in Berlin, im Bezirk Charlottenburg-Wilmersdorf. In ihrer Praxis bietet sie psychologische Beratung und Auftrittscoaching an, wobei sie verschiedene Methoden der Psychotherapie und Naturheilkunde kombiniert. Ihre Schwerpunkte liegen unter anderem in der Behandlung von Prüfungs- und Auftrittsängsten sowie in der Unterstützung bei Lebenskrisen und Neuorientierung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Mommsenstraße 43",
     "locality": "Berlin",
@@ -58,24 +59,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Christiane Grümmer-Hohensee?",
-      "answer": "Die Praxis befindet sich in der Mommsenstraße 43, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+      "question": "Wie läuft der Ersttermin ab?",
+      "answer": "Das Erstgespräch umfasst Psychotherapie, Coaching, Hypnose und allgemeine Sprechstunden."
     },
     {
-      "question": "Welche Leistungen bietet Christiane Grümmer-Hohensee an?",
-      "answer": "Christiane Grümmer-Hohensee bietet Heilpraktikerleistungen für Psychotherapie, psychologische Beratung bei Lebenskrisen und Neuorientierung sowie Unterstützung bei Auftritts- und Prüfungsängsten an."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung dauert 20 bis 30 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin bei Christiane Grümmer-Hohensee buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf ihrer Website buchen: https://www.jameda.de/leistungen/psychotherapie-folgetermin/berlin."
-    },
-    {
-      "question": "Welche Qualifikationen hat Christiane Grümmer-Hohensee?",
-      "answer": "Christiane Grümmer-Hohensee hat eine Ausbildung in Krankenpflege, eine klassische Gesangsausbildung, ein Studium der Pflegewissenschaften sowie eine Ausbildung zur Heilpraktikerin für Psychotherapie."
-    },
-    {
-      "question": "Wie kann ich Christiane Grümmer-Hohensee kontaktieren?",
-      "answer": "Sie können Christiane Grümmer-Hohensee per E-Mail unter kundenservice@jameda.de oder telefonisch unter 030 32703855 kontaktieren."
+      "question": "Wie funktioniert die Abrechnung für Selbstzahler?",
+      "answer": "Die Praxis stellt nach dem Termin eine detaillierte Rechnung aus, in der eventuelle Vorauszahlungen als Guthaben ausgewiesen sind."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth",
   "name": "Krankengymnastik - Physiotherapeutin und Heilpraktikerin Evelyn Kürth",
   "description": "Die Praxis von Evelyn Kürth in Berlin-Tiergarten bietet eine ganzheitliche Herangehensweise an Gesundheit und Wohlbefinden. Als erfahrene Physiotherapeutin und Heilpraktikerin hat sie sich auf die Triggertherapie spezialisiert, die gezielt Schmerzpunkte behandelt und somit die Beweglichkeit und Lebensfreude der Patienten verbessert. Neben der Triggertherapie werden auch Wellness- und Fitnessangebote bereitgestellt, um Körper und Geist in Einklang zu bringen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Thomasiusstraße 1",
     "locality": "Berlin",
@@ -91,26 +92,5 @@
     "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/2.webp",
     "/images/entries/krankengymnastik-physiotherapeutin-und-heilpraktikerin-evelyn-kurth/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis von Evelyn Kürth?",
-      "answer": "Die Praxis ist montags, dienstags und donnerstags von 9:00 bis 19:00 Uhr geöffnet. Mittwochs und freitags ist die Praxis von 9:00 bis 15:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Evelyn Kürth?",
-      "answer": "Die Praxis befindet sich in der Thomasiusstraße 1, 10557 Berlin-Tiergarten."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite auf der Website vitalbody.de buchen."
-    },
-    {
-      "question": "Welche Therapieformen bietet Evelyn Kürth an?",
-      "answer": "Evelyn Kürth bietet unter anderem Triggerpunkttherapie, Physiotherapie und verschiedene Wellnessangebote an."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 0303911009 oder per E-Mail an praxis@vitalbody.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

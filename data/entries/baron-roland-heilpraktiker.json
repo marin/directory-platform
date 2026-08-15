@@ -3,7 +3,7 @@
   "slug": "baron-roland-heilpraktiker",
   "name": "Baron Roland, Heilpraktiker",
   "description": "Baron Roland ist ein Heilpraktiker mit Sitz in der Liselotte-Herrmann-Straße 3 in Berlin-Pankow. Er bietet eine Vielzahl von naturheilkundlichen Behandlungen an, darunter klassische Homöopathie und Phytotherapie, und richtet sich sowohl an Erwachsene als auch an Kinder. In seiner Privatpraxis legt er Wert auf individuelle Beratung und Therapieansätze, um die Gesundheit seiner Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Liselotte-Herrmann-Straße 3",
     "locality": "Berlin",
@@ -46,24 +47,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Baron Roland?",
-      "answer": "Die Praxis von Baron Roland befindet sich in der Liselotte-Herrmann-Straße 3, Parterre, im Bezirk Pankow, 10407 Berlin."
-    },
-    {
-      "question": "Welche Leistungen bietet Baron Roland als Heilpraktiker an?",
-      "answer": "Baron Roland bietet unter anderem klassische Homöopathie, Phytotherapie und Ernährungsberatung an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Baron Roland buchen?",
-      "answer": "Sie können einen Termin bei Baron Roland über die Website Jameda buchen: https://www.jameda.de/."
-    },
-    {
-      "question": "Welche Patienten behandelt Baron Roland?",
-      "answer": "Baron Roland behandelt sowohl Erwachsene als auch Kinder."
-    },
-    {
-      "question": "Wie kann ich Baron Roland kontaktieren?",
-      "answer": "Sie können Baron Roland telefonisch unter 017661806270 oder per E-Mail an kundenservice@jameda.de kontaktieren."
+      "question": "Wie werden die Kosten für Selbstzahler:innen abgerechnet?",
+      "answer": "Die Praxis stellt Ihnen nach dem Termin eine detaillierte Rechnung aus, in der eventuelle Vorauszahlungen als Guthaben ausgewiesen sind."
     }
   ]
 }

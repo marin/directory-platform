@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-die-seele-petra-clausius",
   "name": "Heilpraxis für die Seele /Petra Clausius",
   "description": "In der Heilpraxis für die Seele, geleitet von Petra Clausius in Berlin-Wilmersdorf, stehen psychotherapeutische Begleitung und Coaching im Fokus. Die Praxis bietet Unterstützung in schwierigen Lebenssituationen, bei der Überwindung von Ängsten sowie der Verarbeitung traumatischer Erlebnisse. Durch den Einsatz von Methoden wie Kinesiologie und hypnosystemischer Therapie wird eine individuelle und traumasensible Herangehensweise verfolgt, um persönliche Ressourcen zu aktivieren und neue Wege zur Leichtigkeit zu finden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bornimer Str. 6",
     "locality": "Berlin",
@@ -35,24 +36,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Heilpraxis für die Seele an?",
-      "answer": "Die Heilpraxis für die Seele bietet Psychotherapie, Coaching, Psycho-Kinesiologie, hypno-systemische Therapie, traumasensible Coaching und Therapie sowie Klopfakupressur an."
+      "question": "Wie lange dauert eine Sitzung in der Heilpraxis für die Seele?",
+      "answer": "Die übliche Dauer einer Sitzung beträgt 90 Minuten."
     },
     {
-      "question": "Wo befindet sich die Heilpraxis für die Seele?",
-      "answer": "Die Heilpraxis für die Seele befindet sich in der Bornimer Str. 6, 10711 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Webseite der Heilpraxis für die Seele buchen, indem Sie den Kontaktbereich aufrufen: https://www.heilpraxis-fuer-die-seele.com/kontakt/index.php/."
-    },
-    {
-      "question": "Wer ist die Heilpraktikerin der Praxis?",
-      "answer": "Die Heilpraktikerin der Praxis ist Petra Clausius, die auch als Tierheilpraktikerin tätig ist."
-    },
-    {
-      "question": "Werden die Kosten für die Therapie von Krankenkassen übernommen?",
-      "answer": "Die Gebühren für Therapie bei Heilpraktikern/Psychotherapie werden von gesetzlichen Krankenkassen nicht übernommen. Einige Kranken-Zusatzversicherungen übernehmen jedoch ganz oder teilweise die Gebühren."
+      "question": "Wie viel kostet eine Sitzung in der Heilpraxis für die Seele?",
+      "answer": "Die Gebühren für eine Sitzung betragen 120€."
     }
   ]
 }

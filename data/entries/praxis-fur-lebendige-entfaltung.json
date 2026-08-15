@@ -3,7 +3,7 @@
   "slug": "praxis-fur-lebendige-entfaltung",
   "name": "Praxis für Lebendige Entfaltung",
   "description": "Die Praxis für Lebendige Entfaltung in Berlin-Lichtenberg bietet umfassende naturheilkundliche und osteopathische Behandlungen an. Unter der Leitung von Heilpraktikerin Corina Kolwig kommen verschiedene Methoden wie das Neurologische Integrationssystem (NIS) sowie Energiearbeit zur Anwendung. Die Praxis richtet sich an Säuglinge, Kinder und Erwachsene und legt besonderen Wert auf die individuelle Persönlichkeitsentwicklung und ganzheitliche Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Frankfurter Allee 191",
     "locality": "Berlin",
@@ -66,24 +67,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Lebendige Entfaltung?",
-      "answer": "Die Praxis für Lebendige Entfaltung befindet sich in der Frankfurter Allee 191, 10365 Berlin."
-    },
-    {
-      "question": "Welche Behandlungsmethoden werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden Osteopathie, Naturheilkunde sowie das Neurologische Integrationssystem (NIS) angeboten."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 10:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin über die Buchungsseite unter folgendem Link buchen: Termin buchen."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03057799277 oder per E-Mail an praxis@lebendige-entfaltung.de kontaktieren."
+      "question": "Bieten Sie Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis richtet sich an Säuglinge, Kinder und Erwachsene."
     }
   ]
 }

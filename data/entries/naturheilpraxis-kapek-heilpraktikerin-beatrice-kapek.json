@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek",
   "name": "Naturheilpraxis Kapek | Heilpraktikerin: Beatrice Kapek",
   "description": "Die Naturheilpraxis Kapek, geleitet von Heilpraktikerin Beatrice Kapek, befindet sich in Berlin-Treptow-Köpenick. Die Praxis bietet eine Vielzahl von naturheilkundlichen Behandlungen an, die darauf abzielen, das Wohlbefinden der Patienten zu fördern und die Selbstheilungskräfte zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Vereinsstraße 13",
     "locality": "Berlin",
@@ -63,26 +64,5 @@
   "images": [
     "/images/entries/naturheilpraxis-kapek-heilpraktikerin-beatrice-kapek/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Kapek?",
-      "answer": "Die Naturheilpraxis Kapek hat folgende Öffnungszeiten: Montag bis Freitag von 10:00 bis 18:00 Uhr und Samstag von 11:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Kapek buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Kapek über die Buchungsseite auf der Website unter https://naturheilpraxis-beatrice-kapek.de/kontakt/ buchen."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Kapek?",
-      "answer": "Die Naturheilpraxis Kapek befindet sich in der Vereinsstraße 13, 12487 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Kapek kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Kapek telefonisch unter 01627943714 oder per E-Mail an info@nabeka.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Kapek an?",
-      "answer": "Die Naturheilpraxis Kapek bietet Dienstleistungen im Bereich der Naturheilkunde an, spezifische Angebote sind jedoch nicht im Kontext aufgeführt."
-    }
-  ]
+  "faq": []
 }

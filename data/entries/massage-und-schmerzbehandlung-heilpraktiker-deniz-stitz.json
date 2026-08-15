@@ -148,24 +148,16 @@
   "images": [],
   "faq": [
     {
-      "question": "Welche Arten von Massagen bietet Heilpraktiker Deniz Stitz an?",
-      "answer": "Heilpraktiker Deniz Stitz bietet verschiedene Massagen an, darunter ganzheitliche Massagen, Faszienmassagen, Sportmassagen und Triggerpunktmassagen."
+      "question": "Was kann ich beim ersten Termin erwarten?",
+      "answer": "Ich arbeite mit therapeutischen Massagen und Körperarbeit."
     },
     {
-      "question": "Wie kann ich einen Termin bei Heilpraktiker Deniz Stitz buchen?",
-      "answer": "Einen Termin können Sie über die Website von Heilpraktiker Deniz Stitz buchen: Termin buchen."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Die Massagen dauern 60 bis 75 Minuten."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis von Heilpraktiker Deniz Stitz?",
-      "answer": "Die Praxis hat von Montag bis Sonntag von 08:00 bis 22:00 Uhr geöffnet."
-    },
-    {
-      "question": "Rechnet Heilpraktiker Deniz Stitz mit Privatversicherungen ab?",
-      "answer": "Ja, Heilpraktiker Deniz Stitz rechnet auf Wunsch nach der Gebührenordnung für Heilpraktiker (GebüH) ab, sodass Privatversicherte die Behandlungskosten ganz oder teilweise erstattet bekommen können."
-    },
-    {
-      "question": "Mit welchen Beschwerden kommen Patienten häufig zu Heilpraktiker Deniz Stitz?",
-      "answer": "Patienten kommen häufig mit Beschwerden wie Rückenschmerzen, Schulter- und Nackenverspannungen, Kopfschmerzen, Knie- oder Hüftschmerzen sowie Fersensporn und Fußschmerzen zu Heilpraktiker Deniz Stitz."
+      "question": "Wie erfolgt die Abrechnung für Selbstzahler?",
+      "answer": "Ich rechne nach der Gebührenordnung für Heilpraktiker (GebüH) ab."
     }
   ]
 }

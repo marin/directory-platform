@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-biologische-krebstherapie",
   "name": "Heilpraktiker - Biologische Krebstherapie",
   "description": "In der Praxis für biologische Krebstherapie von Heilpraktiker George Brasch in Berlin-Friedrichshain stehen Ihnen umfassende naturheilkundliche Behandlungen bei akuten und chronischen Erkrankungen zur Verfügung. Die Schwerpunkte liegen auf Pflanzenheilkunde, Augendiagnose sowie verschiedenen Therapieformen wie Heilpilzen, Biochemie nach Schüssler und Ausleitungsverfahren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Waldeyerstraße 2",
     "locality": "Berlin",
@@ -45,26 +46,5 @@
   "images": [
     "/images/entries/heilpraktiker-biologische-krebstherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet der Heilpraktiker George Brasch an?",
-      "answer": "George Brasch bietet unter anderem Pflanzenheilkunde, Augendiagnose, Heilpilze, Biochemie nach Schüssler, Infusionen, orthomolekulare Medizin und Ausleitungsverfahren wie Baunscheidtieren, Schröpfen, Heilfasten und Blutegeltherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis von George Brasch vereinbaren?",
-      "answer": "Sie können einen Termin in der Praxis von George Brasch über die Kontaktseite auf seiner Website buchen: Terminvereinbarung."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von George Brasch?",
-      "answer": "Die Praxis von George Brasch befindet sich in der Waldeyerstraße 2, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich George Brasch kontaktieren?",
-      "answer": "Sie können George Brasch telefonisch unter 0302155068 oder per E-Mail an hpbrasch@web.de kontaktieren."
-    },
-    {
-      "question": "Bietet George Brasch auch Seminare oder Vorträge an?",
-      "answer": "Ja, George Brasch bietet Seminare und Vorträge an, die auf seiner Website unter dem Bereich 'Termine' aufgeführt sind."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-sandra-seelig",
   "name": "Naturheilpraxis Sandra Seelig",
   "description": "Die Naturheilpraxis Sandra Seelig in Berlin bietet eine ganzheitliche homöopathische Behandlung für unangepasste Kinder und Erwachsene an. Die Praxis legt besonderen Wert auf die individuelle Konstitutionsanalyse und prozessorientierte Homöopathie, um Patienten dabei zu unterstützen, ihr volles Potenzial zu entfalten. Sandra Seelig, eine erfahrene Homöopathin, begleitet ihre Klienten auf dem Weg zu mehr Selbstverwirklichung und emotionaler Gesundheit.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Goldmannpark 21",
     "locality": "Berlin",
@@ -86,24 +87,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Sandra Seelig an?",
-      "answer": "Die Naturheilpraxis Sandra Seelig bietet unter anderem eine homöopathische Konstitutionsanalyse und prozessorientierte Homöopathie an. Sie ist spezialisiert auf die Arbeit mit unangepassten Kindern und Erwachsenen."
+      "question": "Was passiert beim Ersttermin in der Naturheilpraxis Sandra Seelig?",
+      "answer": "Im Erstgespräch erarbeiten wir gemeinsam, was für Dich richtig ist. Es kann um die Besprechung eines Patienten-Falls oder um das Lernen in der Homöopathie-Historie gehen."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Sandra Seelig buchen?",
-      "answer": "Sie können einen Termin per E-Mail an info@sandraseelig.de buchen."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis Sandra Seelig?",
+      "answer": "Die Dauer einer Sitzung beträgt 90-120 Minuten. In dieser Zeit erhältst Du eine Arzneimittelverordnung und eine umfangreiche Beschreibung Deiner Konstitution."
     },
     {
-      "question": "Wann hat die Naturheilpraxis Sandra Seelig geöffnet?",
-      "answer": "Die Öffnungszeiten sind: Montag und Mittwoch von 10:00 bis 18:00 Uhr, Dienstag und Freitag von 10:00 bis 14:00 Uhr, sowie Donnerstag von 10:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Sandra Seelig?",
-      "answer": "Die Praxis befindet sich in Berlin, Am Goldmannpark 21, 12587 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Sandra Seelig kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03027496052 oder über die Website http://www.naturheilpraxis-sandraseelig.de/ kontaktieren."
+      "question": "Bietet die Naturheilpraxis Sandra Seelig Behandlungen für Kinder an?",
+      "answer": "Ja, die Praxis bietet eine ganzheitliche homöopathische Behandlung für unangepasste Kinder an."
     }
   ]
 }

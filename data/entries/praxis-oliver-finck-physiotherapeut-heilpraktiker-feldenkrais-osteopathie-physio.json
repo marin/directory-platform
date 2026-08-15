@@ -3,7 +3,7 @@
   "slug": "praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio",
   "name": "Praxis Oliver Finck (Physiotherapeut, Heilpraktiker) Feldenkrais Osteopathie Physiotherapie",
   "description": "Die Praxis Oliver Finck in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen, darunter Osteopathie, Physiotherapie und Feldenkrais. Der Heilpraktiker und Physiotherapeut Oliver Finck legt großen Wert auf individuelle Therapieansätze, um die Gesundheit und das Wohlbefinden seiner Patienten zu fördern. Neben persönlichen Behandlungen werden auch Online-Kurse und kostenlose Audio-Tutorials angeboten, die sich mit gesundheitsfördernden Themen, wie der richtigen Sitzposition beim Radfahren, befassen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Körtestraße 10",
     "locality": "Berlin",
@@ -77,26 +78,5 @@
     "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/3.webp",
     "/images/entries/praxis-oliver-finck-physiotherapeut-heilpraktiker-feldenkrais-osteopathie-physio/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis Oliver Finck an?",
-      "answer": "Die Praxis Oliver Finck bietet Physiotherapie, Osteopathie und Functional Integration an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Plattform Doctolib buchen. Hier ist der Link: Termin buchen via Doctolib."
-    },
-    {
-      "question": "Wann hat die Praxis Oliver Finck geöffnet?",
-      "answer": "Die Öffnungszeiten sind wie folgt: Montag 08:30 - 17:00, Dienstag 08:00 - 16:00, Mittwoch 08:30 - 18:00, Donnerstag 08:00 - 16:00, Freitag 08:30 - 15:30."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Oliver Finck?",
-      "answer": "Die Praxis befindet sich in der Körtestraße 10, 10967 Berlin, im Stadtteil Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Bietet die Praxis auch Online-Kurse an?",
-      "answer": "Ja, die Praxis bietet Online-Kurse an, darunter einen Kurs über grundlegende Positionen und Handhabung auf dem Fahrrad."
-    }
-  ]
+  "faq": []
 }

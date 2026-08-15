@@ -104,24 +104,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Angebote bietet die Praxis VALEO für Kinderwunschberatung an?",
-      "answer": "Die Praxis VALEO bietet verschiedene Angebote an, darunter Kennenlerngespräche, Kinderwunschbegleitung, Trauerbewältigung, psychosoziale Beratung für Kinderwunschbehandlungen mit Spendersamen, Fruchtbarkeitsmassagen und vorgeburtliche Bindungsförderung."
+      "question": "Wie lange dauert eine Sitzung zur Kinderwunschbegleitung?",
+      "answer": "Eine Sitzung zur Kinderwunschbegleitung dauert 60 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis VALEO buchen?",
-      "answer": "Termine können über die Website der Praxis VALEO gebucht werden. Besuchen Sie dazu den Kontaktbereich unter https://www.kinderwunschzeit.de/kontakt/."
+      "question": "Übernimmt die gesetzliche Krankenkasse die Kosten für die Kinderwunschberatung?",
+      "answer": "Die Begleitung während Kinderwunschbehandlungen wird leider nicht von den gesetzlichen Krankenkassen übernommen."
     },
     {
-      "question": "Wann sind die Öffnungszeiten der Praxis VALEO?",
-      "answer": "Die Öffnungszeiten der Praxis VALEO sind wie folgt: Montag von 14:30 bis 22:30 Uhr, Dienstag bis Freitag von 10:00 bis 22:30 Uhr und Samstag von 11:00 bis 17:00 Uhr."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für die Angebote in der Praxis VALEO?",
-      "answer": "Die Kosten für die Angebote in der Praxis VALEO variieren. Ein Kennenlerngespräch ist kostenlos, während die Kinderwunschbegleitung und Trauerbewältigung 90 Euro kosten. Die psychosoziale Beratung für Kinderwunschbehandlungen mit Spendersamen kostet 89 Euro, und die Fruchtbarkeitsmassage beträgt 70 Euro."
-    },
-    {
-      "question": "Bietet die Praxis VALEO auch Online-Beratung an?",
-      "answer": "Ja, die Praxis VALEO bietet die Möglichkeit für Online-Beratung an, zusätzlich zu den persönlichen Gesprächen in der Praxis."
+      "question": "In welchen Sprachen kann ich die Beratung in der Praxis VALEO erhalten?",
+      "answer": "Die Beratung kann auf Deutsch oder Französisch erfolgen. Die psychosoziale Beratung rund um Samenspende ist auch auf Englisch möglich."
     }
   ]
 }

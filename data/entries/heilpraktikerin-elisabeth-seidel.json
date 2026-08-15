@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-elisabeth-seidel",
   "name": "Heilpraktikerin Elisabeth Seidel",
   "description": "Heilpraktikerin Elisabeth Seidel bietet in ihrer Praxis in Berlin-Schöneberg umfassende naturheilkundliche Behandlungen an. Ihr Ansatz basiert auf funktioneller Medizin, die individuelle Gesundheitsgeschichte und spezifische Bedürfnisse der Patienten in den Mittelpunkt stellt. Die Praxis spezialisiert sich auf ganzheitliche Diagnostik und Therapiegestaltung, um die Gesundheit und Vitalität ihrer Klienten nachhaltig zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Nollendorfstraße 25",
     "locality": "Berlin",
@@ -155,24 +156,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Elisabeth Seidel?",
-      "answer": "Die Praxis befindet sich in der Nollendorfstraße 25, 10777 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
+      "question": "Wie läuft der Ersttermin bei Heilpraktikerin Elisabeth Seidel ab?",
+      "answer": "Der Ersttermin umfasst eine ausführliche Anamnese, bei der die individuelle Gesundheitsgeschichte und die gesundheitlichen Ziele des Patienten genau verstanden werden."
     },
     {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Elisabeth Seidel buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag bis Donnerstag von 09:00 bis 18:00 Uhr und Freitag von 09:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Welche Leistungen bietet Heilpraktikerin Elisabeth Seidel an?",
-      "answer": "Zu den angebotenen Leistungen gehören unter anderem ausführliche Anamnese, Akupunktur, Colon Hydro Therapie und individuelle Therapiegestaltung."
-    },
-    {
-      "question": "Wie kann ich Heilpraktikerin Elisabeth Seidel kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 03031806915 oder per E-Mail an praxis@elisabethseidel.de kontaktieren."
+      "question": "Werden die Kosten für die Behandlungen von den Krankenkassen übernommen?",
+      "answer": "Die Abrechnung erfolgt auf Basis des Heilpraktiker-Gebührenverzeichnisses. Die Leistungen können von privaten und privaten Zusatzversicherungen übernommen werden oder sind Selbstzahlerleistungen."
     }
   ]
 }

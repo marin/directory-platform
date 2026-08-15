@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-jan-dunkel-ganzheitliche-chiropraktik-und-naturheilverfahren",
   "name": "Heilpraktiker Jan Dunkel - Ganzheitliche Chiropraktik und Naturheilverfahren",
   "description": "Heilpraktiker Jan Dunkel in Berlin-Spandau bietet eine ganzheitliche Behandlung, die auf über 20 Jahren Erfahrung in der Naturheilkunde basiert. Sein Leistungsspektrum umfasst Chiropraktik, Osteopathie, Schmerztherapie sowie psychotherapeutische Ansätze wie Hypnose und psychosomatische Beratung. In seiner Praxis legt er Wert auf individuelle Betreuung und die Förderung von Selbstheilungsprozessen, um seinen Klienten zu mehr Lebensenergie und innerem Wachstum zu verhelfen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -16,6 +16,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Klosterstraße 33",
     "locality": "Berlin",
@@ -116,24 +117,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet Heilpraktiker Jan Dunkel an?",
-      "answer": "Heilpraktiker Jan Dunkel bietet verschiedene Behandlungen an, darunter ganzheitliche Chiropraktik, Dorn-Therapie, Gesundheits- und Ernährungsberatung, Meridianbehandlungen, Schröpfen, psychologische Beratung und Huna-Coaching."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Jan Dunkel buchen?",
-      "answer": "Einen Termin bei Jan Dunkel können Sie online über die Buchungsseite auf Doctolib buchen: Termin buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Naturheilpraxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis sind Montag bis Donnerstag von 09:30 bis 18:30 Uhr und Freitag von 08:30 bis 18:30 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Jan Dunkel?",
-      "answer": "Die Praxis von Jan Dunkel befindet sich in der Klosterstraße 33, 13581 Berlin-Spandau."
-    },
-    {
-      "question": "Wie kann ich Jan Dunkel kontaktieren?",
-      "answer": "Sie können Jan Dunkel telefonisch unter 0178 5348126 oder per E-Mail an info@gesundsein-bewusstsein.de kontaktieren."
+      "question": "Wie läuft der Ersttermin in der Naturheilpraxis ab?",
+      "answer": "Bei einem Ersttermin nehme ich mir viel Zeit für eine Erstanamnese im Rahmen akuter oder chronischer Beschwerden."
     }
   ]
 }

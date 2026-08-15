@@ -3,7 +3,7 @@
   "slug": "christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall",
   "name": "Christel Nau - Heilpraktikerin, spezialisiert auf Haarausfall",
   "description": "Christel Nau ist eine erfahrene Heilpraktikerin in Berlin-Nikolassee, spezialisiert auf die Behandlung von Haarausfall. Sie bietet umfassende Informationen und individuelle Beratung für Betroffene, unabhängig von Geschlecht oder Altersgruppe. In ihrer Praxis erhalten Patienten wertvolle Hinweise zu möglichen Lösungen und Behandlungsansätzen, um gesunde, volle Haare zurückzugewinnen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Prinz-Friedrich-Leopold-Straße 25",
     "locality": "Berlin",
@@ -67,26 +68,5 @@
     "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/3.webp",
     "/images/entries/christel-nau-heilpraktikerin-spezialisiert-auf-haarausfall/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche speziellen Behandlungen bietet Christel Nau für Haarausfall an?",
-      "answer": "Christel Nau bietet verschiedene Behandlungen für Haarausfall an, darunter Informationen über die Ursachen und Lösungen für androgenen, diffusen und kreisrunden Haarausfall."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Christel Nau vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie Christel Nau telefonisch unter 0170 / 559 33 67 kontaktieren oder eine E-Mail an info@heilpraxis-nau.de senden."
-    },
-    {
-      "question": "Wann hat die Praxis von Christel Nau geöffnet?",
-      "answer": "Die Praxis ist von Montag bis Freitag jeweils von 10:00 bis 17:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christel Nau?",
-      "answer": "Die Praxis befindet sich in der Prinz-Friedrich-Leopold-Straße 25, 14129 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    },
-    {
-      "question": "Gibt es ein Buch über Haarausfall, das von Christel Nau veröffentlicht wurde?",
-      "answer": "Ja, Christel Nau hat ein Buch mit dem Titel \"HAARAUSFALL - Ursachen und Lösungen auf der Spur\" veröffentlicht, das seit August 2023 erhältlich ist."
-    }
-  ]
+  "faq": []
 }

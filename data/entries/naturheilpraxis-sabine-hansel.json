@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-sabine-hansel",
   "name": "Naturheilpraxis Sabine Hansel",
   "description": "Die Naturheilpraxis Sabine Hansel befindet sich in Berlin-Kreuzberg und bietet eine Vielzahl von naturheilkundlichen Therapien an. Zu den Schwerpunkten gehören die Liebscher und Bracht Therapie, Ohrakupunktur sowie Fußreflexzonentherapie. Ziel der Praxis ist es, Patienten bei der Linderung von Schmerzen und der Wiederherstellung ihrer Lebensqualität zu unterstützen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Am Tempelhofer Berg 7d",
     "locality": "Berlin",
@@ -66,24 +67,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis Sabine Hansel?",
-      "answer": "Die Naturheilpraxis Sabine Hansel befindet sich in der Am Tempelhofer Berg 7d, 10965 Berlin-Kreuzberg."
-    },
-    {
-      "question": "Welche Therapieangebote bietet die Praxis an?",
-      "answer": "Die Praxis bietet unter anderem Ohrakupunktur, Liebscher und Bracht Therapie sowie Fußreflexzonentherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin vereinbaren, indem Sie die Praxis telefonisch unter 017634443686 kontaktieren oder eine E-Mail an kontakt@schmerzfrei-sein-berlin.de senden."
-    },
-    {
-      "question": "Gibt es regelmäßige Informationsveranstaltungen in der Praxis?",
-      "answer": "Ja, es finden nahezu monatlich kostenlose Informationsveranstaltungen zur Liebscher & Bracht Schmerztherapie statt."
-    },
-    {
-      "question": "Wie kann ich mehr Informationen über die angebotenen Therapien erhalten?",
-      "answer": "Für mehr Informationen über die angebotenen Therapien können Sie die Website der Praxis unter http://www.schmerzfrei-sein-berlin.de/ besuchen."
+      "question": "Was kann ich beim Ersttermin in der Naturheilpraxis Sabine Hansel erwarten?",
+      "answer": "Mit der einzigartigen Methode nach Liebscher & Bracht ist es bei 90% der Schmerzpatienten oft schon in der ersten Behandlung möglich, die Beschwerden deutlich zu reduzieren!"
     }
   ]
 }

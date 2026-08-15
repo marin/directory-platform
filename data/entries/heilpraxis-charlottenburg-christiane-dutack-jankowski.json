@@ -3,7 +3,7 @@
   "slug": "heilpraxis-charlottenburg-christiane-dutack-jankowski",
   "name": "Heilpraxis Charlottenburg - Christiane Dutack-Jankowski",
   "description": "Die Heilpraxis Charlottenburg unter der Leitung von Christiane Dutack-Jankowski bietet ein breites Spektrum an naturheilkundlichen Therapien an. Zu den Schwerpunkten zählen unter anderem die Behandlung hormoneller Veränderungen, Stressmanagement sowie verschiedene Massagetechniken und Reflexzonentherapien. Die Praxis legt großen Wert auf eine individuelle Unterstützung und die Wertschätzung der Persönlichkeitsanteile der Patienten, um gemeinsam an der Wiederherstellung von Gesundheit und Wohlbefinden zu arbeiten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Leibnizstraße 102 Ecke",
     "locality": "Berlin",
@@ -59,24 +60,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapiemethoden bietet die Heilpraxis Charlottenburg an?",
-      "answer": "Die Heilpraxis Charlottenburg bietet verschiedene Therapiemethoden an, darunter Naturheilverfahren, Irisdiagnose, klassische Massage, Fußreflexzonentherapie, Wirbelsäulentherapie nach Dorn, Heilhypnose, Psychotherapie, NLP und Coaching sowie Klang- und Musiktherapie."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
-      "answer": "Die Heilpraxis Charlottenburg hat von Montag bis Freitag geöffnet, jeweils von 08:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis Charlottenburg?",
-      "answer": "Die Heilpraxis Charlottenburg befindet sich in der Leibnizstraße 102 Ecke, 10625 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Heilpraxis Charlottenburg telefonisch unter 03034508838 oder per E-Mail an info@heilpraxis-charlottenburg.de vereinbaren."
-    },
-    {
-      "question": "Was ist der Schwerpunkt der Arbeit von Christiane Dutack-Jankowski?",
-      "answer": "Christiane Dutack-Jankowski legt einen Schwerpunkt auf hormonelle Veränderungen, Stressmanagement, Erkrankungen des Bewegungsapparates, Sexualtherapie sowie die Wertschätzung ungeliebter Persönlichkeitsanteile."
+      "question": "Werden die Behandlungskosten von Krankenkassen übernommen?",
+      "answer": "Die Behandlungskosten beim Heilpraktiker werden in den meisten Fällen durch private Krankenversicherungen und private Zusatzversicherungen erstattet. Beamte haben Anspruch auf Erstattung der Kosten durch die Beihilfe."
     }
   ]
 }

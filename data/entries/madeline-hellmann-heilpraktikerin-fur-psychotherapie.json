@@ -3,7 +3,7 @@
   "slug": "madeline-hellmann-heilpraktikerin-fur-psychotherapie",
   "name": "Madeline Hellmann | Heilpraktikerin für Psychotherapie",
   "description": "Madeline Hellmann ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Sie bietet Unterstützung in den Bereichen Narzissmus, ungesunde Beziehungen und traumasensible Begleitung an. Ihr therapeutischer Ansatz basiert auf Gesprächspsychotherapie nach Carl Rogers sowie tiefenpsychologisch fundierten Methoden, um Klienten bei der Aufarbeitung von Beziehungsdynamiken zu helfen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Klausenerpl. 19",
     "locality": "Berlin",
@@ -84,26 +85,5 @@
     "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/3.webp",
     "/images/entries/madeline-hellmann-heilpraktikerin-fur-psychotherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieansätze bietet Madeline Hellmann an?",
-      "answer": "Madeline Hellmann bietet verschiedene Therapieansätze an, darunter Gesprächspsychotherapie nach Carl Rogers, Psychoedukation, Methoden der tiefenpsychologisch fundierten Psychotherapie und traumasensibles Begleiten."
-    },
-    {
-      "question": "In welchen Bereichen kann ich Unterstützung von Madeline Hellmann erwarten?",
-      "answer": "Madeline Hellmann bietet Unterstützung in den Bereichen Narzissmus, ungesunde Beziehungen, toxische Beziehungen, emotionale Abhängigkeit sowie Trennung und Scheidung an."
-    },
-    {
-      "question": "Wie kann ich ein Kennenlerngespräch vereinbaren?",
-      "answer": "Ein Kennenlerngespräch kann online per Videocall oder vor Ort in der Praxis stattfinden. Du kannst einen Termin über die Buchungsseite auf ihrer Website vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Madeline Hellmann?",
-      "answer": "Die Praxis von Madeline Hellmann befindet sich in Berlin, auf dem Klausenerplatz 19, 14059 Berlin."
-    },
-    {
-      "question": "Wie kann ich Madeline Hellmann kontaktieren?",
-      "answer": "Du kannst Madeline Hellmann telefonisch unter 017616284564 oder per E-Mail an kontakt@madeline-hellmann.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -214,24 +214,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Praxis Gesund in Berlin an?",
-      "answer": "Die Praxis Gesund in Berlin bietet verschiedene Therapien an, darunter Osteopathie, Naturheilkunde, Darmsanierung, Ernährungsberatung, IHHT (Höhentraining) und Infusionstherapie."
+      "question": "Wie läuft der Ersttermin in der Praxis Gesund in Berlin ab?",
+      "answer": "Im Erstgespräch, das bis zu 100 Minuten dauert, erfassen wir Ihren Krankheitsverlauf und die aktuellen Beschwerden."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin direkt online über die Website der Praxis Gesund in Berlin buchen. Besuchen Sie dazu die Seite unter https://www.gesund-inberlin.de/termin."
-    },
-    {
-      "question": "Wann hat die Praxis Gesund in Berlin geöffnet?",
-      "answer": "Die Öffnungszeiten der Praxis Gesund in Berlin sind: Montag bis Mittwoch von 10:00 bis 18:00 Uhr, Donnerstag von 10:00 bis 19:00 Uhr, Freitag von 12:00 bis 19:00 Uhr und Samstag von 11:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis Gesund in Berlin?",
-      "answer": "Die Praxis Gesund in Berlin befindet sich in der Prenzlauer Promenade 191, 13189 Berlin, im Bezirk Pankow."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis per E-Mail unter info@gesund-inberlin.de kontaktieren oder die Website https://www.gesund-inberlin.de besuchen."
+      "question": "Wie lange dauert eine Sitzung in der Praxis Gesund in Berlin?",
+      "answer": "Eine Sitzung dauert bis zu 100 Minuten."
     }
   ]
 }

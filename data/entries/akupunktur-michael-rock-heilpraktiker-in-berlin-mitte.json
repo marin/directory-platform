@@ -3,7 +3,7 @@
   "slug": "akupunktur-michael-rock-heilpraktiker-in-berlin-mitte",
   "name": "Akupunktur - Michael Rock Heilpraktiker in Berlin-Mitte",
   "description": "Michael Rock ist Heilpraktiker in Berlin-Mitte und spezialisiert auf Akupunktur sowie traditionelle chinesische Medizin (TCM). Die Praxis befindet sich in der Fehrbelliner Str. 50, 10119 Berlin. Termine werden nach Vereinbarung angeboten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Fehrbelliner Str. 50",
     "locality": "Berlin",
@@ -34,22 +35,5 @@
     "/images/entries/akupunktur-michael-rock-heilpraktiker-in-berlin-mitte/1.webp",
     "/images/entries/akupunktur-michael-rock-heilpraktiker-in-berlin-mitte/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Michael Rock, Heilpraktiker?",
-      "answer": "Die Praxis befindet sich in der Fehrbelliner Str. 50, 10119 Berlin."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Michael Rock buchen?",
-      "answer": "Termine können nach Vereinbarung gebucht werden."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Michael Rock an?",
-      "answer": "Michael Rock bietet Akupunktur und naturheilkundliche Behandlungen an."
-    },
-    {
-      "question": "Wie kann ich Michael Rock per E-Mail kontaktieren?",
-      "answer": "Sie können Michael Rock per E-Mail unter info@michael-rock.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

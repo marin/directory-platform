@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-in-english-nur-reved-homeopathy-cupping-massage",
   "name": "Naturheilpraxis in English Nur Reved - Homeopathy, Cupping & Massage",
   "description": "In der Naturheilpraxis von English Nur Reved in Berlin-Neukölln werden individuelle Behandlungen in den Bereichen Homöopathie und Naturheilkunde angeboten. Die Praxis legt Wert auf einen ganzheitlichen Ansatz, bei dem der Mensch als Ganzes betrachtet wird, um sowohl körperliche als auch seelische Beschwerden zu behandeln. Zu den angebotenen Therapien zählen unter anderem Cupping und Massagen, um das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Lenaustraße 8",
     "locality": "Berlin",
@@ -44,24 +45,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis in English Nur Reved an?",
-      "answer": "Die Naturheilpraxis in English Nur Reved bietet Behandlungen in Homöopathie, Schröpfen und Massage an."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis?",
+      "answer": "Die Dauer einer Sitzung beträgt 15 Minuten."
     },
     {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Lenaustraße 8, 12047 Berlin, Neukölln."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat am Mittwoch von 15:00 bis 22:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin über die Website der Praxis buchen oder eine E-Mail an info@nur-reved.com senden."
-    },
-    {
-      "question": "Was ist das Behandlungskonzept der Praxis?",
-      "answer": "Das Behandlungskonzept der Praxis basiert darauf, Menschen und nicht Krankheiten zu behandeln, wobei individuelle Ansätze zur Förderung des Wohlbefindens verwendet werden."
+      "question": "Welche Sprachen werden in der Naturheilpraxis angeboten?",
+      "answer": "In der Naturheilpraxis werden individuelle Behandlungen in Englisch angeboten."
     }
   ]
 }

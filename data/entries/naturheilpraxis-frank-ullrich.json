@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-frank-ullrich",
   "name": "Naturheilpraxis Frank Ullrich",
   "description": "Die Naturheilpraxis Frank Ullrich in Berlin-Pankow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an, darunter die schonende Entfernung von Krampfadern und Besenreisern mit reiner Kochsalzlösung. Der Fokus liegt auf der Ursachenmedizin, holistischen Kinesiologie und psychosomatischen Energetik, um die individuellen Beschwerden der Patienten ganzheitlich zu behandeln. Die Praxis legt Wert auf natürliche Methoden und eine persönliche Beratung, um die Gesundheit und das Wohlbefinden der Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Eichenstraße 40",
     "locality": "Berlin",
@@ -135,24 +136,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis Frank Ullrich?",
-      "answer": "Die Naturheilpraxis Frank Ullrich befindet sich in der Eichenstraße 40, 13156 Berlin-Pankow."
+      "question": "Was kostet der Ersttermin in der Naturheilpraxis Frank Ullrich?",
+      "answer": "Der Ersttermin mit Voruntersuchung kostet 90,00 Euro."
     },
     {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Frank Ullrich über die Webseite buchen: Termin buchen."
+      "question": "Wie lange dauert eine Besenreiserbehandlung?",
+      "answer": "Eine Besenreiserbehandlung dauert 60 Minuten."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis?",
-      "answer": "Die Naturheilpraxis hat von Montag bis Freitag von 10:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Welche Behandlungen werden in der Naturheilpraxis angeboten?",
-      "answer": "In der Naturheilpraxis werden verschiedene Behandlungen angeboten, darunter Ersttermine mit Voruntersuchung, Krampfaderentfernung, Besenreiserbehandlungen und energetische Austestungen."
-    },
-    {
-      "question": "Wie viel kostet ein Ersttermin in der Naturheilpraxis?",
-      "answer": "Ein Ersttermin mit Voruntersuchung kostet 90,00 Euro."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Behandlung?",
+      "answer": "Die gesetzlichen Krankenkassen übernehmen die Kosten für die Behandlung beim Heilpraktiker leider nicht. Private Krankenkassen übernehmen die Kosten ganz oder teilweise."
     }
   ]
 }

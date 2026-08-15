@@ -3,7 +3,7 @@
   "slug": "katrin-pauline-muller-heilpraktikerin-korpertherapie",
   "name": "Katrin Pauline Müller, Heilpraktikerin / Körpertherapie",
   "description": "Katrin Pauline Müller ist eine erfahrene Heilpraktikerin mit dem Schwerpunkt auf Körpertherapie in Berlin-Pankow. In ihrer Praxis bietet sie individuelle naturheilkundliche Behandlungen an, die auf die Bedürfnisse ihrer Klienten abgestimmt sind. Ihre ganzheitliche Herangehensweise zielt darauf ab, das körperliche und seelische Wohlbefinden zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Milastraße 4",
     "locality": "Berlin",
@@ -34,26 +35,5 @@
     "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/3.webp",
     "/images/entries/katrin-pauline-muller-heilpraktikerin-korpertherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Katrin Pauline Müller?",
-      "answer": "Die Praxis von Katrin Pauline Müller befindet sich in der Milastraße 4, 10437 Berlin, Pankow."
-    },
-    {
-      "question": "Welche Therapieform bietet Katrin Pauline Müller an?",
-      "answer": "Katrin Pauline Müller bietet Körpertherapie im Rahmen der Naturheilkunde an."
-    },
-    {
-      "question": "Wie kann ich Katrin Pauline Müller kontaktieren?",
-      "answer": "Sie können Katrin Pauline Müller per E-Mail unter hi@katrinpaulinemueller.com erreichen oder ihre Website unter http://www.katrinpaulinemueller.com/ besuchen."
-    },
-    {
-      "question": "Hat die Praxis von Katrin Pauline Müller Öffnungszeiten?",
-      "answer": "Im Moment sind keine Öffnungszeiten angegeben."
-    },
-    {
-      "question": "In welchem Bereich ist Katrin Pauline Müller tätig?",
-      "answer": "Katrin Pauline Müller ist im Bereich der Naturheilkunde tätig."
-    }
-  ]
+  "faq": []
 }

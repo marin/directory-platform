@@ -119,22 +119,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraktikerin Yadigar Kocatürk an?",
-      "answer": "Yadigar Kocatürk bietet klassische Homöopathie und verschiedene naturheilkundliche Behandlungen an, darunter die Behandlung von Allergien, Alterskrankungen, Burnout, depressiven Verstimmungen, Herz-Kreislauf-Erkrankungen, Konzentrationsschwierigkeiten, Schlafstörungen, Traumata und Wechseljahresbeschwerden."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist montags und mittwochs von 15:00 bis 19:00 Uhr, dienstags und donnerstags von 08:00 bis 12:00 Uhr sowie freitags von 15:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Termine können nur nach vorheriger Vereinbarung vereinbart werden. Sie können die Praxis telefonisch unter 017684290944 oder per E-Mail an info@praxis-kocatuerk.com kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Yadigar Kocatürk?",
-      "answer": "Die Praxis befindet sich in der Pichelsdorfer Str. 7, 13595 Berlin."
-    }
-  ]
+  "faq": []
 }

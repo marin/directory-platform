@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-jana-schroder",
   "name": "Praxis für Naturheilkunde Jana Schröder",
   "description": "Die Praxis für Naturheilkunde Jana Schröder befindet sich in Berlin Karlshorst und bietet ein breites Spektrum an Behandlungsmethoden im Bereich der Naturheilkunde, einschließlich Homöopathie, Akupunktur (TCM) und Ernährungsberatung. In den Räumlichkeiten in der Gundelfinger Straße 47 können Patienten individuelle Beratungen zu gesundheitlichen Themen in Anspruch nehmen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gundelfinger Str. 47",
     "locality": "Berlin",
@@ -29,6 +30,9 @@
   "email": "hpjschroeder@aol.com",
   "website": "https://nhp-schroeder.de/",
   "bookingUrl": "https://nhp-schroeder.de/kontakt/index.php/",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqRgv0CdJqEcR9gPU4Khu-G4",
+  "googleMapsRating": 5,
+  "googleMapsRatingsCount": 2,
   "openingHours": [
     {
       "day": "Monday",
@@ -67,29 +71,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungsmethoden bietet die Praxis für Naturheilkunde Jana Schröder an?",
-      "answer": "Die Praxis bietet vielfältige Behandlungsmethoden im Bereich Naturheilverfahren, einschließlich Homöopathie, Akupunktur (TCM) und Ernährungsberatung."
-    },
-    {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde Jana Schröder?",
-      "answer": "Die Praxis befindet sich in der Gundelfinger Straße 47, 10318 Berlin, im Stadtteil Karlshorst."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Praxis buchen, indem Sie den folgenden Link nutzen: Termin buchen."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten der Praxis sind von Montag bis Freitag, jeweils von 09:00 bis 18:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Praxis kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter +49 30 5030463 oder per E-Mail an hpjschroeder@aol.com kontaktieren."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJqRgv0CdJqEcR9gPU4Khu-G4",
-  "googleMapsRating": 5,
-  "googleMapsRatingsCount": 2
+  "faq": []
 }

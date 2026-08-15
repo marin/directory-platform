@@ -3,7 +3,7 @@
   "slug": "hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde",
   "name": "HP Christine Loch Psychotherapie Hypnose Homöopathie Naturheilkunde",
   "description": "HP Christine Loch bietet in ihrer Praxis in der Ehrlichstraße 37 in Berlin-Karlshorst ein umfassendes Spektrum an Therapien an, darunter Psychotherapie, Hypnose, Homöopathie und Naturheilkunde. Mit über 30 Jahren Erfahrung in der eigenen Praxis und mehr als 20 Jahren Engagement in Lehre und Ausbildung, legt sie großen Wert auf individuelle Betreuung und ganzheitliche Heilansätze.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "lichtenberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ehrlichstraße 37",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
     "/images/entries/hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde/1.webp",
     "/images/entries/hp-christine-loch-psychotherapie-hypnose-homoopathie-naturheilkunde/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet HP Christine Loch an?",
-      "answer": "HP Christine Loch bietet Psychotherapie, Hypnose, Homöopathie und Naturheilkunde an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Christine Loch?",
-      "answer": "Die Praxis von Christine Loch befindet sich in der Ehrlichstraße 37, 10318 Berlin."
-    },
-    {
-      "question": "Wie lauten die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Donnerstag von 10:00 bis 18:00 Uhr und Freitag von 10:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Christine Loch buchen?",
-      "answer": "Sie können einen Termin buchen, indem Sie eine E-Mail an kontakt@christineloch.de senden."
-    },
-    {
-      "question": "Wie kann ich Christine Loch telefonisch erreichen?",
-      "answer": "Sie können Christine Loch unter der Telefonnummer 03056301455 erreichen."
-    }
-  ]
+  "faq": []
 }

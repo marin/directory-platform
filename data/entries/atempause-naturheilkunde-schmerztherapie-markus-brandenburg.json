@@ -3,7 +3,7 @@
   "slug": "atempause-naturheilkunde-schmerztherapie-markus-brandenburg",
   "name": "ATEMPAUSE | Naturheilkunde Schmerztherapie | Markus Brandenburg",
   "description": "ATEMPAUSE | Naturheilkunde Schmerztherapie in Berlin-Reinickendorf bietet eine ganzheitliche Herangehensweise zur Linderung von Schmerzen und chronischen Beschwerden. Unter der Leitung von Markus Brandenburg werden verschiedene Therapieformen, darunter die Liebscher&Bracht-Schmerztherapie und Traditionelle Chinesische Medizin, eingesetzt, um die Ursachen von Schmerzen zu identifizieren und zu behandeln. Ziel ist es, das körperliche Gleichgewicht wiederherzustellen und die Selbstheilungskräfte zu aktivieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "schmerztherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Falkentaler Steig 13",
     "locality": "Berlin",
@@ -100,24 +101,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapieformen bietet ATEMPAUSE an?",
-      "answer": "ATEMPAUSE bietet verschiedene Therapieformen an, darunter Sport- und Bewegungstherapie, Liebscher&Bracht-Schmerztherapie, Traditionelle Chinesische Medizin und Ernährung sowie die Anwendung von BEMER zur Leistungssteigerung."
+      "question": "Wie verläuft der Ersttermin bei ATEMPAUSE?",
+      "answer": "Markus Brandenburg schafft mit feinem Humor schnell Vertrauen zu seinen Kunden. Er konnte bei der ersten Behandlung mit der Liebscher & Bracht Methode die Schmerzen meines Mannes, vermutlich Carpaltunnelsyndrom, wegnehmen."
     },
     {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin direkt über die Buchungsseite auf der Webseite von ATEMPAUSE buchen. Der Link dazu ist: https://dieursacheheilen.com/termin-buchen."
-    },
-    {
-      "question": "Wann hat ATEMPAUSE geöffnet?",
-      "answer": "Die Öffnungszeiten von ATEMPAUSE sind wie folgt: Montag von 09:00 bis 18:00, Dienstag und Mittwoch von 09:00 bis 21:00, Donnerstag und Freitag von 09:00 bis 18:00."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von ATEMPAUSE?",
-      "answer": "Die Praxis von ATEMPAUSE befindet sich in Berlin, Falkentaler Steig 13, 13467 Berlin."
-    },
-    {
-      "question": "Wie kann ich ATEMPAUSE kontaktieren?",
-      "answer": "Sie können ATEMPAUSE telefonisch unter 015228668531 oder per E-Mail an info@schmerzfrei-atempause.de kontaktieren."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Eine Sitzung mit dem BEMER dauert täglich 2x 8 Minuten."
     }
   ]
 }

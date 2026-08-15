@@ -3,7 +3,7 @@
   "slug": "heilpraxis-wittke",
   "name": "Heilpraxis Wittke",
   "description": "Die Heilpraxis Wittke in Berlin-Steglitz-Zehlendorf bietet ein breites Spektrum an naturheilkundlichen Behandlungen. Zu den Schwerpunkten zählen die Spezialblutuntersuchung im Dunkelfeld, Chiropraktik, Fußreflexzonentherapie sowie Ernährungsberatung und Fastenbegleitung. Darüber hinaus werden Ohrakupunktur, Unterstützung bei Rauchentwöhnung und Essstörungen sowie homöopathische Behandlungen angeboten. Die Praxis ist barrierefrei und befindet sich im 2. Obergeschoss.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Breite Str. 15",
     "locality": "Berlin",
@@ -59,26 +60,5 @@
   "images": [
     "/images/entries/heilpraxis-wittke/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis Wittke?",
-      "answer": "Die Heilpraxis Wittke befindet sich in der Breite Str. 15, 14199 Berlin."
-    },
-    {
-      "question": "Welche Behandlungsmöglichkeiten bietet die Heilpraxis Wittke an?",
-      "answer": "Die Heilpraxis Wittke bietet unter anderem Spezialblutuntersuchungen im Dunkelfeld, Chiropraktik, Fußreflexzonentherapie, Ernährungsberatung, Fastenbegleitung, Ohrakupunktur, Rauchentwöhnung, Essstörungen und Homöopathie an."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis Wittke kontaktieren?",
-      "answer": "Sie können die Heilpraxis Wittke telefonisch unter 03088679605 erreichen oder die Webseite http://heilpraktik-dunkelfeld.de/ besuchen."
-    },
-    {
-      "question": "Sind die Räumlichkeiten der Heilpraxis Wittke barrierefrei?",
-      "answer": "Ja, die Praxis ist barrierefrei und befindet sich im 2. OG mit Fahrstuhl."
-    },
-    {
-      "question": "Gibt es Öffnungszeiten für die Heilpraxis Wittke?",
-      "answer": "Im Kontext sind keine spezifischen Öffnungszeiten angegeben."
-    }
-  ]
+  "faq": []
 }

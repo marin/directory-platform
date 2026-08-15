@@ -203,26 +203,5 @@
     "/images/entries/manuel-glasl-heilpraktiker-fur-psychotherapie/3.webp",
     "/images/entries/manuel-glasl-heilpraktiker-fur-psychotherapie/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapiemethoden bietet Manuel Glasl an?",
-      "answer": "Manuel Glasl bietet erlebnisorientierte Therapiemethoden an, darunter Gestalttherapie, Traumatherapie, Körpertherapie und Aufstellungsarbeit."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis von Manuel Glasl buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite auf der Website von Manuel Glasl buchen: https://www.manuelglasl.com/book-online."
-    },
-    {
-      "question": "Was sind häufige Themen, die in der Therapie behandelt werden?",
-      "answer": "Häufige Themen in der Therapie sind Entscheidungsfindung, Jobwechsel, Work-Life-Balance, Trennung, Verlust, Angst, Depression und persönliche Weiterentwicklung."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:30 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Manuel Glasl?",
-      "answer": "Die Praxis befindet sich in Berlin, Kadettenweg 62, 12205 Berlin, im Stadtteil Steglitz-Zehlendorf."
-    }
-  ]
+  "faq": []
 }

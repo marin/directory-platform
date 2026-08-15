@@ -49,26 +49,5 @@
     "/images/entries/naturheilpraxis-amg/1.webp",
     "/images/entries/naturheilpraxis-amg/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Wann hat die Naturheilpraxis AMG geöffnet?",
-      "answer": "Die Naturheilpraxis AMG hat jeden Samstag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis AMG?",
-      "answer": "Die Naturheilpraxis AMG befindet sich in der Dieffenbachstraße 36, 10967 Berlin, im Stadtteil Kreuzberg."
-    },
-    {
-      "question": "Welche Therapieformen werden in der Naturheilpraxis AMG angeboten?",
-      "answer": "In der Naturheilpraxis AMG werden unter anderem Fußreflexzonentherapie, trockenes Schröpfen und Bioresonanz angeboten."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis AMG kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis AMG telefonisch unter 01631374861 oder per E-Mail an naturheilpraxis-amg@outlook.de kontaktieren."
-    },
-    {
-      "question": "Wer ist die Heilpraktikerin in der Naturheilpraxis AMG?",
-      "answer": "Die Heilpraktikerin in der Naturheilpraxis AMG ist Anna-Maria Meckelnborg."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "heilpraktikerpraxis-private-physiotherapie-doris-groth",
   "name": "Heilpraktikerpraxis & private Physiotherapie - Doris Groth",
   "description": "In der Heilpraktikerpraxis & privaten Physiotherapie von Doris Groth in Berlin Reinickendorf werden Patienten ganzheitlich und systematisch behandelt. Die Schwerpunkte liegen auf Gesundheitsvorsorge, Entgiftung, Ernährungsberatung nach Hildegard von Bingen sowie verschiedenen Therapieformen wie Physiotherapie, Shiatsu und Energiearbeit. Doris Groth begleitet ihre Patienten auf dem Weg zu einer ganzheitlichen Gesundheit und bietet individuelle Behandlungsansätze an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Olafstraße 6",
     "locality": "Berlin",
@@ -45,26 +46,5 @@
     "/images/entries/heilpraktikerpraxis-private-physiotherapie-doris-groth/1.webp",
     "/images/entries/heilpraktikerpraxis-private-physiotherapie-doris-groth/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraktikerpraxis von Doris Groth?",
-      "answer": "Die Heilpraktikerpraxis von Doris Groth befindet sich in der Olafstraße 6, 13467 Berlin, Reinickendorf."
-    },
-    {
-      "question": "Welche Leistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet verschiedene Leistungen an, darunter Entgiftung durch Azidosemassagen und Schröpfen, Komplexhomöopathie, Ernährungsberatung nach Hildegard von Bingen, unterschiedliche Massagen, Shiatsu, Energiearbeit, sowie Physiotherapie wie Krankengymnastik, Bobath Therapie, manuelle Lymphdrainage und funktionelles Beckenbodentraining."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin buchen, indem Sie die Buchungsseite auf der Website von Doris Groth besuchen: https://www.dorisgroth.de/?page_id=56."
-    },
-    {
-      "question": "Wie kann ich Doris Groth kontaktieren?",
-      "answer": "Sie können Doris Groth telefonisch unter 01719459669 oder per E-Mail an groth-doris@t-online.de kontaktieren."
-    },
-    {
-      "question": "Was ist das Hauptziel der Heilpraktikerpraxis?",
-      "answer": "Das Hauptziel der Heilpraktikerpraxis ist es, die Patienten auf ihrem Weg zur ganzheitlichen Gesundheit zu begleiten."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-carola-kromphardt-heilpraktikerin",
   "name": "Naturheilpraxis Carola Kromphardt - Heilpraktikerin",
   "description": "In der Naturheilpraxis Carola Kromphardt in Berlin-Wannsee erwartet Sie eine ganzheitliche und individuelle Betreuung. Die Heilpraktikerin, Diplom-Biologin, bietet ein breites Spektrum an naturheilkundlichen Therapien, darunter Akupunktur, Phytotherapie, Bachblütentherapie und Fußreflexzonentherapie. Die Praxis ist gut erreichbar und legt großen Wert auf eine stressfreie Atmosphäre, in der die Patienten ernst genommen und achtsam betreut werden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Johannes-Niemeyer-Weg 19C",
     "locality": "Berlin",
@@ -40,22 +41,5 @@
     "/images/entries/naturheilpraxis-carola-kromphardt-heilpraktikerin/1.webp",
     "/images/entries/naturheilpraxis-carola-kromphardt-heilpraktikerin/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Carola Kromphardt?",
-      "answer": "Die Naturheilpraxis Carola Kromphardt befindet sich in Berlin-Wannsee, Johannes-Niemeyer-Weg 19C, 14109 Berlin."
-    },
-    {
-      "question": "Welche Therapien bietet Carola Kromphardt an?",
-      "answer": "Carola Kromphardt bietet verschiedene Therapien an, darunter Akupunktur, Phytotherapie, Bachblütentherapie, Fußreflexzonentherapie und Massagen."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030-28 471 449 vereinbaren oder über das Kontaktformular auf der Webseite der Praxis."
-    },
-    {
-      "question": "Was ist das Therapiekonzept von Carola Kromphardt?",
-      "answer": "Das Therapiekonzept von Carola Kromphardt ist ganzheitlich-naturheilkundlich ausgerichtet und wird individuell auf die Bedürfnisse der Patienten abgestimmt."
-    }
-  ]
+  "faq": []
 }

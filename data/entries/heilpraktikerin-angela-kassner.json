@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-angela-kassner",
   "name": "Heilpraktikerin Angela Käßner",
   "description": "Heilpraktikerin Angela Käßner bietet in ihrer Naturheilpraxis in Berlin-Charlottenburg umfassende Therapien der Naturheilkunde an. Zu den Behandlungsmethoden gehören unter anderem Bioresonanztherapie, Augenakupunktur, Blutegeltherapie sowie Ozontherapie. Die Praxis legt besonderen Wert auf individuelle Diagnosen und eine ganzheitliche Betreuung der Patienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Knesebeckstraße 27",
     "locality": "Berlin",
@@ -98,26 +99,5 @@
     "/images/entries/heilpraktikerin-angela-kassner/2.webp",
     "/images/entries/heilpraktikerin-angela-kassner/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Heilpraktikerin Angela Käßner an?",
-      "answer": "Heilpraktikerin Angela Käßner bietet verschiedene Therapien an, darunter Chiropraktik, Osteopathie, Bioresonanztherapie, Augenakupunktur, Blutegeltherapie, Ozontherapie und Augendiagnose."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis Angela Käßner?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Angela Käßner sind Montag bis Donnerstag von 08:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Angela Käßner?",
-      "answer": "Die Praxis von Angela Käßner befindet sich in der Knesebeckstraße 27, 10623 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Angela Käßner buchen?",
-      "answer": "Sie können einen Termin bei Heilpraktikerin Angela Käßner über die Webseite naturheilpraxis-kaessner.de buchen."
-    },
-    {
-      "question": "Welche Kontaktmöglichkeiten habe ich, um Heilpraktikerin Angela Käßner zu erreichen?",
-      "answer": "Sie können Heilpraktikerin Angela Käßner telefonisch unter 030-8815702 kontaktieren."
-    }
-  ]
+  "faq": []
 }

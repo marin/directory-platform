@@ -3,7 +3,7 @@
   "slug": "heilpraxis-fur-tcm-larysa-willner",
   "name": "Heilpraxis für TCM Larysa Willner",
   "description": "Die Heilpraxis für Traditionelle Chinesische Medizin von Larysa Willner befindet sich in der Oberfeldstraße 180 in Berlin-Biesdorf. Hier werden verschiedene Methoden der TCM angeboten, darunter Akupunktur, Tuina-Massagen, Arzneimitteltherapie und Qi Gong. Ziel der Praxis ist es, die Gesundheit und das Wohlbefinden der Patienten durch individuell abgestimmte Behandlungen zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Oberfeldstraße 180",
     "locality": "Berlin",
@@ -68,26 +69,5 @@
     "/images/entries/heilpraxis-fur-tcm-larysa-willner/3.webp",
     "/images/entries/heilpraxis-fur-tcm-larysa-willner/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Heilpraxis für TCM Larysa Willner an?",
-      "answer": "Die Heilpraxis bietet unter anderem Akupunktur, Arzneimitteltherapie, Tuina, Qi Gong, Diätetik und Ohrakupunktur an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Heilpraxis?",
-      "answer": "Die Heilpraxis ist montags und donnerstags von 10:00 bis 20:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis für TCM Larysa Willner?",
-      "answer": "Die Praxis befindet sich in der Oberfeldstraße 180, 12683 Berlin-Biesdorf."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Termine können telefonisch unter 0172 - 172 68 75 oder per E-Mail an larysa.willner@gmx.de vereinbart werden."
-    },
-    {
-      "question": "Was ist Traditionelle Chinesische Medizin (TCM)?",
-      "answer": "Traditionelle Chinesische Medizin ist ein ganzheitliches Heilverfahren, das verschiedene Methoden wie Akupunktur, Tuina, Moxibustion und chinesische Arzneimitteltherapie umfasst."
-    }
-  ]
+  "faq": []
 }

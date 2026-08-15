@@ -125,24 +125,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Akupunkturpraxis Sandra Wilfert an?",
-      "answer": "Die Praxis bietet verschiedene Behandlungen an, darunter Einzelbehandlungen, Kennenlernangebote, sowie 3er-, 5er- und 10er-Pakete für Akupunktursitzungen."
+      "question": "Wie lange dauert ein Ersttermin in der Akupunkturpraxis Sandra Wilfert?",
+      "answer": "Ein Ersttermin dauert 30 Minuten für das Erstgespräch und 60 Minuten für die Behandlung."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite der Praxis buchen: Terminvereinbarung oder telefonisch unter 01633817756."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag und Donnerstag von 09:00 bis 19:00 Uhr sowie Samstag von 10:00 bis 14:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Akupunkturpraxis?",
-      "answer": "Die Praxis befindet sich im Ärztehaus in Berlin, Prenzlauer Berg, mit der Adresse: Ärztehaus, 10437 Berlin, Deutschland."
-    },
-    {
-      "question": "Welche Beschwerden können mit Akupunktur behandelt werden?",
-      "answer": "Akupunktur kann bei verschiedenen Beschwerden helfen, darunter chronische Schmerzen, hormonelle Störungen, unerfüllter Kinderwunsch, Stress, Schlafstörungen und Verdauungsprobleme."
+      "question": "Wie lange dauert eine Sitzung in der Akupunkturpraxis?",
+      "answer": "Eine Sitzung dauert 60 Minuten."
     }
   ]
 }

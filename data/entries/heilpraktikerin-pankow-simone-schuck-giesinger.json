@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-pankow-simone-schuck-giesinger",
   "name": "Heilpraktikerin Pankow - Simone Schuck-Giesinger",
   "description": "Heilpraktikerin Simone Schuck-Giesinger bietet in ihrer Praxis \"Heilimpuls\" in Berlin-Pankow eine breite Palette an naturheilkundlichen Behandlungen an. Mit über 20 Jahren Erfahrung in der Therapie und 15 Jahren im Coaching unterstützt sie ihre Klienten sowohl vor Ort als auch online. Zu den Angeboten gehören homöopathische Behandlungen, numerologische Readings, Kurse sowie Seelen-Coaching, um individuelle Potenziale zu entfalten und persönliche Ziele zu erreichen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Pestalozzistraße 12",
     "locality": "Berlin",
@@ -36,24 +37,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heilpraktikerin Simone Schuck-Giesinger?",
-      "answer": "Die Praxis befindet sich in der Pestalozzistraße 12, 13187 Berlin, Pankow."
-    },
-    {
-      "question": "Welche Behandlungsangebote bietet Heilpraktikerin Simone Schuck-Giesinger an?",
-      "answer": "Sie bietet unter anderem homöopathische Behandlungen, numerologische Readings, Kurse und Seelen Coaching an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktikerin Simone Schuck-Giesinger buchen?",
-      "answer": "Sie können einen Termin über die Website praxis-heilimpuls.de buchen oder telefonisch unter 0178/1889905 Kontakt aufnehmen."
-    },
-    {
-      "question": "Bietet die Praxis auch Online-Coaching an?",
-      "answer": "Ja, die Praxis bietet professionelle Begleitung sowohl in der Praxis in Berlin als auch online an."
-    },
-    {
-      "question": "Wie viele Jahre Erfahrung hat Heilpraktikerin Simone Schuck-Giesinger in der Therapie?",
-      "answer": "Sie hat 20 Jahre Erfahrung in der Therapie und 15 Jahre Erfahrung im Coaching."
+      "question": "Sind die Behandlungen auch für Kinder geeignet?",
+      "answer": "Ja, die Behandlungen sind auch für Kinder und Jugendliche eine gute Wahl."
     }
   ]
 }

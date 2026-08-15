@@ -201,24 +201,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Beschwerden kann ich in der Heilpraktiker Praxis Berlin behandeln lassen?",
-      "answer": "In meiner Praxis behandle ich eine Vielzahl von akuten und chronischen Beschwerden, darunter Verdauungsprobleme, Hauterkrankungen, Allergien, hormonelle Beschwerden, Stress, Erschöpfung, Schlafstörungen, Schmerzen sowie psychosomatische und emotionale Belastungen."
+      "question": "Wie lange dauert eine erste Behandlung?",
+      "answer": "Die Dauer einer Sitzung variiert je nach individuellem Bedarf. Erstanamnesen sind in der Regel ausführlicher und dauern 2-3 Stunden."
     },
     {
-      "question": "Wie lange dauert eine Behandlung?",
-      "answer": "Die Dauer einer Sitzung variiert je nach individuellem Bedarf. Erstanamnesen sind in der Regel ausführlicher und dauern 2-3 Stunden, während Folgetermine meist kürzer ausfallen und 1-2 Stunden dauern."
+      "question": "Wie lange dauert eine Folgesitzung?",
+      "answer": "Folgetermine fallen meist kürzer aus und dauern 1-2 Stunden."
     },
     {
-      "question": "Muss ich einen Termin vereinbaren?",
-      "answer": "Ja, Sie können mich gerne anrufen oder das Kontaktformular nutzen, um einen unverbindlichen Kennenlerntermin zu vereinbaren. Dieser Termin dauert in der Regel 20-30 Minuten und ist kostenlos."
-    },
-    {
-      "question": "Was muss ich zur ersten Behandlung mitbringen?",
-      "answer": "Es wäre wünschenswert, wenn Sie einen Laborbericht (wenn vorhanden) sowie die ausgefüllten und unterschriebenen Dokumente zur Erstanamnese und zur datenschutzrechtlichen Einwilligung mitbringen."
-    },
-    {
-      "question": "Werden die Kosten für die Heilbehandlung von der Krankenkasse übernommen?",
-      "answer": "Private Krankenkassen und einige Zusatzversicherungen übernehmen unter bestimmten Voraussetzungen einen Teil der Kosten für die Heilbehandlung."
+      "question": "Werden die Kosten von der Krankenkasse übernommen?",
+      "answer": "Private Krankenkassen und einige Zusatzversicherungen übernehmen unter bestimmten Voraussetzungen einen Teil der Kosten."
     }
   ]
 }

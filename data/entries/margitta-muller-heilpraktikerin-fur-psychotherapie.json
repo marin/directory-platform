@@ -3,7 +3,7 @@
   "slug": "margitta-muller-heilpraktikerin-fur-psychotherapie",
   "name": "Margitta Müller Heilpraktikerin für Psychotherapie",
   "description": "Margitta Müller ist Heilpraktikerin für Psychotherapie mit einer Praxis in Berlin-Charlottenburg. Seit 1990 bietet sie transpersonale und energetische-spirituelle Therapien an und verfolgt einen ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt. Ihre vielfältigen Angebote basieren auf kontinuierlicher Weiterbildung und persönlicher Entwicklung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -14,6 +14,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Franklinstraße 4",
     "locality": "Berlin",
@@ -40,22 +41,5 @@
   "images": [
     "/images/entries/margitta-muller-heilpraktikerin-fur-psychotherapie/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Margitta Müller an?",
-      "answer": "Margitta Müller bietet transpersonale und energetisch-spirituelle Therapien an, einschließlich Homöopathie, Psychotherapie, Hypnose und Naturheilkunde."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Margitta Müller?",
-      "answer": "Die Praxis von Margitta Müller befindet sich in der Franklinstraße 4, 10587 Berlin-Charlottenburg."
-    },
-    {
-      "question": "Wie kann ich Margitta Müller kontaktieren?",
-      "answer": "Sie können Margitta Müller telefonisch unter 030 - 312 53 69 oder per E-Mail an post@margittamueller.de kontaktieren."
-    },
-    {
-      "question": "Bietet Margitta Müller auch Coaching an?",
-      "answer": "Ja, Margitta Müller bietet neben Psychotherapie auch Coaching an."
-    }
-  ]
+  "faq": []
 }

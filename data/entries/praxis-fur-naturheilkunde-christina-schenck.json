@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-christina-schenck",
   "name": "Praxis für Naturheilkunde Christina Schenck",
   "description": "Die Praxis für Naturheilkunde Christina Schenck in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen, darunter Akupunktur, Tuina, Shiatsu und Fußreflexzonenmassage. Die Heilpraktikerin Christina Schenck legt großen Wert auf individuelle Beratung und Therapieansätze, um die Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Neue Schönhauser Str. 17",
     "locality": "Berlin",
@@ -182,24 +183,12 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde Christina Schenck?",
-      "answer": "Die Praxis befindet sich in der Neuen Schönhauser Str. 17, 10178 Berlin."
+      "question": "Was kostet ein Ersttermin in der Praxis für Naturheilkunde Christina Schenck?",
+      "answer": "Das Erstgespräch kostet 130 € und dauert ca. 120 Minuten."
     },
     {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet verschiedene Dienstleistungen an, darunter Akupunktur, Tuina, Shiatsu, Fußreflexzonenmassage und individuelle Beratungen."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Sie können einen Termin buchen, indem Sie eine E-Mail an kontakt@naturheilkunde-berlin.de senden oder die Telefonnummer 030 6913418 anrufen."
-    },
-    {
-      "question": "Was kostet ein Erstgespräch in der Praxis?",
-      "answer": "Ein Erstgespräch kostet 130 € und dauert ca. 120 Minuten."
-    },
-    {
-      "question": "Gibt es spezielle Angebote für mehrere Sitzungen?",
-      "answer": "Ja, es gibt Angebote wie 10 Akupunktursitzungen für 550 € oder 5 Termine für 85 € jeweils 90 Minuten."
+      "question": "Übernimmt die Krankenkasse die Kosten für die Behandlungen?",
+      "answer": "Private Krankenversicherungen, Heilpraktikerzusatzversicherungen und Beamtenbeihilfen erstatten den größten Teil der Behandlungskosten. Pflichtversicherungen übernehmen u. U. einen Teil der Kosten."
     }
   ]
 }

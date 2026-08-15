@@ -3,7 +3,7 @@
   "slug": "heilpraktikerin-sarah-sauer",
   "name": "Heilpraktikerin Sarah Sauer",
   "description": "Heilpraktikerin Sarah Sauer bietet in ihrer Praxis in Berlin-Neukölln eine Vielzahl von naturheilkundlichen Behandlungen an, die sich insbesondere an Frauen richten. Ihr Angebot umfasst klassische Homöopathie, therapeutische Massagen sowie Körperpsychotherapie, um Klientinnen dabei zu unterstützen, in Verbindung mit ihrem Körper zu kommen und innere Prozesse zu regulieren. Die Praxis legt Wert auf eine ganzheitliche Betrachtung des Menschen und fördert durch achtsame Impulse die Selbstheilungskräfte.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "neukoelln"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Richardstraße 108",
     "locality": "Berlin",
@@ -81,22 +82,5 @@
     "/images/entries/heilpraktikerin-sarah-sauer/3.webp",
     "/images/entries/heilpraktikerin-sarah-sauer/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet Heilpraktikerin Sarah Sauer an?",
-      "answer": "Sarah Sauer bietet klassische Homöopathie, therapeutische Massagen, Körperpsychotherapie und individuelle Beratungsgespräche an."
-    },
-    {
-      "question": "Wann hat die Praxis von Sarah Sauer geöffnet?",
-      "answer": "Die Öffnungszeiten sind: Montag von 12:00 bis 18:00, Dienstag von 08:00 bis 14:00, Mittwoch von 15:00 bis 21:00, Donnerstag von 11:00 bis 17:00 und Freitag von 14:00 bis 20:00."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sarah Sauer?",
-      "answer": "Die Praxis befindet sich in der Richardstraße 108, 12043 Berlin, Neukölln."
-    },
-    {
-      "question": "Wie kann ich Sarah Sauer kontaktieren?",
-      "answer": "Sie können Sarah Sauer telefonisch unter 01795094328 oder per E-Mail an sarah@femalescope.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-tatjana-ollnow-heilpraktikerin",
   "name": "Naturheilpraxis Tatjana Ollnow - Heilpraktikerin",
   "description": "In der Naturheilpraxis Tatjana Ollnow in Berlin-Friedrichshain werden alternative Behandlungsmethoden der Naturmedizin angeboten, darunter Akupunktur, Pflanzenheilkunde und Wirbelsäulentherapie nach Dorn. Die Praxis legt großen Wert auf eine ganzheitliche Betrachtung der Patienten, um körperliche, emotionale und soziale Faktoren in Einklang zu bringen. Ziel ist es, die gesundheitliche Situation durch individuelle Therapiekonzepte zu verbessern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Waldeyerstraße 2",
     "locality": "Berlin",
@@ -110,22 +111,5 @@
     "/images/entries/naturheilpraxis-tatjana-ollnow-heilpraktikerin/0.webp",
     "/images/entries/naturheilpraxis-tatjana-ollnow-heilpraktikerin/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet die Naturheilpraxis Tatjana Ollnow an?",
-      "answer": "Die Naturheilpraxis Tatjana Ollnow bietet verschiedene Therapien an, darunter Akupunktur, Wirbelsäulentherapie nach Dorn, Schröpfmassage, klassische Massage, Gua Sha, Pflanzenheilkunde, Augendiagnose, Schüsslersalze, Ernährungsberatung und mehr."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Naturheilpraxis?",
-      "answer": "Die Öffnungszeiten der Naturheilpraxis Tatjana Ollnow sind von Montag bis Donnerstag von 15:00 bis 20:00 Uhr und am Freitag von 15:00 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Tatjana Ollnow?",
-      "answer": "Die Naturheilpraxis Tatjana Ollnow befindet sich in der Waldeyerstraße 2, 10247 Berlin, im Bezirk Friedrichshain-Kreuzberg."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Tatjana Ollnow telefonisch unter der Nummer 030 420 250 91 vereinbaren."
-    }
-  ]
+  "faq": []
 }

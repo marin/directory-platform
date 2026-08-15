@@ -3,7 +3,7 @@
   "slug": "dipl-chirop-osteopath-hp-rene-reissmann",
   "name": "Dipl. Chirop.-Osteopath HP. René Reissmann",
   "description": "Dipl. Chirop.-Osteopath HP. René Reissmann bietet in seiner Praxis in Berlin-Reinickendorf umfassende Behandlungen in den Bereichen Osteopathie, Cranio-Sacral Therapie und Chiropraktik an. Mit einem ganzheitlichen Ansatz behandelt er orthopädische Erkrankungen, die nicht operativ behandelt werden müssen, und nutzt dabei verschiedene manuelle Therapieformen. Die Praxis befindet sich in der Berliner Straße 139 und ist von Montag bis Donnerstag sowie am Freitag für Patienten geöffnet.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Berliner Str. 139",
     "locality": "Berlin",
@@ -88,26 +89,5 @@
     "/images/entries/dipl-chirop-osteopath-hp-rene-reissmann/1.webp",
     "/images/entries/dipl-chirop-osteopath-hp-rene-reissmann/2.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Dipl. Chirop.-Osteopath HP. René Reissmann an?",
-      "answer": "Dipl. Chirop.-Osteopath HP. René Reissmann bietet Osteopathie, Cranio-Sacral Therapie, Chiropraktik sowie alternative manuelle Therapieformen wie Schröpfen, Blutegel-Therapie, Massage, Lymphdrainage und Stoßwellen-Therapie an."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Donnerstag von 08:00 bis 18:00 Uhr und am Freitag von 08:00 bis 13:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 - 404 41 14 oder online über die Buchungsseite auf Doctolib vereinbaren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von René Reissmann?",
-      "answer": "Die Praxis befindet sich in der Berliner Straße 139, 13467 Berlin."
-    },
-    {
-      "question": "Wie kann ich René Reissmann kontaktieren?",
-      "answer": "Sie können René Reissmann per E-Mail unter info@praxis-reissmann.de oder telefonisch unter 030 - 404 41 14 kontaktieren."
-    }
-  ]
+  "faq": []
 }

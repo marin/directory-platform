@@ -133,26 +133,5 @@
     "/images/entries/medico-vital-centrum-berlin/3.webp",
     "/images/entries/medico-vital-centrum-berlin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet das Medico Vital Centrum Berlin an?",
-      "answer": "Das Medico Vital Centrum Berlin bietet eine Vielzahl von Therapien an, darunter Osteopathie, Qigong Therapie, Bioresonanz, Homöopathie, Ozontherapie, energetische Analysen und Therapien, sowie Lebensberatung und Burnout Prävention."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten des Medico Vital Centrum Berlin?",
-      "answer": "Die Öffnungszeiten sind Montag von 12:00 bis 16:00 Uhr, Mittwoch von 08:00 bis 12:00 Uhr und Donnerstag von 12:00 bis 16:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin im Medico Vital Centrum Berlin vereinbaren?",
-      "answer": "Sie können einen Termin über die Webseite des Medico Vital Centrum Berlin vereinbaren, indem Sie den Kontaktbereich besuchen: https://www.medico-vital-centrum.de/kontakt."
-    },
-    {
-      "question": "Wo befindet sich das Medico Vital Centrum Berlin?",
-      "answer": "Das Medico Vital Centrum Berlin befindet sich in der Schrobsdorffstraße 30, 12623 Berlin, im Bezirk Marzahn-Hellersdorf."
-    },
-    {
-      "question": "Welche Philosophie verfolgt das Medico Vital Centrum Berlin?",
-      "answer": "Das Medico Vital Centrum Berlin vereint traditionelle und moderne Medizin in einem Konzept von ganzheitlichen Therapien, um Vitalität und Gesunderhaltung zu fördern sowie Störungen und Erkrankungen frühzeitig zu erkennen und zu behandeln."
-    }
-  ]
+  "faq": []
 }

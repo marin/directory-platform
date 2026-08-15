@@ -63,7 +63,27 @@ describe("computeEntryRichness", () => {
   });
 
   it("scores enriched entries as tier A", () => {
-    const entry = loadEntry("heilpraktiker-boewing");
+    const entry = normalizeEntry(
+      entrySchema.parse({
+        id: "rich",
+        slug: "rich",
+        name: "Rich Entry",
+        description:
+          "A long custom description about holistic practice and therapies offered in Berlin with enough detail to exceed two hundred characters for the richness bonus points in scoring. The practice treats adults with acupuncture and herbal medicine.",
+        lastUpdated: "2026-08-15",
+        categories: ["naturheilkunde"],
+        faq: [
+          { question: "Wie läuft der Ersttermin ab?", answer: "Die Anamnese dauert eine Stunde." },
+          { question: "Wie lange dauert eine Behandlung?", answer: "Eine Sitzung dauert 60 Minuten." },
+          { question: "Übernimmt die Krankenkasse die Kosten?", answer: "Die Praxis rechnet auf Privatrechnung ab." },
+          { question: "Werden auch Kinder behandelt?", answer: "Ja, auch Säuglinge und Kinder." },
+        ],
+        offers: [{ name: "Akupunktur", price: 80, priceLabel: "80 €", description: "Nadeltherapie" }],
+        images: ["/images/entries/rich/0.webp"],
+        bookingUrl: "https://example.com/book",
+        indicationIds: ["rueckenschmerzen", "migraene", "allergien", "schlafstoerungen"],
+      }),
+    );
     const richness = computeEntryRichness(entry);
     expect(richness.tier).toBe("A");
     expect(richness.total).toBeGreaterThanOrEqual(60);

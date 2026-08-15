@@ -3,7 +3,7 @@
   "slug": "michaela-vogt-heilpraktikerin-ayurvedatherapeutin",
   "name": "Michaela Vogt - Heilpraktikerin & Ayurvedatherapeutin",
   "description": "Michaela Vogt ist eine erfahrene Heilpraktikerin und Ayurveda-Therapeutin mit einer Praxis in Berlin-Zehlendorf. Sie bietet individuelle Ayurveda-Behandlungen an, die darauf abzielen, Körper, Geist und Seele zu regenerieren. Zu ihrem Leistungsspektrum gehören unter anderem Ayurveda-Massagen, ayurvedische Kochkurse, Blutegelbehandlungen und Ernährungsberatung. In ihrer modernen und einladenden Praxis legt sie großen Wert auf eine ganzheitliche Betreuung ihrer Klienten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Beerenstraße 14",
     "locality": "Berlin",
@@ -85,26 +86,5 @@
     "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/3.webp",
     "/images/entries/michaela-vogt-heilpraktikerin-ayurvedatherapeutin/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Michaela Vogt?",
-      "answer": "Die Praxis von Michaela Vogt befindet sich in der Beerenstraße 14, 14163 Berlin-Zehendorf."
-    },
-    {
-      "question": "Welche Behandlungen bietet Michaela Vogt an?",
-      "answer": "Michaela Vogt bietet verschiedene Behandlungen an, darunter Ayurveda Massage, ayurvedische Kochkurse, Blutegelbehandlung, ayurvedische Ernährungsberatung und Yoga."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Michaela Vogt vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 0172 - 9825180 oder über die Website heilpraxisvogt.com vereinbaren."
-    },
-    {
-      "question": "Welche Philosophie verfolgt Michaela Vogt in ihrer Praxis?",
-      "answer": "Michaela Vogt verfolgt eine ganzheitliche und individuelle Herangehensweise, um Körper, Geist und Seele auf einer tiefgreifenden Ebene zu regenerieren."
-    },
-    {
-      "question": "Wie kann ich Michaela Vogt kontaktieren?",
-      "answer": "Sie können Michaela Vogt per E-Mail unter mail@heilpraxisvogt.com oder telefonisch unter 0172 - 9825180 kontaktieren."
-    }
-  ]
+  "faq": []
 }

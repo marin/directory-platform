@@ -3,7 +3,7 @@
   "slug": "praxis-fur-traditionelle-chinesische-medizin-heilpraktikerin-brigitte-bruse",
   "name": "Praxis für Traditionelle Chinesische Medizin – Heilpraktikerin Brigitte Brüse",
   "description": "Die Praxis für Traditionelle Chinesische Medizin unter der Leitung von Heilpraktikerin Brigitte Brüse befindet sich in Berlin-Steglitz-Zehlendorf. Seit 2005 bietet sie eine Kombination aus westlicher Medizin und jahrtausendealtem Wissen der TCM an, um individuelle Behandlungskonzepte zu entwickeln. Zu den angebotenen Methoden zählen Akupunktur, chinesische Heilkräuter und Ernährungsberatung. Zudem ist Brigitte Brüse als Dozentin für Akupunktur und chinesische Kräutertherapie tätig.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wiesbadener Str. 24",
     "locality": "Berlin",
@@ -96,24 +97,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Behandlungen bietet die Praxis für Traditionelle Chinesische Medizin an?",
-      "answer": "Die Praxis bietet Akupunktur, chinesische Heilkräuter und chinesische Ernährungsberatung an."
+      "question": "Wie lange dauert der Ersttermin bei Heilpraktikerin Brigitte Brüse?",
+      "answer": "Der Ersttermin dauert 1 ½ bis 2 Stunden."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis von Brigitte Brüse buchen?",
-      "answer": "Einen Termin können Sie über die Webseite der Praxis buchen, indem Sie den Kontaktbereich aufrufen: https://www.tcm-bruese.de/kontakt/."
-    },
-    {
-      "question": "Was sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Brigitte Brüse?",
-      "answer": "Die Praxis befindet sich in der Wiesbadener Str. 24, 14197 Berlin."
-    },
-    {
-      "question": "Wie hoch sind die Behandlungskosten in der Praxis?",
-      "answer": "Die Kosten für die Behandlungen variieren, zum Beispiel liegen sie bei 15€, 30€, 35€, 70€ und 120€."
+      "question": "Wie lange dauert eine Akupunkturbehandlung?",
+      "answer": "Eine Akupunkturbehandlung dauert 45 Minuten."
     }
   ]
 }

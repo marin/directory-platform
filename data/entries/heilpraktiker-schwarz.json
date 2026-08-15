@@ -3,7 +3,7 @@
   "slug": "heilpraktiker-schwarz",
   "name": "Heilpraktiker Schwarz",
   "description": "Heilpraktiker Schwarz bietet in seiner Praxis für Naturheilkunde in der Berliner Straße 50 in Berlin-Pankow umfassende therapeutische Leistungen an. Die Praxis legt Wert auf individuelle Betreuung und ganzheitliche Behandlungsmethoden. Termine können nach telefonischer Vereinbarung vereinbart werden, und es besteht die Möglichkeit von Hausbesuchen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Berliner Str. 50",
     "locality": "Berlin",
@@ -26,6 +27,7 @@
   "email": "kontakt@heilpraktiker-schwarz.de",
   "website": "http://www.heilpraktiker-schwarz.de/kontakt/",
   "bookingUrl": "http://www.heilpraktiker-schwarz.de/kontakt/#",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2wfBsZtSqEcRPzAqUlqL7sI",
   "openingHours": [],
   "offers": [
     {
@@ -36,25 +38,8 @@
   "images": [],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis von Heilpraktiker Schwarz?",
-      "answer": "Die Praxis von Heilpraktiker Schwarz befindet sich in der Berliner Str. 50, 13127 Berlin, im Stadtteil Französisch Buchholz."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktiker Schwarz vereinbaren?",
-      "answer": "Termine können nach telefonischer Vereinbarung unter der Telefonnummer 03067467305 vereinbart werden."
-    },
-    {
-      "question": "Bietet Heilpraktiker Schwarz Hausbesuche an?",
-      "answer": "Ja, Hausbesuche sind möglich."
-    },
-    {
-      "question": "Wie kann ich Heilpraktiker Schwarz kontaktieren?",
-      "answer": "Sie können Heilpraktiker Schwarz per E-Mail unter kontakt@heilpraktiker-schwarz.de oder telefonisch unter 03067467305 kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet Heilpraktiker Schwarz an?",
-      "answer": "Heilpraktiker Schwarz bietet Dienstleistungen im Bereich Naturheilkunde an."
+      "question": "Welche Sprachen werden gesprochen?",
+      "answer": "Es sind keine Informationen zu den gesprochenen Sprachen vorhanden."
     }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJ2wfBsZtSqEcRPzAqUlqL7sI"
+  ]
 }

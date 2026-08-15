@@ -1,11 +1,15 @@
-Erstelle 3–5 FAQ-Fragen und Antworten auf Deutsch für diesen Heilpraktiker-Eintrag.
+Schreibe FAQ-Fragen und Antworten auf Deutsch für {{name}}.
 
-## Kontext
-{{contextJson}}
+## Belege von der Praxiswebsite
+{{topicsJson}}
 
 ## Regeln
-- Fragen müssen aus dem Kontext beantwortbar sein.
-- Antworten nur mit konkreten Fakten aus dem Kontext.
-- Keine erfundenen Statistiken, Zertifikate oder Preise.
-- Keine Website-URLs, Markdown-Links oder Fragen nur zur Website. Der Website-Link steht bereits auf der Eintragsseite.
-- Antwortformat als JSON-Objekt: {"faq":[{"question":"...","answer":"..."}]}
+- Genau eine Frage pro geliefertem Thema, in dieser Reihenfolge: ersttermin, dauer, selbstzahler, sprachen, kinder.
+- Keine zusätzlichen Fragen. Keine Diagnosemethoden, Pakete oder Terminhäufigkeit.
+- Dauer meint die Länge einer Sitzung in Minuten oder Stunden, nicht wie oft jemand kommt.
+- Antworten nur mit Fakten aus den Snippets. Nichts erfinden.
+- Keine Preise, Zeiten oder Sprachen, die nicht in den Snippets stehen.
+- Kein „laut Website“, keine URLs, keine Markdown-Links.
+- Keine Fragen zu Adresse, Telefon, Öffnungszeiten, Buchung oder zur Therapieliste.
+- Kurze Sätze, konkrete Verben, kein Behördendeutsch.
+- Antwortformat als JSON-Objekt: {"faq":[{"question":"...","answer":"..."}]} oder {"faq":[]}

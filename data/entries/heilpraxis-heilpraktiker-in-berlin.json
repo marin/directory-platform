@@ -3,7 +3,7 @@
   "slug": "heilpraxis-heilpraktiker-in-berlin",
   "name": "Heilpraxis, Heilpraktiker in Berlin",
   "description": "Die Heilpraxis von Ulrike Rose in Berlin-Marzahn bietet umfassende naturheilkundliche Behandlungen an. Die Praxis ist auf alternative Therapien spezialisiert, darunter auch die Behandlung mit Blutegeln sowie Beratungen zur Entwurmung von Haustieren. Ulrike Rose lädt regelmäßig zu Vorträgen, Workshops und Seminaren ein, um ihr Wissen über alternative Heilmethoden zu teilen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Werbellinstraße 18",
     "locality": "Berlin",
@@ -88,20 +89,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Öffnungszeiten hat die Heilpraxis in Berlin?",
-      "answer": "Die Heilpraxis hat von Montag bis Freitag von 09:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich die Heilpraktikerin Ulrike Rose kontaktieren?",
-      "answer": "Sie können die Heilpraktikerin Ulrike Rose telefonisch unter 015906604884 oder per E-Mail an asxvmprobertest@gmail.com kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Heilpraxis von Ulrike Rose?",
-      "answer": "Die Heilpraxis befindet sich in der Werbellinstraße 18, 12623 Berlin, im Bezirk Marzahn-Hellersdorf."
-    },
-    {
-      "question": "Welche Angebote gibt es in der Heilpraxis?",
-      "answer": "In der Heilpraxis werden verschiedene Angebote wie Vorträge, Workshops und Seminare sowie Behandlungen mit Blutegeln angeboten."
+      "question": "Wie lange dauert eine Sitzung bei einem Heilpraktiker in Berlin?",
+      "answer": "Die Dauer einer Sitzung ist nicht spezifiziert."
     }
   ]
 }

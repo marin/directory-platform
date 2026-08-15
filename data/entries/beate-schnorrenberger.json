@@ -3,7 +3,7 @@
   "slug": "beate-schnorrenberger",
   "name": "Beate Schnorrenberger",
   "description": "Beate Schnorrenberger ist eine erfahrene Heilpraktikerin mit einem Schwerpunkt auf Chinesischer Medizin, Akupunktur, klassischer Homöopathie und Fußreflexzonenmassage. Ihre Praxis befindet sich in Berlin Lichterfelde-West, in der Nähe des S-Bahnhofs Botanischer Garten. Neben ihrer Tätigkeit als Heilpraktikerin bringt sie auch Kenntnisse als Lebensmittelchemikerin in ihre Behandlungen ein.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -13,6 +13,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Gardeschützenweg 88",
     "locality": "Berlin",
@@ -65,22 +66,5 @@
   "images": [
     "/images/entries/beate-schnorrenberger/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapien bietet Beate Schnorrenberger an?",
-      "answer": "Beate Schnorrenberger bietet Therapien in den Bereichen Chinesische Medizin, Akupunktur, klassische Homöopathie und Fußreflexzonenmassage an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Beate Schnorrenberger?",
-      "answer": "Die Praxis von Beate Schnorrenberger befindet sich im Gardeschützenweg 88, 12203 Berlin, im Stadtteil Lichterfelde-West."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Donnerstag von 09:00 bis 18:00 Uhr und am Freitag von 09:00 bis 12:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Beate Schnorrenberger kontaktieren?",
-      "answer": "Sie können Beate Schnorrenberger telefonisch unter 03089201777 oder per E-Mail an mail@beateschnorrenberger.de kontaktieren."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "homoopathie-bowen-therapie-in-berlin-monika-muller-amenitsch",
   "name": "Homöopathie & Bowen-Therapie in Berlin, Monika Müller-Amenitsch",
   "description": "Monika Müller-Amenitsch bietet in ihrer Praxis für Klassische Homöopathie und Bowen-Therapie in Berlin-Tempelhof seit 1999 individuelle Gesundheitsbegleitung an. Neben der Homöopathie, die auf die Aktivierung der Selbstheilungskräfte abzielt, ergänzt sie ihre Behandlungen durch die Bowen-Therapie und Mykotherapie. Ihr ganzheitlicher Ansatz betrachtet den Menschen als Einheit von Körper, Geist und Seele und ermöglicht eine gezielte Behandlung verschiedenster Beschwerden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kosleckweg 6",
     "locality": "Berlin",
@@ -103,24 +104,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Monika Müller-Amenitsch an?",
-      "answer": "Monika Müller-Amenitsch bietet klassische Homöopathie, Bowen-Therapie (Bowtech) und Mykotherapie an."
+      "question": "Was muss ich zum Ersttermin mitbringen?",
+      "answer": "Bitte bringen Sie folgende Informationen zur homöopathischen Erstbehandlung/Erstanamnese mit."
     },
     {
-      "question": "Wer kann von der Homöopathie profitieren?",
-      "answer": "Die Homöopathie wird für Erwachsene, Kinder und Jugendliche (w/m/d) angeboten."
-    },
-    {
-      "question": "Für wen ist die Bowen-Therapie geeignet?",
-      "answer": "Die Bowen-Therapie wird ausschließlich für Frauen angeboten."
-    },
-    {
-      "question": "Wie lauten die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Freitag von 09:00 bis 18:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich einen Termin vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 03070131057 oder per E-Mail an heilpraktikerin.berlin@gmail.com vereinbaren."
+      "question": "Bieten Sie Homöopathie für Kinder an?",
+      "answer": "Ja, Homöopathie für Kinder ist ein Behandlungsschwerpunkt."
     }
   ]
 }

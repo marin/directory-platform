@@ -3,7 +3,7 @@
   "slug": "sebastian-robeck-osteopathie-chiropraktik-heilpraktiker",
   "name": "Sebastian Robeck - Osteopathie & Chiropraktik - Heilpraktiker",
   "description": "Sebastian Robeck ist ein erfahrener Heilpraktiker, der sich auf Osteopathie und Chiropraktik spezialisiert hat. Seine Praxis befindet sich in der Clausewitzstraße 2 in Berlin-Charlottenburg. Hier bietet er individuelle Behandlungen an, die auf die Bedürfnisse seiner Patienten abgestimmt sind.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "osteopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "charlottenburg-wilmersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Clausewitzstraße 2",
     "locality": "Berlin",
@@ -71,26 +72,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Sebastian Robeck an?",
-      "answer": "Sebastian Robeck bietet Behandlungen in den Bereichen Osteopathie und Chiropraktik an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Sebastian Robeck?",
-      "answer": "Die Praxis befindet sich in der Clausewitzstraße 2, 10629 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Öffnungszeiten sind Montag bis Mittwoch von 09:00 bis 15:00 Uhr, Donnerstag und Freitag von 08:00 bis 15:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Buchungsseite auf Doctolib unter https://www.doctolib.de/osteopath/berlin/sebastian-robeck buchen."
-    },
-    {
-      "question": "Wie kann ich Sebastian Robeck kontaktieren?",
-      "answer": "Sie können Sebastian Robeck per E-Mail unter ocflorian.robeck@gmail.com kontaktieren."
-    }
-  ]
+  "faq": []
 }

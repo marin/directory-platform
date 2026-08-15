@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-monika-buttner-in-spandau",
   "name": "Naturheilpraxis Monika Büttner in Spandau",
   "description": "Die Naturheilpraxis Monika Büttner in Berlin-Spandau bietet individuelle naturheilkundliche Behandlungen an, die auf die einzigartigen Bedürfnisse jedes Patienten abgestimmt sind. In einer einladenden Atmosphäre wird Wert auf ganzheitliche Gesundheit und Lebensfreude gelegt. Die Praxis verfolgt den Ansatz, dass der Körper anpassungsfähig ist und die natürliche Fähigkeit zur Heilung besitzt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "spandau"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Breite Str. 49",
     "locality": "Berlin",
@@ -76,24 +77,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis Monika Büttner?",
-      "answer": "Die Naturheilpraxis Monika Büttner befindet sich in der Breite Str. 49, 13597 Berlin, Spandau."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis buchen?",
-      "answer": "Sie können einen Termin online über den folgenden Link buchen: Online Terminbuchung."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Naturheilpraxis Monika Büttner?",
-      "answer": "Die Öffnungszeiten sind von Montag bis Freitag, jeweils von 08:00 bis 18:30 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Monika Büttner kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01636927586 oder per E-Mail an monikabuettnerberlin@web.de kontaktieren."
-    },
-    {
-      "question": "Welche Zahlungsmethoden werden in der Naturheilpraxis akzeptiert?",
-      "answer": "In der Naturheilpraxis Monika Büttner können Sie online, vor Ort oder per Rechnung bezahlen."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis Monika Büttner?",
+      "answer": "Die Dauer einer Sitzung beträgt 15 Minuten."
     }
   ]
 }

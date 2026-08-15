@@ -3,7 +3,7 @@
   "slug": "frau-ina-schladitz",
   "name": "Frau Ina Schladitz",
   "description": "Frau Ina Schladitz betreibt eine Praxis für Naturheilkunde in Berlin-Mitte/Wedding und bietet seit 16 Jahren umfassende Unterstützung in Gesundungs- und Genesungsprozessen an. Ihr Behandlungsspektrum umfasst unter anderem Pflanzenheilkunde, Akupunktur, Shiatsu sowie Fußreflexzonentherapie nach Hanne Maquardt. Zudem arbeitet sie nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM) und bietet Ernährungsberatung sowie Chan-Mi-Gong an, um ihren Patienten zu einem entspannteren und gesünderen Leben zu verhelfen.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "mitte"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Willdenowstraße 21",
     "locality": "Berlin",
@@ -56,26 +57,5 @@
   "images": [
     "/images/entries/frau-ina-schladitz/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet Frau Ina Schladitz an?",
-      "answer": "Frau Ina Schladitz bietet unter anderem Pflanzenheilkunde, Akupunktur, Shiatsu, Fußreflexzonentherapie nach Hanne Maquardt, Chan-Mi-Gong (Wirbelsäulen-Qi-Gong) und Diätetik / Ernährungsberatung an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Frau Ina Schladitz?",
-      "answer": "Die Praxis von Frau Ina Schladitz befindet sich in der Willdenowstraße 21, 13353 Berlin, im Stadtteil Mitte/Wedding."
-    },
-    {
-      "question": "Wie kann ich Frau Ina Schladitz kontaktieren?",
-      "answer": "Sie können Frau Ina Schladitz telefonisch unter 03046066903 oder per E-Mail an info@ina-schladitz.de kontaktieren."
-    },
-    {
-      "question": "Bietet Frau Ina Schladitz auch Kurse und Seminare an?",
-      "answer": "Ja, Frau Ina Schladitz bietet neben der Sprechstunde auch Vorträge, Kurse und Firmenseminare an."
-    },
-    {
-      "question": "Nach welchen Prinzipien arbeitet Frau Ina Schladitz?",
-      "answer": "Frau Ina Schladitz arbeitet nach den Prinzipien der Traditionellen Chinesischen Medizin (TCM)."
-    }
-  ]
+  "faq": []
 }

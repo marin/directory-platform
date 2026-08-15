@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-ruth-wellmann",
   "name": "Naturheilpraxis Ruth Wellmann",
   "description": "Die Naturheilpraxis Ruth Wellmann in Berlin-Treptow bietet ein breites Spektrum an naturheilkundlichen Behandlungen an. In einer einladenden und ruhigen Atmosphäre stehen individuelle Therapien zur Verfügung, die auf die Bedürfnisse der Patienten abgestimmt sind. Die Praxis legt Wert auf ganzheitliche Heilmethoden und bietet verschiedene Anwendungen, darunter Fußreflexzonenmassagen und Behandlungen für Erwachsene, Studenten und Kinder.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Arthur-Müller-Straße 21",
     "locality": "Berlin",
@@ -136,24 +137,16 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Naturheilpraxis Ruth Wellmann?",
-      "answer": "Die Naturheilpraxis Ruth Wellmann befindet sich in der Arthur-Müller-Straße 21, 12487 Berlin, im Bezirk Treptow-Köpenick."
+      "question": "Was kostet ein Ersttermin in der Naturheilpraxis Ruth Wellmann?",
+      "answer": "Erwachsene: 70 €/Std., Studenten: 60 €/Std., Kinder: 60 €. Homöopathische Erstanamnese (ca. 1,5 Std.) kostet für Erwachsene 120 €, für Studenten 100 € und für Kinder 100 €."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Ruth Wellmann über die Webseite buchen: hier klicken."
+      "question": "Wie lange dauert eine Sitzung in der Naturheilpraxis Ruth Wellmann?",
+      "answer": "Die Sitzungen dauern 30 min, 45 min oder 60 min."
     },
     {
-      "question": "Welche Behandlungen werden in der Naturheilpraxis angeboten?",
-      "answer": "In der Naturheilpraxis Ruth Wellmann werden verschiedene Behandlungen angeboten, darunter Fußreflexzonenmassagen und Therapien für Erwachsene, Studenten und Kinder."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Behandlung?",
-      "answer": "Die Kosten für eine Behandlung variieren je nach Dauer und Art der Therapie. Beispielsweise kostet eine 30-minütige Behandlung 30 Euro, während eine 60-minütige Behandlung 53 Euro kostet."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Ruth Wellmann kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Ruth Wellmann telefonisch unter 03063103757 oder per E-Mail an natur@heilpraxis-wellmann.de kontaktieren."
+      "question": "Muss ich die Behandlungskosten selbst tragen, wenn ich gesetzlich versichert bin?",
+      "answer": "Ja, die Kosten sind selbst zu tragen, es sei denn, Sie haben eine Zusatzversicherung, die Heilpraktikerhonorare zum Teil oder voll übernimmt."
     }
   ]
 }

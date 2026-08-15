@@ -101,24 +101,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet die Praxis für Heilkunde & Schmerztherapie an?",
-      "answer": "Die Praxis bietet verschiedene Therapien an, darunter Osteopathie, Schmerztherapie nach Liebscher & Bracht, Ernährungstherapie, Darmsanierung, Bachblüten, OIDA Therapie und Kambo."
+      "question": "Wie lange dauert eine Sitzung in der Praxis?",
+      "answer": "Eine Yoga-Klasse oder ein Solo-Termin dauert 90 Minuten."
     },
     {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin online über die Buchungsseite auf Doctolib buchen. Hier ist der Link: Termin buchen."
+      "question": "Übernimmt die Krankenkasse die Kosten für Behandlungen?",
+      "answer": "Über 100 gesetzliche Krankenkassen erstatten anteilig die Kosten für Osteopathiebehandlungen."
     },
     {
-      "question": "Welche Öffnungszeiten hat die Praxis?",
-      "answer": "Die Öffnungszeiten der Praxis sind: Montag 09:00 - 18:30, Dienstag 09:00 - 21:00, Mittwoch 09:00 - 18:30, Donnerstag 09:00 - 20:30, Freitag 09:00 - 19:00 und Samstag 09:00 - 17:00."
-    },
-    {
-      "question": "Übernimmt meine Krankenkasse die Kosten für die Behandlungen?",
-      "answer": "Ja, viele gesetzliche Krankenkassen erstatten anteilig die Kosten für Osteopathiebehandlungen. Es wird empfohlen, sich direkt bei Ihrer Krankenkasse über die Vertragsbedingungen zu informieren."
-    },
-    {
-      "question": "Wo befindet sich die Praxis?",
-      "answer": "Die Praxis befindet sich in der Torstraße 161, 10115 Berlin."
+      "question": "Werden auch Kinder behandelt?",
+      "answer": "Die Praxis bietet Osteopathie für Babys, Kinder und Erwachsene an."
     }
   ]
 }

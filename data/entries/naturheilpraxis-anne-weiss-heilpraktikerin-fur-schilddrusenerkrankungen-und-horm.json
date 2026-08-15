@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm",
   "name": "Naturheilpraxis Anne Weiß - Heilpraktikerin für Schilddrüsenerkrankungen und hormonelle Störungen",
   "description": "Die Naturheilpraxis Anne Weiß in Berlin-Reinickendorf spezialisiert sich auf die Behandlung von Schilddrüsenerkrankungen und hormonellen Störungen. Unter der Leitung von Heilpraktikerin Anne Weiß werden individuelle Therapieansätze angeboten, die auf die Bedürfnisse der Patienten abgestimmt sind. Die Praxis legt besonderen Wert auf eine ganzheitliche Betrachtung der Gesundheit und nutzt dabei verschiedene naturheilkundliche Methoden.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "reinickendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Nach d. Höhe 14",
     "locality": "Berlin",
@@ -64,26 +65,5 @@
     "/images/entries/naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm/3.webp",
     "/images/entries/naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Dienstleistungen bietet die Naturheilpraxis Anne Weiß an?",
-      "answer": "Die Naturheilpraxis Anne Weiß spezialisiert sich auf Schilddrüsenerkrankungen und hormonelle Störungen."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin direkt über die Buchungsseite unter https://anneweissheilpraxis.simplybook.it/v2/ vereinbaren."
-    },
-    {
-      "question": "Wann hat die Praxis geöffnet?",
-      "answer": "Die Praxis hat folgende Öffnungszeiten: Montag und Mittwoch von 16:00 bis 18:00 Uhr, Donnerstag von 10:00 bis 19:00 Uhr und Freitag von 12:30 bis 19:00 Uhr."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Anne Weiß kontaktieren?",
-      "answer": "Sie können die Praxis telefonisch unter 01631646965 oder per E-Mail an anneweiss-heilpraxis@web.de kontaktieren."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Anne Weiß?",
-      "answer": "Die Praxis befindet sich in der Nach d. Höhe 14, 13469 Berlin, Reinickendorf."
-    }
-  ]
+  "faq": []
 }

@@ -3,7 +3,7 @@
   "slug": "cornelia-jaeger",
   "name": "Cornelia Jaeger",
   "description": "Cornelia Jaeger ist eine erfahrene Heilpraktikerin in Berlin-Pankow, die seit 2007 in eigener Praxis tätig ist. Ihr Behandlungsspektrum umfasst Naturheilkunde, Fußreflexzonentherapie, elektromagnetische Bluttests, Neuraltherapie sowie Ausleitungen und Meditationstherapie nach Yashi Kunz. Darüber hinaus bietet sie Selbstheilungstrainings an, um die individuelle Gesundheit und das Wohlbefinden ihrer Patienten zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Wolfshagener Str. 75",
     "locality": "Berlin",
@@ -31,26 +32,5 @@
   "images": [
     "/images/entries/cornelia-jaeger/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Cornelia Jaeger?",
-      "answer": "Die Praxis von Cornelia Jaeger befindet sich in der Wolfshagener Str. 75, 13187 Berlin (Pankow)."
-    },
-    {
-      "question": "Welche Therapieformen bietet Cornelia Jaeger an?",
-      "answer": "Cornelia Jaeger bietet verschiedene Therapieformen an, darunter Naturheilkunde, Fußreflexzonentherapie, elektromagnetischer Bluttest, Neuraltherapie, Ausleitungen, Meditationstherapie und Selbstheilungstrainings."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Cornelia Jaeger vereinbaren?",
-      "answer": "Terminvereinbarungen bzw. Terminabsagen sind nur über das Praxistelefon unter der Nummer 030 / 47 00 56 00 möglich."
-    },
-    {
-      "question": "Wie kann ich Cornelia Jaeger kontaktieren?",
-      "answer": "Sie können Cornelia Jaeger telefonisch unter 030 / 47 00 56 00 oder per E-Mail an mail@heilpraxispankow.de kontaktieren."
-    },
-    {
-      "question": "Wann wurde Cornelia Jaeger als Heilpraktikerin tätig?",
-      "answer": "Cornelia Jaeger ist seit 2007 als Heilpraktikerin in eigener Praxis tätig."
-    }
-  ]
+  "faq": []
 }

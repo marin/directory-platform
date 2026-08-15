@@ -3,7 +3,7 @@
   "slug": "praxis-fur-naturheilkunde-cornelia-wirbeleit",
   "name": "Praxis für Naturheilkunde Cornelia Wirbeleit",
   "description": "Die Praxis für Naturheilkunde Cornelia Wirbeleit befindet sich im Sana-Gesundheitszentrum am Helene-Weigel-Platz 10 in Berlin-Marzahn. Hier werden verschiedene naturheilkundliche Therapien angeboten, die individuell auf die Bedürfnisse der Patienten abgestimmt sind. Die Heilpraktikerin Cornelia Wirbeleit-Bork legt großen Wert auf eine einfühlsame Betreuung und die Berücksichtigung der persönlichen Gesundheitsgeschichte ihrer Klienten. Für ein erstes kostenloses Infogespräch oder eine Naturheilkunde-Fragestunde können Interessierte einen Termin vereinbaren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "marzahn-hellersdorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Helene-Weigel-Platz 10",
     "locality": "Berlin",
@@ -74,24 +75,8 @@
   ],
   "faq": [
     {
-      "question": "Wo befindet sich die Praxis für Naturheilkunde Cornelia Wirbeleit?",
-      "answer": "Die Praxis befindet sich am Helene-Weigel-Platz 10 in Berlin, im Sana-Gesundheitszentrum."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 030 54000970 oder über die Webseite hp-wirbeleit.de vereinbaren."
-    },
-    {
-      "question": "Welche Therapien werden in der Praxis angeboten?",
-      "answer": "In der Praxis werden verschiedene Therapien angeboten, darunter Aderlass und Wirbeltherapie, sowie eine Vielzahl weiterer naturheilkundlicher Verfahren."
-    },
-    {
-      "question": "Gibt es eine Möglichkeit für ein kostenloses Infogespräch?",
-      "answer": "Ja, Sie können ein erstes kostenloses Infogespräch (ca. 20 Minuten) in der Praxis vereinbaren."
-    },
-    {
-      "question": "Wie erreiche ich die Praxis mit öffentlichen Verkehrsmitteln?",
-      "answer": "Sie erreichen die Praxis mit der S-Bahn (S 7 oder S 75 bis \"Springpfuhl\"), mit dem Bus (Linie 194 und 391 bis \"Helene-Weigel-Platz\") oder mit der Straßenbahn (Linien M8 und M18 bis \"Helene-Weigel-Platz\")."
+      "question": "Wie lange dauert ein erstes Infogespräch?",
+      "answer": "Das erste Infogespräch dauert ca. 20 Minuten."
     }
   ]
 }

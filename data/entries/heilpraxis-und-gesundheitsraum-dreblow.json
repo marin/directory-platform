@@ -3,7 +3,7 @@
   "slug": "heilpraxis-und-gesundheitsraum-dreblow",
   "name": "Heilpraxis und Gesundheitsraum Dreblow",
   "description": "Die Heilpraxis und Gesundheitsraum Dreblow in Berlin bietet ein breites Spektrum an naturheilkundlichen Behandlungen, insbesondere im Bereich der Psychotherapie, Traumatherapie und klassischen Homöopathie. Die Praxis legt Wert auf Nachhaltigkeit und ist barrierefrei sowie rollstuhlgerecht gestaltet. Für Terminvereinbarungen stehen flexible Zeiten von Montag bis Freitag zur Verfügung.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Simon-Bolivar-Straße 3",
     "locality": "Berlin",
@@ -40,26 +41,5 @@
     "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/2.webp",
     "/images/entries/heilpraxis-und-gesundheitsraum-dreblow/3.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis und Gesundheitsraum Dreblow?",
-      "answer": "Die Heilpraxis und Gesundheitsraum Dreblow befindet sich in der Simon-Bolivar-Straße 3, 13055 Berlin, im Stadtteil Treptow-Köpenick."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis an?",
-      "answer": "Die Heilpraxis bietet unter anderem Psychotherapie, Traumatherapie, EMDR, Psychosomatik, Psychoonkologie und klassische Homöopathie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Heilpraxis vereinbaren?",
-      "answer": "Sie können einen Termin kurzfristig unter der Telefonnummer 030 91 70 14 68 vereinbaren."
-    },
-    {
-      "question": "Welche Öffnungszeiten hat die Heilpraxis?",
-      "answer": "Die Heilpraxis ist von Montag bis Freitag von 08:00 bis 20:00 Uhr in Absprache geöffnet."
-    },
-    {
-      "question": "Ist die Praxis barrierefrei?",
-      "answer": "Ja, die Praxis ist barrierefrei und rollstuhlgerecht."
-    }
-  ]
+  "faq": []
 }

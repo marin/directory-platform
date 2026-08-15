@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-kopenick-regina-stapelfeldt",
   "name": "Naturheilpraxis Köpenick Regina Stapelfeldt",
   "description": "Regina Stapelfeldt führt die Naturheilpraxis Köpenick in der Bölschestraße 26 in Berlin-Treptow-Köpenick. In ihrer Praxis stehen Gesundheit und Wohlbefinden im Mittelpunkt. Sie bietet naturheilkundliche Behandlungen wie Akupunktur, Blutegeltherapie, Massagen, Fußreflexzonentherapie und Faszientherapie an. Für Massagen verwendet sie ausschließlich 100 % naturreine ätherische Öle.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "treptow-koepenick"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Bölschestraße 26",
     "locality": "Berlin",
@@ -107,22 +108,6 @@
     "/images/entries/naturheilpraxis-kopenick-regina-stapelfeldt/4.webp"
   ],
   "faq": [
-    {
-      "question": "Wo befindet sich die Naturheilpraxis von Regina Stapelfeldt?",
-      "answer": "Die Praxis befindet sich in der Bölschestraße 26, 12587 Berlin, im Bezirk Treptow-Köpenick."
-    },
-    {
-      "question": "Welche Behandlungen bietet Regina Stapelfeldt an?",
-      "answer": "Regina Stapelfeldt bietet unter anderem Akupunktur, Blutegeltherapie, Massagen, Fußreflexzonentherapie und Faszientherapie an."
-    },
-    {
-      "question": "Wie kann ich einen Termin bei Regina Stapelfeldt vereinbaren?",
-      "answer": "Termine können über das Kontaktformular auf der Website naturheilpraxis-koepenick.de vereinbart oder telefonisch unter 0176 96311657 angefragt werden."
-    },
-    {
-      "question": "Welche Preise gelten für Behandlungen in der Praxis?",
-      "answer": "Die Preise beginnen ab 10 € und können je nach Behandlung bis zu 40 € betragen."
-    },
     {
       "question": "Verwendet die Praxis ätherische Öle bei Massagen?",
       "answer": "Ja, für Massagen werden ausschließlich 100 % naturreine ätherische Öle verwendet."

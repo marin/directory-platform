@@ -3,7 +3,7 @@
   "slug": "frau-anne-dorthe-hess",
   "name": "Frau Anne-Dörthe Heß",
   "description": "Frau Anne-Dörthe Heß ist Heilpraktikerin mit einer Praxis für Naturheilkunde in Berlin, im Stadtteil Steglitz-Zehlendorf. Sie bietet verschiedene naturheilkundliche Behandlungen an, darunter Homöopathie, Heilfasten und Hatha Yoga.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Stölpchenweg 7",
     "locality": "Berlin",
@@ -32,22 +33,5 @@
   "images": [
     "/images/entries/frau-anne-dorthe-hess/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Frau Anne-Dörthe Heß?",
-      "answer": "Die Praxis befindet sich im Stölpchenweg 7, 14109 Berlin."
-    },
-    {
-      "question": "Wie kann ich Frau Anne-Dörthe Heß kontaktieren?",
-      "answer": "Sie können Frau Anne-Dörthe Heß telefonisch unter 03080604723 oder per E-Mail an yoga-clenz@gmx.de kontaktieren."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Praxis an?",
-      "answer": "Die Praxis bietet Dienstleistungen im Bereich Naturheilkunde an, darunter Heilfasten, Homöopathie, Hatha Yoga und Hormon Yoga."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis buchen?",
-      "answer": "Sie können einen Termin über die Webseite der Praxis buchen: http://www.praxis-am-see.de/termin.html."
-    }
-  ]
+  "faq": []
 }

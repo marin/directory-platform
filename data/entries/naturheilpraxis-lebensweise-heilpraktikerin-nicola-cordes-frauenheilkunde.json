@@ -139,26 +139,5 @@
     "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/3.webp",
     "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Fachgebiete deckt die Naturheilpraxis Lebensweise ab?",
-      "answer": "Die Naturheilpraxis Lebensweise bietet Fachgebiete in Homöopathie, Psychotherapie und Naturheilkunde an."
-    },
-    {
-      "question": "Wie lauten die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis ist von Montag bis Donnerstag von 11:00 bis 19:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Lebensweise?",
-      "answer": "Die Praxis befindet sich in der Marienburger Str. 5A, 10405 Berlin, im Stadtteil Pankow."
-    },
-    {
-      "question": "Wie kann ich einen Termin buchen?",
-      "answer": "Einen Termin können Sie über die Webseite der Praxis buchen: Termin buchen."
-    },
-    {
-      "question": "Welche speziellen Angebote gibt es für Frauen?",
-      "answer": "Die Praxis bietet spezielle Angebote in der Frauenheilkunde, darunter Themen wie Kinderwunsch, PCO-Syndrom, Wechseljahre und prämenstruelles Syndrom (PMS)."
-    }
-  ]
+  "faq": []
 }

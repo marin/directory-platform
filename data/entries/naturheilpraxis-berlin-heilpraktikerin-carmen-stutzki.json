@@ -82,26 +82,5 @@
     "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/3.webp",
     "/images/entries/naturheilpraxis-berlin-heilpraktikerin-carmen-stutzki/4.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Behandlungen bietet die Naturheilpraxis Berlin an?",
-      "answer": "Die Naturheilpraxis Berlin bietet verschiedene Behandlungen an, darunter Darmsanierung, Hypnose, Elektroakupunktur nach Dr. Voll, Schmerzbehandlung und Unterstützung beim Finden des Traumgewichts."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Berlin vereinbaren?",
-      "answer": "Sie können einen Termin in der Naturheilpraxis Berlin über die Webseite naturheilpraxis-berlin.de vereinbaren."
-    },
-    {
-      "question": "Wann hat die Naturheilpraxis Berlin geöffnet?",
-      "answer": "Die Naturheilpraxis Berlin hat von Montag bis Donnerstag von 12:00 bis 16:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Berlin?",
-      "answer": "Die Naturheilpraxis Berlin befindet sich in der Pariser Str. 59, 10719 Berlin, im Bezirk Charlottenburg-Wilmersdorf."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Berlin kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Berlin telefonisch unter 01624940650 kontaktieren."
-    }
-  ]
+  "faq": []
 }

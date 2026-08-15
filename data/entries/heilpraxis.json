@@ -3,7 +3,7 @@
   "slug": "heilpraxis",
   "name": "Heilpraxis",
   "description": "Die Heilpraxis von Ella Pathak befindet sich in der Stahlheimer Str. 24 in Berlin-Pankow. Hier werden naturheilkundliche Behandlungen angeboten, die auf die individuellen Bedürfnisse der Patienten abgestimmt sind. Die Praxis ist gut erreichbar, nur wenige Schritte von der Haltestelle Humannplatz der Tramlinie 12 entfernt.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "pankow"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Stahlheimer Str. 24",
     "locality": "Berlin",
@@ -36,22 +37,5 @@
     "/images/entries/heilpraxis/0.webp",
     "/images/entries/heilpraxis/1.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Heilpraxis von Ella Pathak?",
-      "answer": "Die Heilpraxis von Ella Pathak befindet sich in der Stahlheimer Str. 24, 10439 Berlin."
-    },
-    {
-      "question": "Wie kann ich die Heilpraxis von Ella Pathak kontaktieren?",
-      "answer": "Sie können die Heilpraxis telefonisch unter 030 - 89 56 49 51 oder per E-Mail an ep@tcm-ella-pathak.de kontaktieren."
-    },
-    {
-      "question": "Wie erreiche ich die Heilpraxis mit öffentlichen Verkehrsmitteln?",
-      "answer": "Die Praxis ist nur wenige Schritte von der Haltestelle Humannplatz, Tram 12, entfernt."
-    },
-    {
-      "question": "Welche Dienstleistungen bietet die Heilpraxis an?",
-      "answer": "Die Heilpraxis bietet Dienstleistungen im Bereich Naturheilkunde an."
-    }
-  ]
+  "faq": []
 }

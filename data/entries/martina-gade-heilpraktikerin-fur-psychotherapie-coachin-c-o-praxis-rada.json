@@ -3,7 +3,7 @@
   "slug": "martina-gade-heilpraktikerin-fur-psychotherapie-coachin-c-o-praxis-rada",
   "name": "Martina Gäde - Heilpraktikerin für Psychotherapie & Coachin - c/o Praxis Rada",
   "description": "Martina Gäde ist Heilpraktikerin für Psychotherapie und Coachin in Berlin, Friedrichshain-Kreuzberg. Sie bietet Unterstützung in herausfordernden Lebensphasen, insbesondere in Zeiten von Trauer und Veränderung, sowohl online als auch in der Natur. Ihr Ansatz ist geprägt von Klarheit und Empathie, wobei sie ihren Klienten hilft, Gedanken und Gefühle zu sortieren und neue Perspektiven zu entwickeln.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "c/o Praxis RADA",
     "locality": "Berlin",
@@ -84,24 +85,12 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet Martina Gäde an?",
-      "answer": "Martina Gäde bietet Trauerbegleitung, Coaching und Hypnose an."
+      "question": "Wie läuft ein Ersttermin bei Martina Gäde ab?",
+      "answer": "Das kostenfreie Erstgespräch dauert 30 Minuten. Es dient zum Kennenlernen, Klären des Anliegens und Prüfen, ob eine Zusammenarbeit stimmig ist. Es findet online oder telefonisch statt."
     },
     {
-      "question": "Wie kann ich einen Termin bei Martina Gäde buchen?",
-      "answer": "Sie können einen Termin über die Website von Martina Gäde buchen: martinagaede.de oder direkt über den Doctolib-Link."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten von Martina Gäde?",
-      "answer": "Die Öffnungszeiten sind Mittwoch und Donnerstag von 15:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wie hoch sind die Kosten für eine Sitzung?",
-      "answer": "Die Kosten für eine Sitzung betragen 80 € für Trauerbegleitung, 90 € für Coaching und 100 € für Hypnose, jeweils für 60 Minuten."
-    },
-    {
-      "question": "Bietet Martina Gäde auch ein Erstgespräch an?",
-      "answer": "Ja, es gibt ein kostenfreies Erstgespräch von 30 Minuten, um das Anliegen zu klären und zu prüfen, ob eine Zusammenarbeit stimmig ist."
+      "question": "Wie lange dauert eine Sitzung?",
+      "answer": "Einzelsitzungen dauern 60 Minuten und finden online oder draußen (Walk & Talk) statt."
     }
   ]
 }

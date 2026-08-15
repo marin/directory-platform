@@ -3,7 +3,7 @@
   "slug": "naturheilpraxis-heruth",
   "name": "Naturheilpraxis Heruth",
   "description": "In der Naturheilpraxis Heruth in Berlin Steglitz werden verschiedene alternative Heilmethoden angeboten, darunter klassische Homöopathie, Shiatsu, Energiearbeit und Musiktherapie. Die Praxis legt Wert auf ganzheitliche Ansätze zur Förderung des Wohlbefindens und bietet zudem Workshops zu Themen wie Schwingung, Stimme und Bewusstseinsarbeit an.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "homoeopathie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "steglitz-zehlendorf"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Giesensdorfer Str. 12a",
     "locality": "Berlin",
@@ -83,26 +84,5 @@
   "images": [
     "/images/entries/naturheilpraxis-heruth/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Welche Therapieformen werden in der Naturheilpraxis Heruth angeboten?",
-      "answer": "In der Naturheilpraxis Heruth werden verschiedene Therapieformen angeboten, darunter klassische Homöopathie, Shiatsu, Energiearbeit, Körperarbeit, Gesundheitsübungen, Musiktherapie, Klangtherapie, Stimmtherapie, Kinesiologie und Bewußtseinsarbeit."
-    },
-    {
-      "question": "Wo befindet sich die Naturheilpraxis Heruth?",
-      "answer": "Die Naturheilpraxis Heruth befindet sich in der Giesensdorfer Str. 12a, 12207 Berlin, im Stadtteil Steglitz-Lichterfelde."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Naturheilpraxis Heruth buchen?",
-      "answer": "Einen Termin in der Naturheilpraxis Heruth können Sie über die Webseite buchen, indem Sie den Kontakt-Link nutzen: https://www.naturheilpraxis-heruth.de/kontakt-1."
-    },
-    {
-      "question": "Bietet die Naturheilpraxis Heruth auch Workshops an?",
-      "answer": "Ja, die Naturheilpraxis Heruth bietet verschiedene Workshops an, darunter Themen wie Schwingung, Ton, Stimmimprovisation und Healing Sound."
-    },
-    {
-      "question": "Wie kann ich die Naturheilpraxis Heruth kontaktieren?",
-      "answer": "Sie können die Naturheilpraxis Heruth telefonisch unter 03077393442 oder über die Webseite kontaktieren: http://www.naturheilpraxis-heruth.de/."
-    }
-  ]
+  "faq": []
 }

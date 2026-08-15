@@ -3,7 +3,7 @@
   "slug": "shen-praxis-fur-akupunktur-ralf-brandt-heilpraktiker",
   "name": "Shen – Praxis für Akupunktur Ralf Brandt, Heilpraktiker",
   "description": "Die Shen – Praxis für Akupunktur von Ralf Brandt befindet sich in Berlin-Friedrichshain und bietet umfassende Behandlungen auf Basis der Traditionellen Chinesischen Medizin, insbesondere Akupunktur. Besonderen Wert legt die Praxis auf Hausbesuche in den Stadtteilen Friedrichshain-Kreuzberg, Prenzlauer Berg und Mitte, um eine individuelle Betreuung in vertrauter Umgebung zu gewährleisten. Neben der Akupunktur werden auch ausführliche Beratungsgespräche zur Lebensführung angeboten, um die Gesundheit ganzheitlich zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "akupunktur-tcm",
@@ -12,6 +12,7 @@
   "areaIds": [
     "friedrichshain-kreuzberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Kreutzigerstraße 12",
     "locality": "Berlin",
@@ -64,24 +65,8 @@
   ],
   "faq": [
     {
-      "question": "Welche Dienstleistungen bietet die Praxis von Ralf Brandt an?",
-      "answer": "Die Praxis bietet Akupunktur auf Basis der Traditionellen Chinesischen Medizin an, einschließlich Hausbesuchen in Berlin, Friedrichshain-Kreuzberg, Prenzlauer Berg und Mitte."
-    },
-    {
-      "question": "Wie kann ich einen Termin in der Praxis vereinbaren?",
-      "answer": "Sie können einen Termin telefonisch unter 015560492522 oder per E-Mail an ralf.brandt@shen-akupunktur-friedrichshain.de vereinbaren."
-    },
-    {
-      "question": "Wann sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat montags und donnerstags von 15:00 bis 21:00 Uhr geöffnet."
-    },
-    {
-      "question": "Bietet die Praxis auch Behandlungen in englischer Sprache an?",
-      "answer": "Ja, die Praxis bietet auch Behandlungen in englischer Sprache an."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Ralf Brandt?",
-      "answer": "Die Praxis befindet sich in der Kreutzigerstraße 12, 10247 Berlin."
+      "question": "Welche Sprachen werden in der Praxis gesprochen?",
+      "answer": "Die Praxis bietet Behandlungen in Deutsch und Englisch an."
     }
   ]
 }

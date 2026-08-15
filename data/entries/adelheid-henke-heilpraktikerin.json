@@ -3,7 +3,7 @@
   "slug": "adelheid-henke-heilpraktikerin",
   "name": "Adelheid Henke Heilpraktikerin",
   "description": "Adelheid Henke ist eine erfahrene Heilpraktikerin in Berlin, die sich auf Naturheilkunde spezialisiert hat. In ihrer Praxis in der Dickhardtstraße 48 verfolgt sie einen ganzheitlichen Ansatz zur Gesundung, der sanfte Mittel und eine nachhaltige Umstimmung des Stoffwechsels umfasst. Ihr Ziel ist es, die Gesundheit ihrer Patienten ohne Nebenwirkungen zu fördern.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Dickhardtstraße 48",
     "locality": "Berlin",
@@ -42,22 +43,5 @@
   "images": [
     "/images/entries/adelheid-henke-heilpraktikerin/0.webp"
   ],
-  "faq": [
-    {
-      "question": "Wo befindet sich die Praxis von Adelheid Henke?",
-      "answer": "Die Praxis von Adelheid Henke befindet sich in der Dickhardtstraße 48, 12159 Berlin, im Stadtteil Tempelhof-Schöneberg."
-    },
-    {
-      "question": "Wie sind die Öffnungszeiten der Praxis?",
-      "answer": "Die Praxis hat am Donnerstag von 10:00 bis 20:00 Uhr und am Samstag von 11:00 bis 15:00 Uhr geöffnet."
-    },
-    {
-      "question": "Wie kann ich Adelheid Henke kontaktieren?",
-      "answer": "Sie können Adelheid Henke telefonisch unter 0308336071 oder per E-Mail an mail@adelheidhenke.de kontaktieren."
-    },
-    {
-      "question": "Welche Behandlungsmethoden bietet Adelheid Henke an?",
-      "answer": "Adelheid Henke bietet naturheilkundliche Behandlungen an, die auf einen ganzheitlichen Ansatz abzielen."
-    }
-  ]
+  "faq": []
 }

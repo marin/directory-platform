@@ -3,7 +3,7 @@
   "slug": "frau-gisela-bast",
   "name": "Frau Gisela Bast",
   "description": "Frau Gisela Bast ist eine erfahrene Heilpraktikerin mit einer Praxis für Körperpsychotherapie, Traumatherapie und spirituelle Wegbegleitung in Berlin. Seit 1985 begleitet sie Menschen in persönlichen Transformationsprozessen und bietet Unterstützung bei Themen wie Trauer, Lebenskrisen, psychosomatischen Beschwerden und innerem Wachstum. Ihre Ausbildung umfasst verschiedene Methoden der Körperpsychotherapie sowie integrative Traumatherapie, und sie ist zertifizierte Lehrerin im Diamond Approach®. In ihrer Arbeit schafft sie einen respektvollen und wertschätzenden Raum, der es Klienten ermöglicht, ihre individuelle Wahrheit zu entdecken und zu integrieren.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "psychotherapie",
@@ -12,6 +12,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Ebersstraße 76",
     "locality": "Berlin",
@@ -107,24 +108,16 @@
   ],
   "faq": [
     {
-      "question": "Welche Therapien bietet Frau Gisela Bast an?",
-      "answer": "Frau Gisela Bast bietet Körperpsychotherapie, integrative Traumatherapie, Homöopathie und spirituelle Begleitung an."
+      "question": "Wie viel kostet ein Ersttermin bei Frau Gisela Bast?",
+      "answer": "Das Honorar für ein Erstgespräch beträgt 50,- € (50 Minuten)."
     },
     {
-      "question": "Wo befindet sich die Praxis von Frau Gisela Bast?",
-      "answer": "Die Praxis von Frau Gisela Bast befindet sich in der Ebersstraße 76, 10827 Berlin, im Bezirk Tempelhof-Schöneberg."
+      "question": "Wie lange dauert eine Sitzung bei Frau Gisela Bast?",
+      "answer": "Einzeltherapeutische Sitzungen dauern in der Regel 50 Minuten."
     },
     {
-      "question": "Wie kann ich Frau Gisela Bast kontaktieren?",
-      "answer": "Sie können Frau Gisela Bast telefonisch unter 0307875587 oder per E-Mail an gisela-bast@gmx.de kontaktieren."
-    },
-    {
-      "question": "Welche Zielgruppen spricht Frau Gisela Bast an?",
-      "answer": "Frau Gisela Bast richtet ihr Angebot an Menschen mit Trauerprozessen, Lebenskrisen, psychosomatischen Beschwerden, Depressionen, Angststörungen, Suchtproblemen und solchen, die inneres Wachstum und Lebensfreude entfalten möchten."
-    },
-    {
-      "question": "Hat Frau Gisela Bast spezielle Qualifikationen?",
-      "answer": "Ja, Frau Gisela Bast ist Diplom Pädagogin und staatlich geprüfte Heilpraktikerin. Sie hat zahlreiche Fortbildungen in verschiedenen Therapierichtungen absolviert, darunter integrative Körperpsychotherapie und Traumatherapie."
+      "question": "Wer trägt die Kosten für die Therapie bei Frau Gisela Bast?",
+      "answer": "Die Therapiekosten werden von den gesetzlichen Krankenkassen bisher nicht übernommen. In der Regel wird selbst bezahlt, viele private Kassen und private Zusatzversicherungen übernehmen jedoch ganz oder teilweise die Behandlungskosten."
     }
   ]
 }

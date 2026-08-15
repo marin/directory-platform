@@ -3,7 +3,7 @@
   "slug": "willkommen-bei-heilpraktiker-niko",
   "name": "willkommen bei heilpraktiker niko",
   "description": "Willkommen bei Heilpraktiker Niko in Berlin, Alt-Mariendorf. In der Praxis von Nikolay Bogomolov stehen naturheilkundliche Behandlungen im Fokus, die individuell auf die Bedürfnisse der Patienten abgestimmt sind. Die Behandlungen erfolgen ausschließlich nach telefonischer Vereinbarung, um eine persönliche und vertrauensvolle Atmosphäre zu gewährleisten.",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "status": "open",
   "categories": [
     "naturheilkunde"
@@ -11,6 +11,7 @@
   "areaIds": [
     "tempelhof-schoeneberg"
   ],
+  "indicationIds": [],
   "address": {
     "street": "Alt-Mariendorf 27 B",
     "locality": "Berlin",
@@ -25,6 +26,7 @@
   "phone": "03051646730",
   "email": "info@heilpraktiker-niko.de",
   "website": "http://www.heilpraktiker-niko.de/kontakt.html",
+  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ18-wEZFqEcRlBCKUJKcRxE",
   "openingHours": [],
   "offers": [
     {
@@ -41,23 +43,5 @@
     }
   ],
   "images": [],
-  "faq": [
-    {
-      "question": "Wie kann ich einen Termin bei Heilpraktiker Niko vereinbaren?",
-      "answer": "Termine können ausschließlich nach telefonischer Vereinbarung unter der Telefonnummer +49 - 30 - 516 46 730 vereinbart werden."
-    },
-    {
-      "question": "Welche Behandlungszeiten hat Heilpraktiker Niko?",
-      "answer": "Die Behandlungszeiten sind von Montag bis Freitag von 12:00 bis 20:00 Uhr."
-    },
-    {
-      "question": "Wo befindet sich die Praxis von Heilpraktiker Niko?",
-      "answer": "Die Praxis befindet sich in Alt-Mariendorf 27 B, 12107 Berlin."
-    },
-    {
-      "question": "Wie kann ich Heilpraktiker Niko kontaktieren?",
-      "answer": "Sie können Heilpraktiker Niko per E-Mail unter info@heilpraktiker-niko.de oder telefonisch unter +49 - 30 - 516 46 730 kontaktieren."
-    }
-  ],
-  "googleMapsUrl": "https://www.google.de/maps/place/?q=place_id:ChIJJ18-wEZFqEcRlBCKUJKcRxE"
+  "faq": []
 }
