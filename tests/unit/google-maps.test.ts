@@ -12,6 +12,7 @@ import {
   shouldEmitAggregateRating,
 } from "../../src/lib/geo/google-maps-rating.ts";
 import { buildListingJsonLd } from "../../src/lib/seo/structured-data/builders.ts";
+import siteConfig from "../../config/site.config.ts";
 
 describe("buildGoogleMapsPlaceUrl", () => {
   it("builds a German Google Maps place listing URL from a Place ID", () => {
@@ -295,8 +296,10 @@ describe("buildListingJsonLd", () => {
       [
         {
           id: "vod",
+          slug: "vod",
           name: "Verband der Osteopathen Deutschland",
           abbreviation: "VOD",
+          description: "Der Verband der Osteopathen Deutschland (VOD) ist ein Berufsverband.",
           synonyms: ["vod"],
         },
       ],
@@ -308,6 +311,7 @@ describe("buildListingJsonLd", () => {
       {
         "@type": "Organization",
         name: "Verband der Osteopathen Deutschland (VOD)",
+        url: `${siteConfig.site.origin}/verband/vod`,
       },
     ]);
   });

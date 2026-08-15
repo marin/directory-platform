@@ -269,9 +269,11 @@ export function extractCredentials(
 }
 
 export function formatAssociationChip(association: Association): string {
-  return association.abbreviation
-    ? `Mitglied im ${association.abbreviation}`
-    : `Mitglied: ${association.name}`;
+  const short = association.abbreviation ?? association.name;
+  if (association.kind === "zertifikat") {
+    return `${short}-zertifiziert`;
+  }
+  return `Mitglied im ${short}`;
 }
 
 function associationPhrase(association: Association): string {
@@ -286,16 +288,21 @@ export function formatCredentialsLine(
   if (qualifications.length > 0) {
     parts.push(qualifications.map((item) => item.replace(/\.$/, "")).join(". "));
   }
-  if (associations.length === 1) {
-    parts.push(`Mitglied im ${associationPhrase(associations[0]!)}`);
-  } else if (associations.length === 2) {
+  const verbande = associations.filter((item) => item.kind !== "zertifikat");
+  const zertifikate = associations.filter((item) => item.kind === "zertifikat");
+  if (verbande.length === 1) {
+    parts.push(`Mitglied im ${associationPhrase(verbande[0]!)}`);
+  } else if (verbande.length === 2) {
     parts.push(
-      `Mitglied im ${associationPhrase(associations[0]!)} und im ${associationPhrase(associations[1]!)}`,
+      `Mitglied im ${associationPhrase(verbande[0]!)} und im ${associationPhrase(verbande[1]!)}`,
     );
-  } else if (associations.length > 2) {
-    const last = associations.at(-1)!;
-    const head = associations.slice(0, -1).map(associationPhrase).join(", ");
+  } else if (verbande.length > 2) {
+    const last = verbande.at(-1)!;
+    const head = verbande.slice(0, -1).map(associationPhrase).join(", ");
     parts.push(`Mitglied im ${head} und im ${associationPhrase(last)}`);
+  }
+  for (const item of zertifikate) {
+    parts.push(`${associationPhrase(item)}-zertifiziert`);
   }
   if (parts.length === 0) return undefined;
   const line = parts.join(". ").replace(/\.\./g, ".");

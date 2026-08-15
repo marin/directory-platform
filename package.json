@@ -55,6 +55,7 @@
     "data:berlin:google-maps-rating": "node scripts/heilpraktiker/backfill-google-maps-rating.mjs",
     "data:berlin:content": "node scripts/heilpraktiker/generate-berlin-content.mjs",
     "data:berlin:indications": "node scripts/heilpraktiker/generate-indication-content.mjs",
+    "data:berlin:associations": "node scripts/heilpraktiker/generate-association-content.mjs",
     "data:refresh": "node scripts/data/refresh.mjs",
     "notify:index": "node scripts/notify-index.mjs"
   },

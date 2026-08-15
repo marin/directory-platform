@@ -147,6 +147,8 @@ describe("generated site", () => {
     if ((taggedEntry.associationIds ?? []).length > 0) {
       expect(html).toContain('data-testid="entry-associations"');
       expect(html).toContain('"@type":"Organization"');
+      expect(html).toContain("/verband/");
+      expect(html).toContain(`href="/verband/${taggedEntry.associationIds![0]}`);
     }
   });
 
@@ -182,6 +184,40 @@ describe("generated site", () => {
     expect(html).toContain('data-testid="home-indication"');
     expect(html).toContain('data-testid="home-indications-heading"');
     expect(html).toContain('href="/indikation"');
+  });
+
+  it("builds association hub pages for tagged memberships", () => {
+    const tagged = dataset.associations.find((association) =>
+      dataset.entries.some(
+        (entry) => entry.isOpen && (entry.associationIds ?? []).includes(association.id),
+      ),
+    );
+    expect(tagged).toBeDefined();
+    const html = readDist(`verband/${tagged!.slug}/index.html`);
+    expect(html).toContain('data-testid="association-page"');
+    expect(html).toContain("in Berlin");
+    expect(html).toContain('data-testid="association-intro"');
+    expect(html).toContain('data-testid="breadcrumbs"');
+    expect(html).toContain('href="/verband"');
+  });
+
+  it("builds an indexable associations overview at /verband/", () => {
+    const html = readDist("verband/index.html");
+    expect(html).toContain('data-testid="associations-index"');
+    expect(html).toContain("Heilpraktiker nach Verband in Berlin");
+    expect(html).toContain('data-testid="associations-index-intro"');
+    expect(html).toContain('data-testid="associations-index-hub"');
+    expect(html).toContain('"@type":"CollectionPage"');
+    expect(html).toContain('"@type":"ItemList"');
+    expect(html).toContain("Häufig gestellte Fragen");
+  });
+
+  it("lists indexable association hubs on the homepage", () => {
+    const html = readDist("index.html");
+    expect(html).toContain("Nach Verband");
+    expect(html).toContain('data-testid="home-association"');
+    expect(html).toContain('data-testid="home-associations-heading"');
+    expect(html).toContain('href="/verband"');
   });
 
   it("renders booking CTA when bookingUrl is set", () => {
@@ -234,6 +270,15 @@ describe("generated site", () => {
       expect(llms).toContain(sampleIndication.slug);
     }
     expect(llms).toContain(`Übersicht: ${siteConfig.site.origin}/indikation`);
+    expect(llms).toContain(`Übersicht: ${siteConfig.site.origin}/verband`);
+    const sampleAssociation = dataset.associations.find((association) =>
+      dataset.entries.some(
+        (entry) => entry.isOpen && (entry.associationIds ?? []).includes(association.id),
+      ),
+    );
+    if (sampleAssociation) {
+      expect(llms).toContain(sampleAssociation.slug);
+    }
   });
 
   it("renders entry images and og:image when local images exist", () => {

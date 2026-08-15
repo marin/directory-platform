@@ -1,0 +1,107 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import EntryCard from "../../components/cards/EntryCard.astro";
+import FaqSection from "../../components/faq/FaqSection.astro";
+import LastUpdated from "../../components/entry/LastUpdated.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import PaginationNav from "../../components/navigation/PaginationNav.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { sortEntriesByRichness } from "../../lib/data/entry-richness.ts";
+import {
+  toEntryCardViewModel,
+  shouldIndexAssociation,
+} from "../../lib/data/view-models/entry.ts";
+import { computeCategoryStats, computeAssociationStats, associationEntries } from "../../lib/aggregates/compute.ts";
+import {
+  relatedAssociations,
+  associationHubTitle,
+  associationShortName,
+} from "../../lib/data/association-hubs.ts";
+import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
+import { homePath, associationPath, associationsPath, associationUrl } from "../../lib/routing/paths.ts";
+import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
+import siteConfig from "../../../config/site.config.ts";
+
+export function getStaticPaths() {
+  const dataset = loadDataset();
+  return dataset.associations.flatMap((association) => {
+    const count = computeAssociationStats(dataset.entries, association.id).listingCount;
+    const { index, noindex } = shouldIndexAssociation(count);
+    if (!index && !noindex) return [];
+    return {
+      params: { id: association.slug },
+      props: { associationId: association.id, noindex },
+    };
+  });
+}
+
+const { associationId, noindex } = Astro.props;
+const dataset = loadDataset();
+const association = dataset.associations.find((item) => item.id === associationId)!;
+const openEntries = sortEntriesByRichness(associationEntries(dataset.entries, associationId));
+const stats = computeAssociationStats(dataset.entries, associationId);
+const intro = dataset.associationIntros.get(associationId);
+const faq = dataset.associationFaqs.get(associationId);
+const cards = openEntries.map((e) =>
+  toEntryCardViewModel(e, dataset.categories, dataset.areas),
+);
+const jsonLd = buildCollectionJsonLd("association", association, openEntries, stats, faq?.faq);
+const related = relatedAssociations(dataset.entries, associationId, dataset.associations).filter(
+  (item) => shouldIndexAssociation(item.count).index,
+);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const pageSize = siteConfig.pagination.associationPageSize;
+const currentPage = 1;
+const lastPage = computeTotalPages(openEntries.length, pageSize);
+const pageEntries = pageSlice(cards, currentPage, pageSize);
+const title = associationHubTitle(association);
+const shortName = associationShortName(association);
+---
+
+<BaseLayout
+  title={title}
+  description={intro?.intro ?? association.description}
+  canonical={associationUrl(association.slug)}
+  noindex={noindex}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <Breadcrumbs
+    items={[
+      { label: "Startseite", href: homePath() },
+      { label: "Verbände", href: associationsPath() },
+      { label: shortName },
+    ]}
+  />
+  <article data-testid="association-page">
+    <h1>{title}</h1>
+    {intro && <p style="margin: 1rem 0;" data-testid="association-intro">{intro.intro}</p>}
+    <div class="grid grid-2">
+      {pageEntries.map((card) => <EntryCard card={card} />)}
+    </div>
+    <PaginationNav
+      currentPage={currentPage}
+      totalPages={lastPage}
+      basePath={associationPath(association.slug)}
+    />
+    {related.length > 0 && (
+      <section style="margin: 2rem 0;">
+        <h2>Weitere Verbände</h2>
+        <p class="tag-list">
+          {related.map((item) => (
+            <a href={associationPath(item.slug)} class="tag" data-testid="related-association">
+              {item.name}
+            </a>
+          ))}
+        </p>
+      </section>
+    )}
+    {faq && <FaqSection items={faq.faq} />}
+    {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
+  </article>
+</BaseLayout>

@@ -46,6 +46,7 @@ export const siteConfigSchema = z.object({
     minListingsForCategoryPage: z.number().int().positive(),
     minListingsForAreaPage: z.number().int().positive(),
     minListingsForIndicationPage: z.number().int().positive(),
+    minListingsForAssociationPage: z.number().int().positive(),
     autoApprove: z.object({
       enabled: z.boolean(),
       requireDescription: z.boolean(),
@@ -70,6 +71,7 @@ export const siteConfigSchema = z.object({
     categoryPageSize: z.number().int().positive(),
     areaPageSize: z.number().int().positive(),
     indicationPageSize: z.number().int().positive(),
+    associationPageSize: z.number().int().positive(),
   }),
 });
 

@@ -3,7 +3,10 @@ import { z } from "zod";
 export const associationSchema = z.object({
   id: z.string().min(1),
   name: z.string().min(1),
+  slug: z.string().min(1),
   abbreviation: z.string().min(1).optional(),
+  description: z.string().min(1),
+  kind: z.enum(["verband", "zertifikat"]).optional().default("verband"),
   synonyms: z.array(z.string().min(2)).min(1),
   forbidIfPrecededBy: z.array(z.string().min(1)).optional(),
 });

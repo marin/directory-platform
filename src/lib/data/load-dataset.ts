@@ -64,9 +64,11 @@ export interface Dataset {
   categoryIntros: Map<string, GeneratedIntro>;
   areaIntros: Map<string, GeneratedIntro>;
   indicationIntros: Map<string, GeneratedIntro>;
+  associationIntros: Map<string, GeneratedIntro>;
   categoryFaqs: Map<string, GeneratedFaq>;
   areaFaqs: Map<string, GeneratedFaq>;
   indicationFaqs: Map<string, GeneratedFaq>;
+  associationFaqs: Map<string, GeneratedFaq>;
   reviews: Map<string, Review[]>;
 }
 
@@ -115,6 +117,14 @@ export function loadDataset(): Dataset {
   for (const { data } of readJsonDir("data/generated/indication-faqs", generatedFaqSchema)) {
     indicationFaqs.set(data.id, data);
   }
+  const associationIntros = new Map<string, GeneratedIntro>();
+  for (const { data } of readJsonDir("data/generated/association-intros", generatedIntroSchema)) {
+    associationIntros.set(data.id, data);
+  }
+  const associationFaqs = new Map<string, GeneratedFaq>();
+  for (const { data } of readJsonDir("data/generated/association-faqs", generatedFaqSchema)) {
+    associationFaqs.set(data.id, data);
+  }
 
   const reviews = new Map<string, Review[]>();
   const reviewsDir = join(ROOT, "data/reviews");
@@ -137,9 +147,11 @@ export function loadDataset(): Dataset {
     categoryIntros,
     areaIntros,
     indicationIntros,
+    associationIntros,
     categoryFaqs,
     areaFaqs,
     indicationFaqs,
+    associationFaqs,
     reviews,
   };
 }
@@ -281,6 +293,11 @@ export function validateDataset(): ValidationIssue[] {
     for (const indication of indications) {
       liveRoutes.add(`/indikation/${indication.slug}`);
     }
+    liveRoutes.add("/indikation");
+    for (const association of associations) {
+      liveRoutes.add(`/verband/${association.slug}`);
+    }
+    liveRoutes.add("/verband");
     for (const [i, redirect] of redirects.entries()) {
       if (!redirect.to.startsWith("/")) {
         issues.push({
@@ -297,7 +314,16 @@ export function validateDataset(): ValidationIssue[] {
         const catTarget = categories.find((c) => `/category/${c.slug}` === redirect.to);
         const areaTarget = areas.find((a) => `/area/${a.slug}` === redirect.to);
         const indicationTarget = indications.find((item) => `/indikation/${item.slug}` === redirect.to);
-        if (!catTarget && !areaTarget && !indicationTarget && redirect.to !== "/") {
+        const associationTarget = associations.find((item) => `/verband/${item.slug}` === redirect.to);
+        if (
+          !catTarget &&
+          !areaTarget &&
+          !indicationTarget &&
+          !associationTarget &&
+          redirect.to !== "/" &&
+          redirect.to !== "/indikation" &&
+          redirect.to !== "/verband"
+        ) {
           issues.push({
             file: "data/redirects.json",
             field: `[${i}].to`,
@@ -381,6 +407,25 @@ export function validateDataset(): ValidationIssue[] {
           file: `data/generated/indication-intros/${indication.id}.json`,
           field: "(missing)",
           message: `indexable indication "${indication.id}" requires approved intro content`,
+        });
+      }
+    }
+    const openByAssociation = new Map<string, number>();
+    for (const entry of dataset.entries.filter((e) => e.isOpen)) {
+      for (const associationId of entry.associationIds ?? []) {
+        openByAssociation.set(associationId, (openByAssociation.get(associationId) ?? 0) + 1);
+      }
+    }
+    for (const association of associations) {
+      const count = openByAssociation.get(association.id) ?? 0;
+      if (
+        count >= siteConfig.quality.minListingsForAssociationPage &&
+        !dataset.associationIntros.has(association.id)
+      ) {
+        issues.push({
+          file: `data/generated/association-intros/${association.id}.json`,
+          field: "(missing)",
+          message: `indexable association "${association.id}" requires approved intro content`,
         });
       }
     }

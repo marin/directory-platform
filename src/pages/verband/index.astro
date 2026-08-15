@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import FaqSection from "../../components/faq/FaqSection.astro";
+import LastUpdated from "../../components/entry/LastUpdated.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { computeCategoryStats, computeAssociationStats } from "../../lib/aggregates/compute.ts";
+import { buildAssociationsIndexCopy } from "../../lib/data/association-hubs.ts";
+import { buildAssociationsIndexJsonLd } from "../../lib/seo/structured-data/builders.ts";
+import { homePath, associationPath, associationsUrl } from "../../lib/routing/paths.ts";
+import siteConfig from "../../../config/site.config.ts";
+
+const dataset = loadDataset();
+const copy = buildAssociationsIndexCopy(dataset.entries, dataset.associations);
+const jsonLd = buildAssociationsIndexJsonLd(
+  copy.hubs,
+  copy.title,
+  copy.description,
+  copy.faq,
+);
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const mostRecentUpdate = copy.hubs
+  .map((hub) => computeAssociationStats(dataset.entries, hub.id).mostRecentUpdate)
+  .filter((date): date is string => Boolean(date))
+  .sort()
+  .at(-1);
+---
+
+<BaseLayout
+  title={copy.title}
+  description={copy.description}
+  canonical={associationsUrl()}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+  <Breadcrumbs
+    items={[
+      { label: "Startseite", href: homePath() },
+      { label: "Verbände" },
+    ]}
+  />
+  <article data-testid="associations-index">
+    <h1>{copy.title}</h1>
+    <p style="margin: 1rem 0;" data-testid="associations-index-intro">{copy.intro}</p>
+    <div class="grid grid-3">
+      {copy.hubs.map((hub) => (
+        <a
+          href={associationPath(hub.slug)}
+          class="card"
+          style="text-decoration: none; color: inherit;"
+          data-testid="associations-index-hub"
+        >
+          <strong>{hub.name}</strong>
+          <p class="muted">{hub.count} {siteConfig.directory.entryPlural}</p>
+        </a>
+      ))}
+    </div>
+    <FaqSection items={copy.faq} />
+    {mostRecentUpdate && <LastUpdated date={mostRecentUpdate} />}
+  </article>
+</BaseLayout>

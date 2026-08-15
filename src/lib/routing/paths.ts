@@ -45,6 +45,22 @@ export function indicationsUrl(): string {
   return absoluteUrl(indicationsPath());
 }
 
+export function associationPath(slug: string, page = 1): string {
+  return page <= 1 ? `/verband/${slug}` : `/verband/${slug}/${page}`;
+}
+
+export function associationsPath(): string {
+  return "/verband";
+}
+
+export function associationUrl(slug: string, page = 1): string {
+  return absoluteUrl(associationPath(slug, page));
+}
+
+export function associationsUrl(): string {
+  return absoluteUrl(associationsPath());
+}
+
 export function homePath(): string {
   return "/";
 }

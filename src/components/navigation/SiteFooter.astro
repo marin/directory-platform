@@ -1,6 +1,6 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
-import { indicationsPath } from "../../lib/routing/paths.ts";
+import { indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
 ---
 
 <footer class="site-footer">
@@ -8,6 +8,7 @@ import { indicationsPath } from "../../lib/routing/paths.ts";
     <nav aria-label="Rechtliches und Service">
       <ul class="site-footer__links">
         <li><a href={indicationsPath()}>Beschwerden</a></li>
+        <li><a href={associationsPath()}>Verbände</a></li>
         <li><a href="/impressum">Impressum</a></li>
         <li><a href="/datenschutz">Datenschutz</a></li>
         <li><a href="/kontakt">Kontakt</a></li>

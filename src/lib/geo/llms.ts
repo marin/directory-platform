@@ -1,7 +1,7 @@
 import siteConfig from "../../../config/site.config.ts";
 import type { Dataset } from "../data/load-dataset.ts";
-import { computeAggregateStats, computeCategoryStats, computeAreaStats, computeIndicationStats } from "../aggregates/compute.ts";
-import { absoluteUrl, categoryPath, indicationPath, indicationsPath, entryPath } from "../routing/paths.ts";
+import { computeAggregateStats, computeCategoryStats, computeAreaStats, computeIndicationStats, computeAssociationStats } from "../aggregates/compute.ts";
+import { absoluteUrl, categoryPath, indicationPath, indicationsPath, associationPath, associationsPath, entryPath } from "../routing/paths.ts";
 import { buildAggregateFactText } from "../seo/structured-data/builders.ts";
 
 export function buildLlmsTxt(dataset: Dataset): string {
@@ -35,6 +35,18 @@ export function buildLlmsTxt(dataset: Dataset): string {
     if (stats.listingCount === 0) continue;
     lines.push(
       `- ${indication.name}: ${stats.listingCount} Einträge — ${absoluteUrl(indicationPath(indication.slug))}`,
+    );
+  }
+  lines.push("", "## Verbände");
+  lines.push(`Übersicht: ${absoluteUrl(associationsPath())}`);
+  for (const association of dataset.associations) {
+    const stats = computeAssociationStats(dataset.entries, association.id);
+    if (stats.listingCount === 0) continue;
+    const label = association.abbreviation
+      ? `${association.name} (${association.abbreviation})`
+      : association.name;
+    lines.push(
+      `- ${label}: ${stats.listingCount} Einträge — ${absoluteUrl(associationPath(association.slug))}`,
     );
   }
   return lines.join("\n");

@@ -53,9 +53,13 @@ const hasBadges = vm.badges.length > 0;
     hasAssociations && (
       <p class="tag-list" data-testid="entry-associations">
         {vm.associations.map((association) => (
-          <span class="tag tag-static" data-testid={`entry-association-${association.id}`}>
+          <a
+            href={association.href}
+            class="tag"
+            data-testid={`entry-association-${association.id}`}
+          >
             {association.label}
-          </span>
+          </a>
         ))}
       </p>
     )

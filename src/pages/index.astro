@@ -3,12 +3,13 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import SiteHeader from "../components/navigation/SiteHeader.astro";
 import EntryCard from "../components/cards/EntryCard.astro";
 import { loadDataset } from "../lib/data/load-dataset.ts";
-import { computeCategoryStats, computeIndicationStats } from "../lib/aggregates/compute.ts";
+import { computeCategoryStats, computeIndicationStats, computeAssociationStats } from "../lib/aggregates/compute.ts";
 import {
   toEntryCardViewModel,
   shouldIndexIndication,
+  shouldIndexAssociation,
 } from "../lib/data/view-models/entry.ts";
-import { indicationPath, indicationsPath } from "../lib/routing/paths.ts";
+import { indicationPath, indicationsPath, associationPath, associationsPath } from "../lib/routing/paths.ts";
 import JsonLd from "../components/seo/JsonLd.astro";
 import { buildOrganizationJsonLd } from "../lib/seo/structured-data/organization.ts";
 import siteConfig from "../../config/site.config.ts";
@@ -28,6 +29,13 @@ const indicationsWithCounts = dataset.indications
     count: computeIndicationStats(dataset.entries, indication.id).listingCount,
   }))
   .filter((indication) => shouldIndexIndication(indication.count).index)
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
+const associationsWithCounts = dataset.associations
+  .map((association) => ({
+    ...association,
+    count: computeAssociationStats(dataset.entries, association.id).listingCount,
+  }))
+  .filter((association) => shouldIndexAssociation(association.count).index)
   .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
 ---
 
@@ -68,6 +76,20 @@ const indicationsWithCounts = dataset.indications
           <a href={indicationPath(indication.slug)} class="card" style="text-decoration: none; color: inherit;" data-testid="home-indication">
             <strong>{indication.name}</strong>
             <p class="muted">{indication.count} {siteConfig.directory.entryPlural}</p>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  {associationsWithCounts.length > 0 && (
+    <>
+      <h2><a href={associationsPath()} data-testid="home-associations-heading">Nach Verband</a></h2>
+      <div class="grid grid-3">
+        {associationsWithCounts.map((association) => (
+          <a href={associationPath(association.slug)} class="card" style="text-decoration: none; color: inherit;" data-testid="home-association">
+            <strong>{association.abbreviation ?? association.name}</strong>
+            <p class="muted">{association.count} {siteConfig.directory.entryPlural}</p>
           </a>
         ))}
       </div>

@@ -170,6 +170,11 @@ describe("formatCredentialsLine", () => {
     expect(formatCredentialsLine([], [fdh, agtcm])).toBe("Mitglied im FDH und im AGTCM.");
   });
 
+  it("labels a certificate separately from membership", () => {
+    const shz = associations.find((item) => item.id === "shz")!;
+    expect(formatCredentialsLine([], [shz])).toBe("SHZ-zertifiziert.");
+  });
+
   it("returns undefined when empty", () => {
     expect(formatCredentialsLine([], [])).toBeUndefined();
   });
@@ -179,5 +184,10 @@ describe("formatAssociationChip", () => {
   it("uses the abbreviation", () => {
     const vod = associations.find((item) => item.id === "vod")!;
     expect(formatAssociationChip(vod)).toBe("Mitglied im VOD");
+  });
+
+  it("labels certificates without Mitglied", () => {
+    const shz = associations.find((item) => item.id === "shz")!;
+    expect(formatAssociationChip(shz)).toBe("SHZ-zertifiziert");
   });
 });

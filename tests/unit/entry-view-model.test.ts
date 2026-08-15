@@ -63,7 +63,9 @@ describe("toEntryViewModel", () => {
       dataset.indications,
       dataset.associations,
     );
-    expect(vm.associations).toEqual([{ id: "vod", label: "Mitglied im VOD" }]);
+    expect(vm.associations).toEqual([
+      { id: "vod", label: "Mitglied im VOD", href: "/verband/vod" },
+    ]);
     expect(vm.credentialsLine).toBe("Diplom-Physiotherapeutin. Mitglied im VOD.");
   });
 });

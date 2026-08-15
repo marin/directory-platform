@@ -4,7 +4,7 @@ import type { Category } from "../../validation/category-schema.ts";
 import type { Area } from "../../validation/area-schema.ts";
 import type { Indication } from "../../validation/indication-schema.ts";
 import type { Association } from "../../validation/association-schema.ts";
-import { categoryPath, areaPath, indicationPath, indicationsPath, absoluteUrl, entryPath, homePath, homeUrl } from "../../routing/paths.ts";
+import { categoryPath, areaPath, indicationPath, indicationsPath, associationPath, associationsPath, absoluteUrl, entryPath, homePath, homeUrl } from "../../routing/paths.ts";
 import type { AggregateStats } from "../../aggregates/compute.ts";
 import { formatPrice } from "../../aggregates/compute.ts";
 import {
@@ -97,6 +97,7 @@ export function buildListingJsonLd(
     business.memberOf = associations.map((item) => ({
       "@type": "Organization",
       name: item.abbreviation ? `${item.name} (${item.abbreviation})` : item.name,
+      url: absoluteUrl(associationPath(item.slug)),
     }));
   }
 
@@ -153,8 +154,8 @@ export function buildListingJsonLd(
 }
 
 export function buildCollectionJsonLd(
-  type: "category" | "area" | "indication",
-  item: { name: string; slug: string },
+  type: "category" | "area" | "indication" | "association",
+  item: { name: string; slug: string; abbreviation?: string; kind?: "verband" | "zertifikat" },
   entries: NormalizedEntry[],
   stats: AggregateStats,
   faq?: Array<{ question: string; answer: string }>,
@@ -164,11 +165,18 @@ export function buildCollectionJsonLd(
       ? categoryPath(item.slug)
       : type === "area"
         ? areaPath(item.slug)
-        : indicationPath(item.slug);
+        : type === "association"
+          ? associationPath(item.slug)
+          : indicationPath(item.slug);
+  const associationShort = item.abbreviation ?? item.name;
   const listName =
     type === "indication"
       ? `${siteConfig.directory.entryPlural} für ${item.name} in ${siteConfig.geography.locality}`
-      : item.name;
+      : type === "association"
+        ? item.kind === "zertifikat"
+          ? `${siteConfig.directory.entryPlural} mit ${associationShort}-Zertifikat in ${siteConfig.geography.locality}`
+          : `${siteConfig.directory.entryPlural} im ${associationShort} in ${siteConfig.geography.locality}`
+        : item.name;
   const breadcrumbs = buildBreadcrumbList(
     type === "indication"
       ? [
@@ -176,10 +184,16 @@ export function buildCollectionJsonLd(
           { name: "Beschwerden", path: indicationsPath() },
           { name: item.name, path },
         ]
-      : [
-          { name: "Startseite", path: homePath() },
-          { name: item.name, path },
-        ],
+      : type === "association"
+        ? [
+            { name: "Startseite", path: homePath() },
+            { name: "Verbände", path: associationsPath() },
+            { name: item.name, path },
+          ]
+        : [
+            { name: "Startseite", path: homePath() },
+            { name: item.name, path },
+          ],
   );
 
   const itemList = {
@@ -250,6 +264,66 @@ export function buildIndicationsIndexJsonLd(
         "@type": "MedicalCondition",
         name: hub.name,
         url: absoluteUrl(indicationPath(hub.slug)),
+      },
+    })),
+  };
+
+  const collectionPage = {
+    "@type": "CollectionPage",
+    name: title,
+    description,
+    url,
+    isPartOf: {
+      "@type": "WebSite",
+      name: siteConfig.site.name,
+      url: homeUrl(),
+    },
+    mainEntity: { "@id": `${url}#list` },
+  };
+
+  const graphs: Record<string, unknown>[] = [breadcrumbs, collectionPage, itemList];
+
+  if (faq.length > 0) {
+    graphs.push({
+      "@type": "FAQPage",
+      mainEntity: faq.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: { "@type": "Answer", text: item.answer },
+      })),
+    });
+  }
+
+  return { "@context": "https://schema.org", "@graph": graphs };
+}
+
+export function buildAssociationsIndexJsonLd(
+  hubs: Array<{ name: string; slug: string }>,
+  title: string,
+  description: string,
+  faq: Array<{ question: string; answer: string }>,
+): Record<string, unknown> {
+  const path = associationsPath();
+  const url = absoluteUrl(path);
+  const breadcrumbs = buildBreadcrumbList([
+    { name: "Startseite", path: homePath() },
+    { name: "Verbände", path },
+  ]);
+
+  const itemList = {
+    "@type": "ItemList",
+    "@id": `${url}#list`,
+    name: title,
+    numberOfItems: hubs.length,
+    itemListElement: hubs.map((hub, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: absoluteUrl(associationPath(hub.slug)),
+      name: hub.name,
+      item: {
+        "@type": "Organization",
+        name: hub.name,
+        url: absoluteUrl(associationPath(hub.slug)),
       },
     })),
   };

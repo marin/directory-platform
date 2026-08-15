@@ -122,6 +122,22 @@ export function indicationEntries(
   );
 }
 
+export function computeAssociationStats(
+  entries: NormalizedEntry[],
+  associationId: string,
+): AggregateStats {
+  return computeAggregateStats(associationEntries(entries, associationId));
+}
+
+export function associationEntries(
+  entries: NormalizedEntry[],
+  associationId: string,
+): NormalizedEntry[] {
+  return entries.filter(
+    (e) => e.isOpen && (e.associationIds ?? []).includes(associationId),
+  );
+}
+
 export function formatPrice(amount: number | undefined): string | undefined {
   if (amount === undefined) return undefined;
   return new Intl.NumberFormat(siteConfig.site.defaultLocale, {

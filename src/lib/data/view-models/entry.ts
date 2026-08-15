@@ -10,7 +10,7 @@ import {
   formatPrice,
   type AggregateStats,
 } from "../../aggregates/compute.ts";
-import { entryPath, categoryPath, areaPath, indicationPath } from "../../routing/paths.ts";
+import { entryPath, categoryPath, areaPath, indicationPath, associationPath } from "../../routing/paths.ts";
 import {
   entryImagePath,
   resolveCardImage,
@@ -53,6 +53,7 @@ export interface RelatedEntriesResult {
 export interface EntryAssociationViewModel {
   id: string;
   label: string;
+  href: string;
 }
 
 export interface EntryViewModel {
@@ -139,6 +140,7 @@ export function toEntryViewModel(
     associations: entryAssociations.map((item) => ({
       id: item.id,
       label: formatAssociationChip(item),
+      href: associationPath(item.slug),
     })),
     badges: extractEntryBadgeIds(entry).map((id) => ({
       ...ENTRY_BADGE_META[id],
@@ -307,4 +309,14 @@ export function shouldIndexIndication(
   };
 }
 
-export { categoryPath, areaPath, entryPath, indicationPath };
+export function shouldIndexAssociation(
+  openCount: number,
+): { index: boolean; noindex: boolean } {
+  const min = siteConfig.quality.minListingsForAssociationPage;
+  return {
+    index: openCount >= min,
+    noindex: openCount > 0 && openCount < min,
+  };
+}
+
+export { categoryPath, areaPath, entryPath, indicationPath, associationPath };
