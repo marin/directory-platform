@@ -8,7 +8,7 @@ interface Props {
 const { entry } = Astro.props;
 const hasActions =
   entry.isOpen &&
-  (entry.bookingUrl || entry.website || entry.nap.formattedPhone);
+  (entry.bookingUrl || entry.website || entry.instagramUrl || entry.nap.formattedPhone);
 ---
 
 {
@@ -32,6 +32,16 @@ const hasActions =
           data-testid="cta-website"
         >
           Website
+        </a>
+      )}
+      {entry.instagramUrl && (
+        <a
+          class="cta"
+          href={entry.instagramUrl}
+          rel="noopener noreferrer"
+          data-testid="cta-instagram"
+        >
+          Instagram
         </a>
       )}
       {entry.nap.formattedPhone && (

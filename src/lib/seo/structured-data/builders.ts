@@ -83,7 +83,10 @@ export function buildListingJsonLd(
     entry.googleMapsUrl,
   );
   if (mapsListingUrl) business.hasMap = mapsListingUrl;
-  if (entry.website) business.sameAs = [entry.website];
+  const sameAs = [entry.website, entry.instagramUrl].filter(
+    (url): url is string => Boolean(url),
+  );
+  if (sameAs.length > 0) business.sameAs = sameAs;
   if (detectsHpp(entry)) {
     business.medicalSpecialty = "Psychotherapie";
   }

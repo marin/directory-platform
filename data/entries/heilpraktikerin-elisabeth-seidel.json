@@ -12,6 +12,8 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Nollendorfstraße 25",
     "locality": "Berlin",
@@ -163,5 +165,6 @@
       "question": "Werden die Kosten für die Behandlungen von den Krankenkassen übernommen?",
       "answer": "Die Abrechnung erfolgt auf Basis des Heilpraktiker-Gebührenverzeichnisses. Die Leistungen können von privaten und privaten Zusatzversicherungen übernommen werden oder sind Selbstzahlerleistungen."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/health_e_berlin"
 }

@@ -13,6 +13,8 @@
     "treptow-koepenick"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Zeppelinstraße 79",
     "locality": "Berlin",
@@ -146,5 +148,6 @@
       "question": "Wie werden die Kosten für die Behandlungen abgerechnet?",
       "answer": "Die Behandlungen sind Privatleistungen. Private Krankenversicherungen und Zusatzversicherungen übernehmen die Kosten teilweise oder ganz."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/katja_anelia"
 }

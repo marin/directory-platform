@@ -14,6 +14,8 @@
   "indicationIds": [
     "ruecken"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Seegerstraße 17",
     "locality": "Berlin",
@@ -83,5 +85,6 @@
     "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/3.webp",
     "/images/entries/private-physiotherapie-erik-pudel-i-heilpraktiker-fur-physiotherapie/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/speedwayteam_germany"
 }

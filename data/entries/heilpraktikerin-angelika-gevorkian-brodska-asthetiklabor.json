@@ -16,6 +16,8 @@
     "burnout",
     "kinderwunsch"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Schlüterstraße 4",
     "locality": "Berlin",
@@ -200,5 +202,6 @@
       "question": "Werden die Kosten für die Behandlungen von gesetzlichen Krankenkassen übernommen?",
       "answer": "Die Leistungen werden als Selbstzahlerleistungen erbracht. Gesetzliche Krankenkassen übernehmen die Kosten in der Regel nicht. Private Krankenversicherungen oder Zusatzversicherungen können je nach individuellem Tarif eine teilweise oder vollständige Erstattung gewähren."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/aesthetiklabor_berlin"
 }

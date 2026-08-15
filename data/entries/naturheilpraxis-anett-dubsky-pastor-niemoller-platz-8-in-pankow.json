@@ -12,6 +12,8 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Pastor-Niemöller-Platz 8",
     "locality": "Berlin",
@@ -68,5 +70,6 @@
     "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/3.webp",
     "/images/entries/naturheilpraxis-anett-dubsky-pastor-niemoller-platz-8-in-pankow/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/anettdubsky"
 }

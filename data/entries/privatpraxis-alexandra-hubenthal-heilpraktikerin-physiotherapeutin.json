@@ -12,6 +12,8 @@
     "marzahn-hellersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Privatpraxis im Raum für Dich",
     "locality": "Berlin",
@@ -67,5 +69,6 @@
     "/images/entries/privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin/1.webp",
     "/images/entries/privatpraxis-alexandra-hubenthal-heilpraktikerin-physiotherapeutin/2.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/koerpergespraeche"
 }

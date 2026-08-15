@@ -13,6 +13,7 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [],
   "qualifications": [
     "Ausgebildete Physiotherapeutin"
   ],
@@ -63,5 +64,6 @@
       "question": "Werden die Kosten für die Behandlungen von der Krankenkasse übernommen?",
       "answer": "Alle Behandlungen sind private Leistungen. Eine Rechnung kann erstellt werden, die von privaten Krankenversicherungen erstattet werden kann."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/trainerette.berlin"
 }

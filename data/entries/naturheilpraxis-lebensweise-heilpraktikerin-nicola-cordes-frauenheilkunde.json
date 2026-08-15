@@ -19,6 +19,8 @@
     "wechseljahre",
     "zyklus-hormone"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Marienburger Str. 5A",
     "locality": "Berlin",
@@ -139,5 +141,6 @@
     "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/3.webp",
     "/images/entries/naturheilpraxis-lebensweise-heilpraktikerin-nicola-cordes-frauenheilkunde/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/frauenheilkundeberlin"
 }

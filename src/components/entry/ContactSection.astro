@@ -1,5 +1,6 @@
 ---
 import type { NormalizedEntry } from "../../lib/data/normalize-entry.ts";
+import { instagramHandleFromUrl } from "../../lib/data/extract-instagram.ts";
 import {
   formatGoogleMapsRating,
   formatGoogleMapsRatingsCount,
@@ -15,6 +16,9 @@ const nap = entry.nap;
 const mapsUrl = entry.googleMapsUrl;
 const showGoogleRating = hasGoogleMapsRating(entry);
 const locale = siteConfig.site.defaultLocale;
+const instagramHandle = entry.instagramUrl
+  ? instagramHandleFromUrl(entry.instagramUrl)
+  : undefined;
 ---
 
 <section aria-labelledby="contact-heading">
@@ -71,6 +75,21 @@ const locale = siteConfig.site.defaultLocale;
       <>
         <dt>Website</dt>
         <dd><a href={entry.website} rel="noopener noreferrer">{entry.website}</a></dd>
+      </>
+    )}
+    {entry.instagramUrl && instagramHandle && (
+      <>
+        <dt>Instagram</dt>
+        <dd>
+          <a
+            href={entry.instagramUrl}
+            rel="noopener noreferrer"
+            translate="no"
+            data-testid="nap-instagram"
+          >
+            {instagramHandle}
+          </a>
+        </dd>
       </>
     )}
   </dl>

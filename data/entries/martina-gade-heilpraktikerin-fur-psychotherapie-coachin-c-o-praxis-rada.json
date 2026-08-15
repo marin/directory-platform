@@ -13,6 +13,8 @@
     "friedrichshain-kreuzberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "c/o Praxis RADA",
     "locality": "Berlin",
@@ -92,5 +94,6 @@
       "question": "Wie lange dauert eine Sitzung?",
       "answer": "Einzelsitzungen dauern 60 Minuten und finden online oder draußen (Walk & Talk) statt."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/martinagaede_begleitung"
 }

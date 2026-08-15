@@ -12,6 +12,8 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Schönhauser Allee 84",
     "locality": "Berlin",
@@ -59,5 +61,6 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/sabrina_heilpraktikerin"
 }

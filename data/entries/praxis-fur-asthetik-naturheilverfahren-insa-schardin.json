@@ -12,6 +12,8 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Kurfürstendamm 137",
     "locality": "Berlin",
@@ -78,5 +80,6 @@
       "question": "Werden die Behandlungen von Krankenkassen übernommen?",
       "answer": "Diese Behandlungsmethoden werden von vielen Privat– und Zusatzversicherungen übernommen."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/mesotherapieberlinschardin"
 }

@@ -13,6 +13,8 @@
     "friedrichshain-kreuzberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Straßmannstraße 39",
     "locality": "Berlin",
@@ -81,5 +83,6 @@
       "question": "In welchen Sprachen wird die Therapie angeboten?",
       "answer": "Die Therapie kann auf Englisch, Deutsch oder Russisch durchgeführt werden."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/maxim_therapy"
 }

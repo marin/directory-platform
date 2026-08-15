@@ -13,6 +13,8 @@
     "mitte"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Schwedenstraße 15a",
     "locality": "Berlin",
@@ -120,5 +122,6 @@
       "question": "Gibt es Ermäßigungen für bestimmte Personengruppen?",
       "answer": "Ja, Ermäßigungen sind nach Absprache möglich für Empfänger/Innen von Bürgergeld, Alleinerziehende, Studenten/Innen, Auszubildende und Geringverdiener/Innen ohne Zusatzversicherung."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/praxis_heilimpulse"
 }

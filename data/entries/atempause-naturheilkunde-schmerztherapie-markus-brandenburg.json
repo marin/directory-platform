@@ -13,6 +13,8 @@
     "reinickendorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Falkentaler Steig 13",
     "locality": "Berlin",
@@ -108,5 +110,6 @@
       "question": "Wie lange dauert eine Sitzung?",
       "answer": "Eine Sitzung mit dem BEMER dauert täglich 2x 8 Minuten."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/atempause_berlin"
 }

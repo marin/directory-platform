@@ -45,6 +45,7 @@
     "data:audit:enrichment": "node scripts/data/enrichment-audit.mjs",
     "data:tag:indications": "node scripts/data/tag-indications.mjs",
     "data:tag:credentials": "node scripts/data/tag-credentials.mjs",
+    "data:tag:instagram": "node scripts/data/tag-instagram.mjs",
     "data:review": "node scripts/data/review-report.mjs",
     "data:review:ui": "node scripts/data/review-ui.mjs",
     "entry:publish": "node scripts/publish-entry.mjs",

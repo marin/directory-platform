@@ -34,6 +34,7 @@ const entry = defineCollection({
     phone: z.string().optional(),
     email: z.string().optional(),
     website: z.string().optional(),
+    instagramUrl: z.string().optional(),
     bookingUrl: z.string().optional(),
     openingHours: z
       .array(

@@ -220,6 +220,21 @@ describe("generated site", () => {
     expect(html).toContain('href="/verband"');
   });
 
+  it("renders Instagram when a profile URL is tagged", () => {
+    const taggedEntry = dataset.entries.find(
+      (entry) => entry.isOpen && entry.instagramUrl,
+    );
+    if (!taggedEntry) return;
+
+    const html = readDist(
+      `${siteConfig.directory.entryRoute}/${taggedEntry.slug}/index.html`,
+    );
+    expect(html).toContain('data-testid="nap-instagram"');
+    expect(html).toContain('data-testid="cta-instagram"');
+    expect(html).toContain(taggedEntry.instagramUrl);
+    expect(html).toContain(`"${taggedEntry.instagramUrl}"`);
+  });
+
   it("renders booking CTA when bookingUrl is set", () => {
     const entryWithBooking = dataset.entries.find(
       (entry) => entry.isOpen && entry.bookingUrl,

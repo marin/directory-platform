@@ -13,6 +13,8 @@
     "reinickendorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Am Steinbergpark 57",
     "locality": "Berlin",
@@ -33,5 +35,6 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/naturheilpraxis_tegel"
 }

@@ -13,6 +13,8 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Pariser Str. 52",
     "locality": "Berlin",
@@ -74,5 +76,6 @@
       "question": "Werden die Kosten für die Therapie von der Krankenkasse übernommen?",
       "answer": "Die Therapie ist nur für Selbstzahler verfügbar."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/klarheitundklang"
 }

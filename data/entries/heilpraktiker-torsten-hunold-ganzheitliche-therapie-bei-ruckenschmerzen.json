@@ -15,6 +15,8 @@
   "indicationIds": [
     "ruecken"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Berliner Allee 150",
     "locality": "Berlin",
@@ -70,5 +72,6 @@
       "question": "Wie kann ich einen Ersttermin bei Torsten Hunold vereinbaren?",
       "answer": "Klicke auf den Link, um ein kostenloses Erstgespräch mit mir zu vereinbaren! Innerhalb dieses 60-minütigen Gesprächs werden wir gemeinsam herausfinden, wie wir dieses Konzept bei dir umsetzen können."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/torsten.hunold"
 }

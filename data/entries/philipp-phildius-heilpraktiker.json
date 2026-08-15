@@ -14,6 +14,8 @@
     "charlottenburg-wilmersdorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "bei E. Dehmel",
     "locality": "Berlin",
@@ -69,5 +71,6 @@
     "/images/entries/philipp-phildius-heilpraktiker/3.webp",
     "/images/entries/philipp-phildius-heilpraktiker/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/power.plants.berlin"
 }

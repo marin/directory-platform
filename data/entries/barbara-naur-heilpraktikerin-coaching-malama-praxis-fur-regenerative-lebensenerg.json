@@ -14,6 +14,8 @@
   "indicationIds": [
     "burnout"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Holsteinische Str. 1",
     "locality": "Berlin",
@@ -167,5 +169,6 @@
       "question": "Wie lange dauert eine Sitzung bei Barbara Naur?",
       "answer": "Eine Sitzung dauert 90 Minuten."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/barbara.naur"
 }

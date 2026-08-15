@@ -12,6 +12,8 @@
     "pankow"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Buchholzer Str. 1",
     "locality": "Berlin",
@@ -133,5 +135,6 @@
       "question": "Gibt es spezielle Preise für Kinder?",
       "answer": "Für Kinder und Jugendliche bis zum 25. Lebensjahr werden 20 Euro pro angefangene Viertelstunde berechnet."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/heilpraktikerin_sophia"
 }

@@ -16,6 +16,7 @@
     "burnout",
     "depression"
   ],
+  "associationIds": [],
   "qualifications": [
     "NLP-Master"
   ],
@@ -202,5 +203,6 @@
       "question": "Was kann ich beim Ersttermin erwarten?",
       "answer": "In der Praxis biete ich einen geschützten Raum, um gemeinsam Lösungen zu finden. Arbeiten wir zusammen an Deinen Zielen. Kontaktiere mich für ein unverbindliches Erstgespräch."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/psychotherapie_marcstrueder"
 }

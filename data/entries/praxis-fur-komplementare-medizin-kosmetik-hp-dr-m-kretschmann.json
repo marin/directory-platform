@@ -12,6 +12,8 @@
     "tempelhof-schoeneberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Schützenstraße 8",
     "locality": "Berlin",
@@ -80,5 +82,6 @@
       "question": "Übernehmen die Krankenkassen die Kosten für die Behandlungen?",
       "answer": "Die meisten privaten Krankenkassen übernehmen die Kosten. Heilbehandlungen sind von der Steuer absetzbar."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/prakomed"
 }

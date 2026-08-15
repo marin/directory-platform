@@ -13,6 +13,8 @@
     "tempelhof-schoeneberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Furkastraße 53",
     "locality": "Berlin",
@@ -33,5 +35,6 @@
   "openingHours": [],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/osteopathie_goldschmidt"
 }

@@ -12,6 +12,8 @@
     "treptow-koepenick"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Bölschestraße 101",
     "locality": "Berlin",
@@ -58,5 +60,6 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/anastasiakarg_herpleasure"
 }

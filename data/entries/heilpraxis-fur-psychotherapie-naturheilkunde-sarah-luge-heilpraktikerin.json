@@ -16,6 +16,7 @@
     "burnout",
     "schlafstoerungen"
   ],
+  "associationIds": [],
   "qualifications": [
     "Diplom-Kauffrau"
   ],
@@ -85,5 +86,6 @@
       "question": "Werden die Kosten für die Therapie von Krankenkassen übernommen?",
       "answer": "Die Kosten können teils von privaten Zusatzversicherungen übernommen werden."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/sarahluge_heilpraktikerin"
 }

@@ -61,6 +61,7 @@ export const entrySchema = z.object({
   phone: z.string().optional(),
   email: z.string().email().optional(),
   website: z.string().url().optional(),
+  instagramUrl: z.string().url().optional(),
   bookingUrl: z.string().url().optional(),
   googleMapsUrl: z.string().url().optional(),
   googleMapsRating: z.number().min(1).max(5).optional(),

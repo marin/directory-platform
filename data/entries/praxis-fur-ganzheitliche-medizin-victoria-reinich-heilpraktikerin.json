@@ -14,6 +14,8 @@
   "indicationIds": [
     "darm"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Bennigsenstraße 13",
     "locality": "Berlin",
@@ -145,5 +147,6 @@
       "question": "Kann ich die Behandlung selbst zahlen?",
       "answer": "Ja, es wird eine Rechnung basierend auf der Gebührenordnung für Heilpraktiker ausgestellt."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/hp_victoria_reinich"
 }

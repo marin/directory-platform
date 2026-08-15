@@ -17,6 +17,8 @@
     "darm",
     "migraene"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Florastraße 43",
     "locality": "Berlin",
@@ -130,5 +132,6 @@
     }
   ],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/die_online_heilpraktikerin"
 }

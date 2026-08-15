@@ -15,6 +15,8 @@
   "indicationIds": [
     "allergien"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Metzer Str. 40",
     "locality": "Berlin",
@@ -86,5 +88,6 @@
       "question": "Wie läuft der Ersttermin bei Carolin Leidecker ab?",
       "answer": "Im Erstgespräch werden Ihre Beschwerden, bisherigen Therapien und Vorerkrankungen erfasst, um ein ganzheitliches Bild Ihrer Symptome zu erstellen. Anschließend wird ein individueller Therapieplan erstellt."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/caro.leidecker.heilpraktikerin"
 }

@@ -16,6 +16,8 @@
     "darm",
     "hautprobleme"
   ],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "bei METAFELD",
     "locality": "Berlin",
@@ -63,5 +65,6 @@
       "question": "Wie läuft der Ersttermin bei Heilpraktikerin Monika Groth ab?",
       "answer": "Der Ersttermin umfasst eine strukturierte Diagnostik und ein individuell abgestimmtes Therapiekonzept. Die Begleitung erfolgt in klar definierten Schritten mit Anamnese, gezielter Labordiagnostik und Verlaufskontrolle."
     }
-  ]
+  ],
+  "instagramUrl": "https://www.instagram.com/hp.groth"
 }

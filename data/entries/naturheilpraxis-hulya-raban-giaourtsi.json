@@ -12,6 +12,8 @@
     "friedrichshain-kreuzberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Arndtstraße 11",
     "locality": "Berlin",
@@ -59,5 +61,6 @@
   ],
   "offers": [],
   "images": [],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/naturmedizin_erleben"
 }

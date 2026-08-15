@@ -14,6 +14,7 @@ const SUBSTANTIVE_FIELDS: Array<keyof Entry> = [
   "phone",
   "email",
   "website",
+  "instagramUrl",
   "bookingUrl",
   "openingHours",
   "offers",

@@ -14,6 +14,8 @@
     "tempelhof-schoeneberg"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Wartburgstr. 9",
     "locality": "Berlin",
@@ -70,5 +72,6 @@
     "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/2.webp",
     "/images/entries/janka-kothner-heilpraktikern-homoopathin-und-mentorin/3.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/janka_koethner"
 }

@@ -12,6 +12,8 @@
     "reinickendorf"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Nach d. Höhe 14",
     "locality": "Berlin",
@@ -65,5 +67,6 @@
     "/images/entries/naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm/3.webp",
     "/images/entries/naturheilpraxis-anne-weiss-heilpraktikerin-fur-schilddrusenerkrankungen-und-horm/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/anneweiss.praxis"
 }

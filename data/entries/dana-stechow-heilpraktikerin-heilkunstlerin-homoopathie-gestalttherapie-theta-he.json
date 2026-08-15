@@ -13,6 +13,8 @@
     "mitte"
   ],
   "indicationIds": [],
+  "associationIds": [],
+  "qualifications": [],
   "address": {
     "street": "Zwinglistraße 8",
     "locality": "Berlin",
@@ -73,5 +75,6 @@
     "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/3.webp",
     "/images/entries/dana-stechow-heilpraktikerin-heilkunstlerin-homoopathie-gestalttherapie-theta-he/4.webp"
   ],
-  "faq": []
+  "faq": [],
+  "instagramUrl": "https://www.instagram.com/danamuinara"
 }
