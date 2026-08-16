@@ -1,5 +1,12 @@
-# Example Directory
+# Heilpraktiker in Berlin finden
 
-Welcome to the example directory for Austin, Texas.
+916 Praxen in 12 Bezirken, sortiert nach Schwerpunkt und Lage.
+Wir sammeln öffentlich zugängliche Angaben, prüfen sie stichprobenartig
+und nennen zu jedem Eintrag Quelle und Prüfdatum.
 
-Browse providers by category or area to find services near you.
+Was dieses Verzeichnis nicht tut: bewerten, empfehlen, Behandlungen
+versprechen. Ob eine Methode für Sie geeignet ist, entscheiden Sie
+gemeinsam mit Ihrer Ärztin oder Ihrem Heilpraktiker.
+
+Die Aufnahme ist kostenlos und unabhängig davon, ob eine Praxis
+mit uns zusammenarbeitet.

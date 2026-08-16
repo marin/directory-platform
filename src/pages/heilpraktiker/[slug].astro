@@ -3,17 +3,13 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
 import EntryHeader from "../../components/entry/EntryHeader.astro";
-import EntryCtaBar from "../../components/entry/EntryCtaBar.astro";
-import EntryGoogleRatingSection from "../../components/entry/EntryGoogleRatingSection.astro";
+import EntrySidebar from "../../components/entry/EntrySidebar.astro";
 import OffersSection from "../../components/entry/OffersSection.astro";
-import OpeningHoursSection from "../../components/entry/OpeningHoursSection.astro";
-import ContactSection from "../../components/entry/ContactSection.astro";
 import EntryMapSection from "../../components/entry/EntryMapSection.astro";
 import EntryImagesSection from "../../components/entry/EntryImagesSection.astro";
 import siteConfig from "../../../config/site.config.ts";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import RelatedEntries from "../../components/entry/RelatedEntries.astro";
-import EntryClaimLink from "../../components/entry/EntryClaimLink.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
@@ -90,26 +86,60 @@ const breadcrumbItems = [
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <article data-testid="entry-page">
-    <Breadcrumbs items={breadcrumbItems} />
-    <EntryHeader vm={vm} />
-    {siteConfig.features.images && <EntryImagesSection vm={vm} />}
-    <EntryCtaBar entry={entry} />
-    <EntryClaimLink slug={entry.slug} />
-    <EntryGoogleRatingSection entry={entry} />
-    <section style="margin: 1.5rem 0;">
-      <h2>Über</h2>
-      <p data-testid="entry-description">{entry.description}</p>
-      {vm.credentialsLine && (
-        <p class="muted" data-testid="entry-credentials">{vm.credentialsLine}</p>
-      )}
-    </section>
-    <OffersSection offers={vm.formattedOffers} isOpen={entry.isOpen} />
-    <OpeningHoursSection entry={entry} />
-    {siteConfig.features.map && <EntryMapSection entry={entry} />}
-    <ContactSection entry={entry} />
-    {(entry.faq ?? []).length > 0 && <FaqSection items={entry.faq!} />}
-    <RelatedEntries cards={related} title={relatedResult.title} />
-    <LastUpdated date={entry.lastUpdated} />
+
+  <article data-testid="entry-page" class="profile">
+    <div class="profile__top">
+      <Breadcrumbs items={breadcrumbItems} />
+      <EntryHeader vm={vm} />
+    </div>
+
+    <div class="profile__cols">
+      <div class="profile__main">
+        {siteConfig.features.images && <EntryImagesSection vm={vm} />}
+
+        <section>
+          <h2>Über</h2>
+          <p data-testid="entry-description">{entry.description}</p>
+          {vm.credentialsLine && (
+            <p class="profile__credentials" data-testid="entry-credentials">{vm.credentialsLine}</p>
+          )}
+        </section>
+
+        <OffersSection offers={vm.formattedOffers} isOpen={entry.isOpen} />
+        {siteConfig.features.map && <EntryMapSection entry={entry} />}
+        {(entry.faq ?? []).length > 0 && <FaqSection items={entry.faq!} variant="cards" />}
+        <RelatedEntries cards={related} title={relatedResult.title} />
+        <LastUpdated date={entry.lastUpdated} />
+      </div>
+
+      <EntrySidebar vm={vm} />
+    </div>
   </article>
 </BaseLayout>
+
+<style>
+  .profile { display: flex; flex-direction: column; gap: 2rem; }
+  .profile__cols {
+    display: grid;
+    grid-template-columns: minmax(420px, 1fr) minmax(320px, 440px);
+    gap: 2rem;
+    align-items: start;
+  }
+  .profile__main {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    min-width: 0;
+  }
+  .profile__credentials {
+    margin-top: 0.75rem;
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  @media (max-width: 1023px) {
+    .profile__cols { grid-template-columns: minmax(0, 1fr); }
+    .profile { padding-bottom: 5rem; }
+  }
+</style>

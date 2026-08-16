@@ -2,7 +2,10 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import FilterBar from "../../components/navigation/FilterBar.astro";
 import EntryCard from "../../components/cards/EntryCard.astro";
+import EmptyState from "../../components/layout/EmptyState.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
@@ -16,7 +19,7 @@ import {
 import { computeCategoryStats, computeIndicationStats, indicationEntries } from "../../lib/aggregates/compute.ts";
 import { relatedIndications, indicationHubTitle } from "../../lib/data/indication-hubs.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { homePath, indicationPath, indicationsPath, indicationUrl } from "../../lib/routing/paths.ts";
+import { homePath, indicationPath, indicationsPath, indicationUrl, areaPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import siteConfig from "../../../config/site.config.ts";
 
@@ -56,6 +59,11 @@ const currentPage = 1;
 const lastPage = computeTotalPages(openEntries.length, pageSize);
 const pageEntries = pageSlice(cards, currentPage, pageSize);
 const title = indicationHubTitle(indication.name);
+
+const areaItems = dataset.areas.map((area) => ({
+  name: area.name,
+  href: areaPath(area.slug),
+}));
 ---
 
 <BaseLayout
@@ -66,37 +74,71 @@ const title = indicationHubTitle(indication.name);
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <Breadcrumbs
-    items={[
-      { label: "Startseite", href: homePath() },
-      { label: "Beschwerden", href: indicationsPath() },
-      { label: indication.name },
-    ]}
-  />
-  <article data-testid="indication-page">
-    <h1>{title}</h1>
-    {intro && <p style="margin: 1rem 0;" data-testid="indication-intro">{intro.intro}</p>}
-    <div class="grid grid-2">
-      {pageEntries.map((card) => <EntryCard card={card} />)}
-    </div>
+
+  <article data-testid="indication-page" class="hubpage">
+    <Breadcrumbs
+      items={[
+        { label: "Startseite", href: homePath() },
+        { label: "Beschwerden", href: indicationsPath() },
+        { label: indication.name },
+      ]}
+    />
+
+    <HeroBand
+      eyebrow="Beschwerde"
+      title={title}
+      lead={intro?.intro ?? indication.description}
+      seed={indication.slug}
+    />
+    {intro && <p hidden data-testid="indication-intro">{intro.intro}</p>}
+
+    <FilterBar
+      label="Bezirk wählen"
+      items={areaItems}
+      indexHref="/area"
+      dialogId={`filter-${indication.slug}`}
+    />
+
+    {pageEntries.length > 0 ? (
+      <div class="grid grid-3">
+        {pageEntries.map((card) => <EntryCard card={card} />)}
+      </div>
+    ) : (
+      <EmptyState
+        headline={`Für ${indication.name} liegt uns kein Eintrag vor.`}
+        note="Das heißt nicht, dass es keine Praxis gibt — nur, dass wir keine erfasst haben. Kennen Sie eine?"
+        actions={[
+          { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
+          { label: "Alle Beschwerden", href: indicationsPath() },
+        ]}
+      />
+    )}
+
     <PaginationNav
       currentPage={currentPage}
       totalPages={lastPage}
       basePath={indicationPath(indication.slug)}
     />
+
     {related.length > 0 && (
-      <section style="margin: 2rem 0;">
+      <section>
         <h2>Weitere Beschwerden</h2>
-        <p class="tag-list">
+        <div class="chiprow">
           {related.map((item) => (
-            <a href={indicationPath(item.slug)} class="tag" data-testid="related-indication">
+            <a href={indicationPath(item.slug)} class="chip" data-testid="related-indication">
               {item.name}
             </a>
           ))}
-        </p>
+        </div>
       </section>
     )}
-    {faq && <FaqSection items={faq.faq} />}
+
+    {faq && <FaqSection items={faq.faq} variant="band" />}
     {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
   </article>
 </BaseLayout>
+
+<style>
+  .hubpage { display: flex; flex-direction: column; gap: 2.5rem; }
+  .chiprow { display: flex; flex-wrap: wrap; gap: 12px; }
+</style>

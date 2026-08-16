@@ -2,7 +2,10 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import FilterBar from "../../components/navigation/FilterBar.astro";
 import EntryCard from "../../components/cards/EntryCard.astro";
+import EmptyState from "../../components/layout/EmptyState.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
@@ -20,7 +23,7 @@ import {
   associationShortName,
 } from "../../lib/data/association-hubs.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { homePath, associationPath, associationsPath, associationUrl } from "../../lib/routing/paths.ts";
+import { homePath, associationPath, associationsPath, associationUrl, areaPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import siteConfig from "../../../config/site.config.ts";
 
@@ -61,6 +64,11 @@ const lastPage = computeTotalPages(openEntries.length, pageSize);
 const pageEntries = pageSlice(cards, currentPage, pageSize);
 const title = associationHubTitle(association);
 const shortName = associationShortName(association);
+
+const areaItems = dataset.areas.map((area) => ({
+  name: area.name,
+  href: areaPath(area.slug),
+}));
 ---
 
 <BaseLayout
@@ -71,37 +79,71 @@ const shortName = associationShortName(association);
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <Breadcrumbs
-    items={[
-      { label: "Startseite", href: homePath() },
-      { label: "Verbände", href: associationsPath() },
-      { label: shortName },
-    ]}
-  />
-  <article data-testid="association-page">
-    <h1>{title}</h1>
-    {intro && <p style="margin: 1rem 0;" data-testid="association-intro">{intro.intro}</p>}
-    <div class="grid grid-2">
-      {pageEntries.map((card) => <EntryCard card={card} />)}
-    </div>
+
+  <article data-testid="association-page" class="hubpage">
+    <Breadcrumbs
+      items={[
+        { label: "Startseite", href: homePath() },
+        { label: "Verbände", href: associationsPath() },
+        { label: shortName },
+      ]}
+    />
+
+    <HeroBand
+      eyebrow="Verband"
+      title={title}
+      lead={intro?.intro ?? association.description}
+      seed={association.slug}
+    />
+    {intro && <p hidden data-testid="association-intro">{intro.intro}</p>}
+
+    <FilterBar
+      label="Bezirk wählen"
+      items={areaItems}
+      indexHref="/area"
+      dialogId={`filter-${association.slug}`}
+    />
+
+    {pageEntries.length > 0 ? (
+      <div class="grid grid-3">
+        {pageEntries.map((card) => <EntryCard card={card} />)}
+      </div>
+    ) : (
+      <EmptyState
+        headline={`Für ${shortName} liegt uns kein Eintrag vor.`}
+        note="Das heißt nicht, dass es keine Mitgliedspraxis gibt — nur, dass wir keine erfasst haben."
+        actions={[
+          { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
+          { label: "Alle Verbände", href: associationsPath() },
+        ]}
+      />
+    )}
+
     <PaginationNav
       currentPage={currentPage}
       totalPages={lastPage}
       basePath={associationPath(association.slug)}
     />
+
     {related.length > 0 && (
-      <section style="margin: 2rem 0;">
+      <section>
         <h2>Weitere Verbände</h2>
-        <p class="tag-list">
+        <div class="chiprow">
           {related.map((item) => (
-            <a href={associationPath(item.slug)} class="tag" data-testid="related-association">
+            <a href={associationPath(item.slug)} class="chip" data-testid="related-association">
               {item.name}
             </a>
           ))}
-        </p>
+        </div>
       </section>
     )}
-    {faq && <FaqSection items={faq.faq} />}
+
+    {faq && <FaqSection items={faq.faq} variant="band" />}
     {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
   </article>
 </BaseLayout>
+
+<style>
+  .hubpage { display: flex; flex-direction: column; gap: 2.5rem; }
+  .chiprow { display: flex; flex-wrap: wrap; gap: 12px; }
+</style>

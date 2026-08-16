@@ -2,6 +2,8 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import HubTile from "../../components/cards/HubTile.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
@@ -10,7 +12,6 @@ import { computeCategoryStats, computeIndicationStats } from "../../lib/aggregat
 import { buildIndicationsIndexCopy } from "../../lib/data/indication-hubs.ts";
 import { buildIndicationsIndexJsonLd } from "../../lib/seo/structured-data/builders.ts";
 import { homePath, indicationPath, indicationsUrl } from "../../lib/routing/paths.ts";
-import siteConfig from "../../../config/site.config.ts";
 
 const dataset = loadDataset();
 const copy = buildIndicationsIndexCopy(dataset.entries, dataset.indications);
@@ -31,36 +32,36 @@ const mostRecentUpdate = copy.hubs
   .at(-1);
 ---
 
-<BaseLayout
-  title={copy.title}
-  description={copy.description}
-  canonical={indicationsUrl()}
->
+<BaseLayout title={copy.title} description={copy.description} canonical={indicationsUrl()}>
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <Breadcrumbs
-    items={[
-      { label: "Startseite", href: homePath() },
-      { label: "Beschwerden" },
-    ]}
-  />
-  <article data-testid="indications-index">
-    <h1>{copy.title}</h1>
-    <p style="margin: 1rem 0;" data-testid="indications-index-intro">{copy.intro}</p>
-    <div class="grid grid-3">
+
+  <article data-testid="indications-index" class="hubindex">
+    <Breadcrumbs items={[{ label: "Startseite", href: homePath() }, { label: "Beschwerden" }]} />
+
+    <HeroBand eyebrow="Übersicht" title={copy.title} lead={copy.intro} seed="beschwerden" />
+    <p hidden data-testid="indications-index-intro">{copy.intro}</p>
+
+    <div class="grid grid-4">
       {copy.hubs.map((hub) => (
-        <a
-          href={indicationPath(hub.slug)}
-          class="card"
-          style="text-decoration: none; color: inherit;"
-          data-testid="indications-index-hub"
-        >
-          <strong>{hub.name}</strong>
-          <p class="muted">{hub.count} {siteConfig.directory.entryPlural}</p>
-        </a>
+        <div data-testid="indications-index-hub">
+          <HubTile
+            name={hub.name}
+            count={hub.count}
+            href={indicationPath(hub.slug)}
+            slug={hub.slug}
+          />
+        </div>
       ))}
     </div>
-    <FaqSection items={copy.faq} />
+
+    <FaqSection items={copy.faq} variant="band" />
     {mostRecentUpdate && <LastUpdated date={mostRecentUpdate} />}
   </article>
 </BaseLayout>
+
+<style>
+  .hubindex { display: flex; flex-direction: column; gap: 2.5rem; }
+  .hubindex .grid > div { display: flex; }
+  .hubindex .grid > div > :global(*) { flex: 1; }
+</style>

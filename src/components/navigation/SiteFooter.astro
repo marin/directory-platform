@@ -1,56 +1,115 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
 import { indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
+
+const dataStand = new Intl.DateTimeFormat("de-DE", { month: "long", year: "numeric" }).format(
+  new Date(),
+);
 ---
 
 <footer class="site-footer">
   <div class="container site-footer__inner">
-    <nav aria-label="Rechtliches und Service">
+    <div class="site-footer__col">
+      <p class="site-footer__mark">
+        {siteConfig.site.name}<span class="site-footer__dot" aria-hidden="true"></span>
+      </p>
+      <p class="site-footer__note">
+        naturav ist ein privates Verzeichnis und keine Behörde. Angaben ohne Gewähr.
+      </p>
+    </div>
+
+    <nav class="site-footer__col" aria-label="Verzeichnis">
+      <p class="site-footer__head">Verzeichnis</p>
       <ul class="site-footer__links">
+        <li><a href="/methoden">Methoden</a></li>
         <li><a href={indicationsPath()}>Beschwerden</a></li>
+        <li><a href="/area">Bezirke</a></li>
         <li><a href={associationsPath()}>Verbände</a></li>
+        <li><a href="/eintrag-melden">Praxis eintragen</a></li>
+      </ul>
+    </nav>
+
+    <nav class="site-footer__col" aria-label="Rechtliches und Service">
+      <p class="site-footer__head">Rechtliches</p>
+      <ul class="site-footer__links">
+        <li><a href="/ueber-uns">Über uns</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
         <li><a href="/impressum">Impressum</a></li>
         <li><a href="/datenschutz">Datenschutz</a></li>
-        <li><a href="/kontakt">Kontakt</a></li>
-        <li><a href="/ueber-uns">Über uns</a></li>
-        <li><a href="/eintrag-melden">Eintrag melden</a></li>
         <li><a href="/nutzungsbedingungen">Nutzungsbedingungen</a></li>
       </ul>
     </nav>
-    <p class="site-footer__copy">
-      &copy; {new Date().getFullYear()} {siteConfig.site.name} · Betrieben von {siteConfig.operator.name}
-    </p>
+  </div>
+
+  <div class="container site-footer__base">
+    <p>&copy; {new Date().getFullYear()} {siteConfig.site.name} · Betrieben von {siteConfig.operator.name}</p>
+    <p>Datenstand: {dataStand}</p>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    border-top: 1px solid var(--color-border);
-    padding: 2rem 0;
-    margin-top: 2rem;
-    color: var(--color-muted);
-    font-size: 0.875rem;
+    background: var(--color-text);
+    color: var(--color-bg);
+    padding: 3rem 0 2rem;
+    margin-top: 4rem;
   }
   .site-footer__inner {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr) minmax(0, 1fr);
+    gap: 2rem;
+  }
+  .site-footer__mark {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 4px;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 1.25rem;
+  }
+  .site-footer__dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 999px;
+    background: var(--color-signal);
+  }
+  .site-footer__note {
+    margin-top: 0.75rem;
+    max-width: 34ch;
+    font-size: 0.875rem;
+    color: var(--color-border);
+  }
+  .site-footer__head {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-signal);
+    margin-bottom: 0.75rem;
   }
   .site-footer__links {
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem 1.25rem;
+    flex-direction: column;
+    gap: 0.5rem;
     list-style: none;
+    font-size: 0.9375rem;
   }
-  .site-footer__links a {
-    color: var(--color-muted);
-    text-decoration: none;
+  .site-footer__links a { color: var(--color-bg); text-decoration: none; }
+  .site-footer__links a:visited { color: var(--color-bg); }
+  .site-footer__links a:hover { color: var(--color-signal); text-decoration: underline; }
+  .site-footer__base {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem 1.5rem;
+    margin-top: 2.5rem;
+    padding-top: 1.25rem;
+    border-top: 2px dashed var(--color-border-dark);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--color-border);
   }
-  .site-footer__links a:hover {
-    color: var(--color-accent);
-    text-decoration: underline;
-  }
-  .site-footer__copy {
-    margin: 0;
+  @media (max-width: 900px) {
+    .site-footer__inner { grid-template-columns: minmax(0, 1fr); }
   }
 </style>

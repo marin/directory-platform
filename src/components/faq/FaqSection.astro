@@ -1,18 +1,66 @@
 ---
 interface Props {
   items: Array<{ question: string; answer: string }>;
+  variant?: "band" | "cards";
 }
-const { items } = Astro.props;
+const { items, variant = "cards" } = Astro.props;
 ---
 
-<section aria-labelledby="faq-heading">
+<section class:list={["faq", `faq--${variant}`]} aria-labelledby="faq-heading">
   <h2 id="faq-heading">Häufig gestellte Fragen</h2>
-  <dl>
+  <dl class="faq__list">
     {items.map((item) => (
-      <>
-        <dt style="font-weight: 600; margin-top: 1rem;">{item.question}</dt>
-        <dd>{item.answer}</dd>
-      </>
+      <div class="faq__item">
+        <dt class="faq__q">{item.question}</dt>
+        <dd class="faq__a">{item.answer}</dd>
+      </div>
     ))}
   </dl>
 </section>
+
+<style>
+  .faq__list { margin-top: 1.25rem; }
+  .faq__q {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .faq__a { margin: 0.5rem 0 0; }
+
+  /* Hub-Seiten: Rosé-Band, zweispaltig */
+  .faq--band {
+    background: var(--color-soft);
+    border-radius: var(--radius-panel);
+    padding: 2rem;
+    color: #3c2340;
+  }
+  .faq--band :global(h2) { color: #3c2340; }
+  .faq--band .faq__list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 2.5rem;
+  }
+  .faq--band .faq__item {
+    padding-top: 1rem;
+    border-top: 2px dashed rgb(60 35 64 / 0.35);
+  }
+
+  /* Profil: gestapelte Karten */
+  .faq--cards .faq__list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .faq--cards .faq__item {
+    background: var(--color-surface);
+    border: var(--border-card);
+    border-radius: var(--radius);
+    padding: 1.125rem 1.25rem;
+  }
+
+  @media (max-width: 768px) {
+    .faq--band { padding: 1.5rem 1.25rem; }
+    .faq--band .faq__list { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>

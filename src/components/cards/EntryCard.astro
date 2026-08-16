@@ -2,70 +2,126 @@
 import type { EntryCardViewModel } from "../../lib/data/view-models/entry.ts";
 import { hasGoogleMapsRating } from "../../lib/geo/google-maps-rating.ts";
 import GoogleMapsRating from "../entry/GoogleMapsRating.astro";
+import ImagePlaceholder from "../media/ImagePlaceholder.astro";
+import { truncateOnWord } from "../../lib/text/truncate.ts";
 
 interface Props {
   card: EntryCardViewModel;
 }
 const { card } = Astro.props;
 const showGoogleRating = hasGoogleMapsRating(card);
+const description = truncateOnWord(card.description, 160);
 ---
 
-<article class="card">
-  <div class:list={["card-body", card.primaryImage && "card-body--with-image"]}>
-    {
-      card.primaryImage && (
-        <img
-          src={card.primaryImage}
-          alt=""
-          width="80"
-          height="80"
-          loading="lazy"
-          decoding="async"
-          class="card-thumb"
-          data-testid="entry-card-image"
-        />
-      )
-    }
-    <div class="card-content">
-      <h3 style="font-size: 1rem; margin-bottom: 0.25rem;">
-        <a href={card.href}>{card.name}</a>
-        {!card.isOpen && <span class="badge" style="margin-left: 0.5rem;">Geschlossen</span>}
-      </h3>
-      <p class="muted" style="font-size: 0.875rem;">{card.primaryCategory}{card.areaName ? ` · ${card.areaName}` : ""}</p>
-      {
-        showGoogleRating && (
-          <GoogleMapsRating
-            rating={card.googleMapsRating!}
-            ratingsCount={card.googleMapsRatingsCount!}
-            mapsUrl={card.googleMapsUrl}
-            variant="compact"
-          />
-        )
-      }
-      <p style="font-size: 0.9rem; margin-top: 0.5rem;">{card.description}</p>
+<article class="ecard">
+  {card.primaryImage ? (
+    <img
+      src={card.primaryImage}
+      alt=""
+      width="400"
+      height="168"
+      loading="lazy"
+      decoding="async"
+      class="ecard__image"
+      data-testid="entry-card-image"
+    />
+  ) : (
+    <ImagePlaceholder height={168} seed={card.primaryCategory || card.slug} />
+  )}
+
+  <div class="ecard__body">
+    <div class="ecard__chips">
+      {card.primaryCategory && <span class="chip chip--sm chip--method">{card.primaryCategory}</span>}
+      {!card.isOpen && <span class="chip chip--sm chip--closed">Dauerhaft geschlossen</span>}
     </div>
+
+    <h3 class="ecard__title"><a href={card.href}>{card.name}</a></h3>
+
+    <p class="ecard__meta">
+      {[card.primaryCategory, card.areaName].filter(Boolean).join(" · ")}
+    </p>
+
+    <p class="ecard__text">{description}</p>
+  </div>
+
+  <div class="ecard__foot">
+    {showGoogleRating ? (
+      <GoogleMapsRating
+        rating={card.googleMapsRating!}
+        ratingsCount={card.googleMapsRatingsCount!}
+        mapsUrl={card.googleMapsUrl}
+        variant="compact"
+      />
+    ) : (
+      <span class="ecard__norating">keine Bewertung erfasst</span>
+    )}
+    <a class="ecard__link" href={card.href} tabindex="-1" aria-hidden="true">Profil ansehen →</a>
   </div>
 </article>
 
 <style>
-  .card-body {
-    display: block;
-  }
-  .card-body--with-image {
+  .ecard {
     display: flex;
-    gap: 1rem;
-    align-items: flex-start;
-  }
-  .card-thumb {
-    flex-shrink: 0;
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-    border-radius: var(--radius);
-    border: 1px solid var(--color-border);
+    flex-direction: column;
+    min-height: 420px;
     background: var(--color-surface);
+    border: var(--border-card);
+    border-radius: var(--radius);
+    padding: 16px;
+    gap: 14px;
+    transition: transform 120ms ease;
   }
-  .card-content {
-    min-width: 0;
+  .ecard:hover { transform: translateY(-2px); }
+  .ecard__image {
+    width: 100%;
+    height: 168px;
+    object-fit: cover;
+    border-radius: var(--radius-tile);
+    border: 2px solid var(--color-text);
+    background: var(--color-bg);
+  }
+  .ecard__body { display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0; }
+  .ecard__chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .ecard__title {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.15;
+    hyphens: auto;
+    overflow-wrap: anywhere;
+  }
+  .ecard__title a { color: var(--color-text); text-decoration: none; }
+  .ecard__title a:visited { color: var(--color-text); }
+  .ecard__title a:hover { color: var(--color-accent); }
+  .ecard__meta {
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    color: var(--color-muted);
+  }
+  .ecard__text {
+    font-size: 0.9375rem;
+    color: var(--color-body);
+  }
+  .ecard__foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    padding-top: 12px;
+    border-top: 2px dashed var(--color-border);
+    font-family: var(--font-mono);
+    font-size: 13px;
+  }
+  .ecard__norating { color: var(--color-muted); }
+  .ecard__link {
+    font-weight: 700;
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  .ecard:hover .ecard__link { text-decoration: underline; }
+
+  @media (max-width: 639px) {
+    .ecard { min-height: 0; }
   }
 </style>

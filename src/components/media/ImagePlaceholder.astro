@@ -1,0 +1,49 @@
+---
+import { stripeColors } from "../../lib/theme/hubColors.ts";
+
+interface Props {
+  height?: 168 | 100 | 74;
+  label?: string;
+  seed: string;
+}
+
+const { height = 168, label, seed } = Astro.props;
+const { c1, c2 } = stripeColors(seed);
+const showLabel = Boolean(label) && height >= 100;
+---
+
+<div
+  class="placeholder"
+  role="presentation"
+  style={`height:${height}px;--stripe-a:${c1};--stripe-b:${c2};`}
+>
+  {showLabel && <span class="placeholder__label">{label}</span>}
+</div>
+
+<style>
+  .placeholder {
+    position: relative;
+    width: 100%;
+    border-radius: var(--radius-tile);
+    border: 2px solid var(--color-text);
+    background-image: repeating-linear-gradient(
+      135deg,
+      var(--stripe-a) 0 12px,
+      var(--stripe-b) 12px 24px
+    );
+    overflow: hidden;
+  }
+  .placeholder__label {
+    position: absolute;
+    left: 12px;
+    bottom: 12px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text);
+    background: var(--color-bg);
+    border-radius: var(--radius-pill);
+    padding: 2px 8px;
+  }
+</style>

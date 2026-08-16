@@ -1,7 +1,10 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import SiteHeader from "../components/navigation/SiteHeader.astro";
+import HeroBand from "../components/layout/HeroBand.astro";
+import HubTile from "../components/cards/HubTile.astro";
 import EntryCard from "../components/cards/EntryCard.astro";
+import NoticeCard from "../components/cards/NoticeCard.astro";
 import { loadDataset } from "../lib/data/load-dataset.ts";
 import { computeCategoryStats, computeIndicationStats, computeAssociationStats } from "../lib/aggregates/compute.ts";
 import {
@@ -9,19 +12,21 @@ import {
   shouldIndexIndication,
   shouldIndexAssociation,
 } from "../lib/data/view-models/entry.ts";
-import { indicationPath, indicationsPath, associationPath, associationsPath } from "../lib/routing/paths.ts";
+import { indicationPath, indicationsPath, associationPath, associationsPath, areaPath, categoryPath } from "../lib/routing/paths.ts";
 import JsonLd from "../components/seo/JsonLd.astro";
 import { buildOrganizationJsonLd } from "../lib/seo/structured-data/organization.ts";
 import siteConfig from "../../config/site.config.ts";
 
 const dataset = loadDataset();
+const openEntries = dataset.entries.filter((e) => e.isOpen);
+const totalOpen = openEntries.length;
+
 const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
-const featured = dataset.entries
-  .filter((e) => e.isOpen)
-  .slice(0, 6)
+const featured = openEntries
+  .slice(0, 5)
   .map((e) => toEntryCardViewModel(e, dataset.categories, dataset.areas));
 const indicationsWithCounts = dataset.indications
   .map((indication) => ({
@@ -37,67 +42,142 @@ const associationsWithCounts = dataset.associations
   }))
   .filter((association) => shouldIndexAssociation(association.count).index)
   .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
+
+const areaCount = dataset.areas.length;
+const withImage = openEntries.filter((e) => (e.images ?? []).length > 0).length;
+const pageTitle = `${siteConfig.site.name} — ${totalOpen} Praxen nach Schwerpunkt und Bezirk`;
+const pageDescription = `Unabhängiges Verzeichnis: Heilpraktiker-Praxen in Berlin nach Schwerpunkt, Bezirk und Beschwerde. Mit Quelle und Prüfdatum je Eintrag.`;
 ---
 
-<BaseLayout title={siteConfig.site.name} description={siteConfig.site.description}>
+<BaseLayout title={pageTitle} description={pageDescription}>
   <JsonLd slot="head" data={buildOrganizationJsonLd()} />
   <SiteHeader slot="header" categories={categoriesWithCounts} />
-  <h1>{siteConfig.site.name}</h1>
-  <p class="muted">{siteConfig.site.description}</p>
 
-  <h2>Nach Schwerpunkt</h2>
-  <div class="grid grid-3">
-    {categoriesWithCounts.map((cat) => (
-      <a href={`/category/${cat.slug}`} class="card" style="text-decoration: none; color: inherit;">
-        <strong>{cat.name}</strong>
-        <p class="muted">{cat.count} {siteConfig.directory.entryPlural}</p>
-      </a>
-    ))}
-  </div>
+  <HeroBand
+    eyebrow="Verzeichnis Berlin"
+    title="Heilpraktiker in Berlin finden"
+    lead={`${totalOpen} Praxen in ${areaCount} Bezirken, sortiert nach Schwerpunkt und Lage. Wir sammeln öffentlich zugängliche Angaben, prüfen sie stichprobenartig und nennen zu jedem Eintrag Quelle und Prüfdatum.`}
+    seed="startseite"
+    actions={[
+      { label: "Methoden ansehen", href: "/methoden", kind: "primary" },
+      { label: "Nach Bezirk suchen", href: "/area", kind: "ghost" },
+    ]}
+  />
 
-  {siteConfig.features.areas && (
-    <>
-      <h2>Nach Bezirk</h2>
-      <div class="grid grid-2">
-        {dataset.areas.map((area) => (
-          <a href={`/area/${area.slug}`} class="card" style="text-decoration: none; color: inherit;">
-            <strong>{area.name}</strong>
-          </a>
-        ))}
-      </div>
-    </>
-  )}
+  <section>
+    <h2>Nach Schwerpunkt</h2>
+    <div class="grid grid-4">
+      {categoriesWithCounts.map((cat) => (
+        <HubTile name={cat.name} count={cat.count} href={categoryPath(cat.slug)} slug={cat.slug} />
+      ))}
+    </div>
+  </section>
 
   {indicationsWithCounts.length > 0 && (
-    <>
-        <h2><a href={indicationsPath()} data-testid="home-indications-heading">Nach Beschwerde</a></h2>
-      <div class="grid grid-3">
+    <section class="band">
+      <h2><a href={indicationsPath()} data-testid="home-indications-heading" class="band__link">Nach Beschwerde</a></h2>
+      <p class="band__lead">Wenn Sie eine Beschwerde statt einer Methode im Kopf haben.</p>
+      <div class="band__chips">
         {indicationsWithCounts.map((indication) => (
-          <a href={indicationPath(indication.slug)} class="card" style="text-decoration: none; color: inherit;" data-testid="home-indication">
-            <strong>{indication.name}</strong>
-            <p class="muted">{indication.count} {siteConfig.directory.entryPlural}</p>
+          <a class="chip chip--paper" href={indicationPath(indication.slug)} data-testid="home-indication">
+            {indication.name}
           </a>
         ))}
       </div>
-    </>
+    </section>
   )}
+
+  {siteConfig.features.areas && (
+    <section>
+      <h2>Nach Bezirk</h2>
+      <div class="grid grid-4">
+        {dataset.areas.map((area) => (
+          <HubTile
+            name={area.name}
+            count={openEntries.filter((e) => (e.areaIds ?? []).includes(area.id)).length}
+            href={areaPath(area.slug)}
+            slug={area.slug}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section>
+    <h2>Zuletzt geprüft</h2>
+    <div class="grid grid-3">
+      {featured.map((card) => <EntryCard card={card} />)}
+      <NoticeCard
+        kind="claim"
+        title="Ist das Ihre Praxis?"
+        text="Foto, Leistungen und Zeiten ergänzen — kostenlos, ohne Konto. Wir prüfen die Angaben und nennen Sie als Quelle."
+        linkLabel="Eintrag übernehmen"
+        href="/eintrag-melden"
+      />
+    </div>
+  </section>
 
   {associationsWithCounts.length > 0 && (
-    <>
+    <section>
       <h2><a href={associationsPath()} data-testid="home-associations-heading">Nach Verband</a></h2>
-      <div class="grid grid-3">
+      <div class="chiprow">
         {associationsWithCounts.map((association) => (
-          <a href={associationPath(association.slug)} class="card" style="text-decoration: none; color: inherit;" data-testid="home-association">
-            <strong>{association.abbreviation ?? association.name}</strong>
-            <p class="muted">{association.count} {siteConfig.directory.entryPlural}</p>
+          <a class="chip" href={associationPath(association.slug)} data-testid="home-association">
+            {association.abbreviation ?? association.name}
           </a>
         ))}
       </div>
-    </>
+    </section>
   )}
 
-  <h2>Ausgewählte {siteConfig.directory.entryPlural}</h2>
-  <div class="grid grid-2">
-    {featured.map((card) => <EntryCard card={card} />)}
-  </div>
+  <section class="band">
+    <h2>Wie dieses Verzeichnis entsteht</h2>
+    <dl class="facts">
+      <div><dt>Praxen erfasst</dt><dd>{totalOpen}</dd></div>
+      <div><dt>Bezirke</dt><dd>{areaCount}</dd></div>
+      <div><dt>Schwerpunkte</dt><dd>{dataset.categories.length}</dd></div>
+      <div><dt>mit Foto</dt><dd>{withImage}</dd></div>
+    </dl>
+    <p class="band__lead">
+      Was dieses Verzeichnis nicht tut: bewerten, empfehlen, Behandlungen versprechen.
+      Die Aufnahme ist kostenlos und unabhängig davon, ob eine Praxis mit uns zusammenarbeitet.
+    </p>
+  </section>
 </BaseLayout>
+
+<style>
+  .band__link { color: var(--color-signal); text-decoration: none; }
+  .band__link:visited { color: var(--color-signal); }
+  .band__lead { max-width: 60ch; color: var(--color-border); margin-top: 0.75rem; }
+  .band__chips { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 1.25rem; }
+  .chip--paper {
+    background: var(--color-bg);
+    border-color: var(--color-bg);
+    color: var(--color-text);
+  }
+  .chip--paper:hover { background: var(--color-signal); border-color: var(--color-signal); }
+  .chiprow { display: flex; flex-wrap: wrap; gap: 12px; }
+  .facts {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .facts dt {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-signal);
+  }
+  .facts dd {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    line-height: 1;
+    margin-top: 0.25rem;
+  }
+  @media (max-width: 640px) {
+    .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+</style>

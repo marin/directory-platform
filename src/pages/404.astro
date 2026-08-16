@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/navigation/SiteHeader.astro";
+import EmptyState from "../components/layout/EmptyState.astro";
+import HeroBand from "../components/layout/HeroBand.astro";
+---
+
+<BaseLayout title="Seite nicht gefunden" noindex={true}>
+  <SiteHeader slot="header" />
+
+  <HeroBand
+    eyebrow="404"
+    title="Diese Adresse gibt es nicht mehr."
+    lead="Möglicherweise wurde ein Eintrag zusammengelegt oder entfernt."
+    seed="vierhundertvier"
+  />
+
+  <EmptyState
+    headline="Zwei Wege weiter:"
+    actions={[
+      { label: "Startseite", href: "/", kind: "primary" },
+      { label: "Methoden-Übersicht", href: "/methoden" },
+    ]}
+  />
+</BaseLayout>

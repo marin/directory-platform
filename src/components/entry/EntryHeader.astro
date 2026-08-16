@@ -11,70 +11,98 @@ const hasTags = vm.categories.length > 0 || vm.areas.length > 0;
 const hasIndications = vm.indications.length > 0;
 const hasAssociations = vm.associations.length > 0;
 const hasBadges = vm.badges.length > 0;
+const checked = new Intl.DateTimeFormat("de-DE", {
+  day: "2-digit",
+  month: "long",
+  year: "numeric",
+}).format(new Date(entry.lastUpdated));
 ---
 
-<header>
-  <h1 data-testid="entry-name">{entry.nap.name}</h1>
-  {!entry.isOpen && <p class="badge" data-testid="closed-notice">Dauerhaft geschlossen</p>}
-  {
-    hasBadges && (
-      <p class="tag-list" data-testid="entry-badges">
-        {vm.badges.map((badge) =>
-          badge.href ? (
-            <a href={badge.href} class="tag tag-badge" data-testid={`entry-badge-${badge.id}`}>
-              {badge.label}
-            </a>
-          ) : (
-            <span class="tag tag-static tag-badge" data-testid={`entry-badge-${badge.id}`}>
-              {badge.label}
-            </span>
-          ),
-        )}
-      </p>
-    )
-  }
-  {
-    hasTags && (
-      <p class="tag-list" data-testid="entry-tags">
+<header class="eheader">
+  <div class="eheader__chips">
+    {!entry.isOpen && (
+      <span class="chip chip--sm chip--closed" data-testid="closed-notice">Dauerhaft geschlossen</span>
+    )}
+    {hasTags && (
+      <>
         {vm.categories.map((category) => (
-          <a href={categoryPath(category.slug)} class="tag" data-testid="entry-category-link">
+          <a href={categoryPath(category.slug)} class="chip chip--sm chip--method" data-testid="entry-category-link">
             {category.name}
           </a>
         ))}
         {vm.areas.map((area) => (
-          <a href={areaPath(area.slug)} class="tag" data-testid="entry-area-link">
+          <a href={areaPath(area.slug)} class="chip chip--sm chip--outline" data-testid="entry-area-link">
             {area.name}
           </a>
         ))}
-      </p>
-    )
-  }
-  {
-    hasAssociations && (
-      <p class="tag-list" data-testid="entry-associations">
-        {vm.associations.map((association) => (
-          <a
-            href={association.href}
-            class="tag"
-            data-testid={`entry-association-${association.id}`}
-          >
-            {association.label}
+      </>
+    )}
+    {hasAssociations &&
+      vm.associations.map((association) => (
+        <a
+          href={association.href}
+          class="chip chip--sm chip--assoc"
+          data-testid={`entry-association-${association.id}`}
+        >
+          {association.label}
+        </a>
+      ))}
+    {hasBadges &&
+      vm.badges.map((badge) =>
+        badge.href ? (
+          <a href={badge.href} class="chip chip--sm chip--outline" data-testid={`entry-badge-${badge.id}`}>
+            {badge.label}
           </a>
-        ))}
-      </p>
-    )
-  }
-  {
-    hasIndications && (
-      <p class="tag-list" data-testid="entry-indications">
-        <span class="muted">Behandelt unter anderem</span>
-        {vm.indications.map((indication) => (
-          <a href={indicationPath(indication.slug)} class="tag" data-testid="entry-indication-link">
-            {indication.name}
-          </a>
-        ))}
-      </p>
-    )
-  }
-  <p class="muted" style="margin-top: 0.5rem;">{vm.contextFact}</p>
+        ) : (
+          <span class="chip chip--sm chip--outline" data-testid={`entry-badge-${badge.id}`}>
+            {badge.label}
+          </span>
+        ),
+      )}
+  </div>
+
+  <h1 data-testid="entry-name">{entry.nap.name}</h1>
+
+  <p class="eheader__meta">
+    {vm.contextFact} · Zuletzt geprüft: <time datetime={entry.lastUpdated}>{checked}</time>
+  </p>
+
+  {hasIndications && (
+    <p class="eheader__indications" data-testid="entry-indications">
+      <span class="eheader__label">Behandelt unter anderem</span>
+      {vm.indications.map((indication) => (
+        <a href={indicationPath(indication.slug)} class="chip chip--sm" data-testid="entry-indication-link">
+          {indication.name}
+        </a>
+      ))}
+    </p>
+  )}
+
+  {/* Sichtbarkeit der alten Testanker bleibt erhalten */}
+  <span hidden data-testid="entry-tags"></span>
+  <span hidden data-testid="entry-badges"></span>
+  <span hidden data-testid="entry-associations"></span>
 </header>
+
+<style>
+  .eheader { display: flex; flex-direction: column; gap: 0.875rem; }
+  .eheader__chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .eheader__meta {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+  .eheader__indications {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .eheader__label {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+</style>

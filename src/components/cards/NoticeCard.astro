@@ -1,0 +1,64 @@
+---
+interface Props {
+  kind: "crosslink" | "claim" | "method";
+  title: string;
+  text: string;
+  linkLabel: string;
+  href: string;
+}
+
+const { kind, title, text, linkLabel, href } = Astro.props;
+---
+
+<article class:list={["notice", `notice--${kind}`]}>
+  <div>
+    <h3 class="notice__title">{title}</h3>
+    <p class="notice__text">{text}</p>
+  </div>
+  <a class="notice__link" href={href}>{linkLabel} →</a>
+</article>
+
+<style>
+  .notice {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 420px;
+    padding: 20px;
+    border: var(--border-card);
+    border-radius: var(--radius);
+  }
+  .notice--crosslink { background: var(--color-signal); }
+  .notice--method { background: var(--color-soft); }
+  .notice--claim {
+    background: var(--color-surface);
+    border-style: dashed;
+  }
+  .notice__title {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.1;
+    hyphens: auto;
+  }
+  .notice__text {
+    margin-top: 10px;
+    font-size: 0.9375rem;
+    color: var(--color-body);
+  }
+  .notice__link {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text);
+    text-decoration: none;
+    border-bottom: 2px solid var(--color-text);
+    align-self: start;
+  }
+  .notice__link:hover { color: var(--color-accent); border-color: var(--color-accent); }
+
+  @media (max-width: 1023px) {
+    .notice { min-height: 0; }
+  }
+</style>

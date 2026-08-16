@@ -1,6 +1,8 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import SiteHeader from "../../../components/navigation/SiteHeader.astro";
+import HeroBand from "../../../components/layout/HeroBand.astro";
+import FilterBar from "../../../components/navigation/FilterBar.astro";
 import EntryCard from "../../../components/cards/EntryCard.astro";
 import FaqSection from "../../../components/faq/FaqSection.astro";
 import LastUpdated from "../../../components/entry/LastUpdated.astro";
@@ -14,7 +16,7 @@ import {
 } from "../../../lib/data/view-models/entry.ts";
 import { computeCategoryStats } from "../../../lib/aggregates/compute.ts";
 import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
-import { categoryPath, categoryUrl } from "../../../lib/routing/paths.ts";
+import { categoryPath, categoryUrl, areaPath } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
 
@@ -60,6 +62,7 @@ const categoriesWithCounts = dataset.categories.map((cat) => ({
 const pageSize = siteConfig.pagination.categoryPageSize;
 const pageEntries = pageSlice(cards, page, pageSize);
 const title = `${category.name} – Seite ${page}`;
+const areaItems = dataset.areas.map((area) => ({ name: area.name, href: areaPath(area.slug) }));
 ---
 
 <BaseLayout
@@ -70,16 +73,26 @@ const title = `${category.name} – Seite ${page}`;
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <h1>{category.name}</h1>
-  {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
-  <div class="grid grid-2">
+
+  <HeroBand
+    eyebrow={`Schwerpunkt · Seite ${page}`}
+    title={category.name}
+    lead={intro?.intro ?? category.description}
+    seed={category.slug}
+  />
+
+  <FilterBar
+    label="Bezirk wählen"
+    items={areaItems}
+    indexHref="/area"
+    dialogId={`filter-${category.slug}-${page}`}
+  />
+
+  <div class="grid grid-3">
     {pageEntries.map((card) => <EntryCard card={card} />)}
   </div>
-  <PaginationNav
-    currentPage={page}
-    totalPages={lastPage}
-    basePath={categoryPath(category.slug)}
-  />
-  {faq && <FaqSection items={faq.faq} />}
+
+  <PaginationNav currentPage={page} totalPages={lastPage} basePath={categoryPath(category.slug)} />
+  {faq && <FaqSection items={faq.faq} variant="band" />}
   {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
 </BaseLayout>

@@ -1,0 +1,142 @@
+---
+interface Item {
+  name: string;
+  href: string;
+  active?: boolean;
+}
+
+interface Props {
+  label: string;
+  items: Item[];
+  max?: number;
+  indexHref: string;
+  dialogId?: string;
+}
+
+const { label, items, max = 6, indexHref, dialogId = "filter-dialog" } = Astro.props;
+const visible = items.slice(0, max);
+const rest = items.length - visible.length;
+---
+
+<div class="filterband">
+  <div class="filterpanel">
+    <p class="filterpanel__label">{label}</p>
+    <div class="filterpanel__chips">
+      {visible.map((item) =>
+        item.active ? (
+          <span class="chip chip--active" aria-current="page">{item.name}</span>
+        ) : (
+          <a class="chip" href={item.href}>{item.name}</a>
+        ),
+      )}
+      {rest > 0 && (
+        <a class="chip chip--ghost" href={indexHref}>alle {items.length} zeigen</a>
+      )}
+    </div>
+    <button type="button" class="filterpanel__button" data-filter-open={dialogId} hidden>
+      Filter
+    </button>
+  </div>
+</div>
+
+<dialog id={dialogId} class="filterdialog">
+  <form method="dialog" class="filterdialog__head">
+    <p class="filterpanel__label">{label}</p>
+    <button class="chip" value="close">Schließen</button>
+  </form>
+  <div class="filterdialog__chips">
+    {items.map((item) =>
+      item.active ? (
+        <span class="chip chip--active" aria-current="page">{item.name}</span>
+      ) : (
+        <a class="chip" href={item.href}>{item.name}</a>
+      ),
+    )}
+    <a class="chip chip--ghost" href={indexHref}>Übersicht</a>
+  </div>
+</dialog>
+
+<script>
+  // Einziges Client-Script im Projekt: Drawer-Umschaltung unter 640 px.
+  document.querySelectorAll<HTMLButtonElement>("[data-filter-open]").forEach((button) => {
+    const dialog = document.getElementById(button.dataset.filterOpen!) as HTMLDialogElement | null;
+    if (!dialog) return;
+    button.hidden = false;
+    button.addEventListener("click", () => dialog.showModal());
+  });
+</script>
+
+<style>
+  .filterband {
+    background: var(--color-text);
+    border-radius: var(--radius-panel);
+    padding: 12px;
+  }
+  .filterpanel {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    background: var(--color-bg);
+    border-radius: 18px;
+    padding: 16px 20px;
+  }
+  .filterpanel__label {
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+    margin: 0;
+  }
+  .filterpanel__chips { display: flex; flex-wrap: wrap; gap: 12px; min-width: 0; }
+  .filterpanel__button { display: none; }
+
+  .filterdialog {
+    border: var(--border-card);
+    border-radius: var(--radius-panel);
+    background: var(--color-bg);
+    color: var(--color-text);
+    padding: 20px;
+    max-width: min(92vw, 30rem);
+  }
+  .filterdialog::backdrop { background: rgb(36 26 84 / 0.55); }
+  .filterdialog__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .filterdialog__chips { display: flex; flex-wrap: wrap; gap: 12px; }
+
+  @media (max-width: 640px) {
+    .filterpanel { flex-wrap: nowrap; }
+    .filterpanel__chips {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding-bottom: 2px;
+    }
+    .filterpanel__chips::-webkit-scrollbar { display: none; }
+    .filterpanel__chips .chip { white-space: nowrap; }
+    .filterpanel__button {
+      display: inline-flex;
+      align-items: center;
+      min-height: 40px;
+      padding: 0.5rem 1rem;
+      border: 2px solid var(--color-text);
+      border-radius: var(--radius-pill);
+      background: var(--color-signal);
+      color: var(--color-text);
+      font: inherit;
+      font-weight: 700;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .filterpanel__button[hidden] { display: none; }
+  }
+  @media (min-width: 641px) {
+    .filterdialog { display: none; }
+  }
+</style>

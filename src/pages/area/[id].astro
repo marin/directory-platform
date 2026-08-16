@@ -1,7 +1,10 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import FilterBar from "../../components/navigation/FilterBar.astro";
 import EntryCard from "../../components/cards/EntryCard.astro";
+import EmptyState from "../../components/layout/EmptyState.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
@@ -13,7 +16,7 @@ import {
 } from "../../lib/data/view-models/entry.ts";
 import { computeAreaStats, computeCategoryStats } from "../../lib/aggregates/compute.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { areaPath, areaUrl } from "../../lib/routing/paths.ts";
+import { areaPath, areaUrl, categoryPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import PaginationNav from "../../components/navigation/PaginationNav.astro";
 import siteConfig from "../../../config/site.config.ts";
@@ -52,6 +55,12 @@ const pageSize = siteConfig.pagination.areaPageSize;
 const currentPage = 1;
 const lastPage = computeTotalPages(openEntries.length, pageSize);
 const pageEntries = pageSlice(cards, currentPage, pageSize);
+
+/* Filterleiste zeigt die jeweils andere Dimension: Schwerpunkte. Keine Zähler (B2). */
+const categoryItems = dataset.categories.map((cat) => ({
+  name: cat.name,
+  href: categoryPath(cat.slug),
+}));
 ---
 
 <BaseLayout
@@ -62,16 +71,41 @@ const pageEntries = pageSlice(cards, currentPage, pageSize);
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <h1>{area.name}</h1>
-  {intro && <p style="margin: 1rem 0;">{intro.intro}</p>}
-  <div class="grid grid-2">
-    {pageEntries.map((card) => <EntryCard card={card} />)}
-  </div>
+
+  <HeroBand
+    eyebrow="Bezirk"
+    title={area.name}
+    lead={intro?.intro ?? area.description}
+    seed={area.slug}
+  />
+
+  <FilterBar
+    label="Schwerpunkt wählen"
+    items={categoryItems}
+    indexHref="/methoden"
+    dialogId={`filter-${area.slug}`}
+  />
+
+  {pageEntries.length > 0 ? (
+    <div class="grid grid-3">
+      {pageEntries.map((card) => <EntryCard card={card} />)}
+    </div>
+  ) : (
+    <EmptyState
+      headline={`In ${area.name} ist bisher keine Praxis erfasst.`}
+      note="Das heißt nicht, dass es keine gibt — nur, dass wir keine erfasst haben. Kennen Sie eine?"
+      actions={[
+        { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
+        { label: "Alle Bezirke", href: "/area" },
+      ]}
+    />
+  )}
+
   <PaginationNav
     currentPage={currentPage}
     totalPages={lastPage}
     basePath={areaPath(area.slug)}
   />
-  {faq && <FaqSection items={faq.faq} />}
+  {faq && <FaqSection items={faq.faq} variant="band" />}
   {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
 </BaseLayout>

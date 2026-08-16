@@ -3,8 +3,21 @@ interface Props {
   date: string;
 }
 const { date } = Astro.props;
+const formatted = new Intl.DateTimeFormat("de-DE", {
+  day: "2-digit",
+  month: "long",
+  year: "numeric",
+}).format(new Date(date));
 ---
 
-<p class="muted" style="margin-top: 2rem; font-size: 0.875rem;" data-testid="last-updated">
-  Zuletzt aktualisiert: <time datetime={date}>{date}</time>
+<p class="lastupdated" data-testid="last-updated">
+  Zuletzt aktualisiert: <time datetime={date}>{formatted}</time>
 </p>
+
+<style>
+  .lastupdated {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
+</style>

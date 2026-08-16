@@ -1,0 +1,70 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/navigation/SiteHeader.astro";
+import HeroBand from "../components/layout/HeroBand.astro";
+import HubTile from "../components/cards/HubTile.astro";
+import { loadDataset } from "../lib/data/load-dataset.ts";
+import { computeCategoryStats } from "../lib/aggregates/compute.ts";
+import { shouldIndexCategory } from "../lib/data/view-models/entry.ts";
+import { categoryPath, indicationsPath, absoluteUrl } from "../lib/routing/paths.ts";
+import Breadcrumbs from "../components/navigation/Breadcrumbs.astro";
+import JsonLd from "../components/seo/JsonLd.astro";
+import { buildMethodsIndexJsonLd, METHODS_PATH } from "../lib/seo/structured-data/hub-index.ts";
+
+const dataset = loadDataset();
+const categoriesWithCounts = dataset.categories
+  .map((cat) => ({
+    ...cat,
+    count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+  }))
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
+const totalOpen = dataset.entries.filter((e) => e.isOpen).length;
+const indicationCount = dataset.indications.length;
+const pageTitle = "Methoden und Schwerpunkte";
+const pageDescription = `Alle ${dataset.categories.length} Schwerpunkte im Verzeichnis: ${categoriesWithCounts.map((c) => c.name).join(", ")}.`;
+const jsonLd = buildMethodsIndexJsonLd(categoriesWithCounts, pageTitle, pageDescription);
+const lead = `Heilpraktiker arbeiten selten mit nur einem Verfahren. Die ${totalOpen} Praxen in Berlin nennen zusammen ${dataset.categories.length} Schwerpunkte — die meisten davon in Kombination, etwa Akupunktur zusammen mit Naturheilkunde. Wählen Sie den Schwerpunkt, der Sie interessiert; auf der Folgeseite filtern Sie nach Bezirk.`;
+---
+
+<BaseLayout
+  title="Methoden"
+  description={pageDescription}
+  canonical={absoluteUrl(METHODS_PATH)}
+>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+
+  <Breadcrumbs items={[{ label: "Startseite", href: "/" }, { label: "Methoden" }]} />
+
+  <HeroBand eyebrow="Übersicht" title={pageTitle} lead={lead} seed="methoden" />
+
+  <section>
+    <div class="grid grid-4">
+      {categoriesWithCounts.map((cat) => (
+        <HubTile
+          name={cat.name}
+          count={cat.count}
+          href={categoryPath(cat.slug)}
+          slug={cat.slug}
+          thin={!shouldIndexCategory(cat.count).index}
+        />
+      ))}
+    </div>
+  </section>
+
+  <section class="band">
+    <h2>Lieber nach Beschwerde?</h2>
+    <p class="band__lead">
+      Wenn Sie eine Beschwerde statt einer Methode im Kopf haben, führen die
+      {" "}{indicationCount} Beschwerdeseiten schneller zum Ziel.
+    </p>
+    <p class="band__actions">
+      <a class="cta" href={indicationsPath()}>Beschwerden ansehen</a>
+    </p>
+  </section>
+</BaseLayout>
+
+<style>
+  .band__lead { max-width: 60ch; color: var(--color-border); margin-top: 0.75rem; }
+  .band__actions { margin-top: 1.25rem; }
+</style>

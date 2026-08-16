@@ -212,6 +212,22 @@ describe("generated site", () => {
     expect(html).toContain("Häufig gestellte Fragen");
   });
 
+  it("emits CollectionPage JSON-LD on /methoden and /area", () => {
+    const methods = readDist("methoden/index.html");
+    expect(methods).toContain('"@type":"CollectionPage"');
+    expect(methods).toContain('"@type":"ItemList"');
+    expect(methods).toContain('"@type":"MedicalTherapy"');
+    expect(methods).toContain('rel="canonical" href="');
+    expect(methods).toContain("/methoden");
+
+    const areas = readDist("area/index.html");
+    expect(areas).toContain('"@type":"CollectionPage"');
+    expect(areas).toContain('"@type":"ItemList"');
+    expect(areas).toContain('"@type":"AdministrativeArea"');
+    expect(areas).toContain('rel="canonical" href="');
+    expect(areas).toContain("/area");
+  });
+
   it("lists indexable association hubs on the homepage", () => {
     const html = readDist("index.html");
     expect(html).toContain("Nach Verband");

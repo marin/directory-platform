@@ -12,7 +12,7 @@ const { cards, title = "Ähnliche Anbieter" } = Astro.props;
 {cards.length > 0 && (
   <section aria-labelledby="related-heading">
     <h2 id="related-heading">{title}</h2>
-    <div class="grid grid-2">
+    <div class="grid grid-3">
       {cards.map((card) => <EntryCard card={card} />)}
     </div>
   </section>

@@ -1,0 +1,66 @@
+---
+import { hubColorCycled } from "../../lib/theme/hubColors.ts";
+
+interface Props {
+  name: string;
+  count: number;
+  href: string;
+  slug: string;
+  thin?: boolean;
+  unit?: string;
+}
+
+const { name, count, href, slug, thin = false, unit = "Praxen" } = Astro.props;
+const { fill, ink } = hubColorCycled(slug);
+const background = thin ? "var(--color-surface)" : fill;
+const color = thin ? "var(--color-text)" : ink;
+---
+
+<a
+  href={href}
+  class:list={["tile", thin && "tile--thin"]}
+  style={`background:${background};color:${color};`}
+>
+  <span class="tile__name">{name}</span>
+  <span class="tile__meta">
+    {thin ? `${count} ${unit} · noch dünn` : `${count} ${unit} →`}
+  </span>
+</a>
+
+<style>
+  .tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 132px;
+    padding: 20px;
+    border: 2px solid var(--color-text);
+    border-radius: var(--radius-tile);
+    text-decoration: none;
+    transition: transform 120ms ease, border-width 120ms ease;
+  }
+  .tile:hover {
+    border-width: 3px;
+    padding: 19px;
+    transform: translateY(-2px);
+  }
+  .tile:visited { color: inherit; }
+  .tile__name {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.1;
+    hyphens: auto;
+    overflow-wrap: anywhere;
+  }
+  .tile__meta {
+    font-family: var(--font-mono);
+    font-size: 13px;
+  }
+  .tile--thin {
+    border: 2px dashed var(--color-border-dark);
+  }
+  .tile--thin:hover { border-width: 3px; }
+  .tile--thin .tile__meta { color: var(--color-muted); }
+</style>

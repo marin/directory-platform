@@ -17,30 +17,71 @@ function hrefForPage(page: number): string {
 
 {
   totalPages > 1 && (
-    <nav
-      aria-label="Seitennummerierung"
-      style="margin: 2rem 0; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;"
-    >
-      <span class="muted" style="margin-right: 0.5rem;">
-        Seite {currentPage} von {totalPages}
-      </span>
+    <nav class="pagination" aria-label="Seitennummerierung">
+      <span class="pagination__status">Seite {currentPage} von {totalPages}</span>
       {currentPage > 1 && (
-        <a href={hrefForPage(currentPage - 1)} rel="prev">
-          ← Zurück
-        </a>
+        <a class="pagination__step" href={hrefForPage(currentPage - 1)} rel="prev">← Zurück</a>
       )}
-      {pages.map((page) =>
-        page === currentPage ? (
-          <strong aria-current="page">{page}</strong>
-        ) : (
-          <a href={hrefForPage(page)}>{page}</a>
-        ),
-      )}
+      <span class="pagination__pages">
+        {pages.map((page) =>
+          page === currentPage ? (
+            <strong class="pagination__page pagination__page--active" aria-current="page">{page}</strong>
+          ) : (
+            <a class="pagination__page" href={hrefForPage(page)}>{page}</a>
+          ),
+        )}
+      </span>
       {currentPage < totalPages && (
-        <a href={hrefForPage(currentPage + 1)} rel="next">
+        <a class="pagination__step pagination__step--next" href={hrefForPage(currentPage + 1)} rel="next">
           Weiter →
         </a>
       )}
     </nav>
   )
 }
+
+<style>
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .pagination__status {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--color-muted);
+    margin-right: 0.5rem;
+  }
+  .pagination__pages { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .pagination__page {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 999px;
+    border: 2px solid var(--color-text);
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+  a.pagination__page:hover { background: var(--color-signal); }
+  a.pagination__page:visited { color: var(--color-text); }
+  .pagination__page--active {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+  .pagination__step {
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    color: var(--color-accent);
+    text-decoration: none;
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+  }
+  .pagination__step:hover { text-decoration: underline; }
+  .pagination__step--next { font-weight: 700; }
+</style>

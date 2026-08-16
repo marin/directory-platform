@@ -2,6 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import HubTile from "../../components/cards/HubTile.astro";
+import NoticeCard from "../../components/cards/NoticeCard.astro";
 import FaqSection from "../../components/faq/FaqSection.astro";
 import LastUpdated from "../../components/entry/LastUpdated.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
@@ -10,7 +13,6 @@ import { computeCategoryStats, computeAssociationStats } from "../../lib/aggrega
 import { buildAssociationsIndexCopy } from "../../lib/data/association-hubs.ts";
 import { buildAssociationsIndexJsonLd } from "../../lib/seo/structured-data/builders.ts";
 import { homePath, associationPath, associationsUrl } from "../../lib/routing/paths.ts";
-import siteConfig from "../../../config/site.config.ts";
 
 const dataset = loadDataset();
 const copy = buildAssociationsIndexCopy(dataset.entries, dataset.associations);
@@ -31,36 +33,100 @@ const mostRecentUpdate = copy.hubs
   .at(-1);
 ---
 
-<BaseLayout
-  title={copy.title}
-  description={copy.description}
-  canonical={associationsUrl()}
->
+<BaseLayout title={copy.title} description={copy.description} canonical={associationsUrl()}>
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <Breadcrumbs
-    items={[
-      { label: "Startseite", href: homePath() },
-      { label: "Verbände" },
-    ]}
-  />
-  <article data-testid="associations-index">
-    <h1>{copy.title}</h1>
-    <p style="margin: 1rem 0;" data-testid="associations-index-intro">{copy.intro}</p>
-    <div class="grid grid-3">
+
+  <article data-testid="associations-index" class="hubindex">
+    <Breadcrumbs items={[{ label: "Startseite", href: homePath() }, { label: "Verbände" }]} />
+
+    <HeroBand eyebrow="Übersicht" title={copy.title} lead={copy.intro} seed="verbaende" />
+    <p hidden data-testid="associations-index-intro">{copy.intro}</p>
+
+    <div class="grid grid-4">
       {copy.hubs.map((hub) => (
-        <a
-          href={associationPath(hub.slug)}
-          class="card"
-          style="text-decoration: none; color: inherit;"
-          data-testid="associations-index-hub"
-        >
-          <strong>{hub.name}</strong>
-          <p class="muted">{hub.count} {siteConfig.directory.entryPlural}</p>
-        </a>
+        <div data-testid="associations-index-hub">
+          <HubTile
+            name={hub.name}
+            count={hub.count}
+            href={associationPath(hub.slug)}
+            slug={hub.slug}
+          />
+        </div>
       ))}
+      <NoticeCard
+        kind="crosslink"
+        title="Noch zu wenige Einträge"
+        text="Nicht jeder Verband hat genug erfasste Mitgliedspraxen für eine eigene Seite. Fehlt einer? Sagen Sie uns Bescheid."
+        linkLabel="Praxis eintragen"
+        href="/eintrag-melden"
+      />
     </div>
-    <FaqSection items={copy.faq} />
+
+    <section class="explain">
+      <h2>Verband, Zertifikat, Erlaubnis — was ist was?</h2>
+      <dl class="explain__grid">
+        <div>
+          <dt>Verband</dt>
+          <dd>
+            Freiwillige Mitgliedschaft in einem Berufsverband. Sie sagt etwas über
+            Organisation und Fortbildung aus, ist aber keine staatliche Prüfung.
+          </dd>
+        </div>
+        <div>
+          <dt>Zertifikat</dt>
+          <dd>
+            Nachweis über eine absolvierte Ausbildung oder Fortbildung. Anbieter und
+            Umfang sind sehr unterschiedlich und nicht einheitlich geregelt.
+          </dd>
+        </div>
+        <div>
+          <dt>Erlaubnis</dt>
+          <dd>
+            Die Heilpraktiker-Erlaubnis nach dem Heilpraktikergesetz wird vom
+            Gesundheitsamt erteilt. Nur sie berechtigt zur Ausübung der Heilkunde.
+          </dd>
+        </div>
+      </dl>
+    </section>
+
+    <FaqSection items={copy.faq} variant="band" />
     {mostRecentUpdate && <LastUpdated date={mostRecentUpdate} />}
   </article>
 </BaseLayout>
+
+<style>
+  .hubindex { display: flex; flex-direction: column; gap: 2.5rem; }
+  .hubindex .grid > div { display: flex; }
+  .hubindex .grid > div > :global(*) { flex: 1; }
+  .explain {
+    background: var(--color-surface);
+    border: var(--border-card);
+    border-radius: var(--radius-panel);
+    padding: 2rem;
+  }
+  .explain__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.25rem;
+  }
+  .explain__grid dt {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    padding-top: 0.875rem;
+    border-top: 2px dashed var(--color-border);
+  }
+  .explain__grid dd {
+    margin: 0.5rem 0 0;
+    font-size: 0.9375rem;
+    color: var(--color-body);
+  }
+  @media (max-width: 768px) {
+    .explain { padding: 1.5rem 1.25rem; }
+    .explain__grid { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>

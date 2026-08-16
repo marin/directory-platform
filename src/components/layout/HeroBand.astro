@@ -1,0 +1,167 @@
+---
+import { seedSum } from "../../lib/theme/hubColors.ts";
+
+interface Action {
+  label: string;
+  href: string;
+  kind?: "primary" | "ghost";
+}
+
+interface Props {
+  eyebrow?: string;
+  title: string;
+  lead?: string;
+  actions?: Action[];
+  seed?: string;
+  tone?: "indigo" | "paper";
+}
+
+const { eyebrow, title, lead, actions = [], seed = title, tone = "indigo" } = Astro.props;
+
+type Shape = { form: "circle" | "pill" | "rect"; color: string } | null;
+
+const Y = "var(--color-signal)";
+const R = "var(--color-soft)";
+const L = "var(--color-lilac)";
+const G = "var(--color-green)";
+const P = "var(--color-bg)";
+
+/* Vier fest hinterlegte Anordnungen — kein Zufall, gleiches Ergebnis bei jedem Build. */
+const ARRANGEMENTS: Shape[][] = [
+  [
+    { form: "circle", color: Y }, null, { form: "pill", color: R },
+    { form: "rect", color: L }, { form: "circle", color: P }, null,
+    null, { form: "pill", color: G }, { form: "circle", color: Y },
+  ],
+  [
+    { form: "pill", color: L }, { form: "circle", color: Y }, null,
+    null, { form: "rect", color: R }, { form: "circle", color: G },
+    { form: "circle", color: P }, null, { form: "pill", color: Y },
+  ],
+  [
+    null, { form: "rect", color: G }, { form: "circle", color: Y },
+    { form: "pill", color: P }, null, { form: "circle", color: R },
+    { form: "circle", color: L }, { form: "pill", color: Y }, null,
+  ],
+  [
+    { form: "circle", color: R }, { form: "pill", color: P }, null,
+    { form: "circle", color: Y }, null, { form: "rect", color: L },
+    null, { form: "circle", color: G }, { form: "pill", color: Y },
+  ],
+];
+
+const shapes = tone === "paper" ? [] : ARRANGEMENTS[seedSum(seed) % ARRANGEMENTS.length];
+const hasShapes = shapes.length > 0;
+---
+
+<section
+  class:list={["hero", `hero--${tone}`, !lead && "hero--tight", actions.length === 0 && "hero--noactions"]}
+>
+  <div class="hero__text">
+    {eyebrow && <p class="hero__eyebrow">{eyebrow}</p>}
+    <h1>{title}</h1>
+    {lead && <p class="hero__lead">{lead}</p>}
+    {actions.length > 0 && (
+      <div class="hero__actions">
+        {actions.map((action) => (
+          <a
+            href={action.href}
+            class:list={["cta", action.kind === "primary" ? "cta-primary" : "hero__ghost"]}
+          >
+            {action.label}
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+  {hasShapes && (
+    <div class="hero__shapes" aria-hidden="true">
+      {shapes.map((shape) =>
+        shape ? (
+          <span class:list={["shape", `shape--${shape.form}`]} style={`background:${shape.color};`} />
+        ) : (
+          <span class="shape shape--empty" />
+        ),
+      )}
+    </div>
+  )}
+</section>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+    gap: 32px;
+    padding: 40px 40px 44px;
+    border-radius: 24px;
+    align-items: center;
+  }
+  .hero--indigo {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+  .hero--paper {
+    background: var(--color-bg);
+    color: var(--color-text);
+    border: var(--border-card);
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .hero--tight { grid-template-columns: 1fr 1fr; }
+  .hero--noactions { padding-bottom: 36px; }
+  .hero :global(h1) { color: inherit; }
+  .hero__eyebrow {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-signal);
+    margin-bottom: 12px;
+  }
+  .hero--paper .hero__eyebrow { color: var(--color-accent); }
+  .hero__lead {
+    max-width: 46ch;
+    margin-top: 16px;
+    font-size: 1.0625rem;
+    color: var(--color-border);
+  }
+  .hero--paper .hero__lead { color: var(--color-body); }
+  .hero__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+  .hero__ghost {
+    background: transparent;
+    border-color: var(--color-bg);
+    color: var(--color-bg);
+  }
+  .hero__ghost:hover { background: var(--color-signal); border-color: var(--color-signal); color: var(--color-text); }
+  .hero--paper .hero__ghost { border-color: var(--color-text); color: var(--color-text); }
+
+  .hero__shapes {
+    display: grid;
+    grid-template-columns: repeat(3, 54px);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    justify-content: end;
+    align-content: center;
+    min-height: 190px;
+  }
+  .shape { display: block; width: 54px; height: 54px; }
+  .shape--circle { border-radius: 999px; }
+  .shape--pill { border-radius: 999px; height: 30px; align-self: center; }
+  .shape--rect { border-radius: 18px; }
+  .shape--empty { background: transparent; }
+
+  @media (max-width: 900px) {
+    .hero,
+    .hero--tight { grid-template-columns: minmax(0, 1fr); }
+    .hero__shapes {
+      order: -1;
+      justify-content: start;
+      min-height: 132px;
+      grid-template-rows: repeat(2, 54px);
+      grid-template-columns: repeat(4, 54px);
+      overflow: hidden;
+    }
+  }
+  @media (max-width: 640px) {
+    .hero { padding: 24px 20px 28px; }
+  }
+</style>

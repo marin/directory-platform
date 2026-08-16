@@ -1,6 +1,7 @@
 ---
 import type { EntryViewModel } from "../../lib/data/view-models/entry.ts";
 import { buildImageAlt } from "../../lib/media/entry-images.ts";
+import ImagePlaceholder from "../media/ImagePlaceholder.astro";
 
 interface Props {
   vm: EntryViewModel;
@@ -8,44 +9,61 @@ interface Props {
 
 const { vm } = Astro.props;
 const { entry, images } = vm;
-const [heroImage, ...galleryImages] = images;
+const [heroImage, second, third] = images;
+const seed = vm.category?.slug ?? entry.slug;
 ---
 
-{
-  heroImage && (
-    <section aria-labelledby="images-heading" data-testid="entry-images-section">
-      <h2 id="images-heading" class="visually-hidden">Praxisfotos</h2>
-      <div class="hero-image">
-        <img
-          src={heroImage}
-          alt={buildImageAlt(entry.name)}
-          width="1200"
-          height="675"
-          loading="eager"
-          decoding="async"
-          data-testid="entry-hero-image"
-        />
-      </div>
-      {
-        galleryImages.length > 0 && (
-          <div class="gallery" data-testid="entry-gallery">
-            {galleryImages.map((image, index) => (
-              <img
-                src={image}
-                alt={buildImageAlt(entry.name, index + 1)}
-                width="400"
-                height="300"
-                loading="lazy"
-                decoding="async"
-                data-testid="entry-gallery-image"
-              />
-            ))}
-          </div>
-        )
-      }
-    </section>
-  )
-}
+<section class="strip" aria-labelledby="images-heading" data-testid="entry-images-section">
+  <h2 id="images-heading" class="visually-hidden">Praxisfotos</h2>
+
+  <div class="strip__main">
+    {heroImage ? (
+      <img
+        src={heroImage}
+        alt={buildImageAlt(entry.name)}
+        width="1200"
+        height="675"
+        loading="eager"
+        decoding="async"
+        data-testid="entry-hero-image"
+      />
+    ) : (
+      <ImagePlaceholder height={168} seed={seed} label="Kein Foto hinterlegt" />
+    )}
+  </div>
+
+  <div class="strip__side">
+    {second ? (
+      <img
+        src={second}
+        alt={buildImageAlt(entry.name, 1)}
+        width="400"
+        height="300"
+        loading="lazy"
+        decoding="async"
+        data-testid="entry-gallery-image"
+      />
+    ) : (
+      <ImagePlaceholder height={168} seed={`${seed}-2`} />
+    )}
+  </div>
+
+  <div class="strip__side">
+    {third ? (
+      <img
+        src={third}
+        alt={buildImageAlt(entry.name, 2)}
+        width="400"
+        height="300"
+        loading="lazy"
+        decoding="async"
+        data-testid="entry-gallery-image"
+      />
+    ) : (
+      <ImagePlaceholder height={168} seed={`${seed}-3`} />
+    )}
+  </div>
+</section>
 
 <style>
   .visually-hidden {
@@ -59,33 +77,28 @@ const [heroImage, ...galleryImages] = images;
     white-space: nowrap;
     border: 0;
   }
-  .hero-image {
-    margin: 1rem 0;
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius);
-    overflow: hidden;
-    background: var(--color-surface);
-  }
-  .hero-image img {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-height: 420px;
-    object-fit: cover;
-  }
-  .gallery {
+  .strip {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    gap: 0.75rem;
-    margin-bottom: 1rem;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 1rem;
   }
-  .gallery img {
+  .strip img {
     display: block;
     width: 100%;
-    aspect-ratio: 4 / 3;
+    height: 168px;
     object-fit: cover;
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius);
+    border-radius: 20px;
+    border: 2px solid var(--color-text);
     background: var(--color-surface);
+  }
+  .strip__main img { height: 168px; }
+
+  @media (min-width: 1024px) {
+    .strip img,
+    .strip__main img { height: 240px; }
+  }
+  @media (max-width: 640px) {
+    .strip { grid-template-columns: 1fr 1fr; }
+    .strip__main { grid-column: 1 / -1; }
   }
 </style>

@@ -1,36 +1,171 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
-import { categoryPath, indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
-import { loadDataset } from "../../lib/data/load-dataset.ts";
-import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
+import { indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
 
 interface Props {
+  /** Wird nicht mehr ausgewertet — die Navigation hat vier feste Ziele (A1). */
   categories?: Array<{ id: string; name: string; slug: string; count: number }>;
 }
 
-const { categories: categoriesProp } = Astro.props;
-const categories = categoriesProp ?? (() => {
-  const dataset = loadDataset();
-  return dataset.categories.map((cat) => ({
-    ...cat,
-    count: computeCategoryStats(dataset.entries, cat.id).listingCount,
-  }));
-})();
+const links = [
+  { href: "/methoden", label: "Methoden" },
+  { href: indicationsPath(), label: "Beschwerden" },
+  { href: "/area", label: "Bezirke" },
+  { href: associationsPath(), label: "Verbände" },
+];
+const current = Astro.url.pathname;
+const isActive = (href: string) => current === href || current.startsWith(`${href}/`);
 ---
 
-<header style="border-bottom: 1px solid var(--color-border); padding: 1rem 0; margin-bottom: 1rem;">
-  <div class="container" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-    <a href="/" style="font-weight: 700; font-size: 1.125rem; text-decoration: none; color: inherit;">
-      {siteConfig.site.name}
+<header class="siteheader">
+  <div class="container siteheader__inner">
+    <a href="/" class="wordmark">
+      {siteConfig.site.name}<span class="wordmark__dot" aria-hidden="true"></span>
     </a>
-    <nav aria-label="Hauptnavigation">
-      <ul style="display: flex; gap: 1rem; list-style: none; flex-wrap: wrap;">
-        {categories.slice(0, 5).map((cat) => (
-          <li><a href={categoryPath(cat.slug)}>{cat.name} ({cat.count})</a></li>
+
+    <nav class="siteheader__nav" aria-label="Hauptnavigation">
+      <ul class="siteheader__links">
+        {links.map((link) => (
+          <li>
+            <a href={link.href} aria-current={isActive(link.href) ? "page" : undefined}>
+              {link.label}
+            </a>
+          </li>
         ))}
-        <li><a href={indicationsPath()}>Beschwerden</a></li>
-        <li><a href={associationsPath()}>Verbände</a></li>
       </ul>
+      <a href="/eintrag-melden" class="siteheader__pill">Praxis eintragen</a>
     </nav>
+
+    <details class="siteheader__drawer">
+      <summary aria-label="Menü">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </summary>
+      <nav aria-label="Hauptnavigation mobil">
+        <ul>
+          {links.map((link) => (
+            <li>
+              <a href={link.href} aria-current={isActive(link.href) ? "page" : undefined}>
+                {link.label}
+              </a>
+            </li>
+          ))}
+          <li><a href="/eintrag-melden" class="siteheader__pill">Praxis eintragen</a></li>
+        </ul>
+      </nav>
+    </details>
   </div>
 </header>
+
+<style>
+  .siteheader {
+    background: var(--color-text);
+    color: var(--color-bg);
+    padding: 1rem 0;
+    margin-bottom: 1.5rem;
+  }
+  .siteheader__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+  .wordmark {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 4px;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 1.25rem;
+    letter-spacing: -0.02em;
+    color: var(--color-bg);
+    text-decoration: none;
+  }
+  .wordmark:visited { color: var(--color-bg); }
+  .wordmark__dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 999px;
+    background: var(--color-signal);
+  }
+  .siteheader__nav { display: flex; align-items: center; gap: 1.75rem; }
+  .siteheader__links {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    list-style: none;
+  }
+  .siteheader__links a {
+    color: var(--color-bg);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9375rem;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid transparent;
+  }
+  .siteheader__links a:visited { color: var(--color-bg); }
+  .siteheader__links a:hover { border-bottom-color: var(--color-signal); }
+  .siteheader__links a[aria-current="page"] { border-bottom-color: var(--color-signal); }
+  .siteheader__pill {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0.5rem 1.125rem;
+    border-radius: var(--radius-pill);
+    background: var(--color-soft);
+    color: #3c2340;
+    font-weight: 700;
+    font-size: 0.9375rem;
+    text-decoration: none;
+  }
+  .siteheader__pill:visited { color: #3c2340; }
+  .siteheader__pill:hover { background: var(--color-signal); color: var(--color-text); }
+
+  .siteheader__drawer { display: none; }
+  .siteheader__drawer summary {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+  }
+  .siteheader__drawer summary::-webkit-details-marker { display: none; }
+  .siteheader__drawer summary span {
+    display: block;
+    height: 2px;
+    background: var(--color-bg);
+  }
+  .siteheader__drawer[open] nav {
+    position: absolute;
+    left: var(--gutter);
+    right: var(--gutter);
+    margin-top: 12px;
+    background: var(--color-bg);
+    border: var(--border-card);
+    border-radius: var(--radius-panel);
+    padding: 16px;
+    z-index: 20;
+  }
+  .siteheader__drawer nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .siteheader__drawer nav a {
+    display: block;
+    padding: 12px 8px;
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  @media (max-width: 900px) {
+    .siteheader__nav { display: none; }
+    .siteheader__drawer { display: block; position: relative; }
+  }
+</style>

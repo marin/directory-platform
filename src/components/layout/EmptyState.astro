@@ -1,0 +1,48 @@
+---
+interface Action {
+  label: string;
+  href: string;
+  kind?: "primary" | "ghost";
+}
+
+interface Props {
+  headline: string;
+  note?: string;
+  actions: Action[];
+}
+
+const { headline, note, actions } = Astro.props;
+---
+
+<section class="empty" data-testid="empty-state">
+  <h2 class="empty__headline">{headline}</h2>
+  {note && <p class="empty__note">{note}</p>}
+  <div class="empty__actions">
+    {actions.map((action) => (
+      <a href={action.href} class:list={["cta", action.kind === "primary" && "cta-primary"]}>
+        {action.label}
+      </a>
+    ))}
+  </div>
+</section>
+
+<style>
+  .empty {
+    background: var(--color-surface);
+    border: 2px dashed var(--color-text);
+    border-radius: 18px;
+    padding: 24px;
+  }
+  .empty__headline {
+    font-family: var(--font-display);
+    font-size: clamp(1.375rem, 2vw, 1.75rem);
+    font-weight: 700;
+    line-height: 1.1;
+  }
+  .empty__note {
+    margin-top: 10px;
+    max-width: 52ch;
+    color: var(--color-body);
+  }
+  .empty__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+</style>

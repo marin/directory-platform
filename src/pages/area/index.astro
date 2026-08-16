@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import HubTile from "../../components/cards/HubTile.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
+import { shouldIndexArea } from "../../lib/data/view-models/entry.ts";
+import { areaPath, absoluteUrl } from "../../lib/routing/paths.ts";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { buildAreasIndexJsonLd, AREAS_PATH } from "../../lib/seo/structured-data/hub-index.ts";
+
+const dataset = loadDataset();
+const openEntries = dataset.entries.filter((e) => e.isOpen);
+const areasWithCounts = dataset.areas
+  .map((area) => ({
+    ...area,
+    count: openEntries.filter((e) => (e.areaIds ?? []).includes(area.id)).length,
+  }))
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "de"));
+const categoriesWithCounts = dataset.categories.map((cat) => ({
+  ...cat,
+  count: computeCategoryStats(dataset.entries, cat.id).listingCount,
+}));
+const pageTitle = "Praxen nach Bezirk";
+const pageDescription = `Heilpraktiker-Praxen in Berlin nach Bezirk: ${areasWithCounts.map((a) => a.name).join(", ")}.`;
+const jsonLd = buildAreasIndexJsonLd(areasWithCounts, pageTitle, pageDescription);
+---
+
+<BaseLayout title="Bezirke" description={pageDescription} canonical={absoluteUrl(AREAS_PATH)}>
+  <SiteHeader slot="header" categories={categoriesWithCounts} />
+  <JsonLd slot="head" data={jsonLd} />
+
+  <Breadcrumbs items={[{ label: "Startseite", href: "/" }, { label: "Bezirke" }]} />
+
+  <HeroBand
+    eyebrow="Übersicht"
+    title={pageTitle}
+    lead={`${openEntries.length} Praxen verteilen sich sehr ungleich über die ${dataset.areas.length} Bezirke. Wählen Sie einen Bezirk; auf der Folgeseite filtern Sie nach Schwerpunkt.`}
+    seed="bezirke"
+  />
+
+  <section>
+    <div class="grid grid-4">
+      {areasWithCounts.map((area) => (
+        <HubTile
+          name={area.name}
+          count={area.count}
+          href={areaPath(area.slug)}
+          slug={area.slug}
+          thin={!shouldIndexArea(area.count).index}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

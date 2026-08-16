@@ -2,6 +2,8 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import SiteHeader from "../../../components/navigation/SiteHeader.astro";
 import Breadcrumbs from "../../../components/navigation/Breadcrumbs.astro";
+import HeroBand from "../../../components/layout/HeroBand.astro";
+import FilterBar from "../../../components/navigation/FilterBar.astro";
 import EntryCard from "../../../components/cards/EntryCard.astro";
 import FaqSection from "../../../components/faq/FaqSection.astro";
 import LastUpdated from "../../../components/entry/LastUpdated.astro";
@@ -16,7 +18,7 @@ import {
 import { computeCategoryStats, computeAssociationStats, associationEntries } from "../../../lib/aggregates/compute.ts";
 import { associationHubTitle, associationShortName } from "../../../lib/data/association-hubs.ts";
 import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
-import { homePath, associationPath, associationsPath, associationUrl } from "../../../lib/routing/paths.ts";
+import { homePath, associationPath, associationsPath, associationUrl, areaPath } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
 
@@ -61,6 +63,7 @@ const pageSize = siteConfig.pagination.associationPageSize;
 const pageEntries = pageSlice(cards, page, pageSize);
 const title = `${associationHubTitle(association)} – Seite ${page}`;
 const shortName = associationShortName(association);
+const areaItems = dataset.areas.map((area) => ({ name: area.name, href: areaPath(area.slug) }));
 ---
 
 <BaseLayout
@@ -71,26 +74,40 @@ const shortName = associationShortName(association);
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
-  <Breadcrumbs
-    items={[
-      { label: "Startseite", href: homePath() },
-      { label: "Verbände", href: associationsPath() },
-      { label: shortName, href: associationPath(association.slug) },
-      { label: `Seite ${page}` },
-    ]}
-  />
-  <article data-testid="association-page">
-    <h1>{associationHubTitle(association)}</h1>
-    {intro && <p style="margin: 1rem 0;" data-testid="association-intro">{intro.intro}</p>}
-    <div class="grid grid-2">
+
+  <article data-testid="association-page" class="hubpage">
+    <Breadcrumbs
+      items={[
+        { label: "Startseite", href: homePath() },
+        { label: "Verbände", href: associationsPath() },
+        { label: shortName },
+      ]}
+    />
+
+    <HeroBand
+      eyebrow={`Verband · Seite ${page}`}
+      title={associationHubTitle(association)}
+      lead={intro?.intro ?? association.description}
+      seed={association.slug}
+    />
+
+    <FilterBar
+      label="Bezirk wählen"
+      items={areaItems}
+      indexHref="/area"
+      dialogId={`filter-${association.slug}-${page}`}
+    />
+
+    <div class="grid grid-3">
       {pageEntries.map((card) => <EntryCard card={card} />)}
     </div>
-    <PaginationNav
-      currentPage={page}
-      totalPages={lastPage}
-      basePath={associationPath(association.slug)}
-    />
-    {faq && <FaqSection items={faq.faq} />}
+
+    <PaginationNav currentPage={page} totalPages={lastPage} basePath={associationPath(association.slug)} />
+    {faq && <FaqSection items={faq.faq} variant="band" />}
     {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
   </article>
 </BaseLayout>
+
+<style>
+  .hubpage { display: flex; flex-direction: column; gap: 2.5rem; }
+</style>

@@ -7,21 +7,65 @@ const { offers, isOpen } = Astro.props;
 ---
 
 {isOpen && offers.length > 0 && (
-  <section aria-labelledby="offers-heading">
-    <h2 id="offers-heading">Leistungen &amp; Preise</h2>
-    <table>
-      <thead>
-        <tr><th>Leistung</th><th>Dauer</th><th>Preis</th></tr>
-      </thead>
-      <tbody>
-        {offers.map((offer) => (
-          <tr>
-            <td>{offer.name}{offer.description ? ` — ${offer.description}` : ""}</td>
-            <td>{offer.duration ?? "—"}</td>
-            <td>{offer.price ?? "—"}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
+  <section class="offers" aria-labelledby="offers-heading">
+    <h2 id="offers-heading" class="offers__head">Leistungen &amp; Preise</h2>
+    <ul class="offers__list">
+      <li class="offers__row offers__row--labels" aria-hidden="true">
+        <span>Leistung</span><span>Dauer</span><span>Preis</span>
+      </li>
+      {offers.map((offer) => (
+        <li class="offers__row">
+          <span class="offers__name">
+            {offer.name}
+            {offer.description && <span class="offers__desc">{offer.description}</span>}
+          </span>
+          <span class="offers__cell">{offer.duration ?? "auf Anfrage"}</span>
+          <span class="offers__cell offers__price">{offer.price ?? "auf Anfrage"}</span>
+        </li>
+      ))}
+    </ul>
   </section>
 )}
+
+<style>
+  .offers {
+    background: var(--color-surface);
+    border: var(--border-card);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .offers__head {
+    background: var(--color-text);
+    color: var(--color-bg);
+    font-size: 1.25rem;
+    margin: 0;
+    padding: 0.875rem 1.25rem;
+  }
+  .offers__list { list-style: none; padding: 0 1.25rem 0.5rem; }
+  .offers__row {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 1rem;
+    align-items: baseline;
+    padding: 0.875rem 0;
+    border-bottom: 2px dashed var(--color-border);
+  }
+  .offers__row:last-child { border-bottom: 0; }
+  .offers__row--labels {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+    padding: 0.75rem 0 0.5rem;
+  }
+  .offers__name { font-weight: 600; display: flex; flex-direction: column; gap: 0.25rem; }
+  .offers__desc { font-weight: 400; font-size: 0.875rem; color: var(--color-body); }
+  .offers__cell { font-family: var(--font-mono); font-size: 0.9375rem; }
+  .offers__price { font-weight: 700; }
+
+  @media (max-width: 640px) {
+    .offers__row { grid-template-columns: 1fr auto; }
+    .offers__name { grid-column: 1 / -1; }
+  }
+</style>
