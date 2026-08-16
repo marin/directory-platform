@@ -6,10 +6,10 @@ import HubTile from "../../components/cards/HubTile.astro";
 import { loadDataset } from "../../lib/data/load-dataset.ts";
 import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
 import { shouldIndexArea } from "../../lib/data/view-models/entry.ts";
-import { areaPath, absoluteUrl } from "../../lib/routing/paths.ts";
+import { areaPath, areasPath, absoluteUrl } from "../../lib/routing/paths.ts";
 import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
 import JsonLd from "../../components/seo/JsonLd.astro";
-import { buildAreasIndexJsonLd, AREAS_PATH } from "../../lib/seo/structured-data/hub-index.ts";
+import { buildAreasIndexJsonLd } from "../../lib/seo/structured-data/hub-index.ts";
 
 const dataset = loadDataset();
 const openEntries = dataset.entries.filter((e) => e.isOpen);
@@ -28,7 +28,7 @@ const pageDescription = `Heilpraktiker-Praxen in Berlin nach Bezirk: ${areasWith
 const jsonLd = buildAreasIndexJsonLd(areasWithCounts, pageTitle, pageDescription);
 ---
 
-<BaseLayout title="Bezirke" description={pageDescription} canonical={absoluteUrl(AREAS_PATH)}>
+<BaseLayout title="Bezirke" description={pageDescription} canonical={absoluteUrl(areasPath())}>
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
 

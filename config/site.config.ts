@@ -37,6 +37,16 @@ export default defineSite({
     schemaType: "MedicalBusiness",
   },
 
+  // Route prefixes for the hub/collection pages. Changing one of these also
+  // requires renaming the matching Astro page directory under `src/pages/`
+  // to the new value, same as `directory.entryRoute` does for `/heilpraktiker/`.
+  routes: {
+    category: "methoden",
+    area: "bezirk",
+    indication: "indikation",
+    association: "verband",
+  },
+
   geography: {
     locality: "Berlin",
     region: "Berlin",

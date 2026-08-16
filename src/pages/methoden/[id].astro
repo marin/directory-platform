@@ -12,78 +12,78 @@ import { loadDataset } from "../../lib/data/load-dataset.ts";
 import { sortEntriesByRichness } from "../../lib/data/entry-richness.ts";
 import {
   toEntryCardViewModel,
-  shouldIndexArea,
+  shouldIndexCategory,
 } from "../../lib/data/view-models/entry.ts";
-import { computeAreaStats, computeCategoryStats } from "../../lib/aggregates/compute.ts";
+import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { areaPath, areaUrl, categoryPath } from "../../lib/routing/paths.ts";
+import { categoryPath, categoryUrl, areaPath, areasPath, methodsPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import PaginationNav from "../../components/navigation/PaginationNav.astro";
 import siteConfig from "../../../config/site.config.ts";
 
 export function getStaticPaths() {
   const dataset = loadDataset();
-  return dataset.areas.map((area) => {
-    const count = computeAreaStats(dataset.entries, area.id).listingCount;
-    const { index, noindex } = shouldIndexArea(count);
+  return dataset.categories.map((cat) => {
+    const count = computeCategoryStats(dataset.entries, cat.id).listingCount;
+    const { index, noindex } = shouldIndexCategory(count);
     if (!index && !noindex) return [];
     return {
-      params: { id: area.slug },
-      props: { areaId: area.id, noindex },
+      params: { id: cat.slug },
+      props: { categoryId: cat.id, noindex },
     };
   }).flat();
 }
 
-const { areaId, noindex } = Astro.props;
+const { categoryId, noindex } = Astro.props;
 const dataset = loadDataset();
-const area = dataset.areas.find((a) => a.id === areaId)!;
+const category = dataset.categories.find((c) => c.id === categoryId)!;
 const openEntries = sortEntriesByRichness(
-  dataset.entries.filter((e) => e.isOpen && (e.areaIds ?? []).includes(areaId)),
+  dataset.entries.filter((e) => e.isOpen && e.categories.includes(categoryId)),
 );
-const stats = computeAreaStats(dataset.entries, areaId);
-const intro = dataset.areaIntros.get(areaId);
-const faq = dataset.areaFaqs.get(areaId);
+const stats = computeCategoryStats(dataset.entries, categoryId);
+const intro = dataset.categoryIntros.get(categoryId);
+const faq = dataset.categoryFaqs.get(categoryId);
 const cards = openEntries.map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );
-const jsonLd = buildCollectionJsonLd("area", area, openEntries, stats, faq?.faq);
+const jsonLd = buildCollectionJsonLd("category", category, openEntries, stats, faq?.faq);
 const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
-const pageSize = siteConfig.pagination.areaPageSize;
+const pageSize = siteConfig.pagination.categoryPageSize;
 const currentPage = 1;
 const lastPage = computeTotalPages(openEntries.length, pageSize);
 const pageEntries = pageSlice(cards, currentPage, pageSize);
 
-/* Filterleiste zeigt die jeweils andere Dimension: Schwerpunkte. Keine Zähler (B2). */
-const categoryItems = dataset.categories.map((cat) => ({
-  name: cat.name,
-  href: categoryPath(cat.slug),
+/* Filterleiste zeigt die jeweils andere Dimension: Bezirke. Keine Zähler (B2). */
+const areaItems = dataset.areas.map((area) => ({
+  name: area.name,
+  href: areaPath(area.slug),
 }));
 ---
 
 <BaseLayout
-  title={area.name}
-  description={intro?.intro ?? area.description}
-  canonical={areaUrl(area.slug)}
+  title={category.name}
+  description={intro?.intro ?? category.description}
+  canonical={categoryUrl(category.slug)}
   noindex={noindex}
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
 
   <HeroBand
-    eyebrow="Bezirk"
-    title={area.name}
-    lead={intro?.intro ?? area.description}
-    seed={area.slug}
+    eyebrow="Schwerpunkt"
+    title={category.name}
+    lead={intro?.intro ?? category.description}
+    seed={category.slug}
   />
 
   <FilterBar
-    label="Schwerpunkt wählen"
-    items={categoryItems}
-    indexHref="/methoden"
-    dialogId={`filter-${area.slug}`}
+    label="Bezirk wählen"
+    items={areaItems}
+    indexHref={areasPath()}
+    dialogId={`filter-${category.slug}`}
   />
 
   {pageEntries.length > 0 ? (
@@ -92,11 +92,11 @@ const categoryItems = dataset.categories.map((cat) => ({
     </div>
   ) : (
     <EmptyState
-      headline={`In ${area.name} ist bisher keine Praxis erfasst.`}
-      note="Das heißt nicht, dass es keine gibt — nur, dass wir keine erfasst haben. Kennen Sie eine?"
+      headline={`Für ${category.name} liegt uns kein Eintrag vor.`}
+      note="Das heißt nicht, dass es keine Praxis gibt — nur, dass wir keine erfasst haben. Kennen Sie eine?"
       actions={[
-        { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
-        { label: "Alle Bezirke", href: "/area" },
+        { label: "Praxis eintragen", href: "/eintrag-melden/", kind: "primary" },
+        { label: "Alle Methoden", href: methodsPath() },
       ]}
     />
   )}
@@ -104,7 +104,7 @@ const categoryItems = dataset.categories.map((cat) => ({
   <PaginationNav
     currentPage={currentPage}
     totalPages={lastPage}
-    basePath={areaPath(area.slug)}
+    basePath={categoryPath(category.slug)}
   />
   {faq && <FaqSection items={faq.faq} variant="band" />}
   {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}

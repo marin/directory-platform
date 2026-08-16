@@ -79,7 +79,7 @@ describe("generated site", () => {
     for (const id of multiCategoryEntry.categories) {
       const category = dataset.categories.find((c) => c.id === id);
       expect(category).toBeDefined();
-      expect(html).toContain(`/category/${category!.slug}`);
+      expect(html).toContain(`/methoden/${category!.slug}/`);
     }
     const linkCount = (html.match(/data-testid="entry-category-link"/g) ?? []).length;
     expect(linkCount).toBe(multiCategoryEntry.categories.length);
@@ -112,7 +112,7 @@ describe("generated site", () => {
   it("links claim from profiles and names related listings by district", () => {
     const html = readDist(`${siteConfig.directory.entryRoute}/${sampleEntry!.slug}/index.html`);
     expect(html).toContain('data-testid="entry-claim"');
-    expect(html).toContain(`/eintrag-melden?eintrag=${encodeURIComponent(sampleEntry!.slug)}`);
+    expect(html).toContain(`/eintrag-melden/?eintrag=${encodeURIComponent(sampleEntry!.slug)}`);
     expect(html).toMatch(/Weitere Heilpraktiker(?: für [^<]+)? in /);
   });
 
@@ -148,7 +148,7 @@ describe("generated site", () => {
       expect(html).toContain('data-testid="entry-associations"');
       expect(html).toContain('"@type":"Organization"');
       expect(html).toContain("/verband/");
-      expect(html).toContain(`href="/verband/${taggedEntry.associationIds![0]}`);
+      expect(html).toContain(`href="/verband/${taggedEntry.associationIds![0]}/`);
     }
   });
 
@@ -164,7 +164,7 @@ describe("generated site", () => {
     expect(html).toContain(`Heilpraktiker für ${tagged!.name} in Berlin`);
     expect(html).toContain('data-testid="indication-intro"');
     expect(html).toContain('data-testid="breadcrumbs"');
-    expect(html).toContain('href="/indikation"');
+    expect(html).toContain('href="/indikation/"');
   });
 
   it("builds an indexable indications overview at /indikation/", () => {
@@ -183,7 +183,7 @@ describe("generated site", () => {
     expect(html).toContain("Nach Beschwerde");
     expect(html).toContain('data-testid="home-indication"');
     expect(html).toContain('data-testid="home-indications-heading"');
-    expect(html).toContain('href="/indikation"');
+    expect(html).toContain('href="/indikation/"');
   });
 
   it("builds association hub pages for tagged memberships", () => {
@@ -198,7 +198,7 @@ describe("generated site", () => {
     expect(html).toContain("in Berlin");
     expect(html).toContain('data-testid="association-intro"');
     expect(html).toContain('data-testid="breadcrumbs"');
-    expect(html).toContain('href="/verband"');
+    expect(html).toContain('href="/verband/"');
   });
 
   it("builds an indexable associations overview at /verband/", () => {
@@ -212,20 +212,20 @@ describe("generated site", () => {
     expect(html).toContain("Häufig gestellte Fragen");
   });
 
-  it("emits CollectionPage JSON-LD on /methoden and /area", () => {
+  it("emits CollectionPage JSON-LD on /methoden/ and /bezirk/", () => {
     const methods = readDist("methoden/index.html");
     expect(methods).toContain('"@type":"CollectionPage"');
     expect(methods).toContain('"@type":"ItemList"');
     expect(methods).toContain('"@type":"MedicalTherapy"');
     expect(methods).toContain('rel="canonical" href="');
-    expect(methods).toContain("/methoden");
+    expect(methods).toContain("/methoden/");
 
-    const areas = readDist("area/index.html");
+    const areas = readDist("bezirk/index.html");
     expect(areas).toContain('"@type":"CollectionPage"');
     expect(areas).toContain('"@type":"ItemList"');
     expect(areas).toContain('"@type":"AdministrativeArea"');
     expect(areas).toContain('rel="canonical" href="');
-    expect(areas).toContain("/area");
+    expect(areas).toContain("/bezirk/");
   });
 
   it("lists indexable association hubs on the homepage", () => {
@@ -233,7 +233,7 @@ describe("generated site", () => {
     expect(html).toContain("Nach Verband");
     expect(html).toContain('data-testid="home-association"');
     expect(html).toContain('data-testid="home-associations-heading"');
-    expect(html).toContain('href="/verband"');
+    expect(html).toContain('href="/verband/"');
   });
 
   it("renders Instagram when a profile URL is tagged", () => {
@@ -270,7 +270,7 @@ describe("generated site", () => {
   });
 
   it("includes last updated on category pages", () => {
-    const html = readDist(`category/${sampleCategory.slug}/index.html`);
+    const html = readDist(`methoden/${sampleCategory.slug}/index.html`);
     expect(html).toContain('data-testid="last-updated"');
     expect(html).not.toContain('data-testid="aggregate-facts"');
   });
@@ -338,7 +338,7 @@ describe("generated site", () => {
     const category = dataset.categories.find((item) => item.id === entryWithImages.categories[0]);
     if (!category) return;
 
-    const html = readDist(`category/${category.slug}/index.html`);
+    const html = readDist(`methoden/${category.slug}/index.html`);
     expect(html).toContain('data-testid="entry-card-image"');
   });
 });

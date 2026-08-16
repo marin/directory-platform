@@ -15,16 +15,16 @@ import { buildIndicationsIndexJsonLd, buildCollectionJsonLd } from "../../src/li
 
 describe("indication paths", () => {
   it("builds hub and paginated paths", () => {
-    expect(indicationPath("kinderwunsch")).toBe("/indikation/kinderwunsch");
-    expect(indicationPath("kinderwunsch", 2)).toBe("/indikation/kinderwunsch/2");
+    expect(indicationPath("kinderwunsch")).toBe("/indikation/kinderwunsch/");
+    expect(indicationPath("kinderwunsch", 2)).toBe("/indikation/kinderwunsch/2/");
     expect(indicationUrl("kinderwunsch")).toBe(
-      `${siteConfig.site.origin}/indikation/kinderwunsch`,
+      `${siteConfig.site.origin}/indikation/kinderwunsch/`,
     );
   });
 
   it("builds the indication index path", () => {
-    expect(indicationsPath()).toBe("/indikation");
-    expect(indicationsUrl()).toBe(`${siteConfig.site.origin}/indikation`);
+    expect(indicationsPath()).toBe("/indikation/");
+    expect(indicationsUrl()).toBe(`${siteConfig.site.origin}/indikation/`);
   });
 });
 

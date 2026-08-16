@@ -10,13 +10,15 @@ interface Props {
 const { title, description } = Astro.props;
 
 const legalLinks = [
-  { href: "/ueber-uns", label: "Über uns" },
-  { href: "/kontakt", label: "Kontakt" },
-  { href: "/eintrag-melden", label: "Eintrag melden" },
-  { href: "/impressum", label: "Impressum" },
-  { href: "/datenschutz", label: "Datenschutz" },
-  { href: "/nutzungsbedingungen", label: "Nutzungsbedingungen" },
+  { href: "/ueber-uns/", label: "Über uns" },
+  { href: "/kontakt/", label: "Kontakt" },
+  { href: "/eintrag-melden/", label: "Eintrag melden" },
+  { href: "/impressum/", label: "Impressum" },
+  { href: "/datenschutz/", label: "Datenschutz" },
+  { href: "/nutzungsbedingungen/", label: "Nutzungsbedingungen" },
 ];
+// Both sides are normalized without a trailing slash so the active-page
+// comparison keeps working now that `legalLinks` hrefs end in "/".
 const current = Astro.url.pathname.replace(/\/$/, "");
 const stand = new Intl.DateTimeFormat("de-DE", {
   day: "2-digit",
@@ -33,7 +35,7 @@ const stand = new Intl.DateTimeFormat("de-DE", {
       <ul>
         {legalLinks.map((link) => (
           <li>
-            <a href={link.href} aria-current={current === link.href ? "page" : undefined}>
+            <a href={link.href} aria-current={current === link.href.replace(/\/$/, "") ? "page" : undefined}>
               {link.label}
             </a>
           </li>

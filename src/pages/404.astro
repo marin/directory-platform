@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import SiteHeader from "../components/navigation/SiteHeader.astro";
 import EmptyState from "../components/layout/EmptyState.astro";
 import HeroBand from "../components/layout/HeroBand.astro";
+import { methodsPath } from "../lib/routing/paths.ts";
 ---
 
 <BaseLayout title="Seite nicht gefunden" noindex={true}>
@@ -19,7 +20,7 @@ import HeroBand from "../components/layout/HeroBand.astro";
     headline="Zwei Wege weiter:"
     actions={[
       { label: "Startseite", href: "/", kind: "primary" },
-      { label: "Methoden-Übersicht", href: "/methoden" },
+      { label: "Methoden-Übersicht", href: methodsPath() },
     ]}
   />
 </BaseLayout>

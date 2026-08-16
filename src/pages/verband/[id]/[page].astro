@@ -18,7 +18,7 @@ import {
 import { computeCategoryStats, computeAssociationStats, associationEntries } from "../../../lib/aggregates/compute.ts";
 import { associationHubTitle, associationShortName } from "../../../lib/data/association-hubs.ts";
 import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
-import { homePath, associationPath, associationsPath, associationUrl, areaPath } from "../../../lib/routing/paths.ts";
+import { homePath, associationPath, associationsPath, associationUrl, areaPath, areasPath } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
 
@@ -54,7 +54,7 @@ const faq = dataset.associationFaqs.get(associationId);
 const cards = openEntries.map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );
-const jsonLd = buildCollectionJsonLd("association", association, openEntries, stats, faq?.faq);
+const jsonLd = buildCollectionJsonLd("association", association, openEntries, stats, faq?.faq, page);
 const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
@@ -94,7 +94,7 @@ const areaItems = dataset.areas.map((area) => ({ name: area.name, href: areaPath
     <FilterBar
       label="Bezirk wählen"
       items={areaItems}
-      indexHref="/area"
+      indexHref={areasPath()}
       dialogId={`filter-${association.slug}-${page}`}
     />
 

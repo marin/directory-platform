@@ -12,7 +12,7 @@ import {
   shouldIndexIndication,
   shouldIndexAssociation,
 } from "../lib/data/view-models/entry.ts";
-import { indicationPath, indicationsPath, associationPath, associationsPath, areaPath, categoryPath } from "../lib/routing/paths.ts";
+import { indicationPath, indicationsPath, associationPath, associationsPath, areaPath, categoryPath, methodsPath, areasPath } from "../lib/routing/paths.ts";
 import JsonLd from "../components/seo/JsonLd.astro";
 import { buildOrganizationJsonLd } from "../lib/seo/structured-data/organization.ts";
 import siteConfig from "../../config/site.config.ts";
@@ -59,8 +59,8 @@ const pageDescription = `Unabhängiges Verzeichnis: Heilpraktiker-Praxen in Berl
     lead={`${totalOpen} Praxen in ${areaCount} Bezirken, sortiert nach Schwerpunkt und Lage. Wir sammeln öffentlich zugängliche Angaben, prüfen sie stichprobenartig und nennen zu jedem Eintrag Quelle und Prüfdatum.`}
     seed="startseite"
     actions={[
-      { label: "Methoden ansehen", href: "/methoden", kind: "primary" },
-      { label: "Nach Bezirk suchen", href: "/area", kind: "ghost" },
+      { label: "Methoden ansehen", href: methodsPath(), kind: "primary" },
+      { label: "Nach Bezirk suchen", href: areasPath(), kind: "ghost" },
     ]}
   />
 
@@ -112,7 +112,7 @@ const pageDescription = `Unabhängiges Verzeichnis: Heilpraktiker-Praxen in Berl
         title="Ist das Ihre Praxis?"
         text="Foto, Leistungen und Zeiten ergänzen — kostenlos, ohne Konto. Wir prüfen die Angaben und nennen Sie als Quelle."
         linkLabel="Eintrag übernehmen"
-        href="/eintrag-melden"
+        href="/eintrag-melden/"
       />
     </div>
   </section>

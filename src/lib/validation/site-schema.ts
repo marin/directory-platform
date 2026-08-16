@@ -32,6 +32,12 @@ export const siteConfigSchema = z.object({
     phoneRegion: z.string().length(2),
     schemaType: z.string().min(1),
   }),
+  routes: z.object({
+    category: z.string().min(1),
+    area: z.string().min(1),
+    indication: z.string().min(1),
+    association: z.string().min(1),
+  }),
   geography: z.object({
     locality: z.string().min(1),
     region: z.string().min(1),

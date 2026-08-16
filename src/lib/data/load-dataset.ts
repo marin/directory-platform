@@ -280,24 +280,33 @@ export function validateDataset(): ValidationIssue[] {
         ? readJsonFile("data/redirects.json")
         : [],
     );
+    // Route prefixes are config-driven; kept WITHOUT a trailing slash here
+    // because `data/redirects.json` targets are slashless (e.g.
+    // "/heilpraktiker/heilpraktiker-krauss"), and both sides of the
+    // comparisons below need to line up with that convention.
+    const { category: categoryRoute, area: areaRoute, indication: indicationRoute, association: associationRoute } =
+      siteConfig.routes;
+    const normalizeTarget = (path: string): string =>
+      path === "/" ? path : path.replace(/\/+$/, "");
+
     const liveRoutes = new Set<string>();
     for (const slug of entrySlugs) {
       liveRoutes.add(`/${siteConfig.directory.entryRoute}/${slug}`);
     }
     for (const cat of categories) {
-      liveRoutes.add(`/category/${cat.slug}`);
+      liveRoutes.add(`/${categoryRoute}/${cat.slug}`);
     }
     for (const area of areas) {
-      liveRoutes.add(`/area/${area.slug}`);
+      liveRoutes.add(`/${areaRoute}/${area.slug}`);
     }
     for (const indication of indications) {
-      liveRoutes.add(`/indikation/${indication.slug}`);
+      liveRoutes.add(`/${indicationRoute}/${indication.slug}`);
     }
-    liveRoutes.add("/indikation");
+    liveRoutes.add(`/${indicationRoute}`);
     for (const association of associations) {
-      liveRoutes.add(`/verband/${association.slug}`);
+      liveRoutes.add(`/${associationRoute}/${association.slug}`);
     }
-    liveRoutes.add("/verband");
+    liveRoutes.add(`/${associationRoute}`);
     for (const [i, redirect] of redirects.entries()) {
       if (!redirect.to.startsWith("/")) {
         issues.push({
@@ -306,23 +315,24 @@ export function validateDataset(): ValidationIssue[] {
           message: "redirect target must be an absolute path",
         });
       }
+      const to = normalizeTarget(redirect.to);
       const targetExists =
-        liveRoutes.has(redirect.to) ||
-        redirects.some((r) => `/${r.from}` === redirect.to || r.to === redirect.to);
-      if (!liveRoutes.has(redirect.to) && !redirect.to.startsWith("/category/")) {
+        liveRoutes.has(to) ||
+        redirects.some((r) => `/${r.from}` === to || normalizeTarget(r.to) === to);
+      if (!liveRoutes.has(to) && !to.startsWith(`/${categoryRoute}/`)) {
         // Allow category targets even if thin
-        const catTarget = categories.find((c) => `/category/${c.slug}` === redirect.to);
-        const areaTarget = areas.find((a) => `/area/${a.slug}` === redirect.to);
-        const indicationTarget = indications.find((item) => `/indikation/${item.slug}` === redirect.to);
-        const associationTarget = associations.find((item) => `/verband/${item.slug}` === redirect.to);
+        const catTarget = categories.find((c) => `/${categoryRoute}/${c.slug}` === to);
+        const areaTarget = areas.find((a) => `/${areaRoute}/${a.slug}` === to);
+        const indicationTarget = indications.find((item) => `/${indicationRoute}/${item.slug}` === to);
+        const associationTarget = associations.find((item) => `/${associationRoute}/${item.slug}` === to);
         if (
           !catTarget &&
           !areaTarget &&
           !indicationTarget &&
           !associationTarget &&
-          redirect.to !== "/" &&
-          redirect.to !== "/indikation" &&
-          redirect.to !== "/verband"
+          to !== "/" &&
+          to !== `/${indicationRoute}` &&
+          to !== `/${associationRoute}`
         ) {
           issues.push({
             file: "data/redirects.json",

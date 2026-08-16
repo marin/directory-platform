@@ -3,9 +3,8 @@ import { loadDataset } from "../../src/lib/data/load-dataset.ts";
 import {
   buildMethodsIndexJsonLd,
   buildAreasIndexJsonLd,
-  METHODS_PATH,
-  AREAS_PATH,
 } from "../../src/lib/seo/structured-data/hub-index.ts";
+import { methodsPath, areasPath } from "../../src/lib/routing/paths.ts";
 
 function graphTypes(jsonLd: Record<string, unknown>): unknown[] {
   const graph = jsonLd["@graph"] as Array<Record<string, unknown>>;
@@ -36,8 +35,8 @@ describe("methods index JSON-LD", () => {
     expect(types).not.toContain("FAQPage");
 
     expect(new Set(itemTypes(jsonLd))).toEqual(new Set(["MedicalTherapy"]));
-    expect(JSON.stringify(jsonLd)).toContain(METHODS_PATH);
-    expect(JSON.stringify(jsonLd)).toContain("/category/");
+    expect(JSON.stringify(jsonLd)).toContain(methodsPath());
+    expect(JSON.stringify(jsonLd)).toContain("/methoden/");
   });
 });
 
@@ -57,7 +56,7 @@ describe("areas index JSON-LD", () => {
     expect(types).not.toContain("FAQPage");
 
     expect(new Set(itemTypes(jsonLd))).toEqual(new Set(["AdministrativeArea"]));
-    expect(JSON.stringify(jsonLd)).toContain(AREAS_PATH);
-    expect(JSON.stringify(jsonLd)).toContain("/area/");
+    expect(JSON.stringify(jsonLd)).toContain(areasPath());
+    expect(JSON.stringify(jsonLd)).toContain("/bezirk/");
   });
 });

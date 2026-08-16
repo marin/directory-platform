@@ -1,4 +1,5 @@
 ---
+import { Font } from "astro:assets";
 import siteConfig from "../../config/site.config.ts";
 import SiteFooter from "../components/navigation/SiteFooter.astro";
 import CookieConsent from "../components/consent/CookieConsent.astro";
@@ -9,12 +10,21 @@ interface Props {
   canonical?: string;
   image?: string;
   noindex?: boolean;
+  ogType?: string;
 }
 
-const { title, description, canonical, image, noindex = false } = Astro.props;
+const { title, description, canonical, image, noindex = false, ogType = "website" } = Astro.props;
+const pageTitle = `${title} | ${siteConfig.site.name}`;
 const pageDescription = description ?? siteConfig.site.description;
-const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteConfig.site.origin).href;
-const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
+// canonical/og:url always carry a trailing slash to match the sitemap's <loc> values.
+const trailingSlashPathname = Astro.url.pathname.endsWith("/")
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonicalUrl = canonical ?? new URL(trailingSlashPathname, siteConfig.site.origin).href;
+const ogImage = image
+  ? new URL(image, siteConfig.site.origin).href
+  : new URL("/og-default.png", siteConfig.site.origin).href;
+const ogLocale = siteConfig.site.defaultLocale.replace("-", "_");
 ---
 
 <!doctype html>
@@ -22,20 +32,34 @@ const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title} | {siteConfig.site.name}</title>
+    <title>{pageTitle}</title>
     <meta name="description" content={pageDescription} />
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex, follow" />}
-    {ogImage && <meta property="og:image" content={ogImage} />}
-    {ogImage && <meta name="twitter:card" content="summary_large_image" />}
-    {ogImage && <meta name="twitter:image" content={ogImage} />}
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content={siteConfig.site.name} />
+    <meta property="og:locale" content={ogLocale} />
+    <meta property="og:image" content={ogImage} />
+    {
+      !image && (
+        <>
+          <meta property="og:image:width" content="1200" />
+          <meta property="og:image:height" content="630" />
+        </>
+      )
+    }
+    <meta property="og:image:alt" content={`${siteConfig.site.name} – Verzeichnis für Heilpraktiker in Berlin`} />
+    <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDescription} />
+    <meta name="twitter:image" content={ogImage} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Karla:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap"
-    />
+    <Font cssVariable="--font-display" preload />
+    <Font cssVariable="--font-sans" preload />
+    <Font cssVariable="--font-mono" preload />
     <slot name="head" />
     <style is:global>
       :root {
@@ -56,9 +80,6 @@ const ogImage = image ? new URL(image, siteConfig.site.origin).href : undefined;
         --color-border-dark: #6259a3;
         --color-visited: #7a3f8f;
         --color-closed: #c2300a;
-        --font-display: "Bricolage Grotesque", system-ui, sans-serif;
-        --font-sans: Karla, system-ui, sans-serif;
-        --font-mono: "Space Grotesk", ui-monospace, monospace;
         --max-width: 84rem;
         --gutter: 3rem;
         --radius: 1.25rem;

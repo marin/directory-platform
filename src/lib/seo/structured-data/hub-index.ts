@@ -2,15 +2,13 @@ import siteConfig from "../../../../config/site.config.ts";
 import {
   categoryPath,
   areaPath,
+  methodsPath,
+  areasPath,
   absoluteUrl,
   homePath,
   homeUrl,
 } from "../../routing/paths.ts";
 import { buildBreadcrumbList } from "./builders.ts";
-
-/** Übersichtsseiten ohne eigene Route-Helfer — Pfade stehen im Header und Footer genauso. */
-export const METHODS_PATH = "/methoden";
-export const AREAS_PATH = "/area";
 
 interface HubItem {
   name: string;
@@ -90,7 +88,7 @@ export function buildMethodsIndexJsonLd(
   faq: Array<{ question: string; answer: string }> = [],
 ): Record<string, unknown> {
   return buildHubIndexJsonLd({
-    path: METHODS_PATH,
+    path: methodsPath(),
     breadcrumbLabel: "Methoden",
     title,
     description,
@@ -101,7 +99,7 @@ export function buildMethodsIndexJsonLd(
   });
 }
 
-/** /area — Bezirke als AdministrativeArea. */
+/** /bezirk — Bezirke als AdministrativeArea. */
 export function buildAreasIndexJsonLd(
   hubs: HubItem[],
   title: string,
@@ -109,7 +107,7 @@ export function buildAreasIndexJsonLd(
   faq: Array<{ question: string; answer: string }> = [],
 ): Record<string, unknown> {
   return buildHubIndexJsonLd({
-    path: AREAS_PATH,
+    path: areasPath(),
     breadcrumbLabel: "Bezirke",
     title,
     description,

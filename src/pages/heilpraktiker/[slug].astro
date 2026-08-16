@@ -47,7 +47,7 @@ const primaryArea = vm.areas[0];
 const jsonLd = buildListingJsonLd(
   entry,
   vm.category,
-  primaryArea,
+  vm.areas,
   vm.indications,
   dataset.associations.filter((item) => (entry.associationIds ?? []).includes(item.id)),
 );

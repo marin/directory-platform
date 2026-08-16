@@ -1,15 +1,15 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import SiteHeader from "../components/navigation/SiteHeader.astro";
-import HeroBand from "../components/layout/HeroBand.astro";
-import HubTile from "../components/cards/HubTile.astro";
-import { loadDataset } from "../lib/data/load-dataset.ts";
-import { computeCategoryStats } from "../lib/aggregates/compute.ts";
-import { shouldIndexCategory } from "../lib/data/view-models/entry.ts";
-import { categoryPath, indicationsPath, absoluteUrl } from "../lib/routing/paths.ts";
-import Breadcrumbs from "../components/navigation/Breadcrumbs.astro";
-import JsonLd from "../components/seo/JsonLd.astro";
-import { buildMethodsIndexJsonLd, METHODS_PATH } from "../lib/seo/structured-data/hub-index.ts";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SiteHeader from "../../components/navigation/SiteHeader.astro";
+import HeroBand from "../../components/layout/HeroBand.astro";
+import HubTile from "../../components/cards/HubTile.astro";
+import { loadDataset } from "../../lib/data/load-dataset.ts";
+import { computeCategoryStats } from "../../lib/aggregates/compute.ts";
+import { shouldIndexCategory } from "../../lib/data/view-models/entry.ts";
+import { categoryPath, indicationsPath, methodsPath, absoluteUrl } from "../../lib/routing/paths.ts";
+import Breadcrumbs from "../../components/navigation/Breadcrumbs.astro";
+import JsonLd from "../../components/seo/JsonLd.astro";
+import { buildMethodsIndexJsonLd } from "../../lib/seo/structured-data/hub-index.ts";
 
 const dataset = loadDataset();
 const categoriesWithCounts = dataset.categories
@@ -29,7 +29,7 @@ const lead = `Heilpraktiker arbeiten selten mit nur einem Verfahren. Die ${total
 <BaseLayout
   title="Methoden"
   description={pageDescription}
-  canonical={absoluteUrl(METHODS_PATH)}
+  canonical={absoluteUrl(methodsPath())}
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />

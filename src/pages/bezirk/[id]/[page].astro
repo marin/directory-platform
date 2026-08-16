@@ -12,29 +12,29 @@ import { loadDataset } from "../../../lib/data/load-dataset.ts";
 import { sortEntriesByRichness } from "../../../lib/data/entry-richness.ts";
 import {
   toEntryCardViewModel,
-  shouldIndexCategory,
+  shouldIndexArea,
 } from "../../../lib/data/view-models/entry.ts";
-import { computeCategoryStats } from "../../../lib/aggregates/compute.ts";
+import { computeAreaStats, computeCategoryStats } from "../../../lib/aggregates/compute.ts";
 import { buildCollectionJsonLd } from "../../../lib/seo/structured-data/builders.ts";
-import { categoryPath, categoryUrl, areaPath } from "../../../lib/routing/paths.ts";
+import { areaPath, areaUrl, categoryPath, methodsPath } from "../../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../../lib/pagination.ts";
 import siteConfig from "../../../../config/site.config.ts";
 
 export function getStaticPaths() {
   const dataset = loadDataset();
-  const pageSize = siteConfig.pagination.categoryPageSize;
+  const pageSize = siteConfig.pagination.areaPageSize;
   const paths = [];
 
-  for (const cat of dataset.categories) {
-    const count = computeCategoryStats(dataset.entries, cat.id).listingCount;
-    const { index, noindex } = shouldIndexCategory(count);
+  for (const area of dataset.areas) {
+    const count = computeAreaStats(dataset.entries, area.id).listingCount;
+    const { index, noindex } = shouldIndexArea(count);
     if (!index && !noindex) continue;
 
     const lastPage = computeTotalPages(count, pageSize);
     for (let page = 2; page <= lastPage; page += 1) {
       paths.push({
-        params: { id: cat.slug, page: String(page) },
-        props: { categoryId: cat.id, page, lastPage, noindex },
+        params: { id: area.slug, page: String(page) },
+        props: { areaId: area.id, page, lastPage, noindex },
       });
     }
   }
@@ -42,57 +42,60 @@ export function getStaticPaths() {
   return paths;
 }
 
-const { categoryId, page, lastPage, noindex } = Astro.props;
+const { areaId, page, lastPage, noindex } = Astro.props;
 const dataset = loadDataset();
-const category = dataset.categories.find((c) => c.id === categoryId)!;
+const area = dataset.areas.find((a) => a.id === areaId)!;
 const openEntries = sortEntriesByRichness(
-  dataset.entries.filter((e) => e.isOpen && e.categories.includes(categoryId)),
+  dataset.entries.filter((e) => e.isOpen && (e.areaIds ?? []).includes(areaId)),
 );
-const stats = computeCategoryStats(dataset.entries, categoryId);
-const intro = dataset.categoryIntros.get(categoryId);
-const faq = dataset.categoryFaqs.get(categoryId);
+const stats = computeAreaStats(dataset.entries, areaId);
+const intro = dataset.areaIntros.get(areaId);
+const faq = dataset.areaFaqs.get(areaId);
 const cards = openEntries.map((e) =>
   toEntryCardViewModel(e, dataset.categories, dataset.areas),
 );
-const jsonLd = buildCollectionJsonLd("category", category, openEntries, stats, faq?.faq);
+const jsonLd = buildCollectionJsonLd("area", area, openEntries, stats, faq?.faq, page);
 const categoriesWithCounts = dataset.categories.map((cat) => ({
   ...cat,
   count: computeCategoryStats(dataset.entries, cat.id).listingCount,
 }));
-const pageSize = siteConfig.pagination.categoryPageSize;
+const pageSize = siteConfig.pagination.areaPageSize;
 const pageEntries = pageSlice(cards, page, pageSize);
-const title = `${category.name} – Seite ${page}`;
-const areaItems = dataset.areas.map((area) => ({ name: area.name, href: areaPath(area.slug) }));
+const title = `${area.name} – Seite ${page}`;
+const categoryItems = dataset.categories.map((cat) => ({
+  name: cat.name,
+  href: categoryPath(cat.slug),
+}));
 ---
 
 <BaseLayout
   title={title}
-  description={intro?.intro ?? category.description}
-  canonical={categoryUrl(category.slug, page)}
+  description={intro?.intro ?? area.description}
+  canonical={areaUrl(area.slug, page)}
   noindex={noindex}
 >
   <SiteHeader slot="header" categories={categoriesWithCounts} />
   <JsonLd slot="head" data={jsonLd} />
 
   <HeroBand
-    eyebrow={`Schwerpunkt · Seite ${page}`}
-    title={category.name}
-    lead={intro?.intro ?? category.description}
-    seed={category.slug}
+    eyebrow={`Bezirk · Seite ${page}`}
+    title={area.name}
+    lead={intro?.intro ?? area.description}
+    seed={area.slug}
   />
 
   <FilterBar
-    label="Bezirk wählen"
-    items={areaItems}
-    indexHref="/area"
-    dialogId={`filter-${category.slug}-${page}`}
+    label="Schwerpunkt wählen"
+    items={categoryItems}
+    indexHref={methodsPath()}
+    dialogId={`filter-${area.slug}-${page}`}
   />
 
   <div class="grid grid-3">
     {pageEntries.map((card) => <EntryCard card={card} />)}
   </div>
 
-  <PaginationNav currentPage={page} totalPages={lastPage} basePath={categoryPath(category.slug)} />
+  <PaginationNav currentPage={page} totalPages={lastPage} basePath={areaPath(area.slug)} />
   {faq && <FaqSection items={faq.faq} variant="band" />}
   {stats.mostRecentUpdate && <LastUpdated date={stats.mostRecentUpdate} />}
 </BaseLayout>

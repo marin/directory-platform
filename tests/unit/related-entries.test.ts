@@ -195,6 +195,6 @@ describe("toEntryViewModel badges", () => {
     );
     const hpp = vm.badges.find((badge) => badge.id === "hpp");
     expect(hpp?.label).toBe("Heilpraktiker für Psychotherapie");
-    expect(hpp?.href).toBe("/category/psychotherapie");
+    expect(hpp?.href).toBe("/methoden/psychotherapie/");
   });
 });

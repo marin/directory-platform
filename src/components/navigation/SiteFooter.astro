@@ -1,6 +1,6 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
-import { indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
+import { indicationsPath, associationsPath, methodsPath, areasPath } from "../../lib/routing/paths.ts";
 
 const dataStand = new Intl.DateTimeFormat("de-DE", { month: "long", year: "numeric" }).format(
   new Date(),
@@ -21,22 +21,22 @@ const dataStand = new Intl.DateTimeFormat("de-DE", { month: "long", year: "numer
     <nav class="site-footer__col" aria-label="Verzeichnis">
       <p class="site-footer__head">Verzeichnis</p>
       <ul class="site-footer__links">
-        <li><a href="/methoden">Methoden</a></li>
+        <li><a href={methodsPath()}>Methoden</a></li>
         <li><a href={indicationsPath()}>Beschwerden</a></li>
-        <li><a href="/area">Bezirke</a></li>
+        <li><a href={areasPath()}>Bezirke</a></li>
         <li><a href={associationsPath()}>Verbände</a></li>
-        <li><a href="/eintrag-melden">Praxis eintragen</a></li>
+        <li><a href="/eintrag-melden/">Praxis eintragen</a></li>
       </ul>
     </nav>
 
     <nav class="site-footer__col" aria-label="Rechtliches und Service">
       <p class="site-footer__head">Rechtliches</p>
       <ul class="site-footer__links">
-        <li><a href="/ueber-uns">Über uns</a></li>
-        <li><a href="/kontakt">Kontakt</a></li>
-        <li><a href="/impressum">Impressum</a></li>
-        <li><a href="/datenschutz">Datenschutz</a></li>
-        <li><a href="/nutzungsbedingungen">Nutzungsbedingungen</a></li>
+        <li><a href="/ueber-uns/">Über uns</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/impressum/">Impressum</a></li>
+        <li><a href="/datenschutz/">Datenschutz</a></li>
+        <li><a href="/nutzungsbedingungen/">Nutzungsbedingungen</a></li>
       </ul>
     </nav>
   </div>

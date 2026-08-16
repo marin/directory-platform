@@ -33,10 +33,73 @@ export function buildBreadcrumbList(
   };
 }
 
+const DAY_OF_WEEK_SCHEMA_URLS: Record<string, string> = {
+  Monday: "https://schema.org/Monday",
+  Tuesday: "https://schema.org/Tuesday",
+  Wednesday: "https://schema.org/Wednesday",
+  Thursday: "https://schema.org/Thursday",
+  Friday: "https://schema.org/Friday",
+  Saturday: "https://schema.org/Saturday",
+  Sunday: "https://schema.org/Sunday",
+};
+
+const TIME_24H_PATTERN = /^([01]\d|2[0-3]):[0-5]\d$/;
+
+/**
+ * Maps the stored `openingHours` rows (already validated against
+ * `openingHoursSchema` at data-load time) to schema.org
+ * `OpeningHoursSpecification` objects. One specification is emitted per
+ * stored row, so split hours (e.g. a lunch break) naturally become two
+ * specifications sharing the same `dayOfWeek` — the pattern schema.org's
+ * own examples use. Rows with an unrecognized day or a time that isn't
+ * 24h `HH:MM` are skipped rather than emitted as malformed markup.
+ */
+function toOpeningHoursSpecification(
+  hours: NormalizedEntry["openingHours"],
+): Record<string, unknown>[] {
+  return (hours ?? []).flatMap((hour) => {
+    const dayOfWeek = hour?.day ? DAY_OF_WEEK_SCHEMA_URLS[hour.day] : undefined;
+    const opens =
+      typeof hour?.open === "string" && TIME_24H_PATTERN.test(hour.open)
+        ? hour.open
+        : undefined;
+    const closes =
+      typeof hour?.close === "string" && TIME_24H_PATTERN.test(hour.close)
+        ? hour.close
+        : undefined;
+    if (!dayOfWeek || !opens || !closes) return [];
+    return [
+      {
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek,
+        opens,
+        closes,
+      },
+    ];
+  });
+}
+
+/**
+ * Derives a schema.org `priceRange` string from offers with a usable
+ * numeric price, formatted the same way prices are shown elsewhere on
+ * the site (`formatPrice`). Returns undefined when no offer has a price.
+ */
+function computePriceRange(offers: NormalizedEntry["offers"]): string | undefined {
+  const prices = (offers ?? [])
+    .map((offer) => offer.price)
+    .filter((price): price is number => typeof price === "number" && Number.isFinite(price));
+  if (prices.length === 0) return undefined;
+
+  const low = formatPrice(Math.min(...prices));
+  const high = formatPrice(Math.max(...prices));
+  if (!low || !high) return undefined;
+  return low === high ? low : `${low} – ${high}`;
+}
+
 export function buildListingJsonLd(
   entry: NormalizedEntry,
   category: Category | undefined,
-  area?: Area,
+  areas: Area[] = [],
   indications: Indication[] = [],
   associations: Association[] = [],
 ): Record<string, unknown> {
@@ -45,7 +108,7 @@ export function buildListingJsonLd(
     ...(category
       ? [{ name: category.name, path: categoryPath(category.slug) }]
       : []),
-    ...(area ? [{ name: area.name, path: areaPath(area.slug) }] : []),
+    ...(areas[0] ? [{ name: areas[0].name, path: areaPath(areas[0].slug) }] : []),
     { name: entry.name, path: entryPath(entry.slug) },
   ]);
 
@@ -77,6 +140,12 @@ export function buildListingJsonLd(
       latitude: entry.geo.lat,
       longitude: entry.geo.lng,
     };
+  }
+  if (areas.length > 0) {
+    business.areaServed = areas.map((item) => ({
+      "@type": "AdministrativeArea",
+      name: item.name,
+    }));
   }
   const mapsListingUrl = resolveGoogleMapsUrl(
     extractPlaceIdFromGoogleMapsUrl(entry.googleMapsUrl),
@@ -134,6 +203,20 @@ export function buildListingJsonLd(
         description: offer.description,
       })),
     };
+    business.availableService = (entry.offers ?? []).map((offer) => ({
+      "@type": "MedicalTherapy",
+      name: offer.name,
+    }));
+  }
+
+  if (entry.isOpen) {
+    const priceRange = computePriceRange(entry.offers);
+    if (priceRange) business.priceRange = priceRange;
+
+    const openingHoursSpecification = toOpeningHoursSpecification(entry.openingHours);
+    if (openingHoursSpecification.length > 0) {
+      business.openingHoursSpecification = openingHoursSpecification;
+    }
   }
 
   const graphs: Record<string, unknown>[] = [business, breadcrumbs];
@@ -162,15 +245,18 @@ export function buildCollectionJsonLd(
   entries: NormalizedEntry[],
   stats: AggregateStats,
   faq?: Array<{ question: string; answer: string }>,
+  page = 1,
 ): Record<string, unknown> {
+  // The last breadcrumb must match the page's own canonical URL, so a
+  // paginated call (page > 1) needs the page-N path, not page 1's.
   const path =
     type === "category"
-      ? categoryPath(item.slug)
+      ? categoryPath(item.slug, page)
       : type === "area"
-        ? areaPath(item.slug)
+        ? areaPath(item.slug, page)
         : type === "association"
-          ? associationPath(item.slug)
-          : indicationPath(item.slug);
+          ? associationPath(item.slug, page)
+          : indicationPath(item.slug, page);
   const associationShort = item.abbreviation ?? item.name;
   const listName =
     type === "indication"

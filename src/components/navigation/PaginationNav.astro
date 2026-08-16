@@ -11,7 +11,10 @@ const { currentPage, totalPages, basePath } = Astro.props;
 const pages = pageNumbers(currentPage, totalPages);
 
 function hrefForPage(page: number): string {
-  return page <= 1 ? basePath : `${basePath}/${page}`;
+  // basePath is a directory-style path ending in "/" (see src/lib/routing/paths.ts);
+  // strip that trailing slash before appending the page segment so we don't
+  // emit a double slash, then re-add the trailing slash for consistency.
+  return page <= 1 ? basePath : `${basePath.replace(/\/$/, "")}/${page}/`;
 }
 ---
 

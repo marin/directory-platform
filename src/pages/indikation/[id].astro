@@ -19,7 +19,7 @@ import {
 import { computeCategoryStats, computeIndicationStats, indicationEntries } from "../../lib/aggregates/compute.ts";
 import { relatedIndications, indicationHubTitle } from "../../lib/data/indication-hubs.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { homePath, indicationPath, indicationsPath, indicationUrl, areaPath } from "../../lib/routing/paths.ts";
+import { homePath, indicationPath, indicationsPath, indicationUrl, areaPath, areasPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import siteConfig from "../../../config/site.config.ts";
 
@@ -95,7 +95,7 @@ const areaItems = dataset.areas.map((area) => ({
     <FilterBar
       label="Bezirk wählen"
       items={areaItems}
-      indexHref="/area"
+      indexHref={areasPath()}
       dialogId={`filter-${indication.slug}`}
     />
 
@@ -108,7 +108,7 @@ const areaItems = dataset.areas.map((area) => ({
         headline={`Für ${indication.name} liegt uns kein Eintrag vor.`}
         note="Das heißt nicht, dass es keine Praxis gibt — nur, dass wir keine erfasst haben. Kennen Sie eine?"
         actions={[
-          { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
+          { label: "Praxis eintragen", href: "/eintrag-melden/", kind: "primary" },
           { label: "Alle Beschwerden", href: indicationsPath() },
         ]}
       />

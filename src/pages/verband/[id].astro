@@ -23,7 +23,7 @@ import {
   associationShortName,
 } from "../../lib/data/association-hubs.ts";
 import { buildCollectionJsonLd } from "../../lib/seo/structured-data/builders.ts";
-import { homePath, associationPath, associationsPath, associationUrl, areaPath } from "../../lib/routing/paths.ts";
+import { homePath, associationPath, associationsPath, associationUrl, areaPath, areasPath } from "../../lib/routing/paths.ts";
 import { pageSlice, totalPages as computeTotalPages } from "../../lib/pagination.ts";
 import siteConfig from "../../../config/site.config.ts";
 
@@ -100,7 +100,7 @@ const areaItems = dataset.areas.map((area) => ({
     <FilterBar
       label="Bezirk wählen"
       items={areaItems}
-      indexHref="/area"
+      indexHref={areasPath()}
       dialogId={`filter-${association.slug}`}
     />
 
@@ -113,7 +113,7 @@ const areaItems = dataset.areas.map((area) => ({
         headline={`Für ${shortName} liegt uns kein Eintrag vor.`}
         note="Das heißt nicht, dass es keine Mitgliedspraxis gibt — nur, dass wir keine erfasst haben."
         actions={[
-          { label: "Praxis eintragen", href: "/eintrag-melden", kind: "primary" },
+          { label: "Praxis eintragen", href: "/eintrag-melden/", kind: "primary" },
           { label: "Alle Verbände", href: associationsPath() },
         ]}
       />

@@ -1,6 +1,6 @@
 ---
 import siteConfig from "../../../config/site.config.ts";
-import { indicationsPath, associationsPath } from "../../lib/routing/paths.ts";
+import { indicationsPath, associationsPath, methodsPath, areasPath } from "../../lib/routing/paths.ts";
 
 interface Props {
   /** Wird nicht mehr ausgewertet — die Navigation hat vier feste Ziele (A1). */
@@ -8,13 +8,13 @@ interface Props {
 }
 
 const links = [
-  { href: "/methoden", label: "Methoden" },
+  { href: methodsPath(), label: "Methoden" },
   { href: indicationsPath(), label: "Beschwerden" },
-  { href: "/area", label: "Bezirke" },
+  { href: areasPath(), label: "Bezirke" },
   { href: associationsPath(), label: "Verbände" },
 ];
 const current = Astro.url.pathname;
-const isActive = (href: string) => current === href || current.startsWith(`${href}/`);
+const isActive = (href: string) => current === href || current.startsWith(href);
 ---
 
 <header class="siteheader">
@@ -33,7 +33,7 @@ const isActive = (href: string) => current === href || current.startsWith(`${hre
           </li>
         ))}
       </ul>
-      <a href="/eintrag-melden" class="siteheader__pill">Praxis eintragen</a>
+      <a href="/eintrag-melden/" class="siteheader__pill">Praxis eintragen</a>
     </nav>
 
     <details class="siteheader__drawer">
@@ -51,7 +51,7 @@ const isActive = (href: string) => current === href || current.startsWith(`${hre
               </a>
             </li>
           ))}
-          <li><a href="/eintrag-melden" class="siteheader__pill">Praxis eintragen</a></li>
+          <li><a href="/eintrag-melden/" class="siteheader__pill">Praxis eintragen</a></li>
         </ul>
       </nav>
     </details>

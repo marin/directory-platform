@@ -115,11 +115,11 @@ describe("JSON-LD serializer", () => {
 describe("redirects", () => {
   it("emits vercel redirect format", () => {
     const config = emitVercelRedirects([
-      { from: "/provider/old", to: "/category/wellness-massage", status: 301 },
+      { from: "/provider/old", to: "/methoden/wellness-massage", status: 301 },
     ]);
     expect(config.redirects[0]).toEqual({
       source: "/provider/old",
-      destination: "/category/wellness-massage",
+      destination: "/methoden/wellness-massage",
       permanent: true,
     });
   });

@@ -311,7 +311,7 @@ describe("buildListingJsonLd", () => {
       {
         "@type": "Organization",
         name: "Verband der Osteopathen Deutschland (VOD)",
-        url: `${siteConfig.site.origin}/verband/vod`,
+        url: `${siteConfig.site.origin}/verband/vod/`,
       },
     ]);
   });

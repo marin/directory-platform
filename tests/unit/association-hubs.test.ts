@@ -23,14 +23,14 @@ import {
 
 describe("association paths", () => {
   it("builds hub and paginated paths", () => {
-    expect(associationPath("vod")).toBe("/verband/vod");
-    expect(associationPath("vod", 2)).toBe("/verband/vod/2");
-    expect(associationUrl("vod")).toBe(`${siteConfig.site.origin}/verband/vod`);
+    expect(associationPath("vod")).toBe("/verband/vod/");
+    expect(associationPath("vod", 2)).toBe("/verband/vod/2/");
+    expect(associationUrl("vod")).toBe(`${siteConfig.site.origin}/verband/vod/`);
   });
 
   it("builds the association index path", () => {
-    expect(associationsPath()).toBe("/verband");
-    expect(associationsUrl()).toBe(`${siteConfig.site.origin}/verband`);
+    expect(associationsPath()).toBe("/verband/");
+    expect(associationsUrl()).toBe(`${siteConfig.site.origin}/verband/`);
   });
 });
 

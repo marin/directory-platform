@@ -35,7 +35,7 @@ const entryRoute = siteConfig.directory.entryRoute;
 <script is:inline define:vars={{ origin, entryRoute }}>
   const slug = new URLSearchParams(window.location.search).get("eintrag");
   if (slug) {
-    const listingUrl = `${origin}/${entryRoute}/${slug}`;
+    const listingUrl = `${origin}/${entryRoute}/${slug}/`;
     const listingInput = document.getElementById("listing-url");
     if (listingInput instanceof HTMLInputElement) listingInput.value = listingUrl;
     const subject = document.querySelector('select[name="subject"]');
