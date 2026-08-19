@@ -278,5 +278,9 @@ const ogLocale = siteConfig.site.defaultLocale.replace("-", "_");
     </main>
     <SiteFooter />
     <CookieConsent />
+    <script>
+      import { inject } from '@vercel/analytics';
+      inject();
+    </script>
   </body>
 </html>
